@@ -1,0 +1,484 @@
+{
+  "slug": "rockets",
+  "title": "Rockets & Spaceflight",
+  "emoji": "🚀",
+  "tagline": "From fire arrows to footprints on the Moon — and onward to Mars",
+  "intro": "Ten, nine, eight... Have you ever wondered how a machine can fling people faster than a bullet, above the sky, and all the way to the Moon? This Deep Dive tells the whole story in 20 parts. We start a thousand years ago in China, where gunpowder fire arrows first whooshed across battlefields. We meet dreamers who were laughed at — a deaf Russian schoolteacher, a quiet American physics professor and a German student who wrote rocket books. We follow the dark wartime rockets of World War II, then the space race between the United States and the Soviet Union: Sputnik, Laika, Yuri Gagarin, and the Apollo astronauts who walked on the Moon. You will learn how rockets really work, why orbit is just falling sideways, and why space is dangerous. Then come the Space Shuttle, the International Space Station, rockets that land themselves, and robots on Mars. Strap in — liftoff!",
+  "outline": [
+    {
+      "n": 1,
+      "title": "Dreaming of the Sky",
+      "when": "Ancient times – 1600s",
+      "covers": [
+        "Humans have always looked up: the Moon, stars and planets in myths and early astronomy",
+        "The Greek myth of Icarus and Daedalus (a legend, not history) as an early 'flying dream'",
+        "Archytas's wooden 'pigeon' (around 400 BCE) and Hero of Alexandria's aeolipile (1st century CE) — steam/air pushing an object; explain these as early action–reaction toys, NOT rockets, and say the pigeon story is only known from later writers",
+        "Lucian of Samosata's 'A True Story' (2nd century CE) — one of the oldest stories about travelling to the Moon",
+        "Johannes Kepler's 'Somnium' (written around 1608, published 1634), a dream-journey to the Moon",
+        "The big problem: nobody knew how anything could travel where there is no air to push on"
+      ],
+      "keyFacts": [
+        "Hero of Alexandria described the aeolipile, a spinning steam ball, in the 1st century CE",
+        "Kepler's Somnium was published in 1634, after his death in 1630",
+        "Lucian wrote 'A True Story' in the 2nd century CE as a joke adventure that includes a trip to the Moon"
+      ],
+      "hook": "End with the idea that the answer would not come from steam or myths, but from a strange black powder discovered by alchemists in China."
+    },
+    {
+      "n": 2,
+      "title": "Fire Arrows of China",
+      "when": "800s – 1300s",
+      "covers": [
+        "Chinese alchemists searching for medicines of long life discovered gunpowder (saltpeter, charcoal, sulfur) around the 9th century, in the Tang dynasty",
+        "The 'Wujing Zongyao' (1044), a Song dynasty military book that gives some of the earliest written gunpowder recipes",
+        "Early 'fire arrows' were arrows carrying burning gunpowder; later, tubes of gunpowder tied to arrows pushed the arrow by themselves — the first true rockets (probably by the 1200s)",
+        "Siege of Kaifeng in 1232: Jin defenders used 'arrows of flying fire' against the Mongols (explain historians debate exactly what these were)",
+        "Rockets spread by the 1200s–1300s to the Mongols, the Islamic world (Hasan al-Rammah's book, around 1280) and Europe",
+        "Fireworks and celebrations as well as war",
+        "The legend of Wan Hu and his chair with 47 rockets — clearly label it a LEGEND with no historical evidence"
+      ],
+      "keyFacts": [
+        "Gunpowder's three ingredients: saltpeter (potassium nitrate), charcoal and sulfur",
+        "The Wujing Zongyao was compiled in 1044",
+        "The Mongol siege of Kaifeng was in 1232"
+      ],
+      "hook": "End by saying rockets became a common weapon for centuries — and then, in India, a ruler made them far more powerful."
+    },
+    {
+      "n": 3,
+      "title": "Iron Rockets and the Red Glare",
+      "when": "1600s – 1800s",
+      "covers": [
+        "Kazimierz Siemienowicz's book on artillery and rockets (1650), which described multi-stage rockets",
+        "Isaac Newton's third law of motion (published 1687 in the Principia): every action has an equal and opposite reaction — the law that explains every rocket",
+        "Mysorean rockets of Hyder Ali and Tipu Sultan (1780s–1799): iron-cased rockets used against the British East India Company",
+        "William Congreve's rockets (from 1804) copied and improved from captured Mysore rockets",
+        "War of 1812: the British attack on Fort McHenry in 1814 and 'the rockets' red glare' in Francis Scott Key's poem that became the US national anthem",
+        "William Hale's spin-stabilized rocket (1844) and why rockets lost out to better cannons in the late 1800s"
+      ],
+      "keyFacts": [
+        "Newton's Principia was published in 1687",
+        "Tipu Sultan died in 1799 at the Siege of Seringapatam",
+        "The bombardment of Fort McHenry was on 13–14 September 1814"
+      ],
+      "hook": "End with rockets nearly forgotten as weapons — just as a few dreamers began to imagine them as spaceships."
+    },
+    {
+      "n": 4,
+      "title": "The Dreamers: Verne and Tsiolkovsky",
+      "when": "1865 – 1935",
+      "covers": [
+        "Jules Verne's novel 'From the Earth to the Moon' (1865) — astronauts fired from a giant cannon; it inspired many future rocket scientists",
+        "Konstantin Tsiolkovsky (1857–1935): mostly deaf from childhood scarlet fever, taught himself from library books, worked as a schoolteacher in Kaluga",
+        "His 1903 article 'Exploration of Outer Space by Means of Reaction Devices' and the rocket equation (explain only the idea: faster exhaust and more fuel compared with weight = more speed)",
+        "His ideas: liquid hydrogen and oxygen fuel, multi-stage 'rocket trains', space stations, spacesuits",
+        "His famous line, usually quoted as 'Earth is the cradle of humanity, but one cannot live in the cradle forever'",
+        "Why a cannon cannot work for people (the crushing acceleration) — and why rockets can"
+      ],
+      "keyFacts": [
+        "'From the Earth to the Moon' was published in 1865",
+        "Tsiolkovsky published his key rocket article in 1903, the same year as the Wright brothers' first powered flight",
+        "Tsiolkovsky lived 1857–1935"
+      ],
+      "hook": "End by crossing the ocean to a sickly American boy who climbed a cherry tree in 1899 and dreamed of going to Mars."
+    },
+    {
+      "n": 5,
+      "title": "Goddard's Strange Little Rocket",
+      "when": "1899 – 1945",
+      "covers": [
+        "Robert H. Goddard (1882–1945) and his 'cherry tree' day dream, 19 October 1899, which he celebrated every year",
+        "His 1919 paper 'A Method of Reaching Extreme Altitudes', funded by the Smithsonian",
+        "The 1920 New York Times editorial that mocked him, wrongly claiming a rocket cannot work in a vacuum — and the newspaper's correction in July 1969 during Apollo 11",
+        "The world's first liquid-fuelled rocket: 16 March 1926, Auburn, Massachusetts, gasoline and liquid oxygen; it flew about 2.5 seconds, rose about 12.5 m (41 ft) and landed about 56 m (184 ft) away",
+        "His later work in Roswell, New Mexico, funded partly by the Guggenheim family with Charles Lindbergh's help; gyroscope steering and many patents (over 200 in total, many granted after his death)",
+        "Fair credit: Goddard worked largely alone and secretively, so his work influenced others less than it could have"
+      ],
+      "keyFacts": [
+        "First liquid-fuel rocket flight: 16 March 1926",
+        "The New York Times printed its correction on 17 July 1969",
+        "NASA's Goddard Space Flight Center (founded 1959) is named after him"
+      ],
+      "hook": "End by noting that, while Goddard worked alone, in Germany a whole club of young rocket fans was forming."
+    },
+    {
+      "n": 6,
+      "title": "Oberth and the Rocket Clubs",
+      "when": "1923 – 1937",
+      "covers": [
+        "Hermann Oberth (1894–1989) and his 1923 book 'The Rocket into Planetary Space', written after his PhD thesis was rejected",
+        "The German rocket society VfR (Verein für Raumschiffahrt), founded in 1927, with members including a teenage Wernher von Braun",
+        "The 1929 film 'Woman in the Moon' by Fritz Lang, for which Oberth was adviser; it is often credited with inventing the backwards countdown",
+        "Rocket clubs elsewhere: the Soviet GIRD group (1931) with Friedrich Zander and Sergei Korolev; GIRD-09 flew in 1933; the American Rocket Society",
+        "Rocket cars and stunts (Opel RAK cars, 1928) and the dangers of early experiments",
+        "The German army's interest because rockets were not banned by the Treaty of Versailles; von Braun joins the army program in 1932"
+      ],
+      "keyFacts": [
+        "Oberth's book was published in 1923",
+        "The VfR was founded in 1927",
+        "The Soviet GIRD-09 rocket flew on 17 August 1933"
+      ],
+      "hook": "End ominously: the dreamers' rockets were about to become weapons of a terrible war."
+    },
+    {
+      "n": 7,
+      "title": "The V-2: A Rocket's Dark Side",
+      "when": "1937 – 1945",
+      "covers": [
+        "The Nazi German army rocket base at Peenemünde, led by Walter Dornberger with Wernher von Braun as technical director",
+        "The A-4 rocket, renamed V-2 ('Vengeance Weapon 2'): first successful launch 3 October 1942; about 14 m tall; alcohol and liquid oxygen; too fast to be shot down",
+        "June 1944: a V-2 test rocket became the first human-made object to reach space (about 175 km high)",
+        "From September 1944 about 3,000 V-2s were fired at cities such as London and Antwerp, killing thousands of civilians",
+        "The Mittelwerk underground factory at Mittelbau-Dora where concentration-camp prisoners were forced to build V-2s; more people died building the V-2 than were killed by it",
+        "Tell this honestly but gently for young readers; avoid graphic details"
+      ],
+      "keyFacts": [
+        "First successful V-2 launch: 3 October 1942",
+        "A V-2 test flight in June 1944 reached space, roughly 175 km up",
+        "Historians estimate V-2 attacks killed about 5,000–9,000 people, while around 10,000–20,000 forced labourers died building them"
+      ],
+      "hook": "End with the war's end in 1945 and both the Americans and the Soviets racing to grab German rockets and engineers."
+    },
+    {
+      "n": 8,
+      "title": "Two Rivals, Secret Rockets",
+      "when": "1945 – 1957",
+      "covers": [
+        "Operation Paperclip: von Braun and over 100 German rocket engineers taken to the US; V-2 tests at White Sands, New Mexico (and the moral debate about using former Nazis)",
+        "The Soviets collect V-2 parts and engineers too; Sergei Korolev (1907–1966), who had been arrested in 1938 and sent to the Gulag, becomes their secret Chief Designer — his name was kept secret until his death",
+        "The Cold War and nuclear weapons: why both sides wanted missiles that could cross oceans (ICBMs)",
+        "Animals in space: fruit flies on a V-2 in 1947; Soviet dogs on rocket flights from 1951",
+        "Korolev's R-7 'Semyorka', the world's first ICBM, first successful flight August 1957; its design is still used by Soyuz rockets today",
+        "The International Geophysical Year (1957–58) and US plans to launch a scientific satellite (Vanguard)"
+      ],
+      "keyFacts": [
+        "Fruit flies launched on a V-2 on 20 February 1947 were the first animals sent to space and recovered alive",
+        "The R-7 made its first successful flight on 21 August 1957",
+        "Korolev lived 1907–1966"
+      ],
+      "hook": "End on the night of 4 October 1957, when a radio beep from space surprised the whole world."
+    },
+    {
+      "n": 9,
+      "title": "Beep, Beep: Sputnik and Laika",
+      "when": "1957 – 1958",
+      "covers": [
+        "Sputnik 1, launched 4 October 1957 from Baikonur: a 58 cm metal ball with four antennas, 83.6 kg, beeping on radio; it circled Earth about every 96 minutes",
+        "Worldwide reaction: amateur radio fans listening; Americans shocked and scared ('Sputnik crisis')",
+        "Sputnik 2 (3 November 1957) carried Laika, a stray dog from Moscow; she died within hours from overheating — there was never a plan to bring her back",
+        "US failure: Vanguard TV-3 exploded on the pad on 6 December 1957 (nicknamed 'Flopnik')",
+        "Explorer 1 (31 January 1958), built by JPL with a von Braun team rocket; James Van Allen's instrument discovered the radiation belts now named after him",
+        "NASA is created (began work 1 October 1958); new focus on science education in American schools"
+      ],
+      "keyFacts": [
+        "Sputnik 1: 4 October 1957, 83.6 kg",
+        "Explorer 1: 31 January 1958, first US satellite",
+        "NASA officially began operating on 1 October 1958"
+      ],
+      "hook": "End by asking: if a dog could go to orbit, when would a human — and which country would be first?"
+    },
+    {
+      "n": 10,
+      "title": "How Rockets Work (Part 1): Push and Fall",
+      "when": "Science explainer",
+      "covers": [
+        "Newton's third law with everyday examples: a balloon let go, a skateboarder throwing a heavy ball, a garden hose",
+        "Why rockets work BETTER in space: they push on their own exhaust, not on air",
+        "Rockets must carry their own oxidizer because there is no air (oxygen) in space; difference from jet engines",
+        "Thrust vs. weight: a rocket only lifts off when thrust is greater than its weight",
+        "What orbit really is: Newton's cannonball thought experiment — going so fast sideways (about 7.8 km/s, around 28,000 km/h) that you keep falling around the Earth",
+        "Where space begins: the Kármán line at 100 km is a common convention (the US Air Force and NASA have used 80 km / 50 miles)",
+        "Why astronauts float: they are in free fall, not in 'zero gravity'"
+      ],
+      "keyFacts": [
+        "Low Earth orbit speed is about 7.8 km/s (about 28,000 km/h)",
+        "At the ISS's height (about 400 km), gravity is still about 90% as strong as on the ground",
+        "Escape velocity from Earth's surface is about 11.2 km/s"
+      ],
+      "hook": "End by saying knowing the science is one thing; strapping a human on top of a rocket was the next giant gamble."
+    },
+    {
+      "n": 11,
+      "title": "First Humans in Space",
+      "when": "1959 – 1965",
+      "covers": [
+        "Space dogs Belka and Strelka orbit and return alive (August 1960); chimpanzee Ham flies for the US (January 1961)",
+        "Yuri Gagarin (1934–1968), Vostok 1, 12 April 1961: one orbit, about 108 minutes; his cry 'Poyekhali!' ('Let's go!'); he ejected and landed by his own parachute, which the Soviets kept secret for years",
+        "Alan Shepard, Freedom 7 (5 May 1961): first American in space, a 15-minute suborbital hop; the Mercury Seven astronauts",
+        "John Glenn, Friendship 7 (20 February 1962): first American to orbit; Katherine Johnson checked the computer's trajectory numbers by hand at Glenn's request",
+        "Valentina Tereshkova, Vostok 6 (16 June 1963): first woman in space, nearly three days in orbit",
+        "Alexei Leonov's first spacewalk (18 March 1965) from Voskhod 2 — his suit ballooned and he had to let air out to squeeze back in"
+      ],
+      "keyFacts": [
+        "Gagarin's flight: 12 April 1961, about 108 minutes",
+        "Tereshkova flew 48 orbits over almost three days in June 1963",
+        "Leonov's spacewalk lasted about 12 minutes outside the craft"
+      ],
+      "hook": "End with President Kennedy's bold challenge: put a man on the Moon before the decade is out."
+    },
+    {
+      "n": 12,
+      "title": "Race to the Moon",
+      "when": "1961 – 1968",
+      "covers": [
+        "Kennedy's speech to Congress (25 May 1961) and his 'We choose to go to the Moon' speech at Rice University (12 September 1962)",
+        "Robot explorers first: Soviet Luna 2 hits the Moon (1959), Luna 3 photographs the far side (1959), Luna 9 makes the first soft landing (1966); US Ranger and Surveyor probes",
+        "Project Gemini (1965–66): two-person flights practising rendezvous (Gemini 6A and 7, December 1965), first docking (Gemini 8, March 1966, Neil Armstrong) and long missions",
+        "Apollo 1 fire (27 January 1967): Gus Grissom, Ed White and Roger Chaffee die in a ground test; NASA redesigns the spacecraft",
+        "Soyuz 1 (April 1967): Vladimir Komarov dies when his parachute fails; Korolev's death in 1966 had hurt the Soviet program",
+        "Apollo 8 (December 1968): Frank Borman, Jim Lovell and Bill Anders are the first humans to orbit the Moon; Anders takes the 'Earthrise' photo on 24 December",
+        "The hidden workforce: about 400,000 people worked on Apollo"
+      ],
+      "keyFacts": [
+        "Kennedy's Rice University speech: 12 September 1962",
+        "Apollo 8 orbited the Moon 10 times in December 1968",
+        "Around 400,000 people worked on the Apollo program at its peak"
+      ],
+      "hook": "End with the giant Saturn V standing on the launch pad in July 1969, ready for the most famous trip ever."
+    },
+    {
+      "n": 13,
+      "title": "The Eagle Has Landed",
+      "when": "1969 – 1972",
+      "covers": [
+        "The Saturn V: about 110 m (363 ft) tall, about 2,900 tonnes fully fuelled, five F-1 engines in the first stage, three stages",
+        "Apollo 11 crew: Neil Armstrong, Buzz Aldrin, Michael Collins; launch 16 July 1969",
+        "The landing on 20 July 1969: '1202' computer alarms (the software, led by Margaret Hamilton's team at MIT, kept the important jobs running), boulders, and fuel running low",
+        "Armstrong's first step (21 July UTC) and 'That's one small step for [a] man, one giant leap for mankind'; about 600 million people watched",
+        "Apollo 13 (April 1970): an oxygen tank explodes; 'Houston, we've had a problem'; the crew survives using the lunar module as a lifeboat",
+        "Apollo 12–17: 12 men walked on the Moon; the lunar rover; last steps by Gene Cernan in December 1972; 382 kg of Moon rocks brought back",
+        "The Soviet N1 Moon rocket failed in all four launches (1969–1972); the USSR used robots instead (Luna 16 sample return 1970, Lunokhod 1 rover 1970)"
+      ],
+      "keyFacts": [
+        "Eagle landed on 20 July 1969 at 20:17 UTC",
+        "Twelve astronauts walked on the Moon between 1969 and 1972",
+        "Apollo missions returned about 382 kg (842 lb) of lunar samples"
+      ],
+      "hook": "End with the question that followed: after the Moon, what next? The answer was a home in orbit and a spaceship you could fly again."
+    },
+    {
+      "n": 14,
+      "title": "How Rockets Work (Part 2): Fuel, Stages and Coming Home",
+      "when": "Science explainer",
+      "covers": [
+        "Liquid vs. solid rocket fuel: examples (kerosene/oxygen in the F-1; hydrogen/oxygen; solid boosters like fireworks), pros and cons",
+        "Engine parts in simple words: combustion chamber, nozzle, turbopumps; why the bell-shaped nozzle speeds up the gas",
+        "The rocket equation idea again, with the 'fuel problem': most of a rocket is fuel (about 85–90% of a Saturn V's launch mass)",
+        "Staging: dropping empty tanks so you don't carry dead weight (use Saturn V as the example)",
+        "Steering: gimballed engines, fins, gyroscopes and guidance computers",
+        "Re-entry: why returning is hot (compressing air ahead of the capsule, not mainly 'friction'), ablative heat shields, parachutes and splashdowns"
+      ],
+      "keyFacts": [
+        "Returning capsules hit the atmosphere at up to about 11 km/s (Apollo from the Moon)",
+        "Shock-layer temperatures around a returning capsule can reach several thousand degrees Celsius",
+        "The F-1 engine was the most powerful single-chamber liquid-fuel rocket engine ever flown"
+      ],
+      "hook": "End by noting that throwing away whole rockets each flight was hugely expensive — so engineers tried to build a reusable spaceship."
+    },
+    {
+      "n": 15,
+      "title": "Space Stations and the Space Shuttle",
+      "when": "1971 – 2011",
+      "covers": [
+        "Salyut 1 (1971), the first space station; the Soyuz 11 crew died during return when their cabin lost air; Skylab (1973–1979); Apollo–Soyuz handshake in July 1975; Mir (1986–2001)",
+        "The Space Shuttle: first launch 12 April 1981 (Columbia, John Young and Robert Crippen); orbiter, external tank and two solid rocket boosters; landed like a glider",
+        "Shuttle firsts: Sally Ride (1983) first American woman in space; Guion Bluford (1983) first African American in space; Mae Jemison (1992) first African American woman in space",
+        "Hubble Space Telescope launched by Discovery in 1990 and fixed by spacewalking astronauts in 1993",
+        "Tragedies: Challenger (28 January 1986, O-ring seal failure in cold weather, seven lost including teacher Christa McAuliffe) and Columbia (1 February 2003, foam damage to the wing, seven lost including Kalpana Chawla and Ilan Ramon)",
+        "The Soviet Buran shuttle flew once without crew (1988); the Shuttle retired in 2011 after 135 missions"
+      ],
+      "keyFacts": [
+        "The Space Shuttle flew 135 missions from 1981 to 2011",
+        "Mir stayed in orbit for 15 years, 1986–2001",
+        "The last Shuttle mission, STS-135 (Atlantis), landed on 21 July 2011"
+      ],
+      "hook": "End by introducing the biggest project ever built in space — a station made by former rivals working together."
+    },
+    {
+      "n": 16,
+      "title": "The International Space Station",
+      "when": "1998 – today",
+      "covers": [
+        "Partners: NASA (USA), Roscosmos (Russia), ESA (Europe), JAXA (Japan) and CSA (Canada); first module Zarya launched 20 November 1998",
+        "People have lived aboard continuously since 2 November 2000 — kids reading this have never known a time with nobody in space",
+        "Size and speed: about 109 m across (about the length of a football field), about 420 tonnes, orbits roughly every 90 minutes, about 16 sunrises a day",
+        "Daily life: sleeping bags on walls, exercise two hours a day, recycling water, food, toilets",
+        "Science aboard: plants, the human body, materials; the robotic arm Canadarm2",
+        "Other nations rise: China's first astronaut Yang Liwei (2003) and the Tiangong space station (core module 2021); India's and other countries' programs"
+      ],
+      "keyFacts": [
+        "ISS continuously crewed since 2 November 2000",
+        "The ISS orbits about 400 km above Earth at about 28,000 km/h",
+        "Astronauts lose bone and muscle in weightlessness, which is why they exercise about 2 hours daily"
+      ],
+      "hook": "End by turning from people to robots — machines that travelled much further than any astronaut."
+    },
+    {
+      "n": 17,
+      "title": "Robot Explorers and the Road to Mars",
+      "when": "1962 – today",
+      "covers": [
+        "Mariner 2 (Venus flyby, 1962) and Mariner 4 (first Mars close-up photos, 1965); Soviet Venera landers on Venus (Venera 7, 1970)",
+        "Voyager 1 and 2 (1977): gravity assists explained simply; Voyager 1 entered interstellar space in 2012",
+        "Mars landings: Soviet Mars 3 (1971, stopped sending after about 20 seconds), Viking 1 (1976), Sojourner (1997), Spirit and Opportunity (2004; Opportunity lasted until 2018 instead of 90 days)",
+        "Curiosity (landed 6 August 2012 by 'sky crane') and Perseverance (18 February 2021) with the Ingenuity helicopter, first powered flight on another planet (19 April 2021)",
+        "Other nations: China's Zhurong rover (2021); India's Mangalyaan reached Mars orbit on its first try (2014); UAE's Hope orbiter (2021)",
+        "Why Mars is hard: a trip of about 7 months, launch windows about every 26 months, thin air for landing, radiation, communication delays of several minutes up to around 20 minutes"
+      ],
+      "keyFacts": [
+        "Viking 1 landed on Mars on 20 July 1976, exactly 7 years after Apollo 11's landing",
+        "Ingenuity made 72 flights between 2021 and 2024",
+        "Earth–Mars launch windows open roughly every 26 months"
+      ],
+      "hook": "End by noting that every one of these missions threw its rocket away — until a company decided to land rockets and fly them again."
+    },
+    {
+      "n": 18,
+      "title": "Rockets That Land: The New Space Age",
+      "when": "2000 – today",
+      "covers": [
+        "New companies: SpaceX (founded 2002 by Elon Musk), Blue Origin (founded 2000 by Jeff Bezos), Rocket Lab (Peter Beck); the idea of making launches far cheaper",
+        "Falcon 1 reaches orbit on its fourth try (28 September 2008) after three failures — persistence",
+        "First landings: Blue Origin's New Shepard (suborbital, 23 November 2015) and SpaceX Falcon 9 first stage landing (orbital launch, 21 December 2015); how a booster flips, relights and lands on legs or a drone ship",
+        "Commercial flights to the ISS: Dragon cargo (2012); Crew Dragon Demo-2 carries Bob Behnken and Doug Hurley (30 May 2020), first crew launch from the US since 2011",
+        "Starship: the largest rocket ever flown, test flights from 2023; on 13 October 2024 the Super Heavy booster was caught by the launch tower's 'chopsticks'",
+        "Space tourism and private astronauts, and the downside: thousands of small satellites (megaconstellations) crowding orbit"
+      ],
+      "keyFacts": [
+        "First Falcon 9 booster landing: 21 December 2015",
+        "Crew Dragon Demo-2 launched on 30 May 2020",
+        "Reusing boosters has made launches much cheaper per kilogram than in the Shuttle era"
+      ],
+      "hook": "End by asking whether all this rocket power comes with costs — for people, for the planet and for space itself."
+    },
+    {
+      "n": 19,
+      "title": "The Dangers and the Debates",
+      "when": "1940s – today",
+      "covers": [
+        "The human cost: astronauts and cosmonauts lost (Apollo 1, Soyuz 1, Soyuz 11, Challenger, Columbia) and ground disasters such as the Nedelin catastrophe (October 1960, a Soviet missile exploded on the pad, killing many dozens)",
+        "Rockets as weapons: the V-2's legacy, nuclear missiles, and the Outer Space Treaty (1967) which bans nuclear weapons in orbit and claims on the Moon",
+        "Space junk: millions of small fragments; the 2009 Iridium–Cosmos satellite collision; anti-satellite tests (e.g. China 2007); the Kessler syndrome idea",
+        "Environmental questions: rocket exhaust, launch-site impacts, satellite streaks bothering astronomers",
+        "Cost debates: should money be spent in space or on problems on Earth? Also the spinoffs that came from space work (weather satellites, GPS, satellite TV, scratch-resistant lens coatings, better water filters)",
+        "Fairness: who gets to go, and whose work was hidden (e.g. Katherine Johnson and the women 'computers', the forced labourers of the V-2)"
+      ],
+      "keyFacts": [
+        "The Outer Space Treaty was signed in 1967",
+        "The first accidental collision between two whole satellites happened on 10 February 2009 (Iridium 33 and Cosmos 2251)",
+        "Tens of thousands of pieces of space debris larger than about 10 cm are tracked in orbit"
+      ],
+      "hook": "End by looking ahead: despite the dangers, people are getting ready to go back to the Moon — and beyond."
+    },
+    {
+      "n": 20,
+      "title": "Back to the Moon, On to Mars",
+      "when": "Today – the future",
+      "covers": [
+        "Artemis program: Artemis I (uncrewed Orion around the Moon, November 2022 on the SLS rocket); Artemis II crew Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen planned to fly around the Moon in 2026; later missions aim to land near the Moon's south pole (describe future dates as plans that may change)",
+        "Recent Moon landings by other countries: China's Chang'e 4 (first far-side landing, 2019), Chang'e 5 and 6 sample returns (2020, 2024), India's Chandrayaan-3 near the south pole (2023)",
+        "Why the south pole: water ice in shadowed craters could become drinking water, air and rocket fuel",
+        "Getting people to Mars: radiation, long trips, growing food, landing heavy ships; ideas like nuclear propulsion and ion engines (already used on probes such as Dawn)",
+        "Tie the whole story together: from Chinese fire arrows through Newton, Tsiolkovsky, Goddard, Korolev, von Braun, Gagarin and Armstrong, to reusable boosters — each step built on the last, by many people in many countries",
+        "End with an inspiring invitation to the reader: the first people on Mars may be kids today"
+      ],
+      "keyFacts": [
+        "Artemis I launched on 16 November 2022",
+        "India's Chandrayaan-3 landed on 23 August 2023, the first landing near the lunar south pole",
+        "China's Chang'e 4 made the first soft landing on the Moon's far side on 3 January 2019"
+      ],
+      "hook": "Close the whole Deep Dive with a countdown that ends with the reader imagining their own liftoff."
+    }
+  ],
+  "people": [
+    "Hero of Alexandria (1st century CE) — Greek engineer who described the aeolipile, a spinning steam ball showing action and reaction",
+    "Hasan al-Rammah (died 1294/95) — Syrian writer whose military book (around 1280) described rockets and gunpowder recipes",
+    "Kazimierz Siemienowicz (around 1600 – around 1651) — Polish-Lithuanian artillery expert whose 1650 book described multi-stage rockets",
+    "Isaac Newton (1643–1727) — English scientist whose third law of motion (1687) explains how rockets move",
+    "Hyder Ali (around 1720–1782) and Tipu Sultan (1751–1799) — rulers of Mysore, India, whose armies used iron-cased war rockets",
+    "William Congreve (1772–1828) — British inventor who developed the Congreve rocket from Mysorean designs",
+    "Francis Scott Key (1779–1843) — American lawyer whose poem about Fort McHenry mentions 'the rockets' red glare'",
+    "Jules Verne (1828–1905) — French author of 'From the Earth to the Moon' (1865), which inspired rocket pioneers",
+    "Konstantin Tsiolkovsky (1857–1935) — Russian schoolteacher and self-taught scientist; father of spaceflight theory and the rocket equation",
+    "Robert H. Goddard (1882–1945) — American physicist who launched the first liquid-fuelled rocket (1926)",
+    "Hermann Oberth (1894–1989) — German-speaking physicist from Transylvania; wrote 'The Rocket into Planetary Space' (1923)",
+    "Fritz Lang (1890–1976) — film director of 'Woman in the Moon' (1929), which popularised the countdown",
+    "Wernher von Braun (1912–1977) — German engineer who led V-2 development for Nazi Germany (and was an SS member), later led the US team that built the Saturn V; a hero and a controversial figure",
+    "Walter Dornberger (1895–1980) — German army officer in charge of the V-2 program",
+    "Sergei Korolev (1907–1966) — Soviet Chief Designer behind the R-7, Sputnik and Gagarin's flight; survived the Gulag; his identity was kept secret",
+    "Valentin Glushko (1908–1989) — Soviet rocket engine designer, Korolev's partner and later rival",
+    "James Van Allen (1914–2006) — American physicist whose instrument on Explorer 1 discovered Earth's radiation belts",
+    "Laika (around 1954–1957) — stray Moscow dog, first animal to orbit Earth; did not survive",
+    "Belka and Strelka — Soviet dogs who orbited Earth and returned safely in August 1960",
+    "Ham (1957–1983) — chimpanzee flown by the US on a Mercury suborbital flight in January 1961",
+    "Yuri Gagarin (1934–1968) — Soviet cosmonaut, first human in space (12 April 1961)",
+    "Alan Shepard (1923–1998) — first American in space (1961); later walked on the Moon on Apollo 14",
+    "John Glenn (1921–2016) — first American to orbit Earth (1962); flew again on the Shuttle at age 77 in 1998",
+    "Katherine Johnson (1918–2020) — NASA mathematician who calculated trajectories for Mercury and Apollo flights",
+    "Valentina Tereshkova (born 1937) — Soviet cosmonaut, first woman in space (1963)",
+    "Alexei Leonov (1934–2019) — Soviet cosmonaut who made the first spacewalk (1965)",
+    "John F. Kennedy (1917–1963) — US president who set the goal of landing on the Moon",
+    "Gus Grissom (1926–1967), Ed White (1930–1967), Roger Chaffee (1935–1967) — Apollo 1 crew who died in a launch-pad fire",
+    "Vladimir Komarov (1927–1967) — Soviet cosmonaut killed on Soyuz 1",
+    "Frank Borman (1928–2023), Jim Lovell (1928–2025), Bill Anders (1933–2024) — Apollo 8 crew, first humans to orbit the Moon",
+    "Neil Armstrong (1930–2012) — Apollo 11 commander, first person to walk on the Moon",
+    "Buzz Aldrin (born 1930) — Apollo 11 lunar module pilot, second person on the Moon",
+    "Michael Collins (1930–2021) — Apollo 11 command module pilot who orbited the Moon alone",
+    "Margaret Hamilton (born 1936) — MIT software engineer who led the team writing Apollo's onboard flight software",
+    "Gene Cernan (1934–2017) — Apollo 17 commander, last person to walk on the Moon (1972)",
+    "John Young (1930–2018) and Robert Crippen (born 1937) — crew of the first Space Shuttle flight (1981)",
+    "Sally Ride (1951–2012) — first American woman in space (1983)",
+    "Guion Bluford (born 1942) — first African American in space (1983)",
+    "Mae Jemison (born 1956) — first African American woman in space (1992)",
+    "Christa McAuliffe (1948–1986) — teacher chosen to fly on Challenger; died in the 1986 disaster",
+    "Kalpana Chawla (1962–2003) — Indian-born American astronaut who died in the Columbia disaster",
+    "Ilan Ramon (1954–2003) — first Israeli astronaut, died in the Columbia disaster",
+    "Yang Liwei (born 1965) — China's first astronaut (Shenzhou 5, 2003)",
+    "Elon Musk (born 1971) — founder of SpaceX (2002), which developed reusable Falcon 9 boosters and Starship",
+    "Jeff Bezos (born 1964) — founder of Blue Origin (2000), maker of New Shepard and New Glenn",
+    "Bob Behnken (born 1970) and Doug Hurley (born 1966) — first astronauts launched on Crew Dragon (2020)",
+    "Reid Wiseman, Victor Glover, Christina Koch, Jeremy Hansen — Artemis II crew (Koch: first woman, Glover: first Black astronaut, Hansen: first Canadian assigned to a lunar mission)"
+  ],
+  "glossary": [
+    "rocket — a vehicle or engine that moves by shooting hot gas out of the back, pushing itself forward",
+    "thrust — the pushing force a rocket engine makes",
+    "Newton's third law — for every action there is an equal and opposite reaction",
+    "propellant — the fuel and oxidizer a rocket burns",
+    "oxidizer — the chemical (often liquid oxygen) that lets fuel burn where there is no air",
+    "liquid-fuel rocket — a rocket that pumps liquid fuel and oxidizer into an engine; can be throttled or shut off",
+    "solid-fuel rocket — a rocket whose fuel and oxidizer are mixed into a solid block; simple but hard to stop once lit",
+    "nozzle — the bell-shaped opening at the bottom of an engine that speeds up the exhaust",
+    "stage — a section of a rocket with its own engines and fuel that is dropped when empty",
+    "orbit — the curved path of an object falling around a planet so fast it keeps missing the ground",
+    "satellite — any object that orbits a planet; the Moon is natural, Sputnik was the first artificial one",
+    "escape velocity — the speed needed to break free of a planet's gravity without further push (about 11.2 km/s for Earth)",
+    "free fall / weightlessness — the floating feeling astronauts have because they and their spacecraft are falling together; gravity is still there",
+    "Kármán line — a commonly used boundary of space, 100 km above sea level",
+    "suborbital flight — a flight that reaches space but falls back down without completing an orbit",
+    "re-entry — coming back into the atmosphere, when a spacecraft must survive intense heat",
+    "heat shield — a protective layer that keeps a spacecraft from burning up during re-entry",
+    "ICBM — intercontinental ballistic missile, a rocket weapon able to reach other continents",
+    "gravity assist — using a planet's gravity to speed up or bend a spacecraft's path, like a slingshot",
+    "reusable rocket — a rocket (or part of one) that lands and flies again instead of being thrown away"
+  ],
+  "doNotSay": [
+    "Do not say Robert Goddard invented the rocket — rockets existed for centuries; he made the first LIQUID-fuel rocket",
+    "Do not present Wan Hu's rocket chair as real history — it is a legend with no evidence (and may have been invented much later)",
+    "Do not say rockets need air to push against, or don't work in space — they work better in a vacuum",
+    "Do not say there is 'no gravity' in orbit — astronauts float because they are in free fall",
+    "Do not say Sputnik was the first human-made object to reach space — a V-2 test rocket reached space in 1944; Sputnik was the first artificial satellite to orbit",
+    "Do not say Laika survived or was meant to come back — she died within hours",
+    "Do not say Gagarin landed inside his capsule — he ejected and parachuted separately",
+    "Do not suggest the Moon landings were faked — they are thoroughly proven (retroreflectors, 382 kg of Moon rocks, independent tracking including by the USSR)",
+    "Do not repeat the myth that NASA spent millions on a 'space pen' while Russians used pencils — the Fisher pen was privately developed and both countries bought it",
+    "Do not say NASA invented Velcro, Tang or Teflon — they existed before or were developed independently",
+    "Do not say the Great Wall of China is visible to the naked eye from the Moon (or easily from orbit)",
+    "Do not quote Apollo 13 as 'Houston, we have a problem' — the actual words were 'Houston, we've had a problem'",
+    "Do not say re-entry heat is mainly caused by friction — it is mostly from compressing the air in front of the spacecraft",
+    "Do not say the V-2 and von Braun had no connection to forced labour or the Nazi regime — be honest about it",
+    "Do not say Challenger 'exploded' like a bomb — it broke apart after a booster seal failed and the external tank came apart",
+    "Do not say SpaceX was the first company ever to launch a private rocket to orbit — say Falcon 1 was the first privately developed LIQUID-fuel rocket to reach orbit",
+    "Do not give exact future dates for Artemis landings or human Mars missions as certain — describe them as plans that may change",
+    "Do not say a human would instantly explode or freeze solid in space without a suit"
+  ]
+}

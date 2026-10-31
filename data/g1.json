@@ -1,0 +1,930 @@
+[
+  {
+    "id": "writing",
+    "name": "Writing",
+    "emoji": "✍️",
+    "year": -3200,
+    "when": "around 3200 BCE",
+    "where": "Sumer, Mesopotamia (modern Iraq)",
+    "who": "Unknown — ancient Sumerians (also invented separately in Egypt, China and Mesoamerica)",
+    "category": "Communication",
+    "kid": "Long ago, people could only remember things in their heads or tell them out loud. Then the Sumerians started pressing marks into soft clay to keep track of things like grain and sheep. That was the start of writing — a way to make words last!",
+    "explorer": "The oldest known writing system is cuneiform, made in the cities of Sumer more than 5,000 years ago. Scribes pressed a cut reed into wet clay tablets, making wedge-shaped marks. At first it was used mostly for record-keeping, like counting goods and taxes. Over time it grew into a full writing system used for laws, letters, stories and poems.",
+    "expert": "Writing appears to have been invented independently at least three or four times: in Mesopotamia (cuneiform, around 3200 BCE), in Egypt (hieroglyphs, at roughly the same time), in China (oracle-bone script, by around 1200 BCE) and in Mesoamerica. The earliest Mesopotamian tablets are overwhelmingly administrative — lists of rations, livestock and labour — which suggests writing grew out of bureaucracy rather than storytelling. One influential theory holds that it developed from small clay counting tokens, though scholars still debate the details. Early signs were largely pictures of things, but scribes gradually added signs that stood for sounds, letting them write names and grammar. Cuneiform was used for about 3,000 years for many different languages, and it was deciphered in the 1800s.",
+    "how": "Writing turns spoken language into lasting marks that other people can read later. Each sign stands for a word, a syllable or a sound, and everyone who learns the system agrees on what the signs mean.",
+    "before": "People relied on memory, spoken stories, and simple tally marks or tokens to keep track of things.",
+    "impact": "Writing let people keep laws, records, history and science across distances and generations, making large states and libraries possible.",
+    "facts": [
+      "Many of the very first written tablets are basically shopping and storage lists, such as records of grain, beer and animals.",
+      "The word cuneiform comes from the Latin word cuneus, meaning wedge.",
+      "The Rosetta Stone, carved with the same text in three scripts, helped Jean-François Champollion decode Egyptian hieroglyphs in 1822.",
+      "Clay tablets that were baked hard — sometimes when a library burned — survived for thousands of years."
+    ],
+    "ledTo": [
+      "alphabet",
+      "paper",
+      "printing-press"
+    ],
+    "quiz": [
+      {
+        "q": "Where was the oldest known writing system invented?",
+        "a": "Mesopotamia (Sumer)",
+        "wrong": [
+          "Ancient Greece",
+          "Ancient Rome",
+          "Medieval France"
+        ]
+      },
+      {
+        "q": "What did Sumerian scribes write on?",
+        "a": "Clay tablets",
+        "wrong": [
+          "Plastic sheets",
+          "Paper notebooks",
+          "Glass windows"
+        ]
+      }
+    ],
+    "wiki": "Cuneiform"
+  },
+  {
+    "id": "alphabet",
+    "name": "Alphabet",
+    "emoji": "🔤",
+    "year": -1800,
+    "when": "around 1800 BCE",
+    "where": "Sinai and Egypt (Middle East)",
+    "who": "Unknown — Semitic-speaking workers in Egypt and Sinai",
+    "category": "Communication",
+    "kid": "Early writing used hundreds of different picture signs, which were hard to learn. Then people had a clever idea: use a small set of signs, one for each sound! That was the alphabet, and it made reading much easier to learn.",
+    "explorer": "The first alphabet was made almost 4,000 years ago by Semitic-speaking people who worked in Egypt and the Sinai. They borrowed shapes from Egyptian hieroglyphs but used each one for just a single sound. This idea spread to the Phoenicians, sea traders who carried it around the Mediterranean. The Greeks then added letters for vowels, and from Greek came the Latin alphabet that English uses today.",
+    "expert": "The earliest known alphabetic inscriptions, called Proto-Sinaitic, date to roughly 1900–1700 BCE and were found in the Sinai and in Egypt. The key innovation was the acrostic principle: a picture sign stood for the first sound of the word it showed, so the ox-head sign (aleph) became a consonant sound. Early Semitic alphabets, including Phoenician, wrote only consonants — technically an abjad. Around 800 BCE the Greeks adapted Phoenician letters and reused some for vowels, creating what many scholars call the first true alphabet. The Latin alphabet reached Rome by way of the Etruscans, while other descendants include the Hebrew and Arabic scripts; many scholars also think the Brahmi scripts of South Asia grew, more distantly, from the same family. Because an alphabet needs only a few dozen signs, literacy no longer had to be the specialist skill of trained scribes.",
+    "how": "An alphabet uses a small set of letters, each standing for a basic sound. By combining letters in order, you can spell any word in the language.",
+    "before": "People used writing systems with hundreds or thousands of signs, such as cuneiform and hieroglyphs, which took years of training to master.",
+    "impact": "Alphabets made reading and writing far easier to learn, helping literacy spread to many more people across the world.",
+    "facts": [
+      "The word alphabet comes from alpha and beta, the first two Greek letters.",
+      "Our letter A began as a simple picture of an ox's head, turned on its side over time.",
+      "The Phoenicians wrote from right to left, just as Hebrew and Arabic are written today.",
+      "The Rotokas language of Papua New Guinea uses one of the shortest alphabets, with only 12 letters."
+    ],
+    "ledTo": [
+      "printing-press",
+      "braille",
+      "typewriter"
+    ],
+    "quiz": [
+      {
+        "q": "Which ancient people added vowels to the alphabet?",
+        "a": "The Greeks",
+        "wrong": [
+          "The Vikings",
+          "The Aztecs",
+          "The Mongols"
+        ]
+      },
+      {
+        "q": "The letter A started as a picture of what?",
+        "a": "An ox's head",
+        "wrong": [
+          "A mountain",
+          "A tent",
+          "A bird"
+        ]
+      }
+    ],
+    "wiki": "Phoenician alphabet"
+  },
+  {
+    "id": "paper",
+    "name": "Paper",
+    "emoji": "📜",
+    "year": 105,
+    "when": "around 105 CE (earlier forms from about 200 BCE)",
+    "where": "China",
+    "who": "Cai Lun (improved and promoted it), building on earlier Chinese papermakers",
+    "category": "Communication",
+    "kid": "Before paper, people wrote on heavy bamboo strips, expensive silk or animal skin. In China, people learned to mash up plant fibres and rags, spread them thin and let them dry into sheets. Paper was light, cheap and easy to write on!",
+    "explorer": "Chinese tradition credits a court official named Cai Lun with inventing paper in 105 CE, when he presented it to the emperor. He made it from tree bark, hemp, old rags and fishing nets. Archaeologists have since found even older scraps of paper from China, so Cai Lun probably improved and spread the method rather than inventing it from nothing. Papermaking slowly travelled west through the Islamic world and reached Europe roughly a thousand years later.",
+    "expert": "Fragments of hemp-based paper found in China date back to the 2nd century BCE, so the 105 CE date really marks Cai Lun's improved process and official recognition. Papermaking spread to Korea and Japan, then to the Islamic world, where Samarkand and Baghdad became major centres by the 8th–9th centuries; a popular story says the craft came west through Chinese prisoners after the Battle of Talas in 751, though historians treat this as uncertain. Paper reached Spain and Italy around the 11th–13th centuries. Its low cost compared with parchment was essential for the later success of the printing press. Early paper was made from rags and plant fibres; wood-pulp paper only became common in the 19th century, which made paper cheap but also brittle and acidic, a problem libraries still face.",
+    "how": "Plant fibres are soaked and beaten into a watery pulp. A fine screen is dipped in to catch a thin layer of fibres, which are pressed and dried into a flat sheet that holds together on its own.",
+    "before": "People wrote on clay, papyrus, bamboo or wooden strips, silk, and parchment made from animal skin.",
+    "impact": "Cheap paper made books, letters, maps, money and records far more common, and it made mass printing possible.",
+    "facts": [
+      "The English word paper comes from papyrus, the Egyptian reed writing material, even though they are made differently.",
+      "China also invented paper money, which came into use about a thousand years ago.",
+      "Paper wasps build their nests from a papery material they make by chewing wood.",
+      "Early Chinese paper was made partly from old rags and worn-out fishing nets."
+    ],
+    "ledTo": [
+      "printing-press",
+      "postage-stamp"
+    ],
+    "quiz": [
+      {
+        "q": "Which country invented paper?",
+        "a": "China",
+        "wrong": [
+          "Italy",
+          "Mexico",
+          "Norway"
+        ]
+      },
+      {
+        "q": "Who is traditionally credited with improving paper in 105 CE?",
+        "a": "Cai Lun",
+        "wrong": [
+          "Confucius",
+          "Marco Polo",
+          "Genghis Khan"
+        ]
+      }
+    ],
+    "wiki": "Paper"
+  },
+  {
+    "id": "printing-press",
+    "name": "Printing Press",
+    "emoji": "🖨️",
+    "year": 1440,
+    "when": "around 1440",
+    "where": "Mainz, Germany",
+    "who": "Johannes Gutenberg (earlier movable type by Bi Sheng in China and metal type in Korea)",
+    "category": "Communication",
+    "kid": "Long ago, every book had to be copied by hand, one letter at a time. Johannes Gutenberg built a machine that used little metal letters to print whole pages again and again. Suddenly, books could be made fast and lots of people could read them!",
+    "explorer": "Around 1440 in Mainz, Germany, Johannes Gutenberg developed a printing system using movable metal type. Each letter was cast in metal, so letters could be arranged into pages, inked, printed, and then reused. He adapted the screw press, a machine used for squeezing grapes and olives, and created a new oil-based ink that stuck to metal. His most famous work is the Gutenberg Bible, printed in the 1450s.",
+    "expert": "Gutenberg was not the first to print with movable type: Bi Sheng in China made clay type around 1040, and Korean printers used metal type — the Jikji of 1377 is the oldest surviving book printed that way. Gutenberg's achievement was a complete, efficient system for alphabetic scripts: a hand mould for casting identical type quickly, a durable alloy of lead, tin and antimony, oil-based ink, and an adapted screw press. Because European alphabets need only a few dozen characters, movable type was especially practical there. Printing spread rapidly, and by 1500 presses across Europe had produced millions of books. It helped fuel the Renaissance, the Protestant Reformation and the Scientific Revolution, but Gutenberg himself profited little — he lost a lawsuit to his financial backer Johann Fust around 1455.",
+    "how": "Individual metal letters are lined up to form a page, then coated with ink. Paper is placed on top and a press squeezes it firmly against the type, printing the whole page at once.",
+    "before": "Books were copied by hand by scribes, or printed slowly from carved wooden blocks, so they were rare and very expensive.",
+    "impact": "Books became cheap and plentiful, spreading news, ideas and learning quickly and helping many more people learn to read.",
+    "facts": [
+      "The terms upper case and lower case come from the separate cases printers kept their capital and small letters in.",
+      "Only about 49 copies of the Gutenberg Bible are known to survive, and some are incomplete.",
+      "Gutenberg's press was adapted from presses used for making wine and olive oil.",
+      "The oldest surviving book printed with metal movable type, the Jikji, was made in Korea in 1377."
+    ],
+    "ledTo": [
+      "typewriter",
+      "postage-stamp"
+    ],
+    "quiz": [
+      {
+        "q": "In which country did Gutenberg build his printing press?",
+        "a": "Germany",
+        "wrong": [
+          "Japan",
+          "Brazil",
+          "Egypt"
+        ]
+      },
+      {
+        "q": "What famous book did Gutenberg print in the 1450s?",
+        "a": "The Bible",
+        "wrong": [
+          "A dictionary",
+          "Harry Potter",
+          "A world atlas"
+        ]
+      }
+    ],
+    "wiki": "Printing press"
+  },
+  {
+    "id": "braille",
+    "name": "Braille",
+    "emoji": "⠃",
+    "year": 1824,
+    "when": "1824 (published 1829)",
+    "where": "Paris, France",
+    "who": "Louis Braille, building on Charles Barbier's night writing",
+    "category": "Communication",
+    "kid": "Braille is a way to read with your fingertips! Tiny raised dots stand for letters, so people who are blind can feel the words. It was invented by Louis Braille, who was blind himself and was only 15 years old.",
+    "explorer": "Louis Braille lost his sight as a young child after an accident in his father's workshop. At a school for blind students in Paris, he learned about a system of raised dots called night writing, made by army officer Charles Barbier. It was clever but too complicated, so Braille simplified it into cells of just six dots. He worked out his system by about 1824, when he was 15, and published it in 1829.",
+    "expert": "Barbier's sonography used cells of up to 12 dots representing sounds, which were too large to feel with a single fingertip. Braille's six-dot cell fits under one fingertip and represents letters, numbers and punctuation, giving 63 possible dot patterns (64 including the blank cell). He also created braille music notation. Remarkably, his own school did not officially adopt the system until 1854, two years after his death, partly because some sighted teachers preferred raised versions of printed letters. Today braille has versions for many languages, contracted forms that save space, and refreshable braille displays that let blind users read computer text. Even with screen readers, braille literacy remains important for spelling, maths and independence.",
+    "how": "Each braille character is a cell of six possible dot positions in two columns of three. Different patterns of raised dots stand for different letters, numbers or symbols, read by moving the fingertips across the page.",
+    "before": "Blind readers used heavy books with large raised versions of ordinary printed letters, which were slow to read and very hard to write.",
+    "impact": "Braille gave blind people a fast way to read and write on their own, opening up education and jobs.",
+    "facts": [
+      "World Braille Day is celebrated on January 4, Louis Braille's birthday.",
+      "Louis Braille was only about 15 years old when he created his system.",
+      "Braille's ideas came from night writing, a dot code that, as the story goes, was meant for soldiers to read in the dark.",
+      "Braille is also used for music, with its own system of musical notation."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "How many dot positions are in a braille cell?",
+        "a": "Six",
+        "wrong": [
+          "Two",
+          "Ten",
+          "Twenty"
+        ]
+      },
+      {
+        "q": "How old was Louis Braille when he created braille?",
+        "a": "About 15",
+        "wrong": [
+          "About 5",
+          "About 40",
+          "About 70"
+        ]
+      }
+    ],
+    "wiki": "Braille"
+  },
+  {
+    "id": "postage-stamp",
+    "name": "Postage Stamp",
+    "emoji": "📮",
+    "year": 1840,
+    "when": "1840",
+    "where": "United Kingdom",
+    "who": "Rowland Hill (postal reform), with rival claims by James Chalmers and others",
+    "category": "Communication",
+    "kid": "In 1840, Britain made the first sticky stamp, called the Penny Black. You paid one penny, stuck the stamp on your letter, and it could travel anywhere in the country. Sending letters became cheap and easy for everyone!",
+    "explorer": "Before stamps, the person receiving a letter usually paid, and the price depended on distance and the number of sheets. Rowland Hill, an English teacher and reformer, suggested a cheap flat rate paid in advance by the sender. The result was the Penny Black, the world's first adhesive postage stamp, showing a portrait of young Queen Victoria. It went on sale on 1 May 1840 and could be used from 6 May.",
+    "expert": "Hill's 1837 pamphlet on postal reform argued that the high cost of mail came mostly from handling and collecting fees, not from transport, so a uniform low prepaid rate would increase volume enough to work. The Uniform Penny Post began in January 1840, and the Penny Black followed in May. Credit for the adhesive stamp idea is disputed: Scottish bookseller James Chalmers and others later claimed it, but Hill's reform is what put it into practice. The Penny Black had a practical flaw — red cancellation marks were hard to see on black and could be removed — so it was replaced in 1841 by the Penny Red with black cancellations. Other countries soon followed, including Switzerland and Brazil in 1843 and the United States in 1847.",
+    "how": "The sender buys a stamp that shows the postage has been paid and sticks it on the envelope. Post offices then mark or cancel the stamp so it cannot be reused.",
+    "before": "Postage was usually paid by the person receiving the letter, and prices were complicated and often very expensive.",
+    "impact": "Cheap prepaid postage made letter-writing affordable for ordinary people and inspired postal systems around the world.",
+    "facts": [
+      "The United Kingdom is the only country that does not print its name on its postage stamps.",
+      "The Penny Black was replaced after about a year because the red cancellation marks were hard to see on it.",
+      "Penny Blacks were printed in sheets without perforations, so each stamp had to be cut out with scissors.",
+      "The Penny Black shows Queen Victoria as a teenager, based on a drawing from when she was about 15."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "What was the world's first adhesive postage stamp called?",
+        "a": "The Penny Black",
+        "wrong": [
+          "The Blue Mauritius",
+          "The Golden Eagle",
+          "The Royal Red"
+        ]
+      },
+      {
+        "q": "In what year was the first postage stamp issued?",
+        "a": "1840",
+        "wrong": [
+          "1492",
+          "1776",
+          "1969"
+        ]
+      }
+    ],
+    "wiki": "Penny Black"
+  },
+  {
+    "id": "typewriter",
+    "name": "Typewriter",
+    "emoji": "⌨️",
+    "year": 1868,
+    "when": "1868 (sold from 1874)",
+    "where": "Milwaukee, Wisconsin, USA",
+    "who": "Christopher Latham Sholes, with Carlos Glidden and Samuel Soule (many earlier attempts by others)",
+    "category": "Communication",
+    "kid": "A typewriter is a machine that prints letters when you press its keys. Each key swings up a little metal arm that stamps a letter onto paper through an inky ribbon. It made writing neat and fast — and it gave us the QWERTY keyboard we still use!",
+    "explorer": "People tried to build writing machines for more than 150 years before one became a success. In 1868, Christopher Latham Sholes and his partners in Milwaukee patented a typewriter that was later sold by E. Remington and Sons, a company famous for making guns. It used the QWERTY key layout, which survives on today's computer and phone keyboards. Typewriters became common in offices and created many new jobs, especially for women.",
+    "expert": "Earlier ideas include Henry Mill's 1714 English patent for a writing machine, Pellegrino Turri's machine of around 1808, built for a blind friend, and Rasmus Malling-Hansen's 'writing ball' from Denmark, which the philosopher Friedrich Nietzsche owned. The Sholes and Glidden typewriter, marketed by Remington from 1874, was the first to sell in large numbers, though early models typed only capital letters and typists could not see the text as they wrote it. The QWERTY layout is often said to have been designed to stop the metal typebars from jamming; historians agree the layout evolved through many changes, but the exact reasons are still debated. By the early 20th century, typing pools had opened clerical work to many women. Typewriters were largely replaced by computers in the 1980s and 1990s, but the keyboard layout lived on.",
+    "how": "Pressing a key swings a metal arm with a raised letter on its end. The letter strikes an inked ribbon against the paper, printing the character, and the carriage then moves along one space.",
+    "before": "Documents were written by hand with pens, or printed by professional printers.",
+    "impact": "Typewriters made business writing faster and more readable, created new office jobs, and gave us the keyboard layout used on computers.",
+    "facts": [
+      "The word typewriter can be typed using only the top row of letters on a QWERTY keyboard.",
+      "The first commercially successful typewriter, the Sholes and Glidden, could type only capital letters.",
+      "Remington, the company that first sold it, was also a maker of guns.",
+      "In the late 1800s, the word typewriter could also mean the person who typed, not just the machine."
+    ],
+    "ledTo": [
+      "personal-computer"
+    ],
+    "quiz": [
+      {
+        "q": "Which keyboard layout came from the early typewriter?",
+        "a": "QWERTY",
+        "wrong": [
+          "ABCDEF",
+          "ZXCVBN",
+          "MNOPQR"
+        ]
+      },
+      {
+        "q": "What did the first Sholes and Glidden typewriter NOT have?",
+        "a": "Lowercase letters",
+        "wrong": [
+          "Any keys",
+          "Letter A",
+          "A way to print"
+        ]
+      }
+    ],
+    "wiki": "Typewriter"
+  },
+  {
+    "id": "telegraph",
+    "name": "Electric Telegraph",
+    "emoji": "📟",
+    "year": 1837,
+    "when": "1830s–1840s",
+    "where": "Britain and USA",
+    "who": "William Cooke & Charles Wheatstone (UK); Samuel Morse & Alfred Vail (USA)",
+    "category": "Communication",
+    "kid": "The telegraph sent messages along wires using electricity. Operators tapped out short and long clicks, called dots and dashes, and the message zipped across the country in moments. It was the first time news could travel faster than a horse or a ship!",
+    "explorer": "In 1837, two different electric telegraphs were developed: one by William Cooke and Charles Wheatstone in Britain, and one by Samuel Morse with Alfred Vail in the United States. Morse's system used a code of dots and dashes, now called Morse code. In 1844, Morse sent the message 'What hath God wrought' from Washington, D.C., to Baltimore. Soon telegraph wires stretched across continents and, by 1866, a lasting cable crossed the Atlantic Ocean.",
+    "expert": "Before electricity, France had a large optical telegraph network built by Claude Chappe from the 1790s, using signal towers with moving arms. Electric telegraphy depended on earlier science, including Volta's battery and the discovery of electromagnetism by Ørsted and others, and experimental electric telegraphs were built in the early 1830s by Pavel Schilling in Russia and by Carl Friedrich Gauss and Wilhelm Weber in Germany. Cooke and Wheatstone's needle telegraph was used on British railways, while Morse's simpler single-wire system with its code became dominant in the US and much of the world; Alfred Vail's role in shaping the code is often underappreciated. The first transatlantic cable of 1858 failed within weeks, and a reliable link only came in 1866. The telegraph transformed news reporting, stock markets, railway safety and diplomacy, and is often called the 'Victorian internet'.",
+    "how": "Pressing a key closes an electric circuit, sending pulses of current down a wire. At the other end, the pulses move an electromagnet that clicks or marks paper, and the operator turns the pattern of short and long signals back into letters.",
+    "before": "Messages travelled only as fast as a rider, a train or a ship, or used line-of-sight signals like flags, fires and semaphore towers.",
+    "impact": "For the first time, information could cross countries and oceans in minutes, changing news, business, railways and warfare.",
+    "facts": [
+      "Samuel Morse was a well-known portrait painter before he worked on the telegraph.",
+      "The 1844 message 'What hath God wrought' is a line from the Bible, chosen by a young woman named Annie Ellsworth.",
+      "The famous distress signal SOS was chosen because its dots and dashes are simple and hard to mistake.",
+      "The first transatlantic telegraph cable, laid in 1858, stopped working after only a few weeks."
+    ],
+    "ledTo": [
+      "telephone",
+      "radio",
+      "barcode"
+    ],
+    "quiz": [
+      {
+        "q": "What code used dots and dashes for telegraph messages?",
+        "a": "Morse code",
+        "wrong": [
+          "Binary code",
+          "Zip code",
+          "Braille code"
+        ]
+      },
+      {
+        "q": "What did Samuel Morse do before working on the telegraph?",
+        "a": "He was a painter",
+        "wrong": [
+          "He was a pirate",
+          "He was a king",
+          "He was an astronaut"
+        ]
+      }
+    ],
+    "wiki": "Electrical telegraph"
+  },
+  {
+    "id": "telephone",
+    "name": "Telephone",
+    "emoji": "☎️",
+    "year": 1876,
+    "when": "1876",
+    "where": "Boston, USA",
+    "who": "Alexander Graham Bell (patent), with rival claims by Elisha Gray and Antonio Meucci",
+    "category": "Communication",
+    "kid": "The telephone lets you talk to someone far away and hear their real voice. It turns your voice into electric signals that travel through wires, then back into sound. Alexander Graham Bell got the first patent for it in 1876.",
+    "explorer": "Alexander Graham Bell was a Scottish-born teacher of deaf students living in Boston. In 1876 he received a patent for the telephone, and a few days later he spoke the first clear words over it to his assistant, Thomas Watson, in the next room. The telegraph could only send coded clicks, but the telephone carried actual voices. Within a few years, telephone lines were spreading through cities around the world.",
+    "expert": "The telephone's history is famously contested. Bell's patent application and a caveat from Elisha Gray describing a similar device reached the US Patent Office on the same day, 14 February 1876, leading to years of legal battles that Bell's company won. Italian-American inventor Antonio Meucci had developed voice-transmitting devices years earlier but could not afford to maintain his patent caveat; in 2002 the US House of Representatives passed a resolution honouring his work. Johann Philipp Reis in Germany also built a device in 1861 that could transmit some sounds. Bell's interest grew from his work on speech and deafness — both his mother and his wife were deaf. Early telephones needed human operators at switchboards to connect calls, a job that employed huge numbers of young women.",
+    "how": "A microphone turns the vibrations of your voice into a changing electric current. The current travels along a wire to a receiver, where it makes a thin plate vibrate and recreate the sound.",
+    "before": "People sent letters or telegrams, which could only carry written words, not voices.",
+    "impact": "The telephone let people talk instantly across cities and later the world, transforming business, emergencies and family life.",
+    "facts": [
+      "Bell and Elisha Gray filed papers for similar telephone ideas at the patent office on the very same day.",
+      "Bell's mother and his wife were both deaf, and he spent much of his life teaching deaf students.",
+      "Bell's first words recorded in his notebook were a request for his assistant, Mr. Watson, to come to him.",
+      "Thomas Edison helped popularise saying hello on the phone; Bell is said to have preferred ahoy."
+    ],
+    "ledTo": [
+      "fiber-optics",
+      "internet",
+      "smartphone"
+    ],
+    "quiz": [
+      {
+        "q": "Who received the first US patent for the telephone?",
+        "a": "Alexander Graham Bell",
+        "wrong": [
+          "Thomas Edison",
+          "Nikola Tesla",
+          "Henry Ford"
+        ]
+      },
+      {
+        "q": "What was the name of Bell's assistant?",
+        "a": "Thomas Watson",
+        "wrong": [
+          "Sherlock Holmes",
+          "Samuel Morse",
+          "Isaac Newton"
+        ]
+      }
+    ],
+    "wiki": "Telephone"
+  },
+  {
+    "id": "photography",
+    "name": "Photography",
+    "emoji": "📷",
+    "year": 1826,
+    "when": "around 1826–1839",
+    "where": "France and England",
+    "who": "Nicéphore Niépce (first lasting photo), Louis Daguerre and William Henry Fox Talbot",
+    "category": "Communication",
+    "kid": "Photography means capturing a picture using light. The oldest photo that still exists was taken in France around 1826, looking out of a window, and it needed many hours of sunlight. Today your phone can take a photo in a tiny fraction of a second!",
+    "explorer": "Artists had used the camera obscura — a dark box that projects an image — for centuries, but they could not make the picture stay. Around 1826, Nicéphore Niépce coated a metal plate with a light-sensitive material and captured the view from his window. His partner Louis Daguerre later invented the daguerreotype, announced in 1839, which made sharp pictures much faster. In England, William Henry Fox Talbot invented a way to make a negative and print many copies on paper.",
+    "expert": "Niépce's 'View from the Window at Le Gras' used bitumen, which hardens when exposed to light; estimates of its exposure range from about eight hours to several days. The daguerreotype, publicly announced in 1839, produced a highly detailed one-of-a-kind image on silvered copper, and the French government released it freely to the world (except in Britain, where Daguerre had taken out a patent). Talbot's calotype process, patented in 1841, used a paper negative from which many positive prints could be made — the basis of most photography for the next 150 years. Others, such as Hippolyte Bayard, also developed processes and felt overlooked. Later milestones included James Clerk Maxwell's three-colour demonstration in 1861, roll film, and Kodak's easy cameras in 1888, which brought photography to ordinary people.",
+    "how": "A lens focuses light onto a light-sensitive surface. In film photography, the light causes chemical changes that are developed into an image; in digital cameras, a sensor measures the light and stores it as numbers.",
+    "before": "The only way to record a scene or a face was to draw or paint it by hand.",
+    "impact": "Photography gave the world accurate images of people, places and events, changing news, science, art and how we remember history.",
+    "facts": [
+      "The word photography comes from Greek words meaning drawing with light.",
+      "The oldest surviving camera photograph is kept at the University of Texas at Austin.",
+      "The first lasting colour photograph made by the three-colour method, shown in 1861 by James Clerk Maxwell, was of a tartan ribbon.",
+      "Early photos needed such long exposures that busy streets could look empty, because moving people did not show up."
+    ],
+    "ledTo": [
+      "motion-picture",
+      "television",
+      "digital-camera"
+    ],
+    "quiz": [
+      {
+        "q": "In which country was the oldest surviving photo taken?",
+        "a": "France",
+        "wrong": [
+          "Australia",
+          "China",
+          "Canada"
+        ]
+      },
+      {
+        "q": "What does the word photography mean?",
+        "a": "Drawing with light",
+        "wrong": [
+          "Painting with water",
+          "Seeing far away",
+          "Writing with sound"
+        ]
+      }
+    ],
+    "wiki": "Photography"
+  },
+  {
+    "id": "phonograph",
+    "name": "Phonograph",
+    "emoji": "🎶",
+    "year": 1877,
+    "when": "1877",
+    "where": "Menlo Park, New Jersey, USA",
+    "who": "Thomas Edison (earlier sound recording by Édouard-Léon Scott de Martinville)",
+    "category": "Communication",
+    "kid": "The phonograph was the first machine that could record a sound and play it back. Thomas Edison spoke into it, and the machine scratched tiny bumps into a sheet of tinfoil. When he played it back, everyone heard his voice come out of the machine!",
+    "explorer": "In 1877, Thomas Edison invented the phonograph at his laboratory in Menlo Park, New Jersey. Sound waves made a needle vibrate and press a groove into tinfoil wrapped around a turning cylinder. Running the needle back over the groove recreated the sound. Later inventors, such as Emile Berliner with his flat-disc gramophone, turned sound recording into the music industry.",
+    "expert": "Twenty years earlier, Frenchman Édouard-Léon Scott de Martinville built the phonautograph, which traced sound waves onto soot-covered paper but could not play them back; in 2008 researchers used computers to turn one of his 1860 tracings into sound. In France, Charles Cros also described a recording-and-playback idea in 1877 but did not build it. Edison's tinfoil phonograph was a sensation but wore out quickly, and he initially imagined uses like dictation and talking books more than music. Improved wax cylinders followed in the 1880s, and Emile Berliner's gramophone of 1887 used flat discs that could be mass-produced, which eventually won out. Recording changed music profoundly: performances could be preserved, sold and heard far from where they were made.",
+    "how": "Sound vibrations shake a thin diaphragm attached to a needle, which cuts a wavy groove into a moving surface. On playback, the needle follows the groove, vibrating the diaphragm to recreate the original sound.",
+    "before": "The only way to hear music or a speech was to be there in person when it was performed.",
+    "impact": "Recorded sound created the music industry and let people preserve voices, songs and speeches for the future.",
+    "facts": [
+      "The phonograph's first recordings were made on thin tinfoil wrapped around a cylinder.",
+      "Edison was hard of hearing for most of his life.",
+      "A sound tracing from 1860 by Scott de Martinville was played back for the first time in 2008.",
+      "Edison is reported to have recited 'Mary Had a Little Lamb' in one of his first recordings."
+    ],
+    "ledTo": [
+      "motion-picture"
+    ],
+    "quiz": [
+      {
+        "q": "Who invented the phonograph in 1877?",
+        "a": "Thomas Edison",
+        "wrong": [
+          "Alexander Graham Bell",
+          "Albert Einstein",
+          "Wolfgang Mozart"
+        ]
+      },
+      {
+        "q": "What could the phonograph do?",
+        "a": "Record and play back sound",
+        "wrong": [
+          "Send photos by wire",
+          "Show moving pictures",
+          "Print books quickly"
+        ]
+      }
+    ],
+    "wiki": "Phonograph"
+  },
+  {
+    "id": "radio",
+    "name": "Radio",
+    "emoji": "📻",
+    "year": 1895,
+    "when": "1895",
+    "where": "Italy and Britain",
+    "who": "Guglielmo Marconi (first practical system), building on Maxwell, Hertz, Tesla, Lodge, Bose and others",
+    "category": "Communication",
+    "kid": "Radio sends messages through the air using invisible waves — no wires needed! Guglielmo Marconi sent radio signals farther and farther, and in 1901 he reported sending one all the way across the Atlantic Ocean. Later, radio carried music, news and voices into people's homes.",
+    "explorer": "Scientist James Clerk Maxwell predicted invisible electromagnetic waves in the 1860s, and Heinrich Hertz proved they existed in the late 1880s. Starting in 1895, young Italian inventor Guglielmo Marconi built a practical wireless telegraph using these waves. In 1901 he reported receiving a signal sent across the Atlantic from England to Newfoundland. Ships began carrying radio, and by the 1920s broadcasting stations sent music and news to millions of listeners.",
+    "expert": "Radio was a product of many minds, and credit is contested. Oliver Lodge, Jagadish Chandra Bose, Alexander Popov and Nikola Tesla all did important early work, and in 1943 the US Supreme Court ruled that some of Marconi's patent claims were invalid because of earlier work by others — a decision often misdescribed as simply naming Tesla the inventor. Marconi's real strength was engineering and business: he made long-range wireless work and built a company around it, sharing the 1909 Nobel Prize in Physics with Karl Ferdinand Braun. Early systems sent only Morse code; transmitting voice needed continuous waves and, later, vacuum-tube amplifiers. Reginald Fessenden is often credited with an early voice broadcast in 1906, though details of that event are debated. Radio broadcasting spread worldwide in the 1920s, and the same physics now underlies Wi-Fi, mobile phones and GPS.",
+    "how": "A transmitter makes electric currents vibrate rapidly in an antenna, sending out radio waves that travel at the speed of light. A receiver's antenna picks up the waves and turns them back into electrical signals, and then into sound.",
+    "before": "Long-distance messages needed telegraph or telephone wires, so ships at sea could not communicate with land.",
+    "impact": "Radio let people communicate without wires, saving lives at sea and bringing news and entertainment into homes across the world.",
+    "facts": [
+      "The unit for how fast waves vibrate, the hertz, is named after Heinrich Hertz.",
+      "The Titanic used Marconi wireless equipment to call for help in 1912.",
+      "Marconi shared the 1909 Nobel Prize in Physics with German scientist Karl Ferdinand Braun.",
+      "Radio waves are a kind of light that our eyes cannot see."
+    ],
+    "ledTo": [
+      "television",
+      "communications-satellite",
+      "wi-fi",
+      "gps"
+    ],
+    "quiz": [
+      {
+        "q": "In 1901, Marconi's signal crossed which ocean?",
+        "a": "The Atlantic Ocean",
+        "wrong": [
+          "The Pacific Ocean",
+          "The Indian Ocean",
+          "The Arctic Ocean"
+        ]
+      },
+      {
+        "q": "What does radio use instead of wires?",
+        "a": "Invisible electromagnetic waves",
+        "wrong": [
+          "Sound waves in water",
+          "Long glass tubes",
+          "Carrier pigeons"
+        ]
+      }
+    ],
+    "wiki": "Radio"
+  },
+  {
+    "id": "television",
+    "name": "Television",
+    "emoji": "📺",
+    "year": 1926,
+    "when": "1920s",
+    "where": "Britain and USA",
+    "who": "John Logie Baird (mechanical TV), Philo Farnsworth and Vladimir Zworykin (electronic TV), and many others",
+    "category": "Communication",
+    "kid": "Television sends moving pictures and sound to a screen far away. In 1926, John Logie Baird showed a blurry moving face on his TV in London. A few years later, inventors made all-electronic TV, which led to the sharp screens we have today.",
+    "explorer": "Television has no single inventor. Scottish engineer John Logie Baird gave the first public demonstration of moving television images in London in 1926, using spinning disks with holes to scan the picture. In 1927, 21-year-old American Philo Farnsworth transmitted an image fully electronically. Vladimir Zworykin and the company RCA also developed electronic cameras, and electronic TV soon replaced the mechanical kind.",
+    "expert": "The idea of scanning an image line by line goes back to Paul Nipkow's spinning-disk patent of 1884. Baird's mechanical system produced images of only about 30 lines, while electronic systems using cathode-ray tubes could reach hundreds. Farnsworth's image dissector and Zworykin's iconoscope led to a long patent fight that RCA eventually settled by paying Farnsworth royalties. Britain's BBC began a regular high-definition television service in 1936, and TV spread widely in homes after World War II, with colour broadcasting following in the 1950s and 1960s. Television reshaped politics, advertising and shared culture; the 1969 Moon landing was watched live by an estimated 600 million people.",
+    "how": "A camera breaks a scene into many lines of tiny dots and turns their brightness and colour into an electronic signal. The signal is sent by radio waves, cable or the internet, and the TV rebuilds the picture dot by dot many times each second, fast enough that our eyes see smooth motion.",
+    "before": "People got news from newspapers and radio, and could see moving pictures only at the cinema.",
+    "impact": "Television brought live news, sport and entertainment into homes, letting huge audiences share the same events at the same moment.",
+    "facts": [
+      "Baird's first test subject was a ventriloquist's dummy nicknamed Stooky Bill.",
+      "The first image Philo Farnsworth sent electronically was a simple straight line.",
+      "Early mechanical TVs used only about 30 lines to make a picture.",
+      "An estimated 600 million people watched the 1969 Moon landing on television."
+    ],
+    "ledTo": [
+      "communications-satellite",
+      "video-game"
+    ],
+    "quiz": [
+      {
+        "q": "Who first publicly demonstrated moving TV images in 1926?",
+        "a": "John Logie Baird",
+        "wrong": [
+          "Walt Disney",
+          "Charles Darwin",
+          "Steve Jobs"
+        ]
+      },
+      {
+        "q": "What was the first image Farnsworth sent electronically?",
+        "a": "A straight line",
+        "wrong": [
+          "A cartoon cat",
+          "The Moon",
+          "A football match"
+        ]
+      }
+    ],
+    "wiki": "Television"
+  },
+  {
+    "id": "communications-satellite",
+    "name": "Communications Satellite",
+    "emoji": "🛰️",
+    "year": 1962,
+    "when": "1962",
+    "where": "USA (with ground stations in Britain and France)",
+    "who": "Bell Labs and NASA (Telstar); idea proposed by Arthur C. Clarke in 1945",
+    "category": "Communication",
+    "kid": "A communications satellite is like a giant mirror in space for messages. Signals go up from one side of the world, and the satellite sends them back down somewhere far away. In 1962, a satellite called Telstar sent the first live TV pictures across the Atlantic Ocean!",
+    "explorer": "In 1945, science writer Arthur C. Clarke suggested placing relay stations in space to send signals around the globe. After the Space Age began, engineers built real ones. Telstar 1, built by Bell Labs and launched by NASA in July 1962, relayed the first live television pictures between the United States and Europe. Today hundreds of satellites carry TV, phone calls, internet and weather data.",
+    "expert": "Earlier satellites tested the idea: SCORE (1958) broadcast a recorded Christmas message from President Eisenhower, and Echo 1 (1960) was a giant reflective balloon that bounced signals passively. Telstar 1 was an active repeater, receiving, amplifying and retransmitting signals, but its low orbit meant it was visible to ground stations for only short periods during each orbit. Clarke's idea of geostationary orbit — about 35,786 km above the equator, where a satellite circles once a day and seems fixed in the sky — was realised by Syncom 3, which carried the 1964 Tokyo Olympics to the US. The international organisation Intelsat launched 'Early Bird' in 1965 for commercial service. Today undersea fibre cables carry most intercontinental internet data, but satellites remain vital for remote areas, ships, aircraft, broadcasting and navigation.",
+    "how": "A ground station beams radio signals up to the satellite. The satellite receives them, boosts them, and sends them back down to another part of the Earth, reaching places far beyond the horizon.",
+    "before": "Signals between continents went through undersea cables or bounced unreliably off the upper atmosphere, and live TV could not cross oceans.",
+    "impact": "Satellites made live worldwide TV, global phone calls and communication with remote places possible.",
+    "facts": [
+      "An instrumental song called Telstar, named after the satellite, became a number one hit in both the UK and the US.",
+      "Echo 1 was a giant shiny balloon about 30 metres wide that simply reflected signals back to Earth.",
+      "A geostationary satellite orbits about 35,786 kilometres above the equator and seems to stay still in the sky.",
+      "Science-fiction writer Arthur C. Clarke described communications satellites in 1945, years before any rocket reached orbit."
+    ],
+    "ledTo": [
+      "gps",
+      "internet"
+    ],
+    "quiz": [
+      {
+        "q": "Which satellite sent the first live TV across the Atlantic?",
+        "a": "Telstar 1",
+        "wrong": [
+          "Apollo 11",
+          "Hubble",
+          "Voyager 1"
+        ]
+      },
+      {
+        "q": "Which writer proposed communications satellites in 1945?",
+        "a": "Arthur C. Clarke",
+        "wrong": [
+          "J. K. Rowling",
+          "Mark Twain",
+          "Roald Dahl"
+        ]
+      }
+    ],
+    "wiki": "Telstar"
+  },
+  {
+    "id": "fiber-optics",
+    "name": "Fibre Optics",
+    "emoji": "💡",
+    "year": 1970,
+    "when": "1966–1970",
+    "where": "Britain and USA",
+    "who": "Charles Kao & George Hockham (idea, 1966); Robert Maurer, Donald Keck & Peter Schultz at Corning (first low-loss fibre, 1970)",
+    "category": "Communication",
+    "kid": "Optical fibres are super-thin threads of glass that carry messages as flashes of light. The light bounces along inside the glass, even around bends. Most of the internet travels through these glass threads, many under the sea!",
+    "explorer": "Scientists knew in the 1800s that light could be guided along a stream of water or glass. But early glass lost too much light to carry messages far. In 1966, Charles Kao and George Hockham in Britain showed that very pure glass could carry light for long distances. In 1970, a team at Corning in the USA made the first fibre pure enough, and fibre-optic cables soon began carrying phone calls and data.",
+    "expert": "Light guiding by total internal reflection was demonstrated in water jets by Daniel Colladon in the 1840s and popularised by John Tyndall. Glass fibres were used for short-range imaging, such as medical endoscopes, in the 1950s, but losses were far too high for communication. Kao and Hockham argued that the loss came mainly from impurities, not the glass itself, and that losses below 20 decibels per kilometre would make fibre practical; Kao received the 2009 Nobel Prize in Physics. Corning's 1970 fibre beat that threshold, and combined with lasers and later optical amplifiers, fibre's capacity grew enormously. The first transatlantic fibre cable, TAT-8, began service in 1988. Today undersea fibre cables, not satellites, carry the vast majority of intercontinental internet traffic.",
+    "how": "A fibre has a glass core surrounded by a layer of glass that bends light differently. Light hitting the boundary at a shallow angle reflects back in, so pulses of laser light zigzag along the core for many kilometres, carrying data as on-off flashes.",
+    "before": "Phone calls and data travelled as electrical signals through copper wires, or by radio and satellite, with much less capacity.",
+    "impact": "Fibre optics created the high-speed backbone of the internet, carrying enormous amounts of data around the world.",
+    "facts": [
+      "A single optical fibre is about as thin as a human hair.",
+      "Light travels through glass fibre at roughly two-thirds of its speed in empty space.",
+      "Charles Kao won the 2009 Nobel Prize in Physics for his work on optical fibres.",
+      "Most data travelling between continents goes through cables on the sea floor, not through satellites."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "What do optical fibres use to carry messages?",
+        "a": "Flashes of light",
+        "wrong": [
+          "Drops of water",
+          "Sound echoes",
+          "Magnetic sand"
+        ]
+      },
+      {
+        "q": "Who won a Nobel Prize for work on optical fibres?",
+        "a": "Charles Kao",
+        "wrong": [
+          "Marie Curie",
+          "Thomas Edison",
+          "Galileo Galilei"
+        ]
+      }
+    ],
+    "wiki": "Optical fiber"
+  },
+  {
+    "id": "internet",
+    "name": "Internet",
+    "emoji": "🌐",
+    "year": 1969,
+    "when": "1969 (ARPANET); 1983 (TCP/IP)",
+    "where": "USA (with ideas from Britain and France)",
+    "who": "Many inventors — including Paul Baran, Donald Davies, Vint Cerf and Bob Kahn",
+    "category": "Communication",
+    "kid": "The internet is a giant network that connects computers all over the world so they can share information. It started in 1969, when two computers in California sent their very first message. The message was supposed to be LOGIN, but the system crashed after just LO!",
+    "explorer": "In 1969, a US government research project called ARPANET linked computers at universities so they could share information. Data was chopped into small pieces called packets, which could travel separate routes and be put back together. In the 1970s, Vint Cerf and Bob Kahn designed TCP/IP, a common set of rules that let different networks join together. When ARPANET switched to TCP/IP in 1983, the modern internet was born.",
+    "expert": "Packet switching was developed independently by Paul Baran in the US and Donald Davies in the UK, who coined the term packet. ARPANET's first message was sent on 29 October 1969 from UCLA to the Stanford Research Institute. A popular myth says the internet was built to survive nuclear war; Baran's research was partly motivated by that concern, but ARPANET was funded mainly to let researchers share scarce computing resources. Ideas from France's CYCLADES network influenced the design of TCP/IP, which ARPANET adopted on 1 January 1983. The network was opened to commercial use in the early 1990s, and the World Wide Web, which runs on top of the internet, made it popular with the public. It is important to remember that the internet (the network) and the web (pages and links) are different things.",
+    "how": "Information is split into small packets, each labelled with where it is going. Routers pass the packets from network to network along whatever path works, and the receiving computer reassembles them in the right order using shared rules called TCP/IP.",
+    "before": "Computers worked mostly alone or on separate private networks that could not talk to each other.",
+    "impact": "The internet connected billions of people and devices, transforming communication, shopping, learning, work and entertainment.",
+    "facts": [
+      "The first ARPANET message was LO, because the computer crashed while typing LOGIN.",
+      "The very first ARPANET link connected UCLA and the Stanford Research Institute in California.",
+      "The internet and the World Wide Web are not the same — the web is one of many services that run on the internet.",
+      "Vint Cerf and Bob Kahn are often called fathers of the internet for designing TCP/IP."
+    ],
+    "ledTo": [
+      "email",
+      "world-wide-web",
+      "smartphone",
+      "wi-fi"
+    ],
+    "quiz": [
+      {
+        "q": "What was the internet's early network called?",
+        "a": "ARPANET",
+        "wrong": [
+          "SKYNET",
+          "NETFLIX",
+          "SPUTNIK"
+        ]
+      },
+      {
+        "q": "In which year was ARPANET's first message sent?",
+        "a": "1969",
+        "wrong": [
+          "1901",
+          "1945",
+          "2001"
+        ]
+      }
+    ],
+    "wiki": "Internet"
+  },
+  {
+    "id": "email",
+    "name": "Email",
+    "emoji": "📧",
+    "year": 1971,
+    "when": "1971",
+    "where": "Cambridge, Massachusetts, USA",
+    "who": "Ray Tomlinson (first network email), building on earlier single-computer mail programs",
+    "category": "Communication",
+    "kid": "Email lets you send a message from one computer to another in seconds. In 1971, Ray Tomlinson sent the first email between two computers that were sitting right next to each other. He also chose the @ symbol that is in every email address!",
+    "explorer": "In the 1960s, people sharing one big computer could already leave messages for each other on it. In 1971, engineer Ray Tomlinson worked out how to send messages between different computers over the ARPANET. He picked the @ sign to separate the person's name from the name of their computer. Email quickly became the most popular use of the early network.",
+    "expert": "Messaging within a single time-sharing computer existed by the mid-1960s, for example the MAILBOX command on MIT's CTSS system around 1965. Tomlinson, working at the company BBN, combined a local mail program with a file-transfer program so messages could move between machines on ARPANET. He later said the first test message was forgettable, probably something like QWERTYUIOP. Email standards developed over the following decade, leading to the SMTP protocol in 1982, which is still used today. The first widely recognised unsolicited mass email — later called spam — was a 1978 advertisement sent to a few hundred ARPANET users. A later claim by another person to have invented email in 1978 is not accepted by historians of computing.",
+    "how": "Your email program sends a message to a mail server, which looks at the part of the address after the @ to find the recipient's server. The message is passed along the internet and stored there until the recipient opens it.",
+    "before": "People sent letters by post, telegrams, or faxes, which took longer or cost more.",
+    "impact": "Email made written communication almost instant and free, changing how businesses, schools and friends keep in touch.",
+    "facts": [
+      "Ray Tomlinson chose the @ symbol because it was not used in people's names and means at.",
+      "The first network email was sent between two computers sitting side by side in the same room.",
+      "Tomlinson said he could not remember the first message, but it was probably something like QWERTYUIOP.",
+      "The first well-known spam email was sent in 1978 to a few hundred users of ARPANET."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Which symbol did Ray Tomlinson choose for email addresses?",
+        "a": "The @ sign",
+        "wrong": [
+          "The # sign",
+          "The $ sign",
+          "The % sign"
+        ]
+      },
+      {
+        "q": "In what year was the first network email sent?",
+        "a": "1971",
+        "wrong": [
+          "1871",
+          "1931",
+          "2011"
+        ]
+      }
+    ],
+    "wiki": "Email"
+  },
+  {
+    "id": "world-wide-web",
+    "name": "World Wide Web",
+    "emoji": "🕸️",
+    "year": 1989,
+    "when": "1989–1991",
+    "where": "CERN, near Geneva, Switzerland",
+    "who": "Tim Berners-Lee, with Robert Cailliau",
+    "category": "Communication",
+    "kid": "The World Wide Web is all the websites you can visit, connected by clickable links. Tim Berners-Lee invented it in 1989 so scientists could share information easily. He gave it to the world for free, so anyone could make a website!",
+    "explorer": "Tim Berners-Lee was a British scientist working at CERN, a big physics lab in Switzerland. In 1989 he proposed a system of linked documents that could be read on any computer connected to the internet. By the end of 1990 he had built the first web browser, the first web server and the first website. In 1993, CERN made the web's technology free for everyone to use, which helped it grow incredibly fast.",
+    "expert": "Berners-Lee combined existing ideas — the internet, and hypertext, which had been imagined by thinkers like Vannevar Bush and Ted Nelson — into three simple standards: HTML for writing pages, URLs for addressing them, and HTTP for fetching them. His first server ran on a NeXT computer at CERN. The first website, at info.cern.ch, explained the project itself. The decisive step was CERN's 1993 release of the software into the public domain, which, together with easy graphical browsers such as Mosaic, sparked explosive growth. The web is often confused with the internet, but it is a service that runs on the internet, like email. Berners-Lee later founded the World Wide Web Consortium (W3C) to keep its standards open, and he received the Turing Award in 2016.",
+    "how": "Web pages are written in HTML and stored on servers, each with an address called a URL. Your browser uses HTTP to ask a server for a page, then displays it, and clicking a link fetches another page from anywhere in the world.",
+    "before": "Information on the internet was spread across separate systems that were hard to search and needed special commands to use.",
+    "impact": "The web made the internet easy for everyone to use, leading to websites, online shopping, social media, video and online learning.",
+    "facts": [
+      "A restored copy of the very first website, at info.cern.ch, can still be visited today.",
+      "Tim Berners-Lee's first web server had a label warning people not to switch it off.",
+      "CERN released the web's software for free in 1993, so nobody had to pay to use it.",
+      "Tim Berners-Lee was knighted by Queen Elizabeth II for inventing the web."
+    ],
+    "ledTo": [
+      "smartphone"
+    ],
+    "quiz": [
+      {
+        "q": "Who invented the World Wide Web?",
+        "a": "Tim Berners-Lee",
+        "wrong": [
+          "Bill Gates",
+          "Mark Zuckerberg",
+          "Ada Lovelace"
+        ]
+      },
+      {
+        "q": "At which science lab was the web invented?",
+        "a": "CERN",
+        "wrong": [
+          "NASA",
+          "Hogwarts",
+          "Bell Labs"
+        ]
+      }
+    ],
+    "wiki": "World Wide Web"
+  },
+  {
+    "id": "smartphone",
+    "name": "Smartphone",
+    "emoji": "📱",
+    "year": 1994,
+    "when": "1994 (popular from 2007)",
+    "where": "USA (and worldwide)",
+    "who": "Many companies — IBM (Simon), then Nokia, BlackBerry, Apple, Google's Android and others",
+    "category": "Communication",
+    "kid": "A smartphone is a phone and a tiny computer in one. It can call, text, take photos, play games and go on the internet. The first one, IBM Simon, came out in 1994, and touchscreen phones became super popular after 2007.",
+    "explorer": "Mobile phones started as big, heavy devices that could only make calls. In 1994, the IBM Simon combined a phone with a touchscreen, email and an address book, and is often called the first smartphone. Phones with keyboards from companies like Nokia and BlackBerry followed. In 2007, Apple's iPhone made large multi-touch screens and app stores popular, and Google's Android system soon spread smartphones around the world.",
+    "expert": "The smartphone grew from two lines of development: the mobile phone, whose first handheld call was made by Martin Cooper of Motorola in 1973, and the personal digital assistant (PDA). The IBM Simon, sold by BellSouth in 1994, had a touchscreen and apps but a battery that lasted only about an hour of talk time. Nokia's Communicator (1996) and BlackBerry devices brought email to business users, and the word smartphone came into use in the late 1990s. The 2007 iPhone combined a capacitive multi-touch screen, a full web browser and, from 2008, an app store; Android, built on the Linux kernel, followed and became the most widely used system worldwide. Smartphones have brought banking, maps and information to billions, but they also raise real concerns about screen time, privacy and electronic waste.",
+    "how": "A smartphone contains a small computer processor, memory, a touchscreen, cameras, sensors and radios for mobile networks, Wi-Fi and GPS. Its operating system runs apps that use all these parts.",
+    "before": "People carried separate devices — a mobile phone, a camera, a music player, a map and maybe a laptop.",
+    "impact": "Smartphones put the internet, cameras and maps in billions of pockets, changing how people communicate, shop, travel and learn.",
+    "facts": [
+      "The IBM Simon could last only about an hour of talking before its battery ran out.",
+      "The first handheld mobile phone call was made by Motorola engineer Martin Cooper in 1973.",
+      "A modern smartphone is far more powerful than the computer that guided Apollo astronauts to the Moon.",
+      "Android, the world's most widely used phone system, is built on the Linux kernel."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Which device is often called the first smartphone?",
+        "a": "IBM Simon",
+        "wrong": [
+          "Nintendo Game Boy",
+          "Sony Walkman",
+          "Apple Macintosh"
+        ]
+      },
+      {
+        "q": "What came first?",
+        "a": "The first handheld mobile call",
+        "wrong": [
+          "The iPhone",
+          "The Android system",
+          "The first app store"
+        ]
+      }
+    ],
+    "wiki": "Smartphone"
+  },
+  {
+    "id": "qr-code",
+    "name": "QR Code",
+    "emoji": "🔳",
+    "year": 1994,
+    "when": "1994",
+    "where": "Japan",
+    "who": "Masahiro Hara and his team at Denso Wave",
+    "category": "Communication",
+    "kid": "A QR code is a square full of black and white blocks that a phone camera can read in a flash. It can hold a website link, a message or a ticket. It was invented in Japan in 1994 to keep track of car parts in factories!",
+    "explorer": "In 1994, engineer Masahiro Hara and his team at Denso Wave, a company in the Toyota group, invented the QR code. Factories needed to track lots of car parts, and normal barcodes could not hold enough information. QR stands for Quick Response, because it can be scanned very quickly from any direction. Decades later, smartphones made QR codes popular everywhere, from menus to boarding passes.",
+    "expert": "A standard barcode stores data in one direction, while a QR code stores it in two dimensions, holding far more — the largest version can store up to 7,089 numeric digits. The three large squares in the corners are finder patterns that let a scanner detect the code's position and angle, so it can be read upside down or at a slant. QR codes include error correction (Reed–Solomon codes), which lets them be read even if up to about 30 percent is damaged at the highest setting. Denso Wave holds the patent but chose not to enforce it for the standard code, helping it spread freely. Hara has said the design was partly inspired by the black and white stones of the board game Go. Because a QR code can hide any link, people are advised to check where a code leads before trusting it.",
+    "how": "The pattern of black and white squares encodes data as binary ones and zeros. A camera finds the three corner squares to line up the code, reads the pattern and uses built-in error correction to fix any damaged parts.",
+    "before": "Products were tracked with ordinary one-dimensional barcodes, which hold only a small amount of information.",
+    "impact": "QR codes made it easy to link the physical world to the digital one, used for payments, tickets, menus and more.",
+    "facts": [
+      "QR stands for Quick Response.",
+      "The QR code was first designed to track car parts in Japanese factories.",
+      "A QR code can still be read even if part of it is dirty or torn, thanks to error correction.",
+      "The inventor has said the design was partly inspired by the board game Go."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "What does QR stand for?",
+        "a": "Quick Response",
+        "wrong": [
+          "Quiet Robot",
+          "Quarter Ring",
+          "Question Reader"
+        ]
+      },
+      {
+        "q": "In which country was the QR code invented?",
+        "a": "Japan",
+        "wrong": [
+          "Germany",
+          "Canada",
+          "Kenya"
+        ]
+      }
+    ],
+    "wiki": "QR code"
+  }
+]

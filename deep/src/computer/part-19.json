@@ -1,0 +1,153 @@
+{
+  "n": 19,
+  "title": "Supercomputers and Artificial Intelligence",
+  "when": "1950 – 2020s",
+  "summary": "Some computers are as big as a basketball court and can do a billion billion sums every second, helping scientists forecast the weather and study medicines. Other programs have learned to beat world champions at chess and Go, predict the shapes of proteins and even chat with us. They are amazing helpers, but they can still make very confident mistakes!",
+  "sections": [
+    {
+      "heading": "The Quiet Genius of Chippewa Falls",
+      "paragraphs": [
+        "Picture a small town in the woods of Wisconsin, in the northern United States, where winters are long and the lakes freeze solid. In the early 1960s, in a modest laboratory near his hometown of Chippewa Falls, a shy engineer named Seymour Cray was building the fastest computer in the world. He had a team of only a few dozen people. Meanwhile, the giant company IBM had thousands of engineers working on its own machines. Who would win?",
+        "Seymour Cray was born in Chippewa Falls in 1925. As a young man he served as a radio operator in the Second World War, then studied electrical engineering and mathematics at the University of Minnesota. He worked at a company called Engineering Research Associates, and in 1957 he helped start a new company, Control Data Corporation, usually called CDC. Cray disliked meetings, visitors and big-company paperwork. He wanted quiet. So CDC let him set up his own lab back home, far from head office, where he could think.",
+        "The result was the CDC 6600, released in September 1964. Its clock ticked 10 million times a second, and it could do about 3 million calculations with decimal numbers every second. That may sound slow next to a modern phone, but in 1964 it was roughly three times faster than any other machine on Earth. It held the title of world's fastest computer from 1964 until 1969, and more than 100 of them were sold, mostly to laboratories, universities and weather services. Many historians call it the first commercial supercomputer: a computer built to be the fastest of its time for huge scientific calculations.",
+        "How did a small team beat IBM? Cray used clever tricks. The 6600 had one main processor that did only maths, plus ten smaller helper processors that handled slow jobs like reading tapes and printing. That way the main processor never sat waiting. It also had several separate calculating units inside that could work at the same time, one adding while another multiplied. And because fast electronics get hot, the cabinet was cooled by a refrigerant called Freon flowing through pipes, the same kind of chemical once used in fridges.",
+        "IBM's boss, Thomas Watson Jr., was stunned. In a famous memo in August 1963, he complained to his managers that the lab building this machine had only 34 people, 'including the janitor', yet had beaten IBM. When Cray heard about the memo, he is reported to have replied dryly: 'It seems like Mr. Watson has answered his own question.' In other words, small and focused can beat big and slow.",
+        "In 1972 Cray left CDC after a disagreement about a cancelled project, and soon started his own company, Cray Research. Its first machine, the Cray-1, was installed at Los Alamos National Laboratory in New Mexico in 1976. It is one of the most beautiful computers ever built. Seen from above, it is shaped like a letter C. Around its base runs a ring of padded benches, so people joked it was the world's most expensive loveseat. But the benches were not decoration: they hid the power supplies and the cooling machinery.",
+        "Why the C shape? Inside a computer, electrical signals travel along wires, and even electricity takes time to travel. In the Cray-1 the clock ticked 80 million times a second, once every 12.5 billionths of a second. In that tiny moment, a signal can only travel a few metres along a wire. By curving the cabinet into a C, Cray kept the wires inside as short as possible, so signals arrived on time. The Cray-1 could reach about 160 million calculations per second. It weighed about 5 tonnes, including its Freon cooling system, cost around 8 million US dollars in 1977, and more than 80 were sold. Cray kept designing new machines until his death in a car accident in 1996. People still call him 'the father of supercomputing'."
+      ]
+    },
+    {
+      "heading": "Counting Speed in FLOPS",
+      "paragraphs": [
+        "How do you measure the speed of a computer? For a car, you count kilometres per hour. For a supercomputer, scientists count FLOPS, which stands for floating-point operations per second. A floating-point number is just a number with a decimal point that can 'float' to different places, like 3.14159 or 0.000027 or 6,020,000,000. Scientists use these numbers all the time, because real measurements, like temperatures, speeds and distances, are rarely whole numbers. One FLOP is one sum, such as multiplying two decimals together.",
+        "Because the numbers get gigantic, we use special prefixes. A megaflop is a million calculations per second. A gigaflop is a billion. A teraflop is a trillion (a thousand billion). A petaflop is a thousand trillion. And an exaflop is a quintillion: a 1 followed by 18 zeros, or a billion billion. The CDC 6600 managed about 3 megaflops. The Cray-1 reached about 160 megaflops. Today's fastest machines run at more than one exaflop, which is billions of times faster than the Cray-1.",
+        "Here is a way to feel how big an exaflop is. Imagine every one of the roughly 8 billion people on Earth doing one multiplication every second, day and night, without sleeping or eating. To match one second of work by an exascale computer, all of humanity would need to keep going for about four years.",
+        "In 1993, a group of computer scientists, led by Hans Meuer at the University of Mannheim in Germany and joined by Jack Dongarra and others, started a scoreboard called the TOP500. Twice a year, in June and November, it ranks the 500 fastest supercomputers in the world. To make the race fair, every machine runs the same test, called LINPACK, which solves an enormous set of linked equations, the kind that show up in engineering and physics. The very first number one, in 1993, was a Connection Machine CM-5 at Los Alamos, which managed about 60 billion calculations per second on the test. Today an ordinary gaming graphics card can beat that.",
+        "Over the years, the top spot has bounced between the United States, Japan and China. Japan's Earth Simulator took first place in 2002 and was used to model the climate. China's Tianhe-2 and Sunway TaihuLight led for years in the 2010s. Japan's Fugaku, built by RIKEN and Fujitsu, held the crown from 2020 to 2022 and was used to study how coughs and sneezes spread virus droplets during the COVID-19 pandemic. Each new champion is usually overtaken within a few years, because the race never stops."
+      ]
+    },
+    {
+      "heading": "Breaking the Exascale Barrier",
+      "paragraphs": [
+        "For years, computer scientists talked about 'exascale' the way mountaineers once talked about Mount Everest: a distant summit everyone wanted to reach first. On 30 May 2022, Oak Ridge National Laboratory in Tennessee announced that its new machine, Frontier, had done it. On the LINPACK test it reached about 1.1 exaflops, more than a quintillion calculations every second. It became the first computer officially listed on the TOP500 as passing the exascale mark, and it topped the list from June 2022.",
+        "Frontier does not look like the Cray-1. It is not one machine in a cabinet but 74 tall black cabinets standing in rows in a huge room, filling a room bigger than a basketball court. Inside are more than 9,400 central processors and more than 37,000 graphics processors, all made by the company AMD, linked together by fast networks so they can share a problem. Frontier uses about 20 megawatts of electricity when it is working hard, roughly as much as a small town. To carry away the heat, pumps push about 6,000 gallons (around 23,000 litres) of water through it every minute. It cost about 600 million US dollars.",
+        "Then came El Capitan, at Lawrence Livermore National Laboratory in California. In November 2024 it took the top spot on the TOP500 at about 1.7 exaflops, later measured at around 1.8. El Capitan uses special AMD chips called MI300A, which put ordinary processor cores and graphics processors together in one package with shared memory. Its main job is secret work for the US government on keeping nuclear weapons safe without testing them, which is done by simulating them instead. In June 2026 a new Chinese system called LineShine, in Shenzhen, was listed in first place. By the time you read this, the leader may have changed again.",
+        "So what do people actually do with all this speed? Let us go back to 1950. That spring, a team including the meteorologist Jule Charney, the Norwegian scientist Ragnar Fjørtoft and the mathematician John von Neumann used ENIAC, the giant tube machine from Part 10, to make the first weather forecasts ever calculated by a computer. Their model of the atmosphere was very simple. Even so, a 24-hour forecast took ENIAC almost 24 hours to compute, so it barely kept up with the real weather. Decades earlier, around the time of the First World War, the British scientist Lewis Fry Richardson had tried to calculate a six-hour forecast by hand, publishing it in 1922. It took him at least six weeks, and the answer was badly wrong.",
+        "Today, weather services split the whole atmosphere into millions of boxes, each a few kilometres wide, stacked in layers up into the sky. For every box, the supercomputer calculates temperature, wind, pressure and moisture, and how each box pushes on its neighbours, then steps forward in time again and again. They often run the forecast dozens of times with tiny changes to the starting numbers, called an ensemble, to see how sure they can be. Thanks to faster computers, better models and better measurements, forecasts have improved by roughly one extra day of useful accuracy every ten years or so.",
+        "Climate scientists use similar models to look decades or centuries ahead, adding oceans, sea ice, clouds and forests. Doctors and biologists use supercomputers to simulate how drug molecules fit into proteins, or how a virus's outer shell is built. Engineers test virtual car crashes and aircraft wings before building real ones. Astronomers simulate exploding stars called supernovas and the collisions of galaxies. Physicists model the inside of the atom and the fusion reactions that power the Sun. In every case, the supercomputer lets scientists run experiments that would be too big, too slow, too dangerous or simply impossible in real life."
+      ]
+    },
+    {
+      "heading": "Can Machines Think? Turing Asks, Dartmouth Answers",
+      "paragraphs": [
+        "Supercomputers are very fast at sums. But could a computer ever do things we think need intelligence, like playing games, understanding language or recognising a face? This question is much older than you might expect.",
+        "In 1950 Alan Turing, whom you met in Parts 7 and 9, published a paper called 'Computing Machinery and Intelligence' in the philosophy journal Mind. It opens with a bold line: 'I propose to consider the question, Can machines think?' Turing knew the word 'think' was slippery, so he swapped the question for a game, which he called the imitation game. A human judge types questions to two hidden players, one a person and one a machine, and reads their typed answers. If the judge cannot reliably tell which is the machine, Turing suggested, we should take the machine's abilities seriously. Today this is called the Turing test.",
+        "Turing predicted that in about 50 years, computers would play the game so well that an average judge would have no more than a 70 percent chance of picking correctly after five minutes of questions. He also patiently answered objections, including Ada Lovelace's old warning from Part 5 that a machine can only do what we tell it. Many thinkers have since argued that passing such a test would not prove real understanding.",
+        "Six years after Turing's paper, in the summer of 1956, a small group of scientists gathered at Dartmouth College in Hanover, New Hampshire. The meeting was organised by John McCarthy, Marvin Minsky, Nathaniel Rochester of IBM and Claude Shannon, the switching-circuit pioneer from Part 7. In their 1955 proposal for the meeting, McCarthy and his colleagues used a new phrase: artificial intelligence. They hoped that 'every aspect of learning or any other feature of intelligence' could be described so precisely that a machine could copy it. The workshop lasted roughly six to eight weeks and was mostly brainstorming, but it gave the field its name, and many people mark it as AI's birthday.",
+        "But AI turned out to be much harder than the pioneers expected. Translating languages, understanding speech and seeing the world through a camera were far more difficult than chess puzzles. In 1966 a US report called ALPAC concluded that machine translation was slower, less accurate and more expensive than human translators, and funding was cut. In 1969 Minsky and Seymour Papert published a book pointing out the limits of simple neural networks. In 1973 the Lighthill report in Britain criticised AI for failing to deliver. Money dried up, and researchers began calling these cold periods 'AI winters'. The first lasted roughly from the mid-1970s to about 1980.",
+        "In the 1980s a new boom arrived with 'expert systems', programs packed with hand-written rules from human experts, used for tasks like configuring computer orders or suggesting medical diagnoses. Companies spent millions. But the systems were brittle: they broke when they met a situation their rules had not covered, and they were costly to keep updated. Around 1987 the market for special AI computers collapsed, and a second AI winter set in that lasted, by some counts, into the 1990s. AI history is like a roller-coaster of hope and disappointment, and remembering that helps us stay sensible about the excitement today."
+      ]
+    },
+    {
+      "heading": "Checkmate and the Move Nobody Expected",
+      "paragraphs": [
+        "Games have always been a favourite test for AI, because they have clear rules and a clear winner. Chess was the great challenge.",
+        "The machine that finally beat the world's best player grew out of a student project at Carnegie Mellon University in Pittsburgh in the mid-1980s, led by Feng-hsiung Hsu and later joined by Murray Campbell. When the team moved to IBM, their machine was renamed Deep Blue. In February 1996 in Philadelphia, Deep Blue played the world champion Garry Kasparov of Russia. It won the very first game, a shock to the chess world, but Kasparov fought back and won the match 4 to 2.",
+        "IBM upgraded the machine and arranged a rematch in New York City in May 1997. The new Deep Blue used 30 ordinary processors plus 480 special chips designed only for chess, and it could examine about 200 million chess positions every second. The match was tense and emotional. After the second game, Kasparov suggested a human might have helped the computer, which IBM denied. In the sixth and final game, Kasparov made an early mistake, Deep Blue sacrificed a knight to break open his position, and the champion resigned after fewer than 20 moves. Deep Blue won the match 3.5 to 2.5. It was the first time a computer had beaten a reigning world champion in a full match under normal tournament conditions. Today one of Deep Blue's two cabinets is at the Smithsonian's National Museum of American History in Washington, and the other at the Computer History Museum in California.",
+        "But Deep Blue did not learn in the way people do. It mostly used brute force: searching through huge numbers of possible moves, judged by rules that grandmasters and programmers had written into it. That approach could never conquer the ancient Asian board game Go. Go is played on a 19 by 19 grid with black and white stones, and the number of possible positions is so vast that it is greater than the number of atoms in the observable universe. Searching them all is hopeless. Top Go players often say they choose moves by feel and shape.",
+        "In March 2016, at the Four Seasons Hotel in Seoul, South Korea, the program AlphaGo, made by the London company DeepMind (owned by Google), played Lee Sedol, one of the strongest Go players of his generation, for a prize of 1 million US dollars. Tens of millions of people watched online and on television. In game 2, AlphaGo played its 37th move in a spot almost no human professional would have chosen. Commentators first thought it was a mistake; later they called it creative and beautiful. AlphaGo won the first three games.",
+        "Then, in game 4, Lee Sedol struck back. His 78th move was so unexpected that one Chinese grandmaster called it a 'divine move', and AlphaGo stumbled badly afterwards. It was the only game Lee won. AlphaGo took the match 4 games to 1, and DeepMind gave the prize money to charities. AlphaGo was different from Deep Blue because it had learned much of its skill by studying human games and then playing millions of games against itself, using a technique called a neural network."
+      ]
+    },
+    {
+      "heading": "Learning From Examples",
+      "paragraphs": [
+        "Imagine trying to write rules that tell a computer how to recognise a cat in a photo. 'Pointy ears.' But some cats have folded ears. 'Whiskers.' But the whiskers may be hidden. 'Four legs.' But the cat may be curled up asleep. Writing rules by hand for messy real-world things is almost impossible. Machine learning takes a different path: instead of giving the computer rules, you give it thousands or millions of examples, and it finds the patterns itself.",
+        "The most successful kind of machine learning today uses artificial neural networks. The idea was loosely inspired by brain cells, but these networks are really mathematics, not little brains. A neural network is made of layers of simple units. Each unit takes in numbers, multiplies each by a 'weight' (a setting that says how much that input matters), adds them up and passes on a result. The first layer might receive the brightness of every pixel in a picture. The last layer gives an answer, such as 'cat: 92 percent'.",
+        "At first the weights are random, so the answers are nonsense. During training, the network is shown an example, its guess is compared with the right answer, and a method called backpropagation works backwards through the layers, nudging every weight a tiny bit in the direction that would have made the guess better. Repeat this millions of times and the network gradually becomes good at the task. Backpropagation was popularised in a 1986 paper by David Rumelhart, Geoffrey Hinton and Ronald Williams, although others had proposed similar ideas earlier. Networks with many layers are called 'deep', which is where the term deep learning comes from.",
+        "For years neural networks were too slow to train on big problems. The surprise solution came from video games. Graphics processing units, or GPUs, were designed to colour millions of screen pixels many times a second, which means doing huge numbers of simple multiplications at the same time. That is exactly the kind of maths neural networks need.",
+        "In 2012, three researchers at the University of Toronto, Alex Krizhevsky, Ilya Sutskever and their professor Geoffrey Hinton, entered a contest called the ImageNet challenge. ImageNet, created by a team led by Fei-Fei Li, is a giant collection of labelled photos; the contest used about 1.2 million training images sorted into 1,000 categories. Their network, later called AlexNet, had about 60 million weights and was trained on two ordinary gaming graphics cards, reportedly in Krizhevsky's bedroom at his parents' house. It got the top-five error down to about 15 percent, beating the second-best team by more than 10 percentage points. Researchers around the world switched to deep learning almost overnight, and GPU makers such as Nvidia became central to AI.",
+        "Neural networks are now everywhere: in phone cameras, speech-to-text apps, translation services and spam filters. They can be extremely good at specific tasks. But it is important to remember what they are: pattern-finding machines trained on data. They do not see, feel or understand the way a person does, and if their training data is unfair or incomplete, their answers can be unfair or wrong too."
+      ]
+    },
+    {
+      "heading": "Protein Puzzles, Chatbots and Nobel Prizes",
+      "paragraphs": [
+        "Every living thing is built and run by proteins: long chains of building blocks called amino acids that fold up into complicated 3D shapes. The shape decides what the protein does, whether that is carrying oxygen in your blood or helping a virus break into a cell. For about 50 years, scientists wanted to predict a protein's shape just from its chain of amino acids. Working out shapes in the lab with X-rays or powerful microscopes can take months or years for a single protein. Over about 60 years, experiments had revealed the shapes of about 170,000 proteins, while hundreds of millions are known to exist.",
+        "DeepMind's AlphaFold changed that. In a 2020 competition called CASP14, where teams predict protein shapes that have been measured but not yet published, AlphaFold 2 gave the best prediction for 88 of the 97 targets, often almost as accurate as laboratory experiments. In 2022 DeepMind and the European Bioinformatics Institute released free predictions for about 200 million proteins, nearly every protein known to science. Researchers now use them to study diseases, design medicines and even look for enzymes that can break down plastic. AlphaFold did not explain exactly how proteins fold, and its predictions still need checking, but it saved scientists enormous amounts of time.",
+        "Then came the chatbots. On 30 November 2022, the company OpenAI released ChatGPT, a program you could talk to in ordinary language. It reached about 100 million users in roughly two months, one of the fastest-growing apps ever. ChatGPT is built on a large language model, or LLM: a huge neural network, often with hundreds of billions of weights, trained on a vast amount of text from books, websites and other sources. Most LLMs use a design called the transformer, introduced by Google researchers in a 2017 paper called 'Attention Is All You Need'.",
+        "How does an LLM work, in simple terms? During training, it is shown text with the next word hidden and asked to guess it, over and over, trillions of times. To get good at guessing, it builds up patterns about grammar, facts, styles and reasoning steps. Afterwards it is fine-tuned with feedback from people to make it more helpful and polite. When you ask it a question, it writes the answer one small piece at a time, each time picking a likely next piece. Many companies now build such models, and they can write stories, explain homework, translate, summarise and help write computer code.",
+        "But here is the catch. Because an LLM produces what sounds likely, it can produce something that sounds confident and is completely wrong: a made-up date, a book that does not exist, a wrong sum. People call these mistakes 'hallucinations'. AI systems do not know when they are wrong in the way a careful person might, and they are not conscious. So the golden rule is simple: AI can be a useful helper, but check important facts with reliable sources, and never share private information with a chatbot without a trusted adult's say-so.",
+        "In October 2024 the Nobel committees made history. The Physics prize went to John Hopfield, an American physicist who in 1982 invented a kind of network that can store patterns and recall a whole memory from a partial clue, and Geoffrey Hinton, who built on Hopfield's ideas with a network called the Boltzmann machine and helped make deep learning work. A few days later, half of the Chemistry prize went to Demis Hassabis and John Jumper of DeepMind for AlphaFold, and the other half to David Baker of the University of Washington for using computers to design entirely new proteins. Hinton, who had left Google in 2023 so he could speak freely about AI's risks, used his moment to urge people to take safety seriously. AI had arrived in the most famous science prizes on Earth.",
+        "From Cray's C-shaped cabinet to rooms full of humming GPUs, the story of supercomputers and AI is the story of more and more calculations squeezed into less and less space. But there is a limit. Modern transistors have parts only a few dozen atoms across. You cannot cut an atom in half and still have a working switch. So what comes next when transistors are almost as small as atoms?"
+      ]
+    }
+  ],
+  "deepDive": "Two quite different ideas share this chapter. Supercomputing is about raw arithmetic: how many floating-point operations a machine can complete per second. Since 1993 the TOP500 has ranked machines with the High-Performance LINPACK benchmark, which solves a huge dense system of linear equations. Critics point out that LINPACK flatters machines, because real science codes spend much of their time waiting for data to move between memory and processors rather than multiplying; a computer's 'Rmax' on LINPACK is often far above what real applications achieve. Other lists try to fix this, such as the Green500, which ranks machines by calculations per watt, and the HPCG benchmark, which uses a more memory-bound problem. Speed figures also depend on precision: Frontier managed about 1.1 exaflops with 64-bit numbers but roughly 6.9 'exaflops' on a lower-precision AI test, so headlines about 'AI exaflops' are not comparable with TOP500 numbers.\n\nArtificial intelligence, by contrast, has always argued about what success even means. Turing's imitation game measured behaviour, not inner experience, and Searle's Chinese room argued that symbol manipulation is not understanding. The history of AI is often told as two traditions: 'symbolic' AI, which wrote explicit rules and logic (expert systems, Deep Blue's evaluation functions), and 'connectionist' AI, which learns weights in networks from data (perceptrons, backpropagation, deep learning). The connectionist side suffered badly after Minsky and Papert's 1969 critique of single-layer perceptrons, even though multi-layer networks did not share all those limits. Its comeback after 2012 depended on three things arriving together: large labelled datasets such as ImageNet, cheap parallel hardware in the form of GPUs, and training tricks that made deep networks stable.\n\nHistorians also debate the AI winters themselves. Thomas Haigh, for example, argues that membership of AI research groups kept growing through the 1970s, so the 'first winter' was more a cut in particular funding streams than a collapse of the field. Today's debates are about large language models: whether scaling up data and computing power will keep improving them, how to measure 'reasoning', and how to reduce hallucinations, bias and misuse. The 2024 Nobel Prizes were themselves debated, since some physicists asked whether neural networks belonged in a physics prize; the committee pointed to Hopfield's and Hinton's use of ideas from statistical physics, such as energy landscapes and the Boltzmann distribution.",
+  "funFact": "The Cray-1 supercomputer of 1976 was C-shaped and ringed with padded benches that hid its power supplies, so people nicknamed it the world's most expensive loveseat, yet a modern smartphone is many thousands of times faster.",
+  "check": {
+    "q": "Which machine was the first to officially pass one exaflop (a quintillion calculations per second) on the TOP500 list in 2022?",
+    "a": "Frontier, at Oak Ridge National Laboratory",
+    "wrong": [
+      "The Cray-1, at Los Alamos",
+      "Deep Blue, at IBM",
+      "The CDC 6600, at Chippewa Falls"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cray-1",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cray-1"
+    },
+    {
+      "title": "CDC 6600",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/CDC_6600"
+    },
+    {
+      "title": "Frontier supercomputer debuts as world's fastest, breaking exascale barrier",
+      "publisher": "Oak Ridge National Laboratory",
+      "url": "https://www.ornl.gov/news/frontier-supercomputer-debuts-worlds-fastest-breaking-exascale-barrier"
+    },
+    {
+      "title": "TOP500 List, June 2026",
+      "publisher": "TOP500.org",
+      "url": "https://www.top500.org/lists/top500/2026/06/"
+    },
+    {
+      "title": "Numerical weather prediction",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Numerical_weather_prediction"
+    },
+    {
+      "title": "Dartmouth workshop",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dartmouth_workshop"
+    },
+    {
+      "title": "Deep Blue versus Garry Kasparov",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Deep_Blue_versus_Garry_Kasparov"
+    },
+    {
+      "title": "AlphaFold",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/AlphaFold"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A Cray-1 supercomputer with its C-shaped cabinet and ring of cushioned benches, on display in a museum",
+      "search": "Cray-1 supercomputer museum"
+    },
+    {
+      "want": "Rows of black cabinets of the Frontier exascale supercomputer at Oak Ridge National Laboratory",
+      "search": "Frontier supercomputer Oak Ridge"
+    },
+    {
+      "want": "One of the Deep Blue chess computer cabinets on display at the Computer History Museum",
+      "search": "Deep Blue IBM chess computer museum"
+    }
+  ]
+}

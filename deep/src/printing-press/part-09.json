@@ -1,0 +1,160 @@
+{
+  "n": 9,
+  "title": "How Gutenberg's System Worked",
+  "when": "about 1440 – 1455",
+  "summary": "Gutenberg did not build just one clever machine. He built a whole chain of tools: a steel letter, a copper dent, a little hand-held mould, a special metal, a sticky black ink and a strong press. Put them all together, and a workshop could make thousands of perfect, matching letters and print with them again and again.",
+  "sections": [
+    {
+      "heading": "A Puzzle Made of Thousands of Pieces",
+      "paragraphs": [
+        "Imagine you want to print a page the size of a big school atlas, packed with two tall columns of text, about 3,000 letters and spaces in all. If every letter is a separate little block, you need thousands of blocks for that one page alone. Now imagine you want to print a whole book of more than a thousand pages. Suddenly you are not thinking about a few letters. You are thinking about a mountain of them.",
+        "That was the puzzle Johannes Gutenberg faced in Mainz in the 1440s and early 1450s. As we saw in the last part, he had spent years in secret experiments, borrowing money and hiring helpers. The question was not just how to press ink onto paper. People in Europe already knew how to do that with woodcut pictures. The real question was much harder: how can you make huge numbers of small letters that are all exactly the same height, the same depth, and the same shape, cheaply and quickly, so that they fit together like perfect bricks?",
+        "Why does exact height matter so much? Think of a page of type as a flat field of tiny metal towers, each with a letter on its top. When the press pushes paper down onto them, every tower has to touch the paper with the same pressure. If one letter is a hair too short, it prints faint or not at all. If one is a hair too tall, it punches into the paper and smudges. Even a difference thinner than a sheet of paper can ruin a line. Carving letters one by one in wood would never be accurate enough, and wood swells and shrinks when it gets wet or dry.",
+        "Gutenberg had an advantage here. He had been trained as a metalworker and had worked with goldsmiths' tools. Goldsmiths knew how to cut tiny designs in hard steel, how to stamp shapes into softer metal, how to melt and cast alloys, and how to measure things very precisely. Coin makers used similar tricks to stamp the same design onto thousands of coins. Gutenberg's genius was to take these skills and turn them toward letters.",
+        "His answer was not one machine but a whole chain of steps. Each step solved one part of the problem, and each step handed its result to the next. Historians call this a system. In this part we will follow that chain from start to finish: the punch, the matrix, the hand mould, the type metal, the ink and the press. By the end, you will understand why many experts think the cleverest part of the whole invention was something small enough to hold in one hand."
+      ]
+    },
+    {
+      "heading": "Step One: The Punch, a Letter Carved Backwards in Steel",
+      "paragraphs": [
+        "Everything began with the punch. A punch is a rod of steel, roughly as long as your finger, with a single letter carved on its tip. The skilled worker who made it was called a punchcutter, and this was one of the most demanding jobs in the whole workshop.",
+        "Here is the tricky part: the letter on the punch had to be carved backwards, as a mirror image. Why? Hold a rubber stamp up and look at it. The letters on the stamp are reversed, so that when you press it onto paper, they come out the right way round. Printing type works the same way. And as you will see in a moment, the punch gets flipped twice before it turns into printing type, so the punch itself had to be backwards as well.",
+        "To make a punch, the punchcutter took a bar of steel that was soft enough to cut. Using tiny files and engraving tools called gravers, he slowly shaped the end until only the letter stood up from the surface, with the metal around it filed away. Small hollow spaces inside letters, like the hole in an o or the closed part of an a, were often made with another tool called a counterpunch. The counterpunch was itself a tiny steel shape that was hammered into the end of the punch to sink those inner spaces neatly. Using the same counterpunch for several letters helped them match each other.",
+        "The punchcutter worked under good light, checking his letter again and again. He could make a smoky proof by holding the punch in a candle flame so it got coated with soot, then pressing it onto paper to see what the letter looked like. When it was finally right, the steel was hardened by heating it and then cooling it quickly in water or oil. Now it was hard enough to be hammered into another metal without bending.",
+        "Making one punch could take a skilled cutter a long time, perhaps most of a day for a complicated letter. But here was the beauty of the idea: you only needed to cut each letter once. One good punch could be the parent of thousands of printed letters. That is why, in later centuries, printers treasured their punches and matrices more than the type itself. Type wore out and was melted down; punches were the master copies."
+      ]
+    },
+    {
+      "heading": "Step Two: The Matrix, a Letter-Shaped Dent in Copper",
+      "paragraphs": [
+        "Once the steel punch was hard, the next step was to make the matrix. The word matrix comes from Latin and is related to the word for mother, which is a good way to remember it: the matrix is the mother mould that gives birth to every piece of type.",
+        "The worker placed the hardened punch on a small block of copper, a much softer metal, and struck it firmly with a hammer. The punch sank into the copper and left a letter-shaped dent. Because the punch was backwards, the dent in the copper reads the right way round, just as a footprint in sand shows the shape of your shoe the right way round when you look down into it.",
+        "This sounds simple, but it needed great care. The punch had to go in perfectly straight, to exactly the right depth. If it was tilted, the letters cast from that matrix would lean or print unevenly. After striking, the copper block was usually distorted a little at its edges, so it had to be filed and trimmed into a neat rectangular block with straight sides and an even depth. This job was called justifying the matrix. A slightly crooked matrix would make every single letter cast from it crooked too, so the time spent here paid off thousands of times later.",
+        "Why copper? Copper is soft enough that a hardened steel punch can be driven into it, yet strong enough to hold its shape when hot liquid metal is poured against it again and again. It also does not melt at the temperature of molten type metal, which is far lower than copper's own melting point of about 1,085 degrees Celsius. So the copper dent could be filled, emptied and filled again for a very long time.",
+        "Gutenberg's workshop needed a separate punch and a separate matrix for every different shape of letter it wanted to print. As we will see, for his great Bible that meant not 26 shapes, and not even 52 for capitals and small letters, but around 290. That is a lot of patient steelwork before a single page could be printed."
+      ]
+    },
+    {
+      "heading": "Step Three: The Hand Mould, the Heart of the Invention",
+      "paragraphs": [
+        "Now comes the part that many historians think was Gutenberg's most important idea: the hand mould. Aloys Ruppel, a famous director of the Gutenberg Museum in Mainz in the 20th century, argued that this little tool was the real key to the whole invention. The Gutenberg Museum today still describes the hand casting instrument as the most important part of the system.",
+        "Picture a small metal box, open at the top, made of two L-shaped halves that slide together. Around the metal is a wooden casing, so the caster can hold it in his hands without burning his fingers. When the two halves are pushed together, they form a narrow rectangular tunnel, a little like a square drinking straw. At the bottom end of this tunnel the copper matrix is clamped into place, held tight by a metal spring, with its letter-shaped dent facing up into the tunnel. At the top is a funnel-shaped opening for pouring.",
+        "The clever trick is that the two halves can slide sideways against each other. Pull them a little apart and the tunnel gets wider; push them closer and it gets narrower. But the height of the tunnel, the distance from the matrix to the top, never changes. This meant that the same mould could cast a skinny letter like i or l and a fat letter like m or w, yet every one of them would come out exactly the same height. That one feature solved the problem of the uneven field of tiny towers we imagined earlier.",
+        "Casting a letter went like this. The caster held the closed mould in one hand. With a small ladle in the other, he scooped up molten type metal from a little pot kept hot over a fire and poured it quickly into the opening. Many casters gave the mould a sharp upward flick as they poured, which helped push the liquid metal hard into every corner of the matrix. The metal cooled and turned solid almost at once. Then he flipped the spring, pulled the two halves apart, and out dropped a finished piece of type. He closed the mould and did it again.",
+        "Each new piece came out with an extra stub of metal attached on one end, where the metal had filled the funnel. This stub is called the jet or sprue. Workers snapped it off at a weak point built into the shape, and the leftover metal went straight back into the melting pot, so nothing was wasted. The type was then rubbed and filed smooth so it would stand straight and line up with its neighbours. A small groove called a nick was often made on one side so that a typesetter could feel, without even looking, which way round the letter was facing.",
+        "How fast was this? Later typefounders using hand moulds are believed to have cast several thousand letters in a day. Gutenberg's own speed is not recorded. Compare that with a scribe, who might write a few pages a day, or a woodcarver, who might need days to carve a single page. The hand mould turned a slow craft into something close to mass production.",
+        "Each finished piece of type is called a sort. It is a long, rectangular stick of metal with a raised, backwards letter on its top end. Line up thousands of sorts and you have a whole page waiting for ink."
+      ]
+    },
+    {
+      "heading": "Step Four: Type Metal, a Recipe That Freezes Sharp",
+      "paragraphs": [
+        "What should the type be made of? This was not an easy question. The metal had to melt at a fairly low temperature, so a small fire could keep it liquid. It had to flow into the finest lines of the matrix, like the thin hairline strokes of a letter. It had to harden quickly so the caster could keep working. And it had to be tough enough to survive being squeezed in a press thousands of times.",
+        "Gutenberg's exact recipe has not survived. We know about it from later descriptions and from studying old type. The usual answer that printers settled on, and the one most experts think Gutenberg's metal was close to, is an alloy (a mixture of metals) made mostly of lead, with tin and antimony added, and tiny traces of other metals such as copper or iron. This mixture is called type metal.",
+        "Each ingredient has a job. Lead is soft, heavy and cheap, and it melts at about 327 degrees Celsius, which is hot but still easy to reach with a charcoal fire. Tin melts even lower, at about 232 degrees Celsius. When the right metals are mixed together, the alloy melts at a lower temperature than pure lead (some type metals melt at only about 240 to 250 degrees Celsius), so type metal stays runny at a comfortable working heat and freezes almost instantly when it touches the cooler mould. Tin also makes the type tougher, so it does not wear down or crack as easily.",
+        "Antimony is the most interesting ingredient. Most metals shrink a little as they cool and turn from liquid to solid. Pure lead does this, which means a pure lead letter would pull back slightly from the edges of the matrix and come out soft and blurry. Antimony does something unusual: it is one of very few substances that expand slightly as they freeze, a bit like water turning into ice. Mixed with lead and tin, it cancels out the shrinking and pushes the metal firmly into every tiny corner of the matrix. The result is a letter with crisp, sharp edges. Antimony also makes the alloy harder.",
+        "Later type metals varied a lot. Hand-set foundry type in modern times was often about 54 parts lead, 28 parts antimony and 18 parts tin, while metal for typesetting machines held much more lead, and the exact mix changed over the centuries and from foundry to foundry. Whatever Gutenberg's own proportions were, he found a recipe that worked well enough to print one of the most beautiful books ever made.",
+        "There was one serious downside, which no one at the time understood. Lead is poisonous. People who melted, cast and handled lead type every day for years could slowly build up lead in their bodies. You will read more about the health dangers of printing in a later part of this story."
+      ]
+    },
+    {
+      "heading": "Step Five: An Ink That Sticks to Metal",
+      "paragraphs": [
+        "With a page of shiny metal type ready, Gutenberg met another problem. The inks used in Europe for writing and in East Asia for woodblock printing were mostly water-based. Brushed onto a wooden block, a watery ink soaks in a little and then transfers neatly to paper. But try to put a watery ink on smooth metal and it behaves like raindrops on a car window: it beads up and runs into blobs instead of spreading in a thin, even layer.",
+        "Gutenberg's solution came from the world of painting. Artists in his time, especially in the Low Countries, were experimenting with oil paints made by mixing coloured powders into oils such as linseed oil, which comes from the seeds of the flax plant. When linseed oil is boiled for a long time, it thickens into a sticky, honey-like varnish. Mix in a black powder such as soot from burning lamps or resin, called lampblack, and you get a thick, tacky ink that clings to metal like jam clings to a knife.",
+        "This oil-based ink was spread onto the type in a thin, even film, and when paper was pressed down on it, it transferred cleanly and dried into a deep, glossy black. If you look at a page of the Gutenberg Bible today, more than 570 years later, the letters still look rich and dark, as if they had been printed last year.",
+        "In the early 1980s, scientists found an amazing way to study this ink without harming a single page. At the Crocker Nuclear Laboratory at the University of California, Davis, the physicist Thomas Cahill and the historian Richard Schwab used a cyclotron, a machine that speeds up tiny particles called protons, to send a very gentle beam through pages of a Gutenberg Bible. The protons made the atoms in the ink give off X-rays, and each chemical element gives off its own pattern. This told the researchers which metals were in the ink.",
+        "They discovered that Gutenberg's ink was unusually rich in lead and copper, which helps explain its gleam. Other books from the same years did not show this metal-rich ink, so Cahill joked that it was almost as if Gutenberg had left a signature. The tests also showed small differences between batches of ink, which gave historians clues about how many presses might have been working on the Bible at the same time. Those clues are interesting but not certain, and experts still discuss what they really prove."
+      ]
+    },
+    {
+      "heading": "Step Six: The Press, an Old Machine with a New Job",
+      "paragraphs": [
+        "Finally, the inked type had to meet the paper with strong, even pressure. In East Asia, printers pressed paper onto woodblocks by rubbing the back of the sheet with a brush or pad, which works well on thin, soft paper. But European paper was thicker and stiffer, and metal type needed firm, flat pressure all at once. Rubbing would never be even enough across a big page.",
+        "Gutenberg did not have to invent a pressing machine from nothing, and he did not. Europeans had been using screw presses for well over a thousand years. Since Roman times, farmers had squeezed grapes for wine and olives for oil with big wooden presses. A heavy wooden screw was turned with a bar, pushing a flat board down hard onto whatever lay underneath. Papermakers used similar presses to squeeze water out of stacks of newly made sheets, and bookbinders used them to press books flat.",
+        "Gutenberg adapted this familiar machine for printing. The flat board that pressed down was called the platen. The forme of locked-up type lay on a flat bed underneath. The paper was laid on top of the inked type, the pressman pulled the bar to turn the screw, the platen pressed down, and the ink jumped from the type to the paper. One important improvement was to stop the platen from twisting as the screw turned, because any twist would drag the paper sideways across the wet ink and smear the letters.",
+        "No press used by Gutenberg himself has survived, so we do not know exactly what it looked like. The working replicas you can see today, such as the one at the Gutenberg Museum in Mainz, are reconstructions based on the earliest pictures of print shops, which date from several decades after his death. Over the following years printers added more improvements, such as a sliding bed that could be rolled in and out from under the platen. The day-to-day work of running a press, the inking, the paper handling, and the teamwork of a busy shop, is a story of its own, which you will read in Part 11.",
+        "The key point is this: the press was an old idea given a new job. Gutenberg himself did not invent the screw press, and he never needed to. His achievement was to see that a winemaker's tool could become the final link in a chain of inventions that started with a single steel punch."
+      ]
+    },
+    {
+      "heading": "Putting the System Together, and Giving Fair Credit",
+      "paragraphs": [
+        "Now we can see the whole chain at once. A punchcutter carves a backwards letter in steel. The punch is struck into copper to make a matrix. The matrix is clamped into the hand mould. Molten type metal is poured in, and out drops a sort, again and again, thousands of times. The sorts are set into lines and pages, inked with oily black ink, and pressed onto paper in an adapted screw press. After printing, the type is cleaned and sorted back into its cases, ready to spell out completely different words on the next page. Each step on its own was not completely new. Together, they made something the world had never had: a fast, reliable way to mass-produce reusable metal type in Europe.",
+        "Gutenberg also had high artistic ambitions. He wanted his printed pages to look as beautiful as the finest handwritten books. Scribes of the time used a dense, dark style of writing now called textura, because the page looks woven like a textile. They also used many joined letters, called ligatures, and many short forms of common words, called abbreviations, to fit text neatly into each line. To imitate this, Gutenberg's type for his great Bible had around 290 different characters: capitals, small letters, punctuation, many ligatures, abbreviations, and several slightly different widths of the same letter.",
+        "Why so many? Remember that every line in a column must be exactly the same width, a problem called justification. Instead of making the gaps between words very wide or very narrow, Gutenberg's typesetters could swap in a narrower version of a letter, or a ligature, or an abbreviation, to make each line fit perfectly while keeping the spacing even. The result is columns that look wonderfully even. Roughly 60 characters would have been enough just to spell the words; the other 200 or so were there for beauty.",
+        "All this meant a lot of metal. Setting several pages at once for a book as big as the Bible needed a huge stock of sorts. Some experts estimate that something like 100,000 pieces of type might have been needed for a big job like this, because the same sorts could be reused once a set of pages was printed. Across the whole Bible, the letters printed add up to millions, but they were made from that much smaller, constantly recycled stock.",
+        "Now for fair credit, which matters a great deal in this story. Gutenberg did not invent printing, and he was not the first person to print with movable type, or even with metal type. Woodblock printing had flourished in China for centuries. Bi Sheng made movable type from baked clay in the 1040s. And in Korea, printers were casting metal type by the 1200s; Jikji, printed at Heungdeok Temple in 1377, survives as the oldest known book printed with movable metal type, about 78 years before Gutenberg's Bible.",
+        "Korean metal type was made differently. Experts believe that in the Goryeo kingdom each character was usually carved in beeswax, covered in clay, and heated so the wax melted away, leaving a hollow to be filled with molten bronze. This is called lost-wax casting. Later, in the Joseon kingdom, a sand-mould method became common, where carved wooden characters were pressed into fine sand to make the mould. These methods produced beautiful type, but each mould was used only once or a few times. Gutenberg's punch, matrix and adjustable hand mould allowed the same letter to be cast over and over, very fast, with identical height. That is the true heart of his achievement: not the first movable type, but a way to make enormous amounts of it in Europe quickly and cheaply.",
+        "Historians still debate exactly how Gutenberg's earliest type was made, and whether his first experiments used the same tools that later typefounders did. But by the early 1450s, his workshop clearly had a working system. The punches were cut, the matrices struck, the moulds were busy, and the ink pots were full. With his system finally working, Gutenberg set out on the most daring project of all: a giant, beautiful Bible."
+      ]
+    }
+  ],
+  "deepDive": "How much of the classic punch-matrix-mould story really goes back to Gutenberg himself? For most of the 20th century, scholars followed Aloys Ruppel of the Gutenberg Museum, who argued that Gutenberg devised the adjustable hand mould and that this was the decisive invention. In the 1920s some researchers had proposed that Gutenberg used sand casting instead, and Ruppel rejected that idea. The debate reopened in 2001, when the rare-book scholar Paul Needham and the computer scientist Blaise Agüera y Arcas used digital imaging to compare thousands of individual letters in some of the earliest Mainz printing. They reported that supposedly identical letters showed more variation than expected if every one had come from a single permanent matrix, suggesting that the earliest type may have been cast with temporary moulds of some kind. Not every expert accepts their conclusions, and the study looked at early printing types rather than settling every question about the Bible type. What almost everyone agrees on is that within a few decades, European typefounding used steel punches, copper matrices and adjustable hand moulds, a system that lasted with only modest changes until the 1800s. The metallurgy also deserves a closer look. Most liquid metals shrink by a few percent as they solidify, which rounds off fine detail. Antimony and the hard antimony-tin compounds that crystallise in type metal expand slightly instead, so a well-balanced alloy freezes with almost no net shrinkage and fills the matrix sharply. Later standard alloys contained roughly 3 to 20 percent tin and 11 to 30 percent antimony, with lead making up the rest; Gutenberg's own proportions are unknown. The ink research at UC Davis in the 1980s used a technique called PIXE (particle-induced X-ray emission), a non-destructive method that identifies elements by the X-rays they give off when struck by protons. Its finding of high copper and lead in Gutenberg's ink, and differences between ink batches, has been used to argue about how many presses worked on the Bible and when, but these reconstructions remain hypotheses rather than settled history.",
+  "funFact": "Antimony, one of the metals in type metal, is one of the very few substances that expands slightly when it turns from liquid to solid, which is why it helped printing type come out of the mould with crisp, sharp edges.",
+  "check": {
+    "q": "In Gutenberg's system, what was the matrix?",
+    "a": "A copper block with a letter-shaped dent, made by striking a steel punch into it, used as the mould for casting type",
+    "wrong": [
+      "A wooden block with a whole page carved on it",
+      "The flat board in the press that pushed the paper down",
+      "A sticky black ink made from linseed oil and soot"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Just My Type: Making Letters at the Type Foundry",
+      "publisher": "Library of Congress (Bibliomania blog)",
+      "url": "https://blogs.loc.gov/bibliomania/2024/12/17/just-my-type-making-letters-at-the-type-foundry/"
+    },
+    {
+      "title": "The Invention",
+      "publisher": "Gutenberg Museum Mainz",
+      "url": "https://www.gutenberg.de/en/erfindung/"
+    },
+    {
+      "title": "Gutenberg's Inventions – Part 3: Type and type case",
+      "publisher": "drupa / Messe Düsseldorf",
+      "url": "https://www.drupa.com/en/Media_News/drupa_blog/Print_Technologies/Pioneers_and_History_of_Printing/Gutenberg%E2%80%99s_Inventions_%E2%80%93_Part_3_Type_and_type_case"
+    },
+    {
+      "title": "Antimony",
+      "publisher": "HyperPhysics, Georgia State University",
+      "url": "https://hyperphysics.gsu.edu/hbase/pertab/Sb.html"
+    },
+    {
+      "title": "Cyclotron unlocks secrets surrounding Gutenberg",
+      "publisher": "The Christian Science Monitor",
+      "url": "https://csmonitor.com/1983/1020/102013.html"
+    },
+    {
+      "title": "Incunabula: Dawn of Western Printing, Chapter 2",
+      "publisher": "National Diet Library, Japan",
+      "url": "https://www.ndl.go.jp/incunabula/e/chapter2"
+    },
+    {
+      "title": "Art of printing",
+      "publisher": "The Korea Times",
+      "url": "https://www.koreatimes.co.kr/lifestyle/20150426/art-of-printing"
+    },
+    {
+      "title": "Type metal",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Type_metal"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A historical steel type punch next to its copper matrix, as kept in a printing museum such as the Plantin-Moretus Museum in Antwerp",
+      "search": "type punch matrix Plantin-Moretus"
+    },
+    {
+      "want": "A typefounder's hand mould for casting metal type, with its wooden casing, shown open or closed",
+      "search": "type casting hand mould"
+    },
+    {
+      "want": "The reconstructed Gutenberg-style wooden screw printing press at the Gutenberg Museum in Mainz",
+      "search": "Gutenberg press replica Mainz museum"
+    }
+  ]
+}

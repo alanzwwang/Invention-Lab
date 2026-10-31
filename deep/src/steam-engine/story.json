@@ -1,0 +1,493 @@
+{
+  "slug": "steam-engine",
+  "title": "The Steam Engine",
+  "emoji": "⚙️",
+  "tagline": "How boiling water learned to lift, spin and power the world",
+  "intro": "Put a lid on a pot of boiling water and watch it rattle. That little rattle is a clue to one of the biggest changes in human history. For thousands of years, almost all work was done by muscles, wind and flowing water. Then, step by step, people learned to turn heat into motion. In these 20 parts you will meet a Greek inventor with a spinning ball of steam, scientists who weighed the air, a blacksmith-like ironmonger who drained flooded mines, an instrument maker who took a Sunday walk and solved a puzzle, and the engineers who built mills, ships and roaring factories. You will see how a steam engine really works, why it changed cities, jobs and families (not always for the better), and how it helped create a whole new science. And you will discover a surprise: steam never really went away. Most power stations today still boil water to make your electricity.",
+  "outline": [
+    {
+      "n": 1,
+      "title": "A World Powered by Muscle, Wind and Water",
+      "when": "Ancient times – about 1700",
+      "covers": [
+        "What 'power' meant before engines: human muscle, animals (oxen, horses), wind (windmills, sails) and water (waterwheels)",
+        "Horse gins and treadwheels: how horses walking in circles pumped water and lifted loads in mines",
+        "Waterwheels and windmills: great but stuck in one place and dependent on rivers and weather",
+        "Britain's 'wood crisis' in the 1500s–1600s pushed people to burn more coal, so coal mines grew deeper",
+        "The big problem: deep mines (coal, tin, copper) kept flooding with groundwater and were hard to drain",
+        "Set up the core question of the whole story: could heat (fire) be turned into useful motion?"
+      ],
+      "keyFacts": [
+        "Watermills were described by Greek and Roman writers over 2,000 years ago; England's Domesday Book (1086) lists over 5,000 mills",
+        "A working horse can keep up only a fraction of its short-burst strength for a full day, and many horses needed feed, stables and handlers",
+        "A simple suction pump cannot lift water more than about 10 metres (about 33 feet), because it relies on air pressure"
+      ],
+      "hook": "End by noting that the idea of using steam to move things was actually very old: an inventor in ancient Egypt had already made steam spin."
+    },
+    {
+      "n": 2,
+      "title": "Hero's Spinning Ball",
+      "when": "About 1st century BCE – 1st century CE",
+      "covers": [
+        "Alexandria in Roman Egypt as a centre of learning; the Library and Museum",
+        "Hero (Heron) of Alexandria and his book Pneumatica, describing many devices using air, water and steam",
+        "The aeolipile: a hollow ball on pivots, with bent nozzles; steam shooting out made it spin (an early reaction turbine)",
+        "Vitruvius, a Roman writer, also described aeolipiles (as weather/wind demonstrations) about a century earlier",
+        "Hero's other gadgets: a coin-operated holy-water dispenser and temple doors said to open using fire-heated air and water (label this clearly: a described device, and historians are unsure if it was ever built at full size)",
+        "Why it stayed a curiosity: no strong metalworking for sealed boilers, no clear practical job for it, cheap human labour, and little idea of how to connect spinning to useful work"
+      ],
+      "keyFacts": [
+        "Hero's exact dates are uncertain; he is usually placed in the 1st century CE (often given as about 10–70 CE), partly because he described a lunar eclipse that matches 62 CE",
+        "The aeolipile spun very fast but produced only a tiny amount of useful force",
+        "Hero's aeolipile works on the same reaction principle (action and reaction) as a modern lawn sprinkler or rocket"
+      ],
+      "hook": "End with the idea being 'forgotten' in practice for about 1,500 years, until a few inventors in very different countries started to dream about steam again."
+    },
+    {
+      "n": 3,
+      "title": "Spits, Pumps and Daydreams",
+      "when": "1500s – 1660s",
+      "covers": [
+        "Taqi al-Din, an Ottoman scholar, described a steam-turned roasting spit in 1551",
+        "Jerónimo de Ayanz y Beaumont of Spain received a patent (royal privilege) in 1606 for a steam-driven device to raise water, linked to draining silver mines",
+        "Salomon de Caus (France) described in 1615 how steam pressure could force water up a pipe",
+        "Giovanni Branca (Italy) published a design in 1629 where a steam jet would hit a paddle wheel to turn a stamping mill (an idea, not a proven working machine)",
+        "Edward Somerset, 2nd Marquess of Worcester, described a 'water-commanding engine' in his 1663 book A Century of Inventions",
+        "Theme: lots of clever ideas around the world, but none yet became a reliable everyday machine; important to give credit fairly to inventors outside Britain"
+      ],
+      "keyFacts": [
+        "Taqi al-Din's steam spit appears in his 1551 book on mechanical devices",
+        "Ayanz's 1606 privilege from King Philip III of Spain is one of the earliest known patents for a steam device",
+        "Branca's 1629 book was called Le Machine"
+      ],
+      "hook": "End by revealing that the real key to the first practical steam engines was not steam pushing at all, but a strange discovery about empty space and the weight of air."
+    },
+    {
+      "n": 4,
+      "title": "The Weight of the Air",
+      "when": "1640s – 1690s",
+      "covers": [
+        "Evangelista Torricelli's mercury tube (1643): the first barometer and a man-made vacuum above the mercury",
+        "Blaise Pascal's Puy de Dôme experiment (1648, carried out by his brother-in-law Florin Périer): air pressure is lower on a mountain",
+        "Otto von Guericke's vacuum pump and the Magdeburg hemispheres in the 1650s: teams of horses could not pull apart two half-spheres held together only by air pressure",
+        "Robert Boyle and Robert Hooke's improved air pump (1659) and experiments on air",
+        "Christiaan Huygens's gunpowder engine idea (1673), using an explosion to empty a cylinder",
+        "Denis Papin: his 'steam digester' pressure cooker (1679) with a safety valve, and his 1690 idea of a piston in a cylinder pushed down by air after steam condensed",
+        "Explain simply: if you fill a space with steam and cool it, the steam turns back to a few drops of water, leaving a near-vacuum; then the air outside pushes hard"
+      ],
+      "keyFacts": [
+        "Air at sea level presses with about 1 kilogram on every square centimetre (about 14.7 pounds per square inch)",
+        "Steam takes up roughly 1,600–1,700 times more space than the liquid water it came from (at normal air pressure)",
+        "Papin's 1690 piston-and-cylinder idea is the basic layout used later by Newcomen and Watt"
+      ],
+      "hook": "End with mine owners in England desperate for a pump, and a military engineer named Thomas Savery about to patent 'the Miner's Friend'."
+    },
+    {
+      "n": 5,
+      "title": "Savery and the Miner's Friend",
+      "when": "1698 – early 1700s",
+      "covers": [
+        "Thomas Savery, English military engineer, and his 1698 patent for 'raising water by the impellent force of fire'",
+        "His 1702 booklet The Miner's Friend advertising the machine",
+        "How it worked: no piston; steam filled a vessel, cold water on the outside condensed it, the vacuum sucked water up, then high-pressure steam pushed the water higher",
+        "Its limits: suction lift under about 10 metres, high-pressure steam made weak boilers and solder joints dangerous, and it used lots of fuel",
+        "Where it was used: some mines tried it, but it worked better for pumping water in houses, gardens and waterworks",
+        "Savery's very broad patent, later extended by Act of Parliament to 1733, which mattered for the next inventor"
+      ],
+      "keyFacts": [
+        "Savery's patent was granted in 1698",
+        "The Act of Parliament of 1699 extended Savery's patent so it lasted until 1733",
+        "Savery's engine had no moving piston or beam; valves and taps were turned by hand"
+      ],
+      "hook": "End by introducing an ironmonger from Dartmouth in Devon who saw the mines' problem up close and had a different plan using a piston and a giant rocking beam."
+    },
+    {
+      "n": 6,
+      "title": "Newcomen's Nodding Giant",
+      "when": "1712 – 1770s",
+      "covers": [
+        "Thomas Newcomen, ironmonger of Dartmouth, and his partner John Calley; years of experiments",
+        "The first known successful engine, 1712, near Dudley Castle in the West Midlands, pumping water from a coal mine",
+        "How the atmospheric engine worked: a big wooden beam rocks like a seesaw; steam at low pressure fills the cylinder; a spray of cold water inside condenses it; air pressure pushes the piston down; the weight of pump rods pulls it back up",
+        "The cold-water spray inside the cylinder was a huge improvement (the story that a leak revealed it is a traditional tale)",
+        "Automatic valve gear; the legend of a boy named Humphrey Potter tying strings to the valves (must be labelled as a legend)",
+        "Newcomen had to work under Savery's patent, so he got less credit and money than he deserved",
+        "Spread: engines across Britain and to Europe (for example Hungary, Sweden, France); John Smeaton later improved their design in the 1770s"
+      ],
+      "keyFacts": [
+        "The 1712 engine made about 12 strokes per minute",
+        "Newcomen engines turned only around 1 percent (or less) of the fuel's energy into useful work, but at coal mines coal was cheap",
+        "By the time Savery's patent ran out in 1733, roughly 100 Newcomen engines had been built; the Elsecar engine near Barnsley (1795) still stands in its original place"
+      ],
+      "hook": "End in Glasgow in the 1760s, where a university instrument maker is handed a small broken model of a Newcomen engine to repair."
+    },
+    {
+      "n": 7,
+      "title": "Watt's Sunday Walk",
+      "when": "1763 – 1769",
+      "covers": [
+        "James Watt's early life: born 1736 in Greenock, Scotland; trained as a mathematical instrument maker in London; worked at the University of Glasgow",
+        "Repairing the university's model Newcomen engine (1763–64) and noticing it wasted huge amounts of steam",
+        "The waste explained: cooling the cylinder every stroke, then heating it again, burned most of the fuel",
+        "Joseph Black's work on latent heat (the hidden heat needed to turn water into steam) and Watt's own measurements",
+        "The idea in 1765 during a Sunday walk on Glasgow Green (as Watt later remembered it): condense the steam in a separate vessel so the main cylinder could stay hot",
+        "The separate condenser plus an air pump and a steam jacket around the cylinder; patent of 1769",
+        "Explicitly address the kettle story: Watt watching a kettle lid is a legend, and he did not invent the steam engine; he made it far more efficient"
+      ],
+      "keyFacts": [
+        "Watt lived from 1736 to 1819",
+        "His separate condenser patent was granted in 1769",
+        "Watt's improved engines used roughly a quarter of the coal of a Newcomen engine doing the same work"
+      ],
+      "hook": "End with Watt having a brilliant idea but no money, no factory and no way to make an accurate cylinder, until he met a Birmingham businessman."
+    },
+    {
+      "n": 8,
+      "title": "Boulton & Watt: Selling Power",
+      "when": "1769 – 1800",
+      "covers": [
+        "Watt's first backer John Roebuck and his bankruptcy (1773)",
+        "Matthew Boulton and the Soho Manufactory in Birmingham; the partnership from 1775",
+        "Parliament extended Watt's patent in 1775 so it lasted until 1800",
+        "John Wilkinson's cannon-boring machine (patented 1774) made cylinders accurate enough to stop steam leaking",
+        "First Boulton & Watt engines in 1776: at Bloomfield Colliery in Tipton and at Wilkinson's ironworks",
+        "Business model: customers paid royalties equal to one third of the coal they saved compared with a Newcomen engine; big market in Cornwall's deep tin and copper mines and arguments with Cornish engineers",
+        "Boulton's famous remark to James Boswell (1776): 'I sell here, Sir, what all the world desires to have — POWER'",
+        "Fair note: the strong patent helped Boulton & Watt but also slowed other inventors until 1800"
+      ],
+      "keyFacts": [
+        "Boulton and Watt became partners in 1775",
+        "Wilkinson's boring machine could make a large cylinder accurate to about the thickness of a thin coin",
+        "Roughly 450–500 Boulton & Watt engines had been built by 1800"
+      ],
+      "hook": "End by pointing out that these engines could only push up and down like a pump, while factories needed something that could turn wheels."
+    },
+    {
+      "n": 9,
+      "title": "Making It Turn",
+      "when": "1780 – 1790s",
+      "covers": [
+        "The need for rotary motion to drive mills and machines",
+        "James Pickard's crank patent (1780) and Watt's way around it: the sun-and-planet gear (1781), largely developed by his engineer William Murdoch",
+        "The double-acting engine (1782): steam pushes the piston both ways",
+        "Parallel motion (1784), the linkage Watt was proudest of",
+        "The centrifugal 'flyball' governor (1788), adapted from windmills, as an early example of automatic feedback control",
+        "Horsepower: Watt's unit to sell engines (33,000 foot-pounds per minute) and the later 'watt' unit named in his honour",
+        "The Albion Mill in London (1786), a showcase steam flour mill that burned down in 1791"
+      ],
+      "keyFacts": [
+        "One horsepower equals about 746 watts",
+        "The watt was adopted as a unit of power by the British Association in 1882",
+        "Watt's governor used spinning balls that rose as speed increased, closing the steam valve a little"
+      ],
+      "hook": "End by inviting the reader to pause the history and open up a steam engine to see exactly what happens inside, step by step."
+    },
+    {
+      "n": 10,
+      "title": "Inside the Machine: How Steam Does Work",
+      "when": "Science explained (applies 1700s – today)",
+      "covers": [
+        "Heat and energy: burning fuel (coal, wood) releases energy as heat",
+        "Water to steam: boiling, latent heat, and why steam takes up so much more room; visible 'steam' clouds are really tiny water droplets, true steam is invisible",
+        "Pressure: trapped steam pushes on every surface; higher pressure means higher boiling point",
+        "The main parts: firebox, boiler, safety valve, cylinder, piston, valves (slide valve), piston rod, crank, flywheel, condenser",
+        "Two ways steam does work: pushing (pressure engine) and pulling via vacuum (atmospheric/condensing engine)",
+        "Energy chain: chemical energy → heat → pressure → motion; most energy is lost as waste heat",
+        "Simple at-home observations that are SAFE (e.g. watching a pan lid rattle with an adult) and a warning that steam burns are serious"
+      ],
+      "keyFacts": [
+        "Water boils at 100 °C at sea-level air pressure, but at about 120 °C inside a pressure cooker",
+        "One litre of water becomes roughly 1,700 litres of steam at normal air pressure",
+        "Steam at 100 °C can burn worse than boiling water because it releases extra (latent) heat when it condenses on skin"
+      ],
+      "hook": "End by asking: what if, instead of using gentle low-pressure steam, engineers dared to use steam at much higher pressure?"
+    },
+    {
+      "n": 11,
+      "title": "High Pressure!",
+      "when": "1800 – 1850",
+      "covers": [
+        "Watt distrusted high-pressure steam as too dangerous; after his patent ended in 1800, others pushed ahead",
+        "Richard Trevithick of Cornwall: compact high-pressure engines with no condenser ('puffers'); the Puffing Devil road carriage climbed a hill in Camborne on Christmas Eve 1801 (it was later destroyed when left unattended and overheated)",
+        "Oliver Evans in the USA: high-pressure engines and his steam dredger-on-wheels Oruktor Amphibolos (1805)",
+        "Arthur Woolf's compound engine (about 1804): using steam twice in two cylinders",
+        "The Cornish engine: very efficient pumping engines for deep mines; the Cruquius engine in the Netherlands (1849) with a 3.66-metre cylinder that helped drain the Haarlemmermeer lake",
+        "Only a brief mention that high-pressure engines made locomotives possible, with a pointer to the separate Railways story (do not tell the railway history here)"
+      ],
+      "keyFacts": [
+        "Trevithick lived from 1771 to 1833; Evans from 1755 to 1819",
+        "High-pressure engines were smaller and lighter for the same power, so they could be moved around",
+        "The Cruquius pumping station is now a museum and holds one of the largest steam-engine cylinders ever made"
+      ],
+      "hook": "End by turning to the cotton towns of northern England, where the new turning engines were about to move the factory out of the countryside and into the city."
+    },
+    {
+      "n": 12,
+      "title": "Mills, Factories and Smoky Cities",
+      "when": "1770s – 1870s",
+      "covers": [
+        "Before steam: cottage industry (spinning and weaving at home) and water-powered mills like Richard Arkwright's Cromford Mill (1771)",
+        "First steam engine in a cotton mill at Papplewick, Nottinghamshire (1785), and how steam freed factories from riversides",
+        "How one engine powered a whole factory through line shafts, pulleys and leather belts",
+        "Manchester ('Cottonopolis') and the rapid growth of industrial cities and crowded housing",
+        "Factory life: clocks, bells, shifts, and long hours for workers including children",
+        "Water power stayed important for decades; steam took over gradually during the 1800s",
+        "The giant Corliss engine (about 1,400 horsepower) that powered Machinery Hall at the 1876 Centennial Exhibition in Philadelphia, showing steam's spread to America"
+      ],
+      "keyFacts": [
+        "Manchester grew from a town of a few tens of thousands in the 1770s to over 300,000 people by 1851",
+        "George Corliss patented his improved valve gear in 1849",
+        "Cotton mills were among the first places to use steam engines to drive many machines at once"
+      ],
+      "hook": "End by zooming out: steam was not just changing mills, it was reshaping iron, printing, machines and whole countries — the Industrial Revolution."
+    },
+    {
+      "n": 13,
+      "title": "The Industrial Revolution Picks Up Steam",
+      "when": "About 1760 – 1900",
+      "covers": [
+        "What historians mean by the Industrial Revolution (Britain, roughly 1760–1840, then spreading); it was gradual, not overnight",
+        "The coal–iron–steam loop: engines pumped coal mines, coal smelted iron, iron built more engines; steam-powered blowing engines for blast furnaces",
+        "Machine tools and precision: Henry Maudslay's lathes, James Nasmyth's steam hammer (patented 1842)",
+        "Steam printing: Friedrich Koenig's steam-powered press first printed The Times on 29 November 1814; cheaper newspapers and books",
+        "The Great Exhibition of 1851 in London and Britain as 'the workshop of the world'",
+        "Spread to Belgium, France, Germany, the USA and, after 1868, Meiji Japan; mention that other countries developed their own engineers"
+      ],
+      "keyFacts": [
+        "Koenig's steam press could print about 1,100 sheets per hour, several times faster than a hand press",
+        "Britain's coal output grew enormously during the 1800s, reaching over 200 million tonnes a year by about 1900",
+        "The Great Exhibition was held in the Crystal Palace in Hyde Park in 1851"
+      ],
+      "hook": "End by asking how steam might move people and goods, not just machines, across water and roads."
+    },
+    {
+      "n": 14,
+      "title": "Steam Takes to Water and Road",
+      "when": "1769 – 1920s",
+      "covers": [
+        "Nicolas-Joseph Cugnot's steam 'fardier' (1769–1770), a heavy three-wheeled vehicle for the French army (the story that it crashed into a wall is a legend/uncertain)",
+        "Early steamboats: the Marquis de Jouffroy d'Abbans's Pyroscaphe (1783), John Fitch (1787), William Symington's Charlotte Dundas (1803)",
+        "Robert Fulton's North River Steamboat (later called Clermont), 1807, the first commercially successful steamboat service, New York to Albany",
+        "Crossing oceans: SS Savannah (1819, partly by steam), the Great Western (1838), and Isambard Kingdom Brunel's iron, propeller-driven SS Great Britain (1843); paddle wheels vs screw propellers",
+        "Steam on roads and farms: traction engines, steam rollers, steam ploughing",
+        "Steam cars: the Stanley Steamer; the Stanley Rocket set a land speed record of about 205 km/h (127.7 mph) in 1906",
+        "One short paragraph only on locomotives, pointing the reader to the separate Railways story"
+      ],
+      "keyFacts": [
+        "Fulton's 1807 trip of about 150 miles (240 km) from New York to Albany took about 32 hours",
+        "SS Great Britain was launched in 1843 and is now a museum ship in Bristol",
+        "The Stanley Rocket's 1906 record was set at Ormond Beach, Florida"
+      ],
+      "hook": "End by admitting that all this power came with a cost, and the next part looks honestly at steam's dark side."
+    },
+    {
+      "n": 15,
+      "title": "The Dark Side of Steam",
+      "when": "1780s – 1900s (and later)",
+      "covers": [
+        "Child labour in steam-powered mills and the Factory Act of 1833 limiting children's work in textile mills",
+        "Dangerous coal mining to feed engines (explosions, collapses, children working underground until the Mines Act of 1842)",
+        "Boiler explosions, such as the steamboat Sultana disaster on the Mississippi River in 1865; the rise of boiler inspection and safety codes",
+        "Coal smoke, soot and polluted rivers in industrial cities; Friedrich Engels's 1845 book on working-class life in England",
+        "Workers' protests: the Luddites (1811–1816) mostly broke knitting frames and textile machines, not steam engines; early trade unions",
+        "Cotton supply chains linked to enslaved labour in the American South; empire and unequal power between countries",
+        "The long-term story: burning coal releases carbon dioxide, starting the rise that drives today's climate change (keep the full climate discussion for part 19)"
+      ],
+      "keyFacts": [
+        "The 1833 Factory Act banned children under 9 from most textile mills and limited children aged 9–13 to 9 hours a day",
+        "The Sultana disaster of 27 April 1865 killed more than 1,100 people, most of them soldiers returning home after the American Civil War",
+        "The Manchester Steam Users' Association, founded in 1854, was an early group set up to inspect boilers and prevent explosions"
+      ],
+      "hook": "End with a twist: engineers wanted to know how good a steam engine could ever possibly get, and the answer created a brand-new science."
+    },
+    {
+      "n": 16,
+      "title": "The Science Born From Engines",
+      "when": "1824 – 1860s",
+      "covers": [
+        "Engines were built first and the science explained them later",
+        "Sadi Carnot's 1824 book Reflections on the Motive Power of Fire: an engine needs a hot place and a cold place, and the bigger the temperature difference the better",
+        "James Prescott Joule's experiments in the 1840s showing heat and work are two forms of the same thing (energy)",
+        "Rudolf Clausius and William Thomson (Lord Kelvin): the laws of thermodynamics in the 1850s; absolute temperature (kelvin scale)",
+        "Simple versions of the first law (energy is never created or destroyed) and second law (heat flows from hot to cold; no engine can turn all heat into work)",
+        "Efficiency numbers through history: Newcomen about 1 percent, Watt a few percent, late-1800s engines around 10–20 percent, modern power stations much higher",
+        "Why this science matters for every heat engine since, including car engines and jet engines"
+      ],
+      "keyFacts": [
+        "Carnot was 28 when his book was published in 1824",
+        "The unit of energy, the joule, is named after Joule; one watt is one joule per second",
+        "Clausius introduced the word 'entropy' in 1865"
+      ],
+      "hook": "End by returning to Hero's spinning idea: what if steam could spin a wheel directly, with no piston going back and forth at all?"
+    },
+    {
+      "n": 17,
+      "title": "Parsons and the Spinning Turbine",
+      "when": "1880s – 1910s",
+      "covers": [
+        "Problems with piston engines: shaking, size, and limited speed for driving electrical generators",
+        "Gustaf de Laval's high-speed impulse turbine (1880s) and Charles Parsons's multi-stage reaction turbine (1884), with many rows of blades taking a little energy from the steam at each step",
+        "How a turbine works: fixed blades guide the steam, moving blades are pushed round; impulse vs reaction explained simply",
+        "Early power stations: Edison's Pearl Street Station in New York (1882) used piston engines; Parsons turbines generating electricity in Newcastle from 1890",
+        "Turbinia's surprise appearance at the 1897 Spithead naval review, racing at about 34 knots",
+        "Turbines at sea: HMS Dreadnought (1906), the liner Mauretania (1907), and the Titanic using a turbine alongside piston engines",
+        "Parsons's first turbine was small, but turbines quickly grew to thousands of kilowatts"
+      ],
+      "keyFacts": [
+        "Parsons lived from 1854 to 1931",
+        "His 1884 turbine produced about 7.5 kilowatts and spun at about 18,000 revolutions per minute",
+        "Mauretania held the Blue Riband for the fastest Atlantic crossing from 1909 to 1929"
+      ],
+      "hook": "End by revealing that the descendants of Parsons's turbine are spinning right now, making much of the electricity that lights the reader's home."
+    },
+    {
+      "n": 18,
+      "title": "Steam in Power Stations Today",
+      "when": "1950s – today",
+      "covers": [
+        "How a modern thermal power station works: heat source → boiler → high-pressure steam → turbine → generator → condenser and cooling tower → water pumped back",
+        "Different heat sources, same steam: coal, gas (combined-cycle plants use leftover gas-turbine heat to make steam), nuclear fission, biomass, geothermal, and concentrated solar",
+        "Nuclear power: the reactor is a heat source that boils water; Obninsk (1954) and Calder Hall (1956)",
+        "Geothermal steam: Larderello in Italy, where electricity was first generated from natural steam in 1904",
+        "Giant modern turbines: single units over 1,000 megawatts, last-stage blades longer than a person is tall, spinning at 3,000 rpm (50 Hz grids) or 3,600 rpm (60 Hz grids)",
+        "Supercritical steam (above about 374 °C and 22 MPa) and why higher temperatures mean better efficiency",
+        "Everyday steam beyond power: hospital sterilizers (autoclaves), cooking, cleaning, heritage engines kept running by volunteers"
+      ],
+      "keyFacts": [
+        "Roughly half or more of the world's electricity still comes from generators turned by steam turbines",
+        "Modern coal plants turn about 33–45 percent of their fuel energy into electricity; combined-cycle gas plants can exceed 60 percent",
+        "Cooling-tower clouds are mostly water droplets, not smoke"
+      ],
+      "hook": "End by asking what will happen to steam as the world tries to stop burning fossil fuels."
+    },
+    {
+      "n": 19,
+      "title": "The Future of Steam",
+      "when": "Today – the coming decades",
+      "covers": [
+        "Climate change: carbon dioxide from burning coal and gas, and the push to cut emissions",
+        "Wind and solar panels make electricity without steam, while steam turbines keep a role in nuclear, geothermal, concentrated solar and biomass plants",
+        "Concentrated solar power: mirrors heat a fluid to make steam (for example, Ivanpah in California, opened 2014); storing heat in molten salt for night-time power",
+        "Future nuclear designs and fusion research: most designs still plan to make steam to spin turbines",
+        "New ideas: supercritical carbon dioxide turbines, carbon capture, and reusing waste heat",
+        "Keep predictions honest: present these as possibilities and ongoing research, not certainties"
+      ],
+      "keyFacts": [
+        "Burning about 1 kilogram of coal releases roughly 2–3 kilograms of carbon dioxide",
+        "Concentrated solar plants can store heat in molten salt to keep making steam after sunset",
+        "ITER, a large international fusion experiment in France, is designed to study fusion but not to generate electricity"
+      ],
+      "hook": "End by stepping back to look at the whole 2,000-year journey from a spinning ball to a planet-sized power network."
+    },
+    {
+      "n": 20,
+      "title": "Full Steam Ahead: The Whole Story",
+      "when": "1st century CE – today",
+      "covers": [
+        "A quick timeline recap: Hero → vacuum scientists → Savery → Newcomen → Watt and Boulton → high pressure → factories and ships → thermodynamics → Parsons → power stations",
+        "The big lesson: inventions are built by many people over long times, not one lone genius; fair credit to Papin, Newcomen, Murdoch, Trevithick and others",
+        "How steam changed daily life: work hours, cities, cheap goods, newspapers, travel, and the gap between rich and poor",
+        "Words steam left in our language: horsepower, watt, 'full steam ahead', 'letting off steam', 'running out of steam', 'steamroller'",
+        "Full circle: Hero's spinning reaction idea returned in the turbine, which still powers the modern world",
+        "Inspire young inventors: noticing waste (like Watt) and asking 'why?' can change the world; suggest safe ways to explore (museums, model engines with adults)"
+      ],
+      "keyFacts": [
+        "About 1,800 years passed between Hero's aeolipile and Parsons's turbine",
+        "Newcomen's first engine (1712) and the first nuclear power station to supply a grid (1954) both used water turned to steam",
+        "Working historic steam engines can still be seen at museums such as the Science Museum in London and the Cruquius in the Netherlands"
+      ],
+      "hook": "Finish with a memorable closing line connecting the rattling pan lid from the introduction to the lights in the reader's home."
+    }
+  ],
+  "people": [
+    "Hero (Heron) of Alexandria (about 10 – 70 CE, dates uncertain) — Greek mathematician and engineer in Roman Egypt who described the aeolipile",
+    "Vitruvius (about 80 – after 15 BCE) — Roman architect and writer who also described aeolipiles",
+    "Taqi al-Din Muhammad ibn Ma'ruf (1526 – 1585) — Ottoman astronomer and engineer who described a steam-turned spit in 1551",
+    "Jerónimo de Ayanz y Beaumont (1553 – 1613) — Spanish soldier and inventor who patented a steam water-raising device in 1606",
+    "Salomon de Caus (1576 – 1626) — French engineer who described using steam pressure to raise water (1615)",
+    "Giovanni Branca (1571 – 1645) — Italian engineer who published a steam-jet wheel design in 1629",
+    "Edward Somerset, 2nd Marquess of Worcester (1601 – 1667) — English nobleman who described a steam 'water-commanding engine' in 1663",
+    "Evangelista Torricelli (1608 – 1647) — Italian physicist who made the first mercury barometer (1643)",
+    "Blaise Pascal (1623 – 1662) — French scientist who showed air pressure falls with height",
+    "Otto von Guericke (1602 – 1686) — German scientist and mayor of Magdeburg who built a vacuum pump and the Magdeburg hemispheres",
+    "Robert Boyle (1627 – 1691) — Irish-born scientist who studied air and gases with an air pump",
+    "Robert Hooke (1635 – 1703) — English scientist who built Boyle's air pump",
+    "Christiaan Huygens (1629 – 1695) — Dutch scientist who designed a gunpowder engine (1673)",
+    "Denis Papin (1647 – about 1713) — French physicist who invented the steam digester with a safety valve and proposed the steam piston-and-cylinder idea",
+    "Thomas Savery (about 1650 – 1715) — English military engineer who patented the first commercially sold steam pump (1698)",
+    "Thomas Newcomen (1664 – 1729) — English ironmonger who built the first successful piston steam engine (1712)",
+    "John Calley (died 1717) — Newcomen's partner, a plumber/glazier who helped build the early engines",
+    "John Smeaton (1724 – 1792) — English civil engineer who tested and improved Newcomen engines",
+    "Joseph Black (1728 – 1799) — Scottish chemist who discovered latent heat and supported Watt",
+    "James Watt (1736 – 1819) — Scottish instrument maker and engineer who invented the separate condenser and many engine improvements",
+    "John Roebuck (1718 – 1794) — Scottish industrialist, Watt's first financial backer",
+    "Matthew Boulton (1728 – 1809) — Birmingham manufacturer, Watt's business partner from 1775",
+    "John Wilkinson (1728 – 1808) — English ironmaster whose boring machine made accurate cylinders",
+    "William Murdoch (1754 – 1839) — Scottish engineer at Boulton & Watt, credited with the sun-and-planet gear and gas lighting",
+    "James Pickard (dates uncertain) — Birmingham button maker who patented the crank for steam engines (1780)",
+    "Richard Arkwright (1732 – 1792) — English inventor and mill owner whose Cromford Mill helped begin the factory system",
+    "Nicolas-Joseph Cugnot (1725 – 1804) — French military engineer who built a steam-powered vehicle (1769–1770)",
+    "Claude de Jouffroy d'Abbans (1751 – 1832) — French nobleman whose Pyroscaphe steamboat ran in 1783",
+    "John Fitch (1743 – 1798) — American inventor who ran an early steamboat on the Delaware River (1787)",
+    "William Symington (1764 – 1831) — Scottish engineer who built the steam tug Charlotte Dundas (1803)",
+    "Robert Fulton (1765 – 1815) — American engineer whose 1807 steamboat began the first commercially successful service",
+    "Richard Trevithick (1771 – 1833) — Cornish engineer who pioneered high-pressure steam engines",
+    "Oliver Evans (1755 – 1819) — American inventor who built high-pressure engines and automated mills",
+    "Arthur Woolf (1766 – 1837) — Cornish engineer who developed the compound engine",
+    "Henry Maudslay (1771 – 1831) — English engineer who improved machine tools like the screw-cutting lathe",
+    "Friedrich Koenig (1774 – 1833) — German inventor of the steam-powered printing press",
+    "James Nasmyth (1808 – 1890) — Scottish engineer who invented the steam hammer",
+    "Isambard Kingdom Brunel (1806 – 1859) — English engineer who designed the steamships Great Western and Great Britain",
+    "George Corliss (1817 – 1888) — American engineer whose valve gear made very efficient factory engines",
+    "Friedrich Engels (1820 – 1895) — German writer who described working-class life in Manchester (1845)",
+    "Sadi Carnot (1796 – 1832) — French engineer whose 1824 book founded the science of heat engines",
+    "James Prescott Joule (1818 – 1889) — English physicist who showed heat and work are forms of energy",
+    "Rudolf Clausius (1822 – 1888) — German physicist who helped state the laws of thermodynamics and named entropy",
+    "William Thomson, Lord Kelvin (1824 – 1907) — Belfast-born physicist who helped found thermodynamics and the absolute temperature scale",
+    "Gustaf de Laval (1845 – 1913) — Swedish engineer who built an early high-speed impulse steam turbine",
+    "Charles Parsons (1854 – 1931) — Anglo-Irish engineer who invented the practical multi-stage steam turbine (1884)",
+    "Thomas Edison (1847 – 1931) — American inventor whose Pearl Street Station (1882) used steam engines to make electricity",
+    "Francis E. Stanley (1849 – 1918) and Freelan O. Stanley (1849 – 1940) — American twin brothers who built Stanley Steamer cars"
+  ],
+  "glossary": [
+    "steam — water in its invisible gas form; the white cloud we see is tiny water droplets that have cooled back into liquid",
+    "boiler — a strong closed container where water is heated to make steam",
+    "pressure — how hard something (like steam or air) pushes on each bit of a surface",
+    "atmospheric pressure — the push of the air all around us, caused by the weight of the air above",
+    "vacuum — a space with little or no air (or other gas) in it",
+    "condense — when steam cools and turns back into liquid water, shrinking hugely",
+    "condenser — a separate chamber where used steam is cooled back into water, creating a vacuum",
+    "latent heat — the 'hidden' heat needed to turn boiling water into steam without making it hotter",
+    "cylinder — a tube, closed at the ends, inside which a piston moves",
+    "piston — a tight-fitting disc or plug that slides inside a cylinder when pushed by steam or air",
+    "beam engine — an engine with a big rocking beam (like a seesaw) linking the piston to a pump or wheel",
+    "atmospheric engine — an engine (like Newcomen's) where air pressure, not steam pressure, pushes the piston",
+    "double-acting — an engine where steam pushes the piston in both directions",
+    "compound engine — an engine that uses the same steam twice or more in cylinders of increasing size",
+    "governor — a device that automatically keeps an engine at a steady speed",
+    "horsepower — a unit of power invented by Watt, equal to about 746 watts",
+    "efficiency — how much of the fuel's energy becomes useful work instead of wasted heat",
+    "turbine — a machine where a fluid (like steam) pushes on rows of blades to spin a shaft directly",
+    "thermodynamics — the science of heat, energy and work",
+    "generator — a machine that turns spinning motion into electricity"
+  ],
+  "doNotSay": [
+    "Do NOT say James Watt invented the steam engine; he greatly improved Newcomen's engine",
+    "Do NOT tell the story of young Watt watching a kettle lid as fact; it is a legend",
+    "Do NOT say the ancient Greeks or Romans used steam engines to power machines or industry; the aeolipile was a demonstration device",
+    "Do NOT say Hero's temple doors were definitely built or were steam-powered; they were described as working with fire-heated air and water",
+    "Do NOT say Newcomen's engine was pushed by steam pressure; air pressure pushed the piston after steam condensed",
+    "Do NOT say Savery's engine had a piston or beam",
+    "Do NOT tell the Humphrey Potter valve-string story as fact; it is a legend",
+    "Do NOT say Cugnot's vehicle definitely crashed into a wall; this is an uncertain story",
+    "Do NOT say Robert Fulton invented the steamboat; he ran the first commercially successful service",
+    "Do NOT say George Stephenson invented the steam engine or the first locomotive (and leave railways to the Railways story)",
+    "Do NOT say the white cloud from a kettle or cooling tower is steam or smoke; it is condensed water droplets",
+    "Do NOT say the Industrial Revolution happened suddenly or that steam instantly replaced water power",
+    "Do NOT say the Luddites were mainly smashing steam engines",
+    "Do NOT say steam engines 'burn steam' or that steam is a fuel; fuel heats water to make steam",
+    "Do NOT say steam power is obsolete today; most power stations still use steam turbines",
+    "Do NOT say one horsepower is exactly what a real horse can do all day",
+    "Do NOT say Watt invented the centrifugal governor from scratch; he adapted it from windmills"
+  ]
+}

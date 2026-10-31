@@ -1,0 +1,154 @@
+{
+  "n": 8,
+  "title": "Pasteur's Weakened Germs",
+  "when": "1879 – 1888",
+  "summary": "Louis Pasteur's team learned how to weaken germs in the lab so they could protect animals instead of killing them. They proved it in a famous test with sheep, then took on rabies, a disease caused by a germ they could not even see. A brave nine-year-old named Joseph Meister became the first person to receive their rabies treatment.",
+  "sections": [
+    {
+      "heading": "Chickens, Cholera and a Forgotten Flask",
+      "paragraphs": [
+        "Imagine a Paris laboratory in 1879. Glass flasks of cloudy broth line the shelves. In wire cages, chickens cluck and scratch. Louis Pasteur, now in his mid-fifties, walks with a slight limp from the stroke he had eleven years earlier, and he relies on his young assistants, especially Émile Roux, a trained doctor, and Charles Chamberland, a physicist and chemist, to do much of the delicate hands-on work.",
+        "The chickens were there because of a disease called chicken cholera, or fowl cholera. Despite its name, it has nothing to do with human cholera. It is caused by a bacterium now called Pasteurella multocida, named in Pasteur's honour. It can sweep through a farmyard and kill birds within hours. In 1879 Pasteur's team obtained the germ and grew it in a broth made from chicken meat. A few drops of fresh culture injected into a healthy hen usually killed it within a day or two.",
+        "What happened next has become one of the most famous stories in science, but it should be told carefully, because historians are not sure every detail is true. According to the story, the team left some chicken cholera cultures sitting on the shelf over the summer holidays of 1879. When they came back weeks later, they injected some chickens with the old culture. The chickens became only mildly ill and recovered. Then, the story goes, the same chickens were injected with a fresh, deadly culture, and they did not get sick at all. Chickens that had never had the old culture died as expected.",
+        "Whether or not it happened quite like that, the team's published work shows what they learned. A culture of the germ that had been left for a long time, exposed to oxygen in the air, became weaker. It could still trigger the chickens' defences, but it no longer killed them. And once a chicken had survived the weakened germ, it was protected against the strong one. Scientists call this attenuation, from a Latin word meaning to make thin or weak.",
+        "Pasteur liked to say that 'in the fields of observation, chance favours only the prepared mind'. He had first said it in a lecture in Lille in 1854. Whether or not chance played a part with the chickens, his team was prepared: they had been thinking for years about Jenner and cowpox, and they knew how to grow germs, how to count deaths and survivals, and how to repeat an experiment to check it.",
+        "Pasteur announced his chicken cholera vaccine in 1880. In practice it was not a great success on farms. It was hard to keep the weakened germ at exactly the right strength: sometimes it was too weak to protect, sometimes still strong enough to kill. But as a proof of an idea, it was enormous. For the first time, scientists had taken a germ grown in a laboratory, deliberately weakened it, and used it to protect animals against the disease it caused. Jenner had needed to find cowpox in nature. Pasteur's team had shown that, at least sometimes, you could make your own."
+      ]
+    },
+    {
+      "heading": "A New Word to Honour Jenner",
+      "paragraphs": [
+        "Until this time, the word vaccine had a very narrow meaning. It came from the Latin word 'vacca', meaning cow, and from 'variolae vaccinae', the name Jenner used for cowpox. Vaccination meant one thing only: putting cowpox (or the vaccine virus descended from it) into a person to protect them against smallpox.",
+        "Pasteur believed his weakened germs were doing the same job as Jenner's cowpox, just for other diseases. So he decided the old word should grow. In 1881, speaking at an international medical congress in London, he proposed that the words vaccine and vaccination should be used for all such preparations, in honour of Edward Jenner. The idea stuck. Today a vaccine for measles, polio or COVID-19 has nothing to do with cows, but the name still carries a little memory of the milkmaid Sarah Nelmes, the cow called Blossom and the boy James Phipps.",
+        "This was more than a nice gesture. By choosing Jenner's word, Pasteur was making a scientific claim: that cowpox vaccination and his weakened germs were examples of one general principle. Give the body a harmless or weakened version of a germ, and it can learn to resist the dangerous version. Nobody yet understood how the body did that learning. But the principle could be tested on one disease after another, and the next test would be one of the most dramatic public experiments in the history of science."
+      ]
+    },
+    {
+      "heading": "Anthrax and the Cursed Fields",
+      "paragraphs": [
+        "In the 1870s and 1880s, anthrax was a serious problem for French farmers. Whole flocks of sheep could die of it, along with cattle, and it sometimes infected the shepherds, butchers and wool workers who handled sick animals. As Robert Koch had shown in 1876, anthrax bacteria form tough spores that can survive in soil for years. Farmers spoke of 'cursed fields' where animals kept falling sick, summer after summer. A vaccine that could protect livestock would be worth a fortune to French farming.",
+        "Pasteur's team was not the only group working on one. Jean-Joseph-Henri Toussaint, a young professor at the veterinary school in Toulouse in southern France, had been studying both chicken cholera and anthrax. In 1880 he reported that he could protect animals against anthrax by treating infected blood to weaken or kill the germs, using heat and then carbolic acid, the same germ-killing chemical Joseph Lister used in surgery. His results were exciting but hard for others to repeat reliably, and the Paris scientific establishment, including Pasteur, was sceptical.",
+        "Pasteur's own team tried to weaken anthrax germs in a way similar to their chicken cholera method, by growing them in the presence of oxygen at a slightly raised temperature. Behind the scenes, Roux and Chamberland were also experimenting with chemical methods. Anthrax was tricky because of its spores: a weakened culture could form spores that might later turn back into strong germs. The team needed to be sure their vaccine was both safe and powerful enough to protect.",
+        "In early 1881, Pasteur announced to the French Academy of Sciences that his team had a working anthrax vaccine. Not everyone believed him. Some vets and doctors thought germ theory was exaggerated, and some were tired of Pasteur's confident pronouncements. A veterinarian from Melun, south-east of Paris, named Hippolyte Rossignol, helped organise a public challenge through a local agricultural society. If Pasteur's vaccine really worked, let him prove it in front of everyone, on a real farm, with real animals. Pasteur accepted. It was a huge gamble. If the trial failed, his reputation, and perhaps the whole idea of laboratory vaccines, could be badly damaged."
+      ]
+    },
+    {
+      "heading": "The Showdown at Pouilly-le-Fort",
+      "paragraphs": [
+        "The trial took place at a farm called Pouilly-le-Fort, near the town of Melun, south-east of Paris, in May and June 1881. The animals were mostly sheep: 50 of them, together with a few cows and at least one goat. The plan was simple and fair, and that is what made it so powerful. Half the animals would be vaccinated. The other half would not. Then all of them would be given a dose of strong, deadly anthrax germs. If the vaccine worked, the vaccinated animals should live and the unvaccinated ones should die.",
+        "Scientists today would call the unvaccinated animals a control group. A control group is like a comparison team: it shows what would have happened without the treatment. Without one, if the vaccinated sheep survived, people could argue that the anthrax dose was simply too weak, or that these sheep were unusually tough. With a control group, the answer would be plain for everyone to see.",
+        "On 5 May 1881, in front of a crowd of farmers, vets, doctors and officials, Roux and Chamberland gave the first vaccine injection to 25 sheep and some of the other animals. On 17 May the same animals received a second, stronger dose. Then, on 31 May, every animal, vaccinated or not, was injected with a fresh, deadly anthrax culture. Pasteur had to wait two days to learn whether he had triumphed or failed in public.",
+        "On 2 June 1881 the crowd returned, larger than ever, with journalists among them. The result was striking. The vaccinated sheep were alive and well. Nearly all the unvaccinated sheep were already dead, and the remaining ones were dying. The vaccinated cattle were healthy, while the unvaccinated cattle had become ill. The news spread through France and then the world. Newspapers celebrated Pasteur, and farmers began asking for the vaccine. Chamberland was put in charge of producing it in large quantities, and over the following years very large numbers of French sheep and cattle were vaccinated.",
+        "There is an important twist, though, and it shows why honest record-keeping matters in science. In public, Pasteur suggested that the Pouilly-le-Fort vaccine had been weakened by his oxygen method. More than a century later, the historian Gerald Geison studied Pasteur's private laboratory notebooks, which the Pasteur family had kept closed for many years. For a 1995 book, Geison reported that the vaccine actually used in the trial had been prepared with a chemical, potassium dichromate, a method developed by Chamberland and Roux and closer in spirit to Toussaint's chemical approach. Pasteur had kept this private.",
+        "Why would he do that? Historians still argue. Pasteur may have wanted to protect his priority over Toussaint, or to keep a commercial advantage, or he may simply have believed his oxygen method would soon replace the chemical one. Some scientists, such as the Nobel Prize winner Max Perutz, defended Pasteur and argued that Geison was too harsh. What almost everyone agrees on is that the trial was real, the vaccinated animals really did survive, and Pasteur did not give fair credit to Toussaint, who fell ill in 1881 and died in 1890, aged only 43. Today we remember that the anthrax vaccine was a team effort and a contest between rivals, not the work of one man alone."
+      ]
+    },
+    {
+      "heading": "Rabies: Chasing a Germ Nobody Could See",
+      "paragraphs": [
+        "Even while the anthrax work was going on, Pasteur's team had taken on a much more frightening disease: rabies. Its name comes from the Latin word for madness. Rabies is caused by a virus, and it spreads mainly through the bite of an infected animal. In Pasteur's time, as today, dogs were the main source of human infections; worldwide, dogs still cause up to 99% of human cases. An older name for the disease was hydrophobia, meaning fear of water, because in its late stages people find it very hard to swallow.",
+        "Rabies has two features that matter enormously for this story. First, once symptoms appear, it is almost always fatal, both in Pasteur's time and today. Second, there is usually a long delay between the bite and the first symptoms, often one to three months, as the virus slowly travels along nerves towards the brain. That delay creates a window of time. Pasteur wondered whether a vaccine given after the bite could train the body's defences fast enough to win the race.",
+        "There was a huge problem. Pasteur's team could not see the rabies germ. It was a virus, far too small for their microscopes, and it would not grow in flasks of broth like chicken cholera or anthrax. As you saw in Part 7, nobody even knew yet what a virus was. So the team had to work with something they could not see, could not grow in a dish and could not measure directly.",
+        "They solved this with a clever workaround. They knew that rabies attacked the brain and spinal cord, the body's central nervous system. Roux found that infected material placed directly onto the brain of an animal reliably passed the disease on, much more reliably than a bite. By passing the infection from rabbit to rabbit many times, the team produced a strain that behaved in a steady, predictable way in rabbits. The infected rabbits' spinal cords became, in effect, living containers for the invisible germ.",
+        "To weaken it, the team took spinal cords from rabbits that had died of rabies and hung them up to dry in sterile glass flasks, along with a chemical that soaked up moisture. The longer a piece of spinal cord dried, the weaker its virus became. A cord dried for about two weeks was almost harmless; a cord dried for only a day or two was still very strong. By grinding up pieces of cord in a liquid, they could make a series of injections, starting with the weakest and moving step by step to the strongest. The idea was to build up the body's protection gradually, the way you might train for a race by running a little farther each day.",
+        "Pasteur reported that this method protected dogs. He claimed success in about fifty dogs, although later historians who studied his notebooks found the evidence from dog experiments was thinner than he suggested, especially for treatment given after a bite. Roux in particular felt more animal testing was needed before anyone tried it on a human being. Then, in July 1885, a child arrived at the laboratory door."
+      ]
+    },
+    {
+      "heading": "Joseph Meister's Ten Days",
+      "paragraphs": [
+        "Joseph Meister was nine years old, born on 21 February 1876, and he lived in Alsace, a region on the border of France and Germany that had become part of the German Empire after the war of 1870 to 1871. On 4 July 1885 he was attacked by a dog that was believed to be rabid. He was bitten fourteen times. A local doctor had heard about Pasteur's rabies experiments in Paris and urged Joseph's mother to take him there. They made the long journey by train and arrived at Pasteur's laboratory on 6 July 1885.",
+        "Pasteur faced a terrible choice. If he did nothing, and the dog really had rabies, Joseph might well develop the disease and die. If he tried his treatment, it had never been tested on a human, and it might fail or even harm the boy. Pasteur was also not a medical doctor and was not licensed to treat patients. He consulted two respected physicians, Alfred Vulpian and Jacques-Joseph Grancher. They examined Joseph's wounds and agreed that the risk of rabies was high and that the treatment should be tried.",
+        "On the evening of 6 July 1885, Grancher, a doctor, gave Joseph the first injection, under the skin. It was made from rabbit spinal cord that had been dried for about two weeks, so its virus was very weak. Over the next ten days Joseph received twelve more injections, thirteen in all, each made from a cord that had dried for a shorter time and so was a little stronger. The last injections used material that was strong enough to give rabies to a rabbit. Pasteur, according to accounts from his family, slept badly through those days, worried about the boy.",
+        "Joseph never developed rabies. He went home to Alsace healthy. Because nobody could be completely sure that the dog had been rabid, or that Joseph would have caught rabies without treatment, a single case could not prove that the treatment worked. But it gave Pasteur and his colleagues the confidence to try again. Like Jenner's test on James Phipps, giving an untested treatment to a child would never be allowed in this way today. Modern medicine requires careful animal studies, ethical review and step-by-step clinical trials first.",
+        "Joseph Meister kept a lifelong connection with Pasteur's work. As an adult he returned to Paris and became a caretaker at the Pasteur Institute, where he worked for the rest of his life. He died in June 1940, during the sad days when German forces had just occupied Paris in the Second World War."
+      ]
+    },
+    {
+      "heading": "A Brave Shepherd and a Flood of Patients",
+      "paragraphs": [
+        "The second person to receive the treatment was Jean-Baptiste Jupille, a teenage shepherd of about 15 from the village of Villers-Farlay in the Jura region of eastern France, not far from where Pasteur had grown up. In October 1885 a dog that appeared to be rabid ran towards a group of younger children. Jupille stepped in to protect them, and, according to the accounts of the time, wrestled the dog to the ground and bound its jaws with his whip, but he was badly bitten on his hands. He was taken to Paris, treated in October 1885, and survived. Today a statue in the grounds of the Pasteur Institute shows a boy struggling with a dog in memory of his bravery.",
+        "Pasteur presented the cases of Meister and Jupille to the French Academy of Sciences in October 1885, and the news flew around the world. Within months, people who had been bitten by animals that might be rabid were arriving in Paris from across Europe and beyond. In 1886 alone, many hundreds of people, and by some counts more than two thousand, were treated in Paris. A group of Russian peasants from the Smolensk region who had been attacked by a rabid wolf made the long journey to Paris for treatment, and most of them survived. The first use of the treatment in the United States followed in 1886.",
+        "The treatment did not save everyone. Some patients arrived too late, after the virus had already reached the nervous system. One of the saddest cases was a ten-year-old girl, Louise Pelletier, who was brought to Pasteur more than a month after being bitten on the head. Pasteur knew the chances were poor but agreed to try, and she died. Her case showed that time mattered: the treatment worked best when it started soon after a bite, before symptoms began. Critics also argued about whether the treatment itself could sometimes be dangerous, and these debates pushed scientists to keep improving rabies vaccines.",
+        "And they did. Over the next century, the dried-spinal-cord method was replaced by safer vaccines. From the 1960s and later, rabies vaccines grown in cell cultures instead of nerve tissue made treatment much safer and simpler. Even so, rabies remains a serious problem in parts of the world where many dogs are not vaccinated: it still causes tens of thousands of human deaths a year (estimates range from about 44,000 to 59,000), mostly in Asia and Africa, and around four in ten of those who die are children under 15. Vaccinating dogs is one of the most powerful ways communities fight it today."
+      ]
+    },
+    {
+      "heading": "A House for Science: The Pasteur Institute",
+      "paragraphs": [
+        "The rabies treatment made Pasteur one of the most famous people in the world. It also created a practical problem: his small laboratory could not cope with thousands of patients. In 1886 the French Academy of Sciences backed the idea of a special institute for treating rabies and studying infectious diseases. A public appeal for money was launched, and donations arrived from many countries, from emperors and wealthy families to ordinary people giving a few coins. On 4 June 1887 the institute was officially recognised as a charitable foundation.",
+        "The Pasteur Institute was inaugurated in Paris on 14 November 1888. It was organised into departments led by some of the best scientists of the time: Émile Duclaux, Charles Chamberland, Jacques-Joseph Grancher, Émile Roux, and the Russian zoologist Élie Metchnikoff, who studied the cells that swallow germs and whom you will meet again later in this story. Roux started the first course in microbiology there, training scientists from many countries.",
+        "The institute grew into a worldwide network. In 1891 Albert Calmette, one of Pasteur's younger colleagues, founded the first Pasteur Institute outside France, in Saigon (now Ho Chi Minh City, in Vietnam), to make rabies and smallpox vaccines. By the early 1900s there were dozens of rabies treatment centres around the world. Today the Pasteur Network links institutes in dozens of countries, and ten scientists linked to the Paris institute have won Nobel Prizes.",
+        "Louis Pasteur died on 28 September 1895, aged 72. He was buried in a beautiful chapel inside the institute, decorated with mosaics showing his discoveries. His apartment there became a museum. He was a brilliant and stubborn scientist who sometimes kept secrets and did not always share credit fairly, and who also changed medicine forever. His greatest legacy was not just a few vaccines, but an idea and a method: find the germ, grow it, weaken it, test it fairly, and protect people and animals before disease strikes.",
+        "Meanwhile, scientists at the new institute were already following a different clue. In 1888, Émile Roux and his colleague Alexandre Yersin found that the bacterium that causes diphtheria, a deadly childhood throat disease, harms the body by giving off a poison. Even broth that had been filtered so that no bacteria remained could still make animals sick. Some germs, it turned out, were dangerous mainly because of the toxins they released. And if the toxin was the real enemy, perhaps scientists could find a way to fight the poison itself."
+      ]
+    }
+  ],
+  "deepDive": "Pasteur's vaccine work rested on one powerful idea, attenuation: a germ can be weakened so it no longer causes serious disease but still triggers protection. His team tried several routes. For chicken cholera they relied on ageing cultures exposed to oxygen; for anthrax the trial vaccine was, according to Pasteur's private notebooks, prepared with potassium dichromate; for rabies they dried infected rabbit spinal cords for different lengths of time. Modern scientists would say the drying both weakened and partly destroyed the virus, so early injections contained little or no active virus and later ones contained more. Because nobody could see or count the rabies virus, doses were set by the age of the dried cord, an ingenious but imprecise method. The historian Gerald Geison's 1995 book 'The Private Science of Louis Pasteur', based on the notebooks, sparked a lasting debate. Geison argued that Pasteur's public accounts of Pouilly-le-Fort and of his rabies dog experiments were tidier and more confident than his lab records justified, and that Pasteur gave Joseph Meister an untested treatment after much less animal evidence than he implied. Defenders, including the Nobel laureate Max Perutz, replied that Pasteur's results were real and that scientists have always simplified their stories in public. Both sides agree on the basic facts: the Pouilly-le-Fort vaccinated sheep survived while nearly all the controls died, and Meister did not develop rabies. A single case cannot prove a treatment works, since not every bite from a rabid animal causes rabies, which is why statistics from thousands of treated patients in 1886 and after mattered so much. The anthrax story also raises questions about credit: Henry Toussaint published a chemically treated anthrax vaccine first, and Roux and Chamberland did much of the hands-on work. Rabies post-exposure treatment still follows Pasteur's basic logic of racing the virus during its long incubation, but today it uses much safer cell-culture vaccines, often with rabies antibodies given as well. With tens of thousands of human deaths a year, rabies remains a reminder that having a vaccine is not enough: it must also reach the people, and the dogs, who need it.",
+  "funFact": "Joseph Meister, the first person to receive Pasteur's rabies treatment, later worked as a caretaker at the Pasteur Institute for the rest of his life.",
+  "check": {
+    "q": "In the 1881 anthrax trial at Pouilly-le-Fort, what happened to the sheep that had NOT been vaccinated?",
+    "a": "Nearly all of them died",
+    "wrong": [
+      "They all survived without getting ill",
+      "They caught cowpox instead",
+      "They were given rabies treatment and recovered"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Louis Pasteur",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Louis_Pasteur"
+    },
+    {
+      "title": "Rabies fact sheet",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/rabies"
+    },
+    {
+      "title": "Anthrax vaccine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anthrax_vaccine"
+    },
+    {
+      "title": "Jean Joseph Henri Toussaint",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jean_Joseph_Henri_Toussaint"
+    },
+    {
+      "title": "Rabies vaccine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rabies_vaccine"
+    },
+    {
+      "title": "Rabies",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rabies"
+    },
+    {
+      "title": "History of the Institut Pasteur",
+      "publisher": "Institut Pasteur",
+      "url": "https://www.pasteur.fr/en/institut-pasteur/history"
+    },
+    {
+      "title": "Émile Roux",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/%C3%89mile_Roux"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Portrait of Louis Pasteur in his laboratory, such as Albert Edelfelt's 1885 painting showing him holding a flask with a dried rabbit spinal cord",
+      "search": "Edelfelt Louis Pasteur laboratory painting"
+    },
+    {
+      "want": "Statue of the shepherd boy Jean-Baptiste Jupille fighting a rabid dog, at the Pasteur Institute in Paris",
+      "search": "Jupille statue Institut Pasteur"
+    },
+    {
+      "want": "The historic main building of the Pasteur Institute in Paris, opened in 1888",
+      "search": "Institut Pasteur Paris building"
+    }
+  ]
+}

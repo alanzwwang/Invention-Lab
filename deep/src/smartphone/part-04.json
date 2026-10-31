@@ -1,0 +1,154 @@
+{
+  "n": 4,
+  "title": "Pocket Computers: The PDA",
+  "when": "1984 – 2005",
+  "summary": "Long before smartphones, people carried little computers that could keep a diary, an address book and notes, but could not make a single phone call. One inventor tested his design by carrying a block of wood in his pocket! Soon busy people had a phone in one pocket and a pocket computer in the other.",
+  "sections": [
+    {
+      "heading": "A Diary That Thinks",
+      "paragraphs": [
+        "Picture a busy office worker in the early 1980s. In one pocket there is a fat paper diary stuffed with appointments. In a briefcase there is a card index, or a ring binder full of names, addresses and phone numbers, with crossings-out where people have moved house. On the desk there are sticky notes, a calculator and a to-do list written on the back of an envelope. If the diary falls in a puddle, months of plans are smudged away. If the address book is lost, so is every contact.",
+        "Computers could already store all of this information neatly. The trouble was that computers lived on desks. A personal computer of 1984 had a heavy box, a separate keyboard and a screen as deep as a small television. Even 'portable' computers of the time were the size of a sewing machine and weighed around 10 kilograms. Nobody was going to carry one to a meeting just to check a date.",
+        "So inventors began asking a simple question: what if a tiny computer did just a few jobs, but did them anywhere? It would not need to run big programs or print letters. It would only need to remember your calendar, your contacts, your notes and your to-do list, and it would need batteries that lasted a long time. This kind of gadget came to be called a PDA, short for personal digital assistant. 'Personal' because it was yours alone, 'digital' because it was a computer, and 'assistant' because it was meant to help you, like a very organized secretary who lived in your pocket.",
+        "One thing is important to understand from the start: a PDA was not a phone. Most PDAs could not make calls or send text messages at all. They were organizers. To share information with other people or with your main computer, you usually had to plug them in. That separation between the phone in one pocket and the organizer in the other is the whole story of this part, and it explains why someone would eventually try to squash the two together.",
+        "The tools that made PDAs possible were the same ones shrinking mobile phones. Microchips were getting smaller and cheaper. Liquid-crystal displays (LCDs), the gray screens on calculators and digital watches, used very little power. Memory chips that could hold thousands of letters were becoming affordable. Put them together in a plastic case with a few batteries, and you had a computer you could hold in one hand."
+      ]
+    },
+    {
+      "heading": "The Psion Organiser: A London Pioneer",
+      "paragraphs": [
+        "The first gadget usually called a PDA came not from California but from London. A company named Psion had been founded there in 1980 by David Potter, a South African-born British businessman. Psion started out writing software and games for early home computers such as the Sinclair ZX81 and ZX Spectrum. Then, in 1984, it launched a machine of its own: the Psion Organiser.",
+        "The original Organiser looked a bit like a chunky calculator with a sliding cover. It cost 99 pounds and was advertised as the world's first practical pocket computer. Its brain was an 8-bit chip from the Japanese company Hitachi that ran at about 0.9 megahertz, meaning it could tick through just under a million simple steps every second. It had only 2 kilobytes of working memory (RAM), enough to hold about one page of text, and 4 kilobytes of permanent memory (ROM) for its built-in programs. Its screen showed a single line of 16 characters. That is fewer letters than you will find in this sentence.",
+        "So how did it store anything useful? Psion invented little plug-in memory cartridges called Datapaks, which slotted into the back of the machine. The first Datapaks used a type of chip called EPROM. You could write information onto it, but you could not simply delete it. To wipe a Datapak clean, you had to shine strong ultraviolet light onto the chip through a little window, a bit like how bright sunlight bleaches a poster. It sounds clumsy today, but it meant your data stayed safe even when the batteries ran out.",
+        "The first Organiser could work as a calculator and a clock, and it had a simple database, a kind of electronic card index where you could store and search for records. A simple programming language was also available for it on a plug-in Datapak, so owners could write small programs of their own. It was a clever start, but it was really a gadget for enthusiasts.",
+        "The big success came in 1986 with the Organiser II. It had a two-line screen (later models had four lines), more memory, a diary, an address book, an alarm clock and a better programming language called OPL, which was similar to the BASIC language that many children learned on home computers. The Organiser II sold more than 500,000 units.",
+        "What is fascinating is how people used it. The British department store Marks and Spencer gave Organiser IIs to staff on shop floors, specially branded and with most keys hidden so that workers only saw the buttons they needed. More than 3,000 were used by the UK government to calculate people's benefit payments. Surveyors connected them to measuring instruments, banks used them to work out currency exchange rates, and factories used them for checking the quality of products. The Organiser showed that a pocket computer could do real work.",
+        "Psion did not stop there. In 1991 it launched the Psion Series 3, a clamshell that opened like a tiny laptop, with a full keyboard and a wider screen. It looked very much like what people later imagined a PDA should be. Psion's software ideas would later help create Symbian, an operating system for phones that you will meet in Part 5. The little London company had set the pattern for a whole new kind of machine. Now one of the biggest names in computing wanted to go further."
+      ]
+    },
+    {
+      "heading": "Apple's Newton: A Big Dream With Messy Handwriting",
+      "paragraphs": [
+        "In 1987, inside Apple Computer in California, an engineer named Steve Sakoman started a secret project. His dream was a tablet-shaped computer with no keyboard at all. You would write on its screen with a pen, just like writing on paper, and the computer would read your handwriting. The project was named Newton, a fitting name at Apple, whose very first company logo had shown Isaac Newton sitting under an apple tree.",
+        "Apple's chief executive at the time, John Sculley, became the project's biggest champion. On January 7, 1992, at the Consumer Electronics Show in Las Vegas, he used a phrase that would stick: he called this new kind of device a 'personal digital assistant'. Psion had made organizers before, but it was Sculley who gave the whole category its famous name. He predicted that PDAs would become an enormous business.",
+        "The Newton needed a special brain: powerful enough to recognize handwriting but frugal enough to run on batteries. Apple found its answer in Britain. It invested in a new company formed with Acorn Computers to develop the ARM processor, a chip designed to do a lot of work using very little power. (You will learn much more about ARM in Part 11, because today its descendants run almost every smartphone on Earth.) The Newton's choice of chip may be one of its most important legacies.",
+        "The first Newton, called the MessagePad, went on sale on August 2, 1993, at the Macworld Expo in Boston. It cost about 699 dollars. Inside was an ARM 610 chip running at 20 megahertz. It had a black-and-white touchscreen of 336 by 240 pixels, ran on four AAA batteries and weighed about 0.4 kilograms, roughly as much as a can of beans. It could store notes, names and appointments, send faxes with an accessory, and beam information to another Newton using infrared light. It even tried to be smart: if you wrote 'lunch with Anna Friday', it could try to work out that you meant an appointment and put it in the calendar.",
+        "Early sales were respectable, reportedly around 50,000 in the first three months. But then the handwriting recognition let it down. The software was not truly ready when the MessagePad launched. It often turned perfectly neat words into strange nonsense, and the world noticed. The cartoonist Garry Trudeau drew Doonesbury comic strips in which a character's Newton turned his writing into gibberish; in one, the words 'Catching on?' came out as 'Egg Freckles'. The TV show The Simpsons joined in with a scene where a bully's note reading 'Beat up Martin' was turned into 'Eat up Martha'. Once a gadget becomes a joke on television, it is very hard to make people take it seriously.",
+        "Apple kept improving the Newton. Later models such as the MessagePad 2000 and 2100 had a much faster 162-megahertz StrongARM chip, a backlit screen and handwriting recognition that many owners said worked surprisingly well. There was even the eMate 300, a tough, clamshell Newton with a keyboard, sold to schools. But it was too late. The Newton was expensive, and its early reputation stuck. When Steve Jobs returned to lead Apple in 1997, he wanted to focus on a small number of products. He disliked the stylus, and in 1998 the Newton was discontinued.",
+        "The Newton is often remembered as a flop, but that is not the whole story. It introduced the name PDA, it helped launch the ARM chip, and it showed what a pen-based pocket computer might be. It also taught a valuable lesson to everyone watching: if the computer cannot understand people, perhaps people could meet the computer halfway. One engineer took that lesson very seriously."
+      ]
+    },
+    {
+      "heading": "The Palm Pilot and the Block of Wood",
+      "paragraphs": [
+        "Jeff Hawkins was born in 1957 in Huntington, New York, and studied electrical engineering at Cornell University. He was fascinated by two things: computers and how the human brain works. In the late 1980s he worked at a company called GRiD Systems, where he led the creation of the GridPad (1989), one of the first tablet computers you could write on with a pen. The GridPad was clever, but it was heavy and expensive, and it sold mostly to businesses. Hawkins wanted to make something ordinary people would love.",
+        "In 1992 he founded his own company, Palm Computing. He was soon joined by Donna Dubinsky, a sharp business leader who had worked at Apple, and Ed Colligan, an expert in marketing. At first Palm wrote software for other companies' hardware. Its programs ran on the Zoomer, a handheld made by Casio and sold by Tandy in 1993. The Zoomer was slow and bulky and did not sell well. The Palm team concluded that if they wanted a handheld done right, they would have to design the whole machine themselves.",
+        "This is where the most famous part of the story happens. Before building anything electronic, Hawkins made a model out of wood: a small, flat block, about the size he imagined the finished device would be, small enough to slip into a shirt pocket. He used a chopstick as a pretend pen. Then he carried the block around and acted as if it were real. In meetings, when someone suggested a date for lunch, he would pull out the block and 'tap' on it as though he were checking his calendar or writing a note. He counted how many taps each job needed and asked himself whether it felt quick enough.",
+        "It might sound silly, but it was brilliant design thinking. Hawkins was testing the experience before the technology. He learned that people would not use a gadget that was too big for a pocket, that it must turn on instantly, and that checking an appointment should take a couple of seconds, not a minute. Many earlier PDAs had tried to do everything a desktop computer could. Hawkins decided his would do a few things extremely well and very fast.",
+        "Building a new computer costs a lot of money, so in 1995 Palm was bought by US Robotics, a large company that made modems (the boxes that connected computers to the internet through phone lines). In 1996 the first Palm devices went on sale: the Pilot 1000 and Pilot 5000. They cost about 299 dollars, less than half the price of the first Newton. The Pilot 1000 had 128 kilobytes of memory and the Pilot 5000 had 512 kilobytes. Inside was a Motorola chip running at 16 megahertz. The black-and-white touchscreen was 160 by 160 pixels, and the whole thing ran on two ordinary AAA batteries.",
+        "Those numbers sound tiny, but the Pilot was a hit. It switched on the moment you pressed a button. It slipped into a pocket. Its batteries lasted a long time. It did not pretend to be a desktop computer; it was simply the best calendar and address book anyone had ever carried. The Computer History Museum describes it as the first wildly popular handheld computer. In 1997 came the PalmPilot Personal and PalmPilot Professional, and by 1998 more than a million of these organizers had been sold.",
+        "The name changed, too. The Pilot Pen Corporation, which made writing pens, sued over the name 'Pilot', and the case was settled in 1998. After that, Palm dropped 'Pilot' and its machines were simply called Palms. The Palm III (1998) added an infrared port, so two owners could 'beam' business cards to each other by pointing their Palms together, which became a popular party trick at conferences. The slim, metal Palm V of 1999 had a rechargeable battery, and the Palm VII could connect wirelessly to some internet services, though only in the United States. By 2000, Palm had roughly three-quarters of the PDA market."
+      ]
+    },
+    {
+      "heading": "Graffiti: Teaching People to Write for Machines",
+      "paragraphs": [
+        "Remember the Newton's handwriting troubles? Jeff Hawkins had thought hard about the same problem, and he came up with a surprising answer. Everybody's handwriting is different. Some people write in joined-up letters, some in capitals, some in a scrawl only they can read. Teaching a small, slow computer to understand all of those styles was extremely hard in the 1990s. So Hawkins flipped the problem around: instead of making the computer learn your handwriting, why not have people learn a slightly simpler alphabet that the computer could read almost perfectly?",
+        "He called it Graffiti. Each letter was drawn in a single stroke, without lifting the pen. Most Graffiti letters looked very much like normal capital letters, so they were easy to remember, but the tricky ones were simplified. An ordinary capital A needs a crossbar, which means lifting the pen; in Graffiti, A was drawn as an upside-down V with no crossbar. T, F and K were also changed so that they could be drawn without lifting the pen. Because every letter was one stroke, the computer always knew exactly when a letter started and finished, which made recognition much easier.",
+        "There was another clever trick. Instead of writing across the screen, you wrote each letter on top of the last one in a small box at the bottom of the Palm, called the Graffiti area. Letters went on one side of the box and numbers on the other. You did not need to see what you had drawn; you just made the stroke, and the letter appeared on the screen above. Hawkins compared learning Graffiti to learning to touch-type: a skill that takes a little practice at first and then becomes automatic.",
+        "Two Palm engineers, Joe Sipher and Ron Marianetti, extended the alphabet with more characters and punctuation marks. Graffiti first appeared in 1994 as software for the Zoomer, and the Pilot 1000 and 5000 were the first machines to come with it built in. Many users found that after a short period of practice they could write quickly and accurately, which is something the first Newton owners could only dream of.",
+        "Graffiti also became the center of a long legal fight. The research lab Xerox PARC in California had a patent on a similar idea called Unistrokes, invented by the researcher David Goldberg. Xerox sued Palm, saying Graffiti copied it. The case went back and forth through the courts for years. In 2003 Palm switched to a new version called Graffiti 2, based on a different handwriting system called Jot, in which some letters were closer to normal handwriting. Later, the two companies made a deal, and Palm paid Xerox 22.5 million dollars. Even a simple alphabet, it turns out, can be worth a lot of money."
+      ]
+    },
+    {
+      "heading": "Cradles, Syncing and the Windows Rivals",
+      "paragraphs": [
+        "A PDA on its own was useful, but it had a big weakness: most people also had information on a computer at home or at work. If you added a new phone number to your Palm, how would your desk computer know? And if you dropped your Palm in a lake, would all your appointments be lost forever?",
+        "Palm's answer was the cradle. Each Pilot came with a little plastic stand that plugged into a desktop computer with a cable. You dropped your Palm into the cradle and pressed one button, called HotSync. The two machines then compared their information. New contacts on the Palm were copied to the computer, new appointments on the computer were copied to the Palm, and if you had changed the same entry in both places, the software tried to sort out which was newer. This is called synchronizing, or syncing. It also meant the computer kept a backup of everything, so a lost PDA no longer meant lost plans.",
+        "Historians at the Computer History Museum point out that this was one of Palm's smartest decisions. Earlier pocket computers had tried to replace the desktop computer. The Palm was designed as a companion to it, a little window into information that really lived on your main computer. That made it simpler, cheaper and more useful. Today your phone syncs your photos, contacts and messages through the internet without any cradle at all, but the idea started with that button.",
+        "Of course, a successful product attracts rivals. The software giant Microsoft created a smaller version of its Windows operating system for handheld devices, called Windows CE, and first used it in 1996 on small clamshell computers with keyboards, known as Handheld PCs. In January 1998 Microsoft announced keyboard-free 'Palm-size PCs' to compete directly with Palm. The name was announced as 'Palm PC' at first but was changed before the devices went on sale.",
+        "On April 19, 2000, Microsoft launched the Pocket PC, built on a new version, Windows CE 3.0. Pocket PCs were made by several companies, including Hewlett-Packard, Casio and Compaq, whose iPAQ became one of the best-known models. They tended to be more powerful than Palms, with faster chips and, on many models, color screens. They came with mobile versions of Microsoft programs such as Word and Excel, could play music and video with Windows Media Player, and could browse the web. Later versions were renamed Windows Mobile, starting with Windows Mobile 2003.",
+        "So by the early 2000s there were two big PDA families. Palm devices were simple, quick and had long battery lives. Pocket PCs were more powerful and felt more like a tiny Windows computer, but they used more power and could be more complicated. Fans of each argued fiercely about which was better, much as Android and iPhone fans argue today. In 2000, Palm still had about three-quarters of the market, but it was gradually losing ground to Microsoft's Pocket PC devices."
+      ]
+    },
+    {
+      "heading": "Too Many Gadgets: The Dream of Convergence",
+      "paragraphs": [
+        "Now imagine a gadget-loving business traveler in about the year 2001. In one pocket there is a mobile phone, maybe a Nokia, for calls and text messages. In another pocket there is a Palm or a Pocket PC for the calendar and contacts. Clipped to the belt might be a pager, a small device that beeps to show a short message. In the bag there might be a digital camera, and perhaps an MP3 music player too; Apple's first iPod arrived in October 2001. That is four or five separate devices, each with its own battery, charger and cable. Airport security trays must have looked like electronics shops.",
+        "Each gadget also contained many of the same parts: a battery, a screen, buttons, a processor, memory and a little speaker. Engineers and business people began to talk about convergence, a word meaning things coming together into one. Why carry five screens and five batteries when one clever device could do it all?",
+        "It was not easy, though. In the 1990s, the parts that made a good phone and the parts that made a good PDA pulled in different directions. A phone needed to be small and to have a battery that lasted for days on standby. A PDA needed a bigger screen and a stronger processor, both of which used more power. Mobile networks were also slow. 2G networks were designed for voices and short texts, not for loading web pages or downloading email attachments. Combining everything risked making a device that was too big, too expensive and too quickly drained.",
+        "People tried anyway, in all sorts of ways. Some business users connected their PDA to their phone with a cable, or with infrared light, so the PDA could use the phone's connection to send a short email. The Palm VII had its own radio for some wireless services in the United States. Handspring, a company started in 1998 by Hawkins, Dubinsky and Colligan after they left Palm, made a PDA called the Visor with a slot in the back where you could plug in extra modules. One of those modules turned the Visor into a phone. Handspring went on to build the Treo, a phone and organizer in one, which you will meet again in Part 7.",
+        "Meanwhile, phones were creeping toward PDAs from the other direction. Phone makers added calendars, address books and games, and the GSM phones of Part 3 could send text messages. Every year phones got a little more like computers, and PDAs got a little more like phones. By the mid-2000s, the PDA as a separate device was fading, swallowed up by phones that could do the same jobs. In the early 2010s, smartphones and tablets had almost completely replaced it.",
+        "The PDA era left behind lasting ideas: the stylus and touchscreen, syncing with a computer, beaming information, tiny on-screen keyboards, calendar alerts, and the principle that a pocket device must be instant and simple. It also left behind important companies and chips, including the ARM processor and the Palm and Windows Mobile software that later powered early smartphones.",
+        "So here is the big question. Who would be the very first to put a real PDA and a real mobile phone together in one handheld device, with a touchscreen, a calendar, an address book and email? You might guess Apple, or Palm, or Nokia. The surprising answer is the giant computer company IBM, and it happened much earlier than most people think: in 1994, more than a dozen years before the iPhone. That forgotten machine is the star of Part 5."
+      ]
+    }
+  ],
+  "deepDive": "The PDA story is a lesson in the gap between what engineers can build and what users will accept. The hardest technical problem was handwriting recognition. Natural handwriting varies hugely between people, letters run together, and a pen-based computer must guess where one letter ends and the next begins (the 'segmentation' problem) before it can even guess which letter it is. The Newton tried to solve this with statistical recognition that compared strokes against dictionaries of likely words. That is powerful when it works, but it failed visibly on unusual words and names, and the early MessagePad, with only about 640 kilobytes of memory and a 20-megahertz processor, had little room for big dictionaries. Graffiti took the opposite approach: by forcing every character to be one stroke, it solved segmentation for free, and by choosing distinct shapes it made classification almost trivial. It moved part of the work from the machine to the human, a trade-off that designers still weigh today whenever they ask users to learn a gesture, a shortcut or a new keyboard layout in exchange for speed and reliability. Historians of design often hold up Hawkins's wooden block as an early, famous example of 'experience prototyping': testing how a product feels in daily life before a single circuit exists. Debates continue about 'firsts'. Psion's 1984 Organiser is usually credited as the first PDA, but there were earlier electronic organizers and handheld computers, and the term PDA was only popularized by John Sculley in 1992. Some argue that the Newton, despite poor sales, mattered more than its success suggests: Apple's investment helped found ARM, whose energy-efficient designs dominate mobile chips today. Market figures tell the rest of the story: Palm held around three-quarters of the PDA market in 2000, yet within a decade the stand-alone PDA had nearly disappeared, absorbed by smartphones. Convergence did not just combine devices; it erased an entire product category.",
+  "funFact": "Before building the first Palm Pilot, Jeff Hawkins carried a wooden model around and 'used' it in meetings with a chopstick as a pretend pen, to test whether the size and design felt right.",
+  "check": {
+    "q": "Why did Palm's Graffiti alphabet make every letter a single stroke?",
+    "a": "So the computer always knew where each letter started and ended, making the letters much easier to recognize correctly.",
+    "wrong": [
+      "So the batteries would last longer by using less ink",
+      "Because the Palm screen could only show capital letters",
+      "Because Apple's patent banned letters with two strokes"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Psion Organiser",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Psion_Organiser"
+    },
+    {
+      "title": "Apple Newton",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Apple_Newton"
+    },
+    {
+      "title": "MessagePad",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/MessagePad"
+    },
+    {
+      "title": "Revolution: Mobile Computing (the PalmPilot)",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/revolution/mobile-computing/18/321"
+    },
+    {
+      "title": "Palm (PDA)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Palm_(PDA)"
+    },
+    {
+      "title": "Graffiti (Palm OS)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Graffiti_(Palm_OS)"
+    },
+    {
+      "title": "Pocket PC",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pocket_PC"
+    },
+    {
+      "title": "Personal digital assistant",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Personal_digital_assistant"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The original Psion Organiser (1984) handheld computer with its one-line display",
+      "search": "Psion Organiser 1984"
+    },
+    {
+      "want": "An Apple Newton MessagePad with its stylus and handwriting screen",
+      "search": "Apple Newton MessagePad"
+    },
+    {
+      "want": "A Palm Pilot (PalmPilot) PDA with its stylus and Graffiti writing area, ideally in its HotSync cradle",
+      "search": "PalmPilot PDA cradle"
+    }
+  ]
+}

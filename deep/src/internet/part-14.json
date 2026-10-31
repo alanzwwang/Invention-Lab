@@ -1,0 +1,153 @@
+{
+  "n": 14,
+  "title": "Cutting the Cord: Wi-Fi and Mobile Internet",
+  "when": "1940s – today",
+  "summary": "Invisible radio waves fill the air around you, carrying videos, games and messages without a single wire. A film star, a group of radio astronomers in Australia and a committee of engineers all helped make it happen. Today most people in the world get online through a phone in their pocket.",
+  "sections": [
+    {
+      "heading": "Messages Riding on Invisible Waves",
+      "paragraphs": [
+        "Hold your hand up in the air. Right now, passing through your fingers, there are radio waves from Wi-Fi routers, phone masts, radio stations and maybe a neighbour's baby monitor. You cannot see them, hear them or feel them, but they are there, carrying conversations, music and data. Wireless Internet is the art of using those invisible waves to carry packets instead of sending them down a wire.",
+        "Radio waves are a kind of electromagnetic wave, the same family as visible light, microwaves and X-rays. They all travel at the speed of light. What makes them different is how fast they wiggle. Scientists call the number of wiggles per second the frequency, measured in hertz. One hertz means one wiggle per second. Wi-Fi often uses waves at about 2.4 gigahertz, which means about 2.4 billion wiggles every second. Each wave is about 12.5 centimetres long from one peak to the next, roughly the length of your hand.",
+        "The German scientist Heinrich Hertz first made and detected radio waves in a laboratory in the late 1880s, and the unit of frequency is named after him. By 1901, the Italian inventor Guglielmo Marconi had sent a radio signal across the Atlantic Ocean. For most of the twentieth century, radio carried voices and music. But a radio wave can carry anything that can be turned into a pattern. To send data, a transmitter changes something about the wave, such as its strength, its exact frequency or the timing of its peaks, in a pattern that stands for 1s and 0s. A receiver tuned to the same frequency spots those changes and turns them back into bits.",
+        "There is one big problem with radio, and it is the same problem you face in a noisy playground. Everyone shares the same air. If two people shout at the same moment, nobody can understand either of them. Radio signals can also be blocked, bounced off walls, mixed up by echoes or deliberately jammed. Much of the story of wireless Internet is the story of clever people solving those problems."
+      ]
+    },
+    {
+      "heading": "ALOHAnet: Hawaii Goes Wireless",
+      "paragraphs": [
+        "You met ALOHAnet briefly in Part 5. Let's look more closely at how it worked, because its simple trick still echoes in wireless networks today. In September 1968, Norman Abramson and Franklin Kuo began a project at the University of Hawaii. The university had campuses spread across several islands, and running telephone wires between them across the sea was expensive and unreliable. So Abramson's team decided to use radio.",
+        "ALOHAnet began working in June 1971. It is often described as the first public demonstration of a wireless packet data network. Terminals on different islands sent packets by UHF radio to a central computer in Honolulu, at 9,600 bits per second. It used two radio channels: one for the terminals to talk to the hub, and one for the hub to broadcast replies to everyone.",
+        "Here is the clever part. All the terminals shared the same channel to the hub, so what happened if two of them sent a packet at the same time? The two signals would crash into each other, which engineers call a collision, and both would be garbled. ALOHAnet's answer was beautifully relaxed. Each terminal simply sent its packet whenever it was ready. If the hub received it correctly, it sent back an acknowledgement. If no acknowledgement came, the terminal assumed there had been a collision, waited a random amount of time and tried again. Because each terminal picked a different random wait, they were unlikely to crash into each other a second time.",
+        "This idea had a cost. When lots of terminals were busy, collisions wasted a big share of the channel's time. Mathematicians worked out that in the simplest version only about 18 percent of the channel's capacity carried useful data at best. A later improvement, called slotted ALOHA, split time into fixed slots and roughly doubled that to about 37 percent. But the core idea, sharing the air, detecting failures, and backing off for a random time before trying again, inspired Bob Metcalfe when he designed Ethernet in the 1970s, and versions of it live on in Wi-Fi and mobile phone networks today."
+      ]
+    },
+    {
+      "heading": "Hedy Lamarr, a Piano Roll and a Secret Signal",
+      "paragraphs": [
+        "Now we travel back to Hollywood in 1940. Hedy Lamarr was one of the most famous film stars in the world. She had been born Hedwig Kiesler in Vienna, Austria, on 9 November 1914, and had moved to Hollywood in 1938. What most cinema fans did not know was that she loved inventing. She kept a workbench at home and enjoyed tinkering with ideas.",
+        "The Second World War was raging. Lamarr wanted to help the Allies, and she became interested in a problem with radio-controlled torpedoes. A torpedo steered by radio could be thrown off course if the enemy found its frequency and jammed it by blasting noise on that same frequency. Lamarr had an idea: what if the radio signal kept jumping from one frequency to another in a secret pattern that only the sender and the torpedo knew? An enemy listening on one frequency would hear only a tiny blip before the signal hopped away.",
+        "To make it work, she teamed up with George Antheil, an American composer famous for wild modern music. Antheil had written a piece called Ballet Mécanique that used several player pianos playing in step. A player piano is a piano that plays itself by reading a long paper roll punched with holes. Antheil knew how to keep machines synchronised, and the pair realised that two matching punched rolls, one in the ship and one in the torpedo, could tell both radios to hop to the same new frequency at exactly the same moment.",
+        "They filed their patent on 10 June 1941. It was granted on 11 August 1942 as US patent 2,292,387, titled 'Secret Communication System', under the names Hedy Kiesler Markey (her married name at the time) and George Antheil. The patent describes perforated strips like piano rolls, kept in step by clock motors, and notes that a standard 88-note piano roll could control 88 different frequencies, one for each key on a piano.",
+        "The US Navy did not use their invention during the war. It was considered too bulky and complicated to fit inside a torpedo. The patent expired, and for years few people knew about it. Later, as electronics improved, frequency-hopping and related ideas, together called spread spectrum, became important in military radios and then in everyday technology. Systems using similar frequency-hopping ideas were in operational use from about 1962. Lamarr and Antheil were finally honoured with a Pioneer Award from the Electronic Frontier Foundation in 1997, and Lamarr was added to the US National Inventors Hall of Fame in 2014.",
+        "So did Hedy Lamarr invent Wi-Fi? No, and it is important to be fair here. Her patent was an early and clever version of frequency hopping, an ancestor idea of the spread-spectrum radio that later wireless systems used. The very first Wi-Fi standard did include a frequency-hopping option, and Bluetooth still hops between frequencies today. But Wi-Fi itself was built decades later by many engineers, using different techniques, and other inventors had also thought about hopping frequencies. Lamarr deserves real credit as an inventor who saw a smart idea early, and her story is a great reminder that inventors can come from anywhere, even a film set. She simply was not the inventor of Wi-Fi."
+      ]
+    },
+    {
+      "heading": "A Committee, a Standard and a Catchy Name",
+      "paragraphs": [
+        "For decades, most radio frequencies could only be used with a government licence, which made sense: you would not want random people broadcasting on the same frequencies as air traffic control. But in 1985, the US Federal Communications Commission (FCC) made a big decision. It allowed certain bands of frequencies, including one around 2.4 gigahertz, to be used by anyone for spread-spectrum radio without a licence, as long as the devices were low-powered. These bands were already used by things like microwave ovens, so they were considered a bit of a junk drawer. Engineers saw an opportunity.",
+        "Companies began building wireless networking products, but each company's equipment worked differently. One early example was WaveLAN, developed in 1991 by engineers at NCR, later part of AT&T, in the Netherlands, which ran at 1 to 2 megabits per second. The trouble was that a card from one company could not talk to a base station from another. It was like the early days of networking all over again, when different networks could not talk to each other, and the solution was the same: an agreed set of rules.",
+        "That job fell to a committee of the IEEE (the Institute of Electrical and Electronics Engineers), a huge organisation of engineers that writes many technical standards. Its working group was called 802.11, and its chair for about ten years was a Dutch engineer named Vic Hayes. Getting dozens of rival companies to agree on one design took years of meetings and arguments. Hayes is often called the father of Wi-Fi for steering the group through it. The first 802.11 standard was published in 1997. It worked at 2.4 gigahertz and offered speeds of up to 2 megabits per second.",
+        "Two years later, in 1999, came two upgrades. 802.11b ran at up to 11 megabits per second at 2.4 gigahertz, and 802.11a reached up to 54 megabits per second at 5 gigahertz. It was 802.11b that really took off. That same year, Apple put wireless networking into its iBook laptop under the name AirPort, helping to show ordinary people that a laptop without a network cable was possible.",
+        "But 'IEEE 802.11b Direct Sequence' is not a name that makes people rush to the shops. In 1999, several companies formed a group to test products and make sure equipment from different makers really worked together. The group was first called the Wireless Ethernet Compatibility Alliance. They hired a branding company, Interbrand, to come up with something catchier. Interbrand suggested Wi-Fi, a name that rhymes with hi-fi, the old word for good-quality music systems. The group soon renamed itself the Wi-Fi Alliance, and today it certifies thousands of products every year.",
+        "You may hear people say Wi-Fi stands for wireless fidelity. It does not. Wi-Fi is a brand name chosen because it sounded friendly and memorable, and the Wi-Fi Alliance does not treat it as short for anything. In 2018 the Alliance also introduced simpler names for the versions: Wi-Fi 4 (802.11n), Wi-Fi 5 (802.11ac) and Wi-Fi 6 (802.11ax), followed by later versions such as Wi-Fi 7."
+      ]
+    },
+    {
+      "heading": "Radio Astronomers Solve the Echo Problem",
+      "paragraphs": [
+        "Early wireless networks had a frustrating problem indoors. Radio waves do not just travel in a straight line from the router to your laptop. They bounce off walls, ceilings, furniture and metal cupboards. Your laptop receives the direct signal plus many slightly delayed copies, like hearing your own voice echo around a big empty hall. At slow speeds this did not matter much. But the faster you try to send data, the shorter each bit becomes, and the echoes of one bit start smearing into the next, turning the signal into mush. Engineers call this multipath, and the scientists who tackled it described it as reverberation.",
+        "Some of the people who cracked this problem came from an unexpected field: radio astronomy, the science of studying space by listening to the radio waves that stars and galaxies give off. At CSIRO, Australia's national science agency, a team in its Radiophysics Division in Sydney included John O'Sullivan, Terry Percival, Diet Ostry, Graham Daniels and John Deane. O'Sullivan had earlier worked on ways to pick faint, smeared-out radio signals from space out of the noise, and the team realised that some of the same mathematics could help clean up wireless signals bouncing around a room.",
+        "Their solution used a powerful mathematical tool called the fast Fourier transform, which can split a complicated signal into lots of simple waves and put it back together again, very quickly, on a computer chip. Instead of sending one fast stream of data on one frequency, the system could send many slower streams side by side on many closely spaced frequencies at once. Because each stream is slow, the echoes have time to die away before the next piece of data arrives. All the streams together still add up to a fast connection. The team built a prototype in the early 1990s and patented their invention, with the key US patent granted in 1996.",
+        "This kind of approach became part of the faster Wi-Fi standards that followed, starting with 802.11a and later 802.11g, 802.11n and beyond. CSIRO argued that companies selling Wi-Fi products were using its patented ideas, and after long legal battles, many companies agreed to pay licence fees. Reports describe settlements worth about 200 million dollars in 2009 and about 220 million dollars in 2012, and CSIRO says it has earned around 430 million Australian dollars from more than 20 licence agreements. O'Sullivan received the Australian Prime Minister's Prize for Science in 2009, and in 2012 the CSIRO team received the European Patent Office's European Inventor Award in the non-European countries category.",
+        "It is fair to say that Wi-Fi has many parents. American engineers at the FCC opened the airwaves, Dutch engineers at NCR built early products, an international IEEE committee wrote the rules, Australian scientists solved a key speed problem, and branding experts gave it a name. Australia, the Netherlands and the United States all have good reasons to be proud. Like the Internet itself, Wi-Fi was a team effort spread across countries and decades."
+      ]
+    },
+    {
+      "heading": "Inside Your Wi-Fi Router",
+      "paragraphs": [
+        "Let's open up the box in your home. In many homes, one box does several jobs at once. The modem part talks to your Internet provider over the fibre, cable or telephone line. The router part directs packets between the Internet and all the devices in your home, giving each one its own local address and remembering which reply belongs to which device. And the wireless access point part is a small radio transmitter and receiver with antennas that sends packets through the air to your phone, laptop, games console and smart speaker.",
+        "Wi-Fi mainly uses two bands of frequencies, around 2.4 gigahertz and 5 gigahertz, and newer equipment can also use a band around 6 gigahertz. Each band is divided into channels, like lanes on a road. The 2.4 gigahertz band is crowded and narrow: in many countries it has only three channels that do not overlap each other, numbered 1, 6 and 11. It is also shared with Bluetooth gadgets, cordless phones and microwave ovens, which work at about the same frequency. That is why your video might stutter when someone heats up their lunch. The 5 gigahertz band has many more channels and is usually much faster, but higher-frequency waves are weakened more by walls and floors. So 2.4 gigahertz reaches farther, while 5 gigahertz goes faster over shorter distances.",
+        "Range matters too. Indoors, a typical Wi-Fi signal works well within about 20 metres, depending on what is in the way. Thick brick or concrete walls, metal, mirrors and even water soak up or block the signal, and since people are mostly water, a crowded room can weaken it too. A fish tank between you and the router is bad news. Big homes sometimes use several linked access points, called a mesh network, to spread the signal around.",
+        "Because radio waves spread out in all directions, anyone nearby with the right equipment could pick up your Wi-Fi signal. That is why Wi-Fi networks use passwords and encryption, which scrambles the data so only devices with the right key can read it. The first Wi-Fi security system, called WEP, turned out to be weak and easy to break. It was replaced by WPA in 2003, then WPA2 and, from 2018, WPA3. A good rule: always use a strong password on your home Wi-Fi, and be careful about typing secret information when you are on a free public network in a café or airport.",
+        "Speeds have shot up since 1997. The first standard managed 2 megabits per second; 802.11n, or Wi-Fi 4, from 2009 could reach several hundred megabits per second by sending several streams at once from multiple antennas; and the newest versions can, under ideal conditions very close to the router, reach many gigabits per second. Real-world speeds are always lower than these headline numbers, because walls, distance and other users all take their share."
+      ]
+    },
+    {
+      "heading": "From Bricks to Smartphones: Mobile Generations",
+      "paragraphs": [
+        "Wi-Fi covers your home or school. But what about when you are on a bus, at the beach or walking through a city? For that, we use mobile networks. A mobile network divides the land into areas called cells, each served by a mast with antennas. As you move, your phone is handed from one cell to the next without dropping the connection. Engineers talk about generations of mobile technology, usually shortened to G.",
+        "The first generation, 1G, arrived in the late 1970s and 1980s. It was analogue, meaning it sent voices as smoothly varying radio waves, a bit like an old radio broadcast. The phones were heavy and expensive, sometimes nicknamed bricks, and they were for talking only. The second generation, 2G, was digital: voices were turned into bits. The most popular 2G system, GSM, began in Europe, and the first GSM call was made in Finland in 1991. GSM brought a fun extra: text messages. On 3 December 1992, an engineer named Neil Papworth sent the first text message, 'Merry Christmas', from a computer to a Vodafone phone in Britain. Texts were limited to 160 characters, a size planned back in the 1980s by Friedhelm Hillebrand and Bernard Ghillebaert. Later 2G add-ons such as GPRS and EDGE allowed slow mobile Internet, enough for email and simple pages.",
+        "Third-generation, or 3G, networks arrived in the early 2000s and made mobile Internet properly usable for browsing and downloading. 4G networks, based on a technology called LTE, started appearing around 2009 and 2010 and were fast enough for smooth video streaming, video calls and maps that update as you walk. 5G networks began commercial service in 2019. They can offer much higher speeds and shorter delays, and they can handle huge numbers of connected devices in one place, such as a packed stadium. The International Telecommunication Union, the United Nations agency for communications, reported that in 2024 about 51 percent of the world's population was covered by 5G, about 92 percent by 4G, and about 96 percent by 3G or better. Coverage is very uneven, though: 5G reached 84 percent of people in high-income countries but only about 4 percent in low-income countries.",
+        "Then came the moment that changed everything. On 9 January 2007, Steve Jobs stood on stage at the Macworld conference in San Francisco and announced the iPhone, calling it a phone, an iPod and an Internet device in one. It went on sale in the United States in June 2007, costing 499 dollars for the 4 gigabyte model and 599 for the 8 gigabyte model. Surprisingly, the first iPhone could not use 3G. It used Wi-Fi and the slower 2G EDGE network. But its big touchscreen and real web browser showed people what a pocket computer could be. Other smartphones already existed, such as BlackBerry devices that were popular for email, and Japan had offered mobile Internet services on phones since 1999. The first phone running Google's Android software followed in 2008, the same year Apple opened its App Store. Soon, smartphones from many companies were everywhere."
+      ]
+    },
+    {
+      "heading": "The Internet in Your Pocket",
+      "paragraphs": [
+        "Today, for most people on Earth, the Internet is something that lives in a phone. Studies of web traffic have found that since around the mid-2010s, more web pages around the world have been loaded on mobile phones than on desktop and laptop computers. In many countries, especially in Africa and Asia, millions of people skipped computers and landline connections entirely and went online for the first time with a smartphone. A farmer can check crop prices, a student can watch a science lesson, and a family can video-call a relative working in another country, all from a device that fits in a pocket.",
+        "Think about how much that phone depends on everything you have read in this story. When you send a photo from a park, it travels by radio to the nearest mast, then down cables, often fibre, to your mobile company's network, across exchange points, maybe under the sea, and finally out through someone else's Wi-Fi to your friend's phone. Wireless is really only the first and last few metres or kilometres of the journey. The heavy lifting is still done by the glass cables from Part 13. The packets are still chopped up and reassembled using the TCP/IP rules from Part 6.",
+        "There are still gaps. Mobile signals are weaker in remote countryside, mountains and deserts, and many people cannot afford a smartphone or a data plan. You will read more about this digital divide in Part 18. But the change from wired to wireless has been astonishingly fast. In 1997, the first Wi-Fi standard carried 2 megabits per second and hardly anyone had heard of it. Twenty years later, billions of people carried a powerful Internet computer everywhere they went.",
+        "And once the Internet was in every home, office and pocket, the world of business took notice. If people were online all the time, then shops, banks, newspapers and music companies wanted to be online too. In the late 1990s, investors poured money into almost any company with '.com' in its name, sometimes far too fast. What happened next was a boom, a crash and the birth of a brand-new economy."
+      ]
+    }
+  ],
+  "deepDive": "Why did spread spectrum and the fast Fourier transform matter so much? Radio channels are limited in two ways: by bandwidth (how wide a slice of frequencies you may use) and by noise. Claude Shannon's 1948 theorem showed that the maximum error-free data rate of a channel grows with both its bandwidth and its signal-to-noise ratio, so engineers try to squeeze every drop from a crowded, noisy band. Spread-spectrum methods deliberately spread a signal across a wider band than strictly needed. Frequency hopping, the family that includes the Lamarr–Antheil patent, jumps among channels in a pseudo-random pattern; direct-sequence spread spectrum, used by 802.11b, multiplies each bit by a fast code. Both make a signal resistant to narrow interference and jamming and let many users share a band. The higher-speed Wi-Fi generations instead rely on OFDM (orthogonal frequency-division multiplexing): the band is split into dozens or hundreds of narrow subcarriers, each carrying slow symbols, and a short guard interval absorbs echoes. FFT chips make the splitting and recombining cheap. Historians debate credit here. OFDM's mathematics was explored at Bell Labs and elsewhere in the 1960s and 1970s, so CSIRO did not invent OFDM itself; its patent concerned a particular way of combining such techniques for fast indoor wireless networking, and its validity was contested in court before companies settled. Lamarr's story raises a different debate: her patent was real and clever, but it was not adopted at the time, and the spread-spectrum systems built later drew on many independent lines of work. Mobile networks add another layer: the shift from 3G to 4G LTE also adopted OFDM-based methods, plus MIMO, which uses several antennas to send separate streams through the same frequencies by exploiting the different paths the waves take. In other words, echoes that once wrecked signals are now used to multiply capacity. Today, mobile data and Wi-Fi together carry a large share of the world's last-hop traffic, yet nearly all of it is handed to fibre within a few kilometres.",
+  "funFact": "Hedy Lamarr and George Antheil's 1942 patent suggested using a standard 88-note player-piano roll so a radio signal could hop among 88 frequencies, the same number as the keys on a piano.",
+  "check": {
+    "q": "Does the name 'Wi-Fi' officially stand for 'wireless fidelity'?",
+    "a": "No, it is a brand name created in 1999 that does not officially stand for anything",
+    "wrong": [
+      "Yes, it was named by Hedy Lamarr in 1942",
+      "Yes, the IEEE chose it as the official name in 1997",
+      "No, it stands for 'wide frequency'"
+    ]
+  },
+  "sources": [
+    {
+      "title": "US Patent 2,292,387: Secret communication system",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US2292387A/en"
+    },
+    {
+      "title": "Wireless LAN",
+      "publisher": "CSIRO",
+      "url": "https://www.csiro.au/en/research/technology-space/it/wireless-lan"
+    },
+    {
+      "title": "Who we are: History",
+      "publisher": "Wi-Fi Alliance",
+      "url": "https://www.wi-fi.org/who-we-are/history"
+    },
+    {
+      "title": "IEEE 802.11",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11"
+    },
+    {
+      "title": "ALOHAnet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ALOHAnet"
+    },
+    {
+      "title": "Apple Reinvents the Phone with iPhone",
+      "publisher": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/"
+    },
+    {
+      "title": "Facts and Figures 2024: Mobile network coverage",
+      "publisher": "International Telecommunication Union (ITU)",
+      "url": "https://www.itu.int/itu-d/reports/statistics/2024/11/10/ff24-mobile-network-coverage/"
+    },
+    {
+      "title": "SMS",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/SMS"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Publicity portrait photograph of Hedy Lamarr from the 1940s",
+      "search": "Hedy Lamarr portrait 1940s"
+    },
+    {
+      "want": "Drawing from US patent 2,292,387, the Lamarr and Antheil frequency-hopping 'Secret Communication System'",
+      "search": "Lamarr Antheil patent 2292387"
+    },
+    {
+      "want": "The first-generation Apple iPhone from 2007",
+      "search": "first generation iPhone 2007"
+    }
+  ]
+}

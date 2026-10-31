@@ -1,0 +1,156 @@
+{
+  "n": 18,
+  "title": "Being Safe, Smart and Kind Online",
+  "when": "Today",
+  "summary": "The Internet is amazing, but you need a few good habits to enjoy it safely. Learn how to make super-strong passwords, keep your secrets secret, spot fake stories and be kind to everyone online. And if anything ever feels wrong, tell a grown-up you trust!",
+  "sections": [
+    {
+      "heading": "Passwords: The Keys to Your Online Life",
+      "paragraphs": [
+        "In the last part you saw how engineers built locks into the Internet: encryption, certificates, firewalls and patches. All of them can be undone in a second if someone gets hold of your password. So let us start with the key that you control yourself.",
+        "Every year, security companies publish lists of the most common passwords found in leaked data, and every year the same embarrassing favourites appear near the top: '123456', 'password', 'qwerty', and names of football teams. Britain's National Cyber Security Centre, the NCSC, points out that attackers do not guess passwords one at a time like a person would. They use computer programs that can try enormous numbers of guesses, starting with lists of common passwords and dictionary words, then trying every common trick, like swapping the letter 'a' for '@' or adding '1!' at the end. A password such as 'Pa55word!' might satisfy a website's rules, but it is one of the first things those programs try.",
+        "So what makes a password strong? CISA, the American cybersecurity agency, gives three tests. First, it should be long: at least 16 characters, because every extra character multiplies the number of possible guesses. Second, it should be random, not your name, your pet, your birthday or your favourite band, which anyone who knows you, or who can see your posts, might guess. Third, it should be unique, meaning you never use the same password on two different sites.",
+        "That third rule matters more than most people realise. Websites get broken into all the time, and lists of stolen email addresses and passwords are traded by criminals. If you reuse a password, a break-in at a small games forum could let a stranger try the same password on your email account. Security people call this 'credential stuffing', and it works because so many people reuse passwords. Your email account is especially precious, because it is usually where 'reset your password' messages go. Whoever controls your email can often take over everything else.",
+        "A clever way to get long, random and memorable is a passphrase. The NCSC recommends joining three random words, such as 'coffeetrainfish', while CISA suggests four to seven unrelated words, like its example 'HorsePurpleHatRun'. The trick is that the words must be truly random, not a famous phrase or song lyric. A good method is to imagine a silly picture: a purple horse wearing a hat and running. It is easy for you to remember, and very hard for a computer to guess.",
+        "But nobody can remember fifty different passphrases. That is where a password manager comes in. It is a program, often built into your browser or phone, that creates strong random passwords for every site, stores them in an encrypted vault, and fills them in for you. You only need to remember one very strong master passphrase. Many security experts now also recommend 'passkeys' where websites offer them. A passkey uses the public-key cryptography you met in the last part, so there is no password to type, steal or phish at all. And one more rule that never changes: a password is like a toothbrush. Do not share it with friends, even your best friend. The only people who might need to know a young person's passwords are their parents or carers."
+      ]
+    },
+    {
+      "heading": "Two Keys Are Better Than One",
+      "paragraphs": [
+        "Imagine a treasure chest with two different locks. A thief who steals one key still cannot open it. That is the idea behind two-factor authentication, often shortened to 2FA, or multi-factor authentication, MFA, when there are two or more.",
+        "A factor is a type of proof that you are really you. Security experts sort them into three kinds. The first is something you know, such as a password or a PIN. The second is something you have, such as your phone or a small security key that plugs into a computer. The third is something you are, such as your fingerprint or face. Two-factor authentication means using two different kinds together, usually a password plus a code sent to, or created on, your phone.",
+        "Here is how it feels in practice. You type your password, and then the website asks for a six-digit code. You open an authenticator app on your phone, which shows a fresh code that changes every 30 seconds or so, and type it in. Even if a criminal has stolen your password in a data breach, they do not have your phone, so they are stuck.",
+        "Not all second factors are equally strong. CISA ranks them. At the top are physical security keys, small devices that you tap or plug in, and which cannot be fooled by fake websites. Next come authenticator apps, especially ones that ask you to match a number shown on screen. Codes sent by text message or email are the weakest kind, because criminals sometimes trick phone companies into moving a person's number to a new SIM card. Even so, CISA's advice is clear: any second factor is better than none. A sensible plan is to switch it on first for your most important accounts, such as email.",
+        "Two-factor authentication has one weak spot of its own: you. Tricksters sometimes phone or message people pretending to be from a company, saying 'We have sent you a code, please read it out to us to confirm your account.' Never do this. A real company will never ask you to tell them a login code. The code is meant for the website only, the same way your house key is meant only for your own front door.",
+        "If you are young, the grown-ups in your life may manage these settings for your accounts, which is perfectly sensible. The important thing is to understand why the extra step exists. It is a little moment of inconvenience that blocks a huge number of attacks."
+      ]
+    },
+    {
+      "heading": "Your Digital Footprint",
+      "paragraphs": [
+        "Walk across a sandy beach and you leave footprints. Online, almost everything you do leaves a trail too: posts, comments, photos, likes, searches, game chats and the places your phone has been. Together these make up your digital footprint. Some of it you create on purpose, by posting things. Some of it is collected quietly in the background, as you will see later in this part.",
+        "The big difference from a beach is that the sea does not wash online footprints away. A photo you share can be copied, screenshotted and re-shared in seconds, by people you have never met. Even if you delete the original, copies may survive for years. Many universities and employers look at applicants' public profiles, and a silly or unkind post made at 12 can be found when you are 22. That is not a reason to be afraid of the Internet, just a reason to pause and ask, before posting anything: would I be happy for my teacher, my grandparents and a stranger to see this, now and in ten years?",
+        "Some information should almost never be shared publicly, especially by young people: your full home address, your phone number, the name of your school, your passwords, and where you are right now or will be later. Be careful with photos, too. A picture of you in a school uniform, in front of your house with the number on the door, or next to a street sign, can reveal where you live or study without a single word being written. Many phones also hide the place where a photo was taken inside the picture file, unless location settings are turned off.",
+        "Privacy settings help you choose who can see what. Many apps let you make your account private, so only people you approve can see your posts. It is worth checking these settings with a parent or carer, because apps change them from time to time. Remember too that 'friends' online are not always who they say they are. A person who is 'a 12-year-old from your town' might be someone else entirely. If an online contact asks for photos, asks you to keep secrets, or wants to meet in person, tell a trusted adult straight away. That is always the right thing to do, and you will never be in trouble for asking.",
+        "Finally, other people's footprints matter as much as your own. Ask before posting a photo of a friend or a family member, and respect it if they say no. Kindness and privacy often go hand in hand."
+      ]
+    },
+    {
+      "heading": "Kindness, Cyberbullying and Asking for Help",
+      "paragraphs": [
+        "Behind every username is a real person with real feelings. That sounds obvious, but screens make it surprisingly easy to forget. When you talk to someone face to face, you see their expression change if your words hurt. Online, you only see text, and a joke that seems funny to you can land very differently on the other side.",
+        "When unkindness online happens again and again, on purpose, to scare, anger or shame someone, it is called cyberbullying. It can happen through messages, social media, group chats, online games or even shared documents. It might mean nasty comments, spreading rumours, leaving someone out of a group on purpose, sharing embarrassing photos, or pretending to be someone else. Because phones are always nearby, cyberbullying can follow a person home, which is one reason it can feel so heavy.",
+        "UNICEF, the United Nations children's agency, gives clear advice for anyone being bullied online. First, tell someone you trust: a parent, relative, teacher, school counsellor or coach. This is usually the most important step. Second, save evidence, such as screenshots, because online bullying leaves a record that can show what happened. Third, block the person and report the behaviour using the app's report button. UNICEF notes that on big platforms such as Instagram and TikTok, reports are anonymous or confidential, so the person will not be told who reported them. It is also wise not to reply angrily, which can make things worse. Many apps also let you mute, restrict or filter comments if you want less contact without a big confrontation.",
+        "UNICEF also makes an important point: you did nothing wrong, so you should not have to give up the Internet to escape bullying. The aim is to make the bullying stop, not to make you disappear. If someone is ever in immediate danger, the right step is to contact emergency services, and many countries have free child helplines staffed by people who are trained to listen.",
+        "What if you see someone else being bullied? You can be an 'upstander' instead of a bystander. That does not mean fighting back in the comments. It can be as simple as sending the person a kind private message, refusing to share or like the cruel post, reporting it, and telling an adult. Small actions like these show the person being targeted that they are not alone.",
+        "A good test before you post or send anything is to ask three questions. Is it true? Is it kind? Is it necessary? Not every message has to pass all three, because jokes and silly memes are part of the fun of the Internet, but if a post fails the 'kind' test, it is probably best left unsent."
+      ]
+    },
+    {
+      "heading": "Be a Detective: Spotting Misinformation",
+      "paragraphs": [
+        "The Internet lets anyone publish anything, which is wonderful, and also means that false information can spread just as fast as true information, sometimes faster. Misinformation means false or misleading information shared by mistake. Disinformation means false information spread on purpose to fool people. Either way, a good online citizen learns to think like a detective.",
+        "Start with three questions. Who made this? Look for a named author or organisation, and ask whether they are experts on the subject and what they might want you to believe or buy. What is the evidence? Good information usually tells you where its facts came from, with links to studies, official data or named witnesses. What do other trusted sources say? This is the most powerful trick of all. Professional fact-checkers often open new tabs and search for the claim or the website's name to see what reliable news organisations, museums, universities or science agencies say about it. This is sometimes called 'reading laterally', because you look sideways across the web instead of only scrolling down the one page.",
+        "Watch out for your own feelings too. Fake stories are often designed to make you shocked, scared or furious, because people share strong emotions quickly without checking. If a post makes you think 'I must share this right now!', that is exactly the moment to slow down. Also check the date: an old story or photo can be re-shared years later as if it just happened, and that is one of the most common tricks of all.",
+        "Pictures and videos used to feel like proof, but no longer. A deepfake is a video, picture or sound recording created or altered with artificial intelligence to show someone doing or saying something they never did. Today AI tools can also make realistic images of events that never happened, and imitate a person's voice from a short recording. Clues can include strange hands or teeth, blurry edges, lighting that does not match, or lips that do not quite fit the words, but the best fakes have no obvious clues at all. That is why checking the source and finding other trusted reports matters more than staring at pixels. A 'reverse image search' tool can sometimes show where a picture first appeared online.",
+        "Remember the lesson from the search engines part too: the top result is not automatically the truest one, and a website with a padlock is not automatically honest. Being a detective does not mean believing nothing. It means checking before you trust, and being willing to change your mind when good evidence appears."
+      ]
+    },
+    {
+      "heading": "Who Is Watching? Cookies, Ads and Your Data",
+      "paragraphs": [
+        "Why are so many websites and apps free? Building and running them costs a lot of money, so many companies earn it by showing advertisements. And adverts are worth more when they are aimed at the right people. That is why many websites collect information about what visitors read, click and buy.",
+        "One of the main tools is the cookie, and it has a surprisingly friendly origin. In June 1994 a Netscape programmer named Lou Montulli proposed cookies to solve a simple problem: websites forgot who you were each time you clicked to a new page, so a shop could not remember what was in your shopping basket. A cookie is a small piece of text a website asks your browser to store and send back next time, like a cloakroom ticket. The name came from 'magic cookie', an older programmers' term for a little piece of data that is passed back and forth unchanged. Cookies are still what keep you logged in and remember your basket today.",
+        "The trouble came with 'third-party cookies'. These belong not to the site you are visiting, but to another company, often an advertising network whose ads appear on thousands of websites. Each time you visit one of those sites, the ad company can recognise its cookie and add a note to its record of your browsing. Over time, it can build a detailed profile of your interests to choose which ads to show you. Most people did not even know cookies existed until a newspaper article explained them in 1996. Modern apps use many other tracking methods as well, including information about your device and your location.",
+        "Governments have responded with privacy laws. Europe's ePrivacy rules from 2002, strengthened in 2009, are the reason so many websites show a cookie banner asking for permission. The biggest law is the General Data Protection Regulation, or GDPR, which the European Union adopted in 2016 and which took effect on 25 May 2018. It gives people rights over their personal data, including the right to see what a company holds about them and, in many cases, to have it deleted. Companies that break the rules can face very large fines. Because so many international companies have European customers, GDPR changed how websites work around the world, and many other countries have since passed similar laws. In the United States, the COPPA law of 1998, which you met earlier, gives special protection to children under 13.",
+        "You have choices too. When a cookie banner appears, look for a 'reject' or 'necessary only' button. Check which apps can see your location, microphone and contacts, and switch off anything that does not need them. A good rule: if a service is free, ask yourself how it is paying for itself."
+      ]
+    },
+    {
+      "heading": "Bigger Than One Screen: Divides, Shutdowns and Screen Time",
+      "paragraphs": [
+        "It is easy to imagine that everyone is online. They are not. The International Telecommunication Union, the United Nations agency for digital technology, estimated that about 6 billion people used the Internet in 2025, around three-quarters of humanity. That still left about 2.2 billion people offline, and the ITU has found that most people without the Internet live in rural areas. The gap between people who can get online easily and those who cannot is called the digital divide. It depends on where you live, how much money your family has, whether there is electricity and a signal nearby, and whether people have had the chance to learn digital skills. When homework, job applications, banking and even doctors' appointments move online, being disconnected can mean being left behind.",
+        "In some places the Internet is switched off on purpose. An Internet shutdown is a deliberate cutting off or slowing down of Internet or phone services, usually ordered by a government, sometimes for a whole country and sometimes for one region or one app. The digital rights group Access Now, which tracks them through its KeepItOn campaign, counted 313 shutdowns in 52 countries in 2025, the highest number since 2016. Shutdowns often happen during protests, elections or conflicts, and some countries have even cut the Internet during national school exams to stop cheating. Human rights groups argue that shutdowns harm people's ability to get news, contact families, run businesses and reach emergency help.",
+        "Other governments use censorship, blocking particular websites, apps or topics while leaving the rest of the Internet working. Debates about where to draw the line between keeping people safe and allowing free speech are some of the hardest questions societies face today, and different countries answer them in very different ways.",
+        "Then there is a challenge much closer to home: screen time. The Internet is full of brilliant things, from coding tutorials to museum tours to video calls with grandparents, and not all screen time is equal. Learning and creating are different from scrolling endlessly. But many apps are designed to keep you watching for as long as possible, with endless feeds and autoplaying videos. Sleep, exercise, time outdoors and time with friends and family in person all matter for a healthy brain and body. Simple habits help: keep phones out of bedrooms at night, switch off unnecessary notifications, and notice how different apps make you feel."
+      ]
+    },
+    {
+      "heading": "Your Online Safety Checklist",
+      "paragraphs": [
+        "That was a lot of advice, so here it is squeezed into a checklist you can remember. Think of the word SMART. S is for Secrets: keep your passwords, address, school and location private, and use long passphrases, a password manager and two-factor authentication. M is for Messages: be suspicious of urgent messages, unexpected links and attachments, and anyone asking for codes or personal details. A is for Ask: if something feels wrong, scary or confusing, ask a trusted adult, and remember you will never be in trouble for asking. R is for Real or fake: check who made it, look for evidence and see what other trusted sources say before you believe or share. T is for Treat others well: be kind, think before you post, ask before sharing photos of others, and stand up for people being bullied.",
+        "Add two quick habits to that list. Install updates when your device asks, because they patch the holes criminals use. And take breaks: the best Internet users know when to log off.",
+        "Every one of these habits is small, but together they make you far safer than any single piece of technology could. They also make the Internet a better place for everyone else, because every account that is hard to break into, and every rumour that is not passed on, makes life harder for tricksters.",
+        "And now, a question to carry into the next part. Every day you save photos, send messages, edit school documents and watch videos. When you take a picture and it appears on your tablet too, or a friend can open a document you just wrote, where exactly is all that stuff kept? People say it lives in 'the cloud'. But clouds are made of water droplets, and your photos are definitely not floating in the sky. So where do they really live? Let us go and find out."
+      ]
+    }
+  ],
+  "deepDive": "Online safety is full of real trade-offs that experts still argue about. Take passwords. For years, organisations forced users to include symbols and change passwords every few months. Research found this backfired: people chose predictable patterns such as 'Summer2024!' and then 'Autumn2024!'. Guidance from the US National Institute of Standards and Technology and Britain's NCSC shifted towards long passphrases, checking new passwords against lists of known breached ones, and not forcing regular changes unless there is evidence of a breach. The next shift is passkeys, which replace passwords with public-key cryptography tied to a device, so there is nothing reusable for a phishing site to steal. Two-factor authentication has its own ranking: text-message codes can be intercepted through 'SIM swapping', while hardware security keys based on the FIDO standards are resistant to phishing because they check the real website's address themselves. Privacy raises bigger questions. Targeted advertising pays for many free services, but it relies on collecting data about behaviour across sites and apps. Laws such as Europe's GDPR, which took effect on 25 May 2018, are built on principles like data minimisation (collect only what you need) and lawful basis (have a valid reason to process data). Critics say cookie banners have turned consent into a box people click without reading, and regulators have fined some large companies hundreds of millions of euros. Browsers have moved to restrict third-party cookies, though the industry has struggled to agree on replacements. Misinformation research is also lively. Studies of professional fact-checkers by Stanford researchers found they were better than many students and even academics at judging websites, largely because they left the page to check what other sources said about it, a habit called lateral reading. Generative AI has made convincing fake images, voices and text cheap, which shifts emphasis from spotting flaws in content to checking provenance: where something came from. Finally, the digital divide is about more than cables. The ITU's estimate of about 2.2 billion people still offline in 2025 hides gaps in affordability, skills, language and gender, and closing them is one of the UN's development goals.",
+  "funFact": "The web cookie got its name from 'magic cookie', an older programmers' term for a small piece of data passed back and forth unchanged; Netscape's Lou Montulli brought the idea to the Web in 1994 to let online shops remember shopping baskets.",
+  "check": {
+    "q": "On what date did Europe's General Data Protection Regulation (GDPR) take effect?",
+    "a": "25 May 2018",
+    "wrong": [
+      "1 January 1983",
+      "15 January 2001",
+      "6 August 1991"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Use Strong Passwords",
+      "publisher": "CISA (US Cybersecurity and Infrastructure Security Agency)",
+      "url": "https://www.cisa.gov/secure-our-world/use-strong-passwords"
+    },
+    {
+      "title": "Require Multifactor Authentication",
+      "publisher": "CISA (US Cybersecurity and Infrastructure Security Agency)",
+      "url": "https://www.cisa.gov/secure-our-world/require-multifactor-authentication"
+    },
+    {
+      "title": "Three random words or #thinkrandom",
+      "publisher": "UK National Cyber Security Centre (NCSC)",
+      "url": "https://www.ncsc.gov.uk/blog-post/three-random-words-or-thinkrandom-0"
+    },
+    {
+      "title": "Cyberbullying: What is it and how to stop it",
+      "publisher": "UNICEF",
+      "url": "https://www.unicef.org/end-violence/how-to-stop-cyberbullying"
+    },
+    {
+      "title": "Data protection in the EU",
+      "publisher": "European Commission",
+      "url": "https://commission.europa.eu/law/law-topic/data-protection/data-protection-eu_en"
+    },
+    {
+      "title": "Facts and Figures 2025: Internet use",
+      "publisher": "International Telecommunication Union (ITU)",
+      "url": "https://www.itu.int/itu-d/reports/statistics/2025/10/15/ff25-internet-use/"
+    },
+    {
+      "title": "#KeepItOn: fighting Internet shutdowns around the world",
+      "publisher": "Access Now",
+      "url": "https://www.accessnow.org/campaign/keepiton/"
+    },
+    {
+      "title": "HTTP cookie",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/HTTP_cookie"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Photograph of a hardware security key (such as a USB security token) used for two-factor authentication",
+      "search": "YubiKey security key USB"
+    },
+    {
+      "want": "Screenshot or photo of a two-factor authentication code prompt or authenticator app on a phone",
+      "search": "two-factor authentication smartphone code"
+    },
+    {
+      "want": "Map or chart showing the share of people using the Internet by country",
+      "search": "internet users percentage world map"
+    }
+  ]
+}

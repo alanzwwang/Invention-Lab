@@ -1,0 +1,147 @@
+{
+  "n": 16,
+  "title": "The Science Born From Engines",
+  "when": "1824 – 1860s",
+  "summary": "People built steam engines long before anyone truly understood how they worked. Then a young French engineer, an English brewer, a German professor and a Scottish-Irish physicist worked out the rules of heat and energy. Their new science, thermodynamics, explains every engine from Watt's to the one in a car.",
+  "sections": [
+    {
+      "heading": "Engines First, Answers Later",
+      "paragraphs": [
+        "Usually we imagine science coming first and inventions following. Scientists discover how something works, and then engineers use that knowledge to build machines. The steam engine turned this upside down. By 1820, steam engines had been working for more than a hundred years. They pumped mines in Cornwall, spun cotton in Manchester and pushed boats along rivers in America. Yet nobody could fully explain what was really going on inside them, or how good they could ever become.",
+        "Engineers improved their engines the practical way: by building, testing, measuring and trying again. In Cornwall, mine owners even published monthly reports comparing the 'duty' of their pumping engines, meaning how much water each engine lifted for a fixed amount of coal. These league tables pushed engine builders to compete, and the best Cornish engines became far more economical than the old Newcomen engines. But every improvement raised a question. If you could save a bit more coal by adding a jacket, raising the pressure or using the steam twice, could you keep going forever? Could a perfect engine turn all the heat from its fire into work? Or was there a limit that no amount of cleverness could beat?",
+        "Part of the problem was that scientists did not agree on what heat actually was. The most popular idea in the early 1800s was the caloric theory. It said heat was an invisible, weightless fluid called caloric, which flowed from hot things into cold things, a bit like water flowing downhill. A hot cup of tea, in this picture, was full of caloric that slowly leaked out into the air. The theory explained many everyday observations surprisingly well, and many of the best scientists of the time used it.",
+        "But some experiments did not fit. Around 1798, an American-born scientist named Benjamin Thompson, known as Count Rumford, was supervising the boring of cannon barrels in Munich. He noticed that the drilling made the metal very hot, and that the heat seemed to keep coming as long as the horses kept turning the drill. In one test, the friction heated enough water to make it boil in about two and a half hours. If heat were a fluid stored inside the metal, surely it would eventually run out. Rumford suggested instead that heat was connected with motion. Not everyone was convinced at the time, but he had planted a seed.",
+        "So, at the start of the 1820s, engineers had working engines but no theory, and scientists had a theory of heat that might be wrong. The person who first tied these threads together was a quiet young French army engineer."
+      ]
+    },
+    {
+      "heading": "A Young Frenchman's Little Book",
+      "paragraphs": [
+        "Nicolas Léonard Sadi Carnot was born in Paris in 1796. His father, Lazare Carnot, was a famous mathematician and a leading figure in the armies of the French Revolution, sometimes called the 'Organizer of Victory'. Sadi studied at the École polytechnique, France's top school for engineers and scientists, and then became an officer in the army's engineering corps. He was shy and thoughtful, interested in music, mathematics and, above all, in machines.",
+        "Carnot was struck by something that worried many French people after the long wars with Britain ended in 1815. Britain had thousands of steam engines driving its mines and mills, and France had far fewer. Carnot believed steam power was a big part of Britain's strength, and that France needed to understand it better. Yet when he looked at the engineering books of the time, he found that they described particular engines but offered no general theory. Why did some engines use less coal than others? Would another substance, such as air or alcohol vapour, work better than steam? Nobody knew.",
+        "In June 1824, Carnot published a short book called Reflections on the Motive Power of Fire. 'Motive power' meant the ability to make things move, in other words to do work. The book was only about 118 pages long, and Carnot paid to have 600 copies printed. He was just 28 years old. The book was clear and elegant, written so that non-specialists could follow it, but it attracted very little attention at the time.",
+        "Carnot's central idea was beautifully simple. He compared a heat engine to a waterwheel. A waterwheel does work because water falls from a high place to a low place. The higher the fall, the more work each bucketful can do. In the same way, Carnot argued, a heat engine does work because heat 'falls' from a hot body to a cold body. In a steam engine, the hot body is the boiler and its fire. The cold body is the condenser, or the surrounding air. Without a cold place for the heat to flow into, there could be no work at all, no matter how hot the fire.",
+        "This was a startling claim. It meant the cold part of an engine is just as essential as the hot part. It explained why Watt's separate condenser had been such a good idea, and why engines with a bigger difference in temperature between the hot and cold sides could, in principle, do more work from the same heat. Carnot also realised that what mattered was the temperatures themselves, not whether the engine used steam, air or something else.",
+        "Sadly, Carnot did not live to see his ideas recognised. In 1832 a cholera epidemic swept through Paris. Carnot caught the disease and died on 24 August 1832, aged only 36. Because people feared the infection could spread, many of his belongings are said to have been buried with him, and his brother Hippolyte later destroyed most of his personal papers. Some of his private notes did survive, and when Hippolyte published extracts from them in 1878, decades later, they showed that Carnot had begun to doubt the caloric theory himself and to suspect that heat and work were connected."
+      ]
+    },
+    {
+      "heading": "The Perfect Imaginary Engine",
+      "paragraphs": [
+        "To find the limit of all engines, Carnot did something clever. Instead of studying a real, leaky, noisy engine, he imagined a perfect one, with no friction, no leaks and no heat wasted by flowing where it should not. Today we call it the Carnot engine, and the series of steps it goes through is called the Carnot cycle.",
+        "Here is the idea in simple terms. Imagine a cylinder with a piston, filled with some gas or steam. First, the cylinder touches the hot source and takes in heat while the gas expands slowly, pushing the piston and doing work. Next, the cylinder is cut off from the heat, and the gas keeps expanding on its own, cooling down until it reaches the temperature of the cold side. Then the cylinder touches the cold side, and the piston pushes back in, squeezing the gas while it hands its leftover heat to the cold side. Finally, the cylinder is cut off again, and the gas is squeezed further until it heats up back to the starting temperature. The cycle can then repeat. Because more work comes out during the hot expansion than goes in during the cool squeeze, the engine produces useful work overall.",
+        "Carnot showed that this ideal engine has a special property: it is reversible. Run it backwards, putting work in, and it would carry heat from the cold side up to the hot side, like a refrigerator. Using this idea, he argued that no engine working between the same two temperatures could ever beat it. If some super-engine could do better, you could hook it up to a reversed Carnot engine and get work out of nothing, which seemed impossible.",
+        "Later scientists turned Carnot's insight into a formula. The best possible efficiency of any heat engine depends only on the temperatures of the hot and cold sides, measured on an absolute scale that starts at absolute zero (we will meet that scale soon). In words: the maximum efficiency equals one minus the cold temperature divided by the hot temperature.",
+        "Let's try it. An early low-pressure steam engine might have steam at about 100 °C, which is about 373 kelvin, and a condenser at about 30 °C, which is about 303 kelvin. Divide 303 by 373 and you get about 0.81. One minus 0.81 is 0.19, so even a perfect engine at those temperatures could turn at most about 19 percent of the heat into work. Real engines of the time managed far less. Now imagine a modern power station with steam at about 600 °C (about 873 kelvin) and the same cold side. The limit jumps to about 65 percent. That single calculation explains two hundred years of engineering: to make better engines, make the hot side hotter and the cold side colder, and waste as little as possible along the way."
+      ]
+    },
+    {
+      "heading": "The Brewer Who Measured Heat",
+      "paragraphs": [
+        "While Carnot's little book sat almost forgotten, a boy in northern England was growing up in a family of brewers. James Prescott Joule was born on 24 December 1818 in Salford, right next to Manchester, the steam-powered heart of the cotton industry. He was a shy, often unwell child and was taught at home. For a time he and his brother were tutored by John Dalton, the famous chemist who developed the modern idea of atoms. Joule later helped run the family brewery, but his real passion was experiments, which he carried out at home with great care.",
+        "Around 1840, Joule became excited about electric motors, which were brand new. Could they replace the brewery's steam engines? To find out, he needed to compare carefully how much work he could get from burning coal in a steam engine, and from the chemicals used up in a battery to drive a motor. This led him to measure how electric currents heat the wires they flow through. In 1841 he showed that the heat produced depends on the resistance of the wire and on the square of the current, a rule now called Joule's law. (Coal won the contest: batteries of the time were far too expensive.)",
+        "Joule then asked a deeper question. If you use work to do something, such as stirring water or pushing a current through a wire, and you get heat, is there a fixed exchange rate? In other words, does a certain amount of work always produce exactly the same amount of heat? If so, heat could not be a separate fluid; it must be another form of the same thing as work.",
+        "His most famous experiment used a paddle wheel inside a container of water. A weight hung from a string wound around the axle. As the weight slowly fell, it turned the paddles, which churned the water. The friction of the paddles against the water warmed it, but only very slightly. Joule had to measure temperature changes of a fraction of a degree, using some of the most sensitive thermometers in the world, while making sure the heat of his own body or the room did not spoil the result. He repeated the experiment many times, then calculated how far a weight had to fall to warm a pound of water by one degree Fahrenheit.",
+        "His answer, from experiments in the 1840s that he refined by 1850, was that about 772 foot-pounds of work produced that much heat (his earlier runs had given somewhat different numbers, such as 770 and 819). In plain words: if you lifted a one-pound weight about 772 feet into the air and let it fall, all that work turned into heat would warm one pound of water by just one degree Fahrenheit. This number became known as the mechanical equivalent of heat.",
+        "When Joule first announced his ideas, at a British Association meeting in Cork, Ireland, in August 1843, the audience reportedly listened in silence. Many scientists thought a young brewer was not a serious researcher. Joule was not the only one with this idea, either. A German doctor, Julius Robert Mayer, had published a similar claim in 1842, based partly on his observations as a ship's doctor, and in 1847 the German scientist Hermann von Helmholtz published a powerful general statement of the conservation of energy. There was a bitter argument later about who deserved the most credit. Today historians give credit to several people, while recognising that Joule's careful measurements did the most to convince other scientists."
+      ]
+    },
+    {
+      "heading": "The Laws of Energy",
+      "paragraphs": [
+        "In 1847 Joule presented his work again, this time at a British Association meeting in Oxford. In the audience was a brilliant young professor named William Thomson. Thomson had been born in Belfast in 1824 and became professor of natural philosophy (physics) at the University of Glasgow in 1846, when he was only 22, the same university where James Watt had once repaired a model Newcomen engine. Thomson was impressed by Joule, though at first he was not sure how to fit Joule's ideas together with Carnot's, which he admired deeply. The two men later became friends and worked together on experiments from 1852 to 1856. Joule married Amelia Grimes in August 1847, and a well-known story says that when Thomson met the couple in the Alps soon afterwards, Joule was planning to measure whether the water at the bottom of a waterfall was slightly warmer than at the top, as his theory predicted. The plan turned out to be impractical, but it shows how completely his idea filled his thoughts.",
+        "In 1848 Thomson proposed an absolute temperature scale based on Carnot's ideas about heat engines, instead of on the behaviour of any particular substance like mercury. The scale starts at absolute zero, the coldest possible temperature, at about −273.15 °C, where things would have the least possible heat energy. Each step on the scale is the same size as a degree Celsius, so water freezes at about 273 kelvin and boils at about 373 kelvin. Thomson later became Lord Kelvin, taking his title from the River Kelvin that flows past the University of Glasgow, and the unit of this scale is now called the kelvin in his honour. Thomson also used the word 'thermodynamic' in 1849, from Greek words meaning 'heat' and 'power'.",
+        "Meanwhile, in Germany, Rudolf Clausius had been reading Carnot's work through an 1834 paper by the French engineer Émile Clapeyron, who had explained Carnot's ideas with graphs and equations. Clausius was born in 1822 in Köslin, in Prussia. In 1850 he published a paper on the moving force of heat that showed how Carnot's reasoning and Joule's discovery could both be true at once. Carnot had been right that work needs heat to flow from hot to cold. But he had been wrong that the heat arrives at the cold side unchanged, like water at the bottom of a waterfall. Some of the heat is actually used up, converted into work. Thomson reached very similar conclusions in a paper of 1851.",
+        "Out of this work came the laws of thermodynamics, the science of heat, energy and work. The first law says that energy is never created or destroyed; it only changes form. Chemical energy in coal becomes heat, heat becomes the motion of a piston, motion becomes electricity, and so on, but if you add up all the energy at the end, including the waste heat, the total is the same as at the start. This is why no machine can produce endless work from nothing. A 'perpetual motion machine' is not just difficult to build; the first law says it is impossible.",
+        "The second law is subtler, and in some ways more surprising. One simple version, close to how Clausius put it, says that heat does not flow by itself from a colder body to a hotter one. Your cold drink warms up in a hot room; the room never gets hotter by sucking heat out of the drink. Another version, from Thomson's work, says that no engine working in a cycle can take heat from a hot source and turn all of it into work. Some heat must always be passed on to something colder. That is why every steam engine, car engine and power station has an exhaust, a radiator, a condenser or a cooling tower. It is not just poor design. It is a law of nature.",
+        "In 1865 Clausius gave a name to the quantity at the heart of the second law: entropy, from a Greek word for 'transformation'. Roughly speaking, entropy measures how spread out and disordered energy is. Heat flowing from hot to cold spreads energy out and increases entropy, and in any real process the total entropy goes up. Clausius summed up the two laws in one famous pair of statements: the energy of the universe is constant, and the entropy of the universe tends to a maximum."
+      ]
+    },
+    {
+      "heading": "Keeping Score: How Efficient Were Engines?",
+      "paragraphs": [
+        "With the new science, engineers finally had a way to measure engines against a perfect standard. Efficiency means the share of the fuel's energy that becomes useful work, instead of waste heat. Looking back with modern measurements, we can give each stage of steam history a rough score.",
+        "Newcomen's atmospheric engines, from 1712 onwards, turned only about 1 percent of the energy in their coal into useful work, or even less. Most of the rest went into heating up the cylinder again after every cold spray. Watt's engines, with their separate condenser, used far less coal for the same work, and their efficiency was a few percent. Arthur Woolf's compound engines of the early 1800s reached about 7.5 percent, nearly twice as good as Watt's. Each step was a big gain in coal saved, even though the numbers still look small.",
+        "In the second half of the 1800s, engineers used the new science to guide them. A Scottish engineer, William Rankine, also at the University of Glasgow, worked out the ideal cycle for engines that boil a liquid and then condense it again. It is still called the Rankine cycle, and it is the basic cycle of every steam power station today. Boilers became stronger, so pressures rose. Marine engines in the 1870s worked at about 45 to 60 pounds per square inch; by 1891, triple-expansion engines, which used the steam three times in three cylinders of increasing size, ran at about 160 pounds per square inch. They burned about 1.5 pounds of coal for each horsepower for an hour, compared with 2 to 2.5 pounds for the earlier compound engines. The best large engines of the late 1800s reached roughly 10 to 20 percent efficiency.",
+        "Modern power stations do much better. A large coal-fired station using steam turbines with very hot, high-pressure steam can turn about 40 to 46 percent of its fuel's energy into electricity. Combined-cycle gas plants, which use a gas turbine and then make steam from its hot exhaust to drive a steam turbine, can approach or exceed 60 percent. All of these numbers sit below the Carnot limit for their temperatures, just as the science predicts. No engineer has ever beaten it, and the second law says no one ever will."
+      ]
+    },
+    {
+      "heading": "Every Heat Engine Since",
+      "paragraphs": [
+        "Thermodynamics began with steam, but it soon became one of the most important sciences of all. Any machine that turns heat into motion is a heat engine, and the same rules apply to every one of them. A petrol car engine burns fuel inside its cylinders; it has a very hot side (the burning gas) and a cold side (the outside air), and a typical car engine turns only about a quarter of its fuel energy into motion. The rest leaves as heat through the exhaust pipe and the radiator. The largest diesel engines, used in giant ships, can reach just over 50 percent. Jet engines in aeroplanes, gas turbines in power stations and the rocket engines that launch spacecraft are all heat engines too, and their designers use exactly the same laws first worked out from steam.",
+        "The laws also work in reverse. A refrigerator, an air conditioner or a heat pump is a heat engine running backwards, like Carnot's reversible engine. It uses work, usually from an electric motor, to pump heat from a cold place to a warmer place. The second law explains why this always needs energy: heat will not flow uphill on its own.",
+        "The new science changed how we talk about energy and power, too. The unit of energy, the joule, is named after James Joule. The unit of power, the watt, is named after James Watt, and one watt means one joule of energy every second. So a 60-watt light bulb uses 60 joules every second, and one horsepower, Watt's old selling unit, is about 746 joules every second. The unit of absolute temperature, the kelvin, honours William Thomson. In a way, the history of the steam engine is written into the units scientists use every day.",
+        "Thermodynamics even reached far beyond engines. Chemists use it to predict which reactions can happen. Biologists use it to understand how living cells use energy from food. Astronomers use it to study stars, and Thomson himself wondered whether the whole universe would one day run down as its heat spread evenly everywhere, an idea sometimes called the 'heat death' of the universe. All of this grew out of a practical question about how to save coal in a pumping engine.",
+        "There was one more lesson in the new science. If the best engines need the hottest possible steam and the smoothest possible flow of energy, then the old design of a heavy piston sliding back and forth, stopping and reversing at the end of every stroke, was not ideal. What if steam could simply rush through a machine and spin a wheel directly, with no piston at all? That was exactly the kind of spinning that Hero of Alexandria had shown with his little steam ball almost 1,800 years earlier, and a young engineer in England was about to make it work on a giant scale."
+      ]
+    }
+  ],
+  "deepDive": "Carnot's theorem states that no heat engine working between a hot reservoir at absolute temperature Th and a cold reservoir at Tc can be more efficient than a reversible engine, whose efficiency is 1 − Tc/Th. Remarkably, Carnot reached this conclusion in 1824 while using the caloric theory, which treated heat as a conserved fluid. His key arguments, that work requires a temperature difference, that engines should be analysed as complete cycles, and that reversible processes set the upper limit, survived the collapse of caloric theory. Clausius's achievement in 1850 was to keep Carnot's principle while replacing the conservation of caloric with the conservation of energy, which Joule, Mayer and Helmholtz had established in the 1840s. Thomson's absolute temperature scale (1848) was designed so that it did not depend on the properties of any substance; it was defined through ideal engines, which is why it fits Carnot's formula so naturally. Entropy, introduced by Clausius in 1865, is defined so that a reversible transfer of heat Q at temperature T changes entropy by Q/T. In a Carnot engine, the entropy taken in from the hot side equals the entropy dumped to the cold side, which leads directly to the efficiency formula. In any real, irreversible engine, entropy is created by friction, leaks and heat flowing across finite temperature differences, so real efficiency falls below the Carnot limit. Historians also discuss the 'priority dispute' over energy conservation: Mayer published first (1842), but in a less convincing form, and supporters of Joule, including Thomson, defended his claim; later, the physicist John Tyndall argued publicly for Mayer's importance in 1862. Today credit is usually shared. Another interesting point is the direction of influence: thermodynamics did not invent the steam engine, but once formulated it guided later engineering, from Rankine's analysis of steam cycles to the very high temperatures and pressures of modern supercritical power plants and combined-cycle gas turbines.",
+  "funFact": "Sadi Carnot paid to print only 600 copies of his 1824 book, and it was almost ignored, yet it is now seen as the founding work of thermodynamics.",
+  "check": {
+    "q": "According to Carnot, what does every heat engine need in order to do work?",
+    "a": "A hot place and a colder place, so heat can flow from hot to cold",
+    "wrong": [
+      "Water that is kept below its boiling point",
+      "A fuel that burns without any smoke",
+      "A piston made of iron rather than brass"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Nicolas Léonard Sadi Carnot",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot"
+    },
+    {
+      "title": "Reflections on the Motive Power of Fire",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Reflections_on_the_Motive_Power_of_Fire"
+    },
+    {
+      "title": "James Prescott Joule",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/James_Prescott_Joule"
+    },
+    {
+      "title": "Mechanical equivalent of heat",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mechanical_equivalent_of_heat"
+    },
+    {
+      "title": "Rudolf Clausius",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rudolf_Clausius"
+    },
+    {
+      "title": "William Thomson, 1st Baron Kelvin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin"
+    },
+    {
+      "title": "Thermal efficiency",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thermal_efficiency"
+    },
+    {
+      "title": "Compound steam engine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Compound_steam_engine"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Portrait of the young Sadi Carnot in the uniform of a student of the École polytechnique",
+      "search": "Sadi Carnot portrait polytechnique"
+    },
+    {
+      "want": "Engraving or diagram of Joule's paddle-wheel apparatus for measuring the mechanical equivalent of heat",
+      "search": "Joule apparatus mechanical equivalent heat"
+    },
+    {
+      "want": "Title page of Carnot's 1824 book Réflexions sur la puissance motrice du feu",
+      "search": "Réflexions sur la puissance motrice du feu"
+    }
+  ]
+}

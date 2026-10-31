@@ -1,0 +1,162 @@
+{
+  "n": 15,
+  "title": "Wiring the World: The Grid",
+  "when": "1889 – 1960s",
+  "summary": "Power stations got huge, and long wires on tall steel towers began linking them together into a giant web called the grid. Britain, America, Russia and Japan all raced to bring electricity to cities and farms. For the first time, families far out in the countryside could flip a switch and see the light come on.",
+  "sections": [
+    {
+      "heading": "A Young Man's Giant on the Thames",
+      "paragraphs": [
+        "Picture London in 1887. The city is the biggest in the world, with millions of people, smoky chimneys and gas lamps flickering along the streets. Electricity has arrived, but only in little patches. A theatre here, a rich man's house there, a few streets in the City lit by a small power plant tucked into a basement. Each little plant can only reach the buildings close by. If you want electric light, you basically need to live next door to a steam engine.",
+        "That year a new company called the London Electric Supply Corporation, usually shortened to LESCo, was formed. It had started with a single fashionable art gallery, the Grosvenor Gallery on Bond Street. The gallery's owners had been so impressed by the electric displays at the 1881 Paris exhibition that they installed their own generators, and soon they were selling spare power to their neighbours. Demand grew so fast that the little gallery plant could not keep up. LESCo needed something far bigger.",
+        "The engineer they hired was astonishingly young. Sebastian Ziani de Ferranti had been born in Liverpool on 9 April 1864, so he was only about 23 when LESCo asked him to design their new station. He had already been running his own electrical business since his late teens. His plan was bold, even shocking to many experts: instead of putting a power station in the middle of the crowded city, he would build an enormous one several miles away, on cheap land beside the River Thames at Deptford, and send the electricity into central London along cables.",
+        "Why Deptford? Coal for the boilers could arrive by boat straight up the river, and water for the steam engines was right there. Building a huge, smoky plant out of the centre also avoided complaints from people who did not want a giant coal-burning factory next door. It was the same reason many big power stations were later built at the edge of cities or out in the countryside.",
+        "The secret ingredient was high voltage. Remember from earlier in this story that sending power at high voltage and low current wastes far less energy as heat in the wires. Ferranti's generators produced alternating current at about 2,500 volts, and transformers then stepped it up to about 10,000 volts for the journey into town. Nothing like that had been tried on such a scale. At the far end, more transformers lowered the voltage again so it was safe enough to use in shops and homes.",
+        "Because no one made cables for such a high voltage, Ferranti designed his own: copper tubes, one inside the other, separated by layers of paper soaked in wax, laid in short sections alongside a railway line into London. He also had to account for losses along the way. Engineers later explained that the cables lost roughly a tenth of the power from end to end, so the station was designed to send out about 11,000 volts in order to deliver about 10,000 at the gallery. Some people say this is one reason British transmission voltages ended up in multiples of eleven, such as 11,000, 33,000 and 132,000 volts.",
+        "Construction began in 1888 and the first power flowed in about 1889, with the station fully at work by 1891. Its two giant main alternators of 1889 were driven by steam engines of about 1,500 horsepower each. For ten years, from 1891 to 1901, Deptford was the largest power station in Britain.",
+        "It was not a smooth success. There were breakdowns at the station and at the Grosvenor Gallery substation, long shutdowns and customers who got fed up and left. In 1891 Ferranti was replaced as chief engineer. Later managers rebuilt the plant with new machinery, and then the supply became reliable. But the big idea was right, and it was copied around the world: one huge central power station, far from the customers, linked to them by high-voltage AC lines. That is still the basic shape of electricity supply today. Ferranti went on to have a long career, became President of the Institution of Electrical Engineers and was elected a Fellow of the Royal Society in 1927."
+      ]
+    },
+    {
+      "heading": "Parsons and the Spinning Wheel of Steam",
+      "paragraphs": [
+        "A power station is really a machine for spinning things. Faraday showed back in 1831 that if you move a magnet and a coil of wire past each other, electricity flows. So every big generator needs something to turn it, fast and steadily, day and night. In the 1880s that something was usually a reciprocating steam engine: huge pistons sliding back and forth, connected by rods and cranks to a turning wheel. These engines were heavy, shook the ground, needed constant oiling and could not spin very fast.",
+        "Charles Parsons had a better idea. He was born in London on 13 June 1854, the youngest son of a famous astronomer, the Earl of Rosse, whose family home was Birr Castle in Ireland. Young Charles grew up surrounded by workshops, because his father had built one of the largest telescopes in the world there. He became an engineer, and in 1884 he built a machine that changed power stations forever: the modern steam turbine.",
+        "Think of a pinwheel. Blow on it and it spins. A steam turbine is a very clever, very strong version of that. High-pressure steam from a boiler rushes through rings of fixed blades that aim it, then hits rings of moving blades attached to a shaft, making the shaft whirl. Parsons' trick was to let the steam push through many sets of blades one after another, giving up a little of its energy at each stage instead of all at once. That way the turbine could run smoothly and efficiently, and it turned in one continuous motion instead of the jerky back-and-forth of pistons.",
+        "His first turbine of 1884 spun at about 18,000 revolutions per minute, which is hundreds of turns every second, and drove a dynamo that made about 7.5 kilowatts, roughly enough today for a few electric kettles. It was not very efficient yet, but it worked. In 1890 the Forth Banks power station in Newcastle upon Tyne became the first power station in the world to make electricity with turbine-driven generators. By 1899 Parsons had built a turbine generator of one megawatt for the town of Elberfeld in Germany.",
+        "Parsons also loved to show off his invention in style. In 1897 Queen Victoria's Diamond Jubilee was celebrated with a great review of the Royal Navy at Spithead, near Portsmouth. Suddenly a small, sleek boat called Turbinia, powered by Parsons' turbines, came racing between the lines of warships at about 34 knots, around 63 kilometres per hour. The Navy's fastest ships of other kinds could only manage about 27 knots, and no one could catch her. Before long, turbines were powering warships and ocean liners, as well as power stations.",
+        "The growth in size was incredible. During Parsons' own lifetime, the most powerful single turbine units grew around ten thousand times bigger than his first one. Today each of the two main turbines at the new Hinkley Point C nuclear power station in England is rated at about 1,600 megawatts. That is more than two hundred thousand times the output of the 1884 machine.",
+        "Most of the world's power stations still use turbines. In a coal, gas or nuclear station, heat boils water into steam, and the steam spins a turbine. In a hydroelectric dam, falling water spins the turbine directly, and in a wind farm the wind does the job. Even Deptford was eventually rebuilt with Parsons turbines. So when you switch on a light, there is a very good chance that somewhere a spinning shaft is turning because of the idea Charles Parsons had in 1884."
+      ]
+    },
+    {
+      "heading": "What Is a Grid, Anyway?",
+      "paragraphs": [
+        "The word grid makes people think of the squares on graph paper, and that is close. An electrical grid is a giant network, a web of wires that links many power stations to millions of users so that electricity can flow from wherever it is made to wherever it is needed. You can think of it as a road system for electricity, with motorways, main roads and little lanes.",
+        "It starts at the power station, where a generator makes electricity. Right next door is a step-up transformer that raises the voltage very high, often hundreds of thousands of volts. The power then travels along the motorways of the grid: high-voltage transmission lines, usually hung from tall steel towers called pylons. As the US Energy Information Administration explains, higher voltage makes long-distance transmission more efficient and cheaper, which is the same lesson Ferranti put to work at Deptford.",
+        "Next come substations, fenced-in yards full of transformers, switches and thick metal bars. There the voltage is stepped down to a lower level for the main roads, the distribution lines that run along streets on wooden poles or under the pavement. Finally, a smaller transformer, perhaps a grey box at the end of your road or a can-shaped one up a pole, lowers the voltage once more to what your home uses, about 230 volts in Britain and most of Europe, or about 120 volts in North America. Then it comes through a meter, into your fuse box and out of your sockets.",
+        "Here is the part that surprises most people. A grid has almost no storage. Electricity is being made at the very same moment it is being used. When millions of people switch on their kettles at the same time, power stations somewhere must produce more power within seconds. If they do not, the generators slow down very slightly, and the frequency of the AC (50 times a second in Britain, 60 in North America) starts to drop. Engineers in control rooms watch the frequency like a heartbeat. If it falls too far, equipment can switch off to protect itself, and that can lead to blackouts.",
+        "British grid engineers even plan for television. When a hugely popular programme or football match finishes, millions of people get up at once to make a cup of tea, and demand jumps sharply. Controllers watch the TV schedule and have extra power ready to go at the right moment. It is one of the oddest jobs in engineering: predicting the nation's tea breaks.",
+        "This is why linking many power stations together is so useful. If one station breaks down, others on the grid can cover for it. Stations can be built where fuel or water is easiest to get, not right next to the customers. Cheaper, more efficient stations can run most of the time, while smaller ones help out only at busy hours. And everyone shares the cost of spare capacity instead of each town needing its own backup.",
+        "Grids can be enormous. The United States, apart from Alaska and Hawaii, is covered by just three main grids, called interconnections: the Eastern, the Western and a separate one for most of Texas. Together they have thousands of miles of high-voltage lines and millions of miles of local lines, linking thousands of power plants to hundreds of millions of customers. But in the 1890s none of this existed. Building it took decades of engineering, money and political argument, as the rest of this chapter shows."
+      ]
+    },
+    {
+      "heading": "Britain Joins the Dots",
+      "paragraphs": [
+        "By the 1920s Britain had electricity, but it was a mess. There was one shining example in the north-east, where the engineer Charles Merz's Neptune Bank power station near Newcastle had opened in 1901 with modern three-phase high-voltage supply for a whole region. Almost everywhere else, power came from a patchwork of hundreds of small local companies and town councils. Many ran their own little power stations. They used different voltages, some supplied DC and some AC, and the AC ones did not all use the same frequency. A vacuum cleaner bought in one town might not work properly if you moved to the next.",
+        "This was wasteful. Small stations were expensive to run, and each one had to keep spare machines in case of breakdowns. The government decided to act. The Electricity (Supply) Act of 1926 set up a new body, the Central Electricity Board, with a giant task: to link the best power stations across the country with a single high-voltage network, which people called the national gridiron, soon shortened to the grid.",
+        "The plan was to build lines running at 132,000 volts, a huge voltage for the time, all synchronised at 50 cycles per second. The best and most efficient stations would be selected to feed the grid, while the smaller, older ones would gradually close. Places using odd frequencies had to change over, which meant altering or replacing a great deal of equipment in factories and homes.",
+        "The first grid tower went up near Edinburgh in July 1928. Then the pylons began marching across the countryside, thousands of them, steel lattice towers carrying the wires high above fields, rivers and hills. Their design was picked through a competition, with advice from the architect Sir Reginald Blomfield, because people worried about how they would look. Some writers and nature lovers hated them. Others found them thrilling, like giant metal walkers striding toward the future, and in the 1930s a group of poets were even nicknamed the Pylon Poets for writing about them.",
+        "The work was finished in September 1933, ahead of schedule and on budget, which is rare for any giant engineering project. At first the grid ran as a set of regional grids, with links between them that were not used all the time. Then, one night in October 1937, engineers unofficially switched the regions together so that the whole system ran as one. It worked, and by 1938 Britain's grid was operating as a true national system.",
+        "The effect on ordinary people was dramatic. In 1920 about 750,000 consumers in Britain used electricity. By 1938 the number had grown to about 9 million. Power was cheaper and more reliable, and towns that had never had a supply could now be connected to the grid instead of needing a power station of their own.",
+        "The grid kept growing. After the electricity industry was nationalised by the Electricity Act of 1947, engineers added even higher-voltage lines at 275,000 volts. By 1960 demand was rising faster than anyone had predicted, so they chose 400,000 volts for a new backbone. The first 400,000-volt section, at West Burton, was switched on in June 1965, the beginning of what was called the Supergrid. Those lines still carry much of Britain's power today."
+      ]
+    },
+    {
+      "heading": "America: Bright Cities, Dark Farms",
+      "paragraphs": [
+        "In the United States, private companies built power systems quickly in towns and cities, where many customers lived close together. Running a line down a city street might connect hundreds of homes. Out in the countryside it was a different story. A farm might be a mile or more from its nearest neighbour, so a power company could spend a fortune on poles and wire and connect only a handful of customers. Most companies decided it simply was not worth it.",
+        "The result was a huge gap. By the mid-1930s most homes in American cities had electricity, roughly nine out of ten by common estimates, but in 1935 fewer than 11 out of every 100 farms did. Farms in some European countries were said to be far better connected. Imagine life on an unelectrified farm in Kansas or Tennessee. Water had to be pumped by hand or by windmill and carried to the house in buckets. Cows were milked by hand by the light of a kerosene lantern before dawn. Clothes were scrubbed on a washboard and pressed with irons heated on a stove. Food was kept cool in a cellar or in an icebox with a block of ice, if you could get ice at all. When the sun went down, the work got harder and the reading stopped.",
+        "President Franklin D. Roosevelt's government made rural electricity part of its New Deal, the set of programmes created to fight the Great Depression. On 18 May 1933 Congress created the Tennessee Valley Authority, or TVA. The Tennessee Valley was one of the poorest parts of the country. In 1933 the average rural family there earned about 639 dollars a year, some families lived on around 100 dollars, around 30 per cent of people suffered from malaria, and the soil was being washed away by erosion. The TVA's job was to build dams that would control floods, make rivers easier to navigate and generate cheap hydroelectric power for a region covering Tennessee and parts of six neighbouring states.",
+        "Work on its first dam, the Norris Dam, began on 1 October 1933. In its first eleven years the TVA built 16 hydroelectric dams. Cheap power attracted factories and jobs. But the dams also flooded valleys where people lived. More than 125,000 people, roughly 15,000 families, had to leave their homes, along with some cemeteries and small towns. Historians still debate whether they were treated fairly. It is a reminder that big projects that help many people can also bring real losses to others.",
+        "On 11 May 1935 Roosevelt set up the Rural Electrification Administration, or REA, and in 1936 Congress passed the Rural Electrification Act. Instead of waiting for power companies, the REA lent money cheaply to groups of farmers who formed electric cooperatives, little companies owned by their own customers. The loans could pay for power lines, wiring inside houses and even appliances, and they could be paid back over as long as 25 years.",
+        "The cooperatives found clever ways to cut costs. Private companies had said rural lines would cost 1,500 to 2,000 dollars per mile. By 1939 REA borrowers were building them for under 825 dollars a mile. By 1943 the programme had lent about 466 million dollars and built about 380,000 miles of line, serving more than a million consumers. Farm electrification rose from about 11 per cent in 1935 to almost 97 per cent by 1960. Families who had lived by lantern light remembered the night the lights first came on for the rest of their lives."
+      ]
+    },
+    {
+      "heading": "Taming a River: The Hoover Dam",
+      "paragraphs": [
+        "Meanwhile, in the hot deserts of the American Southwest, an even bigger project was rising out of a canyon of the Colorado River on the border between Nevada and Arizona. The Hoover Dam was built between 1931 and 1936. It controlled floods, stored water for farms and cities, and generated electricity on a scale few had imagined.",
+        "The numbers are mind-boggling. The dam stands about 221 metres tall, taller than a 60-storey building. It contains about 2.5 million cubic metres of concrete, enough, people often say, to build a two-lane road from one side of the United States to the other. At the busiest time, in July 1934, 5,251 people worked on it at once, in fierce heat. Building it was dangerous: 112 deaths were reported as connected with the project. Behind the dam, the river filled a vast new reservoir, Lake Mead, which covers about 640 square kilometres when full.",
+        "President Roosevelt dedicated the dam on 30 September 1935, and the first generators began producing power in 1936. Today it has 17 main generating units. Water drops down four giant pipes, called penstocks, and falls as much as about 180 metres before hitting the turbines. Each turbine turns a shaft attached to a rotor, a ring of electromagnets that spins inside fixed coils of copper wire, which makes electricity exactly as Faraday's induction predicted. Together they can produce about 2,080 megawatts, and in an average year they make about 4 billion kilowatt-hours, enough for roughly 1.3 million people.",
+        "That power was shared out by agreement between Nevada, Arizona and Southern California, including Los Angeles, helping those cities and their factories to grow. The Hoover Dam became a symbol of the electric age: a wall of concrete that turned a wild river into a power station."
+      ]
+    },
+    {
+      "heading": "Around the World: Plans, Plugs and Two Frequencies",
+      "paragraphs": [
+        "Other countries also saw electricity as the key to the future. Few made that clearer than the new Soviet Union. In February 1920, just after years of war and revolution, a State Commission for the Electrification of Russia was set up, known by its Russian initials as GOELRO. Led by the engineer Gleb Krzhizhanovsky, around 200 scientists and engineers drew up a plan to rebuild the country around electric power.",
+        "The GOELRO plan, approved in December 1920, called for a network of 30 regional power stations, including ten large hydroelectric stations. The goal was to produce 8.8 billion kilowatt-hours of electricity a year, compared with only 1.9 billion in 1913. The Soviet leader Vladimir Lenin summed it up in a famous slogan: 'Communism is Soviet power plus the electrification of the whole country.' Electric bulbs in village homes were nicknamed 'Ilyich's lamps', after Lenin, whose full name was Vladimir Ilyich Lenin. Big stations such as Volkhov and the Dnieper dam were built, and the output goal was reached in 1931. The plan also became the model for the Soviet Union's later Five-Year Plans.",
+        "Japan's story shows how early choices can last a very long time. In 1895 a company in Tokyo bought generators from the German firm AEG, built to run at 50 cycles per second. Around the same time, a company in Osaka bought generators from the American firm General Electric, built for 60 cycles. Other utilities followed their neighbours, and the country ended up split in two. To this day, eastern Japan, including Tokyo, runs at 50 hertz, and western Japan, including Osaka, Kyoto and Hiroshima, runs at 60 hertz.",
+        "The two halves cannot simply be joined with a wire. Power has to pass through special converter stations that change it into DC and back again. At the time of the 2011 disaster their total capacity was only about 1 gigawatt. After the great earthquake and tsunami of March 2011, when power stations in the east were badly damaged, the west could not send enough electricity across to help, and some areas suffered blackouts. Japan has since been building bigger links to carry more power between the two halves.",
+        "Most of the rest of the world made a similar choice of frequency to its early suppliers. Europe, Africa, most of Asia and Australia mostly use 50 hertz, while North America and some other countries use 60 hertz. That is why travellers often need a plug adapter, and sometimes a voltage converter, when they go abroad."
+      ]
+    },
+    {
+      "heading": "A Web Across the Planet",
+      "paragraphs": [
+        "Step back and look at the whole picture. In 1882 the world's most famous power system, Pearl Street in New York, served a few hundred lamps within about a mile. By the 1960s, grids stretched across entire countries, carrying power hundreds of kilometres at hundreds of thousands of volts. In many countries the pylons and substations had become such a normal part of the landscape that people stopped noticing them.",
+        "This giant machine was built by many people: young engineers like Ferranti who dared to try high voltage, inventors like Parsons who made generators spin faster and bigger, government planners in London, Washington and Moscow, the line workers who climbed poles in all weather, and the farmers who formed cooperatives so their own families could have light. It is sometimes called the largest machine ever built, because everything on a grid, from the turbines in a power station to the toaster in your kitchen, is connected and must work together every second.",
+        "But a grid is just a set of wires until someone plugs something in. The real story is what happened inside homes, factories and streets once the power arrived. So let us step through the front door of a house in the 1920s or 1930s, find the new switch by the door, and see how plugging in changed everyday life."
+      ]
+    }
+  ],
+  "deepDive": "Why build one grid instead of many separate power systems? Engineers point to three big advantages. The first is economies of scale: a large, efficient station makes each kilowatt-hour more cheaply than a small one, so it pays to build big and share the output. The second is diversity of demand: a factory, a school and a family home use most power at different times, so when thousands of customers are combined the peak demand is much smaller than the sum of each customer's own peak. That lets a grid build fewer power stations in total. The third is reserve sharing: every system needs spare capacity in case a generator fails, and connected systems can share one pool of spare machines instead of each keeping its own. The catch is that every generator on an AC grid must turn in perfect step, or synchronism, with all the others. If supply falls short of demand, all the machines slow down together and the frequency drops; if supply exceeds demand, it rises. Modern grids hold frequency within a narrow band, in Britain normally within about 1 per cent of 50 hertz, by constantly adjusting generation. Big shared grids also have a weakness: a fault can spread, which is why engineers use protective relays and circuit breakers to isolate trouble quickly, a topic Part 17 returns to. Historians also argue about who should own such a system. In Britain the 1926 Act created a public board to run transmission while generation stayed with many owners, and the industry was nationalised in 1947. In the United States, private utilities, public bodies like the TVA and customer-owned cooperatives all ended up existing side by side, and the REA's success showed that rural electrification needed government help because private companies found it unprofitable. Critics of projects such as the TVA point to the families displaced by reservoirs; supporters point to flood control, cheap power and jobs in one of the poorest regions of the country. Both sets of facts are true, and weighing them is part of the history.",
+  "funFact": "Japan still runs on two different electrical frequencies, 50 hertz in the east and 60 hertz in the west, because in the 1890s Tokyo bought German generators and Osaka bought American ones.",
+  "check": {
+    "q": "In the mid-1930s, roughly what share of American farms had electricity?",
+    "a": "About 1 in 10 (around 10 per cent)",
+    "wrong": [
+      "About 9 in 10",
+      "About half",
+      "None at all"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Deptford Power Station",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Deptford_Power_Station"
+    },
+    {
+      "title": "Charles Algernon Parsons",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charles_Algernon_Parsons"
+    },
+    {
+      "title": "National Grid (Great Britain)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_Grid_(Great_Britain)"
+    },
+    {
+      "title": "Delivery to consumers (Electricity explained)",
+      "publisher": "US Energy Information Administration",
+      "url": "https://www.eia.gov/energyexplained/electricity/delivery-to-consumers.php"
+    },
+    {
+      "title": "Rural Electrification Administration (REA) (1935)",
+      "publisher": "The Living New Deal",
+      "url": "https://livingnewdeal.org/glossary/rural-electrification-administration-rea-1935/"
+    },
+    {
+      "title": "Tennessee Valley Authority",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tennessee_Valley_Authority"
+    },
+    {
+      "title": "Hoover Dam power FAQs",
+      "publisher": "US Bureau of Reclamation",
+      "url": "https://www.usbr.gov/lc/hooverdam/faqs/powerfaq.html"
+    },
+    {
+      "title": "GOELRO",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/GOELRO"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A historic photograph or engraving of Ferranti's Deptford power station on the River Thames, London",
+      "search": "Deptford power station Ferranti"
+    },
+    {
+      "want": "Charles Parsons' original 1884 steam turbine generator, or the fast turbine boat Turbinia at speed",
+      "search": "Parsons steam turbine 1884 Turbinia"
+    },
+    {
+      "want": "A 1930s photograph of a lineman or farmer with new rural electric power lines in the USA (Rural Electrification Administration)",
+      "search": "Rural Electrification Administration farm power line"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "n": 16,
+  "title": "Breaking the Sound Barrier",
+  "when": "1940s – 2003",
+  "summary": "Sound travels fast, about 1,225 km/h near the ground, and early jets shook and shuddered when they flew close to it. In 1947 Chuck Yeager, with two broken ribs, flew a bullet-shaped orange rocket plane faster than sound for the first time. Later, Concorde carried passengers at twice the speed of sound, making a loud sonic boom wherever it went.",
+  "sections": [
+    {
+      "heading": "How Fast Is Sound?",
+      "paragraphs": [
+        "Clap your hands. The sound you hear is a ripple of squeezed air, a pressure wave, travelling outward from your hands in every direction, a bit like the rings that spread out when you drop a stone into a pond. Those ripples move fast, but not instantly. At sea level, on a mild day of about 15 degrees Celsius, sound travels at about 340 metres every second. That is about 1,225 km/h, or 761 miles per hour.",
+        "You can notice this yourself in a thunderstorm. Light arrives almost instantly, but the thunder takes about three seconds to travel each kilometre. Count the seconds between the flash and the rumble, divide by three, and you have a rough idea of how many kilometres away the lightning was.",
+        "The speed of sound is not fixed. It depends mainly on the temperature of the air: in cold air the molecules move more sluggishly and pass the ripple along more slowly. High up where airliners and jets fly, around 11 kilometres above the ground, the air can be about minus 56 degrees Celsius, and sound travels at only about 295 metres per second, roughly 1,060 km/h. So a plane can break the speed of sound at a lower actual speed high up than it could near the ground.",
+        "Because of this, pilots and engineers do not usually talk about the speed of sound in km/h. They use the Mach number, which is simply your speed compared to the speed of sound in the air around you. Mach 1 means exactly the speed of sound. Mach 0.8 is 80 percent of it, which is about where airliners cruise. Mach 2 is twice the speed of sound. Speeds below about Mach 0.8 are called subsonic, the tricky zone from about Mach 0.8 to 1.2 is called transonic, faster than that is supersonic, and above Mach 5 is hypersonic.",
+        "The number is named after Ernst Mach (1838–1916), an Austrian physicist who studied how things move through air faster than sound. In the 1880s he and his colleagues managed to take photographs of bullets in flight, using a very brief electric spark as a flash, and the pictures showed the shock waves around a speeding bullet for the first time. The Swiss engineer Jakob Ackeret suggested naming the speed ratio after him in 1929."
+      ]
+    },
+    {
+      "heading": "Shock Waves and the 'Wall' in the Sky",
+      "paragraphs": [
+        "When a plane flies slowly, it is constantly sending out little pressure ripples ahead of itself, like the bow wave of a slow boat. These ripples travel faster than the plane, so they warn the air ahead that something is coming, and the air smoothly moves aside to let the wing through.",
+        "Now imagine the plane speeding up until it is almost as fast as its own ripples. The pressure waves can no longer run ahead. They pile up in front of the plane and on parts of the wing, squashing together into a thin, sudden jump in pressure called a shock wave. Air passing through a shock wave is suddenly slowed, squeezed and heated. Something important happens even before the plane itself reaches Mach 1: because air speeds up as it flows over the curved top of a wing, small patches of air there go supersonic first, perhaps when the plane is only at Mach 0.75 or 0.8, and shock waves start forming on the wing.",
+        "Those shock waves caused frightening problems for the fastest planes of the 1940s. Drag shot up sharply, as if the air had suddenly turned thick. The smooth flow behind the shock could break away from the wing, making the plane shake violently, an effect called buffeting. On some planes the shock waves on the tail made the elevator useless, so pulling back on the stick did nothing at all, and a fighter in a steep dive might keep going down until it reached thicker, warmer air lower down. A few designs had the opposite problem, called tuck-under, where the nose dropped even further on its own. Even the airspeed instruments gave wrong readings near Mach 1. Some pilots died in these early high-speed dives, among them the British test pilot Geoffrey de Havilland Jr., whose experimental tailless DH 108 broke up in 1946.",
+        "No wonder pilots and newspapers started calling it the 'sound barrier'. But it is important to understand that it was never a real wall. Bullets, and the tip of a cracking whip, had been going faster than sound for a long time. The 'barrier' was a set of engineering problems: too much drag, too little engine power, the wrong wing and tail shapes and controls that stopped working. Solve those, and the barrier would disappear. The question was who could solve them first."
+      ]
+    },
+    {
+      "heading": "Glamorous Glennis and the Broom Handle",
+      "paragraphs": [
+        "In the United States, the Army Air Forces and the National Advisory Committee for Aeronautics (NACA, which later became NASA) decided to build a special research plane just to explore the zone around Mach 1. The Bell Aircraft company built it, and it was called the X-1.",
+        "Its designers borrowed a clever idea. They knew that a .50-calibre machine-gun bullet stayed stable when flying faster than sound, so they made the X-1's body almost the same shape as that bullet, just scaled up enormously, with thin, straight wings. It was bright orange, so it could be seen easily in the sky. It did not have a jet engine. It had a rocket engine, the XLR11, with four separate combustion chambers that the pilot could switch on one at a time. With all four burning it gave about 6,000 pounds of thrust. A rocket carries both its fuel and the oxygen to burn it, so it does not need to suck in air. The problem was that it burned through its fuel in just a few minutes, so it could not waste any taking off from the ground. Instead, the X-1 was carried up hanging under a big B-29 bomber and then dropped like a bomb, before the pilot lit the rocket.",
+        "The pilot chosen for the attempt was Captain Charles 'Chuck' Yeager, born on 13 February 1923 in the small town of Myra, West Virginia. He had flown P-51 Mustang fighters in the Second World War, had been shot down over France and escaped, and was known as a calm, gifted pilot with a superb feel for machines. He named the X-1 'Glamorous Glennis' after his wife, Glennis.",
+        "Over many flights in 1947, Yeager crept closer to Mach 1, a little faster each time, at Muroc Army Air Field in the Mojave Desert of California, a dry lake bed so flat and huge that it made a natural runway. At about Mach 0.94 he discovered a serious problem: the elevator stopped working, just as it had for the wartime fighter pilots. The team's solution was to use the adjustable horizontal stabilizer, the whole front part of the tail, which could be tilted by a small motor. Moving the whole surface still worked in the shock waves when the small hinged elevator did not.",
+        "Then, two nights before the big flight, Yeager went horse riding with his wife, fell and broke two ribs. Afraid he would be taken off the flight, he had a local doctor tape his ribs up and told almost no one. But there was a problem: to lock the X-1's door he needed to pull a lever hard with his right arm, which now hurt too much. His friend and fellow engineer-pilot Jack Ridley sawed off a piece of broom handle for him to use as a lever. It worked.",
+        "On 14 October 1947, the B-29 dropped the X-1 high over the desert. Yeager fired the rocket chambers and climbed. At about 13,700 metres (45,000 feet), the needle on his Machmeter wavered and then moved past 1. The X-1 reached about Mach 1.06, around 1,100 km/h at that height. And then something surprising happened: the ride became smooth. The shaking that had come before eased off once the plane was fully supersonic. On the ground, people heard the rumble of a sonic boom. Yeager had become the first person to fly faster than sound in level flight.",
+        "The achievement was kept secret at first, because it had military importance. News leaked to a magazine in December 1947, and in June 1948 the US Air Force officially announced it. Today 'Glamorous Glennis' hangs in the National Air and Space Museum in Washington, D.C., not far from the Wright brothers' 1903 Flyer. Only 44 years separated the two machines."
+      ]
+    },
+    {
+      "heading": "Swept Wings, a Wasp Waist and Jackie Cochran",
+      "paragraphs": [
+        "The X-1 was a rocket plane built for research. To make fast jets that could fly every day, designers needed new shapes. The first big idea was the swept wing. Back in 1935, at a science conference in Rome, the German engineer Adolf Busemann pointed out something clever. When a wing is angled backwards, the air does not 'feel' the full speed of the plane. Only the part of the airflow that crosses the wing straight from front to back really matters, and on a swept wing that part is slower. So shock waves form later. A wing swept back at 45 degrees can fly roughly 30 percent faster before the shock-wave troubles begin.",
+        "German researchers tested swept wings in wind tunnels during the Second World War. When the war ended in 1945, American engineers found the reports, and the Boeing company redesigned its new B-47 jet bomber with wings swept back at 35 degrees. North American Aviation reshaped a straight-winged design into the swept-wing F-86 Sabre, and in the Soviet Union the MiG-15 fighter used swept wings too. Look at almost any airliner today and you will see the same thing: the wings slant backwards, so it can cruise close to Mach 0.85 without hitting the worst of the shock-wave drag.",
+        "The second big idea came from a quiet NACA engineer named Richard Whitcomb (1921–2009), working with wind tunnels at the Langley laboratory in Virginia. In the early 1950s, a new US fighter, the Convair F-102, had a frustrating problem: it was designed to fly faster than sound, but in tests it could not get past Mach 1 in level flight, because the drag near Mach 1 was far too high. Whitcomb realised that what mattered was how the plane's total cross-section, its slice-by-slice thickness from nose to tail including the wings, changed along its length. Where the wings joined, the plane suddenly got much 'fatter', and that sudden bulge caused extra shock-wave drag. The cure was to pinch the fuselage in where the wings joined, like a wasp's waist or an old-fashioned Coke bottle, so the total cross-section changed smoothly. This became known as the area rule. The reshaped F-102 went supersonic, and Whitcomb won the Collier Trophy, America's top aviation award, for 1954. (In fairness, a German engineer, Otto Frenzl, had noticed the same effect during the war, but Whitcomb discovered it independently and made it famous.)",
+        "Among the people who flew these new swept-wing jets was one of the greatest pilots of the century: Jacqueline 'Jackie' Cochran (1906–1980). Born Bessie Lee Pittman in Florida to a family without much money, she worked from childhood, later built her own cosmetics business, and learned to fly in the early 1930s, picking it up remarkably quickly. In 1938 she won the Bendix Trophy, a famous cross-country air race against the best male pilots. During the Second World War she led the Women Airforce Service Pilots (WASP), who flew military planes around the United States so that male pilots could be sent overseas.",
+        "On 18 May 1953, flying a Canadair Sabre, a Canadian-built version of the F-86, over Rogers Dry Lake in California, Cochran dived through Mach 1 and became the first woman to fly faster than sound. Her friend Chuck Yeager flew alongside her. By the time she died, she held more speed, distance and altitude records than any other pilot, man or woman, and had won the Harmon Trophy for the world's outstanding woman aviator five times."
+      ]
+    },
+    {
+      "heading": "Hypersonic Rockets and the Blackbird",
+      "paragraphs": [
+        "Once Mach 1 was conquered, the race went on. In December 1953 Yeager flew an improved rocket plane, the X-1A, to Mach 2.44. But the most amazing research plane of all was the North American X-15.",
+        "The X-15 was a black, stubby-winged rocket plane about 15 metres long. Like the X-1, it was dropped from a bomber, this time from under the wing of a giant B-52. Its XLR99 rocket engine produced about 57,000 pounds of thrust, almost ten times as much as the X-1's. Flying that fast creates terrible heat, because the air in front of the plane is squeezed and rubbed against its skin, so the X-15 was covered in a nickel alloy called Inconel X that stays strong even when glowing hot. Between 1959 and 1968, twelve pilots made 199 flights. One of them was Neil Armstrong, who later became the first person to walk on the Moon.",
+        "On 3 October 1967, Air Force pilot William 'Pete' Knight flew a specially modified X-15A-2, coated with a heat-resistant layer that slowly burned away to protect it, and carrying extra fuel tanks. He reached Mach 6.7, about 7,270 km/h. That is fast enough to cross the United States in well under an hour. Even with its coating, the plane was badly scorched, and parts of a dummy engine attached under its tail melted and fell off. Knight's flight is still the record for the fastest crewed, powered airplane. In 1963 another X-15 pilot, Joe Walker, flew to about 108 kilometres high, above the line many scientists use as the edge of space. The program also had a sad day: on 15 November 1967, pilot Michael Adams died when his X-15 went into a spin and broke apart. The lessons learned about heat, high-speed control and pressure suits helped design the Space Shuttle.",
+        "The X-15 was a rocket that flew for only minutes. The Lockheed SR-71 Blackbird was a jet that could cruise at more than three times the speed of sound for over an hour. It was designed by Kelly Johnson's secret team at Lockheed, nicknamed the Skunk Works, and first flew on 22 December 1964. It was a spy plane, built to fly so high (around 24,000 metres) and so fast that nothing could catch it. About 85 percent of its structure was made of titanium, a metal that stays strong in heat, because at Mach 3.2 its skin got hotter than 260 degrees Celsius, hotter than a kitchen oven. The panels were made to fit loosely so they could expand in flight, which meant the Blackbird famously leaked fuel all over the runway before take-off and only sealed up once it heated in the air.",
+        "On 28 July 1976 an SR-71 set the world speed record for a jet-powered airplane: about 3,530 km/h. Fifty years later, no crewed jet has officially beaten it. In 1974, one flew from New York to London in under 1 hour and 55 minutes. Thirty-two were built, and although twelve were lost in accidents, none was ever shot down. The Air Force retired them in 1998, and NASA flew its last ones in 1999."
+      ]
+    },
+    {
+      "heading": "Boom! The Noise That Grounded a Dream",
+      "paragraphs": [
+        "Every supersonic plane has a noisy side effect. Remember the pressure ripples that pile up into shock waves? Around a supersonic plane, the shock waves spread out behind it in the shape of a huge cone, like the V-shaped wake behind a speedboat, but in three dimensions. Where that cone sweeps over the ground, people hear a sonic boom: a sharp double bang, like a thunderclap or an explosion. It comes as two bangs because there is one shock wave at the nose and another at the tail. Scientists call the pressure pattern an N-wave, because on a graph it looks like the letter N: a sudden rise in pressure, a drop below normal, then a sudden jump back.",
+        "Many people think a sonic boom happens only once, at the moment a plane 'breaks' the barrier. That is not true. A plane makes a boom all the time it flies supersonically, dragging a 'boom carpet' along the ground beneath its path that can be tens of kilometres wide and as long as the whole flight. Everyone underneath hears it as the cone passes over them. The crack of a whip is a tiny sonic boom too: its tip moves faster than sound.",
+        "Sonic booms are startling. They can wake people, frighten animals and occasionally crack windows. In 1964, the US government tested what people would think by flying jets supersonically over Oklahoma City eight times a day for six months. About 15,000 people complained, and lawsuits followed. In the early 1970s the United States banned ordinary civil aircraft from flying faster than sound over land, and many other countries have similar rules. (In 2025 the US government told aviation officials to work on lifting that ban, so the rules may change as quieter designs are tested.) That decision would shape the fate of the world's first supersonic airliners: they could only fly fast over the sea."
+      ]
+    },
+    {
+      "heading": "Concorde and the Tu-144: Airliners Faster Than a Bullet",
+      "paragraphs": [
+        "In the 1960s many people believed supersonic airliners were the obvious next step. In 1962 Britain and France signed a treaty to build one together: Concorde. In the Soviet Union, the Tupolev design bureau built a rival, the Tu-144, so similar-looking that Western newspapers nicknamed it 'Concordski'. The race to fly first was close. The Tu-144 won, taking off on 31 December 1968. It became the first passenger transport to go supersonic, on 5 June 1969, and the first to reach Mach 2, on 26 May 1970.",
+        "Concorde's first prototype took off from Toulouse in France on 2 March 1969, flown by test pilot André Turcat. It was a beautiful machine: a long, needle-thin body and a curving delta wing shaped like a paper dart. Its four Rolls-Royce/Snecma Olympus 593 turbojets used afterburners, extra fuel sprayed into the hot exhaust, to give a burst of power for take-off and for pushing through Mach 1. Because the nose stuck far out in front, pilots could not see the runway when landing at a steep angle, so the whole nose was hinged and drooped down for take-off and landing. At its cruising speed of about Mach 2, around 2,150 km/h at about 18,000 metres high, the air rubbing against it made the airframe so hot that the plane stretched slightly in flight, and passengers could see the dark blue sky and the curve of the Earth.",
+        "Concorde entered service with British Airways and Air France on 21 January 1976. It carried around 100 passengers and could cross from London or Paris to New York in about 3.5 hours, roughly half the time of an ordinary jet. Because of the time difference, you could leave London in the morning and land in New York at an earlier clock time than when you set off. But it was very expensive. It burned huge amounts of fuel, tickets cost far more than first class on other planes, and the sonic boom kept it off most land routes. Airlines that had ordered it cancelled, and only 20 were ever built.",
+        "The Tu-144 had an even shorter life. One crashed during a display at the Paris Air Show on 3 June 1973. It began carrying mail and cargo in December 1975 and passengers from 1 November 1977, between Moscow and Alma-Ata in Kazakhstan, but after only 55 passenger flights it was withdrawn in 1978. Much later, in the late 1990s, NASA borrowed a modified Tu-144 for supersonic research.",
+        "Concorde flew safely for almost 25 years. Then, on 25 July 2000, Air France Flight 4590 was taking off from Paris when it ran over a strip of metal that had fallen from another plane. A tyre burst, and pieces of rubber hit the underside of the wing and broke open a fuel tank. The leaking fuel caught fire, two engines lost power, and the plane crashed into a hotel near the town of Gonesse. All 109 people on board and 4 people on the ground were killed. Concorde was grounded while engineers added Kevlar linings to the fuel tanks and tougher tyres, and flights started again in November 2001.",
+        "But fewer people were flying after the attacks of September 2001, the planes were getting old and costly to maintain, and the airlines decided it was time to stop. British Airways flew Concorde's last commercial flights on 24 October 2003. Most of the surviving Concordes now rest in museums around the world. For now, ordinary passengers no longer fly faster than sound.",
+        "That might sound like a sad ending, but it teaches something important about inventions. The future of everyday flying did not turn out to be faster. While Concorde carried about a hundred wealthy passengers at twice the speed of sound, a different kind of plane was quietly changing the world by going the other way: slower than Concorde, but enormously BIGGER, and cheap enough for millions of ordinary families."
+      ]
+    }
+  ],
+  "deepDive": "Why is the region near Mach 1 so troublesome, and why does it get easier again above it? Below the speed of sound, pressure disturbances travel ahead of the aircraft and the air adjusts gradually. In the transonic range, roughly Mach 0.8 to 1.2, the flow is a messy mixture: supersonic pockets form over the wing and end in shock waves that move about, interact with the boundary layer (the thin slow layer of air next to the skin) and make it separate. This is what causes the sudden drag rise, buffeting and shifts in where the lift acts, which in turn produced the nose-down 'tuck' and useless elevators of the 1940s. Once the whole aircraft is supersonic, the shocks settle into fixed positions at the nose and tail, which is why Yeager reported a smoother ride after passing Mach 1. Engineers attacked the problem from several directions. Thin wings delay the supersonic pockets. Sweep reduces the airflow component that 'counts' by the cosine of the sweep angle. The area rule minimises wave drag by smoothing the cross-sectional area distribution, and all-moving tails, first proposed for Britain's cancelled Miles M.52, keep pitch control working through the shocks. Historians still debate some early claims of supersonic flight, such as German pilots in wartime dives or test pilot George Welch's dives in the XP-86 shortly before Yeager's flight, because the instruments of the time were unreliable near Mach 1 and no official measurements exist. Yeager's flight is recognised as first because it was measured and recorded in level flight. The economics of supersonic transport are just as interesting as the physics. Wave drag makes supersonic flight burn far more fuel per passenger than subsonic flight, and the sonic boom, an overpressure of roughly 90 to 100 pascals for Concorde, made flights over land socially unacceptable. NASA's current research aims to shape aircraft so the boom becomes a soft 'thump', which could one day change the rules.",
+  "funFact": "Chuck Yeager flew faster than sound for the first time with two broken ribs, using a sawed-off broom handle to close the X-1's door.",
+  "check": {
+    "q": "What kind of engine powered the Bell X-1 when Chuck Yeager first flew faster than sound in 1947?",
+    "a": "A rocket engine",
+    "wrong": [
+      "A jet engine",
+      "A piston engine with a propeller",
+      "A steam engine"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Mach number",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mach_number"
+    },
+    {
+      "title": "Sound barrier",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sound_barrier"
+    },
+    {
+      "title": "Bell X-1",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bell_X-1"
+    },
+    {
+      "title": "Chuck Yeager",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chuck_Yeager"
+    },
+    {
+      "title": "Area rule",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Area_rule"
+    },
+    {
+      "title": "Jacqueline Cochran",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jacqueline_Cochran"
+    },
+    {
+      "title": "North American X-15",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/North_American_X-15"
+    },
+    {
+      "title": "Concorde",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Concorde"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The orange Bell X-1 'Glamorous Glennis' rocket plane, in flight or on display at the National Air and Space Museum",
+      "search": "Bell X-1 Glamorous Glennis"
+    },
+    {
+      "want": "Ernst Mach's 1880s photograph of a bullet in flight showing shock waves",
+      "search": "Ernst Mach bullet shock wave photograph"
+    },
+    {
+      "want": "A British Airways or Air France Concorde in flight or landing with its nose drooped",
+      "search": "Concorde supersonic airliner landing"
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "slug": "internet",
+  "title": "The Internet",
+  "emoji": "🌐",
+  "tagline": "How billions of computers learned to talk to each other",
+  "intro": "Right now, tiny bundles of information are racing through glass cables under the ocean, bouncing off satellites and zipping through the air around you. Together they make the Internet: the biggest machine humans have ever built, and nobody owns all of it. But it did not appear overnight. In these 20 parts you will travel from telegraph wires and Cold War worries to a computer that crashed after typing just two letters. You will meet the people who invented packet switching, email, TCP/IP and the World Wide Web, and find out how a message really gets from your screen to a friend on the other side of the planet. Then we will explore search engines, Wi-Fi, online shopping, social media and the cloud, look honestly at hackers, scams and misinformation, learn how to stay safe and kind online, and imagine an Internet that might one day stretch all the way to Mars.",
+  "outline": [
+    {
+      "n": 1,
+      "title": "Messages Faster Than a Horse",
+      "when": "1790s – 1950s",
+      "covers": [
+        "Life before networks: letters carried by riders, ships and trains could take days or months",
+        "Claude Chappe's optical semaphore towers in France (1790s) as an early 'network' of relay stations",
+        "Samuel Morse, Morse code and the electric telegraph; the 1844 Washington–Baltimore message",
+        "The transatlantic telegraph cables: the 1858 cable that failed after weeks and the lasting 1866 cable",
+        "Alexander Graham Bell's telephone (1876) and telephone exchanges with human switchboard operators",
+        "Big idea for the whole story: a 'circuit' phone call ties up one whole line for the entire conversation",
+        "Radio and early computers of the 1940s (such as ENIAC, 1945) that were huge, rare and not connected to anything"
+      ],
+      "keyFacts": [
+        "Morse's famous 1844 telegraph message was 'What hath God wrought'.",
+        "The first transatlantic telegraph cable worked in 1858 but failed after about three weeks; a lasting cable was laid in 1866 by the ship Great Eastern.",
+        "Bell received his telephone patent in 1876.",
+        "ENIAC, finished in 1945, filled a large room and weighed about 27 tonnes."
+      ],
+      "hook": "End by asking: people could now talk across oceans, but what would happen when the new 'thinking machines' wanted to talk to each other?"
+    },
+    {
+      "n": 2,
+      "title": "Dreamers, Rockets and a Galactic Idea",
+      "when": "1945 – 1963",
+      "covers": [
+        "Vannevar Bush's 1945 essay 'As We May Think' and his imagined 'Memex' desk of linked information",
+        "Time-sharing: in the late 1950s and 1960s many people began sharing one big computer through terminals",
+        "The Soviet launch of Sputnik on 4 October 1957 and the shock it caused in the United States",
+        "The founding of ARPA (Advanced Research Projects Agency) in 1958 to fund ambitious science",
+        "J.C.R. Licklider's 1960 paper 'Man-Computer Symbiosis' and his 1962–63 memos about an 'Intergalactic Computer Network'",
+        "Why researchers wanted to connect computers: to share expensive machines, programs and data"
+      ],
+      "keyFacts": [
+        "Sputnik 1 was launched on 4 October 1957.",
+        "ARPA was created in February 1958 (it was later renamed DARPA).",
+        "Licklider became the first head of ARPA's computer research office (the Information Processing Techniques Office) in 1962.",
+        "Licklider jokingly addressed memos to 'Members and Affiliates of the Intergalactic Computer Network'."
+      ],
+      "hook": "End with the problem nobody had solved yet: how do you send computer messages over a network without tying up whole lines like a phone call?"
+    },
+    {
+      "n": 3,
+      "title": "Chop It Into Packets!",
+      "when": "1960 – 1967",
+      "covers": [
+        "Paul Baran at RAND (early 1960s): designs for a 'distributed' network with no single centre, cutting messages into 'message blocks'",
+        "Donald Davies at Britain's National Physical Laboratory (1965–66), who independently had the same idea and coined the word 'packet'",
+        "Leonard Kleinrock's mathematical work on queues and data flow in networks (early 1960s)",
+        "Fair credit: several people reached similar ideas separately; explain why historians credit Baran, Davies and Kleinrock in different ways",
+        "Simple explanation of packet switching using an analogy (a long letter cut into numbered postcards that travel separately and are put back in order)",
+        "Centralised vs decentralised vs distributed networks, with a simple diagram idea",
+        "The nuclear-war story: Baran was thinking about survivable communications, but label clearly that ARPANET itself was not built mainly to survive a nuclear attack"
+      ],
+      "keyFacts": [
+        "Baran's main reports 'On Distributed Communications' were published by RAND in 1964.",
+        "Davies chose the word 'packet' around 1965–66 because it was a short, ordinary word that translated easily into other languages.",
+        "In packet switching, many conversations share the same lines at the same time, so lines are used far more efficiently than in a phone call."
+      ],
+      "hook": "End with ARPA deciding to actually build a packet network, and a deadline to connect the first computers by 1969."
+    },
+    {
+      "n": 4,
+      "title": "LO! The ARPANET Is Born",
+      "when": "1966 – 1970",
+      "covers": [
+        "Bob Taylor at ARPA (1966) gets funding because he had three separate terminals in his office for three computers",
+        "Larry Roberts plans the ARPANET; Wesley Clark suggests using small separate computers (IMPs) to handle the network",
+        "BBN (Bolt Beranek and Newman) wins the contract; Frank Heart's team builds the Interface Message Processors from Honeywell DDP-516 computers",
+        "Steve Crocker writes RFC 1 (April 1969), starting the friendly 'Request for Comments' tradition that still shapes Internet rules today",
+        "The first message on 29 October 1969: Charley Kline at UCLA (Kleinrock's lab) to Bill Duvall at SRI; it crashed after 'LO' of LOGIN",
+        "By December 1969 four sites were connected: UCLA, SRI, UC Santa Barbara and the University of Utah"
+      ],
+      "keyFacts": [
+        "The first IMP was installed at UCLA in late August/early September 1969.",
+        "The first message was sent at about 10:30 pm on 29 October 1969; the system crashed after the letters 'L' and 'O'. A full login worked about an hour later.",
+        "RFC 1 was published on 7 April 1969.",
+        "The ARPANET had 4 nodes by the end of 1969 and grew to more than 30 sites by 1972 (use 'about')."
+      ],
+      "hook": "End with the network working, but asking: what would people actually use it for? The surprising answer was messages to each other."
+    },
+    {
+      "n": 5,
+      "title": "You've Got Mail (and Other Networks Too)",
+      "when": "1965 – 1982",
+      "covers": [
+        "Email on a single computer came first: the MAIL command on MIT's CTSS time-sharing system (around 1965)",
+        "Ray Tomlinson at BBN sends email between two different computers on the ARPANET (1971) and chooses the @ sign",
+        "Email quickly became the ARPANET's most popular use, surprising its builders",
+        "Bob Kahn's big public ARPANET demonstration at the ICCC conference in Washington, October 1972",
+        "Other networks of the era: ALOHAnet radio network in Hawaii (Norman Abramson, 1971), CYCLADES in France (Louis Pouzin), Davies' NPL network in Britain",
+        "Bob Metcalfe and colleagues invent Ethernet at Xerox PARC (1973) for local networks in a building",
+        "Fun firsts: the first mass unwanted email (Gary Thuerk, 1978, later called 'spam') and Scott Fahlman's :-) smiley (1982)"
+      ],
+      "keyFacts": [
+        "Tomlinson's first network email was in 1971; he later said he could not remember its exact text, probably something like 'QWERTYUIOP'.",
+        "Tomlinson chose @ because it meant 'at' and did not appear in people's names.",
+        "Gary Thuerk's 1978 advert was sent to about 400 ARPANET users.",
+        "Scott Fahlman proposed :-) on a Carnegie Mellon message board on 19 September 1982."
+      ],
+      "hook": "End with the new problem: there were now many different networks, and they could not talk to each other."
+    },
+    {
+      "n": 6,
+      "title": "A Network of Networks: TCP/IP",
+      "when": "1973 – 1983",
+      "covers": [
+        "Vint Cerf and Bob Kahn design a way to join different networks together ('internetworking'), published in May 1974",
+        "The idea of gateways (today called routers) linking networks, and the 'end-to-end' idea where computers at the edges handle reliability",
+        "CYCLADES' influence: Louis Pouzin's datagrams (packets that travel independently)",
+        "TCP is split into TCP and IP (around 1978) so each does one job",
+        "The 22 November 1977 demo: packets travel through a radio network in a van, the ARPANET and a satellite link to Britain and Norway and back",
+        "'Flag Day' 1 January 1983: the ARPANET switches to TCP/IP; this is often called the Internet's birthday",
+        "Where the word 'internet' comes from (from 'internetworking'); the military part split off as MILNET in 1983"
+      ],
+      "keyFacts": [
+        "Cerf and Kahn's paper 'A Protocol for Packet Network Intercommunication' appeared in May 1974.",
+        "In the 1977 demo, data travelled a route of about 150,000 km (about 94,000 miles) without losing a bit (use 'about').",
+        "The ARPANET officially switched from its old protocol (NCP) to TCP/IP on 1 January 1983.",
+        "Cerf and Kahn received the US Presidential Medal of Freedom in 2005 and the Turing Award (for 2004)."
+      ],
+      "hook": "End by inviting the reader to follow a single packet on its journey to see how TCP/IP actually works."
+    },
+    {
+      "n": 7,
+      "title": "The Journey of a Packet",
+      "when": "How it works (part 1)",
+      "covers": [
+        "What data is: everything (text, pictures, sound) becomes bits, 1s and 0s",
+        "A packet's parts: header (addresses, number in the sequence) and payload (the data itself)",
+        "Routers: computers that read the destination and pass each packet to the next 'hop', like sorting offices",
+        "Packets from one message can take different routes and arrive out of order",
+        "TCP's job: numbering packets, putting them back in order, checking for missing ones, asking for resends with acknowledgements",
+        "Layers explained simply (physical links, IP, TCP, apps) like envelopes inside envelopes",
+        "A traceroute-style example journey across a country or ocean, with times in milliseconds"
+      ],
+      "keyFacts": [
+        "A common maximum packet size on Ethernet and many networks is about 1,500 bytes.",
+        "A typical trip across the Internet passes through roughly 10–20 routers ('hops'); say 'often' or 'about'.",
+        "Light in a glass fibre travels at about 200,000 km per second, about two-thirds of its speed in a vacuum.",
+        "If a packet goes missing, TCP notices because no acknowledgement arrives, and sends it again."
+      ],
+      "hook": "End with a question: routers need an address to send packets to, so how does every computer get one, and how does typing a name find it?"
+    },
+    {
+      "n": 8,
+      "title": "Addresses and Names: IP and DNS",
+      "when": "How it works (part 2), 1970s – today",
+      "covers": [
+        "IP addresses as the Internet's postal addresses; an example IPv4 address like 192.0.2.1",
+        "Early ARPANET kept a single list of host names (HOSTS.TXT) run by Elizabeth 'Jake' Feinler's Network Information Center at SRI",
+        "Paul Mockapetris invents the Domain Name System (DNS) in 1983, a worldwide 'phone book' spread over many computers",
+        "Top-level domains like .com, .org, .edu, .gov (1985) and country codes like .uk and .cn; symbolics.com as the first .com",
+        "Jon Postel's role looking after numbers and names (IANA); ICANN created in 1998",
+        "Running out of addresses: IPv4's about 4.3 billion addresses and the move to IPv6",
+        "Step by step: what happens when you type a website name"
+      ],
+      "keyFacts": [
+        "IPv4 addresses are 32 bits long, giving about 4.3 billion possible addresses.",
+        "IPv6 addresses are 128 bits long, giving about 340 undecillion (3.4 × 10^38) addresses.",
+        "symbolics.com was registered on 15 March 1985 as the first .com domain.",
+        "The central pool of free IPv4 addresses ran out in February 2011."
+      ],
+      "hook": "End by noting that in the mid-1980s the Internet was still mostly for scientists and the military, but that was about to change."
+    },
+    {
+      "n": 9,
+      "title": "From Labs to Living Rooms",
+      "when": "1979 – 1995",
+      "covers": [
+        "Usenet newsgroups (from 1979–80, Tom Truscott and Jim Ellis) and dial-up bulletin board systems (BBSs)",
+        "Dial-up modems: the screeching sounds and slow speeds measured in bits per second",
+        "NSFNET (1986) links supercomputer centres and universities and becomes the new backbone; ARPANET is shut down in 1990",
+        "Online services like CompuServe, Prodigy and AOL; France's Minitel (from 1982) as a non-Internet example",
+        "The Morris worm of 2 November 1988 and the creation of CERT, the first wake-up call about security",
+        "Radia Perlman's spanning-tree protocol (1985) that helps big networks avoid loops",
+        "1991–1995: rules against business use are lifted and commercial Internet providers take over; NSFNET backbone retired in April 1995"
+      ],
+      "keyFacts": [
+        "The Morris worm infected about 6,000 computers, roughly 10% of the Internet at the time (use 'about').",
+        "NSFNET's backbone started at 56 kilobits per second in 1986 and was upgraded to T1 (1.5 Mbit/s) in 1988.",
+        "The ARPANET was formally decommissioned in 1990.",
+        "Late dial-up modems reached 56 kilobits per second."
+      ],
+      "hook": "End at CERN in Switzerland, where a physicist was frustrated that information was scattered across computers and impossible to find."
+    },
+    {
+      "n": 10,
+      "title": "Weaving the World Wide Web",
+      "when": "1945 – 1993",
+      "covers": [
+        "Make the key point: the Internet is the network; the Web is one service that runs on it",
+        "Hypertext ancestors: Bush's Memex, Ted Nelson coining 'hypertext' (1960s), Douglas Engelbart's 'Mother of All Demos' (1968), Apple's HyperCard (1987)",
+        "Tim Berners-Lee's March 1989 proposal at CERN, and his boss Mike Sendall's note 'Vague but exciting...'",
+        "Robert Cailliau's partnership in developing the Web",
+        "The three building blocks: HTML (pages), HTTP (how they are sent), URLs (addresses)",
+        "The first web server and browser on a NeXT computer (1990); the first website info.cern.ch, announced publicly in August 1991",
+        "30 April 1993: CERN puts the Web software into the public domain so anyone can use it free"
+      ],
+      "keyFacts": [
+        "Berners-Lee's proposal was titled 'Information Management: A Proposal' (March 1989).",
+        "The first web server ran on a NeXT computer that carried a label saying not to power it down.",
+        "Berners-Lee announced the Web publicly on the alt.hypertext newsgroup on 6 August 1991.",
+        "CERN released the Web software royalty-free on 30 April 1993."
+      ],
+      "hook": "End with only a few hundred websites in existence and most of them plain text, waiting for a browser that would make the Web easy and colourful."
+    },
+    {
+      "n": 11,
+      "title": "Browsers and the Web Explosion",
+      "when": "1993 – 2000s",
+      "covers": [
+        "Mosaic (1993) from NCSA by Marc Andreessen and Eric Bina shows pictures next to text and becomes hugely popular",
+        "The 1991 High Performance Computing Act (sponsored by Senator Al Gore) helped fund NCSA; explain the 'Al Gore invented the Internet' joke fairly",
+        "Netscape Navigator (1994) and Microsoft's Internet Explorer (1995): the first 'browser wars'",
+        "JavaScript (Brendan Eich, 1995) and CSS make pages interactive and styled",
+        "Founding of the World Wide Web Consortium (W3C, 1994) to keep the Web open and shared",
+        "How a web page loads: browser asks DNS, sends an HTTP request, receives HTML, images and scripts, and draws the page",
+        "Later browsers like Firefox (2004) and Chrome (2008) and the rise of web apps"
+      ],
+      "keyFacts": [
+        "Mosaic was released in 1993; Netscape Navigator came out in late 1994.",
+        "Brendan Eich wrote the first version of JavaScript in about 10 days in 1995.",
+        "The number of websites grew from about 130 in mid-1993 to about 23,500 by mid-1995 (use 'about').",
+        "Gore never said 'I invented the Internet'; in 1999 he said he 'took the initiative in creating the Internet'."
+      ],
+      "hook": "End with the Web growing so fast that finding anything on it became a giant puzzle."
+    },
+    {
+      "n": 12,
+      "title": "Searching the Haystack",
+      "when": "1990 – today",
+      "covers": [
+        "Archie (1990, Alan Emtage at McGill University), the first Internet search tool, for finding files",
+        "Gopher (1991, University of Minnesota) menus as a rival to the Web",
+        "Yahoo! (1994, Jerry Yang and David Filo) as a hand-made directory",
+        "AltaVista (1995) and other early search engines that indexed full web pages",
+        "Larry Page and Sergey Brin's BackRub project at Stanford (1996), PageRank, and Google Inc. (September 1998)",
+        "How search works: crawlers (spiders), building an index, and ranking results",
+        "Tips for searching well and why the top result is not always true"
+      ],
+      "keyFacts": [
+        "Yahoo! began in 1994 as 'Jerry and David's Guide to the World Wide Web'.",
+        "PageRank treated a link from one page to another like a vote, giving more weight to votes from important pages.",
+        "Google Inc. was founded in September 1998 in a garage in Menlo Park, California.",
+        "The name Google comes from 'googol', the number 1 followed by 100 zeros."
+      ],
+      "hook": "End by asking: all these searches and pages travel somewhere physical, so what are the actual wires and cables of the Internet?"
+    },
+    {
+      "n": 13,
+      "title": "Wires, Glass and Undersea Cables",
+      "when": "1960s – today",
+      "covers": [
+        "The Internet is physical: copper wires, fibre-optic cables, data centres and exchange points",
+        "Charles Kao's 1966 work showing glass fibres could carry light signals long distances (Nobel Prize 2009)",
+        "How fibre optics work: pulses of light bouncing along a thin glass strand (total internal reflection)",
+        "TAT-8 (1988), the first transatlantic fibre-optic cable; today's hundreds of undersea cables, cable-laying ships and repairs (including shark-bite stories, kept in proportion)",
+        "From dial-up to broadband: DSL, cable and fibre to the home; what 'bandwidth' and 'Mbps' mean",
+        "Internet exchange points where networks meet and swap traffic",
+        "Satellites: older geostationary links with long delays, compared with cables"
+      ],
+      "keyFacts": [
+        "Undersea cables carry the vast majority (often quoted as over 95%) of data between continents.",
+        "Charles Kao shared the 2009 Nobel Prize in Physics for his fibre-optic work.",
+        "TAT-8 entered service in 1988.",
+        "There are a few hundred active submarine cable systems in the world (use 'a few hundred' or 'over 500' carefully)."
+      ],
+      "hook": "End with the question: wires are great, but what if your computer could connect without any cable at all?"
+    },
+    {
+      "n": 14,
+      "title": "Cutting the Cord: Wi-Fi and Mobile Internet",
+      "when": "1940s – today",
+      "covers": [
+        "Radio waves as carriers of data; ALOHAnet as an early wireless data network",
+        "Hedy Lamarr and George Antheil's 1942 frequency-hopping patent and its fair place in history (an ancestor idea of spread spectrum, not the inventor of Wi-Fi)",
+        "IEEE 802.11 standard (1997), Vic Hayes chairing the committee, and the faster 802.11b (1999)",
+        "The name 'Wi-Fi' (1999) created as a brand name; Australia's CSIRO and John O'Sullivan's patented work for faster wireless networking",
+        "How a Wi-Fi router works: radio channels around 2.4 GHz and 5 GHz, walls, range and passwords",
+        "Mobile data: from 2G text messages to 3G, 4G and 5G; the iPhone (2007) and the smartphone age",
+        "Today most people go online mainly through phones"
+      ],
+      "keyFacts": [
+        "The original IEEE 802.11 standard (1997) offered up to 2 megabits per second; 802.11b (1999) offered up to 11 Mbit/s.",
+        "'Wi-Fi' was coined in 1999 by a branding firm for the group now called the Wi-Fi Alliance; it is not officially short for anything.",
+        "Lamarr and Antheil received US patent 2,292,387 in August 1942.",
+        "Apple's first iPhone went on sale in June 2007."
+      ],
+      "hook": "End by noting that once the Internet was everywhere, businesses rushed online, sometimes far too fast."
+    },
+    {
+      "n": 15,
+      "title": "Boom, Bust and a Brand-New Economy",
+      "when": "1994 – 2010s",
+      "covers": [
+        "Amazon (founded 1994 by Jeff Bezos, started selling books online in 1995) and eBay (1995, Pierre Omidyar)",
+        "The dot-com boom: new companies valued at billions, then the crash of 2000–2001",
+        "Online banking, shopping and booking; how work, school and libraries changed",
+        "Wikipedia (launched 15 January 2001 by Jimmy Wales and Larry Sanger) and writing knowledge together",
+        "Open-source software: Linux (Linus Torvalds, 1991) and the Apache web server running much of the Web",
+        "Music and video online: Napster (1999) controversy, then legal downloads and streaming",
+        "Video calls (Skype, 2003) shrinking distances for families"
+      ],
+      "keyFacts": [
+        "The NASDAQ stock index peaked on 10 March 2000 and then lost most of its value by 2002.",
+        "Wikipedia launched on 15 January 2001.",
+        "eBay began in 1995 as AuctionWeb; the story that it started to trade Pez dispensers is a later publicity tale.",
+        "Linus Torvalds announced Linux in 1991 as a student in Finland."
+      ],
+      "hook": "End with a new idea: what if ordinary people, not companies, created most of what was on the Web?"
+    },
+    {
+      "n": 16,
+      "title": "Everyone's a Publisher: Social Media",
+      "when": "1997 – today",
+      "covers": [
+        "Blogs and personal homepages (GeoCities, 1994) as early ways to share",
+        "Early social networks: SixDegrees (1997), Friendster (2002), MySpace (2003)",
+        "Facebook (2004, Mark Zuckerberg and fellow students at Harvard), YouTube (2005), Twitter (2006), Instagram (2010) and later apps",
+        "YouTube's first video 'Me at the zoo' (23 April 2005) by co-founder Jawed Karim",
+        "Good sides: connecting families, learning, creativity, organising help in disasters",
+        "Hard sides: addictive design, comparing yourself to others, fake news spreading fast, debates about social media in events like the Arab Spring (2010–2012)",
+        "Why most social media apps require users to be at least 13 (US COPPA law of 1998)"
+      ],
+      "keyFacts": [
+        "YouTube was founded in 2005 by Chad Hurley, Steve Chen and Jawed Karim.",
+        "'Me at the zoo' is 19 seconds long.",
+        "Facebook launched in February 2004 for Harvard students before opening to everyone over 13 in 2006.",
+        "The US Children's Online Privacy Protection Act (COPPA) was passed in 1998."
+      ],
+      "hook": "End with a warning: where lots of people gather, so do tricksters and thieves, and the Internet was not built with security in mind."
+    },
+    {
+      "n": 17,
+      "title": "Hackers, Viruses and Secret Codes",
+      "when": "1970s – today",
+      "covers": [
+        "Why early networks trusted everyone, and why that became a problem",
+        "Kinds of malware: viruses, worms, Trojans, ransomware (simple, non-scary explanations); 'white hat' security researchers who help",
+        "Phishing and scams: fake messages trying to steal passwords",
+        "Public-key cryptography: Whitfield Diffie and Martin Hellman (1976), RSA by Rivest, Shamir and Adleman (1977), and Clifford Cocks' earlier secret work at GCHQ (1973, revealed in 1997)",
+        "How the padlock works simply: SSL from Netscape (1990s), later TLS and HTTPS, using a 'locked box with a public padlock' analogy",
+        "Firewalls, software updates and why companies pay 'bug bounties'"
+      ],
+      "keyFacts": [
+        "Diffie and Hellman published 'New Directions in Cryptography' in 1976.",
+        "RSA was described in 1977 and is named after Rivest, Shamir and Adleman.",
+        "Clifford Cocks devised a similar method at GCHQ in 1973, but it was kept secret until 1997.",
+        "Today the large majority of web pages loaded in browsers use HTTPS (use 'most')."
+      ],
+      "hook": "End by turning to the reader: technology helps, but the most important safety tools are your own habits."
+    },
+    {
+      "n": 18,
+      "title": "Being Safe, Smart and Kind Online",
+      "when": "Today",
+      "covers": [
+        "Strong passwords and passphrases, password managers and two-factor authentication",
+        "Privacy and your digital footprint: what not to share (address, school, passwords, location)",
+        "Cyberbullying, being kind, and telling a trusted adult; blocking and reporting",
+        "Spotting misinformation: checking sources, who made it, and whether other trusted sites agree; deepfakes",
+        "How websites track and use data (cookies, ads) and laws like Europe's GDPR (2018)",
+        "Big problems for society: the digital divide (billions still offline), censorship and Internet shutdowns, screen time",
+        "A short, friendly checklist readers can remember"
+      ],
+      "keyFacts": [
+        "The ITU estimated about 5.5 billion people used the Internet in 2024, leaving about 2.6 billion offline.",
+        "Europe's General Data Protection Regulation (GDPR) took effect on 25 May 2018.",
+        "Two-factor authentication means using something you know (a password) plus something you have (like a phone code)."
+      ],
+      "hook": "End by asking where all our photos, messages and videos actually live, setting up 'the cloud'."
+    },
+    {
+      "n": 19,
+      "title": "Living in the Cloud",
+      "when": "1999 – today",
+      "covers": [
+        "What 'the cloud' really is: other people's computers in giant data centres",
+        "Early cloud services: Salesforce (1999), Amazon Web Services' S3 and EC2 (2006), Google Docs (2006)",
+        "Streaming video and music (Netflix streaming from 2007, Spotify 2008) and online games",
+        "Inside a data centre: rows of servers, cooling, backup power; energy and water use",
+        "The Internet of Things: Carnegie Mellon's networked Coke machine (1982), Cambridge's Trojan Room coffee pot webcam, and today's smart devices; Kevin Ashton coining the term (1999)",
+        "AI services running in the cloud and why they need huge amounts of computing",
+        "Video and streaming now make up most Internet traffic"
+      ],
+      "keyFacts": [
+        "Amazon S3 launched in March 2006 and EC2 in August 2006.",
+        "Data centres used roughly 1–1.5% of the world's electricity in the early 2020s (IEA estimate; use 'about').",
+        "The Trojan Room coffee pot camera began in 1991 and was put on the Web in 1993.",
+        "Video is commonly estimated to make up well over half of all Internet traffic."
+      ],
+      "hook": "End by looking up at the sky, where thousands of new satellites are being launched to bring the Internet everywhere."
+    },
+    {
+      "n": 20,
+      "title": "The Next Hop: The Future of the Internet",
+      "when": "Today – the future",
+      "covers": [
+        "Low-orbit satellite networks like Starlink (first launches 2019) and bringing remote places online",
+        "IPv6 and new faster networks (5G, 6G research, faster Wi-Fi)",
+        "The interplanetary Internet: Vint Cerf's work on delay-tolerant networking for space missions",
+        "Open questions: who governs the Internet, net neutrality, privacy, AI-written content, keeping it free and open",
+        "Recap of the whole journey: telegraph, packets, ARPANET, TCP/IP, the Web, Wi-Fi, social media, the cloud",
+        "The big lesson: the Internet works because people agreed to share open rules (RFCs) and cooperate",
+        "An inspiring ending inviting readers to become the next builders, kindly and safely"
+      ],
+      "keyFacts": [
+        "SpaceX launched its first batch of 60 operational-prototype Starlink satellites in May 2019.",
+        "A signal takes between about 3 and 22 minutes to travel one way between Earth and Mars, which is why normal Internet rules don't work there.",
+        "There are now well over 9,000 RFCs, the open documents that describe how the Internet works."
+      ],
+      "hook": "Finish the whole story with a callback to 'LO': the Internet began with two letters, and what you send next is up to you."
+    }
+  ],
+  "people": [
+    "Claude Chappe (1763–1805) — French inventor of an optical semaphore telegraph network in the 1790s",
+    "Samuel Morse (1791–1872) — American painter and inventor who helped develop the electric telegraph and Morse code",
+    "Alexander Graham Bell (1847–1922) — Scottish-born inventor credited with the telephone (patent 1876)",
+    "Vannevar Bush (1890–1974) — American engineer who imagined the 'Memex' in 'As We May Think' (1945)",
+    "J.C.R. Licklider (1915–1990) — psychologist and computer scientist whose vision of an 'Intergalactic Computer Network' inspired ARPANET",
+    "Paul Baran (1926–2011) — RAND engineer who designed distributed networks with message blocks in the early 1960s",
+    "Donald Davies (1924–2000) — British computer scientist at the National Physical Laboratory who independently invented packet switching and named the 'packet'",
+    "Leonard Kleinrock (born 1934) — UCLA professor whose network mathematics and lab hosted the first ARPANET node",
+    "Bob Taylor (1932–2017) — ARPA official who launched the ARPANET project and later led Xerox PARC's computer lab",
+    "Larry Roberts (1937–2018) — ARPA program manager who designed and led the building of the ARPANET",
+    "Wesley Clark (1927–2016) — computer pioneer who suggested using separate small computers (IMPs) to run the network",
+    "Frank Heart (1929–2018) — led the BBN team that built the Interface Message Processors",
+    "Steve Crocker (born 1944) — wrote RFC 1 in 1969 and helped create the first ARPANET protocols",
+    "Charley Kline (born about 1948) — UCLA student programmer who sent the first ARPANET message in 1969",
+    "Bill Duvall — SRI programmer who received the first ARPANET message in 1969",
+    "Ray Tomlinson (1941–2016) — BBN engineer who sent the first network email in 1971 and chose the @ sign",
+    "Bob Kahn (born 1938) — co-designer of TCP/IP and organiser of the 1972 ARPANET public demonstration",
+    "Vint Cerf (born 1943) — co-designer of TCP/IP, often called one of the 'fathers of the Internet'; later worked on interplanetary networking",
+    "Louis Pouzin (born 1931) — French engineer who led the CYCLADES network and pioneered datagrams",
+    "Norman Abramson (1932–2020) — professor who built ALOHAnet, an early wireless packet network in Hawaii",
+    "Bob Metcalfe (born 1946) — co-inventor of Ethernet at Xerox PARC in 1973",
+    "Elizabeth 'Jake' Feinler (born 1931) — ran the ARPANET Network Information Center at SRI and helped shape domain naming",
+    "Jon Postel (1943–1998) — editor of the RFCs and caretaker of Internet addresses and names (IANA)",
+    "Paul Mockapetris (born 1948) — inventor of the Domain Name System (1983)",
+    "Radia Perlman (born 1951) — network engineer who invented the spanning-tree protocol used in large networks",
+    "Robert Tappan Morris (born 1965) — graduate student who released the 1988 Morris worm; later became a computer science professor",
+    "Gary Thuerk (born 1940s) — DEC marketer who sent the first mass unsolicited email in 1978",
+    "Scott Fahlman (born 1948) — Carnegie Mellon computer scientist who proposed the :-) smiley in 1982",
+    "Ted Nelson (born 1937) — coined the word 'hypertext' in the 1960s and dreamed of Project Xanadu",
+    "Douglas Engelbart (1925–2013) — showed the mouse, hypertext links and video calls in the 1968 'Mother of All Demos'",
+    "Tim Berners-Lee (born 1955) — British computer scientist who invented the World Wide Web at CERN in 1989–1991",
+    "Robert Cailliau (born 1947) — Belgian engineer at CERN who partnered with Berners-Lee to develop and promote the Web",
+    "Mike Sendall (1939–1999) — Berners-Lee's boss at CERN who wrote 'Vague but exciting' on the proposal and let the work go ahead",
+    "Marc Andreessen (born 1971) — co-author of the Mosaic browser and co-founder of Netscape",
+    "Eric Bina (born 1964) — co-author of the Mosaic browser at NCSA",
+    "Al Gore (born 1948) — US senator and vice president who sponsored laws funding high-speed networks, including the 1991 High Performance Computing Act",
+    "Brendan Eich (born 1961) — created JavaScript at Netscape in 1995",
+    "Alan Emtage (born 1964) — creator of Archie, the first Internet search tool (1990)",
+    "Jerry Yang (born 1968) and David Filo (born 1966) — Stanford students who founded Yahoo! in 1994",
+    "Larry Page (born 1973) and Sergey Brin (born 1973) — Stanford students who created PageRank and founded Google in 1998",
+    "Charles Kao (1933–2018) — engineer who showed glass fibre could carry data over long distances; Nobel Prize 2009",
+    "Hedy Lamarr (1914–2000) — film star and inventor who co-patented a frequency-hopping idea with composer George Antheil in 1942",
+    "George Antheil (1900–1959) — American composer and co-inventor of the 1942 frequency-hopping patent",
+    "Vic Hayes (born 1941) — Dutch engineer who chaired the IEEE 802.11 committee that created Wi-Fi standards",
+    "John O'Sullivan (born 1959) — Australian engineer who led the CSIRO team behind key wireless networking patents",
+    "Jeff Bezos (born 1964) — founder of Amazon (1994)",
+    "Pierre Omidyar (born 1967) — founder of eBay (1995)",
+    "Jimmy Wales (born 1966) and Larry Sanger (born 1968) — co-founders of Wikipedia (2001)",
+    "Linus Torvalds (born 1969) — Finnish programmer who created the Linux kernel in 1991",
+    "Mark Zuckerberg (born 1984) — co-founder of Facebook (2004)",
+    "Chad Hurley (born 1977), Steve Chen (born 1978) and Jawed Karim (born 1979) — co-founders of YouTube (2005)",
+    "Whitfield Diffie (born 1944) and Martin Hellman (born 1945) — published public-key cryptography in 1976",
+    "Ron Rivest (born 1947), Adi Shamir (born 1952) and Leonard Adleman (born 1945) — inventors of RSA encryption (1977)",
+    "Clifford Cocks (born 1950) — British GCHQ mathematician who secretly devised a public-key method in 1973",
+    "Kevin Ashton (born 1968) — British technologist who coined the phrase 'Internet of Things' in 1999"
+  ],
+  "glossary": [
+    "Internet — the worldwide network of networks that all use the TCP/IP rules to pass data",
+    "World Wide Web — a service on the Internet made of pages linked together, viewed in a browser",
+    "packet — a small chunk of data with an address label, sent separately and reassembled at the end",
+    "packet switching — sending data as many independent packets that share lines, instead of holding one line open",
+    "protocol — an agreed set of rules computers follow to talk to each other",
+    "TCP/IP — the two main Internet protocols: IP addresses and delivers packets; TCP makes sure they all arrive in order",
+    "router — a device that reads a packet's address and sends it on to the next step of its journey",
+    "IP address — a number that identifies a device on the Internet, like a postal address",
+    "DNS (Domain Name System) — the Internet's phone book that turns names like example.com into IP addresses",
+    "bit / byte — a bit is a single 1 or 0; a byte is 8 bits",
+    "bandwidth — how much data a connection can carry each second, measured in bits per second (e.g. Mbps)",
+    "HTML / HTTP / URL — the language of web pages / the rules for sending them / the address of a page",
+    "browser — a program that fetches web pages and shows them on your screen",
+    "fibre optic cable — a cable of thin glass strands that carry data as flashes of light",
+    "Wi-Fi — a family of wireless networking standards (IEEE 802.11) that carry data by radio waves",
+    "encryption — scrambling data so only someone with the right key can read it",
+    "malware — harmful software, such as viruses, worms and ransomware",
+    "phishing — a trick message pretending to be trustworthy in order to steal passwords or money",
+    "the cloud — services and storage running on computers in data centres that you reach over the Internet",
+    "RFC (Request for Comments) — an open document describing Internet rules, started in 1969"
+  ],
+  "doNotSay": [
+    "Do not say the Internet and the World Wide Web are the same thing; the Web runs on the Internet and came about 20 years after ARPANET.",
+    "Do not say Tim Berners-Lee invented the Internet; he invented the World Wide Web.",
+    "Do not say ARPANET was built mainly to survive a nuclear war; its main goal was sharing computer resources among researchers (Baran's separate RAND work did consider survivability).",
+    "Do not say Al Gore claimed he 'invented the Internet'; he never used those words, and he did help fund networking through laws.",
+    "Do not say one single person invented the Internet; it was built by many people over decades.",
+    "Do not say Hedy Lamarr invented Wi-Fi; her 1942 frequency-hopping patent was an early spread-spectrum idea, not Wi-Fi.",
+    "Do not say Wi-Fi stands for 'wireless fidelity'; it is a brand name that does not officially stand for anything.",
+    "Do not say email was invented in 1978 by one person (a disputed claim); email existed on time-sharing computers by about 1965 and on ARPANET from 1971.",
+    "Do not say the first ARPANET message was 'LOGIN' or 'LO' on purpose; they were trying to type LOGIN and it crashed after 'LO'.",
+    "Do not say the Internet is 'in the sky' or mostly carried by satellites; most data travels through cables, especially undersea fibre-optic cables.",
+    "Do not say the cloud is weightless or uses no energy; it runs on real computers in data centres that use lots of electricity.",
+    "Do not say Google was the first search engine; Archie, AltaVista, Yahoo! and others came before it.",
+    "Do not say eBay was started to help sell Pez dispensers as fact; that was a later publicity story.",
+    "Do not say Ray Tomlinson's first email said 'QWERTYUIOP' as a certain fact; he said he did not remember exactly.",
+    "Do not say sharks are a major cause of undersea cable damage; most damage comes from ship anchors and fishing gear.",
+    "Do not invent precise numbers for today's Internet (users, websites, cables); use cited estimates with 'about'."
+  ]
+}

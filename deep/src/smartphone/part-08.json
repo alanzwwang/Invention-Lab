@@ -1,0 +1,155 @@
+{
+  "n": 8,
+  "title": "One More Thing: The iPhone",
+  "when": "2004 – 2008",
+  "summary": "Inside Apple, a secret team built a phone with almost no buttons, where you used your fingers to tap, swipe and pinch a big glass screen. When Steve Jobs showed it on stage in 2007, people gasped. It was not the first smartphone, but it changed what everyone thought a phone should be.",
+  "sections": [
+    {
+      "heading": "A Music Company Worries About Phones",
+      "paragraphs": [
+        "In the mid-2000s, Apple was riding high on a little white music player. The iPod, first sold in 2001, had become one of the most popular gadgets in the world. Its white earbuds were everywhere, on buses, in schools and on running tracks. Apple's boss, Steve Jobs, had co-founded the company in 1976 and returned to lead it in 1997, and the iPod had helped turn Apple from a struggling computer maker into one of the most talked-about companies on the planet.",
+        "But Jobs and his team could see a danger coming. Mobile phones were getting better at playing music. If everyone's phone could hold their songs, why would anyone carry a separate iPod? The very thing that made Apple successful could be swallowed up by phones made by other companies.",
+        "Apple's first answer was a partnership. In 2005 it worked with Motorola, maker of the famous Razr you met in Part 7, on a phone called the ROKR E1 that could play songs from Apple's iTunes software. It was a disappointment. It was slow to load music, it was limited to about 100 songs, and it looked like an ordinary phone because Motorola and the phone company had a big say in its design. Many people at Apple felt that letting other companies design the product had been a mistake. If Apple was going to make a phone, it wanted to design everything itself: the outside, the software and how it felt in your hand.",
+        "There was another problem. In those days, phone networks such as Cingular, Verizon and Vodafone had huge power over the phones they sold. They often decided which features a phone had, what software was on it and what logos appeared on the screen. Jobs disliked most of the phones of the time and reportedly complained that they were confusing and ugly. So Apple made an unusual deal with Cingular Wireless, a big American network that later became part of AT&T. Cingular agreed to let Apple design the phone completely by itself, in secret, without even seeing it until it was nearly finished. In return Cingular got the right to be the only American network to sell it for several years, and Apple received a share of the monthly money customers paid. The collaboration reportedly cost about 150 million dollars over about 30 months."
+      ]
+    },
+    {
+      "heading": "Project Purple",
+      "paragraphs": [
+        "Inside Apple, the phone was known by a code name: Project Purple. Apple is famous for secrecy, and Project Purple was secret even by Apple standards. The team eventually grew to about a thousand people. Engineers were sometimes recruited onto the project without being told what it was, only that they would work very hard, give up nights and weekends, and could not tell even their families. Parts of the building where they worked were locked off with badge readers, and team members reportedly nicknamed one area 'the Purple Dorm' because they spent so much time there.",
+        "Three leaders under Steve Jobs shaped the phone. Jony Ive, a British designer who had also shaped the iMac and the iPod, led the design: how it looked and felt. Tony Fadell, who had led the iPod team, was in charge of the hardware: the electronics, the antennas and the battery. Scott Forstall, a software engineer who had worked with Jobs for years, led the team writing the phone's software, which was based on the Mac computer's operating system but squeezed down to fit in a pocket.",
+        "Interestingly, the iPhone grew partly out of a different idea. Apple had been experimenting with a tablet computer, a flat screen you could control by touching it. Jobs later said that when he saw how well the touch technology worked, he decided to use it for a phone first, and save the tablet for later. That tablet idea eventually became the iPad in 2010.",
+        "Apple's touch skills got a big boost from a small company in Delaware called FingerWorks. It had been founded in 1998 by Wayne Westerman, a university student researching multi-touch surfaces, meaning surfaces that can sense several fingers at once, and his professor John Elias. Westerman had painful wrist and hand problems from too much typing, called repetitive strain injury, and he wanted to invent gentler ways to control computers. FingerWorks made touch pads and keyboards that understood finger gestures, such as sliding two fingers to scroll. In 2005 Apple quietly bought FingerWorks' patents and technology, and Westerman and Elias went to work at Apple. Their ideas became part of the iPhone's multi-touch screen.",
+        "The team tried more than one approach. According to later interviews with team members, one early prototype used an iPod-style click wheel for dialing numbers, a bit like an old rotary phone. It did not work well, and the multi-touch design won. Building a big touchscreen phone was extremely hard. The team had to make the glass sense fingers reliably, stop your cheek from pressing buttons during calls, and make everything respond so smoothly that touching the screen felt natural, not laggy. Many of these problems were still not fully solved only weeks before the phone was shown to the world.",
+        "The hardware team had its own puzzles. Radio waves do not pass easily through metal, yet the designers wanted a sleek aluminium back. Their solution was a strip of black plastic across the bottom of the phone's back, which hid the antennas and let radio signals in and out. The battery was sealed inside to save space, which is one reason the phone could be so thin. Every millimetre mattered, because the large screen, the battery, the circuit board and the speakers all had to fit into a case not much thicker than a pencil."
+      ]
+    },
+    {
+      "heading": "The Glass That Came Back from the 1960s",
+      "paragraphs": [
+        "Early iPhone prototypes had screens covered in hard plastic. Glass seemed too risky, because it might shatter if you dropped the phone. But a famous story says that Steve Jobs carried a prototype in his pocket and found that his keys had scratched the plastic. He decided the phone must have a glass screen after all, one that would resist both scratches and breaking. The problem was that the phone was due to go on sale only months later, and nobody was making such glass in the right size and thickness.",
+        "Apple turned to Corning, an American glass company based in the town of Corning, New York, with a history going back to the 1800s. Corning had made the glass for Thomas Edison's light bulbs and for countless television tubes. Its chief executive, Wendell Weeks, told Jobs about an old experiment hidden in the company's files.",
+        "Back in the early 1960s, Corning had run a research effort called Project Muscle to make glass much stronger. By the early 1960s its scientists were working on a chemical treatment that worked by swapping atoms. Ordinary glass contains small sodium ions. When the glass is dipped into a bath of hot, melted potassium salt at about 400 degrees Celsius, some of those sodium ions near the surface swap places with bigger potassium ions. Picture a row of tightly packed tennis balls where you squeeze bigger footballs into the same spaces. The surface ends up crammed tight and squeezed together, which scientists call compressive stress. A crack has a much harder time starting in glass whose surface is already being squeezed. Part 10 explains this ion exchange in more detail.",
+        "Corning sold the strengthened glass as Chemcor. It was so tough that it was tested in the windows of a small number of racing cars, about 100 Dodge Darts and Plymouth Barracudas in 1968, where light weight mattered. But it was expensive, and few customers needed it, so the idea mostly sat on the shelf. Corning had started looking again at whether the glass could be made thin enough for gadgets in about 2005.",
+        "According to Walter Isaacson's biography of Steve Jobs, when Jobs asked for the glass, Weeks explained that Corning had no factory making it. Jobs insisted that Corning could do it. Corning converted a factory in Harrodsburg, Kentucky, that had been making glass for screens, and managed to produce the new glass in a matter of months. It was later given a brand name: Gorilla Glass. So remember, Gorilla Glass was not invented for the iPhone. It was a 1960s invention that found its perfect use about 45 years later. By October 2012, Corning said more than a billion mobile devices used it."
+      ]
+    },
+    {
+      "heading": "Three Things in One: January 9, 2007",
+      "paragraphs": [
+        "Imagine a huge, dark hall at the Moscone Center in San Francisco on the morning of January 9, 2007. Thousands of people have packed in for Macworld, a yearly show for fans of Apple computers. Reporters sit with laptops open. Rumours have swirled for months that Apple might make a phone, but nobody outside the company knows what it looks like.",
+        "Steve Jobs walks on stage in his usual outfit: black turtleneck, blue jeans and grey trainers. After talking about computers and the iPod, he tells the crowd that every once in a while a revolutionary product comes along that changes everything. Then he says Apple is going to introduce three revolutionary products. The first, he says, is a widescreen iPod with touch controls. The second is a revolutionary mobile phone. The third is a breakthrough internet communications device.",
+        "He repeats the list: 'An iPod, a phone, and an internet communicator.' He says it again, faster. The audience starts to laugh and cheer as they realize what is happening. 'These are not three separate devices,' Jobs explains. 'This is one device, and we are calling it iPhone.' Then he announces: 'Today, Apple is going to reinvent the phone.'",
+        "Over the next hour, Jobs showed the phone working on a giant screen. He scrolled through a music library by flicking his finger. He tapped a contact to make a call. He stretched a photo bigger by spreading two fingers apart. He opened a full web page of The New York Times and zoomed in with a double-tap. To show off Google Maps, he searched for a nearby coffee shop and, as a joke, called it on stage and ordered 4,000 lattes to go before hanging up. In Apple's press release that day, Jobs said, 'We are all born with the ultimate pointing device, our fingers.'",
+        "What the audience did not know was how fragile the demonstration was. According to later reporting, the prototype phones were still full of software bugs and could crash if used in the wrong order. Engineers had planned a careful 'golden path', a sequence of actions known to work, and Jobs had rehearsed it again and again. Some team members reportedly watched with their hearts in their mouths, and quietly celebrated when each part of the demo succeeded.",
+        "The same keynote included two smaller surprises. Apple announced that it was changing its name from Apple Computer to simply Apple Inc., a sign that it now saw itself as much more than a computer company. And there was a problem with the name 'iPhone': another company, Cisco, already held a trademark for it and sued Apple the very next day. The two companies soon reached an agreement that let both use the name."
+      ]
+    },
+    {
+      "heading": "What Was New: Pinch, Swipe and the Whole Web",
+      "paragraphs": [
+        "The first iPhone was a slim slab of glass and aluminium, about 11.6 millimetres thick and weighing about 135 grams. Most of its front was a 3.5-inch screen with 320 by 480 pixels, which works out to about 163 pixels per inch. That seems tiny compared with today's phones, but in 2007 it was a huge, sharp screen for a phone. It had only four physical buttons, a volume control and a ringer switch. The most famous button sat just below the screen: the round Home button that always took you back to the main screen.",
+        "The biggest change was multi-touch. Earlier touchscreen phones mostly used resistive screens that sensed one point at a time and worked best with a stylus. The iPhone's capacitive screen could sense more than one finger at once. This allowed new gestures that soon felt completely natural: swiping to scroll, flicking through photos, and pinch-to-zoom, where you spread or squeeze two fingers to make something bigger or smaller. Scrolling lists even seemed to have weight and bounce gently at the end. Part 10 explains how capacitive screens sense your fingers.",
+        "Because there was no keyboard, the phone showed a keyboard on the screen only when you needed one. The rest of the time the whole front could be used for pictures, video, maps or web pages. To help with mistyped letters on flat glass, the software quietly guessed which key you meant and corrected common mistakes.",
+        "When you switched the phone on, you saw a home screen with a neat grid of colourful rounded-square icons, one for each app, and a row of four favourites along the bottom: Phone, Mail, Safari and iPod. There were no complicated menus inside menus, as on many older phones. You simply touched the thing you wanted. Even a small child could work out how to look at photos within a minute or two, something that was rarely true of the button-filled phones of the time.",
+        "The iPhone also came with Safari, a real web browser that showed full websites, the same pages you would see on a computer, instead of the cut-down WAP pages most phones used. You could double-tap a column of text to zoom into it. For many people, this was the first time the 'real' internet felt usable on a phone.",
+        "There were clever smaller ideas too. Visual voicemail showed a list of your voice messages, so you could play any message in any order instead of listening to them one after another. Three sensors worked quietly in the background. An accelerometer noticed when you turned the phone sideways and rotated the picture. A proximity sensor turned off the screen when you held the phone to your ear, so your cheek did not press buttons. An ambient light sensor adjusted the brightness to match the room. Inside was a processor based on the ARM designs you will meet in Part 11, running at 412 megahertz, and 128 megabytes of working memory."
+      ]
+    },
+    {
+      "heading": "What Was Missing",
+      "paragraphs": [
+        "For all its magic, the first iPhone had some surprising gaps, and critics pointed them out loudly. The most important was speed. It did not support 3G, the faster mobile data networks that were spreading in 2007. Instead it used an older, slower system called EDGE, so web pages could take a long time to load when you were away from Wi-Fi.",
+        "There was also no App Store. You could not install new programs made by other companies. You got the apps Apple included, such as Mail, Safari, Maps, Weather, Stocks, Photos, Calculator and Notes, and that was it. Apple suggested that programmers build web apps that ran inside Safari instead. Other missing features now seem amazing: there was no copy-and-paste for text, no way to send picture messages (called MMS), no GPS chip, and the 2-megapixel camera could take photos but not record video. You could not change the battery yourself either.",
+        "Some clever owners did not wait for Apple. Within weeks, hobbyists found ways to 'jailbreak' the iPhone, unlocking its software so they could install unofficial apps and games. This showed how badly people wanted to add their own programs, a lesson Apple would act on the following year.",
+        "Hackers also attacked another limit. The iPhone was locked to AT&T in the United States, meaning it would only work with an AT&T SIM card. In August 2007 a 17-year-old American student named George Hotz became famous for being one of the first people to unlock an iPhone so it could be used on another network. Unlocking soon spread around the world, and people in countries where the iPhone was not yet sold began importing and unlocking them.",
+        "Rivals noticed the gaps too. In a 2007 interview, Microsoft's boss Steve Ballmer laughed at the iPhone, calling it 'the most expensive phone in the world' and pointing out that 'it doesn't have a keyboard.' He predicted it would not win much of the market. Many people at BlackBerry and Nokia also doubted that business users would ever give up real keys or that a phone without a keyboard could work well for email. They were not foolish: on paper, the iPhone was missing features their phones already had. What they underestimated was how much people would love how it felt to use."
+      ]
+    },
+    {
+      "heading": "Lines Around the Block: June 29, 2007",
+      "paragraphs": [
+        "The iPhone went on sale in the United States on Friday, June 29, 2007, at 6 p.m. in each time zone. Days before, people started lining up outside Apple and AT&T stores, some with folding chairs, sleeping bags and snacks. Reporters interviewed the people at the front of the lines as if they were waiting for a royal wedding. When the doors opened, store workers clapped and cheered for each customer.",
+        "The prices were high. The 4-gigabyte model cost 499 dollars, and the 8-gigabyte model cost 599 dollars, and both required a two-year contract with AT&T, the company Cingular had become. About 270,000 iPhones were sold in the United States in the first week. The phone reached its one-millionth sale 74 days after launch.",
+        "Then Apple surprised everyone. On September 5, 2007, only about two months after the launch, it dropped the 8-gigabyte iPhone's price from 599 to 399 dollars and stopped selling the 4-gigabyte model. Early buyers who had waited in line felt cheated. Jobs apologised in a public letter, and Apple gave those early customers a 100-dollar store credit. The iPhone went on sale in Germany, Britain and France in November 2007, and later in other countries.",
+        "Reviewers were impressed but careful. They praised the screen, the web browser and the touch controls, and complained about the slow EDGE network and the on-screen keyboard, which took some getting used to. At the end of 2007, Time magazine named the iPhone its Invention of the Year. In all, Apple sold about 6.1 million first-generation iPhones. That was a small number compared with the hundreds of millions of phones Nokia sold each year, but the iPhone's influence was far bigger than its sales. Almost overnight, phone makers everywhere began working on big touchscreens.",
+        "It is important to be fair here. The iPhone did not invent the smartphone. IBM's Simon had a touchscreen in 1994, Nokia's Communicators and Symbian phones ran apps, and BlackBerry and Palm Treo users had carried email in their pockets for years. Even the iPhone's key technologies came from many places: Corning's glass, multi-touch research going back decades, FingerWorks' gestures and ARM-based chips made by Samsung. What Apple did was combine these ideas into one polished, easy-to-use package, and in doing so it changed what people expected a phone to be."
+      ]
+    },
+    {
+      "heading": "The iPhone 3G and an Open Door",
+      "paragraphs": [
+        "Apple did not stand still. On July 11, 2008, about a year after the first iPhone, it released the iPhone 3G. As the name says, it finally supported fast 3G networks. It also added a GPS chip, so maps could show exactly where you were, and its price dropped to 199 dollars with a two-year contract. It launched in 22 countries on its first day and eventually in about 70, far more than the original. By the end of 2008, it had overtaken the Motorola Razr as the best-selling phone in the United States.",
+        "The iPhone 3G arrived with new software that unlocked the biggest change of all: the App Store, which opened on July 10, 2008, a day before the phone went on sale. For the first time, programmers outside Apple could build apps and sell them to iPhone owners all over the world through a single shop. That story, and how it created a whole new industry, gets its own chapter in Part 16.",
+        "The first iPhone was also changing the plans of its rivals. One of them was a company that, back in 2005, had quietly bought a small startup with an interesting project: software for mobile phones. When the iPhone appeared, that team was building a phone that looked rather like a BlackBerry, with a keyboard and a small screen. After watching Jobs on stage, they realized the future had changed. The company was Google, the startup was called Android, and its software was about to change direction and race into battle with the iPhone."
+      ]
+    }
+  ],
+  "deepDive": "Historians of technology often use the iPhone as an example of 'combination innovation': almost nothing inside it was brand new, but the way the parts were combined was. Capacitive touch sensing dates to E. A. Johnson's work in 1965; multi-touch research ran through university labs from the early 1980s; FingerWorks had sold gesture pads since about 1999; ARM processor designs began in 1985; and Corning's strengthened glass was a 1960s invention. The first iPhone's Samsung-made chip used a 32-bit ARM core that could run at 620 MHz but was slowed to 412 MHz to save battery, and the phone had 128 MB of memory and a 1,400 mAh battery. So why did this combination succeed when earlier touchscreen phones did not? Several reasons are usually given. First, a capacitive multi-touch screen made finger control precise enough to drop the stylus. Second, Apple controlled both the hardware and the software, so it could tune the animations and touch response closely. Third, the deal with Cingular gave Apple unusual power over a product that phone networks normally controlled. Fourth, a full web browser made the phone useful from day one even without third-party apps. There are also debates. Some writers argue that the iPhone's true revolution was not the 2007 phone but the 2008 App Store, which turned the phone into a platform for other people's inventions. Jobs had at first resisted third-party apps, encouraging web apps instead, then announced in October 2007 that a software kit for developers would come in early 2008. Others point out that the first iPhone was weaker than rivals on paper: no 3G, no GPS, no video, no apps and a relatively low-resolution camera. Business analysts still argue over how much the iPhone's success came from engineering and how much from design, marketing and timing. Finally, it is worth comparing the numbers. The first iPhone had about 163 pixels per inch and sold about 6.1 million units over roughly a year. Modern phones often exceed 450 pixels per inch, and Apple now sells well over 200 million iPhones in a typical year, a scale that would have been hard to imagine in 2007.",
+  "funFact": "On the same day in January 2007 that Steve Jobs unveiled the iPhone, Apple also announced it was changing its name from Apple Computer, Inc. to Apple Inc.",
+  "check": {
+    "q": "The iPhone's tough Gorilla Glass came from an old Corning experiment. What was it called?",
+    "a": "Chemcor, from Corning's 'Project Muscle' in the 1960s",
+    "wrong": [
+      "Project Purple, invented by Apple in 2006",
+      "Graffiti, from the Palm Pilot in 1996",
+      "FOMA, from NTT Docomo in 2001"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Apple Reinvents the Phone with iPhone (press release, January 9, 2007)",
+      "publisher": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/"
+    },
+    {
+      "title": "iPhone (1st generation)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/IPhone_(1st_generation)"
+    },
+    {
+      "title": "iPhone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/IPhone"
+    },
+    {
+      "title": "Gorilla Glass",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gorilla_Glass"
+    },
+    {
+      "title": "FingerWorks",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/FingerWorks"
+    },
+    {
+      "title": "iPhone 3G",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/IPhone_3G"
+    },
+    {
+      "title": "Apple Inc.",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Apple_Inc."
+    },
+    {
+      "title": "George Hotz",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_Hotz"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Steve Jobs on stage presenting the first iPhone at Macworld San Francisco, January 2007",
+      "search": "Steve Jobs Macworld 2007 iPhone"
+    },
+    {
+      "want": "The original first-generation iPhone (2007) showing its home screen and aluminium back",
+      "search": "iPhone first generation 2007"
+    },
+    {
+      "want": "A FingerWorks TouchStream or iGesture multi-touch keyboard pad from the early 2000s",
+      "search": "FingerWorks TouchStream keyboard"
+    }
+  ]
+}

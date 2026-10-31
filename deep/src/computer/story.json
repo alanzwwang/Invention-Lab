@@ -1,0 +1,534 @@
+{
+  "slug": "computer",
+  "title": "The Computer",
+  "emoji": "💻",
+  "tagline": "From counting beads to thinking machines in 5,000 years",
+  "intro": "Look around you. There is probably a computer within arm's reach right now: in a phone, a laptop, a car key, a fridge or a game controller. But the word 'computer' once meant a person, usually with a pencil, doing sums all day long. How did we get from fingers and pebbles to machines that do billions of calculations every second? In these 20 parts you will slide beads on an abacus, crank the brass gears of Pascal and Babbage, read Ada Lovelace's daring notes, and follow Alan Turing into an imaginary machine that changed mathematics. You will sneak into wartime codebreaking huts, stand beside room-sized ENIAC, and watch the tiny transistor shrink computers onto chips smaller than a fingernail. Then come personal computers, phones, giant supercomputers and artificial intelligence, along with the problems they bring. Finally, we peek into the future. Ready? Let's boot up.",
+  "outline": [
+    {
+      "n": 1,
+      "title": "Fingers, Pebbles and Beads",
+      "when": "about 20,000 BCE – 1500s CE",
+      "covers": [
+        "Counting on fingers and tally marks; the Ishango bone from Central Africa (about 20,000 years old) as a POSSIBLE early tally stick, with its meaning still debated",
+        "Mesopotamian number writing on clay and the Babylonian base-60 system (why we still have 60 minutes and 360 degrees)",
+        "Counting boards and the abacus: the Greek Salamis tablet, the Roman hand abacus, the Chinese suanpan and the Japanese soroban; the word 'calculate' comes from Latin calculus, a small pebble",
+        "The Inca quipu: knotted strings used to record numbers in the Andes",
+        "The Antikythera mechanism: found in a Greek shipwreck in 1901, a geared device from roughly the 2nd or 1st century BCE that modelled the movements of the Sun, Moon and probably planets, and predicted eclipses",
+        "The idea of a 'tool that helps the mind', and that early tools stored numbers but the human still did the thinking"
+      ],
+      "keyFacts": [
+        "The Antikythera mechanism was recovered from a shipwreck off the Greek island of Antikythera in 1900–1901; X-ray CT scans in 2005 revealed thousands of tiny inscription characters and at least 30 surviving bronze gears",
+        "Nobody knows exactly where or when the abacus was invented; counting boards were used in Mesopotamia, Greece and Rome, and the bead suanpan was common in China by about the 1300s–1400s",
+        "Skilled abacus users can still add and subtract very quickly; the abacus remained in everyday use in shops in parts of Asia into the late 20th century",
+        "Babylonian scribes used a base-60 number system about 4,000 years ago"
+      ],
+      "hook": "End with the question: what if the gears of a machine, not the fingers of a person, could do the adding?"
+    },
+    {
+      "n": 2,
+      "title": "Gears That Do Sums",
+      "when": "1614 – 1820s",
+      "covers": [
+        "John Napier's logarithms (1614) and 'Napier's bones' (1617) for multiplication",
+        "The slide rule, invented by William Oughtred in the 1620s and used by engineers until the 1970s",
+        "Wilhelm Schickard's 'calculating clock' (1623), described in letters to Johannes Kepler; the original was lost and later reconstructed from his sketches",
+        "Blaise Pascal's Pascaline (1642), built as a teenager to help his tax-collector father; the carry mechanism",
+        "Gottfried Wilhelm Leibniz's stepped reckoner (designed from the 1670s) that could multiply, and his published work on binary arithmetic (1703)",
+        "Thomas de Colmar's arithmometer (patented 1820), the first calculator made and sold in large numbers"
+      ],
+      "keyFacts": [
+        "Pascal was about 19 when he began work on his calculator in 1642; about 20 Pascalines were made and around 9 survive",
+        "Leibniz published his paper explaining binary (base-2) arithmetic in 1703 and noticed patterns similar to the hexagrams of the Chinese I Ching",
+        "The arithmometer was produced commercially from about 1851 and several thousand were sold over the following decades"
+      ],
+      "hook": "End by noting that machines could now add, but huge books of number tables were still made by hand, by people called computers."
+    },
+    {
+      "n": 3,
+      "title": "When Computers Were People",
+      "when": "1750s – 1900s",
+      "covers": [
+        "'Computer' was a job title: people who calculated tables for navigation, astronomy, banking and engineering",
+        "Predicting the return of Halley's Comet (1758–59): Alexis Clairaut, Jérôme Lalande and Nicole-Reine Lepaute dividing up months of calculation",
+        "Gaspard de Prony's table-making project in revolutionary France (1790s), which split work like a factory into planners and many simple calculators",
+        "Britain's Nautical Almanac and how errors in printed tables could put sailors' lives at risk",
+        "The Jacquard loom (about 1804): punched cards that controlled woven patterns, building on earlier ideas by Basile Bouchon (1725) and Jean-Baptiste Falcon",
+        "The Harvard Observatory 'computers' of the 1880s onward, such as Williamina Fleming and Annie Jump Cannon, who classified stars"
+      ],
+      "keyFacts": [
+        "Clairaut's team predicted Halley's Comet would pass closest to the Sun in mid-April 1759; it did so in mid-March, within about a month of the forecast",
+        "A famous portrait of Joseph-Marie Jacquard was woven in silk on a Jacquard loom using about 24,000 punched cards; Charles Babbage owned a copy",
+        "Annie Jump Cannon classified hundreds of thousands of stars and helped create the star classification system still used today (O, B, A, F, G, K, M)"
+      ],
+      "hook": "End with a young Englishman checking a book of tables, finding mistake after mistake, and wishing the calculations could be 'executed by steam'."
+    },
+    {
+      "n": 4,
+      "title": "Babbage's Engines",
+      "when": "1821 – 1871 (and 1991)",
+      "covers": [
+        "Charles Babbage, mathematician and inventor, and the famous (reported) 1821 wish that tables could be calculated by steam",
+        "The Difference Engine (proposed 1822): the method of finite differences explained simply, so a machine only needs to add",
+        "Engineer Joseph Clement, government funding of about £17,000, and why work stopped in 1833 (a dispute and rising costs), leaving a demonstration piece",
+        "The Analytical Engine (designed from 1834): the 'mill' (like a processor) and the 'store' (like memory), punched cards borrowed from Jacquard, and the ability to make decisions based on results",
+        "Why it was never built in his lifetime; his son Henry Babbage later assembled part of the mill",
+        "The Science Museum in London building Difference Engine No. 2 from Babbage's drawings (completed 1991, printer added 2000), proving the design works"
+      ],
+      "keyFacts": [
+        "Difference Engine No. 2, finished in 1991 for the 200th anniversary of Babbage's birth, has about 8,000 parts, weighs about 5 tonnes and is about 3.4 metres long",
+        "Babbage designed Difference Engine No. 2 between 1847 and 1849",
+        "The Analytical Engine's store was planned to hold 1,000 numbers of 40 decimal digits each"
+      ],
+      "hook": "End with Babbage meeting a brilliant young woman who understood his engine better than almost anyone: Ada Lovelace."
+    },
+    {
+      "n": 5,
+      "title": "Ada Lovelace and the Poetry of Numbers",
+      "when": "1833 – 1852",
+      "covers": [
+        "Ada Byron (later Countess of Lovelace), born 1815, daughter of the poet Lord Byron and mathematician Annabella Milbanke; her tutors including Mary Somerville and Augustus De Morgan",
+        "Meeting Babbage in 1833 at one of his parties and seeing the Difference Engine demonstration piece",
+        "Luigi Menabrea's 1842 French article on the Analytical Engine and Ada's 1843 English translation with her own Notes A to G, about three times longer than the article",
+        "Note G: a step-by-step method (an algorithm) for the engine to calculate Bernoulli numbers",
+        "Her big idea: the engine could work on any symbols, not just numbers, perhaps even music; and her caution that the engine cannot 'originate anything'",
+        "Fair credit: she is often called the first computer programmer; historians debate how much was hers and how much Babbage's, but the vision in the Notes is widely credited to her",
+        "Her death in 1852 at age 36, and her legacy: the Ada programming language (1980) and Ada Lovelace Day"
+      ],
+      "keyFacts": [
+        "Ada Lovelace was born on 10 December 1815 and died on 27 November 1852",
+        "Her translation with Notes was published in 1843 and signed only with her initials, A.A.L.",
+        "Babbage had sketched some programs for the engine before 1843, which is part of why historians debate the 'first programmer' title"
+      ],
+      "hook": "End by saying that after Babbage died in 1871 his engines were mostly forgotten, but punched cards were about to return in a big way."
+    },
+    {
+      "n": 6,
+      "title": "Punched Cards, Logic and Brass Brains",
+      "when": "1847 – 1930s",
+      "covers": [
+        "George Boole's algebra of logic (1847, 1854): TRUE and FALSE treated like numbers, which later became the basis of computer circuits",
+        "Herman Hollerith's electric tabulating machine for the 1890 US Census: holes in cards completed electric circuits and moved counting dials",
+        "Hollerith's Tabulating Machine Company (1896), which merged into a firm renamed IBM in 1924",
+        "Analog computers: Lord Kelvin's tide-predicting machine (1870s) and Vannevar Bush's differential analyzer at MIT (1931); the difference between analog (smooth quantities) and digital (counted steps)",
+        "Leonardo Torres Quevedo of Spain: his chess-endgame automaton (1912) and 1914 writings on automatic calculating machines",
+        "Offices filling with punched-card machines for payrolls, insurance and railways"
+      ],
+      "keyFacts": [
+        "The 1880 US Census took about 8 years to process by hand; with Hollerith's machines the first population count for 1890 was announced within a few months",
+        "Boole published 'The Laws of Thought' in 1854",
+        "Bush's differential analyzer weighed many tonnes and solved equations using rotating shafts, gears and wheel-and-disc integrators"
+      ],
+      "hook": "End with a 23-year-old Cambridge mathematician asking a puzzling question: what exactly can be computed at all?"
+    },
+    {
+      "n": 7,
+      "title": "Turing's Imaginary Machine",
+      "when": "1936 – 1938",
+      "covers": [
+        "David Hilbert's challenge, the 'decision problem' (Entscheidungsproblem): is there a mechanical method to decide any maths statement?",
+        "Alan Turing's 1936 paper 'On Computable Numbers': an imaginary machine with an endless tape, a read/write head and a table of rules",
+        "The universal Turing machine: one machine that can imitate any other if given its rules as data, the seed of the idea of software",
+        "Some problems can never be solved by any computer (explain the halting problem simply)",
+        "Alonzo Church reached the same answer by a different route in 1936; Turing went to Princeton to study with him",
+        "Claude Shannon's 1937 master's thesis showing Boolean logic could be built from electrical switches and relays"
+      ],
+      "keyFacts": [
+        "Alan Turing was born on 23 June 1912 in London",
+        "Turing's paper was submitted in 1936 and published in the Proceedings of the London Mathematical Society (1936–37)",
+        "Shannon's thesis, 'A Symbolic Analysis of Relay and Switching Circuits', was written at MIT in 1937 and published in 1938"
+      ],
+      "hook": "End by noting that while Turing imagined machines on paper, engineers in several countries were already building real ones, from relays and glowing tubes."
+    },
+    {
+      "n": 8,
+      "title": "Clicking Relays and Glowing Tubes",
+      "when": "1936 – 1944",
+      "covers": [
+        "Konrad Zuse in Berlin: the mechanical Z1 (1938) built in his parents' living room, and the Z3 (1941), a working programmable, binary, relay-based computer; the Z3 was destroyed in a 1943 air raid and later rebuilt",
+        "George Stibitz at Bell Labs: the 'Model K' relay adder (1937) built at his kitchen table, and the 1940 remote demonstration over telephone lines",
+        "John Atanasoff and Clifford Berry at Iowa State: the Atanasoff–Berry Computer (designed 1937–1942), electronic but not programmable",
+        "Howard Aiken's Harvard Mark I (built with IBM, working 1944), a huge electromechanical calculator controlled by punched paper tape",
+        "How relays (electromagnetic switches) and vacuum tubes (glass valves with no moving parts) work as on/off switches, and why tubes are much faster",
+        "Fair credit: there is no single 'first computer'; each machine was first in a different way"
+      ],
+      "keyFacts": [
+        "The Z3 used about 2,600 relays and was completed in May 1941",
+        "The Atanasoff–Berry Computer used about 300 vacuum tubes and stored numbers on rotating drums of capacitors",
+        "The Harvard Mark I was about 15 metres (51 feet) long and weighed about 4–5 tonnes"
+      ],
+      "hook": "End with a war spreading across the world, and secret messages that only machines might be fast enough to crack."
+    },
+    {
+      "n": 9,
+      "title": "Codebreakers at War",
+      "when": "1932 – 1945",
+      "covers": [
+        "The German Enigma machine: rotors, plugboard and why its settings changed every day",
+        "The Polish Cipher Bureau: Marian Rejewski, Jerzy Różycki and Henryk Zygalski first broke Enigma in 1932–33 and built the 'bomba' (1938); in July 1939 they shared their work with Britain and France",
+        "Bletchley Park in England: Alan Turing and Gordon Welchman designed the British Bombe (first working 1940), built by Harold 'Doc' Keen's team at the British Tabulating Machine Company",
+        "The harder Lorenz cipher ('Tunny'): Bill Tutte worked out its structure without ever seeing the machine; Max Newman's section",
+        "Tommy Flowers, a Post Office engineer, built Colossus, an electronic machine with about 1,600 (Mark 1) and 2,400 (Mark 2) vacuum tubes, working by early 1944 and the Mark 2 in time for D-Day, June 1944",
+        "The thousands of people, about three-quarters of them women (including Wrens of the Women's Royal Naval Service), who operated the machines; secrecy kept their work hidden until the 1970s",
+        "Colossus was programmable by switches and plugs but was a special-purpose codebreaking machine, not a general computer; a working rebuild was completed in 2007"
+      ],
+      "keyFacts": [
+        "About 10,000 people worked at Bletchley Park and its outstations by 1945",
+        "Ten Colossus machines were working by the end of the war in Europe; most were dismantled afterwards",
+        "Around 200 British Bombes were built during the war"
+      ],
+      "hook": "End by crossing the Atlantic, where a giant American machine was being built to calculate artillery tables, and would become famous."
+    },
+    {
+      "n": 10,
+      "title": "ENIAC, the Giant Brain",
+      "when": "1943 – 1955",
+      "covers": [
+        "John Mauchly and J. Presper Eckert at the University of Pennsylvania's Moore School, funded by the US Army to compute artillery firing tables",
+        "ENIAC's size and power: 17,468 vacuum tubes, about 27 tonnes, filling a large room, about 5,000 additions per second",
+        "Its public unveiling in February 1946 and newspaper headlines calling it a 'giant brain'",
+        "Programming by hand: plugging cables and setting switches, which could take days",
+        "The six original programmers: Kay McNulty, Betty Jennings (Jean Bartik), Betty Snyder (Holberton), Marlyn Wescoff, Frances Bilas and Ruth Lichterman, and how they were overlooked for decades",
+        "Keeping tubes alive: failures, and running tubes at low power to make them last",
+        "The 1973 court case (Honeywell v. Sperry Rand) that ruled the ENIAC patent invalid, partly because of Atanasoff's earlier work"
+      ],
+      "keyFacts": [
+        "ENIAC used about 150 kilowatts of electricity and occupied about 167 square metres (1,800 square feet)",
+        "ENIAC was announced to the public on 14 February 1946 and was switched off for the last time in October 1955",
+        "One of ENIAC's first big jobs, in late 1945, was a calculation for nuclear weapons research at Los Alamos"
+      ],
+      "hook": "End with a problem: to change ENIAC's program you had to rewire it. What if the program could be stored inside the memory, like the numbers?"
+    },
+    {
+      "n": 11,
+      "title": "Machines That Remember Their Programs",
+      "when": "1945 – 1952",
+      "covers": [
+        "The stored-program idea: instructions kept in memory just like data, so a computer can switch jobs in seconds",
+        "John von Neumann's 'First Draft of a Report on the EDVAC' (1945), the 'von Neumann architecture', and the controversy because only his name appeared though Eckert and Mauchly shared the ideas",
+        "The Manchester 'Baby' (Small-Scale Experimental Machine) by Freddie Williams, Tom Kilburn and Geoff Tootill, which ran the first stored program on 21 June 1948, using a Williams tube (a TV-like screen) as memory",
+        "EDSAC at Cambridge (Maurice Wilkes, first ran 6 May 1949), the first stored-program computer in regular use for scientists; David Wheeler's subroutines",
+        "The first computers for sale: Ferranti Mark 1 (1951) and UNIVAC I (first delivered 1951), and UNIVAC predicting the 1952 US presidential election on TV",
+        "LEO I, built by the British tea-shop company J. Lyons, the first computer to run regular business jobs (1951)"
+      ],
+      "keyFacts": [
+        "The Manchester Baby had a memory of just 32 words; its first program ran for 52 minutes to find the highest factor of 2 to the power 18 (262,144)",
+        "UNIVAC predicted Eisenhower's landslide win in 1952 from early returns; the TV network at first doubted the prediction",
+        "Only about 46 UNIVAC I machines were built"
+      ],
+      "hook": "End with the weak point of all these machines: hot, fragile vacuum tubes. In a New Jersey lab, three scientists were about to replace them."
+    },
+    {
+      "n": 12,
+      "title": "The Tiny Transistor",
+      "when": "1947 – 1960",
+      "covers": [
+        "Bell Labs: John Bardeen and Walter Brattain's point-contact transistor (December 1947) and William Shockley's junction transistor design (1948)",
+        "Semiconductors explained simply: materials like germanium and silicon whose ability to carry current can be controlled; a transistor as a switch with no moving parts",
+        "The 1956 Nobel Prize in Physics for all three; Bardeen later won a second physics Nobel (1972)",
+        "Transistor radios (Regency TR-1, 1954) and the first transistor computers (Manchester 1953, Bell Labs' TRADIC 1954)",
+        "Magnetic-core memory (Jay Forrester and the Whirlwind computer at MIT): tiny rings of magnetic material storing 1s and 0s",
+        "Shockley's lab in California, the 'traitorous eight' who left in 1957 to start Fairchild Semiconductor, and the birth of what became Silicon Valley"
+      ],
+      "keyFacts": [
+        "The point-contact transistor was first shown to Bell Labs managers on 23 December 1947 and announced publicly on 30 June 1948",
+        "Gordon Teal at Texas Instruments made the first commercial silicon transistors in 1954",
+        "The 'traitorous eight' included Robert Noyce, Gordon Moore and Jean Hoerni"
+      ],
+      "hook": "End with engineers drowning in wires: thousands of separate transistors had to be soldered together by hand. Could a whole circuit be made in one piece?"
+    },
+    {
+      "n": 13,
+      "title": "Chips and the Computer on a Chip",
+      "when": "1958 – 1974",
+      "covers": [
+        "Jack Kilby at Texas Instruments demonstrates the first integrated circuit on germanium (12 September 1958)",
+        "Robert Noyce at Fairchild designs a silicon integrated circuit (1959) using Jean Hoerni's planar process; both men are credited as co-inventors of the chip",
+        "The Apollo Guidance Computer (MIT Instrumentation Lab) as an early big user of chips",
+        "Gordon Moore's 1965 prediction ('Moore's law'): the number of components on a chip doubling regularly (every year, revised in 1975 to every two years)",
+        "Noyce and Moore found Intel in 1968",
+        "The Intel 4004 microprocessor (1971), designed for the Japanese Busicom calculator by Federico Faggin, Ted Hoff, Stanley Mazor and Masatoshi Shima; similar work at Texas Instruments and elsewhere around the same time; the Intel 8080 (1974)"
+      ],
+      "keyFacts": [
+        "The Intel 4004 had about 2,300 transistors and ran at about 740 kHz",
+        "Kilby received the Nobel Prize in Physics in 2000; Noyce had died in 1990, and Nobel Prizes are not given after death",
+        "The Apollo Guidance Computer used a few thousand identical simple chips, each containing logic gates"
+      ],
+      "hook": "End by inviting the reader to shrink down and step inside one of these chips to see what really happens when a computer 'thinks'."
+    },
+    {
+      "n": 14,
+      "title": "Inside the Machine: Bits, Gates and the Clock",
+      "when": "How it works",
+      "covers": [
+        "Binary: why computers use only 0 and 1 (switches are reliable when they only have to be on or off); counting in binary; bits and bytes (8 bits)",
+        "Logic gates (AND, OR, NOT) built from transistors, with everyday examples; how gates combine into an adder",
+        "The main parts: the CPU (control unit, arithmetic logic unit, registers), memory (RAM), storage, input and output; compare with Babbage's mill and store",
+        "The fetch–decode–execute cycle and the clock that ticks billions of times per second (gigahertz)",
+        "How chips are made: purified silicon, wafers, photolithography (printing patterns with light), clean rooms",
+        "Text, pictures and sound all turned into numbers (for example, letters as codes and images as grids of coloured pixels)"
+      ],
+      "keyFacts": [
+        "One byte (8 bits) can represent 256 different values (0 to 255)",
+        "A 3 GHz processor's clock ticks about 3 billion times per second",
+        "Modern laptop and phone chips contain tens of billions of transistors, and the largest AI chips more than 100 billion"
+      ],
+      "hook": "End by pointing out that all this hardware does nothing on its own; it needs instructions written by people, called software."
+    },
+    {
+      "n": 15,
+      "title": "Teaching Machines to Understand Us: Software",
+      "when": "1947 – 1970s",
+      "covers": [
+        "Machine code and assembly language, and why writing in raw numbers was slow and error-prone",
+        "Grace Hopper: the Harvard Mark II logbook moth (9 September 1947, 'first actual case of bug being found'), her A-0 compiler (1952) and FLOW-MATIC, which influenced COBOL (1959, designed by a committee)",
+        "FORTRAN (1957, John Backus's team at IBM) for scientists, LISP (1958, John McCarthy) and BASIC (1964, John Kemeny and Thomas Kurtz at Dartmouth) for students",
+        "Mainframes and the IBM System/360 family (announced 1964); time-sharing letting many people use one computer through terminals",
+        "Space-age software: Dorothy Vaughan learning FORTRAN and teaching her team at NASA; Katherine Johnson checking the computer's orbit numbers for John Glenn's 1962 flight; Margaret Hamilton leading Apollo flight software, which handled the '1202' alarms during the Apollo 11 landing in 1969",
+        "Operating systems: UNIX (1969, Ken Thompson and Dennis Ritchie at Bell Labs) and the C language (about 1972)"
+      ],
+      "keyFacts": [
+        "Hopper's 1947 moth is kept at the Smithsonian's National Museum of American History; engineers had already used the word 'bug' for faults since at least the 1870s",
+        "BASIC programs first ran at Dartmouth on 1 May 1964",
+        "Margaret Hamilton received the US Presidential Medal of Freedom in 2016"
+      ],
+      "hook": "End by noting that computers were still huge, expensive machines owned by governments, universities and big companies. Could one ever fit on a desk at home?"
+    },
+    {
+      "n": 16,
+      "title": "A Computer on Every Desk",
+      "when": "1968 – 1985",
+      "covers": [
+        "Douglas Engelbart's 'Mother of All Demos' (9 December 1968): the mouse, windows, hypertext and video calls shown live",
+        "Xerox PARC's Alto (1973): a graphical interface with windows, icons and a mouse",
+        "The Altair 8800 kit (1975), the Homebrew Computer Club, and Bill Gates and Paul Allen founding Microsoft (1975) to make BASIC for the Altair",
+        "Steve Wozniak and Steve Jobs founding Apple (1976); the Apple II, Commodore PET and Tandy TRS-80, the '1977 trinity'; VisiCalc (1979), the first spreadsheet program for personal computers",
+        "The IBM PC (1981) with Microsoft's MS-DOS, and the many 'IBM-compatible' clones",
+        "Home computers around the world: BBC Micro (1981), Sinclair ZX Spectrum and Commodore 64 (1982); kids learning to program at home",
+        "Time magazine's 'Machine of the Year' (the computer, for 1982) and the Apple Macintosh (1984) bringing a mouse-driven interface to the public"
+      ],
+      "keyFacts": [
+        "The Altair 8800 appeared on the cover of Popular Electronics magazine in January 1975 and was sold mainly as a kit",
+        "The IBM PC was launched on 12 August 1981",
+        "The Commodore 64 is often called the best-selling single computer model, with estimates of about 12 to 17 million sold"
+      ],
+      "hook": "End by noting that once computers reached homes, they quickly spread into pockets, cars, toys and almost everything else."
+    },
+    {
+      "n": 17,
+      "title": "Computers Everywhere",
+      "when": "1962 – 2020s",
+      "covers": [
+        "Games: Spacewar! (1962, MIT), Pong (1972, Atari) and home consoles; games pushing graphics hardware forward",
+        "Windows and point-and-click computing becoming normal (Windows 1.0 in 1985, Windows 95)",
+        "Portables and laptops: the Osborne 1 (1981) and later notebooks",
+        "Acorn's ARM chip (1985, designed by Sophie Wilson and Steve Furber), built to use very little power, now inside almost every smartphone",
+        "Smartphones: IBM Simon (1994), the iPhone (announced January 2007) and Android phones (2008); tablets",
+        "Hidden 'embedded' computers in cars, washing machines, medical devices and toys; the Raspberry Pi (2012) as a cheap computer for learning",
+        "How computers changed work (offices, design, factories, banking) and science; mention that the Internet and the Web have their own separate story"
+      ],
+      "keyFacts": [
+        "The first ARM chip ran correctly the first time it was switched on in April 1985",
+        "Tens of billions of ARM-based chips are shipped every few years; more than 250 billion had been made by the early 2020s",
+        "More than 60 million Raspberry Pi computers had been sold by 2024"
+      ],
+      "hook": "End with a warning: anything this powerful and this everywhere also brings new problems."
+    },
+    {
+      "n": 18,
+      "title": "Bugs, Waste and Worries",
+      "when": "1980s – today",
+      "covers": [
+        "Famous software failures: the Ariane 5 rocket (1996) destroyed by a number too big for its variable; the Mars Climate Orbiter (1999) lost through a mix-up between metric and imperial units",
+        "The Y2K 'millennium bug': two-digit years, a huge worldwide repair effort, and why little went wrong on 1 January 2000",
+        "Computer viruses and malware, starting with early examples like Brain (1986); passwords, privacy and data being collected",
+        "Electronic waste and the mining of materials such as cobalt and tantalum, sometimes in harmful conditions; repair and recycling",
+        "Energy and water use of data centres and chip factories",
+        "Fairness: the digital divide; and how women, who did much early programming, became a smaller share of computer science students from the mid-1980s",
+        "Screen time and online safety, presented calmly and balanced"
+      ],
+      "keyFacts": [
+        "The world produced about 62 million tonnes of electronic waste in 2022, and only about 22% was documented as properly collected and recycled (Global E-waste Monitor 2024)",
+        "Data centres used about 1.5% of the world's electricity in 2024, according to the International Energy Agency",
+        "In the United States, women earned about 37% of computer science bachelor's degrees in the mid-1980s, falling to under 20% by the 2010s"
+      ],
+      "hook": "End by turning to the most powerful computers of all: machines the size of a basketball court, and the new 'thinking' software they run."
+    },
+    {
+      "n": 19,
+      "title": "Supercomputers and Artificial Intelligence",
+      "when": "1950 – 2020s",
+      "covers": [
+        "Seymour Cray: the CDC 6600 (1964) and the C-shaped Cray-1 (1976); FLOPS explained (calculations per second); the TOP500 list since 1993",
+        "Exascale: Frontier at Oak Ridge (2022) as the first machine officially to pass a quintillion calculations per second; El Capitan at Lawrence Livermore topping the list from November 2024; uses in weather, climate, medicine and physics",
+        "Turing's 1950 'imitation game' (Turing test) and the 1956 Dartmouth workshop where John McCarthy's group launched 'artificial intelligence' as a field; ups and downs called 'AI winters'",
+        "Milestones: IBM's Deep Blue beats chess champion Garry Kasparov (1997); AlphaGo beats Lee Sedol at Go (2016)",
+        "Machine learning and neural networks explained simply: learning patterns from examples; GPUs from gaming powering the 2012 deep-learning breakthrough (AlexNet)",
+        "AlphaFold predicting protein shapes; chatbots built on large language models (ChatGPT, released November 2022); what AI can and cannot do, and why it can make confident mistakes",
+        "Nobel Prizes in 2024: Physics to John Hopfield and Geoffrey Hinton for neural network foundations; Chemistry partly to Demis Hassabis and John Jumper for AlphaFold (shared with David Baker)"
+      ],
+      "keyFacts": [
+        "The Cray-1 could perform about 160 million floating-point operations per second; Frontier passed 1 quintillion (a billion billion) per second",
+        "The first computer weather forecasts were run on ENIAC in 1950",
+        "Deep Blue won its 1997 rematch against Kasparov by 3.5 to 2.5; AlphaGo beat Lee Sedol 4 games to 1 in March 2016"
+      ],
+      "hook": "End by asking what comes next when transistors are almost as small as atoms."
+    },
+    {
+      "n": 20,
+      "title": "The Next Computer, and the Long Road Here",
+      "when": "Today and tomorrow",
+      "covers": [
+        "Moore's law slowing as features approach the size of a few atoms; new tricks such as 3D stacking and specialised chips",
+        "Quantum computers explained simply: qubits, Richard Feynman's 1981 idea, Peter Shor's 1994 algorithm, Google's 2019 'quantum supremacy' claim (disputed by IBM), and why they will help with some problems but not replace ordinary computers",
+        "Other experiments: brain-inspired (neuromorphic) chips, computing with light, and storing data in DNA",
+        "The big questions: energy use, fairness, jobs and keeping humans in charge of AI",
+        "Tying it together: the abacus stored numbers, Pascal's gears added, Jacquard's cards gave instructions, Babbage's mill and store became the CPU and memory, Lovelace saw symbols beyond numbers, Turing defined computing, and tubes, transistors and chips made it fast and small",
+        "A closing message: the computer was built by many people across many countries over thousands of years, and the reader could be one of the next"
+      ],
+      "keyFacts": [
+        "Shor's algorithm (1994) showed a large enough quantum computer could factor huge numbers quickly, which threatens some of today's encryption",
+        "Today's quantum computers have from dozens to around a thousand or so physical qubits, and errors are still a major challenge",
+        "ENIAC weighed about 27 tonnes; a modern smartphone weighs about 200 grams and is millions of times faster"
+      ],
+      "hook": "End the whole story with an invitation: the next part of the computer's story has not been written yet."
+    }
+  ],
+  "people": [
+    "Wilhelm Schickard (1592–1635) — German professor who designed a 'calculating clock' in 1623, described in letters to Kepler",
+    "John Napier (1550–1617) — Scottish mathematician who invented logarithms and 'Napier's bones'",
+    "William Oughtred (1574–1660) — English mathematician credited with inventing the slide rule",
+    "Blaise Pascal (1623–1662) — French mathematician and philosopher who built the Pascaline adding machine",
+    "Gottfried Wilhelm Leibniz (1646–1716) — German polymath who built the stepped reckoner and published binary arithmetic",
+    "Thomas de Colmar (1785–1870) — French inventor of the arithmometer, the first mass-produced calculator",
+    "Nicole-Reine Lepaute (1723–1788) — French astronomer who helped calculate the return of Halley's Comet",
+    "Alexis Clairaut (1713–1765) — French mathematician who led the Halley's Comet calculation",
+    "Gaspard de Prony (1755–1839) — French engineer who organised large-scale table-making by teams of human calculators",
+    "Joseph-Marie Jacquard (1752–1834) — French weaver whose loom used punched cards to control patterns",
+    "Basile Bouchon (active 1720s) — French textile worker who used perforated paper to control a loom in 1725",
+    "Charles Babbage (1791–1871) — English mathematician who designed the Difference and Analytical Engines",
+    "Joseph Clement (1779–1844) — engineer who built parts of Babbage's Difference Engine",
+    "Ada Lovelace (1815–1852) — English mathematician whose 1843 Notes described programming the Analytical Engine and its wider possibilities",
+    "Mary Somerville (1780–1872) — Scottish scientist and writer who mentored Ada Lovelace",
+    "Augustus De Morgan (1806–1871) — English mathematician and logician who tutored Ada Lovelace",
+    "Luigi Menabrea (1809–1896) — Italian engineer (later prime minister) who wrote the article on the Analytical Engine that Ada translated",
+    "George Boole (1815–1864) — English mathematician whose algebra of logic underlies digital circuits",
+    "Herman Hollerith (1860–1929) — American inventor of the electric punched-card tabulator; his company became part of IBM",
+    "Lord Kelvin (William Thomson) (1824–1907) — British physicist who built a tide-predicting machine",
+    "Vannevar Bush (1890–1974) — American engineer who built the differential analyzer at MIT",
+    "Leonardo Torres Quevedo (1852–1936) — Spanish engineer who built a chess-playing automaton and wrote about automatic calculation",
+    "Williamina Fleming (1857–1911) — Scottish-born astronomer and leader of the Harvard Observatory computers",
+    "Annie Jump Cannon (1863–1941) — American astronomer who classified stars at Harvard",
+    "Alan Turing (1912–1954) — English mathematician who defined computation, worked on codebreaking at Bletchley Park and wrote about machine intelligence",
+    "Alonzo Church (1903–1995) — American logician who solved the decision problem independently in 1936",
+    "Claude Shannon (1916–2001) — American engineer who linked Boolean logic to switching circuits and founded information theory",
+    "Konrad Zuse (1910–1995) — German engineer who built the Z1, Z3 and Z4 computers",
+    "George Stibitz (1904–1995) — Bell Labs mathematician who built early relay calculators",
+    "John Atanasoff (1903–1995) — American physicist who designed the Atanasoff–Berry Computer",
+    "Clifford Berry (1918–1963) — graduate student who built the Atanasoff–Berry Computer with Atanasoff",
+    "Howard Aiken (1900–1973) — Harvard physicist who conceived the Harvard Mark I",
+    "Marian Rejewski (1905–1980) — Polish mathematician who first broke Enigma",
+    "Jerzy Różycki (1909–1942) — Polish codebreaker who worked on Enigma",
+    "Henryk Zygalski (1908–1978) — Polish codebreaker who invented Zygalski sheets for Enigma",
+    "Gordon Welchman (1906–1985) — British mathematician who improved the Bombe with the diagonal board",
+    "Harold 'Doc' Keen (1894–1973) — engineer who led the building of the British Bombes",
+    "Bill Tutte (1917–2002) — British-Canadian mathematician who worked out the Lorenz cipher's structure",
+    "Max Newman (1897–1984) — mathematician who led the section using machines against Lorenz",
+    "Tommy Flowers (1905–1998) — Post Office engineer who designed and built Colossus",
+    "John Mauchly (1907–1980) — American physicist, co-designer of ENIAC and UNIVAC",
+    "J. Presper Eckert (1919–1995) — American engineer, co-designer of ENIAC and UNIVAC",
+    "Kay McNulty (1921–2006) — one of the six original ENIAC programmers",
+    "Jean Bartik (Betty Jennings) (1924–2011) — one of the six original ENIAC programmers",
+    "Betty Holberton (Betty Snyder) (1917–2001) — ENIAC programmer who later worked on UNIVAC and COBOL",
+    "Marlyn Wescoff (1922–2008) — one of the six original ENIAC programmers",
+    "Frances Bilas (1922–2012) — one of the six original ENIAC programmers",
+    "Ruth Lichterman (1924–1986) — one of the six original ENIAC programmers",
+    "John von Neumann (1903–1957) — Hungarian-American mathematician who wrote the EDVAC report describing the stored-program design",
+    "Freddie Williams (1911–1977) — British engineer who invented the Williams tube memory and co-built the Manchester Baby",
+    "Tom Kilburn (1921–2001) — British engineer who co-built the Manchester Baby and wrote its first program",
+    "Geoff Tootill (1922–2017) — engineer on the Manchester Baby team",
+    "Maurice Wilkes (1913–2010) — British computer scientist who led the building of EDSAC",
+    "David Wheeler (1927–2004) — Cambridge computer scientist who developed early subroutines",
+    "John Bardeen (1908–1991) — American physicist, co-inventor of the transistor, two-time physics Nobel winner",
+    "Walter Brattain (1902–1987) — American physicist, co-inventor of the transistor",
+    "William Shockley (1910–1989) — American physicist who designed the junction transistor; his later views on race were widely condemned",
+    "Gordon Teal (1907–2003) — Texas Instruments scientist who made early silicon transistors",
+    "Jay Forrester (1918–2016) — MIT engineer who developed magnetic-core memory for Whirlwind",
+    "Jack Kilby (1923–2005) — Texas Instruments engineer who built the first integrated circuit",
+    "Robert Noyce (1927–1990) — co-founder of Fairchild and Intel, co-inventor of the silicon integrated circuit",
+    "Jean Hoerni (1924–1997) — Swiss-born physicist who invented the planar process",
+    "Gordon Moore (1929–2023) — co-founder of Intel, known for Moore's law",
+    "Federico Faggin (born 1941) — Italian-American engineer who led the design of the Intel 4004",
+    "Ted Hoff (born 1937) — Intel engineer who proposed the 4004's architecture",
+    "Stanley Mazor (born 1941) — Intel engineer who worked on the 4004",
+    "Masatoshi Shima (born 1943) — Japanese engineer at Busicom who helped design the 4004",
+    "Grace Hopper (1906–1992) — US Navy rear admiral and computer scientist who pioneered compilers",
+    "John Backus (1924–2007) — IBM computer scientist who led the creation of FORTRAN",
+    "John McCarthy (1927–2011) — American computer scientist who named 'artificial intelligence' and created LISP",
+    "John Kemeny (1926–1992) and Thomas Kurtz (1928–2024) — Dartmouth professors who created BASIC",
+    "Dorothy Vaughan (1910–2008) — NASA mathematician who led a computing group and taught FORTRAN",
+    "Katherine Johnson (1918–2020) — NASA mathematician who calculated space-flight paths",
+    "Margaret Hamilton (born 1936) — American computer scientist who led Apollo flight software development",
+    "Ken Thompson (born 1943) and Dennis Ritchie (1941–2011) — Bell Labs creators of UNIX; Ritchie also created C",
+    "Douglas Engelbart (1925–2013) — American engineer who invented the computer mouse with Bill English and gave the 1968 demo",
+    "Bill Gates (born 1955) and Paul Allen (1953–2018) — co-founders of Microsoft",
+    "Steve Wozniak (born 1950) and Steve Jobs (1955–2011) — co-founders of Apple",
+    "Dan Bricklin (born 1951) and Bob Frankston (born 1949) — creators of VisiCalc",
+    "Sophie Wilson (born 1957) and Steve Furber (born 1953) — British designers of the ARM processor",
+    "Seymour Cray (1925–1996) — American engineer known as the father of supercomputing",
+    "Garry Kasparov (born 1963) — world chess champion who played IBM's Deep Blue",
+    "Lee Sedol (born 1983) — South Korean Go champion who played AlphaGo",
+    "Geoffrey Hinton (born 1947) and John Hopfield (born 1933) — neural network pioneers, 2024 Nobel Prize in Physics",
+    "Demis Hassabis (born 1976) and John Jumper (born 1985) — AlphaFold leaders, 2024 Nobel Prize in Chemistry (shared with David Baker)",
+    "Richard Feynman (1918–1988) — American physicist who proposed quantum computers in 1981",
+    "Peter Shor (born 1959) — American mathematician who found a quantum factoring algorithm in 1994"
+  ],
+  "glossary": [
+    "computer — today, a machine that follows a stored list of instructions to process information; before about 1950 it usually meant a person who did calculations",
+    "analog — working with smoothly changing quantities, like the angle of a gear or a voltage",
+    "digital — working with separate counted steps, usually the digits 0 and 1",
+    "binary — a number system using only two digits, 0 and 1",
+    "bit — one binary digit, a single 0 or 1; byte — a group of 8 bits",
+    "algorithm — a precise step-by-step method for solving a problem",
+    "program — a set of instructions telling a computer what to do; software is the general name for programs",
+    "relay — an electrically controlled switch with a moving metal contact",
+    "vacuum tube (valve) — a glass tube with no air inside that can switch or amplify electric current with no moving parts",
+    "transistor — a tiny switch or amplifier with no moving parts, made from a semiconductor (a material such as silicon whose ability to carry electricity can be precisely controlled)",
+    "integrated circuit (chip) — many transistors and connections made together on one small piece of silicon",
+    "microprocessor — a whole processor (CPU) on a single chip",
+    "CPU — the central processing unit, the part that carries out instructions; Babbage called it the 'mill'",
+    "memory (RAM) — fast working storage that holds programs and data while they are being used; Babbage called it the 'store'",
+    "logic gate — a tiny circuit that gives an output from inputs following a rule such as AND, OR or NOT",
+    "compiler — a program that translates code written in a human-friendly language into machine code",
+    "FLOPS — floating-point operations per second, a measure of how fast a computer does calculations with decimals",
+    "artificial intelligence (AI) — computer systems that perform tasks we usually think need human intelligence, such as recognising images or using language",
+    "machine learning — a way of making programs improve by finding patterns in lots of examples instead of following only hand-written rules",
+    "qubit — the basic unit of a quantum computer, which can be in a combination of 0 and 1 at the same time"
+  ],
+  "doNotSay": [
+    "Do not say any single machine was simply 'the first computer'; Z3, Atanasoff–Berry, Colossus, ENIAC and the Manchester Baby were each first in different ways",
+    "Do not say the abacus was definitely invented in China; its origins are uncertain and counting boards existed in Mesopotamia, Greece and Rome",
+    "Do not call the Antikythera mechanism a computer like ours or suggest it was alien or magical; it was a geared astronomical calculator",
+    "Do not say Pascal built the very first mechanical calculator; Schickard designed one earlier (1623)",
+    "Do not say Leibniz invented the idea of two-valued systems from nothing; he developed and published binary arithmetic",
+    "Do not say Jacquard invented punched control; Bouchon and Falcon used perforated paper and cards on looms earlier",
+    "Do not say Babbage built the Analytical Engine; it was never completed",
+    "Do not say Babbage's engines were impossible with Victorian technology; the 1991 Difference Engine No. 2 was built to tolerances achievable in his time",
+    "Do not say Ada Lovelace invented the computer, or state as undisputed fact that she wrote the very first program; say she is often called the first computer programmer and that historians debate it",
+    "Do not say Alan Turing alone broke Enigma or that he built Colossus; Polish codebreakers broke Enigma first and Tommy Flowers built Colossus",
+    "Do not repeat the myth that the Apple logo is a tribute to Alan Turing; its designer has said it is not",
+    "Do not claim certainty about how Turing died beyond what is recorded: the 1954 inquest ruled suicide and some people have questioned it; keep it brief and calm",
+    "Do not say Grace Hopper's moth was the origin of the word 'bug'; engineers used it for decades before 1947",
+    "Do not say Grace Hopper invented COBOL single-handedly; it was designed by a committee and drew heavily on her FLOW-MATIC",
+    "Do not repeat the legend that ENIAC dimmed the lights of Philadelphia when switched on as fact",
+    "Do not repeat unverified quotes as fact: Thomas Watson's 'world market for maybe five computers' and Bill Gates's '640K ought to be enough for anybody' have no reliable source",
+    "Do not say Apple or Microsoft invented the mouse or the graphical interface; Engelbart's team and Xerox PARC developed them first",
+    "Do not say Apple was built entirely in a garage; Wozniak has said the garage story is exaggerated",
+    "Do not say Moore's law is a law of physics; it is an observation and industry goal",
+    "Do not say chip names like '3 nm' mean transistors are 3 nanometres wide; they are marketing labels",
+    "Do not say computers or AI think, feel or understand exactly like human brains, or that AI is conscious",
+    "Do not say quantum computers will replace ordinary computers or are simply 'faster at everything'",
+    "Do not treat the Internet and World Wide Web as the same thing, and do not tell their history in detail; they have a separate story",
+    "Do not say Kilby or Noyce alone invented the chip; both are credited"
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "n": 10,
+  "title": "How It Works: Touchscreens and Displays",
+  "when": "1965 – today",
+  "summary": "Your phone's screen can feel exactly where your finger is, even though it is just smooth glass. Underneath, millions of tiny red, green and blue lights work together to make every picture. In this part we find out how the magic glass was invented and how it really works.",
+  "sections": [
+    {
+      "heading": "A Touch of Radar",
+      "paragraphs": [
+        "Our story starts not in a phone shop but in a room full of radar screens. In the 1960s, the Royal Radar Establishment in Malvern, England, was one of Britain's top laboratories for radar and electronics. Air traffic controllers there and elsewhere had a hard job: they watched glowing dots of aircraft on screens and had to give instructions quickly and without mistakes. Typing commands on a keyboard was slow. What if a controller could simply touch the screen?",
+        "An engineer named E. A. Johnson worked on exactly that question. In 1965 he published a short article describing a 'touch display', a screen that could sense a finger, and in 1967 he wrote a longer description of how it worked. His design used capacitive sensing, the same basic idea inside your phone today. Thin conductors were fixed to the face of the screen, and when a finger touched near one of them, an electronic circuit noticed a tiny change and knew which spot had been chosen.",
+        "Johnson's screen was very simple compared with a modern phone. It could sense only one touch at a time, and it was built to recognize a limited set of touch spots rather than any point on the glass. But it proved something important: a person could talk to a computer by pointing at it directly. Touch technology for air traffic control was described in further articles in the late 1960s.",
+        "A few years later, engineers at CERN, the giant European physics laboratory near Geneva, built touchscreens too. In 1972 a Danish engineer named Bent Stumpe designed a capacitive touchscreen so that scientists could control CERN's huge particle accelerator, the Super Proton Synchrotron, by touching buttons drawn on a screen instead of using thousands of physical switches. Later, with his colleague Frank Beck, he built a more advanced version that sensed touch where two sets of lines crossed.",
+        "Remember the word capacitive from the glossary: a capacitive touchscreen senses your finger by the tiny change it makes in an electric field. We will see exactly how that works in a moment. But first, the touchscreen story took a turn into a quite different technology, invented by a physicist who was trying to solve a boring problem with graph paper."
+      ]
+    },
+    {
+      "heading": "Pressing Two Layers Together",
+      "paragraphs": [
+        "George Samuel Hurst, usually called Sam Hurst, was born in 1927 in a small community in Bell County, Kentucky. He became a physicist at Oak Ridge National Laboratory in Tennessee, where he studied radiation detectors, and in 1966 he became a physics professor at the University of Kentucky.",
+        "According to the story Hurst and his colleagues later told, the idea came from a dull task: his research team had to read huge amounts of experimental data from paper charts, point by point. Hurst wondered whether a sheet of electrically conducting material could do the job automatically, so that pressing on a spot would tell a computer its exact position. He and his partners set up a company called Elographics in 1971 to develop the idea. The first versions were opaque, which means you could not see through them, so they worked like a drawing tablet rather than a screen.",
+        "The big step came when the technology was made transparent and placed over a display. Starting in 1977, Elographics worked with the German company Siemens to build a see-through version, and a transparent resistive touchscreen was shown to the public at the 1982 World's Fair in Knoxville, Tennessee.",
+        "So how does a resistive touchscreen work? Imagine a sandwich made of two thin, clear, flexible sheets. Each sheet is coated on the inside with a material that conducts electricity, but not perfectly; it resists the flow a little, which is where the word 'resistive' comes from. The two sheets are held apart by a tiny gap, often using microscopic dots like the bumps on bubble wrap. When you press the top sheet with a finger or a pen, it bends and touches the bottom sheet at one spot.",
+        "Now the clever part. The controller chip sends a small voltage across the first sheet from left to right, so the voltage slowly changes along the way, like a slope. Where the sheets touch, the second sheet picks up the voltage at that exact spot, and that number reveals how far from the left edge you pressed. A few thousandths of a second later, the controller swaps roles and puts the voltage slope across the second sheet from top to bottom, which reveals how far down you pressed. Put the two numbers together and you have the position of your touch, a bit like coordinates on a map.",
+        "Because a resistive screen only cares about pressure, it works with almost anything: a bare finger, a gloved finger, a fingernail or a plastic stylus. That is why many stylus gadgets, from PDAs like the Palm Pilot (Part 4) and early keyboard-and-stylus smartphones such as the Palm Centro to handheld game consoles such as the Nintendo DS, used resistive screens. They were also cheap to make.",
+        "But they had drawbacks. You had to press, not just brush the glass, so swiping felt sluggish. The extra flexible layers made the picture a little dimmer and more reflective, and the soft top sheet could be scratched or damaged. Most resistive screens could also sense only one point at a time; if you pressed in two places, they would get confused. Capacitive screens overtook resistive ones in sales around 2010 to 2011, and today nearly every phone uses them."
+      ]
+    },
+    {
+      "heading": "How Your Finger Talks to Glass",
+      "paragraphs": [
+        "Your body conducts electricity. Not much, and it is completely safe, but enough to matter. Your skin is damp and salty, and salty water carries electric charge well. A capacitive touchscreen uses this fact.",
+        "Underneath the outer glass of a phone is a grid of electrodes so thin that you cannot see them. They are usually made of indium tin oxide, or ITO, a rare material that has two useful properties at once: it conducts electricity and it is almost perfectly transparent. One set of these invisible lines runs across the screen in rows, and another set runs up and down in columns, separated by a thin insulating layer. Every place where a row crosses a column becomes a tiny sensing point. A phone screen has hundreds of these crossing points.",
+        "Each crossing works like a small capacitor, which is a device that stores a little electric charge between two conductors that are close together but not touching. The phone's touch controller sends quick electrical pulses along one set of lines and measures how much reaches the other set at each crossing. This is called mutual capacitance.",
+        "When your finger comes close, it disturbs the electric field around the nearby crossings. Some of the field that normally links the row and column is drawn toward your finger instead, so the signal measured at those crossings drops a little. The controller scans the whole grid again and again, often more than a hundred times every second, building a map of where the signals have changed. The center of the changed area is where your finger is. Software then works out whether that was a tap, a swipe or a long press.",
+        "This explains some everyday mysteries. Thick winter gloves usually do not work, because the fabric is an insulator; it keeps your conductive finger too far from the glass to change the field enough. Special touchscreen gloves have conductive threads sewn into the fingertips to carry the effect through. A plastic pen does nothing, but a touchscreen stylus has a soft tip made of conductive material. And water drops on the screen can cause 'ghost' touches, because water conducts electricity a bit like a finger does.",
+        "Because a capacitive screen measures the whole grid at once, it can see several fingers at the same time, which is the secret behind pinch-to-zoom. You do not even need to press; a light brush is enough. That is why swiping on a modern phone feels effortless, and why the iPhone in 2007 could throw away the stylus. But the idea of sensing many fingers at once has its own long history."
+      ]
+    },
+    {
+      "heading": "More Than One Finger",
+      "paragraphs": [
+        "Multi-touch means a screen or touchpad can sense two or more touches at once. It feels like an invention of the iPhone age, but researchers were experimenting with it more than 20 years before the iPhone.",
+        "In 1982, a student at the University of Toronto in Canada named Nimish Mehta described a system in his master's thesis that could sense several fingers pressing on a sheet of frosted glass, using a camera underneath to watch the dark spots where fingers touched. The computer scientist Bill Buxton, who worked in the same research group and later collected the history of multi-touch, calls it the earliest multi-touch system for computer input that he knows of.",
+        "Other pioneers followed. In 1983 the American artist and computer scientist Myron Krueger built systems called Videoplace and Video Desk that used cameras to follow people's hands and bodies, letting them stretch and move shapes with gestures; some of these gestures look a lot like pinch-to-zoom. In 1984 Bob Boie at Bell Labs built a transparent capacitive screen that could sense many touches. Around the same time Buxton's Toronto team, with colleagues S. K. Lee and K. C. Smith, made a capacitive multi-touch tablet that could report the position and pressure of any number of fingers.",
+        "The idea finally reached ordinary people through a company in Delaware. Wayne Westerman, a graduate student at the University of Delaware, developed painful repetitive strain injuries in his hands while working on his doctorate. Together with his professor John Elias, he studied how to type and control a computer with light finger gestures on a flat surface instead of hard key presses. Westerman's 1999 thesis described ways to track every finger of both hands and work out which finger was which. In 1998 the two men founded a company called FingerWorks, which sold gesture keyboards and touchpads like the TouchStream and iGesture Pad. Many of its customers were people with hand injuries.",
+        "In early 2005, FingerWorks suddenly stopped selling products. Apple had bought its technology, its patents and its founders. Westerman and Elias joined Apple, where their ideas helped shape the multi-touch screen of the iPhone.",
+        "Meanwhile, in 2005 and 2006, a researcher at New York University named Jeff Han showed off a large multi-touch screen that used a clever optical trick: light bouncing inside a sheet of acrylic escaped wherever a finger pressed, and a camera saw the bright spots. His demonstration at the TED conference in February 2006, where he spun, stretched and zoomed photos and maps with his hands, amazed the audience. It was almost a year before the iPhone was announced.",
+        "Who invented multi-touch, then? Bill Buxton's answer is that no single person or company did. He describes a 'long nose of innovation': new ideas usually spend 20 to 30 years being tested, improved and slowly passed from lab to lab before they suddenly seem to appear everywhere. Multi-touch is a perfect example. The iPhone did not invent it, but it packed it into a product that millions of people used every day."
+      ]
+    },
+    {
+      "heading": "Under the Glass: Millions of Tiny Lights",
+      "paragraphs": [
+        "The touch sensor tells the phone where your finger is. But the picture you see comes from a different layer underneath: the display. Look at a phone screen through a strong magnifying glass, or a drop of water on the glass, and you might see something surprising. The smooth image is really made of tiny dots arranged in a grid. Each dot is called a pixel, short for 'picture element'.",
+        "Each pixel is made of even smaller parts called sub-pixels: usually one red, one green and one blue. By making each sub-pixel brighter or dimmer, the phone can mix almost any color. Red and green light at full brightness together look yellow to your eyes. All three at full brightness look white. All three off look black. This is called additive color mixing, and it works because the human eye has three kinds of color-sensing cells, most sensitive to red, green and blue light. Your brain does the mixing.",
+        "A modern phone has a lot of pixels. A typical phone screen today has about 1,080 by 2,400 pixels, which is more than 2.5 million pixels and over 7 million sub-pixels, each controlled separately. Many phone screens pack in more than 400 pixels per inch (ppi), so close together that at normal reading distance you cannot see the individual dots. Compare that with the first iPhone in 2007, which had 320 by 480 pixels, about 163 ppi. In 2010 Apple's iPhone 4 had a 326 ppi screen that Apple called a 'Retina display', and in 2017 Sony made a phone with about 807 ppi.",
+        "The screen also redraws the whole picture many times every second. Most phones refresh 60 times per second, and many newer phones can refresh 90 or 120 times per second, which makes scrolling look smoother. Each pixel is switched by its own tiny transistor, part of a thin layer of electronics behind the screen called the thin-film transistor (TFT) backplane. That arrangement, where every pixel has its own switch, is called an active matrix.",
+        "For many years, most phone screens were LCDs, which stands for liquid crystal displays. An LCD does not make its own light. At the back is a backlight, a panel lit by small LEDs, that shines white light forward all the time. In front of it are two polarizing filters, which only let light waves vibrating in one direction pass through, and between them is a thin layer of liquid crystals: strange substances that flow like a liquid but whose rod-shaped molecules line up like soldiers. When a voltage is applied to a pixel, the crystals twist or untwist, changing how much light can pass through the second filter. Colored filters turn the white light into red, green and blue sub-pixels. So an LCD pixel is really a tiny electronic shutter in front of a lamp."
+      ]
+    },
+    {
+      "heading": "OLED: Pixels That Glow by Themselves",
+      "paragraphs": [
+        "Many phones today use a different technology: OLED, which stands for organic light-emitting diode. Here 'organic' does not mean grown on a farm; it means the light comes from carbon-based chemical compounds. In an OLED, each sub-pixel is a tiny sandwich of extremely thin organic layers between two electrodes. When electricity flows through it, negative charges (electrons) meet positive 'holes' in the organic material, and as they combine they release energy as light. Different chemicals give off different colors.",
+        "The first practical OLED device was built in 1987 by two chemists at the Eastman Kodak company in Rochester, New York: Ching Wan Tang and Steven Van Slyke. Their clever two-layer design made OLEDs bright enough and efficient enough to be useful. It took many more years of work before OLED screens could be made cheaply and reliably, but by the 2010s they were common in phones. Samsung, for example, used its own 'Super AMOLED' screens in the Galaxy S in 2010. AMOLED simply means active-matrix OLED.",
+        "Because each OLED pixel makes its own light, there is no backlight. To show black, a pixel just switches off, so blacks on an OLED screen are truly black and use almost no power. On an LCD, the backlight is always on, so black areas still glow a little. That is why OLED pictures look so vivid, and why a dark theme on an OLED phone can save some battery (Part 13 explains more about power). OLED screens can also be made very thin and even built on flexible plastic, which is what makes folding phones possible (Part 19).",
+        "OLEDs have weaknesses too. The organic materials slowly wear out, and the blue ones fade fastest, so screen makers often make the blue sub-pixels bigger to balance things out. If the same bright image stays on screen for a very long time, such as a navigation bar, it can leave a faint permanent shadow called burn-in. And the organic layers are damaged by water and oxygen, so they must be sealed very carefully. Engineers keep improving these problems, and both LCD and OLED are still made today."
+      ]
+    },
+    {
+      "heading": "Building the Sandwich",
+      "paragraphs": [
+        "A phone screen is not one thing but a stack of layers glued together, each thinner than a sheet of paper and many of them completely transparent. From the back to the front, a typical stack has the backplane of tiny transistors, the light-making layer (an OLED layer, or an LCD with its backlight and filters), a polarizing film that cuts down reflections, the touch sensor grid, and finally the cover glass. In many modern phones the touch electrodes are not a separate sheet at all but are built directly onto or into the display layer, which makes the screen thinner, lighter and brighter.",
+        "The layers are joined with optically clear adhesive, a special glue as see-through as the glass itself. If even a thin film of air were left between the layers, light would bounce off each surface, making the picture look washed out in sunshine. Filling the gaps with clear glue removes most of those reflections. That is one reason a modern phone is easier to read outdoors than an old one, along with brighter screens.",
+        "Making all this has to be done in extremely clean factories. A single speck of dust trapped between layers can ruin a screen, and a single broken transistor can leave a pixel that is stuck on or stuck off. Displays are made on large sheets of glass that are later cut into many phone-sized pieces, a bit like baking a big tray of brownies and slicing it up.",
+        "The software has work to do too. The touch controller and the phone's operating system must decide which signals are real. If the side of your palm brushes the edge of the screen while you hold the phone, clever 'palm rejection' software tries to ignore it. If you rest a finger and then slide it, the software must tell a scroll from a tap. When you type, the keyboard app quietly guesses which key you meant, even if your finger landed between two letters. Much of what feels like a perfect touchscreen is really a perfect partnership between hardware and software."
+      ]
+    },
+    {
+      "heading": "The Armor on Top: Strong Glass",
+      "paragraphs": [
+        "All of this delicate technology sits under a sheet of cover glass, the part your finger actually touches. It has to be clear, smooth, scratch-resistant and tough enough to survive being dropped, sat on and carried in a pocket with keys. Ordinary window glass would crack far too easily.",
+        "Part 8 told how Apple asked the glass company Corning for tough glass for the first iPhone, and how Corning revived its 1960s research. Here is the science behind it. Corning began a research program in the early 1960s, nicknamed Project Muscle, to make stronger glass. Its researchers used a chemical trick called ion exchange, and their strengthened glass, sold as Chemcor, was used for things like racing car windows in the late 1960s. Decades later that research became Gorilla Glass, which appeared on the first iPhone in 2007.",
+        "Ion exchange works like this. The glass contains sodium atoms that have an electric charge; charged atoms are called ions. The finished glass is dipped into a bath of molten potassium salt (potassium nitrate) heated to about 400 degrees Celsius, far hotter than a kitchen oven. At that temperature, sodium ions near the surface slip out of the glass, and potassium ions from the bath move in to take their places.",
+        "Potassium ions are bigger than sodium ions. Imagine a row of seats in a cinema where every small child is swapped for a large adult: everyone is suddenly squeezed together. In the same way, the bigger potassium ions crowd the surface of the glass and put it under strong compression, a constant squeezing force that can reach about 690 megapascals, roughly 100,000 pounds on every square inch. Glass usually breaks when a tiny scratch is pulled open by tension. A surface already squeezed tightly resists that pulling, so cracks have a much harder time starting and spreading. Chemically strengthened glass is typically six to eight times as strong as ordinary glass.",
+        "It is not unbreakable. A deep scratch or a hard drop on a corner can still go through the squeezed layer and shatter the screen. Corning and its rivals keep releasing new versions, and by October 2017 Gorilla Glass had reportedly been used in about five billion devices. Some newer phones even mix tiny ceramic crystals into the glass to make it tougher still.",
+        "So the next time you tap your phone, think of the layers: strengthened glass on top, an invisible grid of electrodes sensing your finger, and millions of tiny red, green and blue lights underneath. But that raises a bigger question. When you tap an icon, the touchscreen only reports a position. What actually decides what happens next? For that, we need to meet the phone's brain: the chip."
+      ]
+    }
+  ],
+  "deepDive": "A capacitive touchscreen never 'sees' your finger directly; it measures tiny changes in capacitance, often a fraction of a picofarad (a trillionth of a farad), against a background of electrical noise from the display, the charger and the radio. The touch controller therefore relies heavily on signal processing. It scans each row-and-column crossing, subtracts a slowly updated 'baseline' for the empty screen, filters out noise, and then calculates the center of each touched area by interpolating between neighboring crossings. This is why a phone can locate a finger much more precisely than the spacing of its electrodes, which is typically a few millimeters. There are two main approaches. Self-capacitance measures each electrode against ground; it is very sensitive, so it is good for detecting a finger hovering near the glass, but with two fingers it can produce 'ghost' points, because it only knows which rows and which columns are active, not which combinations. Mutual capacitance measures each crossing separately, which removes the ghosts and allows true multi-touch, so most phones rely on it, sometimes combined with self-capacitance. To make phones thinner and brighter, makers moved the sensor inside the display stack: 'on-cell' designs put the electrodes on top of the display layer, and 'in-cell' designs build them into the display itself. Displays raise their own debates. Many OLED phones use a PenTile-style layout in which pixels share sub-pixels, so a quoted resolution does not always mean three full sub-pixels per pixel. Some OLED phones dim the screen by flickering it on and off very quickly (pulse-width modulation), which a small number of people say causes eye strain; researchers are still studying how common that is. Meanwhile the transparent conductor ITO depends on indium, a fairly scarce metal produced mainly as a by-product of zinc mining, so scientists are researching alternatives such as silver nanowires, metal meshes and graphene, especially for flexible and folding screens.",
+  "funFact": "The first finger-operated capacitive touchscreen was described in 1965 by E. A. Johnson at Britain's Royal Radar Establishment, for air traffic control, more than 40 years before the iPhone.",
+  "check": {
+    "q": "Why does a capacitive touchscreen usually not work when you wear thick winter gloves?",
+    "a": "The glove fabric is an insulator, so your conductive finger cannot change the screen's electric field",
+    "wrong": [
+      "The screen needs to feel the heat of your skin",
+      "Gloves are too light to press the two layers together",
+      "The screen reads your fingerprint pattern"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Touchscreen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Touchscreen"
+    },
+    {
+      "title": "Resistive touchscreen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Resistive_touchscreen"
+    },
+    {
+      "title": "Multi-Touch Systems that I Have Known and Loved",
+      "publisher": "Bill Buxton, billbuxton.com",
+      "url": "https://www.billbuxton.com/multitouchOverview.html"
+    },
+    {
+      "title": "FingerWorks",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/FingerWorks"
+    },
+    {
+      "title": "George Samuel Hurst",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_Samuel_Hurst"
+    },
+    {
+      "title": "OLED",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/OLED"
+    },
+    {
+      "title": "Chemically strengthened glass",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chemically_strengthened_glass"
+    },
+    {
+      "title": "Gorilla Glass",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gorilla_Glass"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Microscope close-up photo of a phone or monitor screen showing red, green and blue sub-pixels",
+      "search": "subpixels display macro RGB"
+    },
+    {
+      "want": "Diagram showing how a capacitive touchscreen senses a finger with a grid of electrodes",
+      "search": "capacitive touchscreen diagram"
+    },
+    {
+      "want": "Photo of the CERN capacitive touchscreen built by Bent Stumpe in the 1970s",
+      "search": "CERN touchscreen Stumpe 1973"
+    }
+  ]
+}

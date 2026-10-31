@@ -1,0 +1,162 @@
+{
+  "n": 11,
+  "title": "Your Body's Defence Force, Part 2: Memory",
+  "when": "1950s – today (science)",
+  "summary": "Deep inside you lives a secret army of special cells that can remember every germ they have ever beaten. The next time that germ shows up, they spring into action super fast. Vaccines work by giving this army a safe practice run, like showing them a wanted poster.",
+  "sections": [
+    {
+      "heading": "The Special Forces Arrive",
+      "paragraphs": [
+        "In the last part we met the body's first responders: the skin and mucus that block the door, and the hungry phagocytes that rush to swallow any intruder they can catch. These defenders are fast and brave, but they have one big weakness. They fight every germ in roughly the same way, a bit like guards who chase anyone wearing a mask without checking who is underneath. Against a truly dangerous germ, that is sometimes not enough.",
+        "So the body has a second team. Scientists call it the adaptive immune system, because it adapts, or changes, to fit each new enemy it meets. It is slower to get going than the first responders, but it is far more precise, and it has a superpower the first team does not: it can remember. Once it has beaten a particular germ, it can keep a record of that germ for years, sometimes for a whole lifetime.",
+        "The soldiers of this special force are two kinds of white blood cell called lymphocytes (say it LIM-fo-sites): B cells and T cells. Under a microscope, a resting B cell and a resting T cell look almost identical, small round cells with a big nucleus taking up most of the space. Yet they have very different jobs. Your body contains roughly 2 trillion lymphocytes, which is about 250 for every person alive on Earth, all packed inside one human body.",
+        "Both kinds begin life in the bone marrow, the soft, spongy tissue in the middle of your big bones. B cells grow up there. Young T cells, though, travel to a small organ called the thymus, which sits in your chest just behind the breastbone, and finish their training there. That is where the T in T cell comes from. The B was originally named after an organ in birds called the bursa of Fabricius, where these cells were first studied, but it is handy to remember B for bone marrow.",
+        "Here is a surprise: only about 2 in every 100 lymphocytes are floating in your blood at any moment. Most of them are on patrol through your tissues and through a separate network of thin tubes called the lymphatic system. Along these tubes sit hundreds of small, bean-shaped lymph nodes, plus the spleen, which works like a giant filter. Lymph nodes are the meeting halls of the immune system. If you have ever had swollen glands in your neck during a sore throat, you have felt your lymph nodes busily at work, packed with cells that have arrived for an emergency meeting.",
+        "Who calls the meeting? Some of the first-response cells, especially ones called dendritic cells, act as messengers. When they find an invader in your skin or lungs, they grab bits of it, then travel through the lymphatic tubes to the nearest lymph node. There they hold up those bits, the antigens or 'name tags' you met in part 10, for the lymphocytes to inspect. It is like a scout running back to camp with a torn flag from the enemy, shouting: does anyone recognise this?"
+      ]
+    },
+    {
+      "heading": "B Cells: The Antibody Factories",
+      "paragraphs": [
+        "Every B cell carries thousands of copies of one particular antibody stuck on its surface like antennae. These surface antibodies act as the cell's receptors, its way of feeling the world. Each B cell's receptors fit only one shape of antigen, the way one key fits only one lock. A B cell whose receptors fit a measles protein will ignore a flu virus completely, and the other way round.",
+        "That raises an obvious puzzle. There are countless different germs in the world, and they keep changing. How could the body possibly have the right key ready for each one? The answer is one of the cleverest tricks in biology. Instead of storing one complete gene for every possible antibody, which would be impossible, young B cells build their antibody genes by shuffling and joining together small gene pieces, a bit like making a huge number of different words from a small set of letter tiles. Extra random changes are added at the joins. Thanks to this shuffling, a human can make more than a trillion different antibodies, even though the whole human genome contains fewer than 25,000 genes. The Japanese scientist Susumu Tonegawa won the 1987 Nobel Prize in Physiology or Medicine for showing how this gene shuffling happens.",
+        "So at any moment, your body already holds a gigantic library of B cells, each with a different key, most of them waiting for a lock they may never meet. When one of them finally does meet its matching antigen, and usually after getting a 'go' signal from a helper T cell (more about those soon), it wakes up.",
+        "An activated B cell can turn into a plasma cell, which is basically an antibody factory. A plasma cell stops wearing its antibodies as antennae and instead pours them out into the blood and body fluids, thousands of molecules every second. Many plasma cells only live a few days, working flat out until they wear themselves out, but some settle in the bone marrow and keep making antibodies for a very long time.",
+        "What do all those antibodies actually do? Remember they are Y-shaped proteins. The two tips of the Y grab the antigen. If an antibody grabs the part of a virus that the virus uses to unlock our cells, the virus is jammed and cannot get in. This is called neutralising the virus. Antibodies can also grab bacterial toxins, the poisons you read about in part 9, and stop them working. And because the stem of the Y sticks out, antibodies act like bright flags waving above a germ, making it much easier for phagocytes to find and swallow it. Some antibodies also switch on a set of blood proteins called complement, which can punch holes in bacteria."
+      ]
+    },
+    {
+      "heading": "T Cells: Commanders and Killers",
+      "paragraphs": [
+        "Antibodies are brilliant at catching germs floating outside our cells. But viruses have a sneaky habit: they slip inside our cells and use them as factories to make more viruses. Once a virus is inside, antibodies in the blood cannot reach it. This is where T cells come in.",
+        "T cells have receptors too, and each T cell, like each B cell, has its own unique receptor shape. But T cells cannot see a whole germ floating past. Instead they inspect little pieces of protein that our own cells display on their surface in special holders called MHC molecules. You can think of MHC molecules as tiny shop windows. Almost every cell in your body regularly takes small samples of the proteins being made inside it, chops them into fragments, and puts them on display in these windows. Most of the time the display just says, in effect, all normal here. But if a virus has taken over the cell, fragments of virus protein appear in the window too.",
+        "There are two main kinds of T cell. Helper T cells are the commanders. They are often called CD4 cells, after a marker protein on their surface. When a helper T cell recognises an antigen shown to it by a dendritic cell in a lymph node, it begins sending out chemical messages called cytokines. These messages switch on the right B cells, tell phagocytes to fight harder, and help killer T cells to multiply. Helper T cells cannot kill anything themselves, but without them much of the adaptive immune system would barely get going. That is why a virus such as HIV, which attacks helper T cells, can weaken the whole immune system so badly.",
+        "Killer T cells, also called cytotoxic T cells or CD8 cells, are the specialists who deal with infected cells. A killer T cell slides along other cells, checking their windows. When it finds one displaying the exact virus fragment its receptor fits, it locks on and releases proteins with names like perforin and granzymes. Perforin makes holes in the infected cell's outer membrane, and granzymes go in and tell the cell to shut itself down in an orderly way. It sounds harsh, but it is a sacrifice for the good of the whole body: destroying one infected cell destroys the virus factory inside it before it can make thousands more viruses.",
+        "There is one more important safety rule. While young T cells are training in the thymus, any that react strongly to the body's own normal proteins are mostly removed. The same kind of check happens for young B cells in the bone marrow. This teaches the immune system to leave 'self' alone and attack only 'non-self'. When this training goes wrong, the immune system can attack the body's own tissues, which is what happens in autoimmune diseases such as type 1 diabetes."
+      ]
+    },
+    {
+      "heading": "The Beetle Collector and the Big Idea",
+      "paragraphs": [
+        "By the 1950s, scientists knew that the body made antibodies that fitted germs remarkably well. But how? One popular idea was that an antibody was a kind of soft protein that folded itself around a germ like clay pressed around a key, taking its shape. It was a neat idea, but it could not explain everything, especially why the body seemed to remember germs for so long.",
+        "In 1955 the Danish scientist Niels Jerne suggested something different: maybe the body already contains a huge variety of antibodies before any germ arrives, and the germ simply picks out the ones that fit. In 1957 the American scientist David Talmage added an important twist: perhaps the selection happens to cells, not just to free-floating antibodies. If each antibody-making cell produced just one type of antibody, the germ could select the right cells, and those cells would multiply.",
+        "That same year, the Australian scientist Frank Macfarlane Burnet, known to friends as Mac, pulled these ideas together and gave the theory its name: the clonal selection theory. Burnet was born in 1899 in Traralgon, in the state of Victoria. As a boy he was a passionate beetle collector, and he kept collecting beetles as an adult. Perhaps all those hours sorting tiny differences between insects helped train his eye for patterns in nature. He spent most of his career at the Walter and Eliza Hall Institute in Melbourne, which he directed from 1944 to 1965. Earlier, he had become an expert at growing viruses in hens' eggs, work that helped lay foundations for how flu vaccines are still made today.",
+        "Burnet's theory said, in simple words: each lymphocyte carries just one kind of receptor. When a germ arrives, only the lymphocytes whose receptors fit it are switched on. Those chosen cells then copy themselves over and over, making a big family of identical cells, called a clone, all with the same receptor. Some of the clone fight the infection right away, and others stay behind for the long term. And lymphocytes that react against the body's own molecules are removed early in life.",
+        "Imagine a vast library holding millions of different keys, one key per hook. A burglar arrives with a strange new lock. The guards try keys until one fits. Then, instead of using just that one key, they rush it to a key-cutting machine and make thousands of copies, handing them out to an army. That is clonal selection. The 'selection' is the choosing of the right cell, and the 'clonal' part is the copying.",
+        "The first direct evidence came quickly. In 1958 Gustav Nossal, a young scientist working with Burnet in Melbourne, and the American Joshua Lederberg showed that a single B cell makes only one type of antibody, exactly as the theory predicted. Over the following decades, experiment after experiment supported the idea, and clonal selection became a cornerstone of modern immunology.",
+        "In 1960 Burnet shared the Nobel Prize in Physiology or Medicine with the British scientist Peter Medawar. Their prize was for discovering acquired immunological tolerance: the way the body learns, early in life, which things count as 'self' and should not be attacked. Burnet had proposed the idea, and Medawar's team proved it with experiments on young mice. That same year, Burnet became the very first Australian of the Year."
+      ]
+    },
+    {
+      "heading": "First Time Slow, Second Time Fast",
+      "paragraphs": [
+        "Now we can solve the oldest mystery in this whole story, the one people noticed thousands of years ago: why do smallpox survivors almost never catch smallpox again?",
+        "Think about what happens the very first time a new germ gets into your body. Out of all those millions of different lymphocytes, only a tiny handful happen to have receptors that fit this particular germ. Those few cells must first be found, often by a dendritic cell carrying antigens to a lymph node. Then they need permission signals from helper T cells. Then they must divide again and again to build up a big enough army, and B cells must turn into plasma cells and start making antibodies. All of that takes time. Scientists call this the primary response. It usually takes about four to seven days before it becomes strong, and typically one to two weeks to build up fully. Meanwhile the germ is multiplying too, which is why you can feel quite ill during a first infection.",
+        "But when the battle is won, something important happens. Most of the extra fighting cells die off, because the body does not need a giant army hanging around forever. A smaller group stays behind. These are memory cells, both memory B cells and memory T cells. They are long-lived, they are already the right shape for this germ, and there are many more of them than there were of the original matching cells.",
+        "If the same germ ever comes back, the memory cells spot it quickly, often before it has had the chance to spread far. They multiply faster and need less help to get started. Memory B cells also tend to produce antibodies that grip more tightly, because during the first infection the B cells went through a kind of improvement contest. Small random changes were made to their antibody genes, and the cells whose antibodies fitted best were chosen to survive. This is called the secondary response, and it is faster, bigger and stronger than the first one. Often it is so fast that the germ is defeated before the person even notices any illness at all.",
+        "If you could draw a graph of antibody levels, the first infection would show a slow, low hill that rises after a week or so. The second meeting with the same germ would show a steep, tall mountain that rises within days. That difference between the low hill and the tall mountain is the whole secret of immune memory.",
+        "How long can memory last? It depends on the germ and on the person. Memory cells can survive for decades. One remarkable example was reported in 2008: scientists tested the blood of elderly Americans who had lived through the great influenza pandemic of 1918, about 90 years earlier, and found their immune systems could still make antibodies that recognised that 1918 virus. For some germs, though, memory fades more quickly, or the germ itself changes, which is why the story does not end here."
+      ]
+    },
+    {
+      "heading": "A Safe Rehearsal: How a Vaccine Works",
+      "paragraphs": [
+        "Now put the pieces together. If a second meeting with a germ is so much safer than the first, what if your first meeting could happen without the danger? That is exactly what a vaccine does.",
+        "A vaccine shows your immune system something that looks like the germ, or part of the germ, but cannot cause the disease. It might be a weakened germ, a killed germ, a harmless piece of the germ's outer coat, a disarmed toxin, or a set of instructions that lets your own cells briefly make one harmless germ protein. You will meet all these kinds in the next part. Whatever form it takes, it carries the germ's antigens, its name tags.",
+        "Your immune system treats these antigens much as it would treat the real thing. Dendritic cells pick them up and carry them to the lymph nodes. The matching B cells and T cells are found, switched on and copied. Antibodies are made. And, most importantly, memory cells are left behind. It is like a fire drill: no real fire, nobody in danger, but everyone learns where the exits are, so if a real fire ever starts, they know exactly what to do.",
+        "Another way to picture it is a wanted poster. Imagine a town that pins up posters showing the face of a notorious thief. The thief is not in town yet, and the poster itself cannot steal anything. But if the thief ever walks down the main street, people will recognise him at once and call the sheriff. Jenner's cowpox was a kind of wanted poster for smallpox, because the two viruses look alike enough to the immune system that memory cells trained on one recognise the other.",
+        "Because a vaccine has to trigger the same slow primary response, protection does not appear instantly. It usually builds up over one to two weeks after a dose, and sometimes longer. It is also important to be honest: no vaccine protects every single person perfectly. Some people's immune systems respond less strongly, and some germs are harder to remember than others. Vaccines greatly lower the chances of getting ill, and especially of getting very ill, but they are not a magic shield. Sometimes the immune system's work causes a sore arm, tiredness or a mild fever for a day or two, which are signs of the training under way. Serious side effects are rare, and part 17 looks at how scientists track them."
+      ]
+    },
+    {
+      "heading": "Reminders and Changing Faces",
+      "paragraphs": [
+        "If memory is so good, why do some vaccines need two, three or even more doses? There are several reasons, and they make sense once you know how the immune system works.",
+        "First, for some vaccines, a single meeting with the antigens is not enough to build a strong, long-lasting memory. A second or third dose, given weeks or months later, works like a revision lesson before a test: the memory cells made by the first dose respond, multiply and get better at their job, leaving a bigger and longer-lasting memory behind. That is why the World Health Organization notes that some vaccines are given weeks or months apart, to help long-lived antibodies and memory cells develop. Babies' immune systems are also still young, so they often need several doses in their first months of life.",
+        "Second, for some diseases, memory slowly fades over the years. Memory cells survive but divide only slowly, so over time their numbers can drop. A later dose called a booster tops them back up. Tetanus is a well-known example. In the United States, adults are advised to have a tetanus booster every 10 years, while the United Kingdom uses a different schedule with boosters early in life and none routinely after that. Other vaccines seem to leave very long-lasting memory: studies of the hepatitis B vaccine have found that immune memory can last at least 30 years, even after antibody levels in the blood fall too low to measure.",
+        "Third, and trickiest of all, some germs change their faces. Influenza, the flu, is the champion of disguise. Its genes copy themselves with lots of small mistakes, and over time the proteins on its surface slowly change shape, a process called antigenic drift. After a year or two, the flu virus going around may look different enough that memory cells trained on an older version do not recognise it as well. It is as if the thief on the wanted poster had grown a beard and dyed his hair.",
+        "To keep up, flu vaccines are updated every year. Around the world, 152 national influenza centres in more than 129 countries test flu viruses all year round, as part of the WHO's Global Influenza Surveillance and Response System. They send samples to WHO collaborating centres in Atlanta, London, Melbourne, Tokyo and Beijing. Twice a year, experts meet to decide which flu strains the next vaccine should target: in February for the northern half of the world, whose flu season is in its winter, and in September for the southern half. It is a scientific forecast, a bit like predicting next season's weather, and like weather forecasts it is not always perfect. That is one reason flu vaccines are usually less effective than, say, the measles vaccine, with protection against flu illness often estimated at somewhere between about 30 and 60 percent, and sometimes lower, varying a lot from year to year.",
+        "The measles virus, by contrast, hardly changes its outer coat at all, so the memory made by measles vaccines stays useful. Two doses of measles vaccine are about 97 percent effective at preventing the disease."
+      ]
+    },
+    {
+      "heading": "Safety in Numbers: Herd Immunity",
+      "paragraphs": [
+        "So far we have looked inside one body. But germs that spread from person to person also live in a bigger world: a town, a school, a whole country. Here memory has one more amazing effect.",
+        "Scientists describe how fast a disease spreads using a number called R0, said 'R nought'. It means how many other people, on average, one sick person would infect in a group where nobody is immune. Seasonal flu has an R0 of a little over one. Smallpox is estimated at around 3.5 to 6. Polio is about 5 to 7. Measles is one of the most contagious diseases known, with an R0 of about 12 to 18. The WHO notes that one person with measles can infect up to 18 others, and that the measles virus can stay active in the air or on surfaces for up to two hours after a sick person has left a room.",
+        "Now imagine a germ trying to spread through a school. Each time it reaches someone who is immune, its path is blocked, like a fire reaching a patch of ground that has already been cleared. If enough people are immune, each sick person passes the germ on to fewer than one other person on average, and the outbreak fizzles out. This is called herd immunity, or community immunity. The phrase was used as long ago as 1894 by the American veterinary scientist Daniel Elmer Salmon to describe resistance in herds of animals, and by the 1920s doctors were applying it to human diseases.",
+        "There is a neat piece of maths behind it. If one case would normally cause R0 new cases, then the fraction of people who need to be immune to stop the spread is roughly 1 minus 1 divided by R0. For a germ with an R0 of 2, that is 1 minus a half, so about half the population. For measles, with an R0 of up to 18, it is about 1 minus one-eighteenth, which is around 94 percent. Because no vaccine works perfectly in everyone, public health experts often say that about 95 percent of people need to be immune to stop measles spreading. The Oxford Vaccine Group puts it simply: 19 out of every 20 people.",
+        "Herd immunity matters most for the people who cannot be protected directly. Newborn babies are too young for some vaccines. Some children and adults have immune systems weakened by illness or by strong medicines, such as chemotherapy for cancer, and cannot safely receive certain vaccines, or do not respond well to them. When the people around them are immune, the germ has a hard time reaching them. In a real sense, immune memory inside millions of separate bodies adds up to a shield around the whole community.",
+        "There are limits, though. Herd immunity only works for diseases that spread from person to person. Tetanus, for example, comes from bacteria living in soil, not from other people, so it gives no community protection at all. And an average can hide gaps. If immunity is high across a country but low in one town or school, a contagious disease such as measles can still break out there, as happened around Swansea, in Wales, in 2012 and 2013.",
+        "So the recipe for a vaccine is surprisingly simple to say: show the immune system a safe wanted poster, and let memory do the rest. But that raises a fascinating question. If vaccines just need to show the body a wanted poster, how many different ways are there to make one?"
+      ]
+    }
+  ],
+  "deepDive": "The clonal selection theory solved a problem that had puzzled immunologists for decades: how a finite body can respond specifically to an almost unlimited variety of foreign molecules, including artificial chemicals that never existed in nature. Earlier 'instructive' theories, such as the template idea associated with Linus Pauling in 1940, proposed that antigens physically moulded antibodies into a complementary shape. Instructive models struggled to explain immune memory, the faster secondary response, and tolerance to self. Burnet's 1957 paper, building on Niels Jerne's 1955 natural-selection theory and David Talmage's cellular version, argued instead that diversity exists before antigen arrives and that antigen merely selects. The theory made testable predictions: one cell, one specificity; activation by receptor binding; inherited specificity in daughter cells; and deletion of self-reactive clones early in development. Nossal and Lederberg's 1958 single-cell experiment supported the first prediction, and later work in molecular biology explained where the diversity comes from. Susumu Tonegawa showed in the 1970s that antibody genes are assembled by recombining gene segments (V(D)J recombination), producing more than a trillion possible antibodies from fewer than 25,000 genes; somatic hypermutation and selection in germinal centres then improve antibody fit after activation, a process called affinity maturation. Tolerance turned out to be more complex than simple deletion, with regulatory T cells and other mechanisms involved, but the core logic survives. At the population level, the herd immunity threshold of 1 minus 1/R0 is a simplification: it assumes random mixing, uniform susceptibility, and vaccine-induced immunity that blocks transmission as well as illness. Real populations cluster in households, schools and communities, so pockets of low coverage can sustain outbreaks even when national averages look high. R0 also varies with crowding and behaviour, which is why published R0 ranges, like 12 to 18 for measles, are wide. For diseases where vaccines protect against severe illness better than against infection, or where immunity wanes or the pathogen drifts, as with influenza, a stable herd immunity threshold may never be reached. These subtleties explain why public health experts talk about coverage targets such as 95 percent for measles rather than a single exact number.",
+  "funFact": "In 2008, scientists found that people who had survived the 1918 flu pandemic still had immune cells able to make antibodies against that virus about 90 years later.",
+  "check": {
+    "q": "Why is the immune response faster the second time the body meets the same germ?",
+    "a": "Because memory B and T cells left over from the first meeting recognise it and multiply quickly",
+    "wrong": [
+      "Because the germ gets weaker every time it enters a body",
+      "Because phagocytes grow bigger after every infection",
+      "Because the skin becomes thicker after the first infection"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Adaptive immune system",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Adaptive_immune_system"
+    },
+    {
+      "title": "CDC Seasonal Flu Vaccine Effectiveness Studies",
+      "publisher": "CDC",
+      "url": "https://www.cdc.gov/flu-vaccines-work/php/effectiveness-studies/index.html"
+    },
+    {
+      "title": "Frank Macfarlane Burnet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Frank_Macfarlane_Burnet"
+    },
+    {
+      "title": "How do vaccines work?",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news-room/feature-stories/detail/how-do-vaccines-work"
+    },
+    {
+      "title": "Selecting viruses for the seasonal influenza vaccine",
+      "publisher": "CDC",
+      "url": "https://www.cdc.gov/flu/vaccine-process/vaccine-selection.html"
+    },
+    {
+      "title": "Herd immunity",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Herd_immunity"
+    },
+    {
+      "title": "Herd immunity",
+      "publisher": "Vaccine Knowledge Project, University of Oxford",
+      "url": "https://vaccineknowledge.ox.ac.uk/herd-immunity"
+    },
+    {
+      "title": "Measles fact sheet",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/measles"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Black-and-white portrait photograph of Australian scientist Frank Macfarlane Burnet",
+      "search": "Frank Macfarlane Burnet portrait"
+    },
+    {
+      "want": "Labelled diagram of the Y-shaped structure of an antibody (immunoglobulin G) showing antigen-binding tips",
+      "search": "antibody IgG structure diagram"
+    },
+    {
+      "want": "Scientific diagram or microscope image of a cytotoxic (killer) T cell attacking a target cell",
+      "search": "cytotoxic T cell killing cell"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "n": 19,
+  "title": "Living in the Cloud",
+  "when": "1999 – today",
+  "summary": "Your photos, songs and saved games don't float in the sky. They live on real computers in huge, humming buildings called data centres. Even a coffee pot and a fizzy-drink machine got connected to the Internet, long before smart speakers!",
+  "sections": [
+    {
+      "heading": "Other People's Computers",
+      "paragraphs": [
+        "At the end of the last part we asked a simple question: when you take a photo on a phone and it magically appears on your tablet, or when a game remembers your progress on a different console, where is all that stuff actually living? The popular answer is 'in the cloud'. It sounds soft and floaty, like your holiday pictures are drifting somewhere above the rooftops. The truth is much more solid, and much more interesting.",
+        "The cloud is other people's computers. That is the whole secret. When you save something 'to the cloud', your device chops it into packets, sends it across the Internet exactly the way we followed in Part 7, and it lands on a computer owned by a company such as Amazon, Google, Microsoft, Apple or one of many smaller firms. That computer sits in a building called a data centre, together with thousands or even hundreds of thousands of other computers. Usually your file is copied onto several machines, often in different buildings, so that if one hard drive breaks your photo is still safe somewhere else.",
+        "So why the fluffy name? For decades, engineers drawing network diagrams on whiteboards had a habit. When they wanted to show 'the big messy network out there that we don't need to draw in detail', they sketched a lumpy cloud shape. Data went into the cloud on one side and came out on the other. Over time, people started using the word for the services living inside that lumpy shape too. By the mid-2000s, 'cloud computing' had become the fashionable name.",
+        "Here is a fun twist: the cloud is actually an old idea coming back. Remember time-sharing from Part 2, when lots of people sat at terminals sharing one giant computer in the 1960s? Back then, some thinkers dreamed of 'computer utilities', where you would plug into computing power the way you plug into the electricity grid. Then personal computers arrived in the 1970s and 1980s, and everyone got their own machine on their own desk. The Computer History Museum describes the cloud as the computer utility returning: once the Web made huge, shared servers cheap and reliable, the balance swung back toward big central computers that many people use at once.",
+        "The cloud does three main jobs for you. First, it stores things: photos, videos, school documents, saved games and backups. Second, it runs software for you: when you write in an online document or play a browser game, much of the thinking happens on a faraway computer, and your device mostly shows the results. Third, it lends computing power to businesses and scientists, who can rent hundreds of computers for an hour instead of buying them. Grown-ups sometimes describe these as 'software as a service', 'platform as a service' and 'infrastructure as a service', but the idea underneath is the same. Instead of owning the machine, you borrow it over the Internet."
+      ]
+    },
+    {
+      "heading": "Selling Computing Like Electricity",
+      "paragraphs": [
+        "One of the first companies to bet everything on this idea started in a one-bedroom apartment on Telegraph Hill in San Francisco. In 1999, Marc Benioff, Parker Harris, Frank Dominguez and Dave Moellenhoff founded Salesforce. Their product helped businesses keep track of customers, which does not sound thrilling, but the way they delivered it was. Normally a company would buy big boxes of software discs, install them on its own computers and pay experts to keep everything running. Salesforce said: just open your web browser, log in and use it. All the real work happens on our computers.",
+        "When Salesforce officially launched in February 2000, it held an event built around the slogan 'The End of Software'. Of course, it was not really the end of software; it was the end of installing software yourself. Even the dot-com crash that soon followed, which forced the young company to lay off about a fifth of its staff, did not kill the idea. Paying a monthly fee to use software over the Web slowly became normal.",
+        "The giant step came from a company most people then knew as an online bookshop. Amazon had spent years building enormous computer systems to run its own website, and it learned how to manage storage and servers on a huge scale. Its engineers realised that other businesses would pay to use the same kind of systems. On 13 March 2006, Amazon Web Services announced Amazon S3, the Simple Storage Service, which it described as storage for the Internet. Anyone with a credit card could store almost any amount of data and fetch it back from anywhere on the Web, paying only for what they used.",
+        "A few months later, on 24 August 2006, Amazon opened a test version of EC2, the Elastic Compute Cloud. EC2 let you rent virtual computers by the hour. 'Virtual' means the computer you rent is really a slice of a much bigger physical machine, carefully walled off so that it behaves like a computer of its own. Need ten computers for an afternoon to test a new app? Rent them. Need ten thousand for a big launch day? Rent those too, then hand them back. That word 'elastic' was the magic: computing could now stretch and shrink like a rubber band.",
+        "This changed how new companies were born. Before, a small team with a big idea had to spend lots of money on servers before they even knew whether anyone would use their service. After 2006, two friends with laptops could launch a website and let Amazon's machines carry the load. Many famous apps of the following years grew up on rented cloud computers. Microsoft and Google soon built their own cloud businesses, and today those three companies run a large share of the world's rented computing.",
+        "Ordinary people met the cloud in friendlier ways. In April 2004 Google launched Gmail, offering what then seemed like a ridiculous 1 gigabyte of free storage, hundreds of times more than many rival free email services. In 2006 Google bought a small online word processor called Writely and turned it into Google Docs. Suddenly two classmates in different towns could type in the same document at the same time, watching each other's words appear. The document did not live on either of their computers. It lived in the cloud, and both of them were simply looking at it through a window."
+      ]
+    },
+    {
+      "heading": "Press Play: Streaming Takes Over",
+      "paragraphs": [
+        "Imagine it is 2006 and you want to watch a film at home. You might go to a video shop and rent a DVD. Or, if your family subscribed to a company called Netflix, a red envelope with a DVD inside might arrive in your letterbox. Netflix had been founded in California in 1997 by Reed Hastings and Marc Randolph, and its first big business was posting discs to people and letting them send them back by mail.",
+        "In January 2007, Netflix added a feature called Watch Now, which let subscribers stream films and shows over the Internet to their computers. Streaming means you start watching while the video is still arriving, a few seconds at a time, instead of downloading the whole file first. At the beginning the choice was small and the pictures were often blurry, because many home connections were still slow. But broadband was spreading, and within a few years streaming became the main way many families watched television.",
+        "How does streaming keep a show playing smoothly? Your video app downloads a little bit ahead of where you are watching and keeps it in a store called a buffer. If the connection hiccups, the app plays from the buffer while it catches up. Clever streaming services also prepare each show at several quality levels, from fuzzy to crystal sharp. Your app keeps measuring how fast data is arriving and quietly switches between them. That is why a film sometimes turns blocky for a moment and then sharpens again. Netflix has said that streaming in high definition can use roughly 3 gigabytes of data an hour.",
+        "If everyone in the world had to fetch the same popular film from one building in California, the Internet's long-distance cables would be jammed. So streaming companies use content delivery networks, or CDNs: thousands of servers spread around the world that keep copies of popular videos close to where people live. Netflix even places its own boxes of storage inside Internet providers' buildings. When you press play, the video may travel only a few dozen kilometres instead of across an ocean.",
+        "Music made a similar journey. Remember Napster from Part 15 and the arguments about copying songs? In 2006 in Stockholm, Sweden, Daniel Ek and Martin Lorentzon founded a company that wanted to make legal music easier than piracy. Spotify launched in 2008, letting people stream songs instantly from a giant library, paid for either by adverts or a monthly subscription. Spotify now says it has about 788 million users in about 184 markets. Instead of owning a shelf of CDs, most young listeners today rent access to almost all recorded music.",
+        "Games moved into the cloud too. Online multiplayer games run on servers in data centres that keep track of every player's position many times a second, then send updates to everyone. Saved progress is often kept in the cloud so you can pick up on another device. Some services even run the whole game on a powerful faraway computer and stream the pictures to you like a video, while your button presses travel back the other way. For that to feel fair, the delay, called latency, has to stay to a few tens of milliseconds.",
+        "All this watching and listening adds up. Industry studies by network companies regularly estimate that video makes up well over half of all the data flowing across the Internet, and some put it at around two-thirds. Text messages and web pages are tiny by comparison. A single minute of high-definition video can contain more data than thousands of pages of a book. When we talk about the Internet getting busier every year, a lot of that growth is people pressing play."
+      ]
+    },
+    {
+      "heading": "Inside a Data Centre",
+      "paragraphs": [
+        "Let us visit one. Picture a long, low building, often windowless, sitting in a field near a power station or a big river. There are tall fences, cameras, security guards and gates that open only for the right badge. Inside, you might have to pass a fingerprint or eye scanner before you even reach the computer halls. Companies guard these places carefully, because they hold the data of millions of people.",
+        "Now open the door to a computer hall. The first thing you notice is the noise: a steady roar from thousands of fans. The second is the size. Rows of tall metal cabinets called racks stretch away like library shelves, each about two metres tall. Each rack holds dozens of flat computers called servers, stacked like pizza boxes, with blinking green and blue lights and thick bundles of cables running out of the back. A big data centre can contain tens of thousands of servers or more. Big cloud companies even design their own servers, leaving out anything they do not need, such as screens or fancy cases.",
+        "Every one of those computers turns electricity into heat, just as your laptop gets warm on your knees. Packed together, they would quickly cook themselves, so cooling is one of the biggest jobs in the building. Many halls are arranged into 'cold aisles' and 'hot aisles'. Cool air is blown into the aisle at the front of the racks, the servers suck it in, and hot air comes out the back into a separate aisle, where it is carried away. Some data centres use giant air-conditioning machines. Others cool air by evaporating water, a bit like the way sweat cools your skin. In chilly places, engineers can simply use cold outside air for much of the year. Google's data centre at Hamina in Finland uses cold seawater from the Gulf of Finland, and a project there is planned to send waste heat to warm local homes and businesses.",
+        "A data centre must never simply switch off. If the power from the grid flickers, rooms full of batteries take over instantly. Within seconds, enormous diesel generators, each one the size of a lorry, roar into life and keep everything running until the grid comes back. Engineers also practise for disasters: networks are connected by more than one fibre cable, important data is copied to other buildings far away, and broken parts are swapped out every day. In a building with hundreds of thousands of hard drives, some will fail on any given day, so the system is designed to shrug it off.",
+        "Now the important part: the cloud is not weightless, and it certainly does not run on nothing. The International Energy Agency (IEA) estimated that data centres around the world used about 415 terawatt-hours of electricity in 2024, roughly 1.5% of all the electricity the world used. That is in the same range as the yearly electricity use of a large country such as France. The IEA found that this use had been growing by about 12% a year over the previous five years, and expected it to roughly double by 2030, mainly because of artificial intelligence.",
+        "Water matters too. Data centres that cool themselves by evaporation can use large amounts of water, which is a real concern in dry regions. That is why engineers keep inventing better designs. They measure efficiency with a number called PUE, power usage effectiveness: the total electricity the building uses divided by the electricity that actually reaches the computers. A perfect score would be 1.0, meaning no energy at all is spent on cooling or lighting. The best modern data centres come quite close to that, while older ones can use far more. Many cloud companies also buy electricity from wind and solar farms, though making every hour of every day clean is still a hard puzzle."
+      ]
+    },
+    {
+      "heading": "A Fizzy Drink and a Coffee Pot Go Online",
+      "paragraphs": [
+        "The cloud is not only about people storing files. It is also about things talking to the Internet by themselves. And this story begins, as so many good computer stories do, with thirsty programmers.",
+        "At Carnegie Mellon University in Pittsburgh, the computer science department had a Coca-Cola vending machine that was popular because it sold bottles cheaply. The trouble was that it sat a long walk from many offices, and freshly loaded bottles stayed warm for a while. Nobody wanted to trek over only to find the machine empty, or to get a warm drink. So in 1982, a group of students and staff, among them Mike Kazar, David Nichols, John Zsarnay and Ivor Durham, wired it up. Small switches in the machine's six columns sensed the bottles, and a program kept track of how long each one had been inside, so it knew which were cold.",
+        "Anyone on the university's computers could then type a short command, 'finger coke' followed by the machine's network name, and get a report on which columns had bottles and whether they were cold yet. Because the university's computers were connected to the ARPANET, people elsewhere on the network could ask too. It is often called one of the very first Internet-connected appliances. The university says the department was drinking about 120 bottles a day at one point, so the information was genuinely useful.",
+        "Over in England, at the University of Cambridge Computer Laboratory, a different drink caused a different problem. In 1991, about fifteen researchers working in and around a room called the Trojan Room shared a single coffee machine in the corridor. People on other floors would climb the stairs only to find the pot empty. Quentin Stafford-Fraser and Paul Jardetzky came up with a clever fix. They pointed a camera at the pot, ran cables to a computer with a 'frame grabber' that could capture pictures, and wrote a little program called XCoffee. It showed a tiny, grey, low-resolution image of the pot in the corner of their screens, updated about three times a minute.",
+        "In November 1993, Daniel Gordon and Martyn Johnson connected the coffee camera to the World Wide Web, which by then had just become free for everyone (Part 10). Now anyone, anywhere in the world, could check the coffee level in a Cambridge corridor. Hundreds of thousands of people did, which is funny, because none of them could drink it. It is often described as the world's first webcam. When the lab moved buildings in 2001, the camera was switched off at 10:54 on 22 August 2001, and the coffee machine was sold on eBay for £3,350 to the German news website Spiegel Online.",
+        "In 1999, a British technologist named Kevin Ashton gave a name to the bigger idea. He was working with tiny radio tags, called RFID tags, that could let products such as lipsticks and shampoo bottles report where they were in shops and warehouses. In a presentation he gave while working at the company Procter and Gamble, he called this the 'Internet of Things', and the phrase stuck. The idea is simple: not just people, but objects, could have sensors, collect information and share it over the Internet without a human typing anything.",
+        "Today the Internet of Things, or IoT, is all around us. Smart thermostats learn when a family is home and adjust the heating. Video doorbells send a picture to a phone when someone rings. Fitness watches count steps and heartbeats. Farm sensors measure how wet the soil is so that crops get exactly the water they need, and city sensors track traffic and air pollution. Many of these gadgets send their data to the cloud, where it is stored and analysed, and then send instructions back.",
+        "There is a catch, and it connects to Part 17. Lots of cheap gadgets were sold with weak, built-in passwords that owners never changed. In 2016, a piece of malware called Mirai took over a huge number of internet-connected cameras and home routers and used them, all at once, to flood a company that helps run the Domain Name System. For several hours many popular websites were hard to reach for people in parts of the United States and Europe. The lesson: every connected thing, even a toaster or a baby monitor, is a little computer that needs updates and a good password."
+      ]
+    },
+    {
+      "heading": "Giant Brains in the Cloud",
+      "paragraphs": [
+        "When you ask a voice assistant what the weather will be, or use a chatbot to help explain a maths problem, the thinking usually is not happening inside your phone. Your words are turned into data, sent over the Internet to a data centre, processed by powerful computers, and the answer is sent back, often in well under a second. Modern artificial intelligence, or AI, is one of the biggest jobs the cloud has ever been given.",
+        "Why does AI need so much computing? Today's large AI systems are built from what are called neural networks, loosely inspired by brain cells. A big one contains billions of adjustable numbers, called parameters. To train the system, computers show it enormous amounts of text, pictures or sound and nudge all those numbers, again and again, so that its guesses get a little better each time. That means doing a mind-boggling number of simple multiplications and additions. Training a leading AI model can keep thousands of specialised chips busy for weeks or months.",
+        "The chips most used for this are graphics processing units, or GPUs. They were first designed to draw the pictures in video games, which also means doing millions of small calculations at the same time. Engineers discovered that this skill was perfect for AI. Some companies have designed their own AI chips too; Google, for example, announced chips it calls Tensor Processing Units in 2016. These chips are packed into racks so tightly, and run so hot, that some new data centres cool them with liquid flowing through pipes right next to the chips instead of with air alone.",
+        "Training is only half the story. Every time someone asks an AI a question, the system has to run again to produce an answer. Engineers call this 'inference'. One question uses only a little energy, but when hundreds of millions of people ask questions every day, it adds up. This is the main reason the IEA expects data centre electricity use to keep climbing, and why technology companies are building new data centres and signing deals for more power stations, including wind, solar and even nuclear power.",
+        "There are good sides to having AI in the cloud. A small company or a school does not need to buy a supercomputer to use powerful tools; it can rent them. Scientists can use cloud computers to study weather, design medicines or sort through millions of telescope images. But it also raises fair questions that thoughtful people are still debating: how much energy and water should go into AI, who owns the data the systems learn from, and how can we tell whether an answer is actually true? We will return to some of these big questions in the final part."
+      ]
+    },
+    {
+      "heading": "The Cloud's Good Days and Bad Days",
+      "paragraphs": [
+        "Living in the cloud has real advantages. If your tablet falls in a swimming pool, your photos may already be safely copied elsewhere. Teachers can share work with a whole class in seconds. Families on different continents can edit the same holiday plan. A tiny start-up can serve millions of people without owning a single server. And because big companies spread data over several buildings, the cloud can be more reliable than one computer under somebody's desk.",
+        "But putting so much in so few places has risks too. On 28 February 2017, an engineer at Amazon Web Services was fixing a problem with S3 and typed a command meant to take a small number of servers offline. A mistake in the command removed far more than intended. For several hours, a large part of S3 in one region of the eastern United States stopped working properly, and many popular websites and apps that relied on it broke too. Amazon explained what went wrong and changed its tools so one command could no longer remove so much at once. The lesson was clear: when lots of services rely on the same cloud, a single slip can be felt by millions.",
+        "There are other questions to think about. If the cloud company closes down or changes its rules, what happens to your files? Who can see your data, and which country's laws apply to it? What happens when the Internet connection fails and your documents are all stored far away? Sensible people keep important things in more than one place, read the privacy settings and remember that 'free' cloud services are often paid for with adverts and data, as we saw in Part 18.",
+        "So the next time you upload a drawing or stream a song, picture its real journey: through your Wi-Fi, along fibre cables, into a humming hall full of blinking racks cooled by chilled air or water, copied onto several drives, ready to be sent back the instant you ask. The cloud is not fluffy at all. It is one of the biggest and most carefully built machines on Earth.",
+        "And yet, not everyone can reach it. Remember the billions of people still offline from Part 18, many in remote villages, on islands, or in mountains where laying cables is hard and expensive. To reach them, engineers are now looking upwards. Right now, above your head, thousands of new satellites are circling the Earth, and rockets keep launching more. Could the Internet's next big leap come from the sky?"
+      ]
+    }
+  ],
+  "deepDive": "Historians and economists often describe cloud computing as a shift from owning computers to renting computation, much like factories switched from running their own steam engines to buying electricity from the grid. Writer Nicholas Carr made this comparison famous in his 2008 book 'The Big Switch'. The comparison is helpful but not perfect. Electricity is the same wherever it comes from, while computing services differ in software, privacy rules, prices and the difficulty of moving your data elsewhere, a problem engineers call 'lock-in'. Because a handful of companies (Amazon, Microsoft and Google above all) run a large share of the world's rented computing, regulators in Europe and elsewhere have studied whether customers can switch providers easily and whether outages at one company are a risk to whole economies. Energy is the other big debate. The International Energy Agency estimated that data centres used about 415 terawatt-hours of electricity in 2024, about 1.5% of global demand, and projected roughly 945 terawatt-hours by 2030, with AI the main driver. Estimates vary widely, partly because companies do not publish all their data and partly because efficiency keeps improving: better chips, smarter cooling and higher server use can mean far more computing for the same energy. Engineers track efficiency with power usage effectiveness (PUE), the ratio of total facility power to the power used by computing equipment; leading hyperscale data centres report figures close to 1.1, while older facilities can be much higher. PUE says nothing about whether the electricity is clean, or about water, which is why researchers also measure carbon emissions and water use. Some argue that moving work from many small, inefficient office server rooms into large, well-run cloud data centres saves energy overall; others warn of a 'rebound effect', where cheaper computing simply leads people to use much more of it. Both effects are probably happening at once, and the balance between them is one of the open questions of this century.",
+  "funFact": "The Trojan Room coffee pot at Cambridge, often called the subject of the world's first webcam, was sold on eBay in 2001 for £3,350.",
+  "check": {
+    "q": "What is 'the cloud' really?",
+    "a": "Computers in data centres, owned by companies, that you use over the Internet",
+    "wrong": [
+      "Data stored in water droplets in the sky",
+      "A satellite that holds everyone's photos",
+      "A special part inside your phone that stores files forever"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Announcing Amazon S3 - Simple Storage Service",
+      "publisher": "Amazon Web Services",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2006/03/13/announcing-amazon-s3---simple-storage-service/"
+    },
+    {
+      "title": "Announcing Amazon Elastic Compute Cloud (Amazon EC2) - beta",
+      "publisher": "Amazon Web Services",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2006/08/24/announcing-amazon-elastic-compute-cloud-amazon-ec2---beta/"
+    },
+    {
+      "title": "The History of Salesforce",
+      "publisher": "Salesforce",
+      "url": "https://www.salesforce.com/news/stories/the-history-of-salesforce/"
+    },
+    {
+      "title": "Timeline of Computer History: Networking and the Web",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/timeline/networking-the-web/"
+    },
+    {
+      "title": "The CMU SCS Coke Machine",
+      "publisher": "Carnegie Mellon University School of Computer Science",
+      "url": "https://www.cs.cmu.edu/~coke/"
+    },
+    {
+      "title": "Data center (energy use, citing IEA estimates)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Data_center"
+    },
+    {
+      "title": "Trojan Room Coffee Pot timeline",
+      "publisher": "University of Cambridge Computer Laboratory",
+      "url": "https://www.cl.cam.ac.uk/coffee/qsf/timeline.html"
+    },
+    {
+      "title": "Spotify company info",
+      "publisher": "Spotify Newsroom",
+      "url": "https://newsroom.spotify.com/company-info/"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The Trojan Room coffee pot at the University of Cambridge Computer Laboratory, subject of an early webcam",
+      "search": "Trojan Room coffee pot Cambridge"
+    },
+    {
+      "want": "Rows of server racks with blinking lights inside a large data centre hall",
+      "search": "data center server racks aisle"
+    },
+    {
+      "want": "Photograph of a Google or other large data centre building from outside, with cooling equipment",
+      "search": "Google data center building exterior"
+    }
+  ]
+}

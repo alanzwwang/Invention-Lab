@@ -1,0 +1,152 @@
+{
+  "n": 13,
+  "title": "Coast to Coast and Across the Sea by Radio",
+  "when": "1885 – 1940s",
+  "summary": "In 1915 Alexander Graham Bell picked up a phone in New York and talked to his old friend Thomas Watson in San Francisco, almost the whole width of America away. To make that possible, engineers had to invent clever coils and glowing glass tubes that kept voices loud. A few years later, people could even phone across the Atlantic Ocean by radio, if they had 75 dollars to spare!",
+  "sections": [
+    {
+      "heading": "A Company Built for Distance",
+      "paragraphs": [
+        "By the early 1880s, telephones were no longer a wonder only scientists had seen. Towns all over the United States had their own little exchanges, with operators plugging cords into switchboards. But almost every one of those networks was an island. A doctor in Boston could call a pharmacy in Boston, but calling a customer in New York, about 300 kilometres (190 miles) away, was a different matter entirely. The wires that worked fine across a town turned voices into faint, mushy whispers when they were stretched between cities.",
+        "The leaders of the American Bell Telephone Company understood that whoever solved long distance would own the future of the telephone. So on March 3, 1885, they set up a new company in New York with a long, serious name: the American Telephone and Telegraph Company, soon known everywhere by its initials, AT&T. At first AT&T was a side project, a company whose single job was to build and run long-distance lines that would knit the local Bell companies together. One of its first big lines connected New York and Philadelphia, and by 1892 a line stretched from New York to Chicago, about 1,500 kilometres (950 miles).",
+        "Something surprising happened over the next few years: the side project grew bigger than its parent. On December 30, 1899, the whole business was reorganized and AT&T became the parent company of the Bell System, the family of Bell companies, factories and laboratories that would run most of America's telephones for most of the twentieth century.",
+        "The person who shaped that system more than anyone was Theodore Vail. Vail had started his career as a telegraph operator and then ran the Railway Mail Service, which sorted letters on moving trains. He had worked for Bell's company in its early years, left, and then returned as president of AT&T in 1907. Vail had a big, simple idea, which he summed up in a slogan: “One Policy, One System, Universal Service.” He believed a telephone was only as useful as the number of people you could reach with it. A phone that connected you to your neighbours was handy; a phone that connected you to anyone in the country was something much more powerful.",
+        "Vail's vision had two sides, and it is fair to look at both. On one side, it pushed engineers to make the network reach farther and work better, and it gave customers a phone that worked the same way everywhere. On the other side, “one system” meant one company in charge. Many smaller independent phone companies had sprung up after Bell's first patents expired in the 1890s, and the Bell System bought up many of them. In 1913 the US government stepped in, and AT&T agreed to a deal called the Kingsbury Commitment, promising to sell its shares in the Western Union telegraph company, to stop swallowing up independent companies without permission, and to let independents connect to its long-distance lines. The story of the Bell System's power, and the fights it caused, comes later in this Deep Dive. For now, the important thing is that Vail had both the money and the stubbornness to attempt something no one had ever done: a phone line from one side of the continent to the other."
+      ]
+    },
+    {
+      "heading": "Why Voices Fade on Long Wires",
+      "paragraphs": [
+        "To understand why long distance was so hard, imagine your voice as a pattern of electric current, rising and falling hundreds or thousands of times every second to match the vibrations of your vocal cords. That pattern has to travel down a copper wire. Two sneaky problems attack it along the way.",
+        "The first problem is resistance. Even a good copper wire pushes back a little against the current flowing through it, turning some of the electrical energy into a tiny amount of heat. Over a few kilometres you would never notice. Over hundreds of kilometres, the losses add up, and the voice signal grows weaker and weaker, like a shout fading as you walk away from someone in a field.",
+        "The second problem is harder to picture. A telephone line usually has two wires running side by side, and two wires next to each other can store a little electric charge between them, a property engineers call capacitance. On a long line, that stored charge acts like a sponge. It soaks up the quick wiggles of the signal and lets them seep out slowly. The result is that the high notes of a voice, which give words their crisp edges, get smeared and blurred more than the low notes. Sounds like s, f and t lose their sharpness, and speech turns into a muffled mumble even if it is still loud enough to hear. This is the same family of problem William Thomson had studied in the long undersea telegraph cables back in the 1850s.",
+        "The early fix was brute force: use thicker wire. Thick copper has less resistance, so the first long-distance lines used heavy wire strung on tall poles. The New York to Chicago line of 1892 used unusually thick copper wire, many tonnes of it, and copper was expensive. Even so, there was a practical limit. Without new tricks, clear speech over an ordinary line could only reach a few hundred kilometres before it became too faint and blurry to use. Experts often quote a working limit of roughly 160 kilometres (100 miles) for ordinary lines before the next invention came along. A line across the whole United States, thousands of kilometres long, seemed impossible.",
+        "Engineers needed two kinds of help: something to stop the smearing, and something to make weak voices strong again. The first answer would come from coils of wire. The second would come from a glowing glass bulb."
+      ]
+    },
+    {
+      "heading": "A Coil Every Few Kilometres",
+      "paragraphs": [
+        "Back in 1887, an English scientist named Oliver Heaviside, who worked alone and wrote his ideas in difficult mathematics, figured out something that seemed backwards. He showed that adding a property called inductance to a telephone line could actually reduce the smearing. Inductance is the tendency of a coil of wire to resist sudden changes in current, a bit like a heavy flywheel that is hard to start and hard to stop. Heaviside realized that, in the right amount, inductance could balance out the sponge effect of capacitance, so that high and low notes of a voice would travel along the line together instead of falling out of step. Heaviside never patented his idea, and for years few people knew how to turn it into hardware.",
+        "Around 1899, two men in America worked out how to do it, almost at the same moment. One was George Ashley Campbell, a young mathematician and engineer working for AT&T in Boston. The other was Michael Pupin, a professor at Columbia University in New York. Pupin's own life story was remarkable: he had arrived in America as a teenager from Idvor, a Serbian village then in the Austrian Empire, with almost no money, worked on farms and in factories, and fought his way into Columbia, then went on to study physics in Europe before becoming a professor.",
+        "Campbell and Pupin both worked out the practical answer: instead of trying to spread inductance evenly along the whole wire, you could insert small coils of wire at regular spacing, a bit like putting stepping stones across a stream. If the coils were close enough together, the line behaved almost as if the inductance were smooth. These became known as loading coils, and a line fitted with them was called a loaded line. In American practice, the coils were typically placed roughly every 1.6 to 1.8 kilometres (about a mile), hidden in boxes on poles or in underground vaults.",
+        "Campbell tested a loaded cable in Boston in September 1899, and the first loaded line carrying real customer calls began working in May 1900 between Jamaica Plain and West Newton in Massachusetts. Both Campbell and Pupin applied for patents. Pupin's application had been filed first, and AT&T, worried about a long legal fight, decided to buy the rights to Pupin's patent. Accounts of the price vary, but one widely repeated version is $185,000 in cash plus $15,000 a year for as long as the patent lasted, an enormous sum at the time, and it made Pupin a wealthy man. Many historians today say Campbell deserves at least equal credit, because he did much of the careful engineering that made loading work on real lines. Once again, as with the telephone itself, an important invention had more than one parent.",
+        "The results were dramatic. Loading coils let the same voice travel roughly twice as far, or let the company use much thinner, cheaper copper wire for the same distance. Over the following decades the Bell System installed loading coils in enormous numbers. Using thinner wire is estimated to have saved AT&T around 100 million dollars in the first quarter of the twentieth century. Loaded lines pushed the Bell network westward, and by 1911 a long-distance line reached from New York all the way to Denver, Colorado, more than 2,700 kilometres (1,700 miles) away. That was about as far as loading alone could go. To cross the Rocky Mountains and reach the Pacific, the voice needed something that could do more than slow down the smearing. It needed to be made louder."
+      ]
+    },
+    {
+      "heading": "A Glowing Tube That Makes Voices Louder",
+      "paragraphs": [
+        "What engineers really wanted was an amplifier, also called a repeater: a device placed partway along a line that takes in a weak, tired voice signal and sends out a strong copy of it. People had tried mechanical repeaters, in which an earpiece-like receiver was pressed against a microphone to give the voice a push. They worked a little, but they added hiss and distortion, and you could not chain many of them together without the voice becoming a scratchy mess.",
+        "The answer came from an unexpected direction: early radio. In 1906 an American inventor named Lee de Forest took a glass bulb similar to a light bulb, with a glowing filament inside, and added a small zigzag of wire between the filament and a metal plate. He called his invention the Audion. That extra piece of wire, later called the grid, turned out to be magic. A tiny changing voltage on the grid could control a much larger current flowing through the tube, the way a small turn of a tap controls a big flow of water. That is exactly what an amplifier does: a small signal steers a big one, so the big one becomes an enlarged copy of the small one.",
+        "De Forest himself did not fully understand how his tube worked, and his early Audions were unreliable. They contained some leftover gas, which made them glow blue and behave unpredictably. In 1913 Western Electric, the Bell System's manufacturing company, bought rights to use the Audion. AT&T engineers, led by a physicist named Harold Arnold, set to work improving it. Arnold realized that the gas was the problem and that the tube worked far better when almost every bit of air was pumped out to make a high vacuum. At about the same time, Irving Langmuir at General Electric came to similar conclusions. The result was the vacuum tube, a dependable amplifier that would power radios, telephone networks and the first electronic computers for the next forty years.",
+        "Now the long-distance plan finally made sense. Loading coils would keep the voice from smearing, and vacuum-tube repeaters placed at stations along the route would boost it whenever it got weak. Each repeater station was a small building with racks of equipment, glowing tubes and technicians who kept everything adjusted. In a way, it was a high-tech version of the old relay runners from the start of this story: the voice ran for a while, got tired, and was handed on, fresh and strong, to the next stretch of wire."
+      ]
+    },
+    {
+      "heading": "Stringing a Wire Across a Continent",
+      "paragraphs": [
+        "Theodore Vail had made a bold public promise. In 1909, before anyone knew whether the vacuum tube would work, AT&T committed to building a telephone line from New York to San Francisco. A great world's fair, the Panama-Pacific International Exposition, was planned for San Francisco in 1915 to celebrate the opening of the Panama Canal, and AT&T wanted to open coast-to-coast calling in time for it.",
+        "Building the line was a giant outdoor adventure as well as a scientific one. Crews had to carry poles and wire across prairies, deserts, the Rocky Mountains and the Sierra Nevada. The wires were open copper wires strung on crossarms of wooden poles, and the line needed tens of thousands of poles; a commonly quoted figure is around 130,000. Workers dug holes in frozen ground, hauled equipment by wagon where there were no roads, and fought snowstorms in the mountains and blazing heat in the Nevada and Utah deserts.",
+        "On June 17, 1914, crews set the final pole at Wendover, on the border between Utah and Nevada, connecting the eastern and western halves. In July 1914 engineers made the first successful voice tests across the whole line, and Vail himself spoke across the continent that summer. But AT&T held back the grand public opening for months, waiting for the Exposition. The finished route stretched about 5,400 kilometres (3,400 miles) from New York to San Francisco, and the call travelled through a few vacuum-tube repeater stations along the way. Without those tubes, the voice would have faded to nothing long before it reached California."
+      ]
+    },
+    {
+      "heading": "January 25, 1915: Watson, Come Here Again",
+      "paragraphs": [
+        "Picture the scene. It is late afternoon on January 25, 1915, and in a room at AT&T's offices at 15 Dey Street in lower Manhattan, a crowd of officials and reporters is watching an old man with a white beard. Alexander Graham Bell is now 67 years old. Nearly 39 years earlier, in a cramped workshop in Boston, he had spoken the first famous sentence ever carried by a telephone. Now, 5,400 kilometres away, at 333 Grant Avenue in San Francisco, his former assistant Thomas Watson is holding a receiver to his ear.",
+        "The call was organized like a celebration. Other people listened in from other places: President Woodrow Wilson joined from the White House in Washington, D.C., and Theodore Vail, who was unwell, listened from Jekyll Island in Georgia. Bell spoke into the transmitter and, for the cameras and reporters, repeated a version of his famous first words, reported in the newspapers as “Mr. Watson, come here, I want you.” (Remember that in his 1876 notebook, the line was written as “Mr. Watson — come here — I want to see you.”)",
+        "Watson's answer was a joke that made everyone laugh. Accounts differ on the exact wording. Some say he replied that it would take him a week to get there; others quote him as saying it would take five days. Either way, the point was clear and wonderful: Watson could hear Bell instantly, but crossing the same distance in person would take days on a fast train.",
+        "For AT&T, the call was partly a science triumph and partly a giant advertisement. The line had actually been working for some months, but the Bell-and-Watson conversation gave the public a story they would never forget. The service was not cheap. A three-minute call from New York to San Francisco in 1915 cost about $20.70, which was more than many workers earned in a week. Most people would not make a coast-to-coast call for years. Still, the message was out: distance itself had been beaten. A voice could now cross a continent in a tiny fraction of a second.",
+        "There is a lovely symmetry in this moment. The same two men who had first heard a voice travel from one room to another were now hearing each other across America. In just under four decades, the telephone had gone from a fragile experiment with acid and wires to a continent-spanning machine with coils, vacuum tubes and thousands of workers keeping it alive."
+      ]
+    },
+    {
+      "heading": "Voices Over the Waves: Calling Across the Atlantic by Radio",
+      "paragraphs": [
+        "Once America was crossed, the next obvious target was the ocean. But there was a big problem. Telegraph cables had crossed the Atlantic since 1866, but those cables carried simple on-off clicks, slowly. A voice signal is far more complicated, and the old cable designs could not carry it. Over thousands of kilometres of seabed, a voice would be smeared and weakened beyond rescue, and nobody yet knew how to place amplifiers safely on the bottom of the ocean.",
+        "So engineers turned to the sky. Radio waves, invisible waves of electromagnetic energy, could travel across the ocean without any wire at all. In 1915, the same year as the transcontinental call, AT&T engineers used banks of vacuum tubes at a powerful US Navy radio station in Arlington, Virginia, to send speech by radio. Listeners heard it as far away as Hawaii in one direction and Paris, at the Eiffel Tower, in the other. It was the first known time a human voice crossed the Atlantic, even though the conversation only went one way.",
+        "Turning that experiment into a reliable public service took more than ten years. AT&T in America and the British Post Office, which ran Britain's phone system, worked together on powerful long-wave radio stations, with a huge transmitter at Rugby in England and a matching system on the American side. On March 7, 1926, a test call travelled by radio between London and New York. Then, on January 7, 1927, commercial service opened. Walter Gifford, the president of AT&T, spoke from New York with Sir Evelyn Murray of the British Post Office in London, and paying customers could book calls the same day.",
+        "Those calls were astonishingly expensive: $75 for the first three minutes, with each extra minute costing about $25 more. In today's money, a short call cost well over a thousand dollars. In the beginning, the system could handle only one conversation at a time, so callers booked their calls in advance through an operator, almost like reserving a seat on a ship. Most early customers were bankers, newspapers, businesses and the very wealthy.",
+        "Radio telephone had other weaknesses too. Radio signals bouncing around the atmosphere could fade, crackle or vanish during storms and at certain times of day. And radio was not private. Anyone with the right receiver could listen in, so over time engineers added scrambling equipment that jumbled the sound, so that a casual eavesdropper would hear only gibberish (though it was not strong enough to stop a determined spy). During the 1930s, the service improved, expanded to shorter radio waves that could carry more calls, and spread to more countries, connecting America by radio telephone to much of Europe, South America and beyond. Ships at sea gained radio telephones too. By the late 1930s, a person in New York could, with enough money and patience, talk to most of the developed world."
+      ]
+    },
+    {
+      "heading": "Telephones in Every Town, and a Minute of Silence",
+      "paragraphs": [
+        "While engineers stretched lines across continents and oceans, the telephone was quietly becoming an ordinary part of life. Around 1900 there were roughly 1.4 million telephones in the United States. By 1920 there were more than 13 million. In cities, phones moved from shops and offices into apartments and houses. People began to expect that the doctor, the grocer and the fire station could be reached with a call, and a later part of this Deep Dive will look closely at how that changed everyday life.",
+        "For people who did not have a phone at home, or were out and about, there were public telephones. Early ones were often attended phones in shops, hotels, railway stations and drugstores, where an attendant collected the money. After coin-operated pay phones appeared, they spread quickly, and by the early twentieth century many cities had wooden or glass telephone booths with folding doors that gave the caller a little privacy from the noisy street. In Britain, the Post Office introduced its famous red telephone kiosks in the 1920s and 1930s, designed by the architect Giles Gilbert Scott, and many still stand today as beloved landmarks.",
+        "Alexander Graham Bell himself had long since moved on to other inventions. He spent much of his later life at Beinn Bhreagh, his estate on Cape Breton Island in Nova Scotia, Canada, experimenting with giant kites built from tetrahedrons, flying machines, and fast boats called hydrofoils. One of his hydrofoils, the HD-4, set a world water-speed record of about 114 kilometres per hour (71 miles per hour) in 1919.",
+        "Bell died at Beinn Bhreagh on August 2, 1922, aged 75, after suffering from complications of diabetes. His family buried him on top of a hill on his estate, overlooking the Bras d'Or Lake. Then something moving happened. As a tribute, telephone service across the United States and Canada was reportedly halted for one minute, at about 6:25 in the evening, Eastern time. For sixty seconds, the great network that had grown from his invention fell silent. Millions of phones, thousands of switchboards and long-distance lines from coast to coast went quiet together, a silence that showed just how big his invention had become.",
+        "Yet there was still one gap that wires could not cross. Radio calls over the ocean were expensive, crackly and few. Engineers dreamed of something better: a voice cable lying along the ocean floor, like the old telegraph cables, but with amplifiers sealed against the crushing deep sea, so that voices could cross the Atlantic as clearly as they crossed America. It would take another world war, and a tiny new invention from Bell's own laboratories, to begin to make that dream come true."
+      ]
+    }
+  ],
+  "deepDive": "The engineering story of long-distance telephony is really a story about two enemies: attenuation (the signal getting weaker) and distortion (different parts of the signal arriving changed or out of step). In the 1880s and 1890s, Oliver Heaviside wrote down the 'telegrapher's equations', which describe a line in terms of four quantities per unit length: resistance, inductance, capacitance and leakage. He showed that if these are balanced in a particular ratio, a line becomes 'distortionless': all frequencies are weakened by the same amount and travel at the same speed. Real copper lines had far too little inductance, so the high frequencies of speech lagged and faded faster than the low ones. Loading coils, inserted at regular intervals, raised the effective inductance. The trade-off was that a loaded line acts as a low-pass filter, cutting off frequencies above a certain point; engineers chose spacing so that the cutoff stayed above most of the frequencies that matter for understanding speech (telephone circuits came to carry roughly 300 to 3,400 hertz). Historians still debate credit for loading. Pupin won the patent contest and was paid handsomely by AT&T, but Campbell's mathematics and field tests were at least as important, and Campbell went on to invent the electric wave filter. The vacuum-tube amplifier introduced a new design problem: each repeater amplifies noise as well as signal, and a two-way telephone line can 'sing' (howl with feedback) if the gain is too high. Bell System engineers developed careful gain settings and devices called hybrids to separate the two directions of conversation. Within a few years, the same tubes made 'carrier' systems possible, in which several conversations were shifted to different frequencies and sent along one pair of wires at once, a technique that would eventually carry thousands of calls on a single cable. Radio telephony used long-wave frequencies at first, which travel along the curve of the Earth; later shortwave links bounced signals off the ionosphere, a charged layer of the upper atmosphere, giving more capacity but less reliability, since ionospheric conditions change with the time of day, the seasons and the Sun's activity.",
+  "funFact": "When Bell died in 1922, telephone service across the United States and Canada was reportedly silenced for one minute in his honour.",
+  "check": {
+    "q": "Which glowing device, improved by Bell System engineers, made the 1915 coast-to-coast telephone call possible by making weak voices louder?",
+    "a": "The vacuum-tube amplifier (developed from Lee de Forest's Audion)",
+    "wrong": [
+      "The carbon microphone",
+      "The transistor",
+      "The rotary dial"
+    ]
+  },
+  "sources": [
+    {
+      "title": "First transcontinental telephone call",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/First_transcontinental_telephone_call"
+    },
+    {
+      "title": "History of Communications timeline: 1915",
+      "publisher": "IEEE Communications Society",
+      "url": "https://www.comsoc.org/node/18886"
+    },
+    {
+      "title": "History of Communications timeline: 1900 (loading coils)",
+      "publisher": "IEEE Communications Society",
+      "url": "https://www.comsoc.org/node/18806"
+    },
+    {
+      "title": "AT&T Corporation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/AT%26T_Corporation"
+    },
+    {
+      "title": "Audion",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Audion"
+    },
+    {
+      "title": "First Transatlantic Telephone Call",
+      "publisher": "This Day in Tech History",
+      "url": "https://thisdayintechhistory.com/03/07/first-transatlantic-telephone-call"
+    },
+    {
+      "title": "Alexander Graham Bell",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell"
+    },
+    {
+      "title": "Loading coil",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Loading_coil"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Photograph of Alexander Graham Bell at the telephone in New York opening the first transcontinental line in January 1915",
+      "search": "Bell 1915 transcontinental telephone call New York"
+    },
+    {
+      "want": "An early Audion vacuum tube invented by Lee de Forest, glass bulb with filament, grid and plate",
+      "search": "de Forest Audion vacuum tube 1906"
+    },
+    {
+      "want": "A telephone loading coil or loading coil case used on long-distance telephone lines",
+      "search": "telephone loading coil"
+    }
+  ]
+}

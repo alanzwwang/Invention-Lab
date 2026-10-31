@@ -1,0 +1,2 @@
+smartphone 11 15
+smartphone 16 20

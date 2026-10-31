@@ -1,0 +1,153 @@
+{
+  "n": 18,
+  "title": "Pocket Phones for Everyone",
+  "when": "1990s – 2000s",
+  "summary": "In the 1990s phones went digital, shrank to fit in a pocket, and learned to send text messages, starting with a simple 'Merry Christmas' in 1992. Cheap, tough phones spread to villages that had never had a telephone line at all. Today there are more mobile phone subscriptions on Earth than people!",
+  "sections": [
+    {
+      "heading": "What Really Happens When You Press Call",
+      "paragraphs": [
+        "Imagine you are standing in a park and you call your grandmother. You tap her name, hold the phone to your ear, and a few seconds later she says hello. It feels like magic, but a lot is happening in those few seconds, and almost all of it happens by radio.",
+        "Your phone is really a small two-way radio, like the car phones of 1946 from Part 17, only far smaller and smarter. Somewhere nearby, perhaps on a tall mast, a rooftop or even disguised as a tree or a church tower, there is a base station: a set of antennas and radio equipment that serves one cell of the network. When you press call, your phone sends a short radio message to the strongest base station it can hear, saying, in effect, 'This is me, and I want to reach this number.'",
+        "The base station is connected, usually by cable or fiber-optic line and sometimes by a microwave radio link, to a mobile switching centre. That is the modern version of the telephone exchange from Part 11, except that instead of operators with plugs and cords, it is run by powerful computers. The switching centre checks that you are a real customer, works out where your grandmother is, and connects the two of you. If she is on a landline, the call goes out into the ordinary wired telephone network. If she has a mobile phone too, the network finds the cell she is in and rings her phone by radio.",
+        "How does the network know where her phone is? Even when nobody is calling, a switched-on phone is quietly busy. Every so often it listens for signals from nearby base stations and tells the network which area it is in. When a call comes in, the network sends out a 'paging' message in that area, a bit like a teacher calling a name in the right classroom instead of shouting through the whole school. Her phone hears its own identity, answers, and starts to ring.",
+        "In the digital phones that arrived in the 1990s, the key to all of this is a tiny card called a SIM, short for Subscriber Identity Module. The SIM holds the secret information that proves to the network which customer you are. Because it can slide out of one phone and into another, you can change handsets and keep your number. Today many phones use a built-in electronic SIM instead, but the idea is the same.",
+        "All of this, from your tap to her ringtone, normally takes only a few seconds. Your voice then travels by radio for only the first short stretch, from your phone to the nearest mast. After that, it usually rushes along cables and fiber, perhaps even under the ocean like the cables in Part 14, before hopping back onto radio for the last stretch to her phone."
+      ]
+    },
+    {
+      "heading": "The Great Hand-Off",
+      "paragraphs": [
+        "Now imagine you are not standing in the park but riding in a car or a train while you talk. Every few minutes, maybe even every few seconds, you leave one cell and enter another. The first base station's signal grows weaker, and a new one grows stronger. If nothing happened, your call would fade into crackles and drop.",
+        "Instead, the network performs a hand-off, also called a handover. While you talk, your phone keeps measuring the strength of signals from the base stations around it and reports back. When a neighbouring cell would give a better connection, the network picks a free channel in that cell, tells your phone to switch, and moves the call over. In good conditions this happens in a fraction of a second, and you do not hear anything at all. Engineers call this a seamless handover. On a long train journey, your call might be handed from cell to cell dozens of times.",
+        "Older analog phones often had a tiny gap during the switch. Some later digital systems became even smoother: in a 'soft handoff', the phone briefly connects to two cells at once and lets go of the old one only when the new one is working well. Hand-offs can still fail, though, which is one reason calls drop in tunnels, in lifts or out in the countryside where cells are far apart.",
+        "Cells come in many sizes. In crowded city centres, where thousands of people may be making calls in a few blocks, a cell might cover only a few hundred metres, and engineers add 'small cells' in places like shopping centres, stadiums and train stations. Out in farmland, where few people live, one tall mast might cover several kilometres, and in very open country a signal can sometimes be picked up from tens of kilometres away. Lower radio frequencies travel farther, so they are useful for big rural cells, while higher frequencies carry more data but need smaller cells.",
+        "Small cells also help your battery. A phone close to its base station does not need to shout. Networks tell each phone to use only as much transmitting power as it needs, so a phone right next to a mast whispers, while a phone at the edge of a cell has to work harder. That is one reason your battery seems to run down faster when the signal is weak.",
+        "This whole system of cells, reuse and hand-offs is the idea that Douglas Ring and W. Rae Young sketched in 1947. It took faster computers, tiny chips and decades of engineering to make it work for billions of people at once."
+      ]
+    },
+    {
+      "heading": "From Analog to Digital: The GSM Revolution",
+      "paragraphs": [
+        "By the late 1980s, first-generation (1G) analog phones had three big problems. They were easy to eavesdrop on, since anyone with a scanner could listen. Cloning let criminals make calls charged to other people. And in Europe, almost every country had its own incompatible system: the Nordic countries had NMT, Britain had a system called TACS, West Germany had another, France another. A business traveller crossing Europe might need several different phones.",
+        "European telephone authorities decided to build one shared system. Back in the early 1980s, their organization, called CEPT, set up a working group named Groupe Special Mobile, French for 'special mobile group', giving the system its name: GSM. In 1987, 13 European countries signed an agreement in Copenhagen to build GSM networks. Later the letters were given a new, English meaning: Global System for Mobile Communications.",
+        "The big change was going digital. Remember that an analog phone sends a smooth copy of the shape of your voice wave. A digital phone measures your voice thousands of times every second and turns each measurement into numbers, ones and zeros. Clever software then squeezes those numbers down, keeping what matters for understanding speech and throwing away the rest. Numbers are easier to protect: they can be scrambled with a secret code, called encryption, so a person with a simple scanner hears only gibberish. Numbers can also be checked and repaired if a few get damaged on the way, so calls sound clearer.",
+        "Digital also let networks squeeze more calls into the same radio waves. GSM uses a method called TDMA, time division multiple access. Each radio channel is chopped into eight tiny time slots that repeat over and over. Eight phones take turns, each sending a short burst of its compressed voice in its own slot, so fast that nobody notices the gaps. It is like eight people sharing one bicycle by riding it for a split second each, in a perfect rotation.",
+        "The first GSM call is usually dated July 1, 1991, in Finland, when former Prime Minister Harri Holkeri used the new Radiolinja network to call Kaarina Suonio, the deputy mayor of the city of Tampere. Like many 'firsts', this one comes with a footnote: engineers had already made test calls on the network before that public ceremony. Still, Finland became the home of the first commercial GSM network.",
+        "GSM spread across Europe and then the world. Because most countries used the same standard, a phone and its SIM card could roam from country to country. In the Americas and parts of Asia, other digital systems competed with GSM, including a US system called D-AMPS and another called CDMA, which spreads each call across a wide band of frequencies. But GSM became the most widely used mobile system on Earth. It passed 2 billion subscribers in 2006 and 3 billion in 2008, and it was used in more than 200 countries and territories."
+      ]
+    },
+    {
+      "heading": "Merry Christmas: The First Text Message",
+      "paragraphs": [
+        "When engineers designed GSM, they added a small extra feature that hardly anyone thought would matter much: the Short Message Service, or SMS. A German engineer named Friedhelm Hillebrand, working with Bernard Ghillebaert from France, helped develop the idea in the mid-1980s. Hillebrand wanted to know how long a message really needed to be. The story goes that he sat at his typewriter writing out sample sentences and questions, and looked at postcards and telex messages. Most said what they needed in fewer than 160 characters. So 160 characters became the limit for a text message.",
+        "Why such a short limit? Text messages were designed to squeeze into the signalling channels a phone network already used for its own housekeeping, such as setting up calls. Those channels had room for only 140 bytes of data at a time, and by using a compact 7-bit code for each letter, engineers could fit 160 characters into that space.",
+        "On December 3, 1992, a young engineer named Neil Papworth, then 22 years old, was working for a company called Sema Group, which was building a messaging system for the British network Vodafone. He sat at a computer and typed a short message: 'Merry Christmas'. It travelled through the Vodafone network to an Orbitel 901 handset belonging to Richard Jarvis, a Vodafone director, who was at the company's Christmas party. It was the first SMS text message.",
+        "Jarvis could not reply, because phones of that time had no way to type and send a message. The first text was sent from a computer, not from a phone. In 1993, the Finnish network Radiolinja offered the first commercial service for sending text messages from person to person, and Nokia's GSM phones of that year were among the first that let ordinary users type and send texts.",
+        "Some phones made texting much easier than others. The Nokia 2010, released in January 1994, is often remembered as one of the first phones that made writing a message simple enough for ordinary people. Phone companies also discovered that texts were cheap for them to deliver, because each one used only a tiny amount of the network, so many began offering texting at low prices or bundled into prepaid plans. That turned out to be exactly what young people with small budgets wanted: a text cost less than a call, could be sent quietly in places where talking was not allowed, and could be read later.",
+        "Typing on a phone keypad took some skill. Each number key held three or four letters, so to write the letter C you pressed the 2 key three times. Typing 'hello' took a surprising number of presses. Teenagers, especially, became incredibly fast at it. Later, 'predictive text' software guessed which word you meant from a single press of each key, and people invented short spellings like 'gr8' and 'c u l8r' to save time and characters.",
+        "Texting started slowly. In 1995 the average GSM customer sent only about 0.4 messages a month. Then it exploded. By the end of 2000 the average was about 35 messages a month per user. On Christmas Day 2006, people in the United Kingdom alone sent more than 205 million texts, and around the world about 6.1 trillion text messages were sent in 2010. Something designed as a minor extra had become one of the most popular ways humans talk to each other."
+      ]
+    },
+    {
+      "heading": "Phones Worth Remembering",
+      "paragraphs": [
+        "In the 1990s and 2000s, mobile phones stopped being bricks and became something you could slip into a jacket pocket. Some models became so famous that people still talk about them today.",
+        "The shrinking was dramatic. The brick of 1983 weighed around a kilogram. By the 2G era of the late 1990s, many popular phones weighed only about 100 to 200 grams, roughly the weight of an apple. Digital chips did more work using less power, batteries improved, and screens moved from glowing red numbers to small black-and-white displays that could show names, menus and messages. Phones also stopped needing a long pull-up antenna; designers tucked it inside the case.",
+        "In January 1996, Motorola unveiled the StarTAC. It folded in half like a seashell, a design called a clamshell or flip phone, and at about 88 grams (3.1 ounces) in its lightest version it was the smallest and lightest mobile phone of its time. It cost about 1,000 dollars when it came out. It is often called the first flip phone, although the Japanese company NEC had already sold a folding phone a few years earlier. The StarTAC could also buzz silently instead of ringing, using a vibrating alert, which helped make it the first phone many people thought of as fashionable.",
+        "The Finnish company Nokia, which had once made rubber boots, paper and cables, became the world's biggest phone maker. Its phones were known for being simple, cheap to run, long-lasting and very tough. The Nokia 3310, released in 2000, became a legend for surviving drops that would smash other phones, and for its battery that could last for days. Nokia phones also made mobile gaming popular with the game Snake, in which you steered a growing line of pixels around the screen without hitting your own tail.",
+        "The best-selling of all was the Nokia 1100, announced in August 2003. It was designed especially for people in developing countries. It had a dust-resistant keypad, grippy sides that would not slip in a sweaty hand in hot, humid weather, and a built-in flashlight you could switch on by holding down a key, very handy in places where electricity cuts were common. It was Nokia's cheapest phone at the time. More than 250 million were sold, making it one of the best-selling phones in history. Nokia's one-billionth phone, sold in 2005, is said to have been a Nokia 1100 bought in Nigeria.",
+        "Then, in 2004, Motorola brought out the Razr V3, a flip phone made of metal and only about 13 millimetres thick when closed. It started out as an expensive, stylish gadget, but after its price came down it became the most popular phone in the United States for several years. Official reports said more than 110 million were sold, and many publications give a figure of around 130 million, making it the best-selling flip phone of all time.",
+        "Just as important as the phones themselves was a new way to pay. Early mobile service usually needed a monthly contract, which often meant a credit check and a bank account. From the mid-1990s, prepaid service spread: you paid in advance, often by buying a scratch card with a secret code at a corner shop or market stall, and topped up your credit whenever you had money. There were no monthly bills and no credit checks, so prepaid phones could be used by teenagers, students, people with small or irregular incomes, and people who had never had a bank account. In many countries, most mobile customers came to use prepaid."
+      ]
+    },
+    {
+      "heading": "Skipping the Landline",
+      "paragraphs": [
+        "Laying copper telephone wires to every home is slow and expensive. Workers have to put up poles or dig trenches, and in thinly populated areas, far-apart villages might each need kilometres of wire. In much of the world, including large parts of Africa and Asia, landline networks had never reached many towns and villages. Some families waited years for a line; many never got one.",
+        "Mobile networks changed that. One tower can serve thousands of people in a wide area without a single wire running to their homes. So many communities skipped the landline entirely and went straight from having no telephone to having mobile phones. People who study technology call this 'leapfrogging', like a frog jumping over a step instead of climbing it.",
+        "The effects could be huge. A farmer could call a market town to check prices before making a long trip to sell crops. A fisher could find out which harbour was paying most for the day's catch. Families separated by work in distant cities could stay in touch. In Bangladesh, a programme called Village Phone, begun in the late 1990s, helped women in rural villages buy a mobile phone and earn money by renting out calls to their neighbours.",
+        "Then phones started carrying money. In March 2007, the Kenyan mobile company Safaricom, working with Vodafone, launched a service called M-Pesa (pesa means 'money' in Swahili). It let people store money on their phone account and send it to someone else with a secure text-message-style transaction protected by a PIN number, without needing a bank. A worker in Nairobi could send money to family in a faraway village in seconds instead of sending cash with a bus driver. By the end of 2011, M-Pesa had about 17 million users in Kenya. A 2016 study in the journal Science estimated it had helped lift about 2 percent of Kenyan households out of poverty, although other researchers have questioned that estimate.",
+        "There are still gaps. According to the International Telecommunication Union (ITU), the United Nations agency for communication technology, about 78 percent of people aged 10 and over around the world owned a mobile phone in 2023. In Africa the figure was about 63 percent. Women were about 8 percent less likely than men to own one. So even though mobile phones reached further and faster than any telephone before them, not everyone is connected yet."
+      ]
+    },
+    {
+      "heading": "3G, 4G, 5G, and a Handoff to Another Story",
+      "paragraphs": [
+        "Engineers count mobile phone history in generations, written with a G. The first generation, 1G, was the analog phones of the 1980s, like the brick. The second generation, 2G, brought digital calls and text messages in the 1990s, with GSM leading the way. Each new generation carried more data, faster.",
+        "The first commercial 3G network opened on October 1, 2001, when Japan's NTT DoCoMo launched service in the Tokyo area using a system called WCDMA. 3G was fast enough for things like simple web pages, email, music downloads and small video calls on a phone. By the middle of 2007, about 200 million people worldwide were using 3G networks.",
+        "4G arrived in December 2009, when the Nordic company TeliaSonera opened the first public network using a standard called LTE, in Stockholm and Oslo. 4G was quick enough to stream video smoothly. Then, in 2019, 5G networks began to switch on around the world, with South Korea and the United States among the first. 5G can carry much more data with less delay, which is useful in crowded places like stadiums and for machines that talk to each other. By 2023, the ITU estimated, about 90 percent of the world's population lived within reach of a 4G network or better, and about 40 percent were covered by 5G.",
+        "Something remarkable happened along the way: there are now more mobile phone subscriptions in the world than there are people, more than 8 billion. That does not mean every single person has a phone. Many people have two subscriptions, for example one for work and one for home, or extra SIMs for tablets, watches and other devices, while others still have none.",
+        "Along with faster networks came a huge change in the phone itself. With 3G, 4G and 5G, the mobile phone stopped being mostly a telephone and turned into a pocket computer with a touchscreen, a camera, maps, apps and the internet. That is a whole story of its own, and you can follow it in the separate Smartphone Deep Dive.",
+        "For this story, the important point is this: in just over 150 years, the telephone went from Bell's wooden box with a wire to a radio in almost every pocket on the planet. So, now that nearly everyone can call nearly anyone, what comes next? Where does calling go from here?"
+      ]
+    }
+  ],
+  "deepDive": "Why did digital win, and why did GSM in particular spread so widely? Technically, digital cellular offered three big gains over analog. First, capacity: speech coding compressed the voice so that, in GSM, eight users could share one 200-kilohertz carrier through time slots, and digital signals tolerate more interference, so channels could be reused more tightly. Second, security: GSM encrypted the radio link and used the SIM to authenticate the subscriber, which largely ended the cloning fraud of the analog era. Security researchers later showed that GSM's original ciphers, A5/1 and A5/2, could be broken, and that GSM checked the user but not the network, weaknesses that later standards fixed with mutual authentication. Third, flexibility: once voice is data, the same network can carry text messages and, eventually, internet traffic. Historians and economists often argue that GSM's success was as much political as technical. European governments and phone companies agreed on a single standard through the 1987 Copenhagen memorandum, which created a huge common market, so manufacturers such as Nokia, Ericsson and Siemens could make phones in enormous numbers, driving prices down. The United States instead let several digital standards compete (D-AMPS, CDMA and GSM), which encouraged innovation, especially CDMA's spread-spectrum approach that influenced 3G, but slowed roaming and economies of scale. Another debate concerns SMS: its success was not planned. Operators at first saw it as a minor extra; its popularity was driven by cheap prepaid customers and young people, which shows that users, not just designers, decide what a technology is for. Finally, development researchers continue to argue about how much mobile phones reduce poverty. Studies of fishing markets, farm prices and mobile money such as M-Pesa found real benefits, but some findings, including the widely quoted Kenyan poverty estimate, have been challenged, and gaps in ownership between rich and poor countries, and between men and women, remain.",
+  "funFact": "The very first text message, 'Merry Christmas', was sent from a computer, not a phone, because the phones of 1992 had no way to type and send a message. The person who received it could not even text back!",
+  "check": {
+    "q": "What did the first SMS text message say when it was sent on December 3, 1992?",
+    "a": "Merry Christmas",
+    "wrong": [
+      "Happy New Year",
+      "Hello, can you hear me?",
+      "Mr. Watson, come here"
+    ]
+  },
+  "sources": [
+    {
+      "title": "GSM",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/GSM"
+    },
+    {
+      "title": "SMS",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/SMS"
+    },
+    {
+      "title": "Radiolinja",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Radiolinja"
+    },
+    {
+      "title": "Cellular network",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cellular_network"
+    },
+    {
+      "title": "Facts and Figures 2023: Mobile phone ownership",
+      "publisher": "International Telecommunication Union (ITU)",
+      "url": "https://www.itu.int/itu-d/reports/statistics/2023/10/10/ff23-mobile-phone-ownership/"
+    },
+    {
+      "title": "Facts and Figures 2023: Mobile network coverage",
+      "publisher": "International Telecommunication Union (ITU)",
+      "url": "https://www.itu.int/itu-d/reports/statistics/2023/10/10/ff23-mobile-network-coverage/"
+    },
+    {
+      "title": "Nokia 1100",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nokia_1100"
+    },
+    {
+      "title": "M-Pesa",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/M-Pesa"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A Motorola StarTAC flip phone from the late 1990s, opened",
+      "search": "Motorola StarTAC flip phone"
+    },
+    {
+      "want": "A Nokia 1100 mobile phone with its keypad and small monochrome screen",
+      "search": "Nokia 1100 mobile phone"
+    },
+    {
+      "want": "A cell phone tower (base station mast) with panel antennas",
+      "search": "cell site mast antennas base station"
+    }
+  ]
+}

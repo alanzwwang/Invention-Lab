@@ -1,0 +1,141 @@
+{
+  "n": 5,
+  "title": "Savery and the Miner's Friend",
+  "when": "1698 – early 1700s",
+  "summary": "In 1698 an English army engineer named Thomas Savery built a machine that used fire and steam to suck water up and push it higher. It had no moving piston at all, just pipes, taps and big metal vessels. It was not quite strong enough for deep mines, but it pumped water for grand houses and gardens, and it started the age of steam for real.",
+  "sections": [
+    {
+      "heading": "A Captain from Devon",
+      "paragraphs": [
+        "Picture the southwest corner of England around the year 1690. In Devon and neighbouring Cornwall, men dig down into the hills for tin and copper. Further north, in the Midlands and around Newcastle, others dig for coal. And everywhere the same enemy creeps in: water. It trickles through cracks in the rock, drips from the roof of every tunnel and gathers in black pools at the bottom of every shaft. The deeper the miners go, the faster it comes.",
+        "This was the world that Thomas Savery grew up in. He was born in about 1650 at Shilstone, a manor house near the small town of Modbury in Devon. His family were landowners, comfortable but not famous, and young Thomas seems to have had a good education in mathematics and mechanics. Like many clever young men of his day, he went into military engineering, the job of designing forts, bridges, harbours and the machines an army or navy needed. Later he became widely known as Captain Savery.",
+        "Savery was a natural tinkerer. Long before steam made him famous, he was playing with ideas. In the 1690s he worked on a clock design and on a way of moving ships in calm weather using paddle wheels turned by men working a capstan, which he described in a little book called Navigation Improv'd in 1698. The navy officials he showed it to were not interested. That disappointment did not stop him. He was the kind of person who believed that a better machine was always waiting to be built, if only someone would try.",
+        "Remember the scientists we met in the last part: Torricelli and his tube of mercury, von Guericke and his horses straining at the Magdeburg hemispheres, Papin and his piston pushed down by air. By the 1690s, educated people in London talked about air pressure and vacuums at coffee houses and at meetings of the Royal Society, England's famous club of scientists founded in 1660. They knew that if you fill a closed container with steam and then cool it, the steam shrinks into a few drops of water and leaves an almost empty space behind. They knew that the air outside, pressing down with about 1 kilogram on every square centimetre, would rush to fill that space if it could.",
+        "Savery's great insight was not a new law of nature. It was practical. He asked: what if that empty space could be filled not with air, but with water from a flooded mine? And once the water was inside, what if steam itself could shove it out again, higher still? Put those two tricks together, suction and pushing, and you might have a machine that raised water using nothing but fire."
+      ]
+    },
+    {
+      "heading": "Raising Water by the Impellent Force of Fire",
+      "paragraphs": [
+        "On 2 July 1698, Thomas Savery was granted an English patent. A patent is a promise from the government: for a set number of years, only the inventor (or people who pay him) may make and sell the invention. In return, the invention is written down so others can learn from it. Savery's patent described, in the long and curly language of the time, 'a new invention for raising of water and occasioning motion to all sorts of mill work by the impellent force of fire'.",
+        "Look closely at those words, because they are bolder than they first seem. 'Impellent' means pushing or driving forward. Savery was claiming the right to use fire to drive things, not just to lift water but to make 'all sorts of mill work' move. In theory you could use his pump to lift water onto a waterwheel, and the waterwheel could then grind corn or turn machinery. So the patent quietly covered a huge area. Almost any way of using fire to make water move could be argued to fall under it. That broad wording would turn out to matter enormously, as we will see at the end of this part.",
+        "Savery did not keep his machine secret. According to accounts written at the time, he showed a working model to King William III at Hampton Court Palace, the great royal home beside the River Thames, around the time of the patent. On 14 June 1699 he demonstrated a model to the Royal Society in London. The Society's members, who loved experiments, watched it work and recorded the event in their papers. Their journal, the Philosophical Transactions, later printed a picture and a description of the engine.",
+        "For an inventor, this was a big moment. Being seen by a king and by the cleverest men in the country gave Savery's machine a kind of stamp of approval. It also made him a public figure. Newspapers and gossip spread the idea that a Devon captain had found a way to make fire do the work of horses. People called his device a 'fire engine', which back then meant an engine worked by fire, not a machine for putting fires out.",
+        "It is worth being fair here. Savery was not the first person to dream of raising water with steam. In Part 3 we met Jeronimo de Ayanz in Spain, Salomon de Caus in France and the Marquess of Worcester in England, who had all described ways of using heated water or steam to lift water. Historians still argue about how much Savery knew of these earlier ideas, especially Worcester's. What Savery did, and what makes him important, is that he built engines, patented them, advertised them and sold them. He turned an idea into a product."
+      ]
+    },
+    {
+      "heading": "Inside the Fire Engine",
+      "paragraphs": [
+        "Let us imagine we are standing beside one of Savery's engines, at the bottom of a mine shaft or in the cellar of a grand house. What do we see? There is no great wheel and no swinging arm. There is no piston sliding in and out. Instead there is a brick furnace with a fire roaring inside it, and on top of the furnace sits a round metal boiler, a strong closed container where water is heated to make steam. Pipes lead from the boiler to one or two large egg-shaped metal vessels, which Savery called receivers. A pipe runs down from the receivers into the water we want to remove, and another pipe runs up from them towards the surface. Between all of these are valves and taps, little gates that can be opened and closed by hand.",
+        "Now let us watch it work, one step at a time.",
+        "Step one: the operator opens the tap between the boiler and a receiver. Hot steam rushes in and fills the vessel, pushing out the air that was inside. Then he closes the steam tap. The receiver is now full of nothing but steam.",
+        "Step two: the operator pours or sprays cold water over the outside of the receiver. The metal cools, and the steam inside cools with it. Steam that cools condenses, which means it turns back into liquid water. Because steam takes up roughly 1,600 to 1,700 times more room than the water it came from, the steam shrinks almost to nothing. A big vessel that was full of steam is suddenly almost empty. It now holds a partial vacuum, a space with very little gas in it.",
+        "Step three: the operator opens the valve on the pipe that leads down into the flooded water below. The air pressing down on the surface of that water is now much stronger than the weak pressure inside the receiver, so the air pushes water up the pipe and into the vessel. It looks as if the vessel is sucking the water up, but really the air outside is shoving it in. A one-way valve, called a non-return valve, stops it from falling back.",
+        "Step four: the operator closes the lower valve and opens the steam tap again. This time the steam coming from the boiler is at higher pressure than the air outside. It presses down on the surface of the water in the receiver and forces it out through another one-way valve and up the delivery pipe, higher and higher, until it spills out at the top.",
+        "Step five: once the vessel is empty of water and full of steam again, the whole cycle starts over. In the improved version Savery described in 1702, there were two receivers side by side. While one was filling with water by suction, the other was being emptied by steam pressure, so water flowed upward in a fairly steady series of gulps.",
+        "Think about what the person running this engine had to do. Every single cycle, he had to turn the steam tap, start the cooling water, open the suction valve, close it again and turn the steam back on, in exactly the right order and at the right moment. There was no clockwork and no linkage doing it for him. If he opened the steam tap too early, the vacuum was lost; if he forgot to cool the vessel, no water came up at all. Meanwhile someone had to keep the fire burning evenly and keep the boiler topped up with water, because a boiler allowed to run dry could overheat and be ruined. Running a Savery engine was a skilled, tiring, hour-after-hour job, and it is easy to see why later engineers worked so hard to make engines that opened and closed their own valves.",
+        "So the Savery engine used steam in two different ways. First, condensing steam made a vacuum so that air pressure could lift water from below. Second, pressurised steam pushed that water up to a height above. The suction half was clever physics borrowed from the vacuum scientists. The pushing half was the dangerous part, as Savery's customers soon discovered."
+      ]
+    },
+    {
+      "heading": "A Little Book Called The Miner's Friend",
+      "paragraphs": [
+        "Having a patent is one thing. Persuading people to buy your machine is another. In 1702 Savery published a booklet with a catchy title: The Miner's Friend; or, An Engine to Raise Water by Fire. Today we might call it a sales brochure. It contained a description of the engine, a drawing, and a lot of enthusiastic promises.",
+        "Savery wrote directly to the 'gentlemen adventurers' who invested money in mines. He told them his engine could drain deep workings that had been abandoned because of water, and so bring new wealth out of old mines. He argued that it would cost less to run than the teams of horses used to work pumps, and that it was simple enough for an ordinary workman to operate after a little training. He even suggested other uses: supplying towns with drinking water, filling ponds and fountains in noble gardens, draining marshes, and putting out fires in big buildings.",
+        "He also answered his critics in advance. Some people feared that a boiler full of steam might burst. Savery insisted that his engine was safe if it was properly made and properly handled. Many inventors of his time wrote in this confident style, and Savery was trying to raise money and win customers, so it is no surprise that he made his machine sound as good as possible.",
+        "The booklet is interesting to historians for another reason. In it Savery compared the work of his engine with the work of horses. Mine owners understood horses. They knew how many animals it took to keep a pump going and how much it cost to feed them. By describing his engine in terms of the horses it could replace, Savery was doing something that James Watt would later make famous with the unit called horsepower. The idea of measuring a machine against an animal was already in the air.",
+        "Imagine being a mine owner in 1702, reading this little book by candlelight. Your mine is losing money because water has drowned the richest seams. Here is a gentleman, approved by the Royal Society and shown to the king, promising a fire-driven servant that never gets tired. You would be tempted to try it. And some owners did."
+      ]
+    },
+    {
+      "heading": "Why the Mines Were Disappointed",
+      "paragraphs": [
+        "Sadly for Savery, his engine ran into three stubborn problems when it went underground.",
+        "The first problem was the limit of suction. The suction half of the engine works only because air pressure pushes water up into the empty vessel. As we learned in Part 1, air pressure can only hold up a column of water about 10 metres (about 33 feet) tall, and that is with a perfect vacuum. Savery's condensing vessels never made a perfect vacuum, so in practice the lift by suction was less, around 6 to 9 metres. That meant the engine could not sit comfortably at the top of a mine shaft and suck water up from far below. It had to be placed down inside the mine, no more than a few metres above the water it was pumping. Building a furnace and boiler down a deep, damp shaft, and keeping them supplied with fuel and fresh air, was difficult and risky.",
+        "The second problem was the pushing half. To force water up a tall pipe, the steam had to press much harder than the air does. Every extra 10 metres of height needs roughly one extra atmosphere of pressure. A mine that was 50 or 60 metres deep would need steam at several times normal air pressure. The boilers of 1700 were made of hammered copper or iron plates, and the joints between pipes and vessels were often sealed with soft solder, a metal mixture that melts at a fairly low temperature. Hot, high-pressure steam softened the solder and tested every weak seam. At York Buildings, a waterworks beside the Thames in London where a Savery engine was installed, there were reports of steam blowing open joints which had to be soldered again. One clear answer would have been to use several engines stacked one above another, each lifting water part of the way, but that multiplied the cost and the trouble.",
+        "There were frightening failures too. In the early 1700s, a scheme to drain a flooded area of coal workings called Broad Waters, near Wednesbury in Staffordshire, ended when the engine was reported to have been torn apart by the force of its own steam. The project was abandoned. Stories like that travelled fast among mine owners, who were already nervous about the idea of a pressurised boiler near their workers.",
+        "The third problem was fuel. Every time the vessel was filled with steam, much of that steam was wasted simply heating up the cold metal and the cold water inside. Then the vessel was cooled again, and the next charge of steam had to heat it all up again. The hot steam also touched the water it was pushing, and some of its heat went into warming that water instead of moving it. The result was an engine that burned a great deal of coal for each tonne of water it lifted. At a coal mine that might not matter so much, but at a tin mine in Cornwall, where coal had to be shipped in from Wales, it was expensive.",
+        "Put together, these problems meant that the Miner's Friend was not really a friend to most deep miners. Historians are unsure exactly how many Savery engines were ever installed in mines, and there seem to have been few. The dream of a fire engine that could drain any mine was real, but Savery's design was not the machine to do it."
+      ]
+    },
+    {
+      "heading": "Fountains, Gardens and Waterworks",
+      "paragraphs": [
+        "If the story stopped there, Savery might be a footnote. But his engine found a happier home somewhere else: above ground, in places where water only needed to be lifted a modest height.",
+        "Think about a wealthy family living in a large country house around 1710. They want water for the kitchens and the laundry, for the stables, for a bathhouse perhaps, and above all for their garden, where fashionable owners loved fountains, pools and cascades. Carrying water in buckets took lots of servants. A Savery engine could sit beside a well or a stream and lift water into a tank on the roof or at the top of a garden, and from there it could flow down through pipes wherever it was needed. Because the lift was only a few metres, the steam did not need dangerously high pressure.",
+        "Records show Savery-type engines doing just this. One was used in the water supply at Hampton Court, the palace where the king was said to have seen his model. Another, at Campden House in Kensington, west London, reportedly kept working for about 18 years. Others supplied water to houses and estates in different parts of England. For jobs like these, the engine had real advantages: it had very few moving parts, nothing that swung or slid, and it could be worked by a servant who had been shown which taps to turn and in what order.",
+        "The design also kept being improved by others. In the years after Savery, engineers, including, according to some accounts, the scientist and lecturer John Theophilus Desaguliers, built versions that sprayed cold water inside the vessel instead of pouring it over the outside, which condensed the steam much faster. Later in the 1700s, some engineers used Savery-style pumps to lift water back up onto a waterwheel, so that the wheel could keep turning factory machinery even when the river was low. In this roundabout way, Savery's original promise of 'occasioning motion to all sorts of mill work' actually came true, at least in a small way.",
+        "So Savery's machine was not a failure. It was the first steam-powered device that was built, sold and used for real work by paying customers, and that is a genuine milestone. It was simply not strong enough or efficient enough for the giant job that most needed doing: emptying the deep mines that fed Britain's hunger for coal and metal."
+      ]
+    },
+    {
+      "heading": "A Patent That Lasted 35 Years",
+      "paragraphs": [
+        "Now we come back to that bold wording in Savery's patent, because it shaped the next chapter of our story.",
+        "A normal English patent at the time lasted 14 years. Savery's would have run out in 1712. But in 1699, just a year after it was granted, Parliament passed a special law, often called the Fire Engine Act, that extended his patent by another 21 years. This meant that Savery, and the people who later bought shares in his rights, controlled the use of fire to raise water until 1733. That is 35 years in total, a very long time in an age when new ideas were starting to appear quickly.",
+        "Why did Parliament do this? Savery had friends in high places, and he argued that his invention was so important and had cost him so much to develop that he deserved a long reward. Lawmakers may also have hoped that a strong reward would encourage him to keep improving the engine. Whatever the reasons, the extension was unusual and very valuable.",
+        "Because the patent covered raising water 'by the impellent force of fire' in general terms, it was hard to build any steam pump in England without stepping on it. If somebody else invented a completely different steam engine that worked in a new way, they could still find that, legally, they had to share their profits with Savery. Some historians think this held back other inventors for years. Others point out that patents also gave inventors a reason to try in the first place, and that the people involved often reached business deals rather than fighting. Both views have some truth, and you will see the same argument come up again when we reach James Watt's patent later in the story.",
+        "Thomas Savery himself did not live to see how it all turned out. He died in London in May 1715, aged about 65. By then, a very different kind of fire engine was already lifting water out of a coal mine in the West Midlands. It was larger, slower, and in many ways cleverer than his. And because of that long patent, its inventor would have to work under Savery's name.",
+        "That inventor came from Savery's own county. About 20 kilometres east of Modbury lies the busy harbour town of Dartmouth, where an ironmonger who sold tools to the tin miners of Devon and Cornwall had seen their flooded workings up close. He had a different plan. Instead of letting steam push water directly, he would use a piston moving inside a cylinder and a giant wooden beam rocking like a seesaw. His name was Thomas Newcomen."
+      ]
+    }
+  ],
+  "deepDive": "Engineers judge a pump by how much water it lifts, how high, for how much fuel, and how safely. Savery's engine scored poorly on three of these for deep mining. The physics explains why. A suction lift depends on the difference between atmospheric pressure (about 101 kilopascals at sea level) and the pressure inside the vessel. Even a perfect vacuum can only hold up about 10.3 metres of water, and because Savery's condensing vessels contained leftover air and warm vapour, the real lift was smaller. The pressure lift had no such ceiling in theory, but each 10 metres of extra height required roughly one more atmosphere of steam pressure, so a 60-metre lift would have meant steam at perhaps six or seven atmospheres, far beyond what soldered copper vessels of 1700 could hold reliably. Later engineers who reached such pressures, such as Richard Trevithick a century later, had much better iron, rivets and machine tools. The fuel problem is about heat transfer. In a Savery engine, hot steam came into direct contact with cold metal and cold water at every cycle, so a large share of its latent heat was lost in reheating the vessel and warming the pumped water rather than doing work. Modern estimates of its efficiency are tiny, well under 1 percent, though exact figures vary because we have few reliable measurements. Historians also debate Savery's originality. The Marquess of Worcester had described a steam 'water-commanding engine' in 1663, and some writers have accused Savery of copying it, while others note that Savery's arrangement of condensing vessels and non-return valves goes beyond what Worcester published. Then there is the patent question. The 1699 Act that extended protection to 1733 is often cited in debates about whether strong patents speed up or slow down innovation. Newcomen's engine, which worked on a quite different principle, still had to be licensed under Savery's patent, and after Savery's death the rights were managed by a group of investors called the Proprietors of the Invention for Raising Water by Fire. For Newcomen this meant less money and less fame than his engine deserved, but the arrangement also gave his engine a ready business structure to be sold through.",
+  "funFact": "Back in Savery's time, the words 'fire engine' meant an engine worked by fire, so a steam pump draining a mine and a hand pump for putting out house fires could both be called fire engines.",
+  "check": {
+    "q": "How did Savery's engine lift water up from below into its vessel?",
+    "a": "Steam in the vessel was condensed by cooling, leaving a partial vacuum, and air pressure pushed the water up into it",
+    "wrong": [
+      "A piston slid up inside a cylinder and pulled the water along",
+      "A large wooden beam rocked up and down to work a pump rod",
+      "Horses walked in a circle to turn the steam valves"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Thomas Savery",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Savery"
+    },
+    {
+      "title": "Newcomen atmospheric engine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Newcomen_atmospheric_engine"
+    },
+    {
+      "title": "Thomas Newcomen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Newcomen"
+    },
+    {
+      "title": "John Theophilus Desaguliers",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Theophilus_Desaguliers"
+    },
+    {
+      "title": "Horsepower",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Horsepower"
+    },
+    {
+      "title": "Thomas Savery",
+      "publisher": "Grace's Guide to British Industrial History",
+      "url": "https://www.gracesguide.co.uk/Thomas_Savery"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The engraving of Savery's steam pump from The Miner's Friend (1702), showing the furnace, boiler and two receiving vessels",
+      "search": "Savery engine Miner's Friend engraving"
+    },
+    {
+      "want": "A labelled diagram showing how Savery's steam pump worked, with boiler, vessels and valves",
+      "search": "Savery steam pump diagram"
+    },
+    {
+      "want": "Hampton Court Palace beside the River Thames, where a Savery engine helped supply water",
+      "search": "Hampton Court Palace"
+    }
+  ]
+}

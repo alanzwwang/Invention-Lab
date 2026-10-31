@@ -1,0 +1,927 @@
+[
+  {
+    "id": "water-wheel",
+    "name": "Water Wheel",
+    "emoji": "🌊",
+    "year": -250,
+    "when": "around the 3rd century BCE",
+    "where": "Eastern Mediterranean (ancient Greek world)",
+    "who": "Unknown — ancient Greek engineers",
+    "category": "Power & Energy",
+    "kid": "A water wheel is a big wheel with paddles that a river pushes round and round. The spinning wheel could grind grain into flour or lift water, so people didn't have to do all that hard work by hand. It was one of the first machines powered by nature instead of muscles!",
+    "explorer": "Water wheels were one of humanity's first ways to use a natural power source. Flowing or falling water pushes on paddles or fills buckets around the rim, turning the wheel and a shaft connected to it. Greek writers described water wheels by around the 3rd century BCE, and the Romans used them widely to grind grain. In medieval Europe, water mills powered everything from flour mills to sawmills and hammers for working iron.",
+    "expert": "The earliest written descriptions of water wheels come from Greek technical writers of the 3rd century BCE, such as Philo of Byzantium, though the exact place and date of the first wheel are unknown. Engineers developed two main types: undershot wheels, pushed by water flowing underneath, and overshot wheels, where water pours onto the top and its weight turns the wheel — generally the more efficient design. The Romans built large installations, like the mill complex at Barbegal in southern France, which used 16 wheels in a row down a hillside. By 1086 the Domesday Book recorded thousands of water mills in England alone, showing how central water power was to the medieval economy. Early factories of the Industrial Revolution, such as cotton mills, were often built beside rivers for their water wheels before steam engines freed them from riverbanks. The water wheel's modern descendant is the water turbine, which spins generators in hydroelectric power stations.",
+    "how": "Moving water pushes against paddles or fills buckets on the wheel's rim, making it turn. The turning wheel spins an axle, and gears pass that motion to millstones, saws, hammers or pumps.",
+    "before": "People ground grain by hand with stones or used animals walking in circles to turn mills. Lifting water meant carrying buckets or using hand-operated devices.",
+    "impact": "Water wheels were a major source of mechanical power for over 2,000 years, running mills and early factories. Their idea lives on in the turbines of hydroelectric dams.",
+    "facts": [
+      "The Roman mill complex at Barbegal in France had 16 water wheels arranged in two rows down a hill.",
+      "England's Domesday Book of 1086 recorded more than 5,000 water mills.",
+      "Some of the first cotton factories of the Industrial Revolution were powered by water wheels, not steam.",
+      "Modern hydroelectric turbines are high-tech descendants of the ancient water wheel."
+    ],
+    "ledTo": [
+      "windmill"
+    ],
+    "quiz": [
+      {
+        "q": "What pushes a water wheel to make it turn?",
+        "a": "Flowing or falling water",
+        "wrong": [
+          "Wind",
+          "Steam",
+          "Electricity"
+        ]
+      },
+      {
+        "q": "Which ancient people built big mill complexes like Barbegal?",
+        "a": "The Romans",
+        "wrong": [
+          "The Vikings",
+          "The Aztecs",
+          "The Mongols"
+        ]
+      }
+    ],
+    "wiki": "Water wheel"
+  },
+  {
+    "id": "windmill",
+    "name": "Windmill",
+    "emoji": "🌬️",
+    "year": 850,
+    "when": "by the 800s CE",
+    "where": "Persia (eastern Iran and Afghanistan region)",
+    "who": "Unknown — Persian builders; post mills later developed in medieval Europe",
+    "category": "Power & Energy",
+    "kid": "A windmill uses the wind to spin big sails or blades. The spinning sails turn stones that grind grain into flour or pump water. It's like letting the wind do your chores!",
+    "explorer": "The earliest known working windmills were built in Persia, in a very windy region called Sistan, and were in use by the 800s CE. They had sails that spun around a vertical (upright) axis, with walls guiding the wind onto one side. In Europe, a different design appeared in the late 1100s: the post mill, whose sails turn on a horizontal axis and whose whole body can be turned to face the wind. Windmills were used to grind grain, saw wood and pump water.",
+    "expert": "Persian windmills, in use in Sistan by the 9th century and later described by Muslim geographers, used a vertical axis with sails enclosed by walls that funnelled the strong, steady winds of Sistan. A 1st-century wind wheel described by Heron of Alexandria powered an organ, but it is not generally considered a practical windmill. The horizontal-axis European windmill appeared in the late 12th century in north-west Europe (England, northern France and Flanders), and historians debate whether it was an independent invention. Later tower and smock mills kept the body fixed and rotated only the cap, and the fantail (1745) turned the sails into the wind automatically. In the Netherlands, windmill-driven pumps were essential for draining low-lying land to create polders. Windmills declined with steam and electric power but inspired modern wind turbines, which make electricity instead of turning millstones.",
+    "how": "Wind pushes on angled sails, making them spin around a shaft. Gears inside the mill pass this turning motion to millstones, saws or water pumps.",
+    "before": "Grain was ground by hand, by animals, or by water wheels where there was a river. Water had to be lifted by hand or with animal power.",
+    "impact": "Windmills let communities without fast rivers use natural power, and helped the Dutch drain huge areas of land. They are the ancestors of today's wind turbines.",
+    "facts": [
+      "The earliest windmills, in Persia, spun around an upright axis like a revolving door.",
+      "The 19 windmills at Kinderdijk in the Netherlands are a UNESCO World Heritage Site.",
+      "European post mills could be turned to face the wind by pushing a long tail pole.",
+      "Dutch windmills pumped water out of low land so people could farm and live there."
+    ],
+    "ledTo": [
+      "wind-turbine"
+    ],
+    "quiz": [
+      {
+        "q": "Where were the earliest known working windmills built?",
+        "a": "Persia",
+        "wrong": [
+          "England",
+          "Japan",
+          "Brazil"
+        ]
+      },
+      {
+        "q": "Besides grinding grain, what famous job did Dutch windmills do?",
+        "a": "Pump water off the land",
+        "wrong": [
+          "Make electricity for trains",
+          "Weave cloth",
+          "Light lighthouses"
+        ]
+      }
+    ],
+    "wiki": "Windmill"
+  },
+  {
+    "id": "steam-engine",
+    "name": "Steam Engine",
+    "emoji": "🚂",
+    "year": 1712,
+    "when": "1712",
+    "where": "Dudley, England",
+    "who": "Thomas Newcomen (first practical engine), after Thomas Savery; greatly improved by James Watt",
+    "category": "Power & Energy",
+    "kid": "A steam engine boils water to make steam, and the steam pushes parts of the machine to make them move. The first ones pumped water out of deep mines. Later, steam engines powered trains, ships and whole factories!",
+    "explorer": "In 1712, Thomas Newcomen built the first practical steam engine near Dudley in England to pump water out of mines. It filled a cylinder with steam, then cooled it so the steam turned back into water, leaving low pressure that let the air push a piston down. Decades later, James Watt made engines far more efficient by adding a separate condenser. Steam engines became the power behind the Industrial Revolution, running factories, trains and ships.",
+    "expert": "Steam devices date back to Heron of Alexandria's aeolipile in the 1st century CE, but it was a curiosity, not a working engine. Thomas Savery patented a steam pump in 1698, and Thomas Newcomen's atmospheric engine of 1712 was the first practical, widely used design; it worked by condensing steam under a piston so that atmospheric pressure did the work. Newcomen engines wasted much fuel because the cylinder was heated and cooled on every stroke. James Watt's separate condenser (patented 1769) kept the cylinder hot and cut coal use dramatically, and his partnership with Matthew Boulton brought rotary-motion engines into factories. Later high-pressure engines, pioneered by Richard Trevithick and others, were compact enough for locomotives. Steam power drove industrialisation and huge economic growth, but burning coal also began the large-scale release of carbon dioxide and caused severe urban air pollution.",
+    "how": "A fire boils water in a boiler to make steam. The steam pushes a piston (or creates a vacuum when it cools), and the piston's back-and-forth motion is turned into useful work like pumping or turning wheels.",
+    "before": "Power came from muscles, water wheels and windmills. Deep mines often flooded because there was no strong, reliable way to pump out the water.",
+    "impact": "Steam engines powered the Industrial Revolution, letting factories be built anywhere and making railways and steamships possible. They also started humanity's heavy use of coal.",
+    "facts": [
+      "The unit of power, the watt, is named after James Watt.",
+      "James Watt used the term horsepower to compare his engines with the horses they replaced.",
+      "Newcomen's first engines were used to pump water out of coal mines.",
+      "An ancient Greek inventor, Heron of Alexandria, made a spinning steam toy called an aeolipile almost 2,000 years ago."
+    ],
+    "ledTo": [
+      "steam-locomotive",
+      "steamboat",
+      "internal-combustion-engine",
+      "tractor"
+    ],
+    "quiz": [
+      {
+        "q": "What was the first practical steam engine used for?",
+        "a": "Pumping water out of mines",
+        "wrong": [
+          "Powering cars",
+          "Flying balloons",
+          "Lighting streets"
+        ]
+      },
+      {
+        "q": "Which unit of power is named after a steam engine inventor?",
+        "a": "The watt",
+        "wrong": [
+          "The volt",
+          "The meter",
+          "The calorie"
+        ]
+      }
+    ],
+    "wiki": "Steam engine"
+  },
+  {
+    "id": "battery",
+    "name": "Battery",
+    "emoji": "🔋",
+    "year": 1800,
+    "when": "1800",
+    "where": "Italy (University of Pavia / Como)",
+    "who": "Alessandro Volta",
+    "category": "Power & Energy",
+    "kid": "A battery stores energy and gives it out as electricity. The first one was a tall stack of metal discs with salty wet cardboard in between. Today, batteries power toys, phones, remotes and even cars!",
+    "explorer": "In 1800, Italian scientist Alessandro Volta built the voltaic pile — a stack of zinc and copper (or silver) discs separated by cloth or cardboard soaked in salt water. It was the first device that could make a steady flow of electricity. Before this, scientists could only make quick sparks of static electricity. Volta's battery let people study electricity properly for the first time, and the unit volt is named after him.",
+    "expert": "Volta's pile grew out of a scientific argument with Luigi Galvani, who believed the twitching of dissected frog legs showed a special animal electricity; Volta argued the effect came from the contact of two different metals in a moist conductor, and built the pile in 1800 to prove it. The pile produced a continuous current, quickly enabling electrolysis — within weeks William Nicholson and Anthony Carlisle used one to split water, and Humphry Davy later used large batteries to isolate elements such as sodium and potassium. Its chemistry is a redox reaction: zinc gives up electrons, which flow through the outside circuit. Early batteries leaked and faded quickly, leading to improved designs like the Daniell cell (1836) and the rechargeable lead-acid battery (1859). Some claim the so-called Baghdad battery, a clay jar from ancient Mesopotamia, was an earlier battery, but there is no good evidence it was ever used to make electricity.",
+    "how": "Two different metals sit in a chemical called an electrolyte. A chemical reaction makes one metal give up electrons, which flow through a wire to the other side, creating an electric current.",
+    "before": "Scientists could only make static electricity, which came in brief sparks from rubbing materials or from devices like the Leyden jar.",
+    "impact": "The battery gave the world its first steady electric current, launching the science of electricity and chemistry discoveries. Today batteries make portable electronics and electric vehicles possible.",
+    "facts": [
+      "The unit of electrical push, the volt, is named after Alessandro Volta.",
+      "Napoleon made Volta a count in honor of his scientific work.",
+      "Weeks after Volta announced his pile, scientists used one to split water into hydrogen and oxygen.",
+      "Volta's battery came from an argument with Luigi Galvani about why dead frogs' legs twitched."
+    ],
+    "ledTo": [
+      "telegraph",
+      "electric-generator",
+      "electric-car",
+      "lithium-ion-battery"
+    ],
+    "quiz": [
+      {
+        "q": "Who invented the first battery, the voltaic pile?",
+        "a": "Alessandro Volta",
+        "wrong": [
+          "Benjamin Franklin",
+          "Thomas Edison",
+          "Nikola Tesla"
+        ]
+      },
+      {
+        "q": "In what year did Volta build his first battery?",
+        "a": "1800",
+        "wrong": [
+          "1650",
+          "1876",
+          "1920"
+        ]
+      }
+    ],
+    "wiki": "Voltaic pile"
+  },
+  {
+    "id": "electric-generator",
+    "name": "Electric Generator",
+    "emoji": "⚡",
+    "year": 1831,
+    "when": "1831",
+    "where": "London, England",
+    "who": "Michael Faraday (discovery and first disc generator), followed by Hippolyte Pixii and many others",
+    "category": "Power & Energy",
+    "kid": "A generator turns spinning motion into electricity using magnets and wire. Michael Faraday discovered how to do this in 1831. Almost all the electricity in your home comes from giant generators spinning in power stations!",
+    "explorer": "In 1831, Michael Faraday discovered that moving a magnet near a coil of wire makes electricity flow in the wire. This is called electromagnetic induction. He used it to build a simple generator: a copper disc spinning between the poles of a magnet. Soon inventors built bigger and better generators, and today they are spun by steam, water, wind or gas to make most of the world's electricity.",
+    "expert": "Faraday discovered electromagnetic induction in 1831 in his laboratory at the Royal Institution in London (Joseph Henry in the USA discovered it independently around the same time). His Faraday disc was the first generator but produced only a tiny current. In 1832 Hippolyte Pixii in Paris built a hand-cranked machine that spun a magnet past coils, producing alternating current. A big leap came in the 1860s with self-excited dynamos, which used electromagnets powered by their own output instead of weak permanent magnets — developed by Werner von Siemens, Charles Wheatstone and others. Generators made large central power stations possible, beginning with plants such as Edison's Pearl Street Station in New York in 1882. Nearly all electricity today is made by spinning generators; solar panels are the main exception.",
+    "how": "A coil of wire spins inside a magnetic field (or a magnet spins inside coils). The changing magnetism pushes electrons along the wire, creating an electric current.",
+    "before": "The only steady source of electricity was the battery, which was expensive and could not supply large amounts of power.",
+    "impact": "Generators made cheap electricity possible on a huge scale, powering lights, motors, factories and homes. They are still the heart of nearly every power station.",
+    "facts": [
+      "Michael Faraday had very little schooling and started out as a bookbinder's apprentice.",
+      "Faraday's first generator was a copper disc spinning between the ends of a magnet.",
+      "A bicycle dynamo light is a tiny generator turned by your pedalling.",
+      "Wind turbines, hydroelectric dams and nuclear plants all use generators to make electricity."
+    ],
+    "ledTo": [
+      "light-bulb",
+      "alternating-current",
+      "wind-turbine"
+    ],
+    "quiz": [
+      {
+        "q": "Who discovered electromagnetic induction in 1831?",
+        "a": "Michael Faraday",
+        "wrong": [
+          "Isaac Newton",
+          "Alexander Graham Bell",
+          "Marie Curie"
+        ]
+      },
+      {
+        "q": "What does a generator turn motion into?",
+        "a": "Electricity",
+        "wrong": [
+          "Light",
+          "Steam",
+          "Sound"
+        ]
+      }
+    ],
+    "wiki": "Electric generator"
+  },
+  {
+    "id": "light-bulb",
+    "name": "Light Bulb",
+    "emoji": "💡",
+    "year": 1879,
+    "when": "1879",
+    "where": "Menlo Park, New Jersey, USA and Newcastle, England",
+    "who": "Thomas Edison and Joseph Swan (independently), building on many earlier inventors",
+    "category": "Power & Energy",
+    "kid": "A light bulb glows when electricity heats a tiny thread inside it until it shines. Around 1879, inventors finally made bulbs that lasted a long time. Suddenly people could light their homes at night without fire!",
+    "explorer": "Many inventors tried to make electric light bulbs during the 1800s, but early ones burned out quickly. In 1878–1880, Joseph Swan in England and Thomas Edison in the USA each made long-lasting bulbs using carbon filaments inside glass bulbs with most of the air removed. Edison's team also built a whole system to make and deliver electricity to homes. Later, bulbs switched to tungsten filaments, and today most new lights are LEDs.",
+    "expert": "Edison did not invent the light bulb from nothing: Humphry Davy demonstrated electric arc lighting in the early 1800s, and inventors such as Warren de la Rue, Joseph Swan and others built incandescent lamps decades before 1879. The key problems were a filament that would not melt or burn up and a good vacuum, which improved vacuum pumps helped solve. Swan demonstrated a carbon-filament lamp in Newcastle around 1878–1879, and Edison's team at Menlo Park produced a long-lasting carbon filament in 1879, later using carbonised bamboo. After patent disputes in Britain, the two formed a joint company known as Ediswan. Edison's bigger achievement may have been the full electrical system — generators, wiring, meters and fuses. Incandescent bulbs are inefficient, turning most of their energy into heat, which is why many countries have phased them out in favour of LEDs.",
+    "how": "Electricity flows through a very thin filament, which gets so hot that it glows. The bulb holds a vacuum or an unreactive gas so the hot filament does not burn up.",
+    "before": "People lit their homes with candles, oil lamps and gas lights, which were smoky, dim and a fire risk.",
+    "impact": "Electric light made nights safer and more productive, changed working hours, and was a main reason homes and cities were connected to electricity. Experiments with bulbs also led to the vacuum tube, used in early radios and computers.",
+    "facts": [
+      "A light bulb in a fire station in Livermore, California, has been glowing almost continuously since 1901.",
+      "Edison and Swan ended their rivalry in Britain by forming a joint company called Ediswan.",
+      "Edison's team tested thousands of materials for filaments, including carbonised bamboo.",
+      "Old-style incandescent bulbs turn most of their electricity into heat, not light."
+    ],
+    "ledTo": [
+      "alternating-current",
+      "electronic-computer"
+    ],
+    "quiz": [
+      {
+        "q": "Which English inventor made a light bulb around the same time as Edison?",
+        "a": "Joseph Swan",
+        "wrong": [
+          "Charles Darwin",
+          "James Watt",
+          "Isaac Newton"
+        ]
+      },
+      {
+        "q": "What part of an old-style light bulb glows?",
+        "a": "The filament",
+        "wrong": [
+          "The glass",
+          "The screw base",
+          "The switch"
+        ]
+      }
+    ],
+    "wiki": "Incandescent light bulb"
+  },
+  {
+    "id": "alternating-current",
+    "name": "Alternating Current (AC Power)",
+    "emoji": "🔌",
+    "year": 1888,
+    "when": "1880s",
+    "where": "USA and Europe",
+    "who": "Many inventors — including Nikola Tesla, George Westinghouse, William Stanley, Lucien Gaulard, John Gibbs and Galileo Ferraris",
+    "category": "Power & Energy",
+    "kid": "AC is the kind of electricity that comes out of the sockets in your walls. It flips direction back and forth many times every second. Because it can travel far, one big power station can light up a whole city!",
+    "explorer": "Alternating current (AC) is electricity that keeps switching direction back and forth, usually going through 50 or 60 full cycles every second. In the 1880s, inventors built transformers that could raise AC to very high voltages for long-distance travel and lower it again for safe home use. Nikola Tesla invented an AC motor, and businessman George Westinghouse built AC power systems. AC won a famous contest, the War of the Currents, against Thomas Edison's direct current (DC).",
+    "expert": "The key enabling device was the transformer: Lucien Gaulard and John Gibbs demonstrated an AC distribution system in Europe in the early 1880s, and a Hungarian team (Zipernowsky, Bláthy and Déri) and William Stanley in the USA improved it, with Stanley lighting the town of Great Barrington, Massachusetts, in 1886. Galileo Ferraris and Nikola Tesla independently developed induction motors using rotating magnetic fields, and Tesla's 1888 patents were bought by Westinghouse. Edison's company backed DC and campaigned against AC as dangerous in what became known as the War of the Currents. AC prevailed because high-voltage transmission loses far less energy over distance, letting large power stations serve wide areas; landmark wins included lighting the 1893 Chicago World's Fair and the Niagara Falls hydroelectric plant, which began sending power to Buffalo in 1896. Ironically, DC has made a comeback for very long high-voltage lines and in electronics, which convert AC to DC inside their power adapters.",
+    "how": "A generator's spinning magnet makes current that flows one way, then the other, many times per second. Transformers can easily raise this voltage for long-distance power lines and lower it again before it reaches homes.",
+    "before": "Edison's direct-current (DC) systems could only send power about a mile or so efficiently, so power stations had to be very close to customers.",
+    "impact": "AC made it possible to send electricity across long distances from big power plants, creating the electric grids that power homes and industry around the world.",
+    "facts": [
+      "Wall sockets in North America use 60 cycles per second, while much of the world uses 50.",
+      "The 1893 Chicago World's Fair was lit using Westinghouse's AC system.",
+      "The power plant at Niagara Falls began sending AC electricity to the city of Buffalo in 1896.",
+      "Your phone charger turns the AC from the wall into DC for your phone."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "What does alternating current do many times each second?",
+        "a": "Changes direction",
+        "wrong": [
+          "Turns into light",
+          "Stops completely",
+          "Gets heavier"
+        ]
+      },
+      {
+        "q": "Who backed direct current (DC) in the War of the Currents?",
+        "a": "Thomas Edison",
+        "wrong": [
+          "George Westinghouse",
+          "Nikola Tesla",
+          "James Watt"
+        ]
+      }
+    ],
+    "wiki": "Alternating current"
+  },
+  {
+    "id": "internal-combustion-engine",
+    "name": "Internal Combustion Engine",
+    "emoji": "⚙️",
+    "year": 1876,
+    "when": "1876 (first practical four-stroke engine)",
+    "where": "Cologne (Deutz), Germany",
+    "who": "Nikolaus Otto (four-stroke engine), after Étienne Lenoir and others; later Gottlieb Daimler, Karl Benz and Rudolf Diesel",
+    "category": "Power & Energy",
+    "kid": "An internal combustion engine burns fuel inside itself to make tiny, powerful explosions. Each little bang pushes a piston, which spins wheels or propellers. This is the engine that powers most cars, motorbikes and lawnmowers!",
+    "explorer": "Unlike a steam engine, which burns fuel outside the engine to boil water, an internal combustion engine burns its fuel inside a cylinder. In 1860, Étienne Lenoir built a working gas engine in Paris, and in 1876 Nikolaus Otto built the first successful four-stroke engine in Germany. Small and light, these engines soon powered the first cars, motorcycles and airplanes. Rudolf Diesel later invented the diesel engine, used in trucks, ships and trains.",
+    "expert": "Inventors experimented with internal combustion from the late 1700s, and Étienne Lenoir's 1860 coal-gas engine was the first to be sold in significant numbers, though it was inefficient. Nikolaus Otto's 1876 engine used a four-stroke cycle with compression before ignition, which greatly improved efficiency; Alphonse Beau de Rochas had described the cycle in 1862, and Otto's patent was later challenged on that basis. Gottlieb Daimler and Wilhelm Maybach built light, fast-running petrol engines, and Karl Benz used one in his 1885–86 motor car. Rudolf Diesel's engine of the 1890s ignited fuel using only the heat of compression, giving higher efficiency. Internal combustion engines transformed transport, farming and warfare, but burning petrol and diesel releases carbon dioxide and air pollutants, which is why electric motors are increasingly replacing them.",
+    "how": "Fuel and air are squeezed in a cylinder and then ignited, and the burning gases push a piston down. A crankshaft turns this up-and-down movement into spinning motion, in four steps: intake, compression, power and exhaust.",
+    "before": "Steam engines were the main machines for power, but they were heavy, slow to start and needed a big boiler, making them poor for small vehicles.",
+    "impact": "Compact, powerful engines made cars, airplanes, tractors and trucks possible, reshaping how people live and travel. Their exhaust is also a major cause of air pollution and climate change.",
+    "facts": [
+      "The four strokes of an engine are sometimes nicknamed suck, squeeze, bang, blow.",
+      "The Wright brothers' 1903 airplane engine was built by their mechanic Charlie Taylor.",
+      "Diesel engines have no spark plugs; squeezing the air makes it hot enough to ignite the fuel.",
+      "Otto's company, Deutz, still makes engines today."
+    ],
+    "ledTo": [
+      "automobile",
+      "airplane",
+      "tractor",
+      "helicopter"
+    ],
+    "quiz": [
+      {
+        "q": "Who built the first successful four-stroke engine in 1876?",
+        "a": "Nikolaus Otto",
+        "wrong": [
+          "Henry Ford",
+          "James Watt",
+          "Orville Wright"
+        ]
+      },
+      {
+        "q": "How many strokes are in Otto's engine cycle?",
+        "a": "Four",
+        "wrong": [
+          "One",
+          "Seven",
+          "Ten"
+        ]
+      }
+    ],
+    "wiki": "Internal combustion engine"
+  },
+  {
+    "id": "solar-cell",
+    "name": "Solar Cell",
+    "emoji": "☀️",
+    "year": 1954,
+    "when": "1954",
+    "where": "Bell Labs, New Jersey, USA",
+    "who": "Daryl Chapin, Calvin Fuller and Gerald Pearson (Bell Labs), building on Edmond Becquerel and Charles Fritts",
+    "category": "Power & Energy",
+    "kid": "A solar cell turns sunlight straight into electricity — no moving parts at all! Lots of solar cells joined together make a solar panel. They power calculators, houses and even spacecraft.",
+    "explorer": "In 1839, French scientist Edmond Becquerel discovered that light could create a small electric current in certain materials. Early solar cells were very weak, but in 1954 three scientists at Bell Labs made the first practical silicon solar cell. It turned about 6% of sunlight into electricity. Solar cells were soon used on satellites, and today they have become one of the cheapest ways to make electricity.",
+    "expert": "Becquerel observed the photovoltaic effect in 1839 at the age of 19, and Charles Fritts built selenium cells in the 1880s, but they converted only about 1% of sunlight into electricity. The 1954 Bell Labs cell by Chapin, Fuller and Pearson used silicon with a p–n junction, reaching about 6% efficiency. The physics was explained by quantum theory: Albert Einstein's 1905 explanation of the photoelectric effect, for which he won the Nobel Prize, describes light arriving in packets (photons) that can free electrons. Solar cells were too expensive for everyday use at first, so their first big market was space, starting with the Vanguard 1 satellite in 1958. Mass production has since driven prices down dramatically, and solar is now among the fastest-growing sources of electricity worldwide. Its main challenge is that the sun does not shine at night, so it is often paired with batteries.",
+    "how": "Sunlight hits a thin layer of silicon and knocks electrons loose. The cell is built with two specially treated layers that push those electrons in one direction, making an electric current.",
+    "before": "Electricity came from generators spun by burning fuel, falling water or wind, or from batteries. Remote places and spacecraft had few good power options.",
+    "impact": "Solar cells power satellites, space probes and remote equipment, and now supply a growing share of the world's clean electricity.",
+    "facts": [
+      "Edmond Becquerel discovered the photovoltaic effect when he was just 19 years old.",
+      "Vanguard 1, launched in 1958, was the first solar-powered satellite and is still in orbit today.",
+      "The first practical silicon solar cell turned about 6% of sunlight into electricity.",
+      "The International Space Station gets its electricity from huge solar arrays."
+    ],
+    "ledTo": [
+      "communications-satellite",
+      "gps"
+    ],
+    "quiz": [
+      {
+        "q": "What do solar cells turn sunlight into?",
+        "a": "Electricity",
+        "wrong": [
+          "Water",
+          "Wind",
+          "Steam"
+        ]
+      },
+      {
+        "q": "Where was the first practical silicon solar cell made?",
+        "a": "Bell Labs, USA",
+        "wrong": [
+          "NASA, Florida",
+          "Oxford University, UK",
+          "Tokyo, Japan"
+        ]
+      }
+    ],
+    "wiki": "Solar cell"
+  },
+  {
+    "id": "nuclear-reactor",
+    "name": "Nuclear Reactor",
+    "emoji": "⚛️",
+    "year": 1942,
+    "when": "1942",
+    "where": "Chicago, Illinois, USA",
+    "who": "Enrico Fermi, Leo Szilard and their team",
+    "category": "Power & Energy",
+    "kid": "A nuclear reactor makes heat by splitting tiny atoms of uranium. That heat boils water into steam, which spins generators to make lots of electricity. The very first reactor was built under the stands of a sports field in Chicago!",
+    "explorer": "In 1942, a team led by Enrico Fermi built the first nuclear reactor, Chicago Pile-1, beneath the stands of a football field at the University of Chicago. Inside a reactor, uranium atoms split apart in a process called fission, releasing huge amounts of heat. In power stations, this heat makes steam to spin generators. Nuclear power makes a lot of electricity without releasing carbon dioxide while it runs, but it creates radioactive waste that must be stored safely for a very long time.",
+    "expert": "Nuclear fission was discovered in 1938 by Otto Hahn and Fritz Strassmann and explained by Lise Meitner and Otto Frisch. On 2 December 1942, Chicago Pile-1 — a pile of graphite blocks and uranium — achieved the first human-made self-sustaining chain reaction, as part of the wartime Manhattan Project, which also built atomic bombs. In 1951 the EBR-I reactor in Idaho generated the first nuclear electricity, lighting four bulbs, and in 1954 a reactor at Obninsk in the USSR became the first to feed electricity into a power grid. Reactors control the chain reaction with control rods that absorb neutrons and a moderator that slows them down. Nuclear power is low-carbon and runs around the clock, but serious accidents at Chernobyl (1986) and Fukushima (2011), long-lived waste, high building costs and weapons-proliferation concerns make it controversial. Remarkably, natural nuclear reactions also happened about 2 billion years ago in uranium deposits at Oklo, Gabon.",
+    "how": "Neutrons hit uranium atoms and split them, releasing heat and more neutrons that split more atoms — a chain reaction. Control rods keep the reaction steady, and the heat turns water to steam that spins a generator.",
+    "before": "Power stations made electricity by burning coal, oil or gas, or by using falling water.",
+    "impact": "Nuclear reactors supply about a tenth of the world's electricity with very low carbon emissions, and also power submarines and aircraft carriers. They raised big questions about safety, waste and weapons.",
+    "facts": [
+      "The first nuclear reactor was built under the stands of a football field at the University of Chicago.",
+      "In 1951, the first electricity made from nuclear power lit up just four light bulbs in Idaho.",
+      "About 2 billion years ago, natural nuclear reactions happened underground at Oklo in Gabon, Africa.",
+      "France gets most of its electricity from nuclear power."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Which scientist led the team that built the first nuclear reactor?",
+        "a": "Enrico Fermi",
+        "wrong": [
+          "Albert Einstein",
+          "Marie Curie",
+          "Thomas Edison"
+        ]
+      },
+      {
+        "q": "What is the splitting of atoms in a reactor called?",
+        "a": "Fission",
+        "wrong": [
+          "Friction",
+          "Evaporation",
+          "Magnetism"
+        ]
+      }
+    ],
+    "wiki": "Nuclear reactor"
+  },
+  {
+    "id": "wind-turbine",
+    "name": "Wind Turbine",
+    "emoji": "🌀",
+    "year": 1887,
+    "when": "1887",
+    "where": "Marykirk, Scotland",
+    "who": "James Blyth (1887); also Charles Brush in the USA and Poul la Cour in Denmark",
+    "category": "Power & Energy",
+    "kid": "A wind turbine is like a giant, modern windmill that makes electricity. The wind spins its huge blades, which turn a generator inside. The biggest ones are taller than some skyscrapers!",
+    "explorer": "In 1887, Scottish engineer James Blyth built a wind turbine to make electricity for his holiday cottage — one of the first in the world. Around the same time, Charles Brush built a large wind turbine in Cleveland, Ohio. In Denmark, Poul la Cour experimented with wind power in the 1890s. Modern wind turbines usually have three long blades and are often grouped in wind farms on land or out at sea.",
+    "expert": "James Blyth's 1887 cloth-sailed turbine in Marykirk charged batteries to light his cottage, and Charles Brush's 1887–88 machine in Cleveland was much larger, with 144 blades of cedar wood. Poul la Cour in Denmark studied aerodynamics with wind tunnels and found that fewer, faster-spinning blades were better for making electricity. The 1.25-megawatt Smith–Putnam turbine in Vermont (1941) was the first megawatt-class machine, and Johannes Juul's Gedser turbine in Denmark (1957) set the pattern for today's three-bladed, upwind design. The 1970s oil crises spurred government research, and turbines have since grown enormously, with offshore blades now longer than 100 metres. Wind power produces no emissions while running, but its output varies with the weather, so grids must balance it with storage or other sources; turbines also raise concerns about landscape views and bird and bat collisions, which careful siting helps reduce.",
+    "how": "Wind pushes the shaped blades, which work like airplane wings to spin a rotor. The rotor turns a generator inside the nacelle at the top of the tower, producing electricity.",
+    "before": "Windmills used wind for grinding grain and pumping water, but electricity came from generators driven by burning fuel or by water.",
+    "impact": "Wind turbines have become one of the world's largest sources of clean electricity, helping cut carbon emissions.",
+    "facts": [
+      "Charles Brush's 1888 wind turbine in Ohio had 144 wooden blades.",
+      "Some modern offshore wind turbine blades are more than 100 metres long.",
+      "Most modern wind turbines have three blades.",
+      "Denmark gets roughly half of its electricity from wind power."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "In which country did James Blyth build his 1887 wind turbine?",
+        "a": "Scotland",
+        "wrong": [
+          "Spain",
+          "Egypt",
+          "Canada"
+        ]
+      },
+      {
+        "q": "How many blades do most modern wind turbines have?",
+        "a": "Three",
+        "wrong": [
+          "One",
+          "Six",
+          "Twelve"
+        ]
+      }
+    ],
+    "wiki": "Wind turbine"
+  },
+  {
+    "id": "lithium-ion-battery",
+    "name": "Lithium-ion Battery",
+    "emoji": "📱",
+    "year": 1985,
+    "when": "1985 (first prototype); sold from 1991",
+    "where": "USA, United Kingdom and Japan",
+    "who": "M. Stanley Whittingham, John B. Goodenough and Akira Yoshino; first sold by Sony",
+    "category": "Power & Energy",
+    "kid": "A lithium-ion battery is a light, rechargeable battery that holds lots of energy. It's inside phones, laptops, tablets and electric cars. You can charge it up again and again!",
+    "explorer": "Lithium-ion batteries were developed step by step by three scientists. In the 1970s, Stanley Whittingham made the first lithium battery of this kind; in 1980, John Goodenough found a better material for one side; and in 1985, Akira Yoshino built the first safe, practical version. Sony began selling them in 1991. In 2019 the three scientists shared the Nobel Prize in Chemistry.",
+    "expert": "Whittingham's 1970s battery at Exxon used titanium disulfide and lithium metal, but lithium metal could form spiky growths that caused short circuits and fires. Goodenough, working at Oxford, showed in 1980 that lithium cobalt oxide made a higher-voltage cathode. Yoshino at Asahi Kasei replaced lithium metal with a carbon-based anode in 1985, creating a much safer rechargeable cell, and Sony commercialised the technology in 1991. Lithium ions shuttle between the electrodes through an electrolyte as the battery charges and discharges. Their high energy per kilogram enabled the smartphone and modern electric car, and they are increasingly used to store solar and wind energy. Downsides include the environmental and human costs of mining lithium and cobalt, rare but serious fires if cells are damaged, and the challenge of recycling.",
+    "how": "Charging pushes lithium ions from the positive side to the negative side, where they are stored. When you use the device, the ions flow back and electrons travel through the circuit, giving power.",
+    "before": "Rechargeable batteries like nickel-cadmium and lead-acid were heavy and held much less energy for their weight.",
+    "impact": "Lithium-ion batteries made portable electronics practical and are powering the switch to electric cars and renewable energy storage.",
+    "facts": [
+      "John Goodenough won the Nobel Prize at age 97, making him the oldest Nobel laureate ever.",
+      "Sony sold the first lithium-ion batteries in 1991, in a video camera.",
+      "Lithium is the lightest metal of all.",
+      "An electric car battery pack contains thousands of individual cells in some designs."
+    ],
+    "ledTo": [
+      "smartphone"
+    ],
+    "quiz": [
+      {
+        "q": "Which prize did the lithium-ion battery inventors win in 2019?",
+        "a": "Nobel Prize in Chemistry",
+        "wrong": [
+          "An Olympic medal",
+          "An Oscar",
+          "The Turing Award"
+        ]
+      },
+      {
+        "q": "Which company first sold lithium-ion batteries in 1991?",
+        "a": "Sony",
+        "wrong": [
+          "Apple",
+          "Tesla",
+          "Microsoft"
+        ]
+      }
+    ],
+    "wiki": "Lithium-ion battery"
+  },
+  {
+    "id": "telescope",
+    "name": "Telescope",
+    "emoji": "🔭",
+    "year": 1608,
+    "when": "1608",
+    "where": "Netherlands (Dutch Republic)",
+    "who": "Hans Lipperhey (first patent application), with rival claims by Jacob Metius and Zacharias Janssen; improved by Galileo Galilei",
+    "category": "Science Tools",
+    "kid": "A telescope uses lenses or mirrors to make faraway things look closer. When Galileo pointed one at the sky, he saw moons going around Jupiter! Telescopes help us explore planets, stars and galaxies.",
+    "explorer": "The first known telescope appeared in the Netherlands in 1608, when spectacle-maker Hans Lipperhey applied for a patent. News spread fast, and in 1609 Galileo Galilei built his own, more powerful telescope. He discovered four moons orbiting Jupiter, mountains on the Moon and many stars invisible to the naked eye. Later, Isaac Newton built a telescope using a curved mirror instead of lenses, a design many big telescopes still use.",
+    "expert": "Hans Lipperhey's patent application of 1608 is the earliest firm record of a telescope, but it was refused partly because the device was already spreading, and others including Jacob Metius claimed it too; who first put two lenses together is unknown. Galileo did not invent the telescope, but he greatly improved it and, from 1609–1610, used it for discoveries — Jupiter's four largest moons, the phases of Venus, and the Moon's craters — that supported the Sun-centred model of Copernicus. Johannes Kepler designed an improved lens arrangement in 1611. Lens telescopes suffered from colour fringes (chromatic aberration), which helped motivate Isaac Newton's reflecting telescope of 1668. Today's largest telescopes use segmented mirrors many metres across, and space telescopes such as Hubble (1990) and James Webb (2021) avoid the blurring effect of Earth's atmosphere.",
+    "how": "A large lens or curved mirror collects light from a distant object and focuses it. A smaller eyepiece lens then magnifies that image so we can see more detail.",
+    "before": "Astronomers studied the sky with only their eyes and measuring instruments, so they could not see planets' moons or details on other worlds.",
+    "impact": "Telescopes transformed our understanding of the universe, helping show that Earth is not its centre and revealing countless galaxies. They are also used on land and at sea.",
+    "facts": [
+      "Galileo's telescopes magnified objects only about 20 to 30 times.",
+      "The four big moons of Jupiter that Galileo found are still called the Galilean moons.",
+      "Isaac Newton built a telescope using a mirror instead of a big lens in 1668.",
+      "The James Webb Space Telescope's main mirror is made of 18 gold-coated segments."
+    ],
+    "ledTo": [
+      "microscope"
+    ],
+    "quiz": [
+      {
+        "q": "What did Galileo discover orbiting Jupiter?",
+        "a": "Four moons",
+        "wrong": [
+          "A comet",
+          "Rings",
+          "Another sun"
+        ]
+      },
+      {
+        "q": "In which country did the first known telescope appear?",
+        "a": "The Netherlands",
+        "wrong": [
+          "China",
+          "Greece",
+          "Mexico"
+        ]
+      }
+    ],
+    "wiki": "Telescope"
+  },
+  {
+    "id": "microscope",
+    "name": "Microscope",
+    "emoji": "🔬",
+    "year": 1620,
+    "when": "around 1590–1620",
+    "where": "Netherlands",
+    "who": "Uncertain — Dutch spectacle-makers (Zacharias Janssen is often credited) and Cornelis Drebbel; improved by Robert Hooke and Antonie van Leeuwenhoek",
+    "category": "Science Tools",
+    "kid": "A microscope makes tiny things look huge, so we can see things too small for our eyes. With microscopes, scientists discovered cells and germs. A drop of pond water turns out to be full of wiggly little creatures!",
+    "explorer": "The first compound microscopes, which use two or more lenses, were made in the Netherlands in the early 1600s. In 1665, Robert Hooke published drawings of things he saw through his microscope, including tiny boxes in cork that he named cells. A Dutch cloth merchant, Antonie van Leeuwenhoek, made tiny single-lens microscopes and in the 1670s became the first person to see bacteria and other microbes. Microscopes helped prove that germs cause diseases.",
+    "expert": "Who invented the compound microscope is genuinely uncertain: claims for Zacharias Janssen (and his father) around 1590 rest largely on later testimony, while Cornelis Drebbel was showing compound microscopes by about 1620. Galileo also built one, and the name microscope was coined in 1625 for his device. Robert Hooke's Micrographia (1665) popularised microscopy and introduced the term cell. Antonie van Leeuwenhoek's single, tiny, carefully ground lenses outperformed compound microscopes of his day, letting him describe bacteria, sperm cells and protists, which he called animalcules. Early compound microscopes were limited by blurry and coloured images until better lenses in the 19th century; light microscopes still cannot resolve objects much smaller than the wavelength of light, which is why the electron microscope (1931) was developed. Microscopy underpins cell biology, germ theory and modern medicine.",
+    "how": "A lens near the object (the objective) makes an enlarged image, and an eyepiece lens magnifies that image again. A light shines through or onto the sample so we can see it clearly.",
+    "before": "People could only use single magnifying glasses, and nobody knew that living things were made of cells or that invisible microbes existed.",
+    "impact": "Microscopes revealed the hidden world of cells and microbes, leading to germ theory, better medicine and modern biology.",
+    "facts": [
+      "Robert Hooke chose the word cell, from a Latin word for a small room, because cork looked like rows of tiny rooms.",
+      "Antonie van Leeuwenhoek was a cloth merchant, not a trained scientist.",
+      "Leeuwenhoek was the first person known to see bacteria.",
+      "Electron microscopes, invented in 1931, can show things far smaller than light microscopes can."
+    ],
+    "ledTo": [
+      "pasteurization",
+      "antiseptic-surgery"
+    ],
+    "quiz": [
+      {
+        "q": "Who first used the word cell after looking at cork?",
+        "a": "Robert Hooke",
+        "wrong": [
+          "Galileo Galilei",
+          "Charles Darwin",
+          "Louis Pasteur"
+        ]
+      },
+      {
+        "q": "What did Leeuwenhoek see that nobody had seen before?",
+        "a": "Bacteria",
+        "wrong": [
+          "Atoms",
+          "Jupiter's moons",
+          "X-rays"
+        ]
+      }
+    ],
+    "wiki": "Microscope"
+  },
+  {
+    "id": "mechanical-clock",
+    "name": "Mechanical Clock",
+    "emoji": "🕰️",
+    "year": 1300,
+    "when": "around 1300",
+    "where": "Europe (exact place unknown)",
+    "who": "Unknown — medieval European craftsmen",
+    "category": "Science Tools",
+    "kid": "A mechanical clock uses falling weights and clever gears to keep time. The first ones were in church towers and rang bells instead of showing a clock face. Now everyone in town could know the time!",
+    "explorer": "The first mechanical clocks appeared in Europe around 1300, often in church and cathedral towers. They were powered by heavy weights hanging on ropes, and a clever device called an escapement let the gears move forward in small, even steps. Early clocks usually rang bells to mark the hours instead of having hands. Over time, clocks got smaller and more accurate, and spring-powered clocks and watches were invented.",
+    "expert": "The verge-and-foliot escapement, the key invention that turned a falling weight into regular ticks, appeared in Europe in the late 13th century, but the inventor and place are unknown. Earlier, Chinese engineer Su Song built a large astronomical clock tower in 1088 that used water and an escapement-like mechanism, but it did not lead directly to European clocks. Early tower clocks could drift by many minutes a day and had to be reset with sundials; many had only an hour hand or none at all. The Salisbury Cathedral clock in England, dating from around 1386, is often described as one of the oldest working mechanical clocks in the world. Public clocks helped shift European towns from time based on daylight and church prayers to equal, standard hours, which shaped work and trade. Coiled springs in the 15th century made portable clocks and, later, watches possible.",
+    "how": "A heavy weight on a rope tries to fall, turning a set of gears. An escapement lets the gears move only one small step at a time, making steady ticks that move the hands or ring bells.",
+    "before": "People told time with sundials, water clocks, candles marked with hours, and hourglasses — which did not work well at night, in cloudy weather, or for long periods.",
+    "impact": "Mechanical clocks let whole communities share the same time, organising work, prayer and trade by the hour.",
+    "facts": [
+      "The word clock comes from a medieval Latin word meaning bell.",
+      "Many early clocks had no face and only rang bells on the hour.",
+      "The Salisbury Cathedral clock, from around 1386, is often called one of the oldest working clocks in the world.",
+      "In 1088, Su Song built a water-powered astronomical clock tower in China."
+    ],
+    "ledTo": [
+      "pendulum-clock"
+    ],
+    "quiz": [
+      {
+        "q": "What powered the first mechanical clocks?",
+        "a": "Falling weights",
+        "wrong": [
+          "Batteries",
+          "Solar panels",
+          "Steam"
+        ]
+      },
+      {
+        "q": "Which clock part lets gears move in small, even steps?",
+        "a": "The escapement",
+        "wrong": [
+          "The bell",
+          "The face",
+          "The battery"
+        ]
+      }
+    ],
+    "wiki": "Salisbury Cathedral clock"
+  },
+  {
+    "id": "pendulum-clock",
+    "name": "Pendulum Clock",
+    "emoji": "⏰",
+    "year": 1656,
+    "when": "1656",
+    "where": "The Hague, Netherlands",
+    "who": "Christiaan Huygens (built by clockmaker Salomon Coster), after studies by Galileo Galilei",
+    "category": "Science Tools",
+    "kid": "A pendulum clock uses a weight swinging back and forth to keep time. Each swing takes the same amount of time, like a steady heartbeat. It made clocks much, much more accurate!",
+    "explorer": "Galileo noticed that a pendulum of a certain length always takes about the same time to swing, no matter how wide the swing. In 1656, Dutch scientist Christiaan Huygens used this idea to build the first pendulum clock. It was far more accurate than earlier clocks — the best ones went from losing about 15 minutes a day to about 15 seconds. Pendulum clocks stayed the most accurate timekeepers for almost 300 years.",
+    "expert": "Galileo studied pendulums from about 1602 (a popular story says he got the idea watching a swinging lamp in Pisa Cathedral, but that is a story, not a documented fact) and designed a pendulum clock late in life that was never completed. Huygens's 1656 design, patented in 1657 and built by Salomon Coster, cut timekeeping errors dramatically. Huygens also showed that a simple pendulum's swing time is not perfectly constant for wide swings, and invented a cycloidal path to correct it. The anchor escapement of around 1670 allowed small swings and long pendulums, leading to tall longcase (grandfather) clocks with a seconds pendulum about one metre long. Pendulum clocks did not work well on rolling ships, so they could not solve the longitude problem at sea, which was later cracked by John Harrison's marine chronometers. Precision pendulum clocks remained the world's time standards until quartz clocks took over in the 1930s.",
+    "how": "A pendulum swings with a regular rhythm set mainly by its length. The escapement gives it a tiny push each swing and lets the gears advance one step, so the clock's hands move at a steady rate.",
+    "before": "Clocks used the verge-and-foliot escapement and could drift by many minutes a day, so they had to be reset often using sundials.",
+    "impact": "Pendulum clocks made accurate timekeeping possible, helping science, astronomy and everyday life run on precise minutes and seconds.",
+    "facts": [
+      "Huygens's pendulum clock was about 60 times more accurate than earlier clocks.",
+      "A pendulum that takes exactly one second per swing is about one metre long.",
+      "The Great Clock of Westminster (Big Ben) is adjusted by adding or removing old pennies on its pendulum.",
+      "Grandfather clocks are tall so they can fit a long pendulum inside."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Who built the first pendulum clock in 1656?",
+        "a": "Christiaan Huygens",
+        "wrong": [
+          "Galileo Galilei",
+          "Isaac Newton",
+          "Leonardo da Vinci"
+        ]
+      },
+      {
+        "q": "What mainly sets the timing of a pendulum's swing?",
+        "a": "Its length",
+        "wrong": [
+          "Its color",
+          "Its weight",
+          "The room temperature only"
+        ]
+      }
+    ],
+    "wiki": "Pendulum clock"
+  },
+  {
+    "id": "thermometer",
+    "name": "Thermometer",
+    "emoji": "🌡️",
+    "year": 1593,
+    "when": "around 1593 (thermoscope); 1714 (mercury thermometer)",
+    "where": "Italy, later the Netherlands",
+    "who": "Galileo Galilei (thermoscope), Santorio Santorio, Ferdinand II de' Medici, Daniel Gabriel Fahrenheit and others",
+    "category": "Science Tools",
+    "kid": "A thermometer tells you how hot or cold something is. Many use a liquid inside a thin glass tube that rises when it's warm and falls when it's cold. Doctors, cooks and weather forecasters all use them!",
+    "explorer": "Around 1593, Galileo made a thermoscope, a tube of air and water that showed when things got warmer or cooler but had no numbers. Soon after, people added scales, and in 1654 a sealed liquid thermometer was made in Italy. In 1714, Daniel Gabriel Fahrenheit made a reliable mercury thermometer, and he created the Fahrenheit scale. In 1742, Anders Celsius proposed the scale now called Celsius.",
+    "expert": "The thermometer evolved through many hands rather than one inventor. Galileo's air thermoscope (around 1593) was affected by air pressure as well as temperature, so it was not a true thermometer. Santorio Santorio added a numbered scale in the early 1600s to measure body temperature, and Ferdinand II de' Medici sealed liquid-in-glass thermometers in 1654, removing the effect of air pressure. Fahrenheit's mercury thermometers (1714) were consistent enough that different instruments agreed, which made a standard scale meaningful. Anders Celsius's original 1742 scale actually set 0 as the boiling point and 100 as freezing; it was reversed soon after his death. Mercury thermometers are now being phased out because mercury is toxic, replaced by digital and alcohol-based thermometers. Note that the decorative Galileo thermometer with floating glass balls was named in his honour, not invented by him.",
+    "how": "In a liquid thermometer, the liquid expands as it warms and rises up a narrow tube, then shrinks and falls as it cools. A scale beside the tube shows the temperature. Digital thermometers use sensors whose electrical properties change with temperature.",
+    "before": "People could only judge hot and cold by touch, which is unreliable and can't be measured or compared.",
+    "impact": "Thermometers made temperature measurable, helping medicine detect fevers, scientists run experiments, and forecasters track the weather.",
+    "facts": [
+      "Celsius's original scale was upside down: 0 was boiling and 100 was freezing.",
+      "Minus 40 degrees is the same temperature in both Fahrenheit and Celsius.",
+      "The Galileo thermometer with floating glass balls was named after Galileo but not invented by him.",
+      "Many countries have phased out mercury thermometers because mercury is poisonous."
+    ],
+    "ledTo": [
+      "pasteurization"
+    ],
+    "quiz": [
+      {
+        "q": "At what temperature are Fahrenheit and Celsius the same?",
+        "a": "Minus 40 degrees",
+        "wrong": [
+          "Zero degrees",
+          "100 degrees",
+          "37 degrees"
+        ]
+      },
+      {
+        "q": "Who made the first reliable mercury thermometer in 1714?",
+        "a": "Daniel Gabriel Fahrenheit",
+        "wrong": [
+          "Anders Celsius",
+          "Isaac Newton",
+          "Marie Curie"
+        ]
+      }
+    ],
+    "wiki": "Thermometer"
+  },
+  {
+    "id": "barometer",
+    "name": "Barometer",
+    "emoji": "🌦️",
+    "year": 1643,
+    "when": "1643",
+    "where": "Florence, Italy",
+    "who": "Evangelista Torricelli",
+    "category": "Science Tools",
+    "kid": "A barometer measures air pressure — how hard the air is pushing down on everything. When the pressure drops, stormy weather may be coming. It proved that air actually has weight!",
+    "explorer": "In 1643, Italian scientist Evangelista Torricelli filled a glass tube with mercury and turned it upside down into a dish of mercury. The mercury dropped to a height of about 76 centimetres and stopped, held up by the weight of the air pressing on the dish. He had made the first barometer. People soon noticed that the mercury level changed with the weather, so barometers became tools for forecasting.",
+    "expert": "Before Torricelli, many thinkers followed the ancient idea that nature abhors a vacuum; Gasparo Berti's experiments with a tall water-filled tube around 1640 were an important precursor. Torricelli used mercury, about 13.6 times denser than water, so the column was only about 76 cm instead of over 10 metres, and he argued that the weight of the atmosphere held it up, with a vacuum above. In 1648, Blaise Pascal arranged for his brother-in-law Florin Périer to carry a barometer up the Puy de Dôme mountain in France, showing that the mercury fell at higher altitude where there is less air above. The aneroid barometer, invented by Lucien Vidi in 1844, uses a sealed metal capsule instead of liquid and is the basis of many modern barometers and altimeters. Falling pressure often signals approaching storms, while rising pressure tends to bring settled weather, though forecasting requires much more information.",
+    "how": "Air pressure pushes down on a dish of mercury, holding up a column of mercury in a sealed tube; when pressure changes, the column rises or falls. Aneroid barometers use a sealed metal box that squeezes or swells as pressure changes.",
+    "before": "People could not measure air pressure, and many believed air had no weight or that a vacuum could not exist.",
+    "impact": "Barometers proved that air has weight and became essential tools for weather forecasting, science and measuring altitude.",
+    "facts": [
+      "A barometer using water instead of mercury would need a tube over 10 metres tall.",
+      "The pressure unit torr is named after Torricelli.",
+      "Pascal's experiment showed that air pressure is lower at the top of a mountain.",
+      "Airplane altimeters work like barometers, measuring height using air pressure."
+    ],
+    "ledTo": [
+      "steam-engine"
+    ],
+    "quiz": [
+      {
+        "q": "What does a barometer measure?",
+        "a": "Air pressure",
+        "wrong": [
+          "Temperature",
+          "Wind speed",
+          "Rainfall"
+        ]
+      },
+      {
+        "q": "Which liquid did Torricelli use in his barometer?",
+        "a": "Mercury",
+        "wrong": [
+          "Honey",
+          "Olive oil",
+          "Milk"
+        ]
+      }
+    ],
+    "wiki": "Barometer"
+  },
+  {
+    "id": "laser",
+    "name": "Laser",
+    "emoji": "🔴",
+    "year": 1960,
+    "when": "1960",
+    "where": "Malibu, California, USA",
+    "who": "Theodore Maiman (first working laser), based on ideas by Charles Townes, Arthur Schawlow and Gordon Gould",
+    "category": "Science Tools",
+    "kid": "A laser makes a super-straight, super-focused beam of light of a single color. The first one was made in 1960 using a ruby crystal. Lasers read barcodes at shops, help doctors fix eyes and even bounce off mirrors on the Moon!",
+    "explorer": "The word laser stands for Light Amplification by Stimulated Emission of Radiation. In 1960, Theodore Maiman at Hughes Research Laboratories built the first working laser using a ruby crystal and a bright flash lamp. Laser light is special because it is one colour and its waves march in step, so the beam stays narrow over long distances. Lasers are now used in surgery, communication, manufacturing, scanners and science.",
+    "expert": "The physics goes back to Albert Einstein, who described stimulated emission in 1917. Charles Townes and colleagues built the maser, which amplified microwaves, in 1954, and in 1958 Townes and Arthur Schawlow published a proposal for an optical version. Gordon Gould coined the word laser and fought a decades-long patent battle, eventually winning important patents in the late 1970s and 1980s. Maiman's ruby laser fired its first pulses on 16 May 1960, and other types — gas lasers, and the semiconductor diode lasers inside CD and Blu-ray players and fibre-optic networks — followed within a few years. Lasers work by pumping energy into a material so that more atoms are excited than not, and mirrors bounce the light back and forth to build up a strong, coherent beam. Powerful lasers can damage eyes, so even small laser pointers should never be aimed at people or aircraft.",
+    "how": "Energy is pumped into a material, exciting its atoms. When light passes through, it triggers the atoms to release more light of exactly the same color and direction, and mirrors bounce it back and forth to build a strong, narrow beam.",
+    "before": "Light sources like bulbs and flames spread light in all directions with a mix of colors, so it was impossible to make a tight, precise beam.",
+    "impact": "Lasers made possible fibre-optic internet, barcode scanners, laser eye surgery, precise cutting and many scientific discoveries.",
+    "facts": [
+      "Laser stands for Light Amplification by Stimulated Emission of Radiation.",
+      "The first laser used a pink ruby crystal.",
+      "Scientists bounce lasers off mirrors left on the Moon by Apollo astronauts to measure its distance.",
+      "Albert Einstein described the science behind lasers in 1917, more than 40 years before the first one was built."
+    ],
+    "ledTo": [
+      "fiber-optics",
+      "3d-printing"
+    ],
+    "quiz": [
+      {
+        "q": "What crystal did the first laser use?",
+        "a": "Ruby",
+        "wrong": [
+          "Diamond",
+          "Quartz",
+          "Emerald"
+        ]
+      },
+      {
+        "q": "In which year was the first working laser built?",
+        "a": "1960",
+        "wrong": [
+          "1905",
+          "1885",
+          "1999"
+        ]
+      }
+    ],
+    "wiki": "Laser"
+  },
+  {
+    "id": "seismometer",
+    "name": "Seismometer",
+    "emoji": "🌋",
+    "year": 132,
+    "when": "132 CE",
+    "where": "Luoyang, China (Han dynasty)",
+    "who": "Zhang Heng (first earthquake detector); modern seismographs by John Milne and others in 1880s Japan",
+    "category": "Science Tools",
+    "kid": "A seismometer detects earthquakes, even ones far away that you can't feel. Nearly 2,000 years ago in China, Zhang Heng built a bronze detector with dragons that dropped balls into the mouths of toads when the ground shook. Today's seismometers help scientists study earthquakes and the inside of our planet.",
+    "explorer": "In 132 CE, Chinese scientist Zhang Heng built the first known earthquake detector, called a seismoscope. It was a large bronze jar with eight dragons around it; when the ground shook, a ball dropped from a dragon's mouth into a toad below, hinting at the earthquake's direction. Modern seismometers, developed in the 1880s by John Milne and colleagues in Japan, record shaking on paper or computers as wiggly lines called seismograms. Scientists use them to locate earthquakes and measure their size.",
+    "expert": "Zhang Heng's instrument is described in the official history Book of the Later Han, which also records that it once signalled an earthquake that people in the capital did not feel, with news arriving days later. However, its inner workings were not recorded, so modern models are reconstructions, likely based on a pendulum. Practical recording seismographs were developed in the 1880s in Japan by John Milne, James Ewing and Thomas Gray, using pendulums that stay nearly still while the ground moves beneath them. In 1935 Charles Richter, working with Beno Gutenberg, created the Richter magnitude scale, which today has largely been replaced by the moment magnitude scale for large quakes. Networks of seismometers worldwide also detect underground nuclear tests and have revealed Earth's layers, including its liquid outer core, by tracking how seismic waves travel. Seismometers cannot predict exactly when earthquakes will happen, a common misunderstanding, but they power early-warning systems that give seconds of notice.",
+    "how": "A heavy mass hangs on a spring or pendulum, so it tends to stay still while the ground and the instrument's frame move. The difference in motion is recorded, today usually by electronic sensors, as a seismogram.",
+    "before": "People only knew about earthquakes they could feel or hear about, and had no way to measure their strength or locate distant ones.",
+    "impact": "Seismometers let scientists locate and measure earthquakes, study Earth's interior, and build early-warning systems that help save lives.",
+    "facts": [
+      "Zhang Heng's earthquake detector had eight dragons and eight toads around it.",
+      "Apollo astronauts left seismometers on the Moon that detected moonquakes.",
+      "NASA's InSight lander used a seismometer to detect marsquakes on Mars.",
+      "Seismic waves helped scientists discover that Earth has a liquid outer core."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Who built the first known earthquake detector in 132 CE?",
+        "a": "Zhang Heng",
+        "wrong": [
+          "Confucius",
+          "Marco Polo",
+          "Genghis Khan"
+        ]
+      },
+      {
+        "q": "What did balls drop into on Zhang Heng's detector?",
+        "a": "The mouths of bronze toads",
+        "wrong": [
+          "A pot of water",
+          "A bell",
+          "A sand tray"
+        ]
+      }
+    ],
+    "wiki": "Seismometer"
+  }
+]

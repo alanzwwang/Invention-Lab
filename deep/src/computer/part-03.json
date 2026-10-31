@@ -1,0 +1,153 @@
+{
+  "n": 3,
+  "title": "When Computers Were People",
+  "when": "1750s – 1900s",
+  "summary": "Long ago, a 'computer' was not a machine at all. It was a person with a pen, paper and lots of patience, doing sums all day so sailors, astronomers and bankers could trust their numbers. Some of them tracked a comet, some built star catalogues, and some wove pictures using cards full of holes.",
+  "sections": [
+    {
+      "heading": "A Job Called 'Computer'",
+      "paragraphs": [
+        "If you had walked into an observatory, a government office or an insurance company 200 years ago and asked to see the computer, nobody would have pointed you to a machine. They would have pointed you to a person. Probably someone bent over a desk, with a quill pen or pencil, sheets of ruled paper, a book of tables, and a long column of figures to work through before the light faded.",
+        "The word 'computer' simply means 'one who computes', and it was used for people for more than 300 years. The earliest known example in English comes from 1613, when a writer usually identified as Richard Brathwait mentioned a 'computer of times', meaning someone who worked out dates and calendars. For centuries after that, a computer was a job, like a baker or a clerk. Some computers were paid by the hour, some by the page, and some by the finished table.",
+        "What did all these people actually compute? Mostly tables. A table is a long list of ready-made answers. Instead of working out the logarithm of 4,327, or the position of the Moon at midnight on 3 March, or how much a loan would cost after twelve years of interest, you looked it up. Someone else had already done the hard sum, carefully, once, so that thousands of other people could use the answer again and again.",
+        "Tables were everywhere. Sailors used them to find where they were on the open ocean. Astronomers used them to predict where planets and comets would appear. Banks and insurance companies used tables of interest and of how long people tended to live, so they could set fair prices. Engineers used tables of logarithms and of sines and cosines (numbers from trigonometry, the maths of triangles) to design bridges, map land and aim cannons.",
+        "Making one big table could take months or years of work. The trick was to break a huge job into thousands of small, simple steps, and to check every answer, because one wrong digit in a printed book could be copied into hundreds of ships' logbooks and engineering drawings. As you will see in this part, the people who organised that work invented many ideas that real computers still use today: splitting a problem into small pieces, giving each worker a clear recipe to follow, doing the same job twice to catch mistakes, and even controlling a machine with holes punched in cards."
+      ]
+    },
+    {
+      "heading": "Racing a Comet",
+      "paragraphs": [
+        "In 1705 the English astronomer Edmond Halley published a short study of comets. He had collected records of 24 comets and used Isaac Newton's new laws of gravity to work out their paths. Three of them, seen in 1531, 1607 and 1682, had almost exactly the same orbit. Halley made a bold claim: these were not three comets but one, swinging around the Sun roughly every 76 years. If he was right, it would come back around the end of 1758. Halley died in 1742, so he never found out.",
+        "As 1758 approached, astronomers across Europe grew excited. If the comet returned on time, it would be a stunning proof that Newton's gravity worked even for strange, wandering objects far from the planets. But there was a problem. On its long trip through the solar system, the comet would pass near the giant planets Jupiter and Saturn, and their gravity would tug on it, speeding it up or slowing it down. Nobody could simply add 76 years to 1682. Someone had to calculate the tugs.",
+        "That someone was Alexis Clairaut, a brilliant French mathematician who had been a child prodigy. Clairaut had recently found a way to tackle the 'three-body problem', the tricky question of how three objects pull on each other at once. But the method needed an enormous amount of arithmetic. You had to follow the comet, and Jupiter, and Saturn, step by step along their orbits, working out the pull at each step and adding up all the tiny nudges over many decades. One person working alone would never finish in time.",
+        "So in June 1757 Clairaut divided the work. He brought in the astronomer Jérôme Lalande and a remarkable woman named Nicole-Reine Lepaute. Lepaute, born in Paris in 1723, was mostly self-taught in mathematics. She had married the royal clockmaker Jean-André Lepaute in 1748 and helped with the calculations for his work on clocks and pendulums. Now Lalande and Lepaute took on the job of working out how hard Jupiter and Saturn pulled on the comet at each point, while Clairaut handled the comet's own path.",
+        "Imagine their days. Pages and pages of numbers, worked out by hand, line after line, from morning until night. Lalande later wrote that they calculated almost without stopping, sometimes even during meals, for more than six months. He said, in his book about comets, that without Madame Lepaute's help they could never have dared to take on such an enormous task.",
+        "In November 1758 Clairaut announced the result to the French Academy of Sciences. Jupiter and Saturn, he said, would hold the comet back. Jupiter would delay it by about 518 days and Saturn by about 100 days. He predicted that it would reach perihelion (its closest point to the Sun) around 13 April 1759, and he warned that his answer might be off by about a month either way, because the calculation had needed shortcuts and the masses of the planets were not perfectly known.",
+        "Then everyone waited and watched. On Christmas night, 25 December 1758, a German farmer and amateur astronomer named Johann Georg Palitzsch spotted a fuzzy smudge in the sky. The comet was back. It swept around the Sun on 13 March 1759, one month earlier than Clairaut's central date, just outside his window but far closer than anyone could have guessed without the calculation. Halley's comet, now named after him, became the first object other than a planet shown to orbit the Sun, and it was one of the great early triumphs of Newton's physics.",
+        "Not everyone was impressed. The mathematician Jean d'Alembert, a rival of Clairaut, sneered that the work was 'more laborious than deep'. And when Clairaut published his book on comet motion in 1760, he left out any mention of Lepaute's part. Lalande, to his credit, kept naming her. Lepaute went on to a long career as a computer. From 1759 she helped Lalande produce the 'Connaissance des temps', France's official astronomical almanac. She calculated the timing of the solar eclipse of 1 April 1764 and published maps showing its path over Europe under her own name, and she computed daily positions of the Sun, Moon and planets for years ahead. The long hours eventually damaged her eyesight, and she stopped working in 1783. Today an asteroid, 7720 Lepaute, and a crater on the Moon carry her name."
+      ]
+    },
+    {
+      "heading": "A Factory for Numbers",
+      "paragraphs": [
+        "Fast-forward to 1791. France was in the middle of its Revolution. The new government wanted to measure the whole country fairly for taxes, and it wanted to replace the old, muddled units with a neat new decimal system, the metric system. Part of that plan even divided the right angle into 100 parts instead of 90. That meant every table of sines, cosines and logarithms would have to be calculated all over again, more accurately than ever before.",
+        "The job went to an engineer named Gaspard de Prony. The tables he was asked to make were gigantic: logarithms of every whole number from 1 to 200,000, plus huge tables for trigonometry, worked out to 14 or more decimal places. Doing that the old way, with a handful of experts, would have taken lifetimes.",
+        "Prony found his answer in an unlikely book: 'The Wealth of Nations' by the Scottish economist Adam Smith, published in 1776. Smith had described a pin factory. One worker making a whole pin alone might manage only a few a day, but if one person drew out the wire, another straightened it, another cut it, another sharpened the point and so on, a small team could make thousands. Each worker only needed to be good at one simple step. Prony reportedly boasted that he would make logarithms as easily as people made pins.",
+        "He organised his workers like a factory with three floors. At the top were five or six leading mathematicians, including Adrien-Marie Legendre. They chose the formulas and decided how the whole job should be done. In the middle were seven or eight planners, skilled calculators who turned those formulas into simple sheets of instructions, filled in starting numbers, and checked the results that came back. At the bottom were somewhere between 60 and 90 workers who needed to know only how to add and subtract.",
+        "That was the clever part. Thanks to a method called finite differences, which you will meet properly in the next part, the planners could arrange things so that the bottom-level computers never had to multiply, divide or understand any advanced maths. They just added and subtracted numbers in a fixed pattern, row after row. According to the usual account, many of them were hairdressers who had lost their customers, because the fancy powdered wigs and elaborate hairstyles of the old royal court had gone out of fashion during the Revolution. Each worker averaged about 700 calculations a day, and their results were checked by doing parts of the work twice in different ways.",
+        "The project produced two handwritten copies of the tables, each filling 19 large volumes. Sadly, they were never printed in full. The decimal right angle was not adopted, money ran out, the publisher went bankrupt, and later governments lost interest. The volumes still survive in Paris, in the library of the Paris Observatory and the Institut de France.",
+        "Yet Prony's 'computation factory' became famous. It showed that a huge mental task could be broken down into tiny steps simple enough that someone could do them without understanding the whole problem. A young English mathematician named Charles Babbage read about it and drew a startling conclusion. If the bottom level of workers only had to follow fixed rules, adding and subtracting, then perhaps they could be replaced by gears."
+      ]
+    },
+    {
+      "heading": "Lost at Sea Without Numbers",
+      "paragraphs": [
+        "Picture a wooden sailing ship in the middle of the Atlantic Ocean in the 1700s. No land in sight, no GPS, no radio. The navigator could find the ship's latitude (how far north or south it was) fairly easily by measuring the height of the Sun at noon. But longitude, how far east or west, was a deadly puzzle. Get it wrong and a ship could run onto rocks it thought were a hundred miles away. Thousands of sailors died in shipwrecks partly because nobody knew exactly where they were.",
+        "Longitude is really a question about time. The Earth turns 15 degrees every hour, so if you know the time at your ship and the time at the same moment back home in Greenwich, the difference tells you how far round the world you have travelled. Clocks of the time were not good enough at sea, although the clockmaker John Harrison was building remarkable ones. Astronomers offered another answer: use the sky itself as a clock. The Moon moves steadily against the background stars, about its own width every hour. Measure the angle between the Moon and a bright star, look up in a table what time in Greenwich that angle would occur, and you know Greenwich time. This was called the method of lunar distances.",
+        "The catch was those tables. Someone had to predict, years in advance, exactly where the Moon would be against particular stars every few hours of every day. The Moon's motion is fiendishly complicated, because the Sun and Earth both pull on it. In 1765 the Astronomer Royal, Nevil Maskelyne, persuaded Britain's Board of Longitude to pay for a new yearly book of these predictions. The first 'Nautical Almanac', for the year 1767, was published in 1766. It became one of the most important books on any ship, and British almanacs kept printing lunar distance tables until 1906.",
+        "Maskelyne could not do all the sums himself, so he hired computers. They did not sit together in one office. They lived in towns and villages around England, often clergymen, schoolteachers or their families, and the work travelled by post. Maskelyne sent out instructions and blank forms, and the computers posted back finished pages. To catch mistakes, he used a simple but powerful system: the same month's calculations were given to two computers working separately, and a third person, called the comparer, checked their two answers against each other. If they disagreed, someone had made an error, and it was hunted down.",
+        "One of these home computers was Mary Edwards of Ludlow, in Shropshire. Her husband, the Reverend John Edwards, took on almanac work from 1773 to earn extra money, but it seems Mary was doing most of the calculations. When John died in 1784, she wrote to Maskelyne and asked to carry on in her own name to support herself and her daughters. He agreed. For about 30 years she was one of roughly 35 almanac computers, and one of very few women paid directly by the Board of Longitude for scientific work. Her daughter Eliza became a computer too, working until 1832, when the work was moved into a new central office in London, His Majesty's Nautical Almanac Office. Its rules, sadly, left no place for women.",
+        "Why did all this checking matter so much? Because a printed table is copied again and again. A single wrong figure could slip in at three stages: when the computer did the sum, when someone copied it neatly for the printer, and when the printer set the metal type by hand. Each new edition of a book of tables usually came with a list of 'errata', corrections to earlier mistakes, and sometimes the corrections themselves had errors. A navigator using a faulty number might misjudge the ship's position by many miles. Mathematicians of the early 1800s grew worried that tables everyone trusted were quietly full of mistakes."
+      ]
+    },
+    {
+      "heading": "Holes That Weave Pictures",
+      "paragraphs": [
+        "Now leave the sea and step into a silk workshop in Lyon, France, the silk-weaving capital of Europe. The air is warm and full of the clack of wooden looms. A loom weaves cloth by lifting some of the long lengthwise threads, called the warp, and sending a cross thread, the weft, through the gap. Lift different warp threads on each pass and you get a pattern: flowers, birds, coats of arms. For a fancy pattern, hundreds of warp threads had to be lifted in a different combination for every single row.",
+        "On the old 'draw loom', this was done by hand. A helper, often a child called a draw boy, sat high up on the loom and pulled the right bundles of cords for each row, following the weaver's calls. It was slow, tiring and easy to get wrong. One mistake could spoil yards of precious silk.",
+        "In 1725 a Lyon textile worker named Basile Bouchon, the son of an organ maker, had a clever idea. He used a long roll of paper with holes punched in it. Where there was a hole, a needle could slip through and a thread was lifted; where there was no hole, the needle was pushed back and the thread stayed down. The paper remembered the pattern. A few years later, around 1728, his assistant Jean-Baptiste Falcon replaced the fragile paper roll with a chain of separate stiff cards, which were easier to make, fix and rearrange. In the 1740s the famous inventor Jacques de Vaucanson built an automatic loom using a punched cylinder. None of these caught on widely, but the idea was planted.",
+        "Joseph-Marie Jacquard, born in Lyon in 1752 into a family of weavers, put the pieces together. Working in the early 1800s, partly at the Conservatoire des Arts et Métiers in Paris where Vaucanson's loom was kept, he built a device that sat on top of an ordinary loom and read a long chain of punched cards, one card for each row of the pattern. Each hole, or lack of a hole, decided whether a hook lifted its warp thread. The weaver just worked the treadle and threw the shuttle; the cards did the remembering. To change the pattern, you changed the cards. To weave the same pattern again next year, you kept the cards in a drawer.",
+        "Jacquard's machine was shown in the early 1800s, and on 12 April 1805 Emperor Napoleon and Empress Josephine came to Lyon to see it. Soon afterwards the rights to the invention were handed over to the city of Lyon, and Jacquard received a lifetime pension of 3,000 francs plus a small payment for every loom sold for the next few years. Not everyone cheered. Many silk weavers feared the machine would take away their jobs, and Jacquard faced fierce anger. It took more improvements, especially by the mechanic Jean Antoine Breton, before the device worked smoothly, but by the 1810s and 1820s it was spreading through France and then the world. Jacquard died in 1834.",
+        "The most astonishing proof of what the cards could do came in 1839, five years after Jacquard's death. Weavers in Lyon produced a portrait of him, woven entirely in silk on a Jacquard loom. It is so fine that people mistake it for an engraving printed on paper. It needed about 24,000 punched cards, one for each of the thousands of rows of tiny threads. Charles Babbage owned one of these woven portraits and showed it to visitors. Its message was clear: a machine, following instructions stored as holes, could produce something as complicated as a picture. Babbage would later borrow punched cards for his own engines, and decades after that, punched cards would carry information into the first electric calculating machines."
+      ]
+    },
+    {
+      "heading": "The Women Who Sorted the Stars",
+      "paragraphs": [
+        "Our last stop is Cambridge, Massachusetts, at the Harvard College Observatory in the 1880s. By then astronomers had a powerful new tool: photography. Big telescopes could capture thousands of stars on glass photographic plates in a single night. Some telescopes used a prism to spread each star's light into a tiny rainbow called a spectrum, crossed with dark lines that act like fingerprints of the chemicals in the star. The plates piled up by the thousand. Someone had to examine every one, measure it and record what it showed.",
+        "The observatory's director, Edward Pickering, who led it from 1877 to 1919, hired women to do it. Over his time there, more than 80 women worked as Harvard's computers. Many were college graduates; most were paid 25 to 50 cents an hour, more than a factory worker but less than an office clerk, and much less than a male astronomer. During the day they sat at desks with magnifying glasses and glass plates lit from behind, studying stars that had been photographed the night before.",
+        "One of the first was Williamina Fleming. Born in Dundee, Scotland, in 1857, she moved to Boston in 1878 with her husband, who later left her and their young son. She found work as a maid in Pickering's house. Pickering noticed how capable she was, gave her office work at the observatory in 1879, and in 1881 hired her as a computer. She became a star in her own right. Fleming did most of the classifying for the first Henry Draper Catalogue, published in 1890, sorting more than 10,000 stars. On one plate in 1888 she spotted the dark cloud now called the Horsehead Nebula. She is credited with finding 59 gaseous nebulae, more than 310 variable stars and 10 novae (stars that suddenly brighten), and in 1898 she became Harvard's Curator of Astronomical Photographs, the first woman to hold the post.",
+        "The Henry Draper Catalogue was paid for by Mary Anna Palmer Draper, the widow of an astronomer who had pioneered photographing star spectra. She gave money and equipment in his memory, and it kept the computers working for decades.",
+        "The most famous Harvard computer was Annie Jump Cannon. Born in Dover, Delaware, in 1863, she studied physics at Wellesley College and graduated in 1884. An illness, scarlet fever, left her nearly deaf. She joined the observatory in 1896 and turned out to be astonishingly fast and accurate. With practice she could classify a star from its spectrum in a few seconds, about three a minute, and in her lifetime she classified somewhere around 350,000 stars.",
+        "Cannon's greatest contribution was making sense of the mess. Earlier systems had sorted stars into lettered groups that did not quite fit together. Cannon rearranged and simplified them into the sequence O, B, A, F, G, K, M, which runs from the hottest, bluest stars to the coolest, reddest ones. She published her first catalogue using it in 1901, and in 1922 the International Astronomical Union adopted her system for the whole world. Generations of students have remembered the order with the phrase 'Oh Be A Fine Girl (or Guy), Kiss Me'. Our own Sun is a G star. In 1925 Cannon became the first woman to receive an honorary doctorate from the University of Oxford.",
+        "Other Harvard computers made discoveries that changed our picture of the universe. Antonia Maury devised a more detailed way to classify spectra. Henrietta Swan Leavitt, studying stars that pulse brighter and dimmer, found that the slower a certain kind of star (a Cepheid variable) pulses, the brighter it truly is. That simple rule gave astronomers a measuring stick to work out distances to faraway star clusters and, later, to other galaxies. These 'computers' were doing far more than arithmetic. They were doing science, even when they were paid and credited like clerks."
+      ]
+    },
+    {
+      "heading": "What the Human Computers Taught the Machines",
+      "paragraphs": [
+        "Look back over these stories and some big ideas stand out. Clairaut's comet team showed that a giant problem could be shared between several people if it was cut up carefully. Prony's factory showed that the hardest thinking could be done once, at the top, and turned into simple rules that anyone could follow at the bottom. Maskelyne's almanac showed that doing the same job twice, independently, and comparing the results was a strong way to catch errors. Bouchon, Falcon and Jacquard showed that instructions could be stored outside a person's head, as holes in paper or card, and fed into a machine. And the Harvard computers showed how much careful human judgement could achieve when huge amounts of data had to be sorted.",
+        "Every one of these is still part of computing. A modern program is a recipe of simple steps, like the sheets Prony's planners gave to his workers. Big jobs are split between many processors, like the comet calculation split between three people. Error-checking codes compare numbers to spot mistakes, like the almanac comparers. And for more than a century, programs and data were literally fed into computers on punched cards.",
+        "But the human computers had one weakness no amount of organisation could fully fix. People get tired. People get bored. Late in the afternoon, after the thousandth addition of the day, a 7 can turn into a 1 and a carried digit can vanish. Copyists slip. Printers drop a piece of type. Tables were checked and checked again, yet errors still crept into the printed books.",
+        "So let's travel back to a quiet room in London in 1821. Two young friends, the astronomer John Herschel and the mathematician Charles Babbage, are sitting with two sets of freshly calculated astronomical tables, made separately by different computers. Their job is to compare them, line by line, figure by figure. It is slow, dull work, and they keep finding places where the two versions disagree. Mistake after mistake. According to the story Babbage told later, he finally burst out in frustration: 'I wish to God these calculations had been executed by steam!' Steam engines were already pumping water from mines, spinning cotton and pulling the first trains. Why not, he wondered, a machine that did sums, one that never got tired and never made a slip?"
+      ]
+    }
+  ],
+  "deepDive": "Historians such as David Alan Grier and Mary Croarken have shown that human computing was a real profession with its own methods, workplaces and pay scales, not just a footnote before machines. Three techniques from this era are worth looking at closely. First, perturbation calculation: Clairaut's comet forecast required numerically integrating the pulls of Jupiter and Saturn across the comet's two previous orbits, roughly 150 years, an early example of what we now call numerical simulation. His predicted perihelion of 13 April 1759 was 31 days later than the true date of 13 March; considering that the planetary delay he was estimating was well over 600 days, the forecast was impressively close. Second, division of labour: Prony's three-tier system separated analysis (choosing formulas), programming (turning them into fixed procedures with starting values) and execution (mechanical addition and subtraction). That split maps neatly onto modern roles of algorithm designer, programmer and processor, and Babbage explicitly cited it when arguing that the lowest tier could be mechanised. Third, redundancy: Maskelyne's two-computers-and-a-comparer method is a form of independent duplicate calculation. It catches random slips well, but not errors shared by both workers, such as a mistake in the instructions, which is why almanac offices also checked results by differencing, looking for sudden jumps in the smooth pattern of numbers that signal a wrong entry. The Jacquard story is also debated. Jacquard is often called the inventor of punched-card control, but Bouchon (1725), Falcon (about 1728) and Vaucanson (1740s) all came first; Jacquard's achievement was a practical, reliable mechanism that could be added to existing looms, and even that needed later fixes by others. Claims that 11,000 Jacquard looms were in use in France by 1812 are repeated often but have been challenged. Finally, the Harvard story raises questions about credit. Women such as Fleming, Cannon, Leavitt and Maury made major discoveries while being paid as assistants, and for a long time their names appeared less prominently than Pickering's. Recent historians, including Dava Sobel in 'The Glass Universe', have worked to restore their place.",
+  "funFact": "When Halley's Comet returned in 1759, it was first spotted on Christmas night, 25 December 1758, by a German farmer and amateur astronomer named Johann Georg Palitzsch.",
+  "check": {
+    "q": "Why did Gaspard de Prony organise his table-making team like a pin factory?",
+    "a": "So the hard maths could be done by a few experts and the rest broken into simple additions and subtractions that many workers could do",
+    "wrong": [
+      "Because his workers were all former pin makers who refused to do anything else",
+      "Because Napoleon ordered all French offices to copy pin factories",
+      "So that one genius could do every calculation alone without help"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Computer (occupation)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Computer_(occupation)"
+    },
+    {
+      "title": "Nicole-Reine Lepaute",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nicole-Reine_Lepaute"
+    },
+    {
+      "title": "Halley's Comet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Halley%27s_Comet"
+    },
+    {
+      "title": "Gaspard de Prony",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gaspard_de_Prony"
+    },
+    {
+      "title": "Mary Edwards (human computer)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mary_Edwards_(human_computer)"
+    },
+    {
+      "title": "The Nautical Almanac",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Nautical_Almanac"
+    },
+    {
+      "title": "Jacquard machine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jacquard_machine"
+    },
+    {
+      "title": "Harvard Computers",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Harvard_Computers"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The famous portrait of Joseph-Marie Jacquard woven in silk on a Jacquard loom (1839)",
+      "search": "Jacquard woven silk portrait 1839"
+    },
+    {
+      "want": "A Jacquard loom head with its long chain of punched cards, in a museum",
+      "search": "Jacquard loom punched cards museum"
+    },
+    {
+      "want": "Historic photograph of the Harvard Observatory women computers at work, or a portrait of Annie Jump Cannon",
+      "search": "Harvard computers women observatory 1890"
+    }
+  ]
+}

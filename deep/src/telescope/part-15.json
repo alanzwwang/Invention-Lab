@@ -1,0 +1,151 @@
+{
+  "n": 15,
+  "title": "Invisible Light: Radio Telescopes",
+  "when": "1932 – 2022",
+  "summary": "Our eyes see only a tiny slice of all the light in space. In 1932 a telephone engineer built a spinning antenna on car wheels and caught radio waves from the middle of our galaxy. Soon giant dishes found the glow left over from the Big Bang, blinking dead stars, and even took a picture of a black hole's shadow!",
+  "sections": [
+    {
+      "heading": "A Rainbow Much Wider Than Our Eyes",
+      "paragraphs": [
+        "Every telescope in this story so far, from Lipperhey's little spyglass to the giant 200-inch mirror on Palomar Mountain, did the same basic job: it collected visible light, the kind our eyes can see. But visible light is only a thin sliver of a much bigger family. Scientists call that whole family the electromagnetic spectrum. Imagine a piano keyboard kilometers long on which our eyes can play just one key.",
+        "All members of the family are the same kind of thing: waves of electric and magnetic energy that race through empty space at about 300,000 kilometers every second. What makes them different is their wavelength, the distance from one wave crest to the next. Visible light has waves only about 400 to 700 nanometers long (a nanometer is a billionth of a meter). Violet has the shortest waves we can see, red the longest.",
+        "Go beyond red and you reach infrared, which you feel as warmth from a campfire. Longer still are microwaves, the kind that heat food and carry Wi-Fi, and longest of all are radio waves, from about a meter up to many kilometers. Go the other way, beyond violet, and the waves get shorter and carry more energy: ultraviolet, which gives you sunburn, then X-rays, which doctors use to see bones, and finally gamma rays, made in the most violent explosions in the universe. Cold gas clouds glow in radio, warm dust in infrared, and super-hot gas near black holes in X-rays. Look only in visible light and you miss much of the action.",
+        "There is a catch, though. Earth's air acts like a filter. It lets visible light through, which is lucky for us and for every plant that needs sunlight. It also lets most radio waves through, from wavelengths of about a centimeter up to tens of meters. Astronomers call these open gaps the optical window and the radio window. But the atmosphere soaks up almost all X-rays and gamma rays, most ultraviolet light and much of the infrared. So the very first kind of invisible light that astronomers could study from the ground was radio, and nobody went looking for it on purpose. It was found by a telephone engineer trying to get rid of some annoying hiss.",
+        "One important warning before we meet him. Radio telescopes do not let us hear sounds from space. Sound needs air or some other material to travel through, and space is almost empty. Radio waves are light, not sound. When you hear a radio telescope recording turned into a crackle or a whoosh, scientists have converted the data into sound, the same way your radio at home turns invisible radio waves into music through its speaker."
+      ]
+    },
+    {
+      "heading": "Karl Jansky and the Merry-Go-Round",
+      "paragraphs": [
+        "In 1928 a young American physicist named Karl Guthe Jansky joined Bell Telephone Laboratories, the research arm of the giant American telephone company. At that time, if you wanted to make a phone call from New York to London, your voice crossed the Atlantic Ocean as a shortwave radio signal. Those calls were often spoiled by crackles and hissing static. Bell Labs gave Jansky a clear job: find out where the static came from, so the engineers could design around it.",
+        "Jansky worked at a Bell Labs field site in Holmdel, New Jersey, surrounded by farmland. There he built a strange machine. It was a long, rectangular frame of metal pipes and wires, about 30 meters (100 feet) long and several meters high, designed to pick up radio waves at a frequency of 20.5 megahertz, which means waves about 14.6 meters long. To find which direction the static came from, the antenna had to point different ways, so Jansky mounted the whole thing on a turntable resting on four wheels taken from old Ford Model T cars. A motor pushed it slowly around in a full circle every 20 minutes. His coworkers nicknamed it Jansky's merry-go-round.",
+        "For more than a year, starting around 1930 and 1931, Jansky listened and recorded. He sorted the static into types. There was loud static from nearby thunderstorms and weaker static from distant thunderstorms. But there was also a third kind: a faint, steady hiss that did not seem to come from storms at all. Its strength rose and fell once a day, so at first Jansky wondered if it came from the Sun.",
+        "Then he noticed something sneaky. The hiss did not peak at the same time every day. It arrived about four minutes earlier each day. That might sound like a tiny detail, but to an astronomer it is a giant clue. The Sun returns to the same spot in our sky every 24 hours, but the stars return every 23 hours and 56 minutes, a period called a sidereal day. The four-minute difference happens because Earth moves along its orbit around the Sun while it spins. Jansky's hiss was keeping star time, not Sun time. So it had to be coming from far beyond the solar system.",
+        "When he worked out the direction, it pointed toward the constellation Sagittarius, the part of the sky where the center of our Milky Way galaxy lies, hidden behind thick clouds of dust. His records show the signal at its strongest on 16 September 1932. Jansky announced his findings at a scientific meeting in Washington, D.C., in April 1933, and on 5 May 1933 the New York Times put the story on its front page. Later that year he published a paper with the wonderful title Electrical Disturbances Apparently of Extraterrestrial Origin.",
+        "Jansky is said to have wanted to build a bigger antenna to study the cosmic hiss more closely, but Bell Labs said no. The company had its answer: the space hiss was too faint to ruin phone calls. Jansky was moved on to other projects and never returned to astronomy. He died in 1950 at just 44 years old. Today astronomers measure the brightness of radio sources in a unit called the jansky, and the Very Large Array in New Mexico carries his name. A full-size replica of his merry-go-round stands at the Green Bank Observatory in West Virginia."
+      ]
+    },
+    {
+      "heading": "Grote Reber's Backyard Dish",
+      "paragraphs": [
+        "Professional astronomers mostly ignored Jansky's discovery. Most of them had trained in optics, not electronics, and radio receivers seemed like the business of engineers. But one person read about it and could not stop thinking about it: Grote Reber, a young radio engineer and keen ham radio operator from Wheaton, Illinois, a town outside Chicago.",
+        "In 1937 Reber decided to build his own radio telescope, in his mother's backyard, with his own money. Instead of Jansky's flat frame of wires, he chose a curved dish shaped like a bowl. The shape is a parabola, the same curve used in Newton's mirror telescopes and in car headlights. A parabolic dish has a lovely property: every wave that hits it straight on bounces to the same point, called the focus. Put a receiver at the focus and you can collect waves from a big area and concentrate them into one spot. Reber's dish was about 9 meters (31 feet) across, built from wood and galvanized sheet metal, and it could tilt up and down along a north-south line. As Earth spun, different parts of the sky drifted through its view. It was finished in September 1937, and the neighbors had never seen anything like it.",
+        "His first attempts failed. He built a receiver for 3,300 megahertz, which detected nothing from space. He tried again at 900 megahertz and found nothing. On his third try, using 160 megahertz, he finally picked up radio waves from the Milky Way in 1938, confirming Jansky's discovery. He often observed late at night, after his day job at a Chicago radio company, when there was less radio noise from the spark plugs of passing cars.",
+        "Reber then did something nobody had done: he made maps of the radio sky. Pointing step by step, he measured the strength of the radio glow across large parts of the heavens. His maps, made in the early 1940s after a first paper in 1940, showed the radio Milky Way stretched across the sky, brightest toward Sagittarius, with other strong spots in the constellations Cygnus and Cassiopeia. Those spots later turned out to be Cygnus A, a galaxy blasting out huge amounts of radio energy, and Cassiopeia A, the wreckage of an exploded star.",
+        "For about a decade, Reber was very nearly the only radio astronomer in the world. He later moved to Hawaii and then to Tasmania, in Australia, where he studied very long radio waves until his death in 2002, two days before his 91st birthday. His backyard dish was not thrown away. It was moved to the Green Bank Observatory in West Virginia, where it is still displayed. Reber showed that one curious person with a toolbox can open a whole new branch of science."
+      ]
+    },
+    {
+      "heading": "Giants of Steel: Jodrell Bank and Arecibo",
+      "paragraphs": [
+        "After the Second World War, scientists who had built radar for the war turned their skills to the sky, and radio astronomy grew fast, especially in Britain, Australia and the Netherlands. One of those radar veterans was Bernard Lovell, a physicist at the University of Manchester. He had come to a quiet field at Jodrell Bank, a university botany site in the Cheshire countryside, because the electric trams of Manchester caused too much interference. Lovell dreamed of a giant dish that could be steered to point anywhere in the sky. Building started on 3 September 1952. The dish was 76.2 meters (250 feet) across, wider than three tennis courts placed end to end, held up between two towers on a circular railway track so the whole thing could turn. To save money, the engineers reused huge gear racks from the gun turrets of two old British battleships.",
+        "It was a struggle. The price of steel rose, the design had to be changed, and the cost more than doubled, from an original grant of 335,000 pounds to about 700,000 pounds. Then, in October 1957, history came to his rescue. The Soviet Union launched Sputnik 1, the first artificial satellite, and the Jodrell Bank telescope, just finished, was the only instrument in the world able to track the rocket that had carried Sputnik into orbit, using radar. Suddenly the giant dish was front-page news, and people could see that a nation might need such machines. The last of the debt was paid off in 1960 with help from the car-maker Lord Nuffield. Lovell was knighted, and in 1987 the dish was renamed the Lovell Telescope. It is still working today.",
+        "Across the Atlantic, an even bigger idea was taking shape. Engineers and scientists, led by William E. Gordon of Cornell University, wanted to study the ionosphere, the electrically charged upper layer of Earth's atmosphere, by bouncing powerful radar signals off it. To catch the faint echoes they needed an enormous dish. A dish that big could never be steered, so they found a natural bowl to put it in: a deep sinkhole in the limestone hills near the town of Arecibo, Puerto Rico.",
+        "The Arecibo telescope was completed in November 1963. Its dish was 305 meters (1,000 feet) across, so big that its bowl covered about the same area as 13 American football fields, and it was covered with thousands of aluminum panels. Because the dish could not move, a 900-ton platform holding the receivers hung about 150 meters above it on steel cables strung from three tall concrete towers. By sliding the receivers along a curved arm on that platform, scientists could point at different parts of the sky as Earth turned. For 53 years it was the largest single-dish radio telescope on Earth.",
+        "It became far more than an ionosphere station. In 1964 its radar showed that the planet Mercury spins once every 59 days, not 88 days as astronomers had believed. In 1974 Russell Hulse and Joseph Taylor used it to find the first pulsar orbiting another star, which let them test Einstein's ideas about gravity and earned them the 1993 Nobel Prize. In 1992, data from Arecibo revealed the first planets ever confirmed outside our solar system, circling a pulsar. Also in 1974, as a demonstration, it beamed a short coded picture message, the famous Arecibo message, toward a star cluster called Messier 13. But Arecibo was not built to search for aliens; that message was a one-time event at a celebration.",
+        "Sadly, the great dish is gone. After years of funding cuts and damage from Hurricane Maria in 2017, two support cables broke in August and November 2020. Engineers decided it was too dangerous to repair, and on 1 December 2020, before it could be safely taken down, the platform crashed into the dish below. Nobody was hurt, but scientists and many proud Puerto Ricans mourned it."
+      ]
+    },
+    {
+      "heading": "Echoes of the Big Bang and Blazing Quasars",
+      "paragraphs": [
+        "Some of the most important discoveries in radio astronomy came from people who were trying to do something else. In 1964 two young radio astronomers at Bell Labs, Arno Penzias and Robert Wilson, got the use of an unusual antenna at Crawford Hill, not far from where Jansky had worked. It was a giant horn, shaped like an ear trumpet lying on its side, about 15 meters long, built in 1959 to talk to NASA's Echo balloon satellites. Its shape kept out stray noise from the ground, which made it perfect for measuring very faint signals.",
+        "Penzias and Wilson wanted to use it to measure radio waves from our galaxy. But first they had to understand every bit of noise in their equipment. There was a faint, steady hiss at microwave wavelengths that would not go away. It came from every direction in the sky, day and night, in every season. They checked their wiring and cooled their receiver. They even climbed into the horn and cleaned out droppings left by pigeons nesting inside, which Penzias jokingly called white dielectric material. The pigeons were removed. The hiss stayed.",
+        "Meanwhile, less than an hour's drive away at Princeton University, a team led by Robert Dicke had predicted that if the universe began in a hot, dense state, the Big Bang, its leftover glow should still fill all of space, stretched by the expanding universe into faint microwaves. Dicke's team was building an antenna to look for it. When a phone call connected the two groups, the Princeton scientists realized what Penzias and Wilson had found. Dicke reportedly told his team, Boys, we've been scooped.",
+        "The hiss was the cosmic microwave background, often shortened to CMB. It is light released about 380,000 years after the Big Bang, when the universe had cooled enough for light to travel freely for the first time. Since then, the expansion of space has stretched it from a hot glow into microwaves with a temperature of only about 2.7 degrees above absolute zero, the coldest possible temperature. It was powerful evidence that the universe really did have a hot beginning. Penzias and Wilson published in 1965 and won the 1978 Nobel Prize in Physics.",
+        "Radio astronomy also uncovered the most powerful lights in the universe. By the late 1950s, surveys at Cambridge, England, had listed hundreds of radio sources in catalogs such as the Third Cambridge Catalogue, or 3C. Some matched faint, ordinary-looking stars, which was puzzling, because ordinary stars do not blast out radio waves. In 1962 Cyril Hazard and colleagues in Australia used the Parkes dish to time exactly when the Moon slid in front of one of them, 3C 273, pinning down its position.",
+        "In 1963 Maarten Schmidt, a Dutch-born astronomer at Caltech, studied the spectrum of 3C 273's light using the 200-inch Palomar telescope. The lines in the spectrum made no sense until he realized they were familiar hydrogen lines, redshifted by about 16 percent. That huge redshift meant the object was billions of light-years away, so to look as bright as it does it had to be shining like hundreds of galaxies put together, from a region not much bigger than our solar system. These objects were named quasars, short for quasi-stellar radio sources, meaning star-like radio sources. Today we know quasars are powered by gas falling into supermassive black holes at the centers of young galaxies. The one inside 3C 273 is thought to weigh about 900 million times as much as our Sun."
+      ]
+    },
+    {
+      "heading": "Little Green Men? Jocelyn Bell and the Pulsars",
+      "paragraphs": [
+        "In 1967, outside Cambridge, England, a field of about 4 acres was covered with more than a thousand wooden posts strung with over 4,000 wire antennas, connected by many kilometers of cable. A team of students, including a 24-year-old graduate student from Northern Ireland named Jocelyn Bell, had spent about two years helping to build it, hammering posts and fixing wires. Their supervisor, Antony Hewish, had designed it to study how radio signals from quasars twinkle as they pass through the stream of particles blowing out from the Sun.",
+        "Bell's job was to run the telescope and analyze its output. There were no computer screens. The data came out as wiggly ink lines on long rolls of chart paper, about 30 meters of paper every day. She read it all by eye, learning to tell the twinkling of quasars apart from interference made by cars, radios and other human gadgets.",
+        "In August 1967 she noticed something odd: a small mark, which she later described as a bit of scruff, taking up only about a centimeter of chart paper out of hundreds of meters. It did not look like twinkling or like ordinary interference. She noticed that it kept turning up from the same patch of sky. On 28 November 1967, using a faster chart recorder, she caught the signal in detail. It was a string of sharp pulses, each about 1.337 seconds apart, as regular as a ticking clock.",
+        "Nothing natural was known to produce such regular radio pulses. The team even half-seriously wondered whether they had picked up a signal from another civilization, and they gave the source the joke name LGM-1, for Little Green Men 1. But just before Christmas Bell found a second pulsing source in a completely different part of the sky, and soon more. It seemed very unlikely that two different groups of aliens would be signaling Earth at the same time on the same frequency. The answer had to be natural.",
+        "The discovery was published in the journal Nature on 24 February 1968, with Hewish listed first and Bell second among five authors. Within months, astronomers worked out what pulsars are: neutron stars, the collapsed cores of giant stars that exploded as supernovae. A neutron star packs more mass than our Sun into a ball only about 20 kilometers wide, and it spins very fast. It sends out beams of radio waves from its magnetic poles, and every time a beam sweeps past Earth, we see a pulse, just like the flash of a lighthouse. The first one is now called PSR B1919+21.",
+        "In 1974 the Nobel Prize in Physics went to Antony Hewish, for his role in the discovery of pulsars, and to Martin Ryle, for his pioneering radio techniques. Jocelyn Bell, by then Jocelyn Bell Burnell, was not included. Many astronomers, including the famous British astronomer Fred Hoyle, protested that she should have shared it. Bell Burnell herself has spoken about it calmly and generously. She has said that being a graduate student and a woman lowered her standing at the time. She went on to a long and distinguished career, and in 2018 she received the 3-million-dollar Special Breakthrough Prize in Fundamental Physics. She gave the money away to help women, students from minority backgrounds and refugee students become physicists."
+      ]
+    },
+    {
+      "heading": "Many Dishes, One Giant Eye",
+      "paragraphs": [
+        "Radio telescopes have one big weakness. Remember from the last part that a telescope's resolution, its ability to see fine detail, depends on how wide it is compared with the wavelength of the light it collects. Radio waves are enormous compared with visible light, often millions of times longer. So a radio dish 76 meters wide sees fine detail even more poorly than your own naked eye does in visible light. To see sharp radio pictures, you would need a dish many kilometers across, which is impossible to build.",
+        "The clever solution is called interferometry. Instead of one gigantic dish, you use several smaller dishes spread far apart and combine their signals very precisely, timing exactly when each wave crest arrives at each dish. Together they can see detail as fine as one imaginary dish as wide as the distance between the farthest antennas. They do not collect as much total light as a solid dish that size would, but they see the fine detail. As Earth turns, each pair of dishes views the sky from slightly changing angles, gradually filling in the picture. Martin Ryle and his team at Cambridge developed this method, called aperture synthesis, in the 1950s and 1960s, which is why he shared that 1974 Nobel Prize.",
+        "The most famous example is the Very Large Array, or VLA, on the high, flat Plains of San Agustin in New Mexico, about 2,100 meters above sea level. It has 27 working dish antennas, each 25 meters across and weighing over 200 tons, arranged in a giant letter Y with each arm about 21 kilometers long. The dishes ride on railway tracks, and a special transporter moves them to new positions every few months: bunched close together for a wide view, or spread out across about 36 kilometers for the sharpest detail. Building began in 1973, and the VLA was dedicated in 1980. After a big electronics upgrade, it was renamed the Karl G. Jansky Very Large Array in 2012.",
+        "Bigger single dishes have kept coming too. In the mountains of Guizhou province in southwest China, engineers fitted a dish 500 meters across into a natural limestone bowl, a little like Arecibo but much larger. It is called FAST, the Five-hundred-meter Aperture Spherical radio Telescope, and its last panel was put in place in July 2016. Its surface is made of about 4,450 triangular panels, and motors underneath can pull them into shape so that a 300-meter-wide part of the dish forms a perfect focusing curve wherever the telescope needs to look. Its chief scientist, Nan Rendong, championed it for about 20 years but died in 2017, soon after it was finished. By late 2024, FAST had found more than 1,000 new pulsars.",
+        "The most mind-bending interferometer of all is the Event Horizon Telescope. It links radio dishes on different continents, from Hawaii and Arizona to Chile, Mexico, Spain and the South Pole, into one virtual telescope almost as wide as Earth itself. All the dishes look at the same target at the same moment, at a very short radio wavelength of about 1.3 millimeters, and each records its data with the help of an atomic clock. The data was so enormous that it was not sent over the internet. It was stored on hundreds of hard drives and shipped by plane to supercomputer centers to be combined.",
+        "In April 2017, eight telescopes at six sites observed together. Two years later, on 10 April 2019, the team of more than 200 researchers revealed the first image of a black hole's shadow: a glowing orange ring around a dark center in the galaxy Messier 87, about 55 million light-years away. That black hole weighs about 6.5 billion times as much as our Sun. Then, on 12 May 2022, they showed the black hole at the center of our own Milky Way, called Sagittarius A*. It weighs about 4 million Suns and lies about 27,000 light-years away, in the same direction where Karl Jansky first heard his mysterious hiss in 1932. From Earth, it looks about as big as a doughnut sitting on the Moon would look.",
+        "So in about 90 years, radio astronomy went from a merry-go-round on Model T wheels to a planet-sized eye that can photograph the shadow of a black hole. But radio waves pass easily through the air, while X-rays, most ultraviolet and much of the infrared do not. To see the whole sky in every kind of light, telescopes would have to leave Earth."
+      ]
+    }
+  ],
+  "deepDive": "Why do radio telescopes need to be so huge? Two reasons: weak signals and long waves. Cosmic radio sources are faint beyond imagination. Astronomers measure them in janskys, where one jansky is 10 to the power of minus 26 watts per square meter for each hertz of bandwidth. Radio astronomers like to point out that all the radio energy ever collected by every radio telescope in history adds up to less than the energy of a single falling snowflake. To catch more of it, you need a bigger collecting area, and receivers cooled to very low temperatures so that their own heat does not drown out the sky. The second reason is resolution. The finest detail a telescope can show is roughly the wavelength divided by the diameter of the dish (in radians). For a 2.4-meter mirror at 500 nanometers, that ratio is about 0.0000002, a twentieth of an arcsecond. For a 76-meter dish at the 21-centimeter wavelength of hydrogen, it is about 0.003, roughly ten arcminutes, a third the width of the full Moon. That is why interferometry is so powerful. The VLA, spread across about 36 km, reaches resolutions of a fraction of an arcsecond. Very Long Baseline Interferometry, where dishes thousands of kilometers apart record data separately with atomic clocks and combine it later, does even better. The Event Horizon Telescope, observing at 1.3 millimeters with an Earth-sized baseline, reached about 20 microarcseconds, sharp enough in principle to read a newspaper in New York from a cafe in Paris. There are trade-offs. An interferometer samples only some of the possible spacings between dishes, so the picture must be reconstructed with careful mathematics, and different teams in the EHT collaboration made images independently to check that the ring was real and not an artifact of the computer methods. Radio astronomy also gave cosmology its strongest early evidence: the cosmic microwave background matched the Big Bang prediction and not the rival Steady State theory, which said the universe had no beginning. Later satellites, COBE (1989), WMAP and Planck, mapped tiny ripples in the CMB, temperature differences of only tens of millionths of a degree, which became the seeds of galaxies. Finally, the hydrogen line at 21 cm, first detected in 1951, let astronomers map the spiral arms of our own galaxy, hidden from optical telescopes by dust.",
+  "funFact": "Karl Jansky's first radio telescope, which discovered radio waves from the center of the Milky Way, rolled around in circles on four wheels taken from Ford Model T cars.",
+  "check": {
+    "q": "What did Jocelyn Bell discover in 1967 using a radio telescope near Cambridge?",
+    "a": "Pulsars, fast-spinning neutron stars that send out regular radio pulses",
+    "wrong": [
+      "The cosmic microwave background",
+      "The first quasar, 3C 273",
+      "Radio waves from the center of the Milky Way"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Karl Guthe Jansky",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Karl_Guthe_Jansky"
+    },
+    {
+      "title": "Grote Reber",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Grote_Reber"
+    },
+    {
+      "title": "Lovell Telescope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lovell_Telescope"
+    },
+    {
+      "title": "Arecibo Telescope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Arecibo_Telescope"
+    },
+    {
+      "title": "Cosmic microwave background",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cosmic_microwave_background"
+    },
+    {
+      "title": "Jocelyn Bell Burnell",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell"
+    },
+    {
+      "title": "Astronomers Capture First Image of a Black Hole",
+      "publisher": "ESO",
+      "url": "https://www.eso.org/public/news/eso1907/"
+    },
+    {
+      "title": "Astronomers reveal first image of the black hole at the heart of our galaxy",
+      "publisher": "ESO",
+      "url": "https://www.eso.org/public/news/eso2208-eht-mw/"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Karl Jansky standing beside his rotating 'merry-go-round' antenna at Bell Labs, Holmdel, early 1930s",
+      "search": "Karl Jansky antenna Bell Labs"
+    },
+    {
+      "want": "The Lovell Telescope, the giant 76-meter radio dish at Jodrell Bank, England",
+      "search": "Lovell Telescope Jodrell Bank"
+    },
+    {
+      "want": "The Event Horizon Telescope image of the black hole in galaxy M87, a glowing orange ring around a dark center",
+      "search": "Black hole M87 Event Horizon Telescope"
+    }
+  ]
+}

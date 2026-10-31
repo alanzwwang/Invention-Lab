@@ -1,0 +1,142 @@
+{
+  "n": 3,
+  "title": "Sir George Cayley Cracks the Code",
+  "when": "1799 – 1857",
+  "summary": "In a big house in Yorkshire, a curious gentleman named George Cayley stopped trying to copy flapping birds. Instead he drew a plane with a still wing, a body and a tail, and worked out the four forces that every airplane must balance. He even sent a grown man gliding across a valley!",
+  "sections": [
+    {
+      "heading": "A Gentleman Who Could Not Stop Asking Why",
+      "paragraphs": [
+        "Imagine a cold, windy hillside in North Yorkshire, England, a little over two hundred years ago. Sheep are grazing. Rooks are wheeling over the trees. And a well-dressed young man is standing very still, watching the birds with a notebook in his hand, timing how fast they fly and scribbling down numbers. His neighbours probably thought he was a bit odd. Today he is often called the 'father of aeronautics', the person who turned the dream of flying into a real science.",
+        "His name was George Cayley. He was born on 27 December 1773 in Scarborough, a seaside town on the Yorkshire coast, into a wealthy family that had lived at the village of Brompton, near Scarborough, for centuries. When his father died, George became Sir George Cayley, the 6th Baronet, and inherited Brompton Hall and the land around it. That meant he never had to work for a living. Many rich gentlemen of the time spent their days hunting, gambling or going to parties. Cayley spent his days inventing.",
+        "And he invented a LOT. He designed a self-righting lifeboat that would flip upright again if a wave rolled it over. He worked out the 'tension wheel', a light wheel held together by thin wires pulled tight, which is the same idea used in bicycle wheels today. He sketched an early version of caterpillar tracks, which he called a 'universal railway', so heavy vehicles could cross soft, muddy ground. He suggested automatic signals for railway crossings. He even designed an artificial hand for a man on his estate who had lost his own. He helped found the Royal Polytechnic Institution in London in 1838, a place where ordinary people could see the newest science and machines, and he served for a few years (1832 to 1835) as a Member of Parliament for Scarborough.",
+        "But the puzzle he loved most, his whole life long, was flight. Cayley was not the first person to dream of flying, and he was not even the first to experiment with it. What made him special was the WAY he thought about it. Instead of strapping on feathers and jumping off a tower, he asked careful questions. How much does the air push on a flat surface moving at a certain speed? Does a curved surface push differently from a flat one? What angle works best? How heavy can a flying machine be for a given size of wing? He measured, he tested, he wrote things down, and he changed his mind when the numbers told him to. That is the heart of science, and it was exactly what flight had been missing.",
+        "Some of his early experiments were small and playful. As a young man, around the 1790s, he built a tiny 'aerial top', a toy helicopter with two little spinning rotors made of feathers, powered by a bent whalebone bow. Similar toys had been shown in France a few years earlier. When the string unwound, the rotors spun in opposite directions and the little toy whirled up toward the ceiling. It was a toy, but it taught Cayley something important: a surface moving through the air at an angle could create an upward push. That push is what we now call lift."
+      ]
+    },
+    {
+      "heading": "The Silver Disc of 1799",
+      "paragraphs": [
+        "In 1799, when he was 25, Cayley did something that sounds tiny but turned out to be huge. He took a small silver disc, only about 2.5 centimetres (1 inch) across, about the size of a large coin, and had a design engraved on it. On one side was a flying machine. On the other was a little diagram of the forces acting on a wing moving through the air. That disc still exists. It is kept in the collection of the Science Museum in London, and it is one of the most important small objects in the whole history of flight.",
+        "Why is a picture on a coin-sized piece of silver so important? Look closely at the flying machine on it. There is a fixed wing, a wing that does not flap, held out flat and slightly tilted. Below the wing hangs a boat-shaped car where the pilot would sit. At the back there is a tail, shaped like a cross, to keep the machine steady. The pilot was supposed to push the machine forward with a pair of paddles, sometimes called flappers, a bit like oars.",
+        "The paddles were not a good idea, and nobody ever flew that exact machine. But the big idea behind the drawing was brilliant. For thousands of years, dreamers had tried to copy birds by making wings that did everything at once: hold the flyer up AND push it forward by flapping. Cayley split the job in two. The wing would stay still and do only one thing: make lift to hold the machine up. Something else, a separate system, would push the machine forward. And the tail would keep it stable and help control it.",
+        "Every airliner you have ever seen follows this same plan. The wings make lift. The engines (jet engines or propellers) make the forward push. The tail keeps the plane steady and helps steer. When you look at a jumbo jet at the airport, you are really looking at a giant, modern version of the little machine scratched onto Cayley's silver disc in 1799.",
+        "The other side of the disc mattered just as much. The force diagram showed that when air pushes on a tilted wing, the push can be split into two parts: one part that pushes UP (lift) and one part that pushes BACKWARD (drag). Splitting a force into parts like this is a standard trick in physics. By drawing it, Cayley showed he understood that a wing is not just something that floats. It is something that turns the push of moving air into an upward force, and it always pays a price in backward drag."
+      ]
+    },
+    {
+      "heading": "Meet the Four Forces",
+      "paragraphs": [
+        "Cayley's most famous gift to the world is a simple way of thinking about any flying machine. He realised that four main forces act on an airplane. You will meet them again in much more detail in Part 9, but here is a quick tour, because once you know them, flight stops being magic and starts being a puzzle you can understand.",
+        "Force number one is WEIGHT. This is the pull of gravity, dragging the machine down toward the centre of the Earth. Everything has weight: the frame, the wings, the engine, the fuel, the pilot, the passengers and their luggage. The heavier the machine, the harder the other forces have to work.",
+        "Force number two is LIFT. This is the upward push made by the wings as they move through the air. Lift fights against weight. If lift is bigger than weight, the plane climbs. If lift is smaller, the plane sinks. If they are equal, the plane stays at the same height. A wing only makes lift while air is flowing past it, which is why a plane has to keep moving forward to stay up.",
+        "Force number three is DRAG. This is air resistance, the backward push of the air against anything moving through it. You feel drag when you cycle fast into the wind or stick your hand out of a moving car (always with an adult, and only if it is safe). Drag tries to slow the plane down. A smooth, streamlined shape has less drag than a bumpy, boxy one.",
+        "Force number four is THRUST. This is the forward push that keeps the plane moving. Today it comes from propellers or jet engines. Thrust fights against drag. NASA's beginner's guide to aeronautics puts it neatly: the engine's job is to overcome drag; it is the wings that make the lift.",
+        "So you have two pairs of opponents, like two tug-of-war games happening at once. Lift pulls up against weight. Thrust pulls forward against drag. When each pair is perfectly balanced, the plane cruises along at a steady speed and height. When one force wins, the plane speeds up, slows down, climbs or descends. Cayley described these ideas in a long paper called 'On Aerial Navigation', published in three parts in 1809 and 1810, and he summed up the whole challenge of flight in one famous sentence. In his own words, the problem was 'to make a surface support a given weight by the application of power to the resistance of air'. In other words: use an engine to push a wing through the air fast enough that the air holds the weight up.",
+        "That one sentence sounds simple, but it was a revolution. It told every future inventor exactly what they had to build: a good wing, a light structure, and a powerful engine. It also explained why flapping arms would never work. As Giovanni Borelli had shown more than a century earlier, human muscles are far too weak to provide that kind of power."
+      ]
+    },
+    {
+      "heading": "The Whirling Arm and the First Modern Model Plane",
+      "paragraphs": [
+        "Knowing the four forces is one thing. Measuring them is another. How do you find out how much lift a wing makes when there are no wind tunnels, no electronic sensors and no airplanes to test on? Cayley's answer was a machine called a whirling arm.",
+        "Picture a tall post with a long horizontal arm on top, able to spin around like the hand of a giant clock lying on its side. At the end of the arm, Cayley fixed a small test surface, a flat or slightly curved plate, about the size of a large book. A weight hanging on a cord was allowed to fall, and as it fell it pulled the cord, which spun the arm around. The test surface swept through the air in a big circle, as if it were flying. By changing the weight, Cayley could make the arm spin faster or slower. By tilting the test surface at different angles, he could see how the push of the air changed.",
+        "Whirling arms were not Cayley's invention. The English scientists Benjamin Robins and John Smeaton had used them in the 1700s to study air resistance and windmill sails. But Cayley pointed his whirling arm straight at the problem of flight. Using it, he measured how the force on a surface grew with speed and with the angle at which it met the air, what we now call the angle of attack. He found that even a small angle could produce a useful amount of lift, and that the drag grew as the angle got steeper. Whirling arms had one big weakness: after a few turns, the arm stirred the air around into a swirl, so the test surface was no longer meeting still air. Later inventors would solve that problem with wind tunnels, as you will see in Part 7. But for its time, the whirling arm gave Cayley real numbers instead of guesses.",
+        "Then, in 1804, Cayley put his ideas together into an actual flying object. It was a model glider, small enough to hold in your hands, and it looked wonderfully homemade. The wing was an ordinary paper kite, fixed to a wooden pole about a metre long at a small upward tilt. At the back of the pole was a tail shaped like a cross, which could be adjusted. A movable weight on the front of the pole let him shift the balance point forward or backward.",
+        "When Cayley launched it down a hillside, it glided. Not flapping, not floating like a balloon, but gliding, sliding smoothly forward and gently down through the air, held up by its wing, kept straight by its tail. It is often called the first true model airplane with a modern layout: a main wing in front, a tail at the back, and a body joining them. Many paper airplanes you fold today have the same basic plan.",
+        "Cayley was delighted. He wrote that it was very pretty to watch it sail down a steep hill, and he noticed that small changes to the tail or the balance weight changed how it flew. He was learning something that would become central to aviation: a flying machine must be STABLE. If a gust tips the nose up, the machine should tend to return to level flight by itself instead of flipping over. Getting the balance point in the right place, and giving the tail the right size and angle, made the difference between a smooth glide and a crash."
+      ]
+    },
+    {
+      "heading": "Curved Wings, Tilted Wings and Fish-Shaped Bodies",
+      "paragraphs": [
+        "'On Aerial Navigation', the paper Cayley published in 1809 and 1810, was full of ideas that were far ahead of their time. It appeared in a science magazine called Nicholson's Journal of Natural Philosophy, Chemistry and the Arts, and it is one of the founding documents of aeronautics. Here are some of the clever things it contained.",
+        "First, Cayley noticed that a curved wing worked better than a flat one. Birds' wings are slightly arched, higher in the middle than at the front and back edges. Cayley saw that this curve, now called camber, helped a wing make more lift. Almost every airplane wing since then has had some kind of curved shape, called an airfoil.",
+        "Second, he worked out a trick for keeping a flying machine from rolling over sideways. If you look at many airplanes from the front, you will see that the wings are not perfectly flat. They tilt upward slightly from the body to the tips, making a very shallow V. This is called dihedral. Cayley explained that if a gust tips one wing down, the V shape helps the machine level itself again. He had spotted this by watching birds and by experimenting with his models. Look at a passenger jet head-on the next time you are at an airport and you will see Cayley's V.",
+        "Third, Cayley thought hard about drag. He knew that a machine with a blunt, boxy shape would waste lots of power pushing air out of the way. So he looked at nature again, this time at fish. He studied the shape of a trout and suggested that a body shaped like a fish or a bird, rounded at the front and tapering to a point at the back, would slip through the air (or water) with less resistance. This is the idea of streamlining, and it is used today in everything from airplanes to racing cars and bullet trains.",
+        "Fourth, he wrote about the size of the problem. He calculated roughly how big a wing would need to be to hold up a person, and how much power would be needed to push it through the air. His numbers showed clearly that a person flapping their arms could never do it, but that a light enough engine might. He also understood the danger of trying to fly too soon. He believed in testing small models first, then larger ones, then carefully letting a person go up: a slow, step-by-step approach that later pioneers like Otto Lilienthal and the Wright brothers would also follow.",
+        "Not everything Cayley thought of was correct, and not everything he designed was practical. In 1843 he published a design for an 'Aerial Carriage' with four round rotors, a little like a cross between a helicopter and an airplane. It was never built at full size, and it would not have worked with the engines of the day. But even his wilder ideas show how his mind worked: always trying combinations, always asking 'what if?'"
+      ]
+    },
+    {
+      "heading": "Flying Boys, a Nervous Coachman and Brompton Dale",
+      "paragraphs": [
+        "For many years Cayley was busy with his estate, his family, his other inventions and his work in Parliament. But in the 1840s, when most people would be thinking of slowing down, he returned to flying with fresh energy. He was now in his seventies, and he wanted to see a real person carried through the air by one of his machines.",
+        "Before 1849 he built a glider with several wings stacked one above another, a little like a very early biplane or triplane. Multiple wings were a clever trick: they gave more lifting area without making the machine too wide and floppy. According to Cayley's own notes, this glider carried a boy of about ten years old a short distance down a hillside, lifting him off the ground for a few metres. We do not know the boy's name. He was probably the son of one of the servants or workers at Brompton. It must have been both exciting and terrifying for him.",
+        "In 1852 Cayley wrote about a larger design that he called a 'governable parachute', meaning a glider that could be steered. The next year, in 1853, he built a full-size glider big enough to carry a grown man. Its exact shape is not fully known, but it had a large main wing, a tail, and a little boat-like seat for the pilot. Cayley was about 79 years old.",
+        "The test took place at Brompton Dale, a small valley near his home, in front of a house called Wydale Hall. The glider was launched from one side of the dale. It swooped down and across the valley and came to earth on the other side. It was a short flight, probably a few hundred metres at most, and the pilot had very little real control. But for a brief moment, a grown man had been carried through the air by a fixed-wing flying machine. Many historians count this as the first glider flight to carry an adult.",
+        "Who was the pilot? Here history gets fuzzy. The traditional story says it was Cayley's coachman, the servant who drove his horse-drawn carriage. Other accounts say it was a footman or a butler, and one writer has named a man called John Appleby. A 2007 biography suggested it may actually have been Cayley's grandson, George John Cayley. The honest answer is that nobody knows for sure.",
+        "There is also a famous story about what happened afterwards, and it should be treated as a story rather than proven history. According to a family tale written down many years later, the shaken coachman climbed out of the wreckage and said something like: 'Please, Sir George, I wish to give notice. I was hired to drive, not to fly.' In other words, he quit on the spot! It is a funny line, and it may even be true, but there is no record made at the time to prove it.",
+        "Long after Cayley's death, people wondered whether his glider design could really fly. Modern replicas based on his drawings have been built and flown, including on the same Yorkshire hillside, and they showed that his design really could glide. Today the sign at the edge of Brompton village proudly calls it 'The Birthplace of Aviation'."
+      ]
+    },
+    {
+      "heading": "The Missing Piece: An Engine",
+      "paragraphs": [
+        "So if Cayley understood wings, tails, stability, streamlining and the four forces, why did he not build an airplane that took off by itself and flew under power? The answer is simple and frustrating. He had no engine that was light enough and strong enough.",
+        "In Cayley's lifetime, the most powerful engines in the world were steam engines. They were wonderful machines for pumping water out of mines, driving factory looms and pulling railway trains. But they were extremely heavy. A steam engine needs a boiler full of water, a firebox burning coal or wood, thick metal walls to hold the steam pressure, and a supply of fuel and water to keep going. For a train running on rails, all that weight did not matter much. For a flying machine, it was a disaster. Every extra kilogram of engine needed extra wing to hold it up, and extra wing meant extra weight and drag, which needed a bigger engine, which meant more weight... a vicious circle.",
+        "Engineers talk about the power-to-weight ratio: how much power an engine gives for each kilogram it weighs. Steam engines of the early 1800s had a very poor power-to-weight ratio. Cayley knew this. He calculated that a flying machine would need an engine far lighter, for its power, than anything that existed.",
+        "So he tried to invent one. Around 1807 he built a hot-air engine, which used the expansion of heated air instead of steam to push a piston. The Institution of Mechanical Engineers credits him with making the first successfully working hot-air engine. He also experimented with the idea of an engine powered by small explosions of gunpowder, a dangerous but interesting idea that hinted at the later internal combustion engine, in which fuel burns inside the cylinder. None of these engines was good enough to lift a flying machine.",
+        "Cayley died at Brompton on 15 December 1857, at the age of 83, and was buried in the churchyard of All Saints' Church in the village. He never saw a powered airplane fly. But he had done something even more important: he had written the instruction manual. He had shown what an airplane should look like, what forces it must balance and how to test ideas safely. Decades later, Wilbur Wright himself praised Cayley's work, saying that he had carried the science of flight to a point it had never reached before.",
+        "Cayley's paper ended with a challenge for the future. He believed that one day people would travel through the air faster and more safely than by land or sea, once a light enough engine was found. Inventors read his work and accepted the challenge. And since steam engines were the most powerful machines anyone had, many of them decided to try the obvious thing: build a flying machine and bolt a steam engine onto it. Their heavy, hissing, puffing contraptions are the story of Part 4."
+      ]
+    }
+  ],
+  "deepDive": "Why do historians call Cayley the father of aeronautics when he never flew a powered plane? The answer lies in the difference between building a machine and defining a problem. Before Cayley, almost every serious attempt at flight was an ornithopter, a machine meant to flap like a bird, so that one surface had to provide both lift and propulsion. Cayley's 1799 disc and his 1809–1810 paper separated these functions, and that separation is the conceptual foundation of every fixed-wing aircraft since. In modern terms, he resolved the aerodynamic force on a wing into components perpendicular (lift) and parallel (drag) to the airflow, recognised that thrust exists to balance drag rather than to hold the craft up, and grasped that lift depends on speed, area and angle of attack. He also identified camber, dihedral for roll stability, a rear tail for pitch stability and streamlining for low drag. Historians do debate some details. Cayley's whirling-arm numbers were rough, because the arm dragged the surrounding air into a swirl and because his surfaces were small and moved slowly, so his measurements could not be scaled up with confidence; later researchers, including the Wright brothers, found that many published lift figures were unreliable. The 1849 and 1853 flights are known mainly from Cayley's notes and family recollections, so the pilot's identity, the exact distance and even the precise design of the 1853 glider remain uncertain, and the coachman's famous resignation line is best treated as family tradition. Another question is influence: Cayley published in scientific journals, but much of his material sat in notebooks that were only studied in detail in the 20th century, so later inventors sometimes rediscovered his ideas independently. Still, his 1809–1810 paper was widely known, and the Aeronautical Society of Great Britain, founded in 1866, built directly on his approach. The key lesson for teens and adults is that his real breakthrough was method: measure forces, test models, value stability, and recognise power-to-weight ratio as the limiting factor. The airplane had to wait about 50 years after his death for the petrol engine, but the design brief was already written.",
+  "funFact": "Cayley's world-changing 1799 airplane design was engraved on a silver disc only about 2.5 centimetres (1 inch) across, which is kept today in the Science Museum in London.",
+  "check": {
+    "q": "What big idea did Cayley show on his 1799 silver disc?",
+    "a": "Separating lift (a fixed wing) from thrust, with a body and a tail",
+    "wrong": [
+      "A flapping wing that both lifts and pushes",
+      "A hot-air balloon with a steering sail",
+      "A jet engine for airplanes"
+    ]
+  },
+  "sources": [
+    {
+      "title": "George Cayley",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_Cayley"
+    },
+    {
+      "title": "Small silver disc engraved with an early design of Sir George Cayley",
+      "publisher": "Science Museum Group Collection",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29509/small-silver-disc-engraved-with-an-early-design-of-sir-george-cayley"
+    },
+    {
+      "title": "Replica of Aerial Top used by Sir George Cayley",
+      "publisher": "Science Museum Group Collection",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29483/replica-of-aerial-top-used-by-sir-george-cayley"
+    },
+    {
+      "title": "Four Forces on an Airplane",
+      "publisher": "NASA Glenn Research Center",
+      "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/four-forces-on-an-airplane/"
+    },
+    {
+      "title": "History of aviation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_aviation"
+    },
+    {
+      "title": "Brompton-by-Sawdon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Brompton-by-Sawdon"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Sir George Cayley's 1799 silver disc showing his fixed-wing flying machine design",
+      "search": "Cayley silver disc 1799"
+    },
+    {
+      "want": "Portrait of Sir George Cayley, the English aviation pioneer",
+      "search": "Sir George Cayley portrait"
+    },
+    {
+      "want": "Drawing or replica of Cayley's 1853 man-carrying glider (governable parachute)",
+      "search": "Cayley glider 1853 replica"
+    }
+  ]
+}

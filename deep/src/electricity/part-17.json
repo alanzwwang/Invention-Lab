@@ -1,0 +1,160 @@
+{
+  "n": 17,
+  "title": "Shocks, Smoke and Blackouts",
+  "when": "1880s – today",
+  "summary": "Electricity is a wonderful helper, but it can bite. In this part we meet the clever gadgets that stop shocks and fires, visit the nights when whole cities went dark, and see how smoky power stations, glowing skies and missing power lines became problems people are still working to fix.",
+  "sections": [
+    {
+      "heading": "A Helper With a Bite",
+      "paragraphs": [
+        "Imagine New York City in the late 1880s. Look up from almost any busy street corner and you would see a black spider web of wires strung on tall wooden poles: telegraph wires, telephone wires, wires for fire alarms and stock tickers, and, newest of all, the thick wires that carried current for arc lamps. Some poles held dozens of crossbars. Wires sagged, snapped in storms and draped over one another. When an old telegraph wire touched a high-voltage lighting wire, the harmless one could suddenly become deadly.",
+        "In 1889 a telegraph repairman named John Feeks climbed a pole in lower Manhattan to work on the tangle and touched a wire that had become live. He died up there among the wires while a crowd watched from the street below. It was one of several deaths that shocked the city, and it pushed New York to finish a job it had already begun: moving electric wires off poles and into tunnels under the streets. It was an early lesson that the new force lighting up cities could also kill.",
+        "Why is electricity dangerous at all? Your body is not a good conductor like copper, but it is not a perfect insulator like rubber either. It is mostly salty water, and salty water lets current through. Your nerves and heart also run on tiny electrical signals of their own, as Galvani's twitching frog legs hinted back in the 1780s. When an outside current flows through you, it can jam those signals.",
+        "The amount of current matters much more than the voltage alone. Scientists measure it in milliamps, or thousandths of an amp. Roughly speaking, about 1 milliamp flowing through the body is enough to feel as a tingle. Around 10 milliamps can make muscles clench so hard that a person cannot let go of the wire. Somewhere between about 30 and 100 milliamps passing through the chest for a second or so can throw the heart out of its steady rhythm, which can be fatal. A household light bulb uses hundreds of milliamps, so the current in an ordinary wall socket is far more than enough to hurt or kill.",
+        "Electricity can also start fires. Any wire carrying current warms up a little, because the moving charge bumps against the atoms of the metal. If too much current flows, for example because too many heaters are plugged into one socket, or because two bare wires touch and make a short circuit (a shortcut with almost no resistance), the wire can glow red-hot and set wood, cloth or plaster alight. In the early years of electric lighting, many buildings had wires simply tacked along wooden walls with thin cloth insulation. Insurance companies were worried, and with good reason.",
+        "So, almost from the moment electricity entered buildings, engineers began a second race alongside the race to make better bulbs and bigger power stations: the race to make electricity safe. It is a race that never really finished. Every year, new rules, new tests and new devices make homes a little safer than before."
+      ]
+    },
+    {
+      "heading": "Fuses, Breakers and the Third Pin",
+      "paragraphs": [
+        "The very first safety device was beautifully simple. Engineers noticed that a thin wire heats up faster than a thick one carrying the same current. So why not put a deliberately thin, weak piece of wire into a circuit, on purpose, as a sacrifice? If the current ever grew dangerously large, the weak link would melt first and break the circuit before the main wiring could catch fire. That weak link is called a fuse.",
+        "Telegraph engineers were already using little meltable wires and strips of foil to protect their equipment by the 1860s. Edison's lighting system of the 1880s relied on fuses too, and Edison received a patent for a fuse as part of his electrical distribution system in 1890. For about a hundred years, the fuse box was a familiar sight in homes. When a fuse 'blew', the lights went out, and somebody had to find a torch, open the box and fit a new fuse or a fresh piece of fuse wire.",
+        "Fuses have a weakness: they can only work once. Worse, a frustrated person might replace a blown fuse with a thicker wire, or even a coin, which defeats the whole point. Engineers wanted a switch that would flip itself off when the current grew too big, and that could simply be switched back on afterwards. This is the circuit breaker. Edison sketched the idea in an 1879 patent application, but the small household breaker really arrived in 1924, when the German company Brown, Boveri and Cie patented a miniature circuit breaker based on the work of the engineer Hugo Stotz.",
+        "A modern household breaker has two clever tricks inside. The first is a strip made of two different metals stuck together. When too much current flows for a while, the strip warms up; one metal expands more than the other, so the strip bends, and as it bends it trips a catch that pops the switch open. That handles slow overloads, such as too many heaters on one circuit. The second trick is a little electromagnet, the same invention Sturgeon and Henry built in the 1820s and 1830s. A sudden huge current, such as a short circuit, makes the electromagnet pull hard and snap the switch open almost instantly.",
+        "Fuses and breakers protect wires, but they are not sensitive enough to protect people. A breaker might let 20 amps flow before it trips, while a fraction of an amp through the body can be deadly. Two more inventions fill that gap. The first is the earth wire, also called the ground wire. In many plugs it is the third pin. It connects the metal case of an appliance, such as a toaster or washing machine, to the earth. If a loose live wire inside ever touches the case, current rushes down the earth wire instead of waiting for a person to touch the metal, and the large current trips the breaker or blows the fuse.",
+        "The second is a device with many names: residual-current device (RCD) in Britain and much of the world, or ground-fault circuit interrupter (GFCI) in North America. It works like a careful accountant. In a healthy circuit, every bit of current that flows out along the live wire comes back along the neutral wire. The device constantly compares the two. If even a few thousandths of an amp are missing, that current must be leaking somewhere it should not, perhaps through a person to the ground, so the device cuts the power in a few hundredths of a second.",
+        "Power companies first used such devices in the 1950s to catch people who were stealing electricity by sneaking current past their meters. In South Africa, Henri Rubin built a sensitive version in the mid-1950s, and in 1961 the American professor Charles Dalziel developed a transistorised ground-fault interrupter with the Rucker Manufacturing Company. Today, a typical personal-protection GFCI in the United States trips at about 5 milliamps, and RCDs elsewhere often trip at 30 milliamps. Many lives have been saved by that little test button you may have noticed on bathroom sockets or in the fuse box."
+      ]
+    },
+    {
+      "heading": "The Lab Above the Fire Station",
+      "paragraphs": [
+        "Let's travel to Chicago in 1893. The city is hosting the World's Columbian Exposition, a gigantic fair that, as Part 14 told, was lit by Westinghouse's alternating current. There is an entire Palace of Electricity, packed with glowing lamps and humming machines. All this new wiring makes insurance companies nervous. If one of the fair's dazzling buildings catches fire, who pays?",
+        "The Chicago fire insurers sent a young electrical inspector named William Henry Merrill, who had studied electrical engineering at the Massachusetts Institute of Technology and worked as an inspector in Boston, to check the electrical installations. Merrill saw that the world needed something new: a place where products could be tested scientifically before people bought them, so that dangerous designs never reached homes in the first place.",
+        "Merrill stayed in Chicago. With about 350 dollars' worth of equipment, he set up a small laboratory on the third floor of a fire insurance patrol station. Funding came from insurance groups. His lab signed its first test report on 24 March 1894. It became known as Underwriters Laboratories, or UL (an underwriter is a person or company that agrees to pay if something goes wrong, which is what insurers do).",
+        "UL's testers did things to products that ordinary customers never would. They overloaded wires until they smoked, set fire to materials to see how fast flames spread, and dropped, bent and soaked appliances. Their first published safety standard, in 1903, was actually for tin-clad fire doors rather than for an electrical gadget. In 1906 they started a label service, and those labels grew into the small UL mark you can still find stamped on the plugs and cables of many appliances today.",
+        "The safety rules that come out of all this history are simple enough for anyone to remember. Never poke anything into a socket except a proper plug. Keep electrical things away from water. Do not overload sockets with lots of adaptors. Pull plugs out by the plug, not the cable. Stay far away from fallen power lines and never climb electricity pylons or fly kites near overhead wires."
+      ]
+    },
+    {
+      "heading": "The Night the Lights Went Out",
+      "paragraphs": [
+        "It is a cold Tuesday evening, 9 November 1965, just after five o'clock. In New York City, millions of people are leaving work. Trains are full. Office towers glitter. Then, at about 5:27, the lights begin to flicker, dim and die. Within minutes, Manhattan, the Bronx, Queens and most of Brooklyn are dark. Underground, more than 800,000 subway riders are stuck in stopped trains.",
+        "The trouble had started about ten minutes earlier and hundreds of kilometres away, at the Sir Adam Beck No. 2 hydroelectric station at Queenston, Ontario, near Niagara Falls. A protective relay, a small automatic switch meant to disconnect a power line if it became dangerously overloaded, had been set to trip at too low a level. When the power flowing through the line crept above that setting, the relay switched the line off, even though nothing was really wrong.",
+        "The electricity that had been flowing along that line did not simply vanish. It rushed onto the neighbouring lines, which suddenly carried far more than they were designed for. Their own protective switches tripped too, pushing the load onward again. Like a row of dominoes, the failure spread across the linked-up grid. Within minutes, parts of Ontario and nine American states, covering about 80,000 square miles (roughly 200,000 square kilometres), had lost power. More than 30 million people were in the dark, some of them for up to 13 hours.",
+        "What happened next surprised many people. New Yorkers mostly stayed calm. People directed traffic with torches, strangers shared candles and sandwiches, and the full moon helped light the streets. New York police received only five reports of looting, the lowest crime count for any night in the city's records. In Syracuse, a hospital's backup generator failed to start, and surgeons finished operations by the light of flashlights. Newspapers later claimed that a baby boom followed nine months later, but careful studies found no such thing; it is a popular myth.",
+        "Yet blackouts kept happening, because grids kept growing. On the hot afternoon of 14 August 2003, just after 4:10, an even bigger blackout struck the north-eastern United States and Ontario. This time the chain began in Ohio. Power lines carrying heavy summer loads warmed up, stretched and sagged into trees that had not been trimmed, and each touch tripped the line off. At the same time, a software bug had silently frozen the alarm system in the control room of the power company FirstEnergy, so operators did not realise for over an hour that their lines were failing.",
+        "Without warnings, nobody acted in time. The failure cascaded across eight states and Ontario, and about 50 to 55 million people lost power. Hundreds of generating units at around 265 power plants shut down to protect themselves. Water pumps stopped, so Detroit had to tell about 4 million people to boil their drinking water. Some areas got power back in a couple of hours; parts of New York City and Toronto waited until 16 August. After investigations, the United States made its grid reliability rules compulsory instead of voluntary, with fines for companies that broke them."
+      ]
+    },
+    {
+      "heading": "Smoke Over the City",
+      "paragraphs": [
+        "Most of the electricity of the twentieth century came from burning coal. A coal power station works like a giant kettle: coal burns in a furnace, the heat boils water into high-pressure steam, the steam spins a turbine like the ones Charles Parsons invented (Part 15), and the turbine turns a generator that uses Faraday's induction to make current. It is a brilliant system, but the smoke from all that burning coal has to go somewhere.",
+        "In December 1952, London found out what happens when the wind stops. On 5 December, a large area of high air pressure settled over the city. The air went still, and a layer of warmer air sat on top of colder air near the ground like a lid on a pot. Weather scientists call this a temperature inversion. It was bitterly cold, so Londoners piled more coal on their home fires, and much of the coal sold for homes after the Second World War was cheap, low-grade and full of sulfur. Coal-burning power stations inside the city, such as Battersea and Bankside, added their smoke, and so did factories, steam trains and buses.",
+        "With no wind to carry it away, the smoke mixed with the fog and built up day after day. The Met Office later estimated that about 1,000 tonnes of smoke particles poured into the air each day, along with hundreds of tonnes of sulfur dioxide, a choking gas. The fog turned a dirty yellowish colour. Londoners called this kind of fog a 'pea-souper'. In some places people could see only about 30 centimetres in front of them. Buses, trams and taxis stopped running; only the Underground railway kept going, and ambulances struggled to find their way. The smog crept indoors, and cinemas and concerts were cancelled because audiences could no longer see the screen or stage.",
+        "The smog lifted on 9 December, but the damage was done. Thousands of people, especially the elderly, babies and those with weak lungs or hearts, became seriously ill. The government's estimate at the time was about 4,000 extra deaths and around 100,000 people made ill. Later researchers, studying hospital and death records for the weeks and months afterwards, have suggested the true number of deaths may have been 10,000 to 12,000. It is remembered as the worst air pollution disaster in British history.",
+        "The Great Smog changed the law. Britain's Clean Air Act of 1956 created smoke-free zones in cities and helped families switch from open coal fires to cleaner fuels such as gas. New power stations were built farther from city centres. Both of those famous London power stations were eventually closed: Bankside became the Tate Modern art gallery, and Battersea, with its four white chimneys, became shops, offices and flats.",
+        "Moving smoke away from cities created a new problem farther away. Sulfur dioxide and nitrogen oxides from tall chimneys drift for hundreds of kilometres. Up in the clouds they react with water to form weak sulfuric and nitric acid, which falls as acid rain. The Scottish chemist Robert Angus Smith noticed acidic rain around smoky Manchester as early as 1852 and coined the term 'acid rain' in 1872. In the 1960s and 1970s, scientists found that lakes in Scandinavia, North America and elsewhere were becoming so acidic that fish could no longer breed; most fish eggs fail to hatch when the water drops below a pH of about 5. Forests on mountain tops were damaged, and stone buildings and statues slowly dissolved.",
+        "Coal-fired power plants were found to produce about two-thirds of the sulfur dioxide in the air, so they became the target. Engineers fitted 'scrubbers', huge towers that spray a mixture of water and limestone through the exhaust gas so that the sulfur is captured before it reaches the chimney. In the United States, the 1990 Clean Air Act amendments set a total limit on sulfur dioxide and let companies buy and sell permission to pollute below that cap. Sulfur pollution fell sharply in the decades that followed, and many lakes and forests have slowly begun to recover. Acid rain is one of the best examples of an environmental problem that people noticed, measured and largely fixed."
+      ]
+    },
+    {
+      "heading": "The Invisible Gas and a Warming World",
+      "paragraphs": [
+        "Scrubbers can catch sulfur, and filters can catch soot. But there is one product of burning coal, oil and gas that no simple filter removes: carbon dioxide, or CO2. Every atom of carbon in the fuel joins with two atoms of oxygen from the air as it burns. Burning a tonne of coal produces more than two tonnes of carbon dioxide, because the oxygen adds so much weight. This invisible gas is not poisonous at the levels in the air, which is why for most of history nobody worried about it.",
+        "Carbon dioxide does have one important property, though. It lets sunlight pass through on the way in but traps some of the heat that the Earth gives off on the way out, a bit like a blanket. This is called the greenhouse effect. A natural amount of it keeps our planet warm enough to live on. But since the 1800s, people have been adding huge amounts of extra carbon dioxide to the air, mostly from burning fossil fuels, and the Earth has been warming as a result. Scientists measure the effects in hotter summers, melting glaciers, rising sea levels and changing weather patterns.",
+        "Electricity is a big part of that story. Studies of where greenhouse gases come from find that making electricity and heat is the largest single source among all human activities. In 2024, coal still produced about a third of the world's electricity, more than any other single source. Coal is also the most carbon-heavy way to make power. Figures from American power plants found that coal released roughly 1 kilogram of CO2 for every kilowatt-hour of electricity, about twice as much as natural gas.",
+        "Notice something important here, though. The bulb itself does not burn anything and makes no smoke. The pollution happens back at the power station. That means the same lamp can be cleaner or dirtier depending on where its electricity comes from. Powered by wind, sunlight, water or nuclear energy, it releases almost no carbon dioxide while it runs. This idea, that the plug is only as clean as the power station behind it, will matter a great deal in the final parts of this Deep Dive."
+      ]
+    },
+    {
+      "heading": "Where Did the Stars Go?",
+      "paragraphs": [
+        "There is another kind of pollution caused by electricity, and you can see it every clear night, or rather, you can see what it hides. Look up from a big city and you might spot the Moon, a few bright planets and a handful of the brightest stars. The rest of the sky glows a dull orange or grey. That glow is light pollution: artificial light shining where it is not needed, and especially upward into the sky, where it scatters off dust and water droplets in the air and makes a glowing dome over towns called skyglow.",
+        "A team of scientists made a world atlas of night-sky brightness in 2016 using satellite measurements. They found that more than 80 percent of the world's people live under light-polluted skies. About one-third of humanity can no longer see the Milky Way, the faint, shimmering band of billions of stars that every human ancestor could see on a dark night. That includes about 80 percent of North Americans and around 60 percent of Europeans. In Singapore, the most light-polluted country studied, the whole population lives under skies so bright that night never becomes truly dark.",
+        "People are not the only ones affected. Many animals use the natural pattern of light and dark to know what to do. Baby sea turtles hatch on beaches at night and find the sea by crawling toward the brightest horizon, which on a natural beach is the moonlit and starlit ocean. Bright hotels, roads and streetlights behind the beach can lure them the wrong way, toward danger, instead of toward the waves.",
+        "Migrating birds, which often fly at night and navigate partly by the stars, can be drawn toward brightly lit towers, offshore platforms and city skyscrapers, where many crash into glass or circle until they are exhausted. Some cities now run 'lights out' campaigns during migration seasons. Insects are attracted to lamps in vast numbers and die there, which affects the bats and birds that eat them, and the night-blooming plants that rely on moths to carry their pollen. Light at night can also upset human sleep, because our bodies use darkness as a signal that it is time to rest.",
+        "The good news is that light pollution is one of the easiest kinds of pollution to fix: when you switch a light off, the pollution disappears instantly. Lights can be shielded so they shine only downward, dimmed late at night, and switched on only when someone is near. France cut its light pollution substantially over a few years with national rules. Around the world, some places have been named dark-sky parks and reserves, where lighting is controlled so visitors can see the stars as people did centuries ago."
+      ]
+    },
+    {
+      "heading": "Still Waiting for the Switch",
+      "paragraphs": [
+        "So far this part has been about the problems of having too much electricity. But for many people on Earth, the problem is having none at all. Picture a village far from any power line. When the sun sets at about six o'clock, darkness falls. A family might light a kerosene lamp, the same kind of smoky flame from Part 1, or use a candle or a cheap torch. Children try to do their homework in that dim, flickering glow. A clinic cannot keep vaccines cold in a refrigerator, and a nurse might deliver a baby by the light of a phone screen.",
+        "There has been real progress. In 1998, more than 1.5 billion people in the world had no electricity at home. By 2015 that number had fallen below 1 billion, and it kept falling. In the early 2020s, estimates put the number of people still without electricity at somewhere around 700 to 760 million, depending on the year and how access is counted. That is still roughly one person in every ten or eleven on the planet.",
+        "Most of them live in sub-Saharan Africa, which is home to about three-quarters of all the people in the world without power. There, the share of people with electricity has been rising, but for many years the population grew so fast that the total number of people without power kept going up anyway. In some countries, only a small fraction of schools have electricity at all, which makes it much harder to use computers, run lights for evening classes or pump clean water.",
+        "Today, some of the fastest progress comes from small solar panels on roofs and village-sized 'mini-grids', which can bring light to places that big power lines may not reach for years. Combined with the efficient lamps you will meet in the next part, a single small solar panel can now light a home, charge a phone and run a radio.",
+        "Shocks, fires, blackouts, smog, acid rain, rising carbon dioxide, glowing skies and the unfair gap between those with power and those without: electricity has brought plenty of problems along with its gifts. But engineers and scientists have been fighting back on two fronts. On one front, they have been inventing lights that give far more brightness for far less energy. On the other, they have been finding cleaner ways to make power in the first place. The next part begins the story of the first front, with a strange red glow seen at a Paris motor show in 1910."
+      ]
+    }
+  ],
+  "deepDive": "Why does one tripped line sometimes black out a whole region? A power grid must keep supply and demand balanced every instant, because it has almost no storage of its own. Its 'heartbeat' is the frequency, 50 or 60 cycles per second. If demand suddenly exceeds supply, the huge spinning generators slow slightly and the frequency drops; if supply exceeds demand, they speed up. Protective systems watch for dangerous frequencies, voltages and currents and disconnect equipment to stop it being damaged. That protection is essential, but it creates the risk of a cascade: when one line or generator drops out, its load shifts instantly to its neighbours, which may then overload and trip, shifting the load again. Investigations into the 1965 and 2003 blackouts both found that the first failures were small (a mis-set relay; lines sagging into trees plus a frozen alarm system) and that the disaster grew because operators lacked a clear picture of the whole system. Modern grids use wide-area monitoring that measures conditions many times a second, plans for the loss of any single major component, and deliberately disconnects some customers ('load shedding') to save the rest. Historians and epidemiologists still debate the true toll of the 1952 London smog. The official figure of about 4,000 deaths counted only the weeks around the event; later analyses of excess deaths through early 1953 suggested 10,000 to 12,000, although officials at the time blamed part of the later rise on an influenza outbreak, a claim many researchers now doubt. Similar debates surround air pollution today: because fine particles harm health slowly, death tolls are estimated statistically rather than counted one by one, so honest estimates come with wide ranges. Measurements of light pollution have their own quirk: many satellites cannot detect the blue part of the light from white LEDs well, so ground observations suggest skyglow may be rising faster than satellite records show. Finally, the access figures for electricity also depend on definitions: does a household with a small solar kit that runs two lamps count as 'having electricity'? International agencies now use tiered measures that record how much power a home has, for how many hours a day, and how reliably.",
+  "funFact": "During the great Northeast blackout of 9 November 1965, New York police recorded only five reports of looting, the lowest crime count for any night in the city's records.",
+  "check": {
+    "q": "What small fault started the great Northeast blackout of 9 November 1965?",
+    "a": "A wrongly set protective relay at a hydroelectric station near Niagara Falls tripped a power line",
+    "wrong": [
+      "A lightning strike on the Empire State Building",
+      "A squirrel chewing through a cable in Manhattan",
+      "Edison's old Pearl Street dynamos breaking down"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Northeast blackout of 1965",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northeast_blackout_of_1965"
+    },
+    {
+      "title": "Northeast blackout of 2003",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Northeast_blackout_of_2003"
+    },
+    {
+      "title": "Great Smog of London",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Great_Smog_of_London"
+    },
+    {
+      "title": "UL (safety organization)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/UL_(safety_organization)"
+    },
+    {
+      "title": "Residual-current device",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Residual-current_device"
+    },
+    {
+      "title": "Acid rain",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Acid_rain"
+    },
+    {
+      "title": "Light pollution",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Light_pollution"
+    },
+    {
+      "title": "Access to Energy",
+      "publisher": "Our World in Data",
+      "url": "https://ourworldindata.org/energy-access"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Historical photograph of Nelson's Column or a London street shrouded in thick smog during the Great Smog of December 1952",
+      "search": "Great Smog London 1952 Nelson's Column"
+    },
+    {
+      "want": "Photograph of the New York City skyline or streets in darkness during the Northeast blackout of 1965 or 2003",
+      "search": "Northeast blackout 2003 New York"
+    },
+    {
+      "want": "Satellite image of Earth at night showing city lights across Europe or North America",
+      "search": "Earth at night city lights NASA"
+    }
+  ]
+}

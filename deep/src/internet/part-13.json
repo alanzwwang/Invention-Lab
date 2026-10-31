@@ -1,0 +1,155 @@
+{
+  "n": 13,
+  "title": "Wires, Glass and Undersea Cables",
+  "when": "1960s – today",
+  "summary": "The Internet is not a cloud floating in the sky. It is a real machine made of copper wires, glass threads thinner than a hair, and giant cables lying on the bottom of the ocean. Flashes of light race through that glass, carrying your videos and messages from one side of the world to the other.",
+  "sections": [
+    {
+      "heading": "You Can Trip Over the Internet",
+      "paragraphs": [
+        "People often talk about the Internet as if it were invisible, a kind of magic that lives everywhere and nowhere. It is easy to see why. You tap a screen, and a moment later a video from Japan or a message from your cousin in Canada appears. Nothing seems to move. But if you could shrink down to the size of an ant and follow that video back to where it came from, you would find yourself crawling through a very real, very physical world.",
+        "You would start at the little box in your home, the one with blinking lights. From there you would slide along a thin cable through the wall and out to the street, where it joins a fatter bundle of cables strung on poles or buried under the pavement. That bundle leads to a building owned by your Internet provider, full of humming metal cabinets. From there, thicker cables run along railway lines, beside motorways and under rivers to big cities. In some of those cities you would find buildings packed with thousands of computers, called data centres, and special meeting places where different networks plug into each other. And if your video came from another continent, your journey would take you down a beach, into the sea, and along the ocean floor for thousands of kilometres, through the dark, past sleeping fish, inside a cable about as thick as a garden hose.",
+        "So the Internet has a body. It has copper wires, the same kind of metal wires that carried telephone calls for more than a century. It has fibre-optic cables, which carry data as flashes of light through strands of incredibly pure glass. It has data centres, where websites, games and photos are stored and served. It has exchange points, where networks swap traffic. It has radio towers and, for some places, satellites. All of these parts are built, owned, repaired and paid for by real people and companies.",
+        "Remember the big idea from earlier parts of this story: the Internet is a network of networks. Thousands of separate networks, run by universities, phone companies, cable companies, governments and tech firms, agree to follow the same rules, TCP/IP, and to pass packets to one another. In this part we look at the physical roads those packets travel on. And the most important road of all turns out to be made of glass."
+      ]
+    },
+    {
+      "heading": "Charles Kao and the Clearest Glass in the World",
+      "paragraphs": [
+        "In the early 1960s, telephone companies had a growing problem. More and more people wanted to make calls, and soon there would be television signals and computer data to carry too. Copper wires and radio links could only carry so much. Engineers knew that light waves wiggle far faster than radio waves, which meant that, in theory, a beam of light could carry an enormous amount of information. Lasers had just been invented in 1960. The question was: what could you send the light through? Air was no good, because fog, rain and dust block light, and a beam cannot go around corners. Glass seemed like an option, but the glass of the time was hopeless. Light shone into a glass fibre faded away to almost nothing after a few metres.",
+        "Charles Kuen Kao was born in Shanghai, China, on 4 November 1933. He studied electrical engineering in London and then worked at Standard Telecommunication Laboratories, a research centre in Harlow, a town north-east of London. By 1963 he was leading a group there studying how to send light through fibres. Together with his colleague George Hockham, he did something brave and careful: instead of accepting that glass was just too murky, he asked exactly why the light was disappearing.",
+        "Their answer, worked out in 1965 and presented in January 1966, changed the world. Kao and Hockham argued that the problem was not glass itself. The problem was the tiny amounts of impurities in it, such as specks of iron and other metals, which soaked up the light. If someone could make glass pure enough, Kao calculated, the losses could fall below a key target: 20 decibels per kilometre. That number sounds technical, but here is what it means. Losing 20 decibels means that after one kilometre, about one hundredth of the light is still left. That may not sound like much, but it would be enough for a sensitive detector to read the signal, and it would be wildly better than the glass of the day, which lost almost all of its light in a few metres.",
+        "Many experts were doubtful. Making glass that pure seemed almost impossible. But Kao travelled to glass factories and laboratories, tested samples and encouraged researchers to try. In 1970, a team at the Corning Glass Works company in New York State, including Robert Maurer, Donald Keck and Peter Schultz, made a fibre of extremely pure silica glass that lost only about 17 decibels per kilometre. Kao's target had been beaten. Within a few years, losses dropped even further. Today's best fibres lose only about 0.2 decibels per kilometre, so a pulse of light can travel around 15 kilometres before half of it fades away. If ocean water were as clear as this glass, you could see the sea floor kilometres below you.",
+        "Kao later became a professor and then head (vice-chancellor) of the Chinese University of Hong Kong, from 1987 to 1996. People often call him the father of fibre optics. In 2009 he shared the Nobel Prize in Physics, receiving half of the prize for his work on sending light through fibres for communication. The other half went to Willard Boyle and George Smith, who had invented the image sensor chip used in digital cameras. Kao died in Hong Kong in 2018, aged 84. Nearly every message you send today spends at least part of its journey inside the kind of glass he imagined."
+      ]
+    },
+    {
+      "heading": "How Light Gets Trapped in a Glass Thread",
+      "paragraphs": [
+        "Try this the next time you go swimming. Dive under the water in a pool, look up at the surface at a low angle, and you may see something strange: the surface looks like a silvery mirror reflecting the pool below. That is the same trick that makes fibre optics work. It is called total internal reflection.",
+        "Light travels a little slower in water or glass than in air. Scientists measure this slowing with a number called the refractive index. When light inside a slower material hits the boundary with a faster material at a shallow, glancing angle, it cannot escape. Instead it bounces back completely, as if the boundary were a perfect mirror. That is the mirror you see from under the water.",
+        "A fibre-optic strand uses this trick on purpose. Each strand has two layers of glass. In the middle is the core, the path the light follows. Around it is the cladding, a layer of glass made with a very slightly lower refractive index. The difference is tiny: in a typical fibre, the core's index might be about 1.4475 and the cladding's about 1.444. But it is enough. Light zipping down the core at a shallow angle strikes the boundary with the cladding and is reflected back inward, again and again, thousands of times, following the fibre even when it curves gently around a corner. The light is trapped inside, like a ball rolling down a gutter that can never jump out.",
+        "These strands are astonishingly thin. A common type used for long distances has a core only about 8 micrometres wide (a micrometre is a thousandth of a millimetre) and cladding about 125 micrometres across, which is roughly the thickness of a human hair. Plastic coatings are added around each strand to protect it, and many strands are bundled into one cable.",
+        "How does light carry information? A tiny laser at one end flashes on and off, or changes the brightness and timing of its light, billions of times a second. Each flash or pattern stands for 1s and 0s, the bits that make up every photo, song and message. At the other end, a light detector turns the flashes back into electrical signals. The light used is usually invisible infrared, with a wavelength of about 1,550 nanometres, because the glass is clearest at that colour. Inside the glass, light travels at roughly 200,000 kilometres per second, about two-thirds of its speed in empty space, which is still fast enough to cross the Atlantic in about 30 thousandths of a second.",
+        "Two more clever ideas let fibres carry truly gigantic amounts of data. The first is called wavelength-division multiplexing, a long name for a simple idea: you can send many different colours of light down the same strand at the same time, and each colour carries its own separate stream of data, like many cars driving side by side in different lanes. Modern systems can squeeze dozens of colours into one strand. The second idea is the optical amplifier, developed in the late 1980s. Even the best glass slowly dims the light, so long cables need boosters. Older systems had to turn the light into electricity, clean it up and turn it back into light. Optical amplifiers made of fibre mixed with a rare element called erbium can boost the light directly, all colours at once. Together, these tricks mean a single modern cable can carry more data than the whole Internet carried a few decades ago."
+      ]
+    },
+    {
+      "heading": "Cables on the Ocean Floor",
+      "paragraphs": [
+        "If you look at a map of the Internet's long-distance links, it looks like a giant spider web wrapped around the planet, and most of the threads run under the sea. Undersea cables, also called submarine cables, are the true superhighways of the Internet. The share of data travelling between continents that goes through them is often quoted as more than 95 percent. Satellites carry only a tiny slice. According to United States government figures reported by the research firm TeleGeography, satellites carried less than half of one percent of the country's international capacity. When you watch a video made on another continent, it almost certainly reached you through the sea.",
+        "The idea of laying cables on the sea bed is not new. As you read in Part 1, the first lasting telegraph cable across the Atlantic was laid in 1866 by the giant ship Great Eastern. Telephone cables followed: the first transatlantic telephone cable, TAT-1, opened in 1956 and could carry about 36 phone calls at once. Each new cable carried more, but they were still made of copper, and copper has limits.",
+        "Then came glass. TAT-8 was the first fibre-optic cable to cross the Atlantic. It was built by a team of phone companies led by AT&T in the United States, British Telecom and France Télécom, using technology developed at AT&T's Bell Laboratories. It came ashore at Tuckerton in New Jersey, at Widemouth Bay in Cornwall, England, and at Penmarch in Brittany, France, with the line splitting under the sea to reach both European countries. It entered service in 1988 and cost about 335 million US dollars. TAT-8 carried about 280 megabits per second, enough for roughly 40,000 telephone calls at the same time, many times more than TAT-1. It was so popular that it was nearly full within about eighteen months. TAT-8 was retired in 2002, and in 2025 a ship began hauling its old cable up from the sea floor so the materials could be recycled.",
+        "Today there are hundreds of submarine cable systems. TeleGeography tracks more than 600 that are either working or being planned, and together the working ones stretch for more than 1.5 million kilometres, enough to wrap around the Earth at the equator over 35 times. Some are short, like the roughly 131-kilometre cable between Ireland and Britain. Others are enormous: the Asia America Gateway runs for about 20,000 kilometres. Newer cables are often paid for by big technology companies that run search engines, video sites and cloud services, because they need to move so much data between their data centres.",
+        "What does such a cable look like? Out in the deep ocean, where it simply lies on the sea floor, it is surprisingly slim, often about the width of a garden hose. At its heart are the hair-thin glass fibres, surrounded by layers that keep out water and give it strength, plus a copper layer that carries electricity to power the amplifiers spaced along the cable every few dozen kilometres. Near the shore, where the water is shallow and the dangers are greater, cables are wrapped in thick steel armour and buried in a trench in the sea bed.",
+        "Laying a cable is a huge job. Special cable ships carry thousands of kilometres of cable coiled in giant tanks inside their hulls. Before laying begins, survey ships map the sea floor to find a safe route, avoiding underwater cliffs, volcanoes and busy fishing grounds. Then the cable ship sails slowly along the route, paying out the cable over its stern, carefully controlling the speed so the cable settles gently onto the bottom, sometimes thousands of metres down. Close to land, a sea plough towed behind the ship can cut a groove in the sea bed and bury the cable as it goes."
+      ]
+    },
+    {
+      "heading": "Anchors, Earthquakes and the Truth About Sharks",
+      "paragraphs": [
+        "Cables do break. The International Cable Protection Committee, an organisation of cable owners, has counted roughly 200 faults around the world each year. That sounds like a lot, but remember there are hundreds of cables and over a million kilometres of them, and most breaks are fixed without most people ever noticing, because traffic is quickly rerouted along other cables. This is the Internet's old design idea of many paths working once again.",
+        "So what breaks them? Mostly, people do, by accident. About two-thirds of faults are caused by fishing boats dragging heavy nets and gear along the sea bed, or by ships dropping and dragging their anchors. Natural events cause some of the rest. Earthquakes and underwater landslides can snap cables or bury them, and a big earthquake off southern Taiwan at the end of 2006 damaged several cables at once, slowing Internet connections across parts of Asia for days, while full repairs took weeks. Equipment failures inside the cable also happen, but less often.",
+        "You may have heard stories about sharks biting undersea cables, and there is a grain of truth in them. In the mid-1980s, according to news reports from the time, an early trial fibre-optic cable laid by AT&T near the Canary Islands was bitten by sharks several times, possibly because the electric fields around the cable attracted them. Engineers responded by adding protective layers. But it is important to keep this in proportion. According to the cable protection committee's data reported by TeleGeography, fish bites caused zero cable faults between 2007 and 2014. Sharks make a fun headline, but the real dangers are anchors, fishing gear and earthquakes.",
+        "When a cable does break, a repair ship sets out on something like a deep-sea rescue. Engineers on shore send test signals down the cable and measure how long they take to bounce back, which tells them roughly where the break is. The ship sails to the spot and lowers a grapnel, a heavy hook dragged along the sea floor to catch the cable, or in shallower water uses a remotely operated underwater robot. The broken ends are hauled up to the deck one at a time. There, in a special clean room, technicians join the hair-thin glass fibres together with great precision, splicing a fresh piece of cable in between. Then the repaired cable is lowered back into the sea. A repair can take days or even weeks, depending on the weather, the depth and how far the ship must travel."
+      ]
+    },
+    {
+      "heading": "From Screeching Modems to Fibre at Home",
+      "paragraphs": [
+        "The undersea cables are the motorways, but your home also needs a driveway to join them. The connection between your house and your Internet provider is often called the last mile, and for a long time it was the slowest part of the whole journey.",
+        "As you read in Part 9, the first home connections used dial-up modems. They turned data into screeching sounds and sent them down the ordinary telephone line, and the fastest ones managed about 56 kilobits per second. To understand what that means, we need an important word. Bandwidth is how much data a connection can carry each second. It is measured in bits per second. A kilobit is a thousand bits, a megabit is a million bits, and a gigabit is a billion bits. Internet speeds are usually written as Mbps (megabits per second) or Gbps. Watch out for one tricky detail: a byte is 8 bits, so a file of 5 megabytes contains 40 megabits.",
+        "Now let's do a real calculation. Imagine downloading a 5-megabyte song. On a 56-kilobit dial-up modem, that is 40 million bits divided by 56,000 bits per second, which takes about 714 seconds, or roughly 12 minutes, if everything goes perfectly. On a 100-megabit connection, the same song takes about 0.4 of a second. That difference, more than a thousand times faster, is why the modern Internet of streaming video and online games became possible.",
+        "The first big step up was broadband, a word meaning a connection that is always on and much faster than dial-up. One kind, called DSL (digital subscriber line), uses the same copper telephone wires as dial-up, but in a smarter way. A phone call uses only fairly low-pitched frequencies on the wire. DSL sends data using much higher frequencies on the same pair of wires, so you can be online and make a phone call at the same time. Its speed drops the farther you live from the telephone exchange, because high frequencies fade quickly in copper. Another kind, cable broadband, uses the thick coaxial cables that cable television companies had already laid to homes.",
+        "The best option is to bring fibre all the way to the home, often called fibre to the home or full fibre. Instead of copper for the last stretch, a glass strand runs right into your house, where a small box turns the light into signals your router can use. Fibre fades far less than copper, so homes far from the exchange can get the same speeds as homes next door to it, and many homes with fibre today can get speeds of one gigabit per second or more.",
+        "There is one more idea worth knowing. Bandwidth is not the same as delay. Engineers call the delay latency: the time it takes one small packet to travel from you to somewhere else. Think of a water pipe. Bandwidth is how wide the pipe is, how much water can flow through each second. Latency is how long it takes the first drop to reach the far end. A wide pipe is great for downloading a huge film. A short pipe matters more for an online game, where every split second counts. Both depend on the physical wires and how far the data must travel."
+      ]
+    },
+    {
+      "heading": "Where Networks Meet: Internet Exchange Points",
+      "paragraphs": [
+        "Here is a puzzle. Your Internet provider runs one network. The video site you visit is connected to a different network. Your friend down the road might use a third. How do packets jump from one company's network to another? The answer is that networks have to physically connect somewhere, with real cables plugged into real machines.",
+        "Sometimes two networks run a cable directly between their equipment. But it would be impossible for thousands of networks to each run a separate cable to every other network. So they meet at places called Internet exchange points, or IXPs. An IXP is usually a room or set of rooms in a data centre full of powerful network switches. Each member network runs a connection into the switch, and from there it can swap traffic with any other member that agrees. This swapping is called peering, and it is often done without either side paying the other, because both benefit.",
+        "IXPs grew out of the history you read in Part 9. When the government-funded NSFNET backbone was retired in 1995 in the United States, it was replaced by a handful of official meeting points called Network Access Points, alongside exchanges such as MAE-East near Washington DC. Since then, hundreds of exchange points have opened around the world. Some of the biggest are in Frankfurt, Amsterdam and London, where hundreds of networks connect and enormous amounts of traffic flow through the switches every second. Many IXPs are run as non-profit associations owned by their members.",
+        "Why do exchange points matter so much? Imagine two neighbours in the same city, each with a different Internet provider. If those providers do not connect locally, an email from one neighbour to the other might have to travel to a distant city, or even to another continent, before coming back, a bit like posting a letter to the house next door by sending it overseas first. In some parts of the world this really used to happen. A local IXP lets the traffic take the short route. That makes connections faster, cheaper and more reliable, and it means a country's Internet keeps working better even if an international cable breaks. This is why building local exchange points has been an important way to improve Internet access in many countries."
+      ]
+    },
+    {
+      "heading": "Up in Space: Satellites and Their Long Delay",
+      "paragraphs": [
+        "If cables are so important, why use satellites at all? Because there are places cables cannot easily reach: ships in the middle of the ocean, aeroplanes, research stations in Antarctica, remote mountain villages and small islands far from any cable route. For them, a link through space can be the only option.",
+        "Satellites began relaying communications long before the Internet. In July 1962, the satellite Telstar 1 sent live television pictures across the Atlantic for the first time. In 1965, Intelsat I, nicknamed Early Bird, became the first commercial communications satellite in a special kind of orbit called geostationary orbit. A satellite in this orbit sits about 35,786 kilometres above the equator. At that height it takes exactly as long to circle the Earth as the Earth takes to spin once, so it seems to hang still in the sky. That is useful, because a dish on the ground can point at the same spot all the time.",
+        "But that great height comes with a cost: delay. Radio signals travel at the speed of light, about 300,000 kilometres per second, which sounds instant. However, for a packet to go from a dish near you up to a geostationary satellite and back down to a ground station, it must travel at least about 71,600 kilometres. That takes roughly a quarter of a second. If you send a request and wait for a reply, the signal has to make that trip twice, so it is about half a second before an answer arrives, even before any other delays are added. You could hear this kind of delay in old live television broadcasts by satellite, when a news presenter asked a question and the reporter far away seemed to pause awkwardly before answering. For a phone call, half a second feels strange. For a fast online game, it is a disaster.",
+        "Compare that with a fibre-optic cable under the Atlantic. Even though light travels slower in glass, the route is so much shorter that a round trip across the ocean takes well under a tenth of a second. A single modern undersea cable can also carry far more data than a satellite. This is why the Internet is not mostly in the sky, whatever the word cloud might make you think. It lives mostly underground and under the sea. Newer satellites in much lower orbits have far shorter delays, and you will meet them in Part 20.",
+        "Glass threads under the sea, copper wires in old streets, fibre plugged into homes, switches humming in exchange points: the Internet is one of the largest machines ever built, and you can touch it. But there is still one place where all those cables come to an end, and that is the socket in your wall. Wires are wonderful, yet they tie you to one spot. What if your computer, or your phone, could connect to the Internet without any cable at all?"
+      ]
+    }
+  ],
+  "deepDive": "Why did glass win? The answer lies in physics and economics. Copper carries electrical signals, but at high frequencies the signal fades quickly and picks up interference, so long copper lines need frequent boosters and carry limited data. Infrared light near 1,550 nanometres has a frequency of roughly 190 terahertz, leaving enormous room for information. Kao and Hockham's insight in 1965–66 was that the unavoidable losses in silica are very low and that most of the loss in the glass of their day came from impurities such as metal ions, which could be removed. Their target of 20 dB/km (about 1 percent of the light left after 1 km) was beaten by Corning in 1970, and modern fibre reaches about 0.15–0.2 dB/km near 1,550 nm, close to the physical limit set mainly by scattering from tiny density variations frozen into the glass. The decibel scale is logarithmic: every 10 dB of loss divides the power by ten, so at 0.2 dB/km a link can run tens of kilometres before it needs boosting. Undersea systems use erbium-doped fibre amplifiers, developed around 1986–87, in which erbium ions energised by a pump laser release extra light in step with the signal across a band of wavelengths in the 1,530–1,565 nm region. Because one amplifier boosts that whole band, dense wavelength-division multiplexing became practical: dozens of channels share one fibre. Engineers also fight dispersion, where parts of a pulse arrive at slightly different times and smear the bits together; modern receivers use powerful digital signal processing to undo much of it. Historians and policy experts debate some consequences. Cables follow geography and money, so they bunch up at a few landing points and narrow passages, which raises worries about resilience when several break at once, as happened after the earthquake off Taiwan in December 2006. Ownership has also shifted: early cables were built by groups of national telephone companies, while many new ones are funded by large technology firms. Finally, the oft-quoted figure that 95 to 99 percent of intercontinental traffic travels by cable is widely repeated and broadly right in spirit, but exact shares are hard to measure, which is why careful writers say the vast majority.",
+  "funFact": "In the mid-1980s, according to news reports, an experimental AT&T fibre-optic cable near the Canary Islands was bitten by sharks several times, yet according to industry data reported by TeleGeography, fish bites caused no cable faults at all between 2007 and 2014.",
+  "check": {
+    "q": "What did Charles Kao realise was the main reason light faded so quickly in early glass fibres?",
+    "a": "Impurities in the glass soaked up the light",
+    "wrong": [
+      "Glass can never carry light more than a few metres",
+      "The fibres were far too thick",
+      "Sharks kept biting the cables"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Charles K. Kao",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charles_K._Kao"
+    },
+    {
+      "title": "Optical fiber",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Optical_fiber"
+    },
+    {
+      "title": "TAT-8",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/TAT-8"
+    },
+    {
+      "title": "Submarine Cable Frequently Asked Questions",
+      "publisher": "TeleGeography",
+      "url": "https://www2.telegeography.com/submarine-cable-faqs-frequently-asked-questions"
+    },
+    {
+      "title": "Internet exchange point",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Internet_exchange_point"
+    },
+    {
+      "title": "Types of orbits",
+      "publisher": "European Space Agency (ESA)",
+      "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Types_of_orbits"
+    },
+    {
+      "title": "Submarine communications cable",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Submarine_communications_cable"
+    },
+    {
+      "title": "2006 Hengchun earthquakes",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2006_Hengchun_earthquakes"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Portrait photograph of Charles K. Kao, the fibre-optics pioneer and 2009 Nobel laureate",
+      "search": "Charles Kao fibre optics Nobel"
+    },
+    {
+      "want": "Cross-section of a submarine communications cable showing the armour layers and fibres in the centre",
+      "search": "submarine communications cable cross section"
+    },
+    {
+      "want": "A bundle of glowing optical fibres carrying light, or a diagram of total internal reflection in a fibre",
+      "search": "optical fibre light total internal reflection"
+    }
+  ]
+}

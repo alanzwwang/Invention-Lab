@@ -1,0 +1,163 @@
+{
+  "n": 9,
+  "title": "Antitoxins, Toxoids and a New Wave of Vaccines",
+  "when": "1890 – 1940s",
+  "summary": "Some germs hurt us by making poisons. Scientists found that the blood of protected animals could stop those poisons, and brave sled dogs raced across frozen Alaska to deliver it. Soon there were new vaccines against diphtheria, tetanus, whooping cough, typhoid, yellow fever and more.",
+  "sections": [
+    {
+      "heading": "The Disease That Built a Wall in the Throat",
+      "paragraphs": [
+        "Imagine a doctor in 1890 being called to a farmhouse at night. A five-year-old has a sore throat, a fever and a strange, harsh, barking breath. When the doctor shines a lamp into the child's mouth, there is a greyish-white layer stuck across the back of the throat, like a skin that should not be there. Parents in the 1800s knew that sign and feared it. It meant diphtheria.",
+        "Diphtheria is caused by a bacterium with a long name, Corynebacterium diphtheriae. It spreads from person to person through coughs, sneezes and close contact. The bacteria settle in the nose and throat, but the real damage does not come from the bacteria themselves. It comes from a poison, called a toxin, that they release. The toxin kills nearby cells, and the dead cells, along with fibres from the blood, form that tough grey layer doctors call a membrane. In bad cases the membrane spreads over the tonsils and the voice box and can block the airway completely, which is why the illness was so often deadly for small children with narrow throats.",
+        "The toxin can also travel through the blood to other parts of the body. There it can inflame the heart muscle, damage nerves (sometimes causing temporary paralysis) and harm the kidneys. Even with modern hospital care, about 5 to 10 people in every 100 who get serious diphtheria die. Before there were any treatments, the rate was much higher, especially among young children.",
+        "The disease was not new. The Greek physician Hippocrates described something like it about 2,400 years ago. In 1826 the French doctor Pierre Bretonneau gave it its modern name, from a Greek word meaning leather or hide, because of that leathery membrane. Then, in the age of germ theory you met in Part 7, scientists hunted down the cause. Edwin Klebs spotted the bacterium in throat membranes in the early 1880s, and in 1884 Friedrich Loeffler, who worked with Robert Koch, grew it in the laboratory.",
+        "The most important clue came in 1888 at Pasteur's institute in Paris. Émile Roux and Alexandre Yersin grew diphtheria bacteria in a broth, then strained the broth through a filter fine enough to remove every single bacterium. When they injected the clear, germ-free liquid into animals, the animals still became sick and died. Something the bacteria had made, and left behind in the liquid, was doing the harm. That something was the toxin.",
+        "This discovery changed the question. If a disease is caused by a poison, maybe you do not have to kill the germs at all. Maybe you only need to block the poison."
+      ]
+    },
+    {
+      "heading": "Blood That Fights Back: Behring and Kitasato",
+      "paragraphs": [
+        "In 1890 two young scientists were working in Robert Koch's institute in Berlin. One was Emil von Behring, a German army doctor born in 1854 in a small village in what was then Prussia. The other was Kitasato Shibasaburō, a Japanese physician who had travelled to Berlin in 1885 to learn from Koch. Kitasato had already done something many experts thought impossible: in 1889 he became the first person to grow the tetanus bacterium as a pure culture, with no other microbes mixed in. Tetanus, sometimes called lockjaw, is another disease where a bacterial toxin does the damage, in this case by making muscles clench uncontrollably.",
+        "Behring and Kitasato tried an experiment. They gave animals small, carefully controlled amounts of tetanus or diphtheria toxin, or of weakened bacteria, so the animals got sick but survived. Then they took some blood from these survivors and separated out the serum, the clear, yellowish liquid left behind when blood clots. When they injected this serum into other animals, those animals were protected against the toxin. In some cases, serum even helped animals that were already sick.",
+        "Something in the survivors' blood was neutralising, or cancelling out, the poison. They called it antitoxin, meaning against the toxin. Today we know antitoxins are a kind of antibody, special proteins that lock onto a particular target. You will meet antibodies properly in the next part.",
+        "To make enough antitoxin for people, scientists needed big animals with lots of blood. Horses were ideal. A horse could be given gradually increasing doses of toxin over weeks, building up a powerful supply of antitoxin in its blood, and then small amounts of its blood could be collected again and again without harming it. Soon stables of horses at research institutes and companies were working as living antitoxin factories.",
+        "Getting the strength right was tricky, because one batch of serum could be far stronger than another. Paul Ehrlich, another scientist in Koch's circle, worked out how to measure and standardise it, so that a dose meant the same thing everywhere.",
+        "Successful treatment of children with diphtheria antitoxin began in 1894, and the results were dramatic. In hospitals that started using it, the share of diphtheria patients who died fell sharply. Newspapers called Behring the saviour of children. In 1901 he received the very first Nobel Prize in Physiology or Medicine, for his work on serum therapy and especially its use against diphtheria. Kitasato, who had been part of the key work and had been nominated, did not share the prize, something many people see as unfair. Kitasato went home to Japan, founded an institute for infectious diseases, helped investigate an outbreak of plague in Hong Kong in 1894, and later founded the Kitasato Institute. Since 2024 his portrait has appeared on Japan's 1,000 yen banknote.",
+        "Here is an important point that is easy to mix up. Antitoxin is not a vaccine. A vaccine trains your own immune system to make its own protection, which can last a long time. Antitoxin is borrowed protection: ready-made antibodies from another animal, given as a treatment to someone who is already sick or at high risk. It works quickly, but it does not teach the body anything, and it fades away within weeks. Scientists call this kind of borrowed protection passive immunity, and the self-made kind active immunity.",
+        "Borrowed protection also brought a lesson about safety. In 1901, in St. Louis in the United States, diphtheria antitoxin was made from a horse that had caught tetanus, and the contaminated serum caused the deaths of thirteen children. The same year, contaminated smallpox vaccine was linked to the deaths of nine children in Camden, New Jersey. These tragedies led the US Congress to pass the Biologics Control Act in 1902. For the first time, makers of vaccines and antitoxins had to be licensed, had to label their products properly, and could be inspected without warning. It was an early step toward the careful safety rules that vaccines must meet today."
+      ]
+    },
+    {
+      "heading": "The Great Race of Mercy",
+      "paragraphs": [
+        "Nome is a town on the western coast of Alaska, just below the Arctic Circle. In January 1925 it had about 1,400 people, and in winter it was almost completely cut off. Ships could not reach it because the sea froze, and there were no roads or railway into town. The only doctor, Curtis Welch, worked at a small hospital there. Late in 1924 and early in 1925 he began seeing children with sore throats. Soon he recognised the grey membrane of diphtheria. He had a terrible problem: the town's supply of antitoxin had expired, and the new order had not arrived before the port froze.",
+        "Welch sent urgent telegraph messages asking for help. Health officials found about 300,000 units of antitoxin in a hospital in Anchorage. It was packed carefully, wrapped against the cold and sent north by train to the town of Nenana, where the railway ended. That still left about 1,085 kilometres (674 miles) of frozen wilderness between Nenana and Nome. Aeroplanes of the time were open-cockpit and unreliable in deep cold, so officials decided on the method Alaskans already trusted for carrying mail: dog sleds.",
+        "The relay began on 27 January 1925. About 20 mushers, the people who drive dog sleds, and roughly 150 dogs took part. Each team carried the package for its stretch and then handed it to the next. Temperatures dropped to around minus 50 degrees Celsius (minus 60 Fahrenheit) in places, and on the open ice the wind made it feel even colder. At each handover, the cylinder of antitoxin was warmed by a stove for a while so it would not freeze solid and spoil.",
+        "The hardest and longest part of the run belonged to Leonhard Seppala, a Norwegian-born musher famous across Alaska, and his lead dog Togo, who was about 12 years old. Seppala's team covered roughly 420 kilometres (about 260 miles) in total, far more than anyone else, including a dangerous crossing of the frozen Norton Sound, where the ice can crack and drift out to sea. The final leg into Nome went to Gunnar Kaasen, with a lead dog named Balto. Kaasen drove through a blizzard so fierce he said he could hardly see the dogs in front of him, and the team arrived in Nome at about 5:30 in the morning on 2 February 1925.",
+        "The whole relay took about five and a half days, roughly 127 and a half hours. The usual mail route took much longer. Dr Welch used the antitoxin, more supplies followed, and the outbreak was brought under control. The official count of diphtheria deaths in Nome was small, between five and seven, though Welch believed there were many more cases in villages around the town that were never properly recorded.",
+        "The story made headlines around the world. Balto became a celebrity, toured the United States, and by December 1925 a bronze statue of him stood in New York's Central Park, where children still climb on it today. Seppala always felt that Togo was the true hero because his team had done the longest and most dangerous stretch, and many historians agree. Togo was later honoured too, including in a 2019 film.",
+        "Remember what the dogs were carrying. It was not a vaccine. It was antitoxin, a treatment for children who were already sick or had been exposed. The serum run showed both how powerful antitoxin was and its weakness: someone always had to rush it to an outbreak after the fact. The dream was something better, a way to protect children before the disease ever arrived."
+      ]
+    },
+    {
+      "heading": "Taming the Poison: Gaston Ramon's Toxoids",
+      "paragraphs": [
+        "If a toxin causes diphtheria, could the body be taught to recognise the toxin before it ever met the real thing? The danger was obvious. You cannot simply inject a child with a deadly poison.",
+        "The answer came from a French veterinarian named Gaston Ramon. Born in 1886 in the village of Bellechaume, he trained at the veterinary school at Alfort near Paris and went to work at the Pasteur Institute, where one of his jobs was helping produce antitoxin from horses. He even married into the Pasteur family of scientists: his wife, Marthe Momont, was a grandniece of Émile Roux.",
+        "In the early 1920s Ramon found that if he treated diphtheria toxin with a small amount of formaldehyde (a chemical often used to preserve specimens) and kept it gently warm for several weeks, the poison lost its power to harm. Yet its shape stayed similar enough that the immune system still recognised it. He called the result an anatoxine. In English it is called a toxoid, meaning toxin-like. A toxoid is a bit like a wanted poster of a criminal: it shows the immune system exactly what to look for, but the poster itself cannot hurt anyone.",
+        "When a child was given toxoid, their immune system made its own antitoxin, its own antibodies against the diphtheria toxin, and kept the ability to make more. If real diphtheria bacteria later started releasing toxin in that child's throat, the body was ready. That is active immunity, the self-made kind, and it lasts much longer than borrowed serum. Ramon also invented a practical test to measure how strong each batch of toxin or toxoid was, which made factory production far more reliable.",
+        "Ramon and his colleague P. Descombey used the same trick on tetanus toxin, and a tetanus toxoid followed in the mid-1920s. In Britain, Alexander Glenny and his team discovered in 1926 that adding a little aluminium salt to diphtheria toxoid made it work better, causing a stronger immune response. Ingredients that boost the immune response in this way are called adjuvants, and aluminium salts are still used as adjuvants in some vaccines today.",
+        "Toxoid vaccines did not take over overnight. Diphtheria toxoid was developed in the early 1920s but was not widely used in the United States until the early 1930s, and mass programmes for all children came later still. But the effect, once they did, was enormous. In the United States, diphtheria cases fell from the 100,000 to 200,000 a year of the 1920s to about 19,000 in 1945, and then fell much further after vaccinating all children became routine in the late 1940s. A more effective tetanus toxoid, introduced in 1938, was given to soldiers during the Second World War, and tetanus became rare among troops whose wounds were often caked with soil, where tetanus bacteria live.",
+        "There was a lesson in all this that would matter for the rest of vaccine history. To make a vaccine, you do not always need the whole germ. Sometimes one key piece, the right molecule, shown to the immune system in a safe form, is enough."
+      ]
+    },
+    {
+      "heading": "Killed Germs on the March: Typhoid, Cholera, Plague and TB",
+      "paragraphs": [
+        "While some scientists tamed toxins, others went after diseases where the whole germ seemed to matter. A popular approach was to grow huge numbers of bacteria and then kill them, often with heat or chemicals, before injecting them. Dead bacteria cannot multiply, but their surfaces still carry the shapes the immune system learns to recognise.",
+        "Typhoid fever, caused by Salmonella Typhi bacteria in contaminated water and food, was a terrible killer of soldiers. In army camps, more men often died of disease than of battle wounds. In 1896, the British doctor Almroth Wright developed a typhoid vaccine made of killed bacteria, and in Germany Richard Pfeiffer and Wilhelm Kolle worked on similar vaccines at the same time, so the credit is shared. He watched many British soldiers die of typhoid during the Boer War in South Africa (1899 to 1902) and argued fiercely for vaccinating troops. During the First World War, typhoid vaccination of soldiers became widespread, and he set up a research laboratory at a military hospital in Boulogne, France. One of the young scientists who worked in his department at St Mary's Hospital in London was Alexander Fleming, the future discoverer of penicillin.",
+        "The person who made cholera vaccination work on a large scale was Waldemar Haffkine. Born in Odessa (then in the Russian Empire) in 1860, he studied under Élie Metchnikoff, whom you will meet in the next part, and joined the Pasteur Institute in Paris in 1889. In 1892 he developed a cholera vaccine and, to show it was safe, tested it on himself first. Then he went to India, where cholera killed huge numbers of people. From 1893 he and his helpers vaccinated tens of thousands of people around Calcutta (now Kolkata) and elsewhere, often travelling to villages and tea plantations himself. Studies of vaccinated and unvaccinated groups suggested the vaccine gave real protection.",
+        "In 1896 bubonic plague, a bacterial disease spread mainly by fleas on rats, broke out in Bombay (now Mumbai). The Indian government asked Haffkine to help. He worked long hours in a makeshift laboratory, and by early 1897 he had a plague vaccine made from killed plague bacteria. Again, he tested it on himself before giving it to others. Joseph Lister, the famous surgeon, called him a saviour of humanity.",
+        "Haffkine's story also contains a tragedy. In 1902, in the village of Mulkowal in Punjab, 19 people who had received plague vaccine from one bottle died of tetanus. An official inquiry blamed Haffkine's laboratory, and he was removed from his post. Later investigations, including one by the Lister Institute in London, concluded the contamination had most likely happened after the vaccine left his laboratory, and he was cleared. In 1925 the laboratory he founded in Bombay was renamed the Haffkine Institute, and it still exists today.",
+        "Tuberculosis, or TB, the disease Koch had tracked down in 1882, needed a different approach. In 1908, at the Pasteur Institute in Lille, France, Albert Calmette and Camille Guérin started with a bacterium that causes TB in cattle and grew it again and again on a special food made from potato, glycerin and ox bile. Every few weeks they moved a little of the culture to fresh food. They kept this going right through the First World War, even when the city was occupied and supplies were short. After 239 transfers over 13 years, the bacterium had become so weakened that it no longer caused disease in animals, but it still trained the immune system. They called it Bacille Calmette-Guérin, or BCG.",
+        "BCG was first given to a human baby in Paris in 1921. Around 1930, in the German city of Lübeck, a terrible mistake happened: babies were given BCG that had accidentally been mixed with a dangerous, fully active TB strain stored in the same laboratory, and 72 of them died. The cause was contamination, not the BCG itself, and the disaster led to stricter controls. BCG is still used today in many countries, mostly for babies, because it protects young children especially well against the most severe forms of TB, although its protection against TB of the lungs in adults varies a lot from place to place."
+      ]
+    },
+    {
+      "heading": "Two Scientists and a Whooping Cough",
+      "paragraphs": [
+        "Whooping cough, also called pertussis, is caused by a bacterium called Bordetella pertussis. It spreads very easily through the air. It starts like a cold, then turns into fits of coughing so violent and long that a child can barely breathe between coughs. When they finally gasp in air, it can make a high-pitched whooping sound, which gives the disease its name. Very young babies may not whoop at all, but they are the most at risk. In the United States, whooping cough killed thousands of people a year at its worst, almost all of them children, and more than 200,000 cases a year were reported before vaccines came into wide use.",
+        "There had been pertussis vaccines before the 1930s, but they were made in different ways and nobody had proved convincingly that they worked. Two women in Grand Rapids, Michigan, set out to change that. Pearl Kendrick, born in 1890 in Illinois, ran the state health department's laboratory in Grand Rapids. Grace Eldering, born in 1900 in Montana, joined her there in 1932. They worked alongside a laboratory scientist named Loney Clinton Gordon, an African American chemist and bacteriologist who later helped them find a better strain of the bacteria to use.",
+        "Kendrick and Eldering began by making the diagnosis more reliable. They used a cough plate, a dish of jelly-like growth food that a sick child coughed onto, so the bacteria could be grown and identified. They collected samples from coughing children around Grand Rapids, and they saw first-hand how the disease exhausted families. Their day jobs were full, so much of the vaccine work happened after hours.",
+        "Their vaccine used whole pertussis bacteria that had been killed. What made their work stand out was the testing. Between 1934 and 1937 they ran a trial involving more than 5,800 children. They compared vaccinated children with similar children who were not vaccinated, and they kept careful records of who caught whooping cough. Doing it properly meant thinking about fairness: the two groups had to be alike in age and living conditions so the comparison was honest. The results showed that the vaccinated children got whooping cough much less often, and when they did, it tended to be milder.",
+        "Money was always short. Eleanor Roosevelt, wife of the US president, took an interest and helped them get funding through the Works Progress Administration, a government programme of the Great Depression. By the late 1930s Michigan was producing the vaccine in large amounts and sending it out across the state and beyond, and whooping cough deaths fell. Kendrick and Eldering later helped develop a combined injection against diphtheria, tetanus and pertussis together, known as DTP, which became available in 1948 and meant children needed fewer shots."
+      ]
+    },
+    {
+      "heading": "Eggs, Mosquitoes and the First Flu Shots",
+      "paragraphs": [
+        "Bacteria can be grown in broth or on jelly, but viruses are much harder. As Part 7 explained, a virus can only copy itself inside living cells. To make a vaccine against a virus, you need a supply of living cells to grow it in. For a long time that meant using whole animals, which was slow, expensive and messy.",
+        "In 1931 at Vanderbilt University in Nashville, Tennessee, the pathologist Ernest Goodpasture, working with Alice Miles Woodruff, found a neat solution: the fertilised chicken egg. By cutting a tiny window in the shell, they could place virus onto the thin, blood-rich membranes surrounding the developing chick inside. The virus grew in those living cells. Eggs were cheap, clean, sealed in their own sterile container, and available by the thousand. Within a few years scientists were growing many different viruses this way.",
+        "One of the first big successes involved yellow fever, a virus spread by mosquitoes that can damage the liver and turn the skin yellow, which gives the disease its name. It had killed tens of thousands of people in tropical America and Africa and had helped defeat the first, French attempt to build the Panama Canal. Max Theiler, a scientist born in Pretoria, South Africa, in 1899, worked on yellow fever at Harvard and then at the Rockefeller Foundation in New York. The research was dangerous: Theiler himself caught yellow fever in the lab, survived, and was immune afterwards.",
+        "Theiler's team took a strain of yellow fever virus called Asibi, named after a man in Ghana from whom it had been collected in 1927, and grew it again and again in tissue from chicken embryos, more than a hundred times in a row. Like Calmette and Guérin with BCG, they were hoping the virus would slowly change and become weaker. By 1937 they had a weakened strain, called 17D, that did not cause serious illness but trained the immune system strongly. Between 1940 and 1947 the Rockefeller Foundation made more than 28 million doses. In 1951 Theiler received the Nobel Prize in Physiology or Medicine, and he is often described as the first African-born Nobel laureate in that field. The 17D vaccine is still used today, made in eggs.",
+        "Influenza, the flu, was next. In 1918 and 1919 a flu pandemic had killed tens of millions of people around the world, and the flu virus itself was first isolated from humans only in 1933. Using egg-grown virus, researchers including Thomas Francis Jr. and his young colleague Jonas Salk developed inactivated flu vaccines made from killed virus. The US military, remembering how flu had swept through army camps in 1918, began using flu vaccines on soldiers during the Second World War, and the vaccine became more widely available to the public from 1945."
+      ]
+    },
+    {
+      "heading": "What Was Going On Inside?",
+      "paragraphs": [
+        "Step back and look at the toolbox scientists had built by the 1940s. There was borrowed antitoxin from horses for emergencies. There were toxoids, poisons made harmless, against diphtheria and tetanus. There were killed whole-germ vaccines against typhoid, cholera, plague and whooping cough. There were live but weakened germs, BCG and yellow fever 17D. Fertilised eggs were turning into vaccine factories.",
+        "Why does a body that has met a harmless toxoid recognise the real toxin years later? Why do some vaccines need several doses while others seem to work after one? Where does antitoxin come from, and which cells make it? Why does protection against some diseases last a lifetime, while protection against others fades?",
+        "Those questions had been argued about since the 1880s by two rival camps of scientists, one convinced that cells were the key, the other convinced it was all about substances floating in the blood. As it turned out, both camps were partly right. In the next part we zoom in, past the skin, past the blood, all the way down to single cells, to find out what is going on inside the body when a vaccine works."
+      ]
+    }
+  ],
+  "deepDive": "Historians of medicine often treat 1890 to 1945 as the period when immunisation stopped being a single trick (smallpox vaccination) and became a family of methods. Two ideas drove this. The first was the distinction between passive and active immunity. Behring and Kitasato's antitoxin was passive: antibodies made in a horse and transferred to a patient. It acted within hours but faded within weeks, and because it was a foreign animal protein it could trigger reactions called serum sickness. Toxoids produced active immunity, in which the recipient's own immune system makes antibodies and keeps the capacity to make more. The second idea was that a vaccine does not have to be the whole germ. Ramon's formaldehyde toxoids showed that a single molecule, chemically altered so it is harmless but still recognisable, could protect. That logic leads directly to today's subunit and protein vaccines. The era also forced scientists to think about evidence. Early vaccine claims often rested on comparisons that were not fair: people who chose to be vaccinated might be richer, healthier or better fed than those who did not. Kendrick and Eldering's Grand Rapids study (1934 to 1937) is admired because it tried to compare similar groups of children and recorded results systematically, an early step toward the controlled trials described in Part 12. Haffkine's Indian studies also compared vaccinated and unvaccinated groups, though historians debate how rigorous they were by modern standards. Safety problems shaped regulation. The 1901 St. Louis and Camden deaths led to the US Biologics Control Act of 1902; the Mulkowal tetanus deaths of 1902 and the Lübeck BCG disaster around 1930 showed that contamination during manufacture or handling could be catastrophic, pushing laboratories toward sterile technique, batch testing and record-keeping. Credit is another debate. Behring won the 1901 Nobel Prize, but Kitasato's role in the antitoxin work was central and Ehrlich's standardisation made the serum usable; typhoid vaccine credit is shared between Wright in Britain and Pfeiffer and Kolle in Germany; Ramon was nominated 155 times without winning. Many historians now stress that these vaccines came from teams and institutions, not lone geniuses. Finally, many of these vaccines were imperfect. Early cholera and typhoid vaccines gave partial, short-lived protection and frequent side effects, and BCG's effect on adult lung TB still varies widely between regions. They were improved, replaced or combined over the following decades.",
+  "funFact": "The tough grey layer that diphtheria builds in the throat gave the disease its name, from a Greek word meaning leather or hide.",
+  "check": {
+    "q": "What were the sled dog teams of the 1925 Great Race of Mercy carrying to Nome, Alaska?",
+    "a": "Diphtheria antitoxin, a treatment",
+    "wrong": [
+      "A new diphtheria vaccine",
+      "Smallpox vaccine for the whole town",
+      "Penicillin to kill the bacteria"
+    ]
+  },
+  "sources": [
+    {
+      "title": "1925 serum run to Nome",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1925_serum_run_to_Nome"
+    },
+    {
+      "title": "Diphtheria (Pink Book, Chapter 7)",
+      "publisher": "US Centers for Disease Control and Prevention (CDC)",
+      "url": "https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-7-diphtheria.html"
+    },
+    {
+      "title": "Pertussis (Pink Book, Chapter 16)",
+      "publisher": "US Centers for Disease Control and Prevention (CDC)",
+      "url": "https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-16-pertussis.html"
+    },
+    {
+      "title": "Emil von Behring",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Emil_von_Behring"
+    },
+    {
+      "title": "Kitasato Shibasaburō",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kitasato_Shibasabur%C5%8D"
+    },
+    {
+      "title": "Waldemar Haffkine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Waldemar_Haffkine"
+    },
+    {
+      "title": "Max Theiler",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Max_Theiler"
+    },
+    {
+      "title": "Grace Eldering",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Grace_Eldering"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Historical photograph of Gunnar Kaasen with the sled dog Balto after the 1925 serum run to Nome",
+      "search": "Balto Gunnar Kaasen 1925 Nome"
+    },
+    {
+      "want": "Portrait photograph of Emil von Behring, discoverer of diphtheria antitoxin",
+      "search": "Emil von Behring portrait"
+    },
+    {
+      "want": "Photograph of Pearl Kendrick and Grace Eldering, developers of the whooping cough vaccine, in their Michigan laboratory",
+      "search": "Pearl Kendrick Grace Eldering pertussis"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "n": 14,
+  "title": "How It Works: The Camera in Your Pocket",
+  "when": "1969 – today",
+  "summary": "The camera on your phone is smaller than a pea, but it can photograph the Moon, your pet and a sunset. Inside, a chip with millions of tiny light-catchers turns light into numbers, and clever software mixes many pictures into one. Let's find out how it all works!",
+  "sections": [
+    {
+      "heading": "Catching Light in a Tiny Window",
+      "paragraphs": [
+        "Turn your phone over and look at the camera. It is a small circle of glass, often no wider than a lentil or a pea. Yet every day people use these little circles to take billions of photos: birthday parties, sunsets, homework, pets doing silly things, the Moon. To understand how such a tiny camera works, we need to start with light itself.",
+        "Light travels in straight lines, bouncing off everything around you. When sunlight hits your friend's face, some of it bounces off toward your eyes, carrying the colours and shapes of the face. A camera's job is to collect that bounced light and arrange it into a sharp picture. Our eyes do exactly the same job with a lens at the front and a light-sensitive screen, the retina, at the back.",
+        "A lens is a carefully shaped piece of glass or clear plastic. Because light slows down slightly when it enters glass, a curved lens bends the light rays, a bit like a group of marching soldiers turning when one side of the line steps onto mud. A convex lens, one that bulges outward, bends rays from a single point on your friend's nose so that they all meet again at a single point behind the lens. Do that for every point in the scene and you get a complete, upside-down image. When the meeting points land exactly on the light-sensitive surface, the image is sharp: it is in focus. If they meet a little in front of it or behind it, the picture is blurry.",
+        "Objects at different distances focus at slightly different places, so a camera needs to adjust. In a big camera you twist the lens. In a phone, the lens is moved by a tiny electromagnetic motor, often called a voice coil motor because it works like the coil in a loudspeaker. It shifts the lens by fractions of a millimetre in a split second. To decide where to move it, the phone measures sharpness and contrast in the image, and many modern sensors also have special focus pixels that compare light arriving from the left and right sides of the lens, rather like your two eyes judging distance.",
+        "Why are phone lenses so small? The main reason is the phone's thickness. A typical smartphone is less than a centimetre thick, and the camera has to fit inside, with only a small bump on the back. The distance between a lens and the place where it forms its image is called the focal length, and it depends on the size of the image you want. A big camera with a big sensor needs a focal length of several centimetres. A phone sensor is much smaller, often less than a centimetre across, so its lens can sit just a few millimetres in front of it. Phone lenses are actually stacks of five, six or more tiny moulded plastic lens elements, each shaped with incredible precision to cancel out blurring and colour fringes.",
+        "The size of the opening that lets light in is called the aperture. Photographers describe it with an f-number such as f/1.8 or f/2.8; a smaller f-number means a wider opening and more light. Phone cameras usually have wide apertures to catch as much light as possible, because the tiny sensor behind them needs every bit it can get. But a lens only makes an image. To turn that image into a photo you can send to your grandmother, the camera needs something that can feel light and turn it into numbers. That is the image sensor, and its story begins at Bell Labs."
+      ]
+    },
+    {
+      "heading": "The Bucket Brigade: Inventing the CCD",
+      "paragraphs": [
+        "For more than a century, photos were captured on film coated with light-sensitive chemicals, which had to be developed in a darkroom. To make a digital photo, scientists needed a way to turn light directly into electrical signals that a computer could store. The breakthrough came, partly by accident, in 1969.",
+        "At Bell Labs in New Jersey, the same research centre that gave the world the transistor and the cellular idea, two physicists named Willard Boyle and George E. Smith were trying to invent a new kind of computer memory. Boyle had grown up in Amherst, Nova Scotia, in Canada, and was taught at home by his mother until he was 14. Smith was an American who had served in the US Navy. Their bosses were keen on a memory technology called magnetic bubble memory, and Boyle and Smith wondered whether tiny packets of electric charge could play the same role as the magnetic bubbles.",
+        "Their answer was the charge-coupled device, or CCD. Picture a long row of buckets standing in a field when it starts to rain. Each bucket collects rainwater, and the bucket under the heaviest rain fills the most. Afterwards, to measure the water, you pass the buckets along the row, one after another, to a person at the end who weighs each one. A CCD works like this, except that the rain is light and the buckets are microscopic patches of silicon. When light hits silicon, it knocks electrons loose, and each patch collects electrons in proportion to how much light fell on it. Then carefully timed voltages pass the little packets of charge along, bucket to bucket, to an amplifier at the edge of the chip that measures each one.",
+        "Boyle and Smith described the idea in 1970. Engineers quickly saw that it would make a superb light sensor, and by 1971 a Bell Labs team led by Michael Tompsett was making simple images with CCDs. Companies such as Fairchild, RCA and Texas Instruments joined in, and in 1975 Steven Sasson, a young engineer at Kodak, built an experimental digital camera using a Fairchild CCD with just 100 by 100 pixels, ten thousand in total. It was about the size of a toaster and stored its pictures on a cassette tape. Sony later led the way in mass-producing CCDs for video cameras, launching consumer CCD camcorders in the 1980s.",
+        "Astronomers loved CCDs most of all. Compared with photographic plates, a CCD captures a much larger share of the light that hits it and measures it very accurately, so faint galaxies and distant planets suddenly became far easier to photograph. CCDs went into telescopes on Earth and in space, as well as into fax machines, scanners and, eventually, the first wave of digital cameras.",
+        "In 2009 Boyle and Smith shared half of the Nobel Prize in Physics for inventing the CCD. (The other half went to Charles Kao for his work on sending light through optical fibres, which carries much of the world's internet traffic.) Boyle also had an unusual side career: while working at a company connected to NASA's Apollo programme in the 1960s, he helped choose landing sites on the Moon. But CCDs had a weakness for a phone. Moving charge across the whole chip needs relatively high voltages and a lot of power, and the CCD needs separate support chips. A battery-powered pocket camera needed something leaner."
+      ]
+    },
+    {
+      "heading": "A Camera on a Chip: The CMOS Sensor",
+      "paragraphs": [
+        "The answer came from an unexpected place: NASA's Jet Propulsion Laboratory (JPL) in Pasadena, California, the lab that builds robotic space probes. Spacecraft engineers care about every gram and every milliwatt, because launching weight into space is very expensive and power is precious far from the Sun. In the early 1990s a young engineer at JPL named Eric Fossum led a team working on smaller, more efficient cameras.",
+        "Fossum's team built on ideas that other researchers had tried before, going back to the 1960s, and companies such as Olympus and Mitsubishi were exploring similar sensors too. The JPL team's key achievement was to make an excellent active-pixel sensor using CMOS, the same standard manufacturing process used to make ordinary computer chips. CMOS stands for complementary metal-oxide-semiconductor, a mouthful that you can simply think of as 'the normal way chips are made'.",
+        "In an active-pixel sensor, every pixel has its own tiny light collector, a photodiode, plus a few transistors right next to it. Instead of passing its charge bucket by bucket across the whole chip like a CCD, each pixel turns its own charge into a voltage on the spot, and the chip reads out the pixels row by row, a bit like reading lines of text in a book. Because the sensor is made with normal chip technology, the same piece of silicon can also hold the circuits that control the camera, convert the signals into digital numbers and even start processing the image. Fossum called it a camera-on-a-chip.",
+        "This made a huge difference. CMOS sensors use much less power than CCDs, can be built cheaply in the same factories as other chips, and need fewer extra parts. In 1995 Fossum and his colleague Sabrina Kemeny started a company called Photobit to sell the technology, and its sensors were soon used in webcams. Other companies, especially in Japan and Korea, poured effort into improving CMOS sensors. Early CMOS images were noisier than CCD images, but the gap closed quickly, and by 2007 CMOS sensors were outselling CCDs. Today almost every phone camera, webcam and most digital cameras use CMOS sensors. Fossum later won the Queen Elizabeth Prize for Engineering in 2017.",
+        "Engineers kept squeezing more performance out of CMOS. In an ordinary sensor, the light has to pass through a layer of metal wiring before reaching the photodiodes, and some of it is blocked. In 2009 Sony introduced back-illuminated sensors, which flip the chip over so that light arrives from the back, without wires in the way; this made them much more sensitive in dim light. In 2012 Sony introduced stacked sensors, in which the light-catching layer is bonded on top of a separate layer of processing circuits. Some modern phone sensors even have a layer of fast memory sandwiched underneath, so they can grab many frames in a fraction of a second. Those fast grabs are the secret behind the clever photo tricks you will meet shortly."
+      ]
+    },
+    {
+      "heading": "Pixels, Colours and the Megapixel Myth",
+      "paragraphs": [
+        "Zoom far into any digital photo and it breaks up into a grid of tiny coloured squares. Each one is a pixel, short for picture element. A photo that is 4,000 pixels wide and 3,000 pixels tall contains 12 million pixels, or 12 megapixels (mega means million). On the sensor, each pixel corresponds to one microscopic light collector, and on a phone sensor these are astonishingly small, often only about 1 micrometre across, roughly a hundredth of the width of a human hair.",
+        "Here is a surprise: an image sensor cannot see colour. Each photodiode only measures how much light hits it, not what colour that light is. To capture colour, a mosaic of tiny coloured filters is laid over the pixels, so each pixel sees only red, only green or only blue light. The most common arrangement is the Bayer filter, patented in 1976 by Bryce Bayer, an engineer at Kodak. In his pattern, half the pixels are green, a quarter are red and a quarter are blue. Why so much green? Because human eyes are most sensitive to green light and judge brightness and detail mostly through it. Afterwards, the phone's processor guesses the two missing colours at every pixel by looking at its neighbours, a step called demosaicing.",
+        "For years, phone makers advertised megapixels as if they were the only thing that mattered, and the numbers climbed and climbed. The earliest camera phones, around 1999 and 2000, had about 0.1 megapixels, enough for a small, grainy picture on a tiny screen. In 2012 the Nokia 808 PureView amazed people with a 41-megapixel sensor. Today, many phones have 12 to 50 megapixels on their main camera, and some reach 200.",
+        "But more megapixels does not always mean a better photo. Imagine the sensor as a field and the pixels as buckets catching raindrops of light. If you squeeze more buckets into the same field, each bucket gets smaller and catches fewer drops. In dim light, small pixels collect only a little light, and random electrical fluctuations, called noise, become more noticeable, appearing as speckly grain. The quality of a photo also depends on the lens, the size of the whole sensor, how steady the camera is, and especially the software that processes the image.",
+        "That is why many high-megapixel phones use a trick called pixel binning. In good light they can use every pixel for fine detail. In dim light, they combine groups of neighbouring pixels, four or even sixteen at a time, into one big 'super-pixel' that gathers more light, producing a photo with fewer megapixels but less noise. The Nokia 808 was an early example of this oversampling idea. So when you compare phones, the megapixel number is only one clue among many, and often not the most important one."
+      ]
+    },
+    {
+      "heading": "Many Photos in One: Computational Photography",
+      "paragraphs": [
+        "Here is a secret about the photos on your phone: many of them are not really one photo at all. When you press the shutter button, a modern phone often grabs a whole burst of frames in a fraction of a second, and its chip combines them into a single picture that is better than any one of them. This is called computational photography: using computing power, not just glass and silicon, to make a picture.",
+        "Why is this needed? A tiny phone sensor struggles with two classic problems. The first is contrast. Picture a friend standing in front of a bright window. Expose the photo for the bright sky, and your friend becomes a dark silhouette; expose it for your friend, and the window turns into a blank white blob. The second problem is darkness. In dim light, each tiny pixel catches only a few particles of light, and the picture fills with grainy noise.",
+        "The solution to the first problem is HDR, which stands for high dynamic range. The camera captures several frames, some darker and some brighter, and blends them, keeping detail in both the bright sky and the dark face. Photographers had been combining differently exposed pictures for decades, but phones made it automatic. In 2014 Google introduced a system called HDR+ in its camera app. It captures a quick burst of frames, lines them up in software so small hand movements do not cause blurring, and merges them, which also averages away much of the random noise.",
+        "The second problem was tackled by night modes. In 2018 Google launched Night Sight on its Pixel phones, described by researchers Marc Levoy and Yael Pritch. Night Sight first measures how much the scene and the phone are moving. If everything is fairly still, it uses longer exposures; held in the hand it might take up to 15 frames, while on a tripod it can take a few frames of up to about one second each. It then aligns and merges them, and uses a machine-learning method to correct the colours, which can look strange under streetlights or candlelight. It was designed to work in light as dim as about 0.3 lux, so dark that ordinary phone cameras of the time produced little more than a black, speckly mess. Apple, Samsung, Huawei and other companies developed their own night modes around the same time.",
+        "Portrait mode is another trick. Big cameras with large lenses can take portraits where the person is sharp and the background is softly blurred, a look photographers love. A phone's tiny lens normally keeps almost everything in focus, so it fakes the effect. It works out how far away each part of the scene is, using two cameras that see from slightly different positions, special dual-pixel sensors, or artificial intelligence that recognizes people and hair, and then blurs the background digitally. Sometimes it makes mistakes around glasses or curly hair, which shows that it is a clever simulation, not real optics.",
+        "All this needs serious computing power. The image signal processor, or ISP, a dedicated part of the phone's system-on-a-chip that we met in Part 11, handles jobs like demosaicing, noise reduction and colour correction in real time, while the AI engine (NPU) helps recognize faces, skies and food to adjust each part of the picture. A single tap of the shutter may set off billions of calculations. It also raises an interesting question: when software decides how a photo should look, how 'real' is the picture? Photographers and scientists enjoy arguing about that."
+      ]
+    },
+    {
+      "heading": "Many Eyes: Lenses, Steady Hands, Video and Selfies",
+      "paragraphs": [
+        "Turn over a recent phone and you may see two, three or even more camera lenses. Each one has a different job, because a single tiny lens cannot zoom the way a big camera lens can. A big zoom lens moves groups of glass elements back and forth inside a long tube, but there is no room for that inside a thin phone. So phone makers simply include several fixed lenses and switch between them.",
+        "The main or wide camera is the everyday one, with the biggest and best sensor. The ultra-wide camera squeezes in a much wider view, great for buildings, landscapes and group photos in small rooms. The telephoto camera gives a closer, zoomed-in view. In 2018 the Huawei P20 Pro became one of the first phones with three rear cameras, and in 2019 the Nokia 9 PureView had five. To fit a longer telephoto lens inside a thin body, some phones use a periscope design: a tiny prism or mirror turns the light sideways by 90 degrees, so the lens can lie along the length of the phone instead of through its thickness, just like a submarine periscope.",
+        "Shaky hands are a camera's enemy, especially in dim light when each exposure lasts longer. Optical image stabilization (OIS) fights back. A tiny gyroscope sensor detects the phone's wobbles hundreds of times a second, and electromagnets nudge the lens, or in some phones the whole sensor, in the opposite direction to cancel them out. The Nokia Lumia 920, launched in late 2012, was described as the first phone with an optically stabilized camera, and within a couple of years most high-end phones had it. There is also electronic image stabilization, used especially for video, where software shifts each frame slightly to cancel out shaking; it crops a little of the edge of the picture to have room to move.",
+        "Phones also became serious video cameras. The first iPhone of 2007 could not record video at all. The iPhone 4 in 2010 recorded high-definition 720p video, and today many phones film in 4K, a picture about 3,840 by 2,160 pixels, and some even higher, along with slow motion, time-lapse and smooth stabilized footage. Many films, music videos and news reports have now been shot partly or entirely on phones.",
+        "Then there is the camera pointing back at you. The very first camera phone, Kyocera's VP-210, sold in Japan in May 1999, actually had its camera on the front, with about 110,000 pixels, so that people could send their faces during calls. But front cameras became popular around the world when the iPhone 4 arrived in June 2010 with a front-facing camera and Apple's FaceTime video calling. Its front camera had only about 0.3 megapixels, but it changed how people stayed in touch. Front cameras soon became standard, and the word selfie became so common that Oxford Dictionaries made it Word of the Year in 2013, as Part 17 explores."
+      ]
+    },
+    {
+      "heading": "From One Baby Photo to Billions of Snapshots",
+      "paragraphs": [
+        "Let us step back to one famous day: 11 June 1997, in a hospital in California. The software entrepreneur Philippe Kahn was waiting while his wife was in labour, and he had been working for about a year on a system for sharing pictures online. Using wires, a digital camera, a mobile phone and some quickly written code, he improvised a link between the camera and the phone, and when his daughter Sophie was born, he sent pictures of her through the phone to a picture-sharing system running on a computer at his home, from which friends and family could see them. It was not a camera phone in one device, but it showed what instant photo sharing could feel like. Kahn later co-founded a company called LightSurf, which helped bring picture messaging to phones.",
+        "As Part 6 described, real camera phones arrived in Japan soon after. After the Kyocera VP-210 in 1999, the Sharp J-SH04, sold by J-Phone from November 2000, had a camera of about 0.11 megapixels and could send photos over the mobile network. Within a few years camera phones spread across the world, and by the end of the 2000s it was hard to buy a phone without a camera.",
+        "The effect on the camera industry was enormous. For about a hundred years, if you wanted to take pictures, you bought a camera. Sales of compact digital cameras peaked around 2010 at well over a hundred million a year, then fell steeply as people realized the camera in their pocket was good enough, always with them, and could share pictures instantly. Today phone cameras are the most common cameras in the world, and most of the photos humans take are taken with phones. Big standalone cameras are still popular with professionals and enthusiasts, especially for sports, wildlife and very low light, but they are now a specialist tool.",
+        "Think about everything that has to happen when you snap a photo of your dog. A stack of tiny plastic lenses focuses light, moved into place by a voice coil motor. A CMOS sensor with millions of photodiodes, each under a red, green or blue filter, turns that light into electric charge. A gyroscope steadies the lens. The image processor merges a burst of frames, cleans away noise and fixes the colours, and a few seconds later the picture is on its way to a friend on the other side of the world. It all depends on the work of Boyle and Smith, Fossum and Kemeny, Bayer, Kahn and thousands of other engineers.",
+        "But notice something in that list: a gyroscope. The camera is only one of a phone's many senses. Hidden inside the case are tiny sensors that can feel which way is up, count your steps, measure the air pressure, find north, know exactly where you are on the planet using satellites, and even recognize your face in the dark. In the next part, we will meet the senses you never knew your phone had."
+      ]
+    }
+  ],
+  "deepDive": "Why can a lens the size of a lentil compete with a big camera at all? Physics sets hard limits. The amount of light a camera collects depends on the area of its sensor, and a typical phone main sensor is many times smaller in area than the full-frame sensor of a professional camera. Light arrives as individual photons, and the number caught by each pixel fluctuates randomly; this photon shot noise grows only as the square root of the signal, so the signal-to-noise ratio improves only as the square root of the light collected. Collecting four times more light makes the image only about twice as clean. A small sensor therefore starts at a disadvantage that no lens can fully overcome. Phone makers fight back in three ways. First, they make sensors more efficient: back-illuminated and stacked CMOS designs let a high fraction of incoming photons become electrons, and modern pixels add very little electronic read noise. Second, they gather more light over time instead of space: merging a burst of N aligned frames reduces random noise by roughly the square root of N, which is the core idea behind HDR+ and Night Sight. Alignment is the hard part, because the hand and the subject move between frames; software has to match tiles of each frame and reject pieces that do not fit, or ghosts appear. Third, they use prior knowledge: machine-learning models estimate white balance, separate a person from the background for portrait blur, and sharpen textures they 'expect' to see. This last approach is where debates begin. A photo that has been heavily processed may look better than reality, and critics have argued about phones that enhance the Moon or smooth skin automatically. Historians of technology also debate credit for the image sensor. The CCD is clearly Boyle and Smith's 1969 invention, honoured with the 2009 Nobel Prize, but the active-pixel idea had earlier roots, including Peter Noble's work in the 1960s and Olympus's and Mitsubishi's MOS and CMOS sensors in the 1980s and early 1990s. Eric Fossum's JPL team is widely credited with making the CMOS active-pixel sensor practical and showing it could become a camera-on-a-chip, which is why the phone camera can be so small and use so little battery.",
+  "funFact": "The very first commercial camera phone, Kyocera's VP-210 of 1999, had its camera on the front, pointing at the user, more than a decade before front-facing cameras and FaceTime made video calling popular on the iPhone 4.",
+  "check": {
+    "q": "Which kind of image sensor, developed by Eric Fossum's team at NASA's Jet Propulsion Laboratory, is used in almost every phone camera because it uses little power?",
+    "a": "The CMOS active-pixel sensor",
+    "wrong": [
+      "The photographic film plate",
+      "The vacuum tube sensor",
+      "The magnetic bubble memory"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Charge-coupled device",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charge-coupled_device"
+    },
+    {
+      "title": "Active-pixel sensor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Active-pixel_sensor"
+    },
+    {
+      "title": "Eric Fossum",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eric_Fossum"
+    },
+    {
+      "title": "Willard Boyle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Willard_Boyle"
+    },
+    {
+      "title": "Night Sight: Seeing in the Dark on Pixel Phones",
+      "publisher": "Google Research",
+      "url": "https://research.google/blog/night-sight-seeing-in-the-dark-on-pixel-phones/"
+    },
+    {
+      "title": "Camera phone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Camera_phone"
+    },
+    {
+      "title": "Bayer filter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bayer_filter"
+    },
+    {
+      "title": "Philippe Kahn",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Philippe_Kahn"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Photograph of a CCD image sensor chip, such as an early or astronomical CCD",
+      "search": "CCD image sensor chip"
+    },
+    {
+      "want": "Diagram of the Bayer filter mosaic showing the pattern of red, green and blue filters over a sensor",
+      "search": "Bayer pattern filter diagram"
+    },
+    {
+      "want": "Close-up of the rear multi-lens camera module on a modern smartphone (wide, ultra-wide and telephoto lenses)",
+      "search": "smartphone triple camera rear lenses"
+    }
+  ]
+}

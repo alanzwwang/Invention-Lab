@@ -1,0 +1,503 @@
+{
+  "slug": "airplane",
+  "title": "The Airplane",
+  "emoji": "✈️",
+  "tagline": "How humans finally learned to fly, and never looked back",
+  "intro": "For thousands of years, people watched birds and wondered: why can't we do that? Some told stories about wings made of feathers and wax. Some flew kites. A few brave (or foolish) people jumped off towers flapping homemade wings. Then, slowly, inventors began to treat flying as a puzzle that could be solved with careful thinking, testing and teamwork. In these 20 parts you will travel from ancient legends and Chinese kites to hot-air balloons, from Sir George Cayley's gliders and Otto Lilienthal's daring hillside jumps to two bicycle makers from Ohio who flew for 12 seconds and changed the world. You will meet record-breaking pilots, ride in the first airliners, hear the roar of the jet engine, chase the sound barrier, and learn exactly how a wing holds up a 400-tonne jumbo jet. Finally, you will meet today's drones, Mars helicopters and the electric planes of tomorrow. Fasten your seatbelt!",
+  "outline": [
+    {
+      "n": 1,
+      "title": "Dreaming of Wings",
+      "when": "Ancient times – about 1100 CE",
+      "covers": [
+        "Why people have always envied birds: flight in myths around the world (Greek legend of Daedalus and Icarus, flying chariots and winged gods) - clearly labeled as legends",
+        "Kites in ancient China: early kites made of wood, silk and bamboo, said to date back more than 2,000 years; stories linking early kites to the thinkers Mozi and Lu Ban are traditions, not proven history",
+        "Kites used for signals and measuring wind; reports of large man-carrying kites in China (around the 500s CE) as an early sign that air could lift things",
+        "The 'tower jumpers': Abbas ibn Firnas in Córdoba (Spain), who is said to have glided with feathered wings around 875 CE and hurt his back landing",
+        "Eilmer of Malmesbury, an English monk who is said to have glided about 200 metres from an abbey tower around 1010 and broke both legs",
+        "The big mistake of early dreamers: copying flapping birds without understanding how air works"
+      ],
+      "keyFacts": [
+        "The Icarus story is a Greek myth: his wax wings melted when he flew too close to the Sun.",
+        "Abbas ibn Firnas lived about 810–887; his flight was written down centuries later, so details are uncertain.",
+        "Eilmer's story comes from the historian William of Malmesbury, writing about 100 years after it happened."
+      ],
+      "hook": "End with the idea that dreaming was not enough - someone needed to study birds and air like a scientist, which leads to Leonardo da Vinci."
+    },
+    {
+      "n": 2,
+      "title": "Sketches and Balloons",
+      "when": "About 1480 – 1800",
+      "covers": [
+        "Leonardo da Vinci's flying-machine sketches (ornithopters, a 'helical air screw', a parachute) and his 'Codex on the Flight of Birds' (about 1505); none were built and flown in his time",
+        "Giovanni Borelli's 1680 finding that human arm muscles are far too weak to flap wings like a bird",
+        "Lighter-than-air flight: the Montgolfier brothers' hot-air balloon; their June 1783 public demonstration and the September 1783 flight carrying a sheep, a duck and a rooster at Versailles",
+        "First humans to fly freely: Pilâtre de Rozier and the Marquis d'Arlandes in Paris on 21 November 1783",
+        "Jacques Charles's hydrogen balloon (1 December 1783) and Blanchard and Jeffries crossing the English Channel by balloon in 1785",
+        "Why balloons were not the full answer: they drift with the wind and cannot be steered well - people still wanted heavier-than-air flight"
+      ],
+      "keyFacts": [
+        "The first free human flight (21 November 1783) lasted about 25 minutes and travelled roughly 9 km over Paris.",
+        "Leonardo's Codex on the Flight of Birds dates to about 1505.",
+        "Borelli's book 'On the Movement of Animals' was published in 1680."
+      ],
+      "hook": "End by teasing an English country gentleman who, around 1799, scratched a design on a silver disc that looks surprisingly like a modern airplane."
+    },
+    {
+      "n": 3,
+      "title": "Sir George Cayley Cracks the Code",
+      "when": "1799 – 1857",
+      "covers": [
+        "Sir George Cayley (Yorkshire, England), often called the 'father of aeronautics'",
+        "His 1799 silver disc: a fixed wing, a body, a tail - separating lift from thrust instead of copying flapping birds",
+        "Introducing the four forces (lift, weight, thrust, drag) - explain them simply here, as they return in Part 9",
+        "His whirling-arm experiments to measure lift, and his 1804 model glider - often called the first true modern-configuration airplane model",
+        "His paper 'On Aerial Navigation' (1809–1810)",
+        "The 1853 glider flight across Brompton Dale carrying a person (traditionally said to be his coachman, who reportedly quit afterwards - label the quote as a story)",
+        "Why he couldn't build a powered plane: no engine light and strong enough existed yet"
+      ],
+      "keyFacts": [
+        "Cayley lived 1773–1857.",
+        "The silver disc design is dated 1799 and is kept at the Science Museum in London.",
+        "The man-carrying glider flight across Brompton Dale was in 1853, when Cayley was about 79."
+      ],
+      "hook": "End with inventors trying to solve Cayley's engine problem - with heavy, puffing steam engines."
+    },
+    {
+      "n": 4,
+      "title": "Steam Engines and Hopping Machines",
+      "when": "1842 – 1903",
+      "covers": [
+        "William Henson and John Stringfellow's 'Aerial Steam Carriage' (patented 1842-43) - a famous design that never flew; Stringfellow's small steam model (1848)",
+        "Félix du Temple (France, 1874) and Alexander Mozhaysky (Russia, 1884): short downhill hops, not controlled flights",
+        "Clément Ader's bat-winged Éole (1890): a short uncontrolled hop of about 50 m; Ader gave the French language the word 'avion'",
+        "Hiram Maxim's giant steam test rig (1894) that lifted off its rails but was never meant to fly freely",
+        "Lawrence Hargrave's box kites in Australia (1894), which lifted him off the ground and inspired later biplane designs",
+        "Samuel Langley's unmanned steam-powered Aerodrome No. 5 (1896), which flew about 1 km over the Potomac River",
+        "The lesson: power alone was not enough - nobody yet knew how to CONTROL a flying machine"
+      ],
+      "keyFacts": [
+        "Langley's Aerodrome No. 5 flew on 6 May 1896, travelling roughly 1,000 metres.",
+        "Maxim's rig weighed about 3.5 tonnes with two steam engines of about 180 horsepower each.",
+        "Ader's Éole hop was on 9 October 1890."
+      ],
+      "hook": "End by turning to a German engineer who decided to learn to fly the way birds do - by gliding, again and again."
+    },
+    {
+      "n": 5,
+      "title": "Otto Lilienthal, the Glider King",
+      "when": "1889 – 1899",
+      "covers": [
+        "Otto Lilienthal and his brother Gustav studying storks; his 1889 book 'Birdflight as the Basis of Aviation'",
+        "His hang gliders and the artificial hill he had built near Berlin; steering by swinging his body",
+        "Over 2,000 glides from 1891 to 1896, and the photographs that showed the world a human really flying",
+        "His fatal crash in August 1896 (fell on 9 August, died the next day)",
+        "Percy Pilcher in Britain, who died in a glider crash in 1899",
+        "Octave Chanute in the USA: his 1894 book 'Progress in Flying Machines', his 1896 biplane gliders tested on the Lake Michigan dunes, and his generous sharing of information"
+      ],
+      "keyFacts": [
+        "Lilienthal lived 1848–1896 and made more than 2,000 glides.",
+        "Some of his glides were around 250 metres long.",
+        "Chanute's 'Progress in Flying Machines' was published in 1894."
+      ],
+      "hook": "End with news of Lilienthal's death reaching two brothers running a bicycle shop in Dayton, Ohio."
+    },
+    {
+      "n": 6,
+      "title": "Two Brothers from Dayton",
+      "when": "1878 – 1901",
+      "covers": [
+        "Wilbur and Orville Wright's childhood: the toy 'helicopter' (rubber-band flying toy) their father gave them around 1878, their printing business and the Wright Cycle Company",
+        "Wilbur's May 1899 letter to the Smithsonian asking for everything on flight",
+        "Their key insight: the real problem was control and balance; the idea of wing warping, discovered by twisting a long cardboard inner-tube box",
+        "The 1899 kite test of wing warping",
+        "Why they chose Kitty Hawk, North Carolina: steady winds, soft sand, privacy (advice from the US Weather Bureau)",
+        "The 1900 and 1901 gliders: less lift than expected; Wilbur's gloomy remark on the train home that man would not fly in their lifetime (or 'for a thousand years' - quote is reported from memory, so say 'reportedly')"
+      ],
+      "keyFacts": [
+        "Wilbur lived 1867–1912; Orville lived 1871–1948.",
+        "Wilbur wrote to the Smithsonian Institution on 30 May 1899.",
+        "The 1901 glider produced only about one-third of the lift their calculations predicted."
+      ],
+      "hook": "End with the brothers deciding that the old numbers (including Lilienthal's tables) might be wrong - and that they would test everything themselves."
+    },
+    {
+      "n": 7,
+      "title": "The Wind Tunnel Secret",
+      "when": "1901 – 1902",
+      "covers": [
+        "Their homemade wind tunnel (a wooden box about 1.8 m long with a fan) and balances made from bicycle spokes and hacksaw blades",
+        "Testing about 200 small wing shapes in late 1901; discovering that the widely used 'Smeaton coefficient' was too high",
+        "Long, narrow wings work better (aspect ratio) and the best curve (camber) for a wing",
+        "The 1902 glider and its problem of spinning into the ground; adding a movable rudder linked to the wing warping",
+        "Three-axis control: pitch, roll and yaw - the system all airplanes still use (detail of controls saved for Part 12)",
+        "Hundreds of glides at Kill Devil Hills in 1902 (somewhere between 700 and 1,000), making them the most skilled pilots in the world"
+      ],
+      "keyFacts": [
+        "They tested about 200 wing shapes in their wind tunnel.",
+        "The Smeaton coefficient commonly used was about 0.005; the Wrights found about 0.0033 was closer to correct.",
+        "Some 1902 glides were over 180 metres (600 feet) long."
+      ],
+      "hook": "End with the brothers realizing they now only needed an engine and propellers - and nobody could sell them the right ones."
+    },
+    {
+      "n": 8,
+      "title": "Twelve Seconds That Changed the World",
+      "when": "1903",
+      "covers": [
+        "Charlie Taylor, their mechanic, building a light 4-cylinder engine of about 12 horsepower with an aluminium crankcase in about 6 weeks",
+        "Designing propellers as 'rotating wings' - there was no theory, so they invented one",
+        "Langley's Great Aerodrome plunging into the Potomac River twice (7 October and 8 December 1903) with pilot Charles Manly, who survived",
+        "Wilbur winning the coin toss and the failed attempt on 14 December 1903",
+        "17 December 1903 at Kill Devil Hills: Orville's first flight - 12 seconds, about 37 m (120 feet) - and the famous photo taken by John T. Daniels",
+        "Four flights that day; the last, by Wilbur, lasted 59 seconds and covered about 260 m (852 feet); then a gust wrecked the Flyer",
+        "The telegram home and how little the newspapers noticed at first"
+      ],
+      "keyFacts": [
+        "The first flight: 17 December 1903, about 10:35 am, 12 seconds, 120 feet (37 m).",
+        "Longest flight that day: Wilbur, 59 seconds, 852 feet (260 m).",
+        "Five local men watched; the 1903 Flyer cost the brothers under $1,000 to build."
+      ],
+      "hook": "End with a question: how does a wing actually hold a machine up in the air? Part 9 explains."
+    },
+    {
+      "n": 9,
+      "title": "How a Wing Really Works",
+      "when": "Science explainer",
+      "covers": [
+        "The four forces again in detail: lift vs weight, thrust vs drag, and what happens when they balance",
+        "The airfoil shape and angle of attack: a wing turns airflow downward, and the air pushes the wing up (Newton's third law)",
+        "Lower pressure above the wing and higher pressure below it (Bernoulli's principle) - two ways of describing the same thing",
+        "Why the 'equal transit time' explanation is wrong (see doNotSay)",
+        "Stalls: when the angle of attack is too steep, airflow separates and lift suddenly drops",
+        "Why bigger, faster planes need longer runways; flaps and slats for slow flight",
+        "Simple experiments a reader can try: paper airplanes, a hand out of a car window (with an adult, safely), blowing over a strip of paper"
+      ],
+      "keyFacts": [
+        "Lift grows with the square of speed: double the speed gives about four times the lift.",
+        "Most wings stall at an angle of attack of roughly 15 degrees.",
+        "A large airliner takes off at roughly 250–290 km/h."
+      ],
+      "hook": "End by noting the Wrights knew how to fly - but almost nobody believed them yet."
+    },
+    {
+      "n": 10,
+      "title": "Proving It to the World",
+      "when": "1904 – 1909",
+      "covers": [
+        "Flying at Huffman Prairie, Ohio (1904–05): learning to turn and fly circles; Flyer III's flight of about 39 minutes on 5 October 1905",
+        "Why the Wrights stopped flying in 1906–07 to protect their patent - and why many people called them 'bluffers'",
+        "Alberto Santos-Dumont's 14-bis in Paris (1906): the first powered flights officially witnessed in Europe",
+        "Rival claims explained fairly: Gustave Whitehead (1901) and Richard Pearse (1903) - interesting stories but without solid evidence of controlled flight",
+        "August 1908: Wilbur's demonstrations at Le Mans, France astonish Europe",
+        "September 1908: Orville's crash at Fort Myer, Virginia, which killed Lt. Thomas Selfridge - the first person killed in a powered airplane crash",
+        "Glenn Curtiss and the June Bug (4 July 1908), Alexander Graham Bell's Aerial Experiment Association, and the start of the Wright–Curtiss patent fight"
+      ],
+      "keyFacts": [
+        "Flyer III flew about 39 km (24 miles) in about 39 minutes on 5 October 1905.",
+        "Santos-Dumont flew 220 m in about 21 seconds on 12 November 1906.",
+        "The US Army bought its first airplane from the Wrights in 1909."
+      ],
+      "hook": "End with Louis Blériot staring across the English Channel in July 1909."
+    },
+    {
+      "n": 11,
+      "title": "Daredevils and Record-Breakers",
+      "when": "1909 – 1914",
+      "covers": [
+        "Louis Blériot's Channel crossing on 25 July 1909 in his Blériot XI monoplane, and why Britain suddenly felt less like an island",
+        "The Reims air meet (August 1909) - the world's first big international air show",
+        "Pioneering women: Raymonde de Laroche (first licensed woman pilot, 1910) and Harriet Quimby (first licensed American woman, 1911; flew the Channel in 1912)",
+        "Firsts everywhere: Henri Fabre's seaplane (1910), Eugene Ely flying off a ship (November 1910), Calbraith Perry Rodgers crossing the USA in the 'Vin Fiz' (1911) with many crashes",
+        "Lawrence Sperry's gyroscopic autopilot demonstration in Paris (1914)",
+        "The first scheduled airline: the St. Petersburg–Tampa Airboat Line, 1 January 1914, pilot Tony Jannus, one passenger at a time"
+      ],
+      "keyFacts": [
+        "Blériot crossed from near Calais to Dover in about 37 minutes.",
+        "Raymonde de Laroche earned her licence on 8 March 1910.",
+        "The Tampa airboat flight took about 23 minutes to cross Tampa Bay; the first ticket was auctioned for $400."
+      ],
+      "hook": "End by asking how a pilot actually steers in three dimensions - leading to Part 12."
+    },
+    {
+      "n": 12,
+      "title": "Steering the Sky: Controls, Propellers and Engines",
+      "when": "Science explainer",
+      "covers": [
+        "The three axes: pitch, roll and yaw (use a toy plane or hand to demonstrate)",
+        "Control surfaces: ailerons (roll - they replaced wing warping), elevator (pitch), rudder (yaw); how a banked turn works",
+        "The cockpit: control stick or yoke, rudder pedals, throttle; basic instruments (airspeed indicator, altimeter, attitude indicator, compass)",
+        "Propellers as spinning wings that pull the plane forward",
+        "Piston engines: why light, powerful engines (like the rotary and later radial engines) made planes better",
+        "Monoplanes vs biplanes and why monoplanes won once strong metal wings were possible"
+      ],
+      "keyFacts": [
+        "The Wright Flyer's engine gave about 12 hp; big piston engines of the 1940s gave over 2,000 hp.",
+        "Ailerons were patented in Britain by Matthew Boulton in 1868, long before anyone flew.",
+        "A plane turns mainly by banking (rolling), not by using the rudder alone."
+      ],
+      "hook": "End with the dark news of 1914: war was coming, and airplanes would change fast."
+    },
+    {
+      "n": 13,
+      "title": "War, Mail and Crossing Oceans",
+      "when": "1914 – 1937",
+      "covers": [
+        "World War I (1914–1918): planes go from scouting to fighting; machine-gun synchronization gear (Fokker, 1915); huge growth in factories and pilots - keep the tone factual, not glorifying",
+        "Hugo Junkers' all-metal J 1 (1915) pointing to the future",
+        "US Air Mail service begins in 1918; night flying guided by lit beacons",
+        "Alcock and Brown: first nonstop transatlantic flight, 14–15 June 1919, Newfoundland to Ireland in a Vickers Vimy",
+        "Bessie Coleman: first African American woman (also of Native American heritage) to earn a pilot licence (France, 1921)",
+        "Charles Lindbergh's solo nonstop flight from New York to Paris in the Spirit of St. Louis (20–21 May 1927) and the flying craze that followed",
+        "Amelia Earhart's solo Atlantic crossing (1932) and her disappearance over the Pacific in 1937"
+      ],
+      "keyFacts": [
+        "Alcock and Brown's flight took about 16 hours.",
+        "Lindbergh flew about 5,800 km (3,600 miles) in about 33.5 hours and won the $25,000 Orteig Prize.",
+        "Earhart's 1932 Atlantic flight was the first solo crossing by a woman."
+      ],
+      "hook": "End with ordinary people starting to ask: could I fly somewhere too?"
+    },
+    {
+      "n": 14,
+      "title": "The Airliner Is Born",
+      "when": "1919 – 1950s",
+      "covers": [
+        "Early airlines (KLM, founded 1919, is the oldest still flying under its original name); cold, noisy, bumpy early cabins",
+        "Ford Trimotor (1926), Boeing 247 (1933) and the Douglas DC-3 (first flight 17 December 1935) - the plane that made airlines profitable",
+        "Ellen Church, the first airline stewardess (1930), who was also a nurse",
+        "Flying boats and Pan Am's Clippers crossing the Pacific (1935)",
+        "Instrument flying: Jimmy Doolittle's 'blind' flight using only instruments (24 September 1929); radio navigation beacons",
+        "Pressurized cabins (Boeing 307 Stratoliner, 1940) letting planes fly above the bad weather",
+        "World War II (1939–1945) speeding up radar, big four-engine planes and long runways, which airlines used after the war"
+      ],
+      "keyFacts": [
+        "About 16,000 DC-3s and military versions (such as the C-47) were built.",
+        "The DC-3 carried about 21–32 passengers and could cross the USA in about 15–17 hours with stops.",
+        "Doolittle's 1929 blind flight took off, flew a course and landed with the cockpit hooded."
+      ],
+      "hook": "End with propellers reaching their speed limit - and two young engineers who had a radical idea."
+    },
+    {
+      "n": 15,
+      "title": "The Jet Engine Roars",
+      "when": "1930 – 1960",
+      "covers": [
+        "Frank Whittle (Britain) patenting a turbojet in 1930 and struggling for money and support",
+        "Hans von Ohain (Germany) working separately; the Heinkel He 178, the first jet-powered flight (27 August 1939); fair credit to both as independent inventors",
+        "How a jet works: 'suck, squeeze, bang, blow' - compressor, combustion chamber, turbine, exhaust; Newton's third law again",
+        "Turbofans: a big fan pushing air around the core, making modern jets quieter and more fuel-efficient",
+        "Gloster E.28/39 (1941) and the Messerschmitt Me 262, the first operational jet fighter (1944)",
+        "The de Havilland Comet: first jet airliner service (2 May 1952); crashes in 1954 caused by metal fatigue around cut-outs in the cabin; the lessons that made later jets safer",
+        "The Boeing 707 (Pan Am service from October 1958) starts the true jet age"
+      ],
+      "keyFacts": [
+        "Whittle filed his jet engine patent in January 1930; it was granted in 1932.",
+        "The Comet cruised at about 750–800 km/h, nearly twice as fast as most propeller airliners.",
+        "Investigators tested a Comet fuselage in a giant water tank, pressurizing it again and again until it cracked."
+      ],
+      "hook": "End with pilots in dives feeling their planes shake violently as they approached a mysterious 'wall' in the sky."
+    },
+    {
+      "n": 16,
+      "title": "Breaking the Sound Barrier",
+      "when": "1940s – 2003",
+      "covers": [
+        "What the speed of sound is and what 'Mach' means (named after Ernst Mach)",
+        "Shock waves, buffeting and why people called it a 'barrier'",
+        "Chuck Yeager and the rocket-powered Bell X-1 'Glamorous Glennis' reach Mach 1.06 on 14 October 1947",
+        "Swept wings and the 'area rule' (Richard Whitcomb) for fast flight; Jacqueline Cochran, first woman to fly faster than sound (1953)",
+        "Extreme speed: the X-15 rocket plane reached Mach 6.7 (1967); the SR-71 Blackbird",
+        "Sonic booms and why supersonic flight over land was banned in many places",
+        "Supersonic airliners: Tu-144 (first flight 31 December 1968) and Concorde (first flight 2 March 1969, service 1976, crash in July 2000, retired October 2003)"
+      ],
+      "keyFacts": [
+        "The speed of sound at sea level is about 1,225 km/h (761 mph) and drops in the cold air higher up.",
+        "Concorde cruised at about Mach 2 and could cross from London to New York in about 3.5 hours.",
+        "The X-15's record was about 7,270 km/h (Mach 6.7), flown by Pete Knight in 1967."
+      ],
+      "hook": "End by noting that the future of everyday flying turned out to be not faster, but BIGGER and cheaper."
+    },
+    {
+      "n": 17,
+      "title": "Jumbo Jets and a Shrinking World",
+      "when": "1969 – 2019",
+      "covers": [
+        "The Boeing 747 'jumbo jet' (first flight 9 February 1969, service January 1970) and how it made long trips cheaper",
+        "Airbus (first plane the A300, 1972) and the competition that followed; the giant double-deck A380 (service 2007, production ended 2021)",
+        "Low-cost airlines and how flying went from luxury to normal for millions",
+        "Changes to daily life: holidays abroad, families living far apart, overnight packages, fresh food and flowers flown around the world",
+        "Changes to other inventions and industries: hub airports, jet bridges, computer booking systems, international rules (ICAO, created after the 1944 Chicago Convention)",
+        "A downside preview: diseases can travel by plane too (e.g. how fast COVID-19 spread in 2020, and how air travel nearly stopped)"
+      ],
+      "keyFacts": [
+        "Airlines carried more than 4 billion passengers in 2019.",
+        "A 747 could carry around 400 or more passengers depending on seating.",
+        "In 2020 passenger numbers fell by roughly 60% because of the pandemic."
+      ],
+      "hook": "End by asking: with so many planes in the sky, how do they stay safe - and what problems do they cause?"
+    },
+    {
+      "n": 18,
+      "title": "Safety, Problems and Hard Questions",
+      "when": "1950s – today",
+      "covers": [
+        "Air traffic control and radar; the 1956 Grand Canyon mid-air collision leading to the US Federal Aviation Agency (1958)",
+        "The flight recorder or 'black box' (really bright orange) - David Warren of Australia's 1950s idea",
+        "Checklists, simulators, crew teamwork, and the 'Miracle on the Hudson' (15 January 2009) where Captain Chesley Sullenberger landed safely on a river after bird strikes - all 155 people survived",
+        "Why flying is now one of the safest ways to travel, while explaining that every accident is investigated so the lessons are shared",
+        "Problems: aircraft noise near airports, air pollution, and climate change - aviation makes roughly 2–3% of the world's human-caused CO2, plus contrail warming",
+        "Security: hijackings, and how the 11 September 2001 attacks changed airport security (mention gently and briefly, suitable for young readers)",
+        "Military use of airplanes in war as a serious side effect of the invention - discuss factually and calmly"
+      ],
+      "keyFacts": [
+        "Black boxes are built to survive huge impacts and fire and are painted bright orange so they can be found.",
+        "The Grand Canyon collision happened on 30 June 1956; the FAA was created by law in 1958.",
+        "Flight 1549's flight lasted only about 6 minutes from takeoff to landing on the Hudson."
+      ],
+      "hook": "End by looking at today's cockpits, where computers help fly the plane - and at aircraft with no pilot on board at all."
+    },
+    {
+      "n": 19,
+      "title": "Smart Planes and Drones",
+      "when": "1918 – today",
+      "covers": [
+        "Fly-by-wire: computers between pilot and control surfaces; the Airbus A320 (first flight 1987) as the first airliner with digital fly-by-wire",
+        "GPS navigation, autopilots and autoland; modern composite materials - the Boeing 787 (service 2011) is about half carbon-fibre composite by weight",
+        "Early pilotless aircraft: the Kettering 'Bug' (1918) and the British Queen Bee target plane (1935), often said to be where the word 'drone' came from",
+        "Military drones and the ethical debate around them (brief, factual)",
+        "Consumer quadcopters (from the 2010s): how four spinning rotors and a flight computer keep a drone steady; uses in filming, farming, mapping, search and rescue and deliveries",
+        "Drone rules: register, keep it in sight, stay away from airports and people",
+        "Ingenuity, the small NASA helicopter that made the first powered, controlled flight on another planet (Mars, 19 April 2021) - carrying a tiny piece of the 1903 Wright Flyer's fabric"
+      ],
+      "keyFacts": [
+        "Ingenuity was planned for 5 flights but made 72 before ending its mission in January 2024.",
+        "Mars air is only about 1% as thick as Earth's, so Ingenuity's blades spun at about 2,400 rpm.",
+        "The Boeing 787 entered passenger service in October 2011."
+      ],
+      "hook": "End by asking: if we can fly on Mars, what will flying on Earth look like when Alan's readers are grown up?"
+    },
+    {
+      "n": 20,
+      "title": "The Future of Flight and the Long Journey",
+      "when": "Today – the future, looking back",
+      "covers": [
+        "Cleaner flight: electric planes for short trips (batteries are heavy - the main challenge), hydrogen ideas, and sustainable aviation fuel",
+        "Solar Impulse 2 flying around the world on sunlight alone (2015–2016)",
+        "Quieter supersonic flight: NASA's X-59 (test flights began in 2025) and new supersonic projects - present these as experiments, not guaranteed futures",
+        "Electric air taxis (eVTOLs) being tested in many countries - say they are still in testing",
+        "Tie it all together: from Icarus and Chinese kites, to Cayley's four forces, Lilienthal's glides, the Wrights' wind tunnel and 12-second flight, to jets, jumbo jets and Ingenuity on Mars",
+        "Big lessons: careful testing beats guessing, sharing knowledge helps everyone, and many people (not just one hero) built the airplane",
+        "A closing invitation to the reader: the next big idea in flight could be yours"
+      ],
+      "keyFacts": [
+        "Solar Impulse 2 flew about 40,000 km around the world without fuel, landing back in Abu Dhabi in July 2016.",
+        "Only 66 years passed between the Wright brothers' first flight (1903) and astronauts landing on the Moon (1969).",
+        "The 1903 Wright Flyer is displayed at the Smithsonian National Air and Space Museum in Washington, D.C."
+      ],
+      "hook": "Finish the whole series with an inspiring final line about looking up at the sky and imagining what comes next."
+    }
+  ],
+  "people": [
+    "Abbas ibn Firnas (about 810–887) — scholar and inventor in Córdoba, said to have attempted a glide with feathered wings around 875; account written long after",
+    "Eilmer of Malmesbury (about 980s – after 1066) — English monk said to have glided from an abbey tower around 1010",
+    "Leonardo da Vinci (1452–1519) — Italian artist and inventor who sketched flying machines and studied bird flight",
+    "Giovanni Alfonso Borelli (1608–1679) — Italian scientist who showed human muscles are too weak to flap wings",
+    "Joseph-Michel Montgolfier (1740–1810) and Jacques-Étienne Montgolfier (1745–1799) — French paper-makers who invented the hot-air balloon",
+    "Jean-François Pilâtre de Rozier (1754–1785) — co-pilot of the first free human balloon flight (1783)",
+    "François Laurent, Marquis d'Arlandes (1742–1809) — flew with Pilâtre de Rozier in 1783",
+    "Jacques Charles (1746–1823) — French scientist who flew the first hydrogen balloon with a person aboard",
+    "Jean-Pierre Blanchard (1753–1809) — French balloonist who crossed the English Channel in 1785 with John Jeffries",
+    "Sir George Cayley (1773–1857) — English engineer, 'father of aeronautics', defined the four forces and the fixed-wing design",
+    "William Samuel Henson (1812–1888) and John Stringfellow (1799–1883) — designed the Aerial Steam Carriage",
+    "Félix du Temple (1823–1890) — French naval officer whose steam plane made a short hop in 1874",
+    "Alexander Mozhaysky (1825–1890) — Russian naval officer whose steam plane made a short hop in 1884",
+    "Clément Ader (1841–1925) — French engineer whose Éole made an uncontrolled hop in 1890",
+    "Hiram Maxim (1840–1916) — inventor who built a huge steam-powered flying test rig in 1894",
+    "Lawrence Hargrave (1850–1915) — Australian inventor of the box kite",
+    "Samuel Pierpont Langley (1834–1906) — Smithsonian Secretary who flew unmanned steam models but whose crewed Aerodrome failed in 1903",
+    "Charles Manly (1876–1927) — engineer and pilot of Langley's Great Aerodrome; built its advanced engine",
+    "Otto Lilienthal (1848–1896) — German 'Glider King', made over 2,000 glides and died after a crash",
+    "Gustav Lilienthal (1849–1933) — Otto's brother and research partner",
+    "Percy Pilcher (1867–1899) — British glider pioneer who died in a crash",
+    "Octave Chanute (1832–1910) — French-born American engineer who collected and shared flight knowledge and encouraged the Wrights",
+    "Wilbur Wright (1867–1912) — co-inventor of the first successful powered, controlled airplane",
+    "Orville Wright (1871–1948) — co-inventor; flew the first powered flight on 17 December 1903",
+    "Charlie Taylor (1868–1956) — mechanic who built the Wright Flyer's engine",
+    "John T. Daniels (1873–1948) — lifesaving station member who took the famous first-flight photograph",
+    "Thomas Selfridge (1882–1908) — US Army officer, first person killed in a powered airplane crash",
+    "Alberto Santos-Dumont (1873–1932) — Brazilian aviator in Paris; made the first officially witnessed powered flights in Europe (1906)",
+    "Gustave Whitehead (1874–1927) — German-American whose claimed 1901 flight lacks solid evidence",
+    "Richard Pearse (1877–1953) — New Zealand farmer-inventor whose possible 1903 flight attempts are uncertain; he never claimed to have beaten the Wrights",
+    "Glenn Curtiss (1878–1930) — American engine-builder and aviator, flew the June Bug; rival of the Wrights in patent battles",
+    "Alexander Graham Bell (1847–1922) — telephone inventor who led the Aerial Experiment Association",
+    "Louis Blériot (1872–1936) — French aviator who first flew an airplane across the English Channel (1909)",
+    "Raymonde de Laroche (1882–1919) — French aviator, first woman to earn a pilot's licence (1910)",
+    "Harriet Quimby (1875–1912) — first American woman to earn a pilot's licence; flew across the English Channel in 1912",
+    "Henri Fabre (1882–1984) — French engineer who flew the first seaplane (1910)",
+    "Eugene Ely (1886–1911) — American pilot who first took off from (1910) and landed on (1911) a ship",
+    "Calbraith Perry Rodgers (1879–1912) — made the first flight across the USA in 1911, with many stops and crashes",
+    "Tony Jannus (1889–1916) — pilot of the first scheduled airline flight (1914)",
+    "Lawrence Sperry (1892–1923) — demonstrated the gyroscopic autopilot in 1914",
+    "Anthony Fokker (1890–1939) — Dutch aircraft maker whose company introduced machine-gun synchronization (1915)",
+    "Hugo Junkers (1859–1935) — German engineer who built the first practical all-metal airplane",
+    "John Alcock (1892–1919) and Arthur Whitten Brown (1886–1948) — made the first nonstop transatlantic flight (1919)",
+    "Bessie Coleman (1892–1926) — first African American woman and first woman of Native American descent to earn a pilot's licence",
+    "Charles Lindbergh (1902–1974) — made the first solo nonstop flight from New York to Paris (1927)",
+    "Amelia Earhart (1897–disappeared 1937) — first woman to fly solo across the Atlantic (1932)",
+    "Ellen Church (1904–1965) — nurse who became the first airline stewardess (1930)",
+    "Jimmy Doolittle (1896–1993) — pilot who made the first full 'blind' instrument-only flight (1929)",
+    "Frank Whittle (1907–1996) — British engineer who patented the turbojet engine",
+    "Hans von Ohain (1911–1998) — German engineer whose jet engine powered the first jet flight (1939)",
+    "Chuck Yeager (1923–2020) — US test pilot who first flew faster than sound in level flight (1947)",
+    "Jacqueline Cochran (1906–1980) — first woman to fly faster than sound (1953)",
+    "Richard Whitcomb (1921–2009) — NASA engineer who discovered the area rule",
+    "Pete Knight (1929–2004) — flew the X-15 to Mach 6.7 in 1967",
+    "David Warren (1925–2010) — Australian scientist who invented the flight data recorder",
+    "Chesley 'Sully' Sullenberger (born 1951) — captain who landed US Airways Flight 1549 on the Hudson River in 2009",
+    "Bertrand Piccard (born 1958) and André Borschberg (born 1952) — pilots of Solar Impulse 2's round-the-world flight"
+  ],
+  "glossary": [
+    "airfoil — the special curved cross-section shape of a wing that helps it make lift",
+    "lift — the upward force a wing makes when air flows over and under it",
+    "weight — the downward pull of gravity on the plane",
+    "thrust — the forward push from propellers or jet engines",
+    "drag — air resistance that slows the plane down",
+    "angle of attack — the angle between the wing and the oncoming air",
+    "stall — a sudden loss of lift when the wing meets the air at too steep an angle (nothing to do with the engine stopping)",
+    "wing warping — the Wrights' method of twisting the wingtips to roll the plane",
+    "pitch, roll and yaw — the three ways a plane can rotate: nose up/down, tilting wings, nose left/right",
+    "aileron — a hinged flap on the wing that makes the plane roll",
+    "elevator — a hinged surface on the tail that makes the nose go up or down",
+    "rudder — a hinged surface on the tail fin that swings the nose left or right",
+    "wind tunnel — a tube or box where air is blown over models to test how they fly",
+    "jet engine — an engine that sucks in air, squeezes it, burns fuel in it, and blows it out fast to push the plane forward",
+    "turbofan — a jet engine with a big fan at the front that pushes extra air around the engine's core",
+    "Mach number — speed compared to the speed of sound; Mach 1 is the speed of sound, Mach 2 is twice as fast",
+    "sonic boom — the loud bang heard on the ground when a plane's shock waves pass by",
+    "pressurized cabin — a sealed cabin pumped with air so people can breathe comfortably at high altitude",
+    "fly-by-wire — a system where computers send the pilot's commands to the control surfaces electronically",
+    "drone — an aircraft flown without a pilot on board, by remote control or by its own computer"
+  ],
+  "doNotSay": [
+    "Do NOT use the 'equal transit time' explanation (that air over the top must meet air under the bottom at the trailing edge, so it goes faster). It is false - air over the top actually arrives much earlier.",
+    "Do NOT say lift comes ONLY from Bernoulli or ONLY from Newton - both describe the same flow; planes can also fly upside down by changing angle of attack.",
+    "Do NOT say the Wright brothers were the first to fly at all - balloons carried people in 1783 and gliders flew before 1903. Say they made the first sustained, powered, controlled airplane flights.",
+    "Do NOT say the Wrights invented the airplane alone with no help - they built on Cayley, Lilienthal, Chanute and others, and Charlie Taylor built their engine.",
+    "Do NOT present Gustave Whitehead (1901) or Richard Pearse (1903) as proven first flyers; there is no solid evidence of controlled powered flight.",
+    "Do NOT say nobody saw the first flight - five local men witnessed it and one photo exists.",
+    "Do NOT say Leonardo da Vinci built or flew a flying machine; he only drew designs.",
+    "Do NOT present Icarus, or the tower flights of Abbas ibn Firnas and Eilmer, as proven history - label them as myth or as uncertain accounts written long afterwards.",
+    "Do NOT say Abbas ibn Firnas or anyone in ancient China flew a powered or controlled aircraft.",
+    "Do NOT say a stall means the engine stopped; it is a loss of lift on the wing.",
+    "Do NOT say the black box is black - it is bright orange.",
+    "Do NOT say Chuck Yeager flew a jet through the sound barrier - the Bell X-1 was rocket-powered and dropped from a B-29 bomber.",
+    "Do NOT say the sound barrier is a real physical wall.",
+    "Do NOT say the Comet crashed simply because of 'square windows'; the failures were metal fatigue cracks starting at corners of cut-outs in the pressurized cabin.",
+    "Do NOT say Lindbergh was the first to fly across the Atlantic - Alcock and Brown did it nonstop in 1919; Lindbergh was the first SOLO nonstop flight between New York and Paris.",
+    "Do NOT say Frank Whittle stole von Ohain's idea or vice versa - they worked independently.",
+    "Do NOT state Amelia Earhart's fate as fact; it remains unknown.",
+    "Do NOT say Orville said 'Man will never fly'; the gloomy remark is attributed to Wilbur in 1901 and is reported from memory.",
+    "Do NOT claim electric airliners, air taxis or new supersonic airliners are already in normal passenger service."
+  ]
+}

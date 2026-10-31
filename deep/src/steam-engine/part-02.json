@@ -1,0 +1,149 @@
+{
+  "n": 2,
+  "title": "Hero's Spinning Ball",
+  "when": "About 1st century BCE – 1st century CE",
+  "summary": "About 2,000 years ago, in the great city of Alexandria in Egypt, a clever teacher called Hero heated water in a pot. Steam shot out of a metal ball through two bent pipes, and the ball whirled round and round. It was a wonderful trick, but nobody used it to do real work for a very, very long time.",
+  "sections": [
+    {
+      "heading": "The City of Books and Big Ideas",
+      "paragraphs": [
+        "Imagine stepping off a wooden ship onto a busy stone quay about 2,000 years ago. Sailors shout in Greek, Egyptian, Latin and a dozen other languages. Sacks of wheat, jars of olive oil and bales of papyrus are being hauled ashore. Behind you, out in the harbour, a gigantic tower rises far above the masts: the Pharos, the famous lighthouse that was counted among the Seven Wonders of the Ancient World. Welcome to Alexandria, on the Mediterranean coast of Egypt.",
+        "Alexandria was founded in 331 BCE by Alexander the Great, the Macedonian king who conquered a vast empire stretching from Greece to India. After Alexander died, one of his generals, Ptolemy, took control of Egypt. Ptolemy and his descendants, the Ptolemies, ruled for almost 300 years, and they made Alexandria one of the largest and richest cities in the world. The last of the family to rule was the famous queen Cleopatra. After her death in 30 BCE, Egypt became part of the Roman Empire, but Alexandria stayed a Greek-speaking city full of scholars, merchants and craftspeople.",
+        "The Ptolemies wanted Alexandria to be the brainiest city on Earth. They set up an institution called the Mouseion, which means 'shrine of the Muses', the Greek goddesses of the arts and knowledge. Our modern word museum comes from it. But it was not a building full of objects in glass cases. It was more like a research university, where scholars were paid by the state, had their meals provided and did not have to pay taxes, so they could spend their time thinking, writing, teaching and arguing.",
+        "Linked to the Mouseion was the Library of Alexandria, the most famous library of the ancient world. Nobody knows exactly how many scrolls it held; modern estimates range anywhere from about 40,000 to 700,000. The kings were so hungry for books that, according to ancient writers, any book found on a ship arriving in the harbour could be taken to the library and copied. The library kept the original and gave the copy back to the owner.",
+        "Some of the greatest minds of the ancient world worked or studied in Alexandria. Eratosthenes, one of the library's head librarians, worked out the size of the Earth surprisingly accurately using shadows and a bit of geometry. Astronomers mapped the stars, doctors studied the human body, and mathematicians wrote books that students would read for more than a thousand years. Alexandria also had a strong tradition of engineers who loved building clever machines. One of the earliest was Ctesibius, who lived in the 3rd century BCE. He experimented with compressed air and water, and he is credited with inventing a force pump, a water organ and very accurate water clocks.",
+        "This was the world of our inventor: a city where books, ideas and gadgets were taken seriously, where people asked how nature worked and then tried to show it with real devices you could watch and touch."
+      ]
+    },
+    {
+      "heading": "Who Was Hero?",
+      "paragraphs": [
+        "His name in Greek was Heron, so you will see him called either Hero or Heron of Alexandria. Strangely, for someone so famous, we know almost nothing about his life. We do not know when he was born, who his parents were, or what he looked like. No portrait of him survives from his own time. Everything we know comes from his writings.",
+        "For a long time, historians could not even agree which century he lived in. Guesses ranged across about 400 years, from around 150 BCE to around 250 CE. Then, in 1938, the historian of science Otto Neugebauer noticed something clever. In one of his books, the Dioptra, Hero describes how to use a lunar eclipse, seen at the same moment from two different cities, to work out the distance between them. The eclipse he describes matches one that happened on 13 March in the year 62 CE. Most historians now think Hero was working in the 1st century CE, and his dates are often given as roughly 10 to 70 CE. Some scholars are careful to point out that the book does not actually say Hero watched the eclipse himself, so even this is not completely certain.",
+        "Hero seems to have been a teacher. Many of his books read like lecture notes or textbooks, explaining step by step how to do things. He probably taught at the Mouseion. He wrote about an impressive range of subjects. His Metrica explains how to measure areas and volumes, and it contains what is still called Heron's formula, a way to find the area of a triangle when you know only the lengths of its three sides. His Dioptra describes a surveying instrument for measuring land and planning tunnels and aqueducts. His Belopoeica is about war machines such as catapults. His Mechanica, about lifting heavy loads with levers, pulleys, wedges and screws, survives only in an Arabic translation. Another book, Automata, describes small self-moving theatre shows driven by falling weights and ropes.",
+        "Hero did not claim that he had thought up everything himself. He openly built on the work of earlier engineers, especially Ctesibius, and some of the devices he describes may have been invented by others. For a long time, some historians dismissed him as just a copier of other people's ideas. Today, most see him as a well-educated and often ingenious applied mathematician and engineer, someone who collected, improved and clearly explained the best mechanical knowledge of his age. That is a hugely valuable job. Without writers like Hero, much of that knowledge would have been lost forever."
+      ]
+    },
+    {
+      "heading": "A Book About Air, Water and Steam",
+      "paragraphs": [
+        "Hero's most famous book for our story is the Pneumatica. The name comes from the Greek word pneuma, meaning breath or air, which is also where we get words like pneumatic tyres and pneumonia. The Pneumatica describes dozens of devices that work using air, water, heat and steam.",
+        "Hero begins with a big idea. Many people thought that an 'empty' jar was really empty. Hero argued that air is a real substance made of tiny particles, even though you cannot see it. To prove it, he suggested a simple experiment you can try in a sink or a bath with an adult's permission. Push an empty cup upside down straight into water. The water will not fill it, because the cup is already full of air, and the air has nowhere to go. Make a hole in the bottom of the cup, and the air rushes out and the water flows in. Hero also believed that the spaces between those tiny particles could be squeezed, which is why air can be compressed, and that heat makes air expand.",
+        "Then he describes gadget after gadget. There are drinking vessels that pour wine and water in turn, and a wine bowl that keeps itself topped up using a float valve, a little like the float in a modern toilet cistern. There are mechanical birds that seem to sing when water flowing into a chamber pushes air out through whistles. There is a fountain, still called Heron's fountain, that seems to flow by magic, powered by water and air pressure moving between hidden containers. There is a force pump with pistons and valves that could squirt a jet of water, which Hero suggests could be used to fight fires. There is even a wind-wheel that pumps air into a musical organ, one of the earliest known machines driven by the wind.",
+        "Some devices were for temples, some for entertainment at feasts, and some seem to be teaching demonstrations, showing students how air and water behave. Many feel more like magic tricks than tools. But hidden among them is the device that has made Hero famous in the history of engines: a hollow ball that spins using nothing but steam."
+      ]
+    },
+    {
+      "heading": "The Aeolipile: A Ball That Spins on Steam",
+      "paragraphs": [
+        "Here is how Hero's spinning ball worked. At the bottom is a closed metal pot, a little like a covered cauldron, filled partly with water and sitting over a fire. Two pipes rise up from the lid. At the top of the pipes, held between them on pivots, is a hollow metal ball that is free to turn, rather like a globe on its stand. One of the pipes is hollow and carries steam up from the pot into the ball through the pivot. Sticking out from opposite sides of the ball are two small bent tubes, shaped like the letter L, one pointing one way and the other pointing the opposite way.",
+        "Light the fire and wait. As the water heats up and boils, it turns into steam. Steam takes up far more room than the water it came from, so it rushes up the pipe, fills the ball, and has only one way out: the two bent nozzles. Two jets of steam hiss out, one forwards on one side and one backwards on the other. And the ball begins to turn, slowly at first, then faster and faster, until it is whirling round with a hiss.",
+        "Today this device is usually called an aeolipile. The name joins Aeolus, the Greek god of the winds, with the Latin word pila, meaning ball. So an aeolipile is a 'ball of Aeolus', or a wind-ball. Hero gave clear instructions for building one, and because his description survived, he is often called the inventor of the first known steam engine. To be fair, it is better to say that Hero's aeolipile is the earliest known device that turned steam into spinning motion. As you will see, he was not the first person to write about steam-filled balls, and his version may well have been built on earlier ideas.",
+        "Why does it spin? The answer is one of the most important rules in physics. When something pushes stuff out in one direction, the stuff pushes back on it in the opposite direction. Every action has an equal and opposite reaction. Isaac Newton wrote this down as his third law of motion in 1687, more than 1,600 years after Hero, but the aeolipile already shows it beautifully. Each jet of steam shoots out of a nozzle, and in return the nozzle gets shoved the other way. Because the two nozzles point in opposite directions on opposite sides of the ball, their two shoves work together to twist the ball around its pivots.",
+        "You have probably seen the same idea at work. A spinning garden sprinkler with bent arms whirls around because water squirts out of its nozzles. Let go of a blown-up balloon and it zooms off as air rushes out of the neck. A rocket blasting into space is pushed upwards by the hot gas it throws downwards. Engineers call the aeolipile a simple kind of reaction turbine: a machine that spins because of the push-back from a jet leaving it.",
+        "Modern people have built many working copies of the aeolipile. A well-made one can spin very fast indeed, with a loud hiss. But if you tried to make it do a job, such as lifting a weight on a string wound round its axle, you would be disappointed. The steam escapes so freely and the jets are so small that it produces only a tiny turning force. Most of the heat from the fire simply escapes into the air with the steam. It is a brilliant demonstration and a terrible machine for doing work."
+      ]
+    },
+    {
+      "heading": "Vitruvius and the Wind-Balls",
+      "paragraphs": [
+        "Hero was not the only ancient writer to mention steam-filled balls, and he was not the first. About a century earlier, a Roman architect and engineer named Marcus Vitruvius Pollio wrote a large work called De architectura, meaning 'On Architecture', in roughly 30 to 20 BCE. It is the only complete book on architecture to survive from ancient Rome, and it covers everything from building temples and town walls to water supplies, sundials and siege machines. He dedicated it to the emperor Augustus.",
+        "In the first of its ten books, Vitruvius discusses how to plan a town so that its streets are not battered by strong winds. While explaining where winds come from, he describes devices called aeolipiles. They were, in an English translation, 'hollow brazen vessels': small hollow balls of bronze with a tiny hole, through which they could be filled with water. Placed by a fire, they gave out little at first. But once the water began to boil, a powerful blast of vapour came roaring out of the hole.",
+        "Vitruvius's aeolipile did not spin. It was a fixed ball with a single jet. And he was not interested in using it as a machine at all. To him it was a scientific demonstration. He thought that wind in the sky was produced when heat acted on moisture, and the blasting wind-ball seemed to prove it on a small scale. By studying such little devices, he argued, people could understand the great laws of nature. We now know that weather winds are mostly caused by differences in air pressure and temperature across the Earth, not by boiling water, but his instinct to test big ideas with small experiments was a very scientific one.",
+        "Putting Vitruvius and Hero side by side tells us something important. Steam-blowing balls were known in the Greek and Roman world for at least a century, and probably longer, perhaps going back to the circle of Ctesibius in Alexandria. Educated people found them interesting. They used them to explain nature and to amaze audiences. But none of them, as far as we know, ever used one to do a useful job."
+      ]
+    },
+    {
+      "heading": "Coin Machines and Temple Wonders",
+      "paragraphs": [
+        "The aeolipile was far from Hero's only crowd-pleaser. Some of his most famous inventions were designed for temples, where a little mechanical mystery could make visitors feel they were in the presence of the gods.",
+        "One is often called the world's first vending machine. In some temples, worshippers washed with holy water before entering. Hero describes a sealed jar with a slot in the top. Inside, a coin dropped through the slot landed on a little flat pan at one end of a lever, like a tiny seesaw. The coin's weight tipped the lever down, and the other end of the lever lifted a plug, letting holy water trickle out of a spout. As the pan tipped further, the coin slid off into the jar, the lever swung back, the plug dropped into place, and the water stopped. One coin, one measured splash of water. It is a simple and clever idea, and the same basic principle of a weight working a valve is used in many machines today.",
+        "Even more theatrical were Hero's automatic temple doors. In his description, priests light a fire on an altar outside a small temple. Hidden underneath the altar is a closed metal container of air connected to another container holding water. As the fire heats the air, the air expands and pushes water through a bent tube, called a siphon, into a bucket hanging from a rope. As the bucket fills, it gets heavier and sinks, pulling ropes wound around the pivots of the temple doors, and the doors swing slowly open as if by magic. When the fire dies down, the air cools and shrinks, the water is drawn back, the bucket gets lighter, and a counterweight pulls the doors closed again.",
+        "It is important to be careful about two things here. First, these temple doors were worked by fire-heated air and the weight of water, not by steam. Some popular books have mixed them up with the aeolipile, but they are different devices. Second, this is a device Hero describes in writing. Historians do not know whether anyone ever built it at the full size of real temple doors, or whether it existed only as a description or perhaps a small model. Hero's books include both proven tricks and clever designs on paper, and it is often impossible to tell which is which.",
+        "Hero also described entire puppet shows that ran by themselves. In his book Automata, a cart could roll onto a stage on its own, stop, perform a little show with moving figures and sound effects, and roll away again, all driven by falling weights, ropes wound around axles and pegs that changed direction at set moments. Some historians describe this as a simple kind of programming, because the sequence of actions was set in advance by the way the ropes and pegs were arranged."
+      ]
+    },
+    {
+      "heading": "Why Didn't Hero Start a Steam Revolution?",
+      "paragraphs": [
+        "This is one of the great 'what if' questions in history. If people in Alexandria already knew that steam could make something spin, why did it take until the 1700s for steam engines to do real work? Why didn't the Romans have steam-powered mills, ships or carts? Historians have suggested several reasons, and most think it was a combination of them.",
+        "The first is metal and making. A powerful steam engine needs a strong, sealed boiler that will not leak or burst, and a cylinder and piston that fit together extremely tightly. Ancient metalworkers could make beautiful bronze statues, coins and tools, but making large, strong, airtight vessels and accurately shaped metal parts was a different challenge. Joints were usually soldered or hammered, and they would have leaked or failed under real steam pressure. Even 1,700 years later, as you will discover, the first successful engine builders struggled with exactly these problems.",
+        "The second is that nobody had a clear job for it. The aeolipile spins very fast but with almost no force. To make it useful, someone would have had to work out how to connect that weak, fast spinning to a slow, strong job like grinding grain, and nobody seems to have tried. The ancient world had the waterwheel for heavy work, and it was reliable and well understood.",
+        "The third reason is about people. In the Roman world, a great deal of hard physical labour was done by enslaved people and poorly paid workers. Some historians argue that when human labour is that cheap, there is little reason to invest in expensive, unfamiliar machines. Others think this explanation is too simple, since the Romans did happily build watermills and cranes to save effort. It is still a lively debate.",
+        "The fourth reason is missing science. Hero knew that heated air expands and that steam rushes out of a hot vessel. But nobody yet understood air pressure, the vacuum, or how much work a certain amount of heat could do. As later parts of this story show, the first engines that actually worked did not even rely on steam pushing. They relied on a surprising discovery about the weight of the air, which would not be made until the 1600s.",
+        "Finally, scholars in Hero's world often valued ideas and demonstrations more highly than practical improvements. A device that revealed a law of nature or delighted a crowd was admired in its own right. Turning it into a money-making machine was simply not what many educated people were trying to do."
+      ]
+    },
+    {
+      "heading": "Asleep for 1,500 Years",
+      "paragraphs": [
+        "In the centuries after Hero, the Roman world changed enormously. The great days of the Mouseion faded; the last known references to it come from the 260s CE, and the royal quarter of Alexandria was badly damaged in fighting in 272 CE. The Library of Alexandria did not vanish in one single dramatic fire, as legends sometimes claim, but declined over a long time.",
+        "Hero's ideas, however, did not disappear. His books were copied again and again by hand. Scholars of the Byzantine Empire, which continued in the eastern Mediterranean, kept Greek texts alive. Scholars writing in Arabic translated and studied many Greek works, and Hero's Mechanica survives today only because of an Arabic translation. Later, in the Renaissance of the 1500s, Italian scholars printed Latin and Italian translations of the Pneumatica, and inventors across Europe read about the spinning ball again.",
+        "Yet for about 1,500 years after Hero, steam stayed mostly a curiosity. The aeolipile was remembered in books and sometimes built as a toy or a demonstration, but it did not grind grain, pump water or move ships. The world kept running on muscle, wind and water.",
+        "Then, in the 1500s and early 1600s, something began to stir. In several very different countries, from the Ottoman Empire to Spain, France and Italy, curious inventors began to look at steam again and to dream of putting it to work. Some wanted it to turn a roasting spit, some to raise water, some to drive mills. Their ideas were sketchy and their machines were mostly experiments, but the long sleep of Hero's steam was finally coming to an end."
+      ]
+    }
+  ],
+  "deepDive": "Historians have argued for a long time about why the ancient Mediterranean world, which knew of the aeolipile, never developed practical steam power. One classic answer points to slavery: where human labour was cheap and plentiful, the incentive to invest in labour-saving machinery was weak. Critics reply that Roman society did adopt labour-saving technology when it made sense, such as the watermills at Barbegal or treadwheel cranes, so cheap labour alone cannot explain the gap. A second answer is technical. The aeolipile is a reaction turbine with no way to recover energy from the steam other than the push of an unguided jet. Its torque is tiny and almost all the fuel's energy leaves as hot vapour, so its efficiency would have been a very small fraction of one percent. Turning such a fast, weak rotation into useful work would require high-speed gearing and bearings that ancient workshops could not make, and in any case the real breakthrough of the 1700s, the piston engine driven by atmospheric pressure, depended on understanding the vacuum, which arrived only in the 1640s. A third answer is about the dates themselves. Hero's lifetime is not securely known: estimates once ranged from about 150 BCE to 250 CE. In 1938 Otto Neugebauer connected a lunar eclipse described in Hero's Dioptra with the eclipse of 13 March 62 CE, which is why most modern accounts place him in the 1st century CE. But the text does not say Hero saw it, so the dating is strong rather than certain. There is also the question of credit. Vitruvius described fixed, non-spinning aeolipiles in De architectura around 30 to 20 BCE, so steam-blowing balls predate Hero, and the Alexandrian engineer Ctesibius, whose writings are lost, may have influenced both. What Hero's text gives us is the earliest surviving description of steam producing continuous rotation, an idea that would return, in vastly more refined form, in the steam turbines of the 1880s.",
+  "funFact": "Our word museum comes from the Mouseion of Alexandria, which was not a building full of exhibits but a community of paid scholars who lived, studied and taught there.",
+  "check": {
+    "q": "What made Hero's aeolipile spin?",
+    "a": "Jets of steam shooting out of bent nozzles pushed the ball the opposite way (action and reaction)",
+    "wrong": [
+      "A falling weight on a rope",
+      "A hidden waterwheel underneath it",
+      "Wind blowing on sails attached to the ball"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Hero of Alexandria",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hero_of_Alexandria"
+    },
+    {
+      "title": "Heron of Alexandria (biography)",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Heron/"
+    },
+    {
+      "title": "Aeolipile",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aeolipile"
+    },
+    {
+      "title": "Vitruvius, De architectura, Book I (English translation)",
+      "publisher": "LacusCurtius, University of Chicago",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Vitruvius/1*.html"
+    },
+    {
+      "title": "Mouseion",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mouseion"
+    },
+    {
+      "title": "Library of Alexandria",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria"
+    },
+    {
+      "title": "History of the steam engine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_steam_engine"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Old engraving or diagram of Hero's aeolipile, the steam-spun ball on a boiling cauldron, from an edition of the Pneumatica",
+      "search": "Hero aeolipile illustration engraving"
+    },
+    {
+      "want": "Diagram of Hero's temple doors opened by a fire on an altar, with the hidden air vessel, water and bucket",
+      "search": "Heron temple doors automatic diagram"
+    },
+    {
+      "want": "Modern working replica of an aeolipile, such as the one at the Kotsanas Museum of Ancient Greek Technology in Athens",
+      "search": "aeolipile replica Kotsanas museum"
+    }
+  ]
+}

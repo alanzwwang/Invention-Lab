@@ -1,0 +1,150 @@
+{
+  "n": 11,
+  "title": "Browsers and the Web Explosion",
+  "when": "1993 – 2000s",
+  "summary": "In 1993 two young programmers made a browser called Mosaic that showed pictures right next to words, and suddenly the Web looked fun. Big companies started fighting over who would make the browser everyone used. Within a few years, millions of people were clicking, scrolling and building their own web pages.",
+  "sections": [
+    {
+      "heading": "A Window With Pictures In It",
+      "paragraphs": [
+        "Picture a chilly December in Urbana, a small university town surrounded by the flat cornfields of Illinois. It is the end of 1992. Most students have gone home for the holidays, but in the offices of the National Center for Supercomputing Applications, usually called NCSA, a 21-year-old undergraduate named Marc Andreessen is tapping away at a keyboard. He works part-time at the centre for a few dollars an hour, and he has become fascinated by the World Wide Web that Tim Berners-Lee released from CERN.",
+        "The trouble was that the early Web was not much to look at. Berners-Lee's own browser ran only on NeXT computers, which were expensive and rare. CERN did not have the money to write versions for every kind of machine, so the Web team asked volunteers to help, and a handful of programmers around the world wrote browsers for Unix, Macintosh and PC computers. Two of them, called Viola and Midas, were the favourites. But most of these programs were fiddly to install, crashed easily, and showed pictures only in separate pop-up windows, if they showed them at all. A typical web page was a grey screen of plain text with some underlined links.",
+        "Over his Christmas break Andreessen roughed out a demonstration of a better browser. He then teamed up with Eric Bina, a full-time NCSA programmer who was an expert on Unix systems and a careful, quiet coder. Andreessen was the energetic one who talked to users, read their complaints and pushed out updates. Bina did much of the deep technical work that made the program solid. Together they built Mosaic, using the free code library that CERN had shared with the world.",
+        "The first versions of Mosaic appeared early in 1993, and version 1.0 for Unix computers was released in the spring. What made it special can be said in one sentence: Mosaic put pictures right inside the page, next to the words, the way a magazine does. To make that possible, Andreessen suggested a new piece of HTML, the img tag, which tells a browser 'put an image here'. Suddenly a web page could have a photo of a scientist beside her research, a map beside a travel guide, or a logo at the top of a company's page.",
+        "Mosaic was also easy. You did not need to be a computer expert to install it; you could download it, click, and start exploring. It had a Back button, a list of favourite pages and a 'What's New' page, kept up to date by Andreessen and Bina, that pointed visitors to the latest interesting sites. NCSA's founding director, Larry Smarr, and Joseph Hardin, head of its software group, put the centre's full support behind the project and assigned teams to make versions for Macintosh and Windows computers, plus web server software. By the end of 1993 people could run Mosaic on almost any common computer.",
+        "The result was like opening a window in a stuffy room. According to NCSA, by December 1993 more than 5,000 copies of Mosaic were being downloaded every month, and the centre was swamped with messages from enthusiastic users. That same month the New York Times put Mosaic on the front of its business section and suggested it might be the 'killer app' of networked computers, meaning the program so useful that it makes people want the whole technology. The Computer History Museum describes Mosaic as the first browser backed by a major institution, which helped move the Web from a research project toward mass success."
+      ]
+    },
+    {
+      "heading": "Senator Gore and the Famous Joke",
+      "paragraphs": [
+        "Where did the money for a place like NCSA come from? Supercomputer centres are expensive. NCSA was one of several centres paid for by the US National Science Foundation, and in the early 1990s their funding received an important boost from a law called the High Performance Computing Act of 1991. Its main sponsor in the Senate was a senator from Tennessee named Al Gore, and it was signed by President George H. W. Bush in December 1991. People often nicknamed it the 'Gore Bill'.",
+        "Gore had been interested in computer networks since the 1980s. The Internet Society's history of the Internet notes that a 1988 report by the National Research Council, about the future of research networks, was influential on then-Senator Gore. He liked to talk about 'information superhighways': fast national networks that could link universities, libraries, schools and businesses, the way highways had linked cities. The 1991 law paid for research into faster computers and for a National Research and Education Network, and it helped support projects at centres like NCSA. Mosaic is often given as one of the best-known examples of work that this kind of government research funding made possible.",
+        "Now for the joke. In March 1999, when Gore was Vice President and getting ready to run for President, he gave a television interview on CNN. Talking about his record, he said that during his time in Congress he 'took the initiative in creating the Internet'. That sentence was clumsy, because of course no single politician created the Internet. Opponents and comedians quickly twisted it into a much sillier claim: that Gore had said 'I invented the Internet'. That exact phrase became one of the most repeated jokes of the 2000 election.",
+        "Here is the fair version. Gore never said he invented the Internet; those were not his words. He did not design packets, write TCP/IP or invent the Web, and he never claimed to. What he did do, over many years in Congress, was understand earlier than most politicians how important computer networks could be, and push for laws that paid for faster networks and research. Vint Cerf and Bob Kahn, the co-designers of TCP/IP whom you met in Part 6, later wrote that Gore deserved real credit for championing the Internet as a lawmaker. So the true lesson of the story is a good one to remember: the Internet was built by engineers, students, scientists and also by the people who decided to fund them. As always in this story, there is no single inventor."
+      ]
+    },
+    {
+      "heading": "The First Browser Wars",
+      "paragraphs": [
+        "Mosaic belonged to the University of Illinois, and its student programmers were paid student wages. When Andreessen graduated at the end of 1993, he moved to California's Silicon Valley. There he met Jim Clark, a wealthy computer scientist who had founded Silicon Graphics, a company famous for powerful graphics computers used to make special effects in films. Clark had a plan: start a company to build a 'Mosaic killer', a browser even better than the original. In 1994 the two founded a company, and they hired Eric Bina and much of the rest of the Mosaic team.",
+        "At first the company was called Mosaic Communications. The University of Illinois objected, since Mosaic was its name, and as part of settling the dispute the company changed its name to Netscape Communications. Its browser, Netscape Navigator, was a complete rewrite rather than a copy of Mosaic, and it was faster and more reliable. Netscape announced it in October 1994, and version 1.0 was released in December 1994. Netscape's clever business plan was to let schools, universities and non-profit groups use Navigator free, while selling boxed copies and server software to companies. Within months, most people browsing the Web were using Navigator.",
+        "On 9 August 1995 Netscape sold shares on the stock market for the first time. The company had existed for less than two years and was not yet making a profit, but investors were so excited about the Web that the price of its shares roughly doubled on the first day, and the company was suddenly valued at a few billion dollars. Many historians treat that day as the starting gun of the 'dot-com boom', the rush of money into Internet companies that Part 15 will explore.",
+        "One company was watching very carefully. Microsoft made Windows, the software that ran most of the world's personal computers, and in 1995 it had been planning its own private online service, MSN. In May 1995 Bill Gates, Microsoft's co-founder, sent a famous memo to his managers called 'The Internet Tidal Wave', saying that he gave the Internet 'the highest level of importance'. Microsoft licensed a version of Mosaic from a company called Spyglass, which had bought the rights to the Mosaic name and technology from the University of Illinois, and turned it into Internet Explorer. Version 1.0 came out in August 1995, around the launch of Windows 95.",
+        "Then the battle began. Netscape and Microsoft released new versions at a furious pace, each adding new features, some of which only worked in their own browser. Website makers began to write little notes like 'Best viewed in Netscape Navigator' at the bottom of their pages. Netscape invented a blink tag that made text flash on and off, and Internet Explorer had a marquee tag that made text scroll across the screen like a sign at a train station. Both are now remembered fondly as symbols of the colourful, messy 1990s Web, though neither is used much today.",
+        "Microsoft's most powerful weapon was not a feature at all. Starting with later versions of Windows 95, Internet Explorer came free and already installed on new computers, so many people never bothered to download anything else. By around 1998 or 1999 Internet Explorer had overtaken Navigator, and in the early 2000s it was used by the great majority of web surfers. The US government and many states sued Microsoft in 1998, arguing that it had unfairly used its control of Windows to crush competitors; in 2000 a judge ruled against Microsoft, and after appeals the case ended in a settlement in 2001 and 2002. By then Netscape had been bought by the online service AOL, and it never regained its lead. This contest is now known as the first 'browser wars'."
+      ]
+    },
+    {
+      "heading": "Ten Days in May: JavaScript and CSS",
+      "paragraphs": [
+        "Early web pages were a bit like posters: you could read them and click links, but they could not do anything. If you filled in a form and made a mistake, the page had to be sent all the way to a server and back before anyone could tell you. Netscape wanted pages that could react instantly, inside the browser itself.",
+        "In April 1995 Netscape hired a programmer named Brendan Eich. He had been promised that he could put a programming language inside the browser, and he hoped to base it on an elegant language called Scheme. But Netscape was also working with the company Sun Microsystems, which had just created a language called Java, and Netscape's managers insisted that the new browser language should 'look like Java'. Eich later explained that he mixed ideas together: Java-like spelling and punctuation on the outside, plus clever ideas borrowed from the languages Scheme and Self on the inside.",
+        "Eich built the first working version in May 1995 in an astonishingly short time, about ten days. It was first nicknamed Mocha, then renamed LiveScript, and finally, in December 1995, it was renamed JavaScript, partly to ride on the excitement around Java. This name confuses people to this day, because JavaScript and Java are two quite different languages; programmers like to say they are related about as much as 'car' and 'carpet'. JavaScript first shipped in Netscape Navigator 2.0, and Microsoft soon built its own version into Internet Explorer.",
+        "Because two companies were now writing their own versions, they needed shared rules so that the same code would work in every browser. In 1997 an organisation called Ecma International published a standard version of the language, officially named ECMAScript. JavaScript is still updated almost every year, and today it runs on nearly every website you visit. When a page shows a pop-up warning that your password is too short, slides photos past in a carousel or lets you play a game without loading a new page, JavaScript is usually doing the work.",
+        "At almost the same time, another problem was being solved: style. HTML was designed to describe what each part of a page is, such as 'this is a heading' or 'this is a list'. But website makers wanted to control how it looked: colours, fonts, spacing and layout. In the browser wars, companies kept adding new HTML tags for decoration, such as a font tag for choosing letter styles, which made pages messy and hard to change.",
+        "In October 1994 a Norwegian programmer working with Tim Berners-Lee at CERN, Hakon Wium Lie, proposed Cascading Style Sheets, or CSS. He soon teamed up with a Dutch engineer, Bert Bos. The idea was to keep the content of a page (in HTML) separate from its looks (in CSS). A style sheet could say 'every heading on this website is dark blue and large' in a single line, and if you wanted to change all the headings to green, you would change just that one line instead of hundreds of pages. The word 'cascading' means that several style rules can flow down and combine, with more specific rules winning over general ones.",
+        "The first official CSS recommendation was published at the end of 1996, though it took browsers years to support it properly. Today the three languages work together like a team. HTML is the skeleton and the words, CSS is the clothing and decoration, and JavaScript is the muscles that make things move and respond. Every page of a modern site, including the one you might be reading this on, is built from these three."
+      ]
+    },
+    {
+      "heading": "A Club to Keep the Web Open",
+      "paragraphs": [
+        "The browser wars had a dangerous side. If each company kept inventing its own features that only worked in its own browser, the Web could split into separate 'Netscape webs' and 'Microsoft webs', and a page made for one might break in the other. Tim Berners-Lee had always wanted the Web to be one shared space that anybody could use with any computer.",
+        "So in October 1994 he founded the World Wide Web Consortium, known as W3C, at the Massachusetts Institute of Technology in Cambridge, Massachusetts, working closely with CERN, where the Web had been born. Berners-Lee became its director, and he wanted the consortium to be international from the start: in April 1995 the French research institute INRIA became its European host, and in 1996 Keio University in Japan became its host in Asia.",
+        "A consortium is a group of organisations that agree to work together. W3C's members include browser makers, universities, technology companies, governments and charities. They meet, argue politely, test ideas and publish 'recommendations': detailed descriptions of how HTML, CSS and many other web technologies should work. Like the RFCs of the early Internet that you met in Part 4, these documents are open and free for anyone to read and use. W3C also works on accessibility guidelines that help make websites usable for people who are blind, deaf or have other disabilities, for example by giving every picture a written description that a screen reader can speak aloud.",
+        "W3C cannot force any company to obey it. Its power comes from agreement: if all the big browser makers follow the same standard, then web designers can write a page once and trust it to work everywhere. Today the Web's standards are shaped by W3C together with other groups, including one called WHATWG, formed in 2004 by browser makers, which now looks after the main HTML standard. It is a reminder of the big lesson of this whole story: the Internet and the Web keep working because rivals agree to share the same open rules."
+      ]
+    },
+    {
+      "heading": "What Really Happens When You Click",
+      "paragraphs": [
+        "Let us slow down time and watch a browser at work. Imagine you type the address https://www.example.org/dinosaurs.html and press Enter. It feels instant, but in that blink a whole series of steps happens, using many of the ideas from earlier parts.",
+        "Step one: the browser reads the address, or URL. The part before the colon, https, says which protocol to use. The middle part, www.example.org, is the name of the computer to contact. The last part, /dinosaurs.html, is the particular page on that computer.",
+        "Step two: the browser needs a number, not a name. As you learned in Part 8, it asks the Domain Name System to turn www.example.org into an IP address. If your computer or your home router looked up that name recently, the answer may already be remembered, or 'cached', and arrive in under a millisecond. Otherwise DNS servers may need to be asked, which usually takes a few tens of milliseconds.",
+        "Step three: the browser opens a connection to that IP address using TCP, the protocol from Part 7 that makes sure packets arrive in order. Because the address begins with https, it also performs a quick secret handshake to set up encryption, so nobody in between can read what is sent. Part 17 explains how that padlock works.",
+        "Step four: the browser sends an HTTP request. It is a short message in plain words, something like 'GET /dinosaurs.html', plus extra lines saying which browser you are using and which languages you can read. Step five: the server replies. The reply starts with a status code; 200 means 'OK, here it is', while the famous 404 means 'Not Found'. Then comes the HTML of the page.",
+        "Step six is where the real work begins. The browser reads the HTML from top to bottom and builds a tree-shaped model of the page in its memory, with headings, paragraphs and pictures as branches. As it reads, it discovers more things it needs: a CSS style sheet, a few JavaScript files, a dozen images, maybe a font. For each one it sends another HTTP request, often several at once. A modern news site can ask for well over a hundred separate files before it is complete.",
+        "Step seven: the browser works out the layout, deciding exactly where every box, word and picture goes for your screen size, and then 'paints' the pixels. JavaScript may run and change the page while you look at it. On a fast connection the whole sequence can take well under a second. Every time you click a link, much of it happens again, and all of it rests on the layers of the Internet that took decades to build."
+      ]
+    },
+    {
+      "heading": "Foxes, Chrome and Web Apps",
+      "paragraphs": [
+        "Netscape did not simply vanish. In 1998, losing badly to Internet Explorer, the company did something bold: it released the source code of its browser to the public, so that volunteers anywhere could read it and improve it. This became the Mozilla project, named after Netscape's old dinosaur-like mascot. In 2003 a non-profit organisation, the Mozilla Foundation, was set up to run it.",
+        "In November 2004 Mozilla released Firefox 1.0, a fast, lightweight browser with tabs, a pop-up blocker and add-ons that let users customise it. People who were fed up with pop-up adverts and security problems loved it. According to Mozilla, Firefox was downloaded more than 100 million times in less than a year. Fans even raised money to pay for a big advert in the New York Times listing the names of thousands of supporters. Apple had launched its own browser, Safari, in 2003, and competition was back.",
+        "At the same time, websites were turning into programs. In April 2004 Google launched Gmail, an email service that worked inside a browser and felt almost like software on your own computer. In 2005 Google Maps let you drag a map around smoothly with your mouse, fetching new map pieces in the background without reloading the page. A designer named Jesse James Garrett gave this style of website a name in 2005: Ajax, short for a group of techniques built around JavaScript. Soon people were writing documents, editing photos and playing games inside web pages. These are called web apps.",
+        "Web apps needed faster browsers, and in September 2008 Google released its own browser, Chrome. Its makers explained their thinking in a comic book drawn by the artist Scott McCloud. Chrome ran each tab as a separate process, so if one website crashed, the others kept going, and it had a very fast new JavaScript engine called V8. Google also released most of its code as an open-source project called Chromium. Chrome grew quickly and became the world's most used browser in the early 2010s, while Internet Explorer slowly faded; Microsoft finally retired it in 2022 in favour of its newer browser, Edge, which is itself built on Chromium code.",
+        "Meanwhile, the standards kept growing. A new version of HTML, called HTML5, was finished by W3C in 2014. It let browsers play video and audio and draw graphics without the extra plug-in programs, such as Adobe Flash, that people once had to install. Today a browser is really a small operating system: it can run games, video calls, maps and office software, all from a web address.",
+        "And the number of websites exploded. A researcher at MIT named Matthew Gray kept count in the early days by sending out a program to explore the Web. He found about 130 websites in June 1993, roughly 600 by the end of that year, about 10,000 by the end of 1994 and about 23,500 by the middle of 1995. Within a few more years there were millions. Shops, schools, museums, bands, governments and kids with their first homepage all joined in. The Web had become an enormous library with no librarian and no catalogue. With so many pages appearing every day, a new question became urgent: how on Earth would anyone find anything?"
+      ]
+    }
+  ],
+  "deepDive": "Why did a browser matter so much, when the Web already existed? Historians of technology point to a pattern: an infrastructure becomes popular when the 'last mile' to the ordinary user becomes easy. Before Mosaic, the Web was technically complete, with HTTP, HTML and URLs all working, but the experience was poor. Mosaic's inline images, simple installation and versions for Unix, Macintosh and Windows lowered the barrier enough for non-experts, and the number of websites jumped from roughly a hundred to tens of thousands in about two years. The browser wars that followed raise a debate economists still have about 'network effects' and bundling. Netscape gave its browser free to individuals and earned money from businesses, showing that software built on open standards could be profitable. Microsoft responded by bundling Internet Explorer with Windows, a strategy that a US federal judge found in 2000 to be part of an illegal effort to protect Microsoft's monopoly; an appeals court in 2001 upheld much of that finding while overturning the order to break the company up, and the case was settled. Some argue that the competition sped up innovation; others say Explorer's dominance in the early 2000s let the Web stagnate, since Microsoft had little reason to improve a browser that already had most of the market. A second debate concerns standards. Browser makers have often moved faster than standards bodies, inventing features first and standardising later, which is how JavaScript became ECMAScript and why WHATWG was formed by browser makers in 2004 when they felt W3C's plans for XHTML did not match what developers needed. Today a different concern is common among web experts: most major browsers are now built on just a few rendering engines, mainly Chromium's Blink, Apple's WebKit and Mozilla's Gecko, and Blink-based browsers hold a large majority of users. Critics worry this gives one company great influence over how the Web evolves, echoing the browser wars of the 1990s. Supporters reply that the engines are open source and that W3C and WHATWG standards still bind them. Finally, there is the human story behind the speed of change: JavaScript, written in about ten days, now runs on billions of devices, a striking example of how an early, rushed design decision can become permanent once millions of pages depend on it.",
+  "funFact": "Brendan Eich wrote the first version of JavaScript in about ten days in May 1995, and despite its name it is a completely different language from Java.",
+  "check": {
+    "q": "What was the special feature that made the Mosaic browser so popular in 1993?",
+    "a": "It showed pictures inside web pages, right next to the text, and was easy to install",
+    "wrong": [
+      "It was the first program ever to connect two computers",
+      "It let people make video calls to each other",
+      "It was the first browser to use JavaScript"
+    ]
+  },
+  "sources": [
+    {
+      "title": "NCSA Mosaic",
+      "publisher": "National Center for Supercomputing Applications, University of Illinois",
+      "url": "https://www.ncsa.illinois.edu/research/project-highlights/ncsa-mosaic/"
+    },
+    {
+      "title": "Browsers: Windows on the Web",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/revolution/the-web/20/388"
+    },
+    {
+      "title": "Browser Wars",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/revolution/the-web/20/389"
+    },
+    {
+      "title": "History of W3C",
+      "publisher": "World Wide Web Consortium (W3C)",
+      "url": "https://www.w3.org/about/history/"
+    },
+    {
+      "title": "Mozilla's History",
+      "publisher": "Mozilla",
+      "url": "https://www.mozilla.org/en-US/about/history/"
+    },
+    {
+      "title": "Popularity",
+      "publisher": "Brendan Eich (personal blog)",
+      "url": "https://brendaneich.com/2008/04/popularity/"
+    },
+    {
+      "title": "Brief History of the Internet",
+      "publisher": "Internet Society",
+      "url": "https://www.internetsociety.org/internet/history-internet/brief-history-internet/"
+    },
+    {
+      "title": "Networking & The Web timeline",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/timeline/networking-the-web/"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Screenshot of the NCSA Mosaic web browser from the early 1990s showing a page with text and an inline image",
+      "search": "NCSA Mosaic browser screenshot"
+    },
+    {
+      "want": "Portrait photo of Brendan Eich, the creator of JavaScript",
+      "search": "Brendan Eich portrait"
+    },
+    {
+      "want": "Screenshot or box of the Netscape Navigator browser from the 1990s",
+      "search": "Netscape Navigator browser screenshot"
+    }
+  ]
+}

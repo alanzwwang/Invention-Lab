@@ -1,0 +1,151 @@
+{
+  "n": 20,
+  "title": "From Brick to Brain: Putting It All Together",
+  "when": "1876 – future",
+  "summary": "We made it to the last part! Let's zoom back through the whole story, from heavy car phones to the brick to the phone in your pocket. You will see that no single genius invented the smartphone: thousands of people each added one piece, and the next piece might be added by you.",
+  "sections": [
+    {
+      "heading": "The Whole Journey on One Page",
+      "paragraphs": [
+        "Imagine a long museum hallway with one glass case for every big moment in this story. Let's walk down it together, slowly, and look into each case.",
+        "The first case holds a wooden telephone with a cord leading into the wall. In March 1876 Alexander Graham Bell received his telephone patent, while others such as Elisha Gray and Antonio Meucci were working on similar ideas. Calls traveled through wires, so a phone was stuck in one place. In the next case is a radio set from the age of Guglielmo Marconi, who showed in the 1890s and 1900s that messages could fly through the air with no wires at all.",
+        "Case three is enormous. It holds a 1946 car telephone: about 36 kilograms (80 pounds) of radio equipment that filled much of a car trunk. On June 17, 1946, AT&T opened its Mobile Telephone Service in St. Louis. Every call went through a human operator, and because one big transmitter covered a whole city, only a few people could talk at once. Waiting lists stretched into the hundreds. This was mobile, but it was not cellular.",
+        "Case four holds a sheet of paper: the 1947 Bell Labs memo in which Douglas Ring and W. Rae Young described dividing a city into small cells, each with its own low-power tower, so radio channels could be reused. It took more than thirty years for electronics to catch up with that idea.",
+        "Case five holds a plastic brick. On April 3, 1973, on a New York street, Motorola's Martin Cooper made the first public call on a handheld cellular phone, and he called his rival Joel Engel at Bell Labs. Next to it is the Motorola DynaTAC 8000X, the version people could buy in 1984 for $3,995. In between, the world's first commercial cellular network opened in Tokyo in 1979, then the Nordic NMT network in 1981 and Chicago's network in October 1983.",
+        "Case six shows a small grey phone with a green screen. Digital 2G networks such as GSM arrived, with the first GSM call made in Finland on July 1, 1991. On December 3, 1992, engineer Neil Papworth sent the first text message, 'Merry Christmas', from a computer to a phone. Soon teenagers everywhere were pressing the 7 key four times to type an S, and playing Snake on Nokia phones.",
+        "Case seven holds a little army of gadgets: the Psion Organiser (1984), Apple's Newton MessagePad (1993) and the Palm Pilot (1996), electronic organizers with no phone inside. Beside them sits a chunky black device with a touchscreen and stylus: the IBM Simon, sold from August 1994. Today it is widely called the first smartphone, though nobody used that word for it at the time.",
+        "Case eight is full of Japanese phones: NTT Docomo's i-mode mobile internet (1999), the 176 emoji drawn by Shigetaka Kurita, early camera phones like the Sharp J-SH04 (2000), and the world's first commercial 3G network, FOMA, in 2001. Case nine holds a BlackBerry with its tiny thumb keyboard, the 850 of 1999 that started the 'push email' craze in offices.",
+        "Then comes the case most people crowd around: the first iPhone, announced by Steve Jobs on January 9, 2007, and sold from June 29, 2007. Beside it stands the T-Mobile G1, also called the HTC Dream, the first Android phone, which went on sale in October 2008. That same year, on July 10, Apple's App Store opened with about 500 apps, and soon there was 'an app for that' for almost everything.",
+        "The last cases glow with modern phones: big OLED screens, several cameras, fingerprint and face recognition, phones that fold, and phones that can text a satellite for help. And the very last case at the end of the hallway is empty, with a little sign: 'Coming soon.'"
+      ]
+    },
+    {
+      "heading": "Nobody Invented the Smartphone",
+      "paragraphs": [
+        "If someone asks you 'Who invented the smartphone?', you now know the honest answer: nobody did, and everybody did. The smartphone is not one invention. It is a bundle of dozens of inventions, each with its own story, its own inventors and often its own arguments about who came first. Let's take a phone apart in our imagination and remember where each piece came from.",
+        "The radio inside it goes back to the work of Marconi and many others on wireless signals, and to the cellular idea from Bell Labs. The way your calls jump from tower to tower relies on handoff, which engineers such as Amos Joel Jr. worked out. Wi-Fi grew from a standard first agreed in 1997, and Bluetooth from work at Ericsson led by Jaap Haartsen.",
+        "The brain of the phone is built from transistors, the tiny on and off switches first demonstrated at Bell Labs in 1947. Integrated circuits, which put many transistors on one chip, followed in the late 1950s, and Gordon Moore's famous prediction of 1965 described how they would keep shrinking. The phone's processor almost certainly uses an ARM design, which grew from the chip that Sophie Wilson and Steve Furber designed at Acorn in Britain, first running in 1985.",
+        "The screen you tap uses capacitive touch sensing, first described by E. A. Johnson in Britain in 1965, plus decades of multi-touch research from places such as the University of Toronto and companies such as FingerWorks. The tough glass came from Corning's 1960s Chemcor research, and the glowing pixels from OLED and LCD research around the world.",
+        "The battery is lithium-ion, thanks to M. Stanley Whittingham, John Goodenough and Akira Yoshino, and to Sony, which sold the first commercial lithium-ion batteries in 1991. The camera's sensor is a CMOS active-pixel sensor, developed by Eric Fossum's team at NASA's Jet Propulsion Laboratory, following the CCD sensor invented by Willard Boyle and George Smith. The blue dot on your map depends on GPS satellites, a project led by Bradford Parkinson, with mathematical models of Earth's shape from experts such as Gladys West. And every app, message and web page depends on the internet, itself the work of thousands of researchers.",
+        "Then there are the countless smaller inventions that rarely get famous: the SIM card, the tiny microphones, the vibration motor, the speaker, the antenna design, the data compression that squeezes music and video, the software that runs it all. Every one of those has engineers behind it whose names most people never hear.",
+        "Here is one more amazing fact. Several pieces of the smartphone come from science that won Nobel Prizes, the most famous awards in science. Marconi shared the 1909 Nobel Prize in Physics for wireless telegraphy. William Shockley, John Bardeen and Walter Brattain won in 1956 for their work on the transistor. Jack Kilby shared the 2000 physics prize for his part in inventing the integrated circuit. Boyle and Smith shared the 2009 physics prize for the CCD sensor. And Whittingham, Goodenough and Yoshino shared the 2019 chemistry prize for the lithium-ion battery. When you hold a smartphone, you are holding a small pile of Nobel Prizes."
+      ]
+    },
+    {
+      "heading": "Lesson One: First Is Not Always the Winner",
+      "paragraphs": [
+        "Looking back over 150 years of history, some lessons pop out again and again. The first one surprises many people: the first company to build something is often not the one that makes it a success.",
+        "Remember the IBM Simon. It had a touchscreen, a calendar, email and even a sketch pad in 1994, thirteen years before the iPhone. But it cost about $899 with a contract, weighed about half a kilogram, ran out of battery after roughly an hour of talking, and could not browse the web, because mobile networks were slow and the web itself was brand new. Roughly 50,000 were sold before it was withdrawn. Apple's Newton had a similar fate: it introduced many people to the idea of a pocket computer but was mocked for its handwriting recognition and was dropped in 1998. In Part 19 you met Royole, which sold the first foldable phone and later went bankrupt.",
+        "Why does this happen? Often the first product arrives before the world around it is ready. Simon needed fast mobile data networks, cheap color screens and long-lasting batteries, and none of those existed yet. The iPhone arrived in 2007 when touchscreens, lithium-ion batteries, ARM chips and mobile networks had all improved enough to work together. Even then, the first iPhone lacked 3G, an App Store and video recording. Good timing means waiting until many pieces of the puzzle are ready, and that is very hard to judge in advance.",
+        "This is not a story about early inventors being failures. Simon and Newton showed what was possible, and they taught engineers lessons that later products used. Jeff Hawkins, who carried a wooden block in his shirt pocket to test the size of the Palm Pilot, learned from the Newton's troubles and made his device simpler. Every pioneer's mistakes became a map for the people who came after."
+      ]
+    },
+    {
+      "heading": "Lesson Two: Networks Matter, and Giants Can Fall",
+      "paragraphs": [
+        "A phone on its own is useless. It only becomes valuable because it connects to other phones, towers, satellites and services. Engineers call this a network effect: the more people who use something, the more useful it becomes for everyone. The first telephone owners had almost nobody to call. The first texters could only message a few friends. But once millions of people had phones, every new phone became more valuable, because it could reach all the others.",
+        "Network effects explain many twists in our story. Japan's i-mode took off because Docomo built the whole system at once: the network, the phones, the sites and an easy way to pay. Apple's App Store and Google Play became giants because more users attracted more app makers, and more apps attracted more users. M-Pesa in Kenya became essential once enough shops and families used it to send and receive money.",
+        "Network effects can also lock in winners for a while, which made the fall of some giants all the more shocking. Nokia was the world's largest mobile phone maker from 1998 until about 2012, and it sold more than a hundred million of a single model, the Nokia 3310 family. BlackBerry was so popular with office workers that people called it the 'CrackBerry', and even a US president fought to keep one. Both companies had brilliant engineers. Yet within a few years of the iPhone and Android arriving, both fell far behind. Nokia sold its phone business to Microsoft in 2014, and BlackBerry stopped designing its own phones in 2016.",
+        "Business historians still argue about exactly why, but some reasons come up often. Both companies were extremely good at what customers wanted yesterday, such as tough phones, long battery life, physical keyboards and data-saving email. They were slower to bet on what customers would want tomorrow: big touchscreens, full web browsers and app stores full of software from outside developers. The lesson is not that big companies are foolish. It is that being the best at today's problem does not guarantee you will win tomorrow's."
+      ]
+    },
+    {
+      "heading": "Lesson Three: Tiny Steps Make Giant Leaps",
+      "paragraphs": [
+        "The third lesson is easy to miss because it happens so quietly. Most of the progress in this story did not come from one dazzling breakthrough. It came from thousands of small improvements, each one only a little better than the last, stacking up year after year until the total change was enormous.",
+        "Think about the camera. The Sharp J-SH04 of 2000 had a camera of about 0.11 megapixels, which is roughly 110,000 pixels, enough for a tiny, blurry snapshot. Each new generation of image sensor squeezed in a few more pixels, collected light a little more efficiently and wasted a little less battery. Add better lenses, image stabilization and the computational photography tricks of Part 14, and two decades later many phones had cameras of 12 to 200 megapixels that could take sharp photos at night. No single year was a miracle. The miracle was the pile of years.",
+        "Screens followed the same path. The DynaTAC had a single line of glowing red digits. Early 2000s phones had small color screens. The first iPhone in 2007 had a 3.5-inch screen with 320 by 480 pixels, which seemed amazing at the time. Many modern phones pack more than 400 pixels into every inch, so sharp that your eyes cannot pick out individual dots at a normal reading distance.",
+        "Networks grew step by step too. The first text messages in 1992 were limited to 160 characters. 3G networks from 2001 made it practical to check email and simple web pages. 4G LTE, starting in Stockholm and Oslo in December 2009, made smooth video streaming normal, and 5G from 2019 pushed speeds even higher. Each generation took about ten years and the work of thousands of engineers agreeing on shared standards so phones from different makers could all talk to each other.",
+        "Chips are the clearest example of all. Gordon Moore predicted in 1965 that the number of transistors on a chip would keep doubling roughly every couple of years. Doubling sounds modest, but repeat it again and again and the numbers explode. Apple's A11 chip of 2017 had about 4.3 billion transistors; its A17 Pro of 2023 had about 19 billion, more than four times as many in just six years. Compare that with the Apollo Guidance Computer that helped land astronauts on the Moon in 1969, which had only about 4 kilobytes of changeable memory, while a modern phone has billions of bytes.",
+        "Martin Cooper noticed the same pattern in radio. His observation, often called Cooper's Law, says that the number of conversations that can be carried over a given area of radio spectrum has doubled about every 30 months for many decades. Much of that came from making cells smaller and smarter, building on the 1947 idea from Bell Labs. Small, steady gains, kept up for a long time, beat a single big leap almost every time."
+      ]
+    },
+    {
+      "heading": "Brick Versus Brain: A Side-by-Side Test",
+      "paragraphs": [
+        "Let's put two phones side by side on a table: the Motorola DynaTAC 8000X from 1983 and a typical smartphone from the mid-2020s. This is where you can really see how many small improvements add up.",
+        "Weight first. The DynaTAC weighed about 790 grams (1.75 pounds) without its antenna, about the same as a large bottle of water. It stood about 25 centimeters (10 inches) tall, not counting its rubbery antenna. Many modern smartphones weigh about 170 to 230 grams, roughly a quarter as much, and they are thinner than a pencil.",
+        "Battery next. The DynaTAC offered about 30 minutes of talking, and recharging it fully on its standard charger took about 10 hours. A modern smartphone usually lasts a whole day of mixed use, including calls, music, maps, photos and videos, and many can charge to half full in around half an hour. That leap came from lithium-ion batteries, far more efficient chips and smarter software that switches parts off when they are not needed.",
+        "Now abilities. The DynaTAC could make and receive calls, and its little red LED display could recall about 30 stored phone numbers. That was it. No screen for words, no texting, no camera, no maps, no music, no internet. A modern smartphone is a phone, a camera that shoots high-quality video, a map that knows where you are to within a few meters, a music player, a games console, a flashlight, a bank card, a library, a translator and a link to billions of web pages. Inside it is a chip with billions of transistors; Apple's A17 Pro chip of 2023, for example, has about 19 billion.",
+        "Finally, price. The DynaTAC cost $3,995 in 1984, roughly $12,000 in today's money, so only rich people and businesses could afford one. Today a basic smartphone can cost under $100 and a top model often around $1,000, and the cheaper phones put most of the same basic abilities in the hands of billions of people.",
+        "And here is the most remarkable number of all: time. Martin Cooper's first public handheld call was in 1973. Fewer than forty years later, in the 2010s, billions of people were carrying smartphones. By 2019, about 1.5 billion new smartphones were being shipped worldwide every single year, and the International Telecommunication Union estimated that in 2024 about four out of five people aged 10 and over owned a mobile phone. Few inventions in history have spread so far, so fast."
+      ]
+    },
+    {
+      "heading": "Using Your Phone Wisely",
+      "paragraphs": [
+        "After twenty parts, it is fair to ask: is the smartphone a good thing or a bad thing? The honest answer is that it is a tool, and like any powerful tool it can be used well or badly.",
+        "On the good side, phones have done wonderful things. They let a grandparent see a grandchild's face from across an ocean. They help farmers check prices and weather, let people send money safely, guide lost travelers home and call for help from a mountainside. They let ordinary people record important events and share them with the world. They put a dictionary, an encyclopedia and countless lessons in the pocket of anyone with a connection. For people with disabilities, features like screen readers, voice control and live captions can open up the world.",
+        "On the other side, as Part 18 explained, there are real problems. Many apps are designed to keep you scrolling. Phones can interrupt sleep and homework, distract drivers and walkers, and expose people to bullying, scams and privacy risks. Making phones uses rare materials, some mined in difficult conditions, and old phones add to the world's mountain of e-waste. Scientists still debate how much smartphones affect mental health, and that debate is not settled yet.",
+        "So what does using a phone wisely look like? Here are a few ideas many families find helpful, without needing to believe anything scary. Keep phones out of the bedroom at night so your sleep gets the rest it needs. Turn off notifications you do not really need, so the phone works for you instead of the other way around. Never text or look at a screen while crossing a road or riding a bike. Think before you post, because things online can last a long time. Ask a trusted adult when something online feels wrong. And when your phone gets old, recycle it properly or pass it on instead of tossing it in the bin.",
+        "A good test is to ask yourself: am I choosing to use my phone right now, or is my phone choosing for me? The engineers in this story built an incredible machine. Using it well is up to us."
+      ]
+    },
+    {
+      "heading": "Your Turn to Invent",
+      "paragraphs": [
+        "Every person in this story started out as someone curious. Martin Cooper was an engineer who believed a phone should belong to a person, not a place. Neil Papworth was a young engineer testing a system when he typed 'Merry Christmas'. Jeff Hawkins carried a block of wood in his pocket to imagine a gadget that did not exist yet. Shigetaka Kurita drew tiny pictures on a 12 by 12 grid of dots. Sophie Wilson and Steve Furber designed a chip so efficient that its descendants now run in billions of phones. None of them could have known how far their ideas would travel.",
+        "So here is your final challenge. If you could reinvent one part of the smartphone, which would you choose? Maybe the battery, so it lasts a week and never wears out. Maybe the screen, so it is easier to read in bright sunshine, or kinder to tired eyes at night. Maybe the materials, so phones can be built without hard-to-mine metals and recycled completely. Maybe repair, so anyone could swap a broken part with a simple screwdriver. Maybe safety, so phones help protect kids from online strangers. Maybe accessibility, so people who cannot see, hear or move easily can use phones as easily as anyone. Or maybe something nobody has even thought of yet.",
+        "Good inventors usually start not with a gadget but with a problem. What annoys you about phones? What can they not do that you wish they could? Write it down. Sketch it. Ask how it might work. Find out who has tried before, and what went wrong. That is exactly what the people in this story did.",
+        "The smartphone went from a 36-kilogram radio in a car trunk to a supercomputer that talks to satellites in less than a single human lifetime, thanks to thousands of curious people adding one piece at a time. The next piece has not been added yet. Somewhere out there, maybe reading these very words, is the person who will add it. Maybe that person is you."
+      ]
+    }
+  ],
+  "deepDive": "How do historians measure a change as big as the smartphone? One way is to compare numbers at the start and end. The DynaTAC 8000X of 1983–84 weighed about 790 g, gave about 30 minutes of talk time after roughly 10 hours of charging, stored about 30 numbers on a red LED display and cost $3,995. A typical flagship of the mid-2020s weighs about 170–230 g, lasts about a day of mixed use, and contains a system-on-a-chip with tens of billions of transistors in some models. Global smartphone shipments reached about 1.5 billion in 2019, and the ITU estimated that about 80% of people aged 10 and over owned a mobile phone in 2024, although ownership was above 95% in high-income economies and only about 56% in low-income ones, a reminder that the revolution is still uneven. Historians of technology also warn against the 'lone genius' story. The smartphone is a textbook case of what scholars call combinatorial innovation: new products built by recombining existing components. Its parts trace back to Nobel Prize–winning science (radio in 1909, the transistor in 1956, the integrated circuit in 2000, the CCD in 2009 and the lithium-ion battery in 2019), to government-funded projects such as GPS and the NASA work that produced the CMOS image sensor, and to countless engineers in companies large and small. Disputes over credit are normal: Bell versus Gray and Meucci, rival walkie-talkie claims, IBM Simon versus later 'smartphones', and the patent wars between Apple and Samsung. Another debate concerns 'path dependence': choices made early, such as the GSM standard and SIM card in Europe or Japan's separate standards, shaped which companies thrived later. Economists also note that Martin Cooper's own observation, often called Cooper's Law, says the number of conversations that can be carried over a given area of radio spectrum has doubled about every 30 months for many decades, mostly thanks to smaller cells rather than new spectrum. Finally, honest history must weigh costs as well as benefits, from e-waste and mining to attention and privacy, and those debates are far from over.",
+  "funFact": "The first commercial handheld cellular phone, the DynaTAC 8000X, could store about 30 phone numbers, while a modern smartphone can hold tens of thousands of photos, songs and contacts.",
+  "check": {
+    "q": "About how long could the 1983 DynaTAC phone be used for talking on one charge?",
+    "a": "About 30 minutes",
+    "wrong": [
+      "About a full day",
+      "About one week",
+      "About 5 hours"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Motorola DynaTAC",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Motorola_DynaTAC"
+    },
+    {
+      "title": "Smartphone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Smartphone"
+    },
+    {
+      "title": "Mobile phone ownership (Facts and Figures 2024)",
+      "publisher": "International Telecommunication Union",
+      "url": "https://www.itu.int/itu-d/reports/statistics/2024/11/10/ff24-mobile-phone-ownership/"
+    },
+    {
+      "title": "Martin Cooper (inventor)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Martin_Cooper_(inventor)"
+    },
+    {
+      "title": "Lithium-ion battery",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lithium-ion_battery"
+    },
+    {
+      "title": "Nobel Prize in Physics",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nobel_Prize_in_Physics"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The Motorola DynaTAC 8000X 'brick' phone, ideally shown in a museum or next to a modern smartphone",
+      "search": "Motorola DynaTAC 8000X"
+    },
+    {
+      "want": "The IBM Simon Personal Communicator, the early touchscreen phone of 1994",
+      "search": "IBM Simon Personal Communicator"
+    },
+    {
+      "want": "A row or collection of mobile phones from different decades showing how phones changed over time",
+      "search": "evolution of mobile phones collection"
+    }
+  ]
+}

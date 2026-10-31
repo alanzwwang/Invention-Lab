@@ -1,0 +1,158 @@
+{
+  "n": 9,
+  "title": "Making It Turn",
+  "when": "1780 – 1790s",
+  "summary": "Early steam engines could only nod up and down, like a giant pumping handle. James Watt and his clever helper William Murdoch found ways to make engines spin wheels, keep a steady speed and even measure their strength in 'horsepower'. Soon a steam engine was grinding flour in the middle of London!",
+  "sections": [
+    {
+      "heading": "A Pump That Wanted to Be a Wheel",
+      "paragraphs": [
+        "By the late 1770s, Boulton & Watt engines were thumping away at mines all over Britain. Each one did the same basic job: a big beam rocked up and down, and a long rod hanging from the end of the beam worked a pump deep underground. Up, down. Up, down. It was a brilliant way to lift water, and that was exactly what the mines needed.",
+        "But the rest of the country wanted something else. Walk into a flour mill, a cotton mill, an ironworks or a brewery in the 1770s and you would see wheels everywhere. Millstones turned round and round to grind grain. Spindles whirled to twist cotton into thread. Grinding wheels, rollers, bellows and hammers were all driven by shafts that spun. Almost every kind of factory machine needed rotary motion, which simply means motion that goes round and round, not back and forth.",
+        "Where did that turning motion come from? Mostly from waterwheels, and sometimes from horses walking in circles or from windmills. A waterwheel turns on its own, which is wonderful, but it has to sit beside a fast river, and in a dry summer or a frozen winter it may slow down or stop. Factory owners dreamed of a power source they could put anywhere and that would never run out of river.",
+        "There was a clumsy way to get round the problem, and some people really did it. You could use a steam pumping engine to lift water up into a high tank or pond, then let that water pour back down over an ordinary waterwheel. The engine pumped, the wheel turned, and the machinery ran. It worked, but think about how wasteful it is: you burn coal to lift water just so the water can fall again. A lot of the energy leaks away in between, and you need a pond, a wheel and an engine instead of just one machine.",
+        "Matthew Boulton, Watt's business partner, could see the size of the opportunity. Mines were a big market, but the mills and workshops of Britain were enormous. In 1781 he is often quoted as writing to Watt that the people of London, Manchester and Birmingham were 'steam mill mad', meaning that everyone wanted engines to turn their machinery. If Watt could make his engine spin a shaft smoothly and reliably, Boulton & Watt could sell engines to almost every industry in the land.",
+        "So the challenge was clear. How do you turn the up-and-down nodding of a beam into the steady round-and-round turning of a wheel? The answer seems obvious to us now, because we see it every time someone rides a bicycle. But in 1780 it led to a patent puzzle, a clever escape, and a whole series of inventions that changed what steam engines could do."
+      ]
+    },
+    {
+      "heading": "The Crank That Got Away",
+      "paragraphs": [
+        "Think about pedalling a bicycle. Your legs push up and down, but the pedals go round in a circle. The bent arm that joins the pedal to the axle is called a crank. A crank is one of the oldest tricks in engineering: people had used cranks for centuries on hand-turned grindstones, spinning wheels and pumps. Attach a rod from the end of an engine beam to a crank on a shaft, and every swing of the beam turns the shaft round.",
+        "There is one catch. At the very top and the very bottom of each stroke, the rod is pushing straight along the crank arm, so it cannot turn it at all. Engineers call these the dead centres. A cyclist gets past them because the other leg is pushing. An engine gets past them with a flywheel: a heavy wheel on the same shaft that keeps spinning by its own momentum, carrying the crank through the weak points and smoothing out the jerky pushes into a steady turn.",
+        "In 1780 a Birmingham button maker named James Pickard took out a patent for using a crank, together with a flywheel, to turn a shaft from a steam engine. A patent is a government grant that gives an inventor the right to stop other people using an invention for a set number of years unless they pay. Pickard's engine was a Newcomen-style atmospheric engine, but his patent meant that, in practice, nobody in Britain could freely use a crank on a steam engine for the next several years.",
+        "Watt was furious. He believed that the idea of using a crank had been his first, or at least that it was common knowledge that should never have been patented. A story told by Watt and his circle says that one of the workmen at Soho chatted about Watt's crank plans in a local tavern, and that the idea reached Pickard that way. Historians cannot prove this, and Pickard may well have reached the idea on his own, since cranks were hardly a secret. What is certain is that Watt did not want to pay Pickard for a licence, and Pickard's side reportedly wanted access to Watt's own valuable patent in return.",
+        "Watt also had a real engineering worry. An atmospheric or single-acting engine pushes hard on one stroke and only drifts back on the other. Feeding that lopsided push into a crank gives a very uneven turn, and Watt was not sure a flywheel could fully smooth it out. So, partly out of pride, partly out of caution and partly out of patent law, he set out to find another way to make his engine turn."
+      ]
+    },
+    {
+      "heading": "Sun, Planet and William Murdoch",
+      "paragraphs": [
+        "Watt sketched several ways of getting rotary motion without a crank. The one that won was the sun-and-planet gear, and much of the credit for it belongs to a young Scottish engineer called William Murdoch. Murdoch had walked, according to a well-known tale, all the way from Scotland to Birmingham in 1777 to ask for a job at Soho. Boulton & Watt hired him, and he soon became their most trusted engine erector, especially in Cornwall, where he set up and repaired engines at the mines.",
+        "Here is how the sun-and-planet gear works. Picture two toothed gear wheels. The sun gear is fixed firmly to the shaft you want to turn, the one that will drive the mill. The planet gear is fixed solidly to the bottom end of the long connecting rod that hangs from the engine beam, so it cannot spin on its own. As the beam rocks, the rod moves the planet gear up and down, and a link keeps it meshed with the sun gear. The planet is forced to travel around the outside of the sun, like a planet orbiting a star, and as its teeth roll around the sun's teeth, it pushes the sun gear round.",
+        "The clever part, as far as the law was concerned, was that the planet gear was not a crank. The force went through the meshing teeth, not through a bent arm on the shaft. The little link that held the gears together carried no driving force at all. So Pickard's crank patent did not apply. Watt patented the sun-and-planet gear in October 1781, along with several other ways of producing rotation.",
+        "There was also a bonus. When the sun and planet gears have the same number of teeth, the shaft turns twice for every complete up-and-down cycle of the beam, instead of once as it would with a simple crank. That doubled the speed of the output shaft without any extra gearing, which was handy for driving fast mill machinery.",
+        "Engines with this gear are called rotative engines. One of the earliest survivors is the Whitbread Engine, built in 1785 for Samuel Whitbread's brewery in London, where it crushed malt and pumped beer and water around the brewery. It is the oldest rotative steam engine still in existence, and today it stands in the Powerhouse Museum in Sydney, Australia, a very long way from the brewery where it first turned.",
+        "The sun-and-planet gear was a workaround, and when Pickard's crank patent expired in the 1790s, Boulton & Watt quietly switched to the simpler crank. But for about a decade the gear allowed Watt's engines to break out of the mines and into the mills. Murdoch, who went on to pioneer gas lighting, is a good reminder that famous names often stand on the work of less famous helpers."
+      ]
+    },
+    {
+      "heading": "Pushing Both Ways",
+      "paragraphs": [
+        "Even with a sun-and-planet gear, Watt's early engines had a weakness. They were single-acting. Steam (or rather, the vacuum left when steam condensed) did work on only one stroke of the piston. On the return stroke, the piston was simply pulled back by the weight of the pump rods or by a counterweight. That is fine for pumping, which naturally works on one stroke, but it gives a lumpy, uneven push to a turning shaft: a strong shove, then a lazy coast, then a strong shove again.",
+        "Watt's answer, patented in 1782, was the double-acting engine. The idea is easy to say and harder to build. Close both ends of the cylinder. Let steam into the top while the bottom is connected to the condenser, and the piston is driven down. Then swap: let steam into the bottom while the top is connected to the condenser, and the piston is driven up. Now the piston does useful work in both directions, and the engine gives roughly twice the power from a cylinder of the same size.",
+        "To make this happen, the engine needed a set of valves that opened and closed at exactly the right moments, worked automatically by rods linked to the moving parts of the engine. Steam had to go in at one end and out to the condenser at the other end, and then reverse, again and again, perhaps twenty or more times a minute. It was a small mechanical dance, and the engine itself was the dancer and the drummer at the same time.",
+        "In the same 1782 patent, Watt described another money-saving trick: expansive working. Instead of letting steam flow into the cylinder for the whole stroke, you shut off the steam part of the way through, for example halfway. The steam already inside keeps expanding and keeps pushing the piston, getting weaker as it spreads out. You get a bit less push from each stroke, but you use much less steam, and so much less coal. Watt was cautious and used only modest expansion, partly because it made the force on the piston uneven, but the idea would become very important in later high-pressure engines.",
+        "Double-acting engines brought a new problem, though. The old beam engines joined the piston rod to the beam with a chain that wrapped around an arch-shaped end of the beam. A chain is fine when the piston only pulls the beam down. But in a double-acting engine, the piston must also push the beam up, and you cannot push with a chain. Try pushing a door open with a piece of string and you will see the problem. Watt needed a stiff connection that could both push and pull."
+      ]
+    },
+    {
+      "heading": "The Linkage Watt Loved Most",
+      "paragraphs": [
+        "Here is the puzzle Watt faced. The piston rod must move in a perfectly straight line, up and down through the top of the cylinder, or it will bend, jam and let steam leak out around its seal. But the end of the beam does not move in a straight line. It swings in an arc, a curved path, because the beam pivots around its middle like a seesaw. How do you join something that moves in a straight line to something that moves in a curve, using stiff rods that can push as well as pull?",
+        "Watt's answer, described in his patent of 1784, was a clever arrangement of hinged bars now often called Watt's linkage, and a related, slightly later version known as parallel motion. In the simplest form, there are three bars joined in a chain. The two outer bars are the same length and pivot on fixed points; the short middle bar connects them. When the outer bars swing, they swing in opposite curves, and the curves cancel each other out at the middle. A point in the centre of the short bar moves up and down in a line that is almost perfectly straight.",
+        "It is not exactly straight. If you let the linkage swing very far, the middle point traces a stretched figure-of-eight. But over the range that an engine actually uses, the path is so close to straight that the piston rod slides smoothly in its seal. Watt added extra bars arranged like a pantograph, a drawing tool that copies shapes at a different size, so that the straight-line point could be placed exactly where the piston rod needed it, while the whole thing stayed compact on top of the engine.",
+        "Watt was delighted. In a letter to Boulton in June 1784, he called it 'one of the most ingenious simple pieces of mechanics I have invented'. Years later, according to a well-known account, he told his son that he was prouder of the parallel motion than of any of his other mechanical inventions. That is striking, because many people would say the separate condenser was far more important. But engineers love an elegant solution, and this was one: a few bars and pins solving a geometry problem that had no obvious answer.",
+        "Parallel motion appeared on beam engines for the next century. If you visit a museum with a working beam engine, look at the top of the piston rod and you will see the bars waving gently as the beam rocks. And the idea has not disappeared. A version of Watt's linkage is still used today in the rear suspension of some cars, to keep an axle moving up and down in a straight line over bumps without sliding sideways."
+      ]
+    },
+    {
+      "heading": "Flying Balls Keep the Speed Steady",
+      "paragraphs": [
+        "Once steam engines started driving mills, a new problem appeared: speed. Imagine a flour mill where an engine turns twenty pairs of millstones. If the miller lifts some stones out of work, the engine suddenly has less to do, and it speeds up. If more stones are added, it slows down. In a cotton mill, threads could snap if machines raced, and cloth could be spoiled. An engine needed something to keep its speed steady even when the load changed.",
+        "The solution was borrowed from windmills. Millers had long used a device with spinning weights to help control the gap between millstones as the wind rose and fell. In 1788, after a suggestion from Boulton, Watt adapted the idea for steam engines. The result is called the centrifugal governor, or sometimes the flyball governor, and it became one of the most recognisable symbols of the steam age.",
+        "Here is how it works. A vertical spindle is turned by the engine, so it spins faster when the engine runs faster. Hanging from the top of the spindle are two heavy metal balls on hinged arms. When the spindle spins, the balls swing outwards, just as you feel pushed outwards on a fast playground roundabout. The faster the spin, the further out and higher the balls fly. The arms are linked to a sliding collar, and the collar is linked by rods to a valve in the steam pipe, called the throttle.",
+        "If the engine speeds up, the balls rise, and the linkage closes the throttle a little, letting less steam into the cylinder, so the engine slows. If the engine slows down, the balls drop, the throttle opens a little, more steam flows in, and the engine speeds up again. Nobody has to stand by the valve and watch. The machine corrects itself, over and over, many times a minute.",
+        "This is an early, famous example of what engineers now call feedback control: a system that measures what it is doing and uses that measurement to adjust itself. Your home's heating thermostat, a car's cruise control and the autopilot of an aircraft all use the same basic idea. Watt's simple governor was not perfect. It held the speed within a range rather than at an exact number, and under some conditions it could make an engine 'hunt', speeding up and slowing down in a wobbly rhythm. In 1868 the great Scottish physicist James Clerk Maxwell wrote a paper called 'On Governors', using mathematics to explain when such devices are stable. Many people see that paper as one of the starting points of the modern science of control."
+      ]
+    },
+    {
+      "heading": "Inventing Horsepower",
+      "paragraphs": [
+        "Selling a rotative engine raised a very practical question. If a brewer or a mill owner wanted to replace the horses that turned his machinery, how big an engine should he buy? Customers did not think in terms of steam or coal. They thought in terms of horses. So Watt decided to describe his engines in horses too.",
+        "He studied horses at work turning mill gear. By one account he estimated that a mill horse walking round a circular path about 24 feet across (a wheel with a radius of 12 feet), going round about 144 times an hour, pulled with a force of about 180 pounds. Multiplying those numbers out gives about 32,500 foot-pounds of work each minute. A foot-pound is the work done in lifting one pound through a height of one foot. Rounding up generously, Watt and Boulton fixed one horsepower at 33,000 foot-pounds per minute. That is the same as lifting 550 pounds (about 250 kilograms) by one foot (about 30 centimetres) in one second.",
+        "Was this a fair measure of a horse? Not exactly. A strong horse can produce well over one horsepower for a short burst, but a typical working horse kept up for a whole day does less. Watt's number was a convenient, slightly generous standard rather than a description of any real horse's day. Some historians think the generosity was deliberate: if a customer bought a '10-horse' engine and found it did more than ten horses' work, he would be pleased, not disappointed.",
+        "The horsepower unit spread far beyond Watt's own business. It was used to rate steam engines, then gas and petrol engines, and today car adverts still boast about it. One horsepower in Watt's sense is about 746 watts. There is also a slightly smaller 'metric horsepower', about 735.5 watts, based on lifting 75 kilograms by one metre in one second, which is still used in some countries for cars.",
+        "And that word 'watt' is itself a tribute. In 1882 the engineer William Siemens, speaking as president of the British Association for the Advancement of Science, proposed naming the unit of power after James Watt, and the name was soon taken up. In 1960 it became part of the international system of units (SI). One watt is one joule of energy per second. Every time you read '60 W' on a light bulb or '2,000 W' on a kettle, you are using Watt's name, more than a century after his death in 1819."
+      ]
+    },
+    {
+      "heading": "The Albion Mill: A Steam Showpiece on the Thames",
+      "paragraphs": [
+        "Boulton loved a grand demonstration, and in the 1780s he planned one in the heart of London. On the south bank of the River Thames, at the Southwark end of Blackfriars Bridge, rose the Albion Mill, a huge flour mill driven not by water or wind but entirely by steam. Planning started around 1783, and the mill began working in 1786. The young engineer John Rennie, who later became famous for building bridges, designed much of its machinery, using iron gearing where older mills had used wood.",
+        "The mill was powered by a Boulton & Watt rotative, double-acting engine of about 50 horsepower, and by 1789 a second engine had been added. They drove 20 pairs of millstones, grinding wheat into flour day and night. The engines' governors kept the stones turning at an even speed. Visitors came to marvel at it. For a while it was one of the sights of London, a working advertisement that said: steam can turn the wheels of any industry, right in the middle of a city, nowhere near a fast river.",
+        "It was also a business, and it produced a great deal of flour. By some accounts, in 1790 it was selling more than 6,000 pounds' worth of flour every week. Not everyone was pleased. Traditional millers, who used wind and water, feared they would be put out of business by this giant, and many ordinary Londoners worried that big companies would control the price of bread.",
+        "Then, on 2 March 1791, disaster struck. Fire broke out in the mill and spread through the building in a couple of hours, leaving a gutted shell. The official explanation pointed to an overheated bearing, a moving part that had not been greased properly, but many people at the time suspected that someone had set the fire deliberately. Crowds reportedly watched from the bridges, and some local millers were said to have celebrated. More than 500 people lost their jobs, and the owners, including Boulton and Watt, lost a great deal of money.",
+        "The blackened ruin stood beside the Thames for years. Some writers have suggested that it was in the mind of the poet William Blake, who lived nearby in Lambeth, when he later wrote of 'dark Satanic Mills'. Nobody can be sure exactly what Blake meant, but the image of the burned-out steam mill is a powerful one. Even though the Albion Mill failed, it had proved its point. A steam engine could now grind, spin, roll, hammer and pump. In the next decades, rotative engines would spread into cotton mills, ironworks, breweries and potteries across Britain and beyond.",
+        "So far we have followed the story of steam through the people who built it and the machines they made. But what is really happening inside that cylinder? Why does boiling water push so hard, why does a cold spray make a vacuum, and where does all the energy from the coal go? It is time to pause the history and open up a steam engine, step by step, to see exactly how it works."
+      ]
+    }
+  ],
+  "deepDive": "Historians of technology often describe the 1780s as the decade when Watt's engine changed from a pump into a 'prime mover', a general-purpose source of power. Four inventions did most of the work. The sun-and-planet gear (patented October 1781, largely Murdoch's design) gave rotation while sidestepping James Pickard's 1780 crank-and-flywheel patent; whether Pickard truly copied Watt is unproven, and cranks were long-established, which is why many historians doubt such a patent should have been granted at all. The double-acting principle and expansive working (patent of 1782) roughly doubled power per cylinder and saved steam. Watt's own figures suggest expansion was used cautiously: cutting off steam at half-stroke raised the theoretical efficiency only modestly, from around 6 percent to about 10 percent, and real engines achieved less. Parallel motion (patent of 1784) is a neat piece of kinematics: the mid-point of Watt's three-bar linkage traces part of a lemniscate-like curve that is nearly straight over a short range, good enough to guide a piston rod through its packing. The centrifugal governor (1788) was adapted from millwrights' practice, so Watt deserves credit for its application rather than its invention. It was proportional control only, so the steady speed depended on the load, and it could oscillate; Maxwell's 1868 paper 'On Governors' analysed such behaviour and is often cited as a founding text of control theory. Horsepower is a marketing unit with a physical definition: 33,000 foot-pounds per minute, equal to about 745.7 watts. Watt's mill-horse estimate gave roughly 32,400 to 32,600 foot-pounds per minute, and the round number gave buyers a little extra. Finally, it is worth remembering how slowly all this spread. By 1800 Boulton & Watt had built a few hundred rotative engines, but waterwheels still supplied most of Britain's factory power for decades, and the Albion Mill's spectacular failure shows that new technology also brought new risks and resentments.",
+  "funFact": "Because the sun-and-planet gear makes the drive shaft turn twice for every single rocking cycle of the beam, Watt's early mill engines got a free speed boost just from avoiding someone else's patent.",
+  "check": {
+    "q": "What did Watt's centrifugal governor do?",
+    "a": "It automatically kept the engine's speed steady by using spinning balls to open or close the steam valve",
+    "wrong": [
+      "It turned the up-and-down motion of the beam into rotation",
+      "It measured how many horses an engine could replace",
+      "It let steam push the piston in both directions"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Sun and planet gear",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sun_and_planet_gear"
+    },
+    {
+      "title": "Watt steam engine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Watt_steam_engine"
+    },
+    {
+      "title": "Watt's linkage",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Watt%27s_linkage"
+    },
+    {
+      "title": "Centrifugal governor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Centrifugal_governor"
+    },
+    {
+      "title": "Horsepower",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Horsepower"
+    },
+    {
+      "title": "Watt (unit)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Watt_(unit)"
+    },
+    {
+      "title": "Albion Mills, Southwark",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Albion_Mills,_Southwark"
+    },
+    {
+      "title": "Whitbread Engine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Whitbread_Engine"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Diagram or model of a Boulton and Watt rotative beam engine showing the sun-and-planet gear and flywheel",
+      "search": "sun and planet gear Watt engine"
+    },
+    {
+      "want": "A brass centrifugal flyball governor from a steam engine, with its two spinning balls",
+      "search": "centrifugal governor steam engine flyball"
+    },
+    {
+      "want": "Period engraving of the Albion Mills on the Thames near Blackfriars Bridge, or of the 1791 fire",
+      "search": "Albion Mills Blackfriars fire 1791"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "n": 9,
+  "title": "How a Wing Really Works",
+  "when": "Science explainer",
+  "summary": "A wing is a clever tool for shoving air downward, and when it pushes air down, the air pushes the plane up. In this part you will find out why fast planes need long runways, what a stall really is, and how to test wings yourself with paper and a little breath.",
+  "sections": [
+    {
+      "heading": "A Tug-of-War in Four Directions",
+      "paragraphs": [
+        "Picture a jumbo jet sitting at the end of a runway. Fully loaded with passengers, bags and fuel, a big Boeing 747 can weigh around 400 tonnes. That is about as heavy as 60 or 70 African elephants. In a minute or so, that whole enormous machine will be climbing into the sky, held up by nothing you can see. How?",
+        "Back in Part 3 you met Sir George Cayley, who first sorted out the four forces that act on every airplane. Now it is time to look at them properly, because once you understand these four, almost everything else about flying makes sense.",
+        "The first force is weight. Weight is the pull of gravity, dragging the plane down toward the centre of the Earth. It includes everything on board: the metal of the plane itself, the people, the suitcases, the snacks and, very importantly, the fuel. A long-haul airliner can burn more than 100 tonnes of fuel on a single trip, so it gets lighter and lighter as the flight goes on.",
+        "The second force is lift. Lift is the upward push that the wings make as air flows around them. Lift is the force that fights weight. Scientists define lift as the part of the air's push that acts at right angles (perpendicular) to the direction the plane is moving through the air. In normal level flight that means straight up, but it is worth remembering that lift is not magic 'up-force'. If a plane tilts its wings, the lift tilts too.",
+        "The third force is thrust. Thrust is the forward push from the propellers or jet engines. The pilot controls it with the throttle: more throttle, more thrust.",
+        "The fourth force is drag. Drag is air resistance, the force that tries to slow the plane down. You feel drag when you stick your arm out while riding a bike fast, or when you try to run into a strong wind. Drag depends on the plane's shape, on how big it is, and very strongly on how fast it is going.",
+        "Here is the part that surprises many people. When a plane is cruising along steadily, at the same height and the same speed, the forces are balanced: lift exactly equals weight, and thrust exactly equals drag. A cruising airliner is not 'winning' against gravity. It is in a perfect tie. Isaac Newton's first law says that an object with balanced forces keeps doing what it was already doing. So a plane already moving at 900 kilometres per hour just keeps moving at 900 kilometres per hour, as long as the engines keep replacing the energy that drag steals.",
+        "Things only change when the forces become unbalanced. If thrust is bigger than drag, the plane speeds up. If drag is bigger, it slows down. If lift is bigger than weight, the plane curves upward. If weight wins, the plane sinks.",
+        "And what about a glider, which has no engine at all? A glider is always gently sliding downhill through the air, a bit like a bicycle coasting down a long slope. Part of its weight acts like a forward push, taking the place of thrust. To stay up for hours, glider pilots look for rising air, such as warm bubbles of air called thermals, or wind that is pushed upward by a ridge. Otto Lilienthal, whom you met in Part 5, used exactly this idea on his hills near Berlin."
+      ]
+    },
+    {
+      "heading": "The Wing Is a Machine for Pushing Air Down",
+      "paragraphs": [
+        "If you could slice an airplane wing in half from front to back and look at the cut end, you would see a special shape called an airfoil. It is rounded and thick at the front, called the leading edge, and thin and sharp at the back, called the trailing edge. On most wings the top is more curved than the bottom. That curve is called camber, and the Wright brothers spent weeks in their wind tunnel (Part 7) finding the best amount of it.",
+        "Now picture the wing moving through the air. The wing usually meets the oncoming air at a slight tilt, with its front edge a little higher than its back edge. The angle between the wing and the oncoming air is called the angle of attack. For an airliner cruising high up, the angle of attack might be just a few degrees, so small you would hardly notice it.",
+        "Here is the key idea. As air flows past this tilted, curved wing, the wing bends the flow. Air that passes over the top follows the curved surface and leaves the trailing edge heading slightly downward. Air underneath is deflected downward too. Behind every flying wing, a huge amount of air is moving down. Scientists call this downward-moving air the downwash.",
+        "Remember Isaac Newton's third law: for every action there is an equal and opposite reaction. When you push off from the side of a swimming pool, the wall pushes you away. When a rocket blasts gas downward, the gas pushes the rocket up. In the same way, when a wing pushes a great mass of air downward, the air pushes the wing upward. That upward push is lift.",
+        "It helps to think about how much air we are talking about. A wing does not just nudge a thin layer of air near its surface. It affects a big region of air above and below it, stretching out for a distance about as large as the wing itself. A jumbo jet in flight is constantly throwing many tonnes of air downward every single second. If you have ever watched a helicopter land on grass, you have seen the same idea very clearly: the grass flattens in a circle because the spinning blades, which are really long thin wings, are hurling air down.",
+        "Angle of attack is one of the most important ideas in all of flying. Tilt the wing up a little more and it turns the air down more steeply, so it makes more lift. Tilt it down and it makes less. At small angles, the lift grows roughly in step with the angle: double a small angle of attack and you get about double the lift. Pilots change the angle of attack all the time by raising or lowering the nose with the elevator, which you will meet properly in Part 12.",
+        "This also explains a puzzle. If wings need a special curved shape to work, how do paper airplanes fly with completely flat wings? The answer is that a flat wing can still make lift if it meets the air at an angle. A tilted flat board turns the air downward too. It just does the job less efficiently than a well-shaped airfoil, making more drag for the same lift. A curved airfoil is like a better-designed tool, not a totally different trick."
+      ]
+    },
+    {
+      "heading": "Pressure: The Other Half of the Story",
+      "paragraphs": [
+        "Ask a second scientist how a wing works and you might hear a different explanation. 'It's all about pressure,' they might say. 'The air pressure above the wing is lower than the air pressure below it, so the wing is pushed upward.' Are they disagreeing with Newton? Not at all. They are describing exactly the same flow of air from a different point of view.",
+        "First, what is air pressure? Air is made of trillions upon trillions of tiny molecules zooming around and bumping into everything. Every bump is a tiny push. Added together, all those pushes on a surface make pressure. At sea level, the air presses on every square metre of you with a force equal to the weight of about 10 tonnes. You do not get squashed because the air inside your body pushes back just as hard, and because the pressure comes from every direction at once.",
+        "Around a flying wing, the pressure is not the same everywhere. Over the curved top surface, the pressure drops below normal. Under the bottom surface, it is usually a little above normal. The air is pushing up on the bottom harder than it is pushing down on the top. Add up all those pushes over the whole wing, and the result is lift.",
+        "In the year 1738, a Swiss mathematician and physicist named Daniel Bernoulli published a book called Hydrodynamica about how fluids such as water and air move. In it he showed that where a fluid flows faster, its pressure is lower, and where it flows slower, its pressure is higher. This idea is called Bernoulli's principle. Around a wing, the air over the top really does speed up a lot, and its pressure really does drop. So Bernoulli's principle correctly describes what is going on.",
+        "How big is the pressure difference? Surprisingly small, compared with the air's normal pressure. Here is a rough calculation. A big 747 has a wing area of roughly 525 square metres. If it weighs about 400 tonnes, each square metre of wing has to hold up roughly 750 kilograms. That works out to a pressure difference of only about 7 per cent of normal sea-level air pressure. A tiny difference, spread over a huge area, can hold up something as heavy as a building.",
+        "So which explanation is right: Newton's 'the wing pushes air down' or Bernoulli's 'lower pressure on top'? The honest answer is both. They are not rival theories. The wing can only push air downward by creating these pressure differences, and the pressure differences exist because the air is being curved and turned by the wing. One cannot happen without the other. They are like two descriptions of a football match, one from a player on the pitch and one from a commentator high in the stands. Both are describing the same game."
+      ]
+    },
+    {
+      "heading": "The Famous Explanation That Is Wrong",
+      "paragraphs": [
+        "If you look up 'how do wings work' in an old school textbook, you might find an explanation that goes like this. The top of the wing is curved, so it is longer than the flat bottom. Two little bits of air split apart at the front of the wing, one going over the top and one going underneath. They must meet up again at the back at exactly the same moment. Because the top path is longer, the air on top must go faster to keep up. Faster air means lower pressure, and so the wing is lifted.",
+        "It sounds neat and tidy. It has been printed in countless books and repeated in many classrooms. But it is wrong. Scientists call it the 'equal transit time' explanation, or sometimes the 'longer path' explanation, and they have been trying to get rid of it for years.",
+        "The first problem is simple: there is no rule of nature that says the two bits of air have to meet again. Air molecules are not friends who promised to hold hands at the back of the wing. When scientists actually film air flowing around a wing in a wind tunnel, using puffs of smoke released at the same instant above and below the wing, they see something striking. The air going over the top does not just keep up with the air underneath. It arrives at the back much earlier. It goes far faster than the 'equal time' idea predicts.",
+        "The second problem is that the numbers do not add up. On a typical wing, the top surface is only a few per cent longer than the bottom. If that small difference were the whole story, the air on top would only speed up a tiny bit, and the wing would make only a small fraction of the lift that real wings make. Real airplanes would never get off the ground.",
+        "The third problem is that the explanation cannot cope with all sorts of things that actually fly. Paper airplanes have flat wings with the same length on top and bottom, and they fly. Many stunt planes use symmetric wings that are curved the same amount on top and bottom, and they fly perfectly well. And aerobatic pilots regularly fly upside down. If lift came only from a longer curved top surface, an upside-down plane would be pushed toward the ground. Instead, the pilot simply tilts the nose so that the upside-down wing meets the air at a suitable angle of attack, and the wing turns the air downward again.",
+        "So remember the true version: what matters most is the shape of the wing together with its angle of attack, which make the wing bend the airflow downward. The air over the top does speed up and the pressure there does drop, just as Bernoulli said. But it speeds up because of the way the wing turns the flow, not because of any promise to meet its partner at the trailing edge."
+      ]
+    },
+    {
+      "heading": "Stall: When a Wing Gives Up",
+      "paragraphs": [
+        "Since tilting a wing up makes more lift, you might wonder why pilots do not just point the nose sharply upward whenever they want lots of lift. The answer is a dangerous effect called a stall.",
+        "Air flowing over the top of a wing is a little like a crowd of people following a curving path. As long as the curve is gentle, everyone keeps to the path. But if the path suddenly turns too sharply, people near the edge cannot follow it and spill off to the side. The air over a wing behaves in a similar way. At small and medium angles of attack, it hugs the curved top surface smoothly all the way to the trailing edge. But as the angle gets steeper and steeper, the air can no longer follow the curve. It breaks away from the top of the wing, starting near the back and creeping forward. Behind the point where it breaks away, the air tumbles around in messy swirls. Scientists call this breaking away flow separation.",
+        "When the flow separates, the wing stops turning the air smoothly downward, and lift drops suddenly. Drag shoots up at the same time. That sudden loss of lift is a stall. For most wings, it happens at an angle of attack of roughly 15 degrees (usually somewhere between about 8 and 20 degrees), although the exact angle depends on the wing's shape and surface and on the speed and size of the wing.",
+        "There is one very important thing to understand about the word 'stall'. In a car, 'stalling' means the engine stops. In flying, it means something completely different. An airplane stall has nothing to do with the engine. A plane with all its engines roaring at full power can still stall if its wings meet the air at too steep an angle. Gliders, which have no engine at all, can stall too. A stall is all about the wing and the airflow.",
+        "Why does a stall happen at low speed? Remember that lift depends both on angle of attack and on speed. When a plane flies slowly, its wings meet less air each second, so the pilot must raise the nose to a bigger angle of attack to keep enough lift to match the weight. Slow down enough and that angle reaches the critical angle, and the wing stalls. The slowest speed at which a plane can fly level without stalling is called its stall speed. Stall speed goes up when the plane is heavier, and it also goes up in steep turns, because the wings have to work harder to pull the plane around the curve.",
+        "Stalls were a serious danger in the early days of flying. Many pioneers were hurt in stalls close to the ground; Otto Lilienthal's fatal crash, which you read about in Part 5, is usually blamed on a stall. Today, pilots train carefully to recognise the warning signs, such as the plane starting to shake or feel mushy, and they practise recovering high in the sky where there is lots of room. The cure is simple but goes against instinct: lower the nose to reduce the angle of attack, so the air can flow smoothly over the wing again, and add power. A properly handled stall in a small training plane usually costs only a few tens of metres of height.",
+        "Modern airplanes also have warning gadgets. Small planes often have a stall warning horn that beeps or wails as the wing nears the critical angle. Many airliners have a 'stick shaker' that rattles the pilot's controls, impossible to ignore, and computers that help keep the plane away from stalling angles. Some wings even have small fins on top called vortex generators, which stir the air near the surface so it clings to the wing a little longer."
+      ]
+    },
+    {
+      "heading": "Speed Squared: Why Big Jets Need Long Runways",
+      "paragraphs": [
+        "Here is one of the most useful facts in all of aviation: lift grows with the square of speed. 'Square' means a number multiplied by itself. If you double the speed of a wing, the lift does not just double. It goes up by about two times two, which is four times. Triple the speed and you get about three times three, or nine times the lift, as long as the angle of attack stays the same.",
+        "Why the square? When a wing moves faster, two things happen at once. It meets more air every second, and it hits that air harder. Twice as much air, each bit turned down twice as hard, gives roughly four times the push. Drag follows the same kind of rule, which is why a strong wind feels so much fiercer than a breeze only half as fast.",
+        "This rule explains runways. A plane cannot take off until its wings are making enough lift to match its weight. A small two-seat training plane like a Cessna 150 is light and has big wings for its weight, so it can lift off at only about 100 kilometres per hour, after a run of a few hundred metres. A big airliner is far heavier for its wing size, so it must go much faster before it can fly. Jetliners typically take off at roughly 240 to 290 kilometres per hour. Reaching that speed takes a long run, which is why big international airports have runways 3 or even 4 kilometres long.",
+        "Other things matter too. A heavier plane needs a higher takeoff speed and a longer run, so a jet packed with fuel for a very long flight needs more runway than the same jet on a short hop. Hot air is thinner than cold air, and the air high in the mountains is thinner than air near the sea, so airports in hot, high places need extra-long runways. A headwind helps, because the wings are already meeting moving air before the plane even starts rolling. That is why planes almost always take off and land facing into the wind.",
+        "Landing has the same problem in reverse. Pilots want to touch down as slowly as possible, so the plane is easier to stop and safer if something goes wrong. But flying slowly means a big angle of attack and the risk of a stall. The clever solution is to change the shape of the wing.",
+        "If you have ever sat by the window in an airliner, you may have seen the wing seem to unfold before landing. Large panels called flaps slide out from the back of the wing and tilt downward. Flaps make the wing more curved and, on many planes, larger too, so it can make enough lift at a lower speed. One famous type, the Fowler flap, invented by the American engineer Harlan Fowler in 1924, slides backward before it tilts down, adding both area and curve. Along the front edge, many airliners also have slats, which move forward and open a narrow slot. The slot lets fast air flow from under the wing to the top, helping the airflow cling to the curved upper surface so the wing can reach a bigger angle of attack before it stalls.",
+        "With flaps and slats out, an airliner's wing can make up to roughly twice as much lift before stalling as the clean wing alone. The cost is extra drag, which is useful for slowing down to land but wasteful in cruise. So after takeoff, the pilots tuck the flaps and slats away again, and the wing goes back to its slim, fast shape. A modern airliner wing is really a shape-changing machine."
+      ]
+    },
+    {
+      "heading": "Be a Wing Scientist: Experiments to Try",
+      "paragraphs": [
+        "Experiment 1: the paper airplane test. Fold a simple dart-shaped paper airplane and throw it gently, level, across a room or hallway. Then make small changes, one at a time, and test each change several times. Bend the back edges of both wings up a few millimetres, like tiny elevators, and see if the nose rises. Bend them down instead. Add a paper clip to the nose to move the weight forward. Try bigger wings and narrower wings. Keep a notebook of what happens. This is exactly the method the Wrights used: change one thing, test it, write it down. You may notice that if the nose points up too steeply, the plane suddenly drops or wobbles. That is a tiny stall.",
+        "Experiment 2: the hand out of the window. This one needs an adult driver, a quiet road and slow speeds, and you must never put your arm out near traffic, poles, hedges or other cars. If an adult says it is safe, sit in the back seat and hold your flat hand just outside the open window, fingers together, palm facing down, like a wing. Tilt the front of your hand up very slightly. You will feel your hand rise. You have just given your 'wing' a positive angle of attack. Tilt it down and your hand is pushed down. Now tilt it up very steeply, and you will feel the lift turn into a big backward push of drag: your hand is behaving like a stalled wing. If you notice the push is much stronger when the car goes a little faster, you are feeling the speed-squared rule.",
+        "Experiment 3: the paper strip. Cut a strip of paper about 3 centimetres wide and 20 centimetres long. Hold one end just under your bottom lip so the strip hangs down and curves away from you. Now blow steadily across the top. The strip rises! This is a classic science demonstration, and it is often explained by saying 'fast air has low pressure'. Scientists point out that the real explanation is a bit more interesting. Air coming out of your mouth starts at about normal pressure. What lifts the paper is that your stream of breath curves to follow the paper's curved top, and when air is forced to bend around a curve, the pressure on the inside of the curve drops. That is very close to what happens over the top of a real wing, where the air bends to follow the curved upper surface."
+      ]
+    },
+    {
+      "heading": "Knowing It Before the Textbooks Did",
+      "paragraphs": [
+        "Here is an amazing thing to think about. In 1903, nobody in the world could fully explain how a wing makes lift. The mathematics that explains how a wing creates its flow pattern was being worked out in the early 1900s by scientists such as Wilhelm Kutta in Germany and Nikolai Zhukovsky in Russia, and Ludwig Prandtl in Germany was just beginning to study the thin layer of air close to a surface, the layer where flow separation and stalls begin. Their theories took years to develop.",
+        "The Wright brothers did not wait for the theory. They measured. With their wind tunnel, their balances made from bicycle spokes and scrap metal, and hundreds of glides on the sand at Kill Devil Hills, they learned exactly how much lift and drag their wings made at different angles of attack. They felt stalls through their own bodies. They learned to balance the four forces with their hands and hips. In 1903 they used that knowledge to fly.",
+        "By the end of 1905, as you will see in the next part, they could turn, circle and stay in the air for more than half an hour. They understood the practical science of the wing better than anyone alive. There was just one problem. Almost nobody believed them."
+      ]
+    }
+  ],
+  "deepDive": "Engineers write lift as L = 1/2 x rho x v^2 x S x CL, where rho is air density, v is true airspeed, S is wing area and CL is the lift coefficient, a single number that wraps up the effect of the wing's shape and angle of attack. The equation explains a lot at a glance. Because v is squared, a 10 per cent drop in speed costs about 19 per cent of the lift. Because rho appears, a plane taking off from a hot, high airport, where the air may be 20 per cent thinner than at a cool coastal one, needs noticeably more speed and runway. For an ordinary wing, CL rises almost in a straight line with angle of attack until it reaches a maximum, usually below about 1.5 for a plain airfoil; past that point the boundary layer, the thin sticky layer of air next to the surface, separates and the wing stalls. Multi-element flaps and slats can push the maximum above 3, which is why airliners can land at a fraction of their cruising speed. Why is the 'Newton versus Bernoulli' argument so persistent? Partly because each popular version leaves something out. 'The wing deflects air downward' is true, but it does not explain how a wing affects air far above it, or how the pressure field is set up. 'Faster air, lower pressure' is also true, but on its own it does not say why the air speeds up. A fuller account uses the idea of circulation: a wing with a sharp trailing edge forces the flow to leave the trailing edge smoothly (the Kutta condition), which sets up a net circulating motion of air around the wing, faster over the top and slower underneath. The Kutta-Zhukovsky theorem, from the early 1900s, links that circulation directly to lift. Pressure differences and the curving of the flow then sustain each other; neither is simply the cause of the other. In three dimensions, air also spills around the wingtips from the high-pressure underside to the low-pressure top, forming trailing wingtip vortices. These tilt the wing's total force slightly backward, creating 'induced drag', the price a wing pays for making lift. Long, slender wings reduce it, which is why gliders and fuel-saving airliners have such long wings and why many modern jets carry upturned winglets.",
+  "funFact": "Aerobatic planes can fly upside down for long periods, which shows that lift does not depend on the wing's top being curved: the pilot simply holds the upside-down wing at an angle of attack that turns the air downward.",
+  "check": {
+    "q": "What causes a wing to stall?",
+    "a": "Its angle of attack gets too steep, so the airflow separates from the top of the wing and lift suddenly drops.",
+    "wrong": [
+      "The engine runs out of fuel and stops",
+      "The air on top fails to meet the air underneath at the trailing edge",
+      "The plane flies faster than the speed of sound"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Four Forces on an Airplane",
+      "publisher": "NASA Glenn Research Center",
+      "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/four-forces-on-an-airplane/"
+    },
+    {
+      "title": "What is Lift?",
+      "publisher": "NASA Glenn Research Center",
+      "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/what-is-lift/"
+    },
+    {
+      "title": "Lift (force)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lift_(force)"
+    },
+    {
+      "title": "Bernoulli's principle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bernoulli%27s_principle"
+    },
+    {
+      "title": "Stall (fluid dynamics)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stall_(fluid_dynamics)"
+    },
+    {
+      "title": "Flap (aeronautics)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Flap_(aeronautics)"
+    },
+    {
+      "title": "Takeoff",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Takeoff"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A diagram of an airfoil cross-section showing streamlines of air flowing around it and being turned downward behind the wing",
+      "search": "airfoil streamlines lift diagram"
+    },
+    {
+      "want": "A photograph of an airliner wing during landing with the flaps and slats fully extended",
+      "search": "airliner wing flaps extended landing"
+    },
+    {
+      "want": "A wind tunnel smoke visualisation of airflow separating from the top of a wing at a high angle of attack (a stall)",
+      "search": "wind tunnel smoke airfoil stall"
+    }
+  ]
+}

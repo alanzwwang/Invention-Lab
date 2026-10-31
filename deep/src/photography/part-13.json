@@ -1,0 +1,152 @@
+{
+  "n": 13,
+  "title": "Painting with Light: Color",
+  "when": "1861 – 1950s",
+  "summary": "For a long time, photos and movies were only black, white and gray. Clever people found that you can build every color out of just three, using filters, dyed potato starch, spinning color wheels and giant prism cameras. By the 1930s the movies burst into bright color, and Dorothy stepped out of gray Kansas into the rainbow land of Oz.",
+  "sections": [
+    {
+      "heading": "Three Colors Hiding Inside Your Eyes",
+      "paragraphs": [
+        "Look around the room you are in right now. Maybe there is a red book, a green plant, a blue sky outside the window. For about the first 70 years of photography, an ordinary camera could not catch any of those colors. Daguerreotypes were silvery gray. Calotypes were brown. Glass-plate portraits were black and white. Early movies flickered in shades of gray. People knew perfectly well that the world was colorful, and it drove inventors a little bit crazy that their marvelous new machines could not see it.",
+        "To understand how they finally solved the puzzle, we have to start not with a camera but with you, and the back of your eye. The inside of each eye is lined with a thin layer called the retina. It is packed with light-detecting cells of two kinds. The rods, about 92 million of them in each eye, are wonderful in dim light but cannot tell colors apart. The cones, about six or seven million per eye, need brighter light, and they are the ones that see color.",
+        "Here is the surprising part: there are only three kinds of cones. One kind responds most strongly to long wavelengths of light, which we see as reddish. One responds best to medium wavelengths, which we see as green. The third responds best to short wavelengths, which we see as blue or violet. Scientists call them L, M and S cones, for long, medium and short. Your brain never sees 'orange' or 'turquoise' directly. Instead, it compares how strongly each of the three kinds of cone is firing and works out the color from the mix. Because we have three cone types, our color vision is called trichromatic, which simply means 'three-colored'.",
+        "Imagine three flashlights in a dark room, one shining through red plastic, one through green and one through blue. Point the red and green beams at the same spot on a white wall and you will not see a muddy brownish mess, as you would with paint. You will see yellow! Add the blue beam and the spot turns white. Red plus blue makes a pinkish purple called magenta. Green plus blue makes a sky-like color called cyan. Turn the flashlights up and down and you can make almost any color you like.",
+        "This is called additive color, because you start with darkness and add colored light. It is exactly how the screen you might be reading this on works: look at it through a strong magnifying glass and you may see tiny red, green and blue dots or stripes, glowing in different amounts. The idea is much older than any screen, though. The first person to prove it could make a color photograph was a young Scottish physicist, standing in front of a London audience in 1861."
+      ]
+    },
+    {
+      "heading": "Maxwell's Tartan Ribbon",
+      "paragraphs": [
+        "James Clerk Maxwell is one of the greatest scientists who ever lived. Today he is famous above all for his equations describing electricity, magnetism and light, which physicists still use every day. But as a young man he was also fascinated by color. He spun tops painted with colored sections and asked people to match the blurry colors they saw, carefully measuring how the eye mixes red, green and blue. In a paper of 1855 he suggested a way to make a color photograph: take three separate black-and-white pictures of the same scene, one through a red filter, one through a green filter and one through a blue filter. Each picture would then record how much of that one color was in each part of the scene.",
+        "On 17 May 1861, Maxwell gave a lecture on color vision at the Royal Institution in London. To prove his idea, he needed a photographer. He turned to Thomas Sutton, a skilled photographer who also edited a photography journal and invented a panoramic camera. The object they chose was a bow of ribbon with a tartan pattern, the kind of checked cloth worn in Scotland, full of different colored stripes.",
+        "Sutton made the photographs using glass plates and the wet collodion process you met in Part 7. Instead of modern colored plastic, the filters were glass containers filled with colored liquids. He exposed one plate through a red solution, one through a green solution and one through a blue-violet solution. Each plate came out as an ordinary black-and-white negative, and from each negative he made a positive on glass, a transparent picture called a lantern slide.",
+        "At the lecture, the three slides were placed in three separate projectors called magic lanterns. In front of each lantern was the same colored filter that had been used to take that picture. When the three images were lined up exactly on top of each other on the screen, the ribbon appeared, not perfectly, but recognizably, in color. It was the first color photograph made by the three-color method, and it proved Maxwell's theory in front of everyone in the room.",
+        "There was a mystery hidden in this triumph, though, and it took a hundred years to solve. The wet collodion plates of 1861 were almost completely blind to red light and only slightly sensitive to green. So how could the red picture have recorded anything at all? In 1961, researchers at Kodak finally worked out a likely answer. Many red dyes in cloth also reflect ultraviolet light, which is invisible to us but which the plates could see. Sutton's red filter let some ultraviolet through. So the 'red' picture was probably recorded partly with light nobody could see. Maxwell had the right idea, and also got a lucky break."
+      ]
+    },
+    {
+      "heading": "Paintbrushes, Stencils and Potato Starch",
+      "paragraphs": [
+        "From the earliest days of film, moviemakers added color by hand, and it was astonishingly hard work. Remember that a film is a long strip of tiny pictures, often 16 or more for every second on screen. To hand-color a film, workers, very often young women, sat at benches with magnifiers and fine brushes, painting transparent dyes onto each frame, one color at a time. A short trick film of a few minutes could contain thousands of frames, and each print sold to a theater had to be painted separately.",
+        "The Pathé company in France found a faster way, called stencil coloring. For each color, a worker cut tiny holes in a copy of the film exactly where that color should go, perhaps around a dancer's skirt in every frame. Later this cutting was done with a machine guided by a pointer. The stencil film was then run together with a print, and dye was brushed or rolled through the holes. Repeat for red, for blue, for yellow, and you had a colorful film that could be copied many times. Pathé used these methods for years, including for big features in the 1920s.",
+        "Real color for ordinary photographers arrived in 1907, and it came from the same family that had helped launch cinema. Auguste and Louis Lumière, whose Cinématographe you met in Part 10, patented a process called the Autochrome in 1903 and began selling it in 1907. Its secret ingredient sounds like a joke: potatoes.",
+        "Workers at the Lumière factory in Lyon took potato starch and sorted out extremely tiny grains, only about 5 to 10 thousandths of a millimeter across. They split the grains into three batches and dyed one batch orange-red, one green and one blue-violet. Then they mixed the three batches together and spread them across a sticky glass plate in a single layer, about four million grains in every square inch. The little gaps between grains were filled with fine black soot called lampblack, so no white light could sneak through. The grains were flattened under huge pressure, varnished, and then coated with a black-and-white light-sensitive emulsion.",
+        "Here is how the magic worked. When you took a picture, light from a red rose passed easily through the red-orange grains but was blocked by the green and blue ones, so only the emulsion behind the red grains was exposed. After special developing that turned the image into a positive, the plate was clear behind the grains that had seen the rose's red and dark behind the others. Hold the finished plate up to the light and you saw red where the rose had been. Millions of microscopic colored windows added together into a full-color picture: additive color, just like Maxwell's, but all on one plate.",
+        "Autochromes look dreamy and soft, a little like a painting made of tiny dots. They needed much longer exposures than black-and-white plates, so photographers usually used a tripod and asked people to stay very still. Each one was a glass transparency, a one-of-a-kind picture you looked at by holding it up to a window or putting it in a folding viewer called a diascope. Projecting them was risky, because the strong heat and light of a projector could fade or damage the plate. Despite the cost and fuss, the Lumière factory made millions of Autochrome plates before film versions took over in the 1930s. Many museums now keep collections of them, including scenes of gardens, families and soldiers from the First World War."
+      ]
+    },
+    {
+      "heading": "Kinemacolor: Two Colors, Flashing Fast",
+      "paragraphs": [
+        "A glass plate that sits still is one thing. A movie, racing past at many frames per second, is much harder. The first color film process that really worked as a business came from the English seaside town of Hove, near Brighton, which in the early 1900s was a busy little hub of filmmaking. George Albert Smith had been a stage hypnotist and lecturer before turning to film, and he was a clever experimenter. He was backed by Charles Urban, an energetic American-born film producer working in London, who had earlier paid for the color experiments of another inventor, Edward Raymond Turner.",
+        "Turner had tried to use three colors, but his system was too complicated to work well. Smith decided to simplify. He patented his process, which Urban named Kinemacolor, around 1906 to 1907, and it used only two colors: red-orange and blue-green. The camera shot ordinary black-and-white film, but in front of the lens spun a wheel with a red-orange filter and a blue-green filter. One frame was taken through the red, the next through the green, the next through the red again, and so on, at about 32 frames per second, roughly twice the usual speed of the time.",
+        "In the theater, the projector had a matching spinning filter wheel. Each frame shot through red was projected through red, and each frame shot through green was projected through green. The frames flashed by so fast that the viewer's eyes and brain blended them, and the audience saw a picture with reds, oranges, greens and many in-between shades. It could not show a strong, pure blue very well, but for the time it was dazzling.",
+        "Demonstrations began in 1908, and the general public in London first saw Kinemacolor on 26 February 1909, at the Palace Theatre. Later that year it reached New York, with a show at Madison Square Garden in December 1909. Historians generally call it the first successful commercial color motion-picture process. Urban's company sold licences around the world, and Kinemacolor theaters opened in several countries.",
+        "Its most famous production was a long documentary called With Our King and Queen Through India (1912), which showed the grand Delhi Durbar, a vast royal ceremony held for King George V and Queen Mary in 1911. Audiences saw glittering costumes, elephants and processions in color, and it ran for months. It is often described as the first feature-length film in natural color, meaning the colors came from the scene through filters rather than from paint.",
+        "Kinemacolor had a weakness you can probably guess. Because the red picture and the green picture were taken one after another, not at the same instant, anything that moved quickly had shifted slightly between the two frames. A galloping horse or a waving hand might show strange red and green fringes around its edges. The projectors also needed special equipment, and running the film so fast used a lot of expensive film stock.",
+        "Then came trouble in the courts. William Friese-Greene, another British inventor, challenged Smith's patent in 1913. After a back-and-forth battle, the patent was finally revoked in 1915, when Britain's highest court, the House of Lords, agreed it was not valid. Without its patent protection, and with the First World War disrupting business, Kinemacolor faded away. But it had shown the world that color movies could fill a theater and sell tickets."
+      ]
+    },
+    {
+      "heading": "Taking Color Away: Subtractive Color and Technicolor",
+      "paragraphs": [
+        "Additive color, mixing beams of light, has a big problem for movies: you need special projectors with filters, and the filters waste a lot of light. The solution that finally won was the opposite idea, called subtractive color. It is the way paints, printer inks and colored glass work.",
+        "Start with white light, which contains all the colors. Now hold up a piece of cyan (blue-green) see-through plastic. Cyan dye absorbs red light and lets green and blue pass through. A magenta (pinkish-purple) dye absorbs green light. A yellow dye absorbs blue light. So each of these three dyes takes away, or subtracts, one of the three colors your cones detect. Stack yellow and magenta together and they remove blue and green, leaving only red. Stack cyan and yellow and you remove red and blue, leaving green. Use a little of each dye and you get gray; use a lot of all three and almost no light gets through, giving black. A film made this way can be shown in any ordinary projector, because all the color is already in the film itself.",
+        "The company that turned this into Hollywood magic was Technicolor. It was founded in Boston in 1914, and officially incorporated in 1915, by Herbert Kalmus, Daniel Comstock and W. Burton Wescott. Kalmus and Comstock had both studied at the Massachusetts Institute of Technology, and the 'Tech' in Technicolor is a nod to MIT. Kalmus was not just a scientist but a determined businessman, and he led the company for decades.",
+        "Technicolor's road was long and bumpy. Its first system, in 1917, was additive and needed a special projector; only one film, The Gulf Between, was made with it, and just a few frames of it survive. Its second process, in 1922, was subtractive and two-colored. It made two thin prints, one tinted red-orange and one green, and glued them back to back. The Toll of the Sea (1922), starring Anna May Wong, was the first general-release film in Technicolor. Audiences liked the colors, but the cemented prints tended to bend into a cup shape in the heat of the projector and scratched easily. A third process, from 1928, solved that problem with a clever printing method called dye transfer, but it still used only two colors.",
+        "The real breakthrough was the three-strip camera, finished in 1932. Inside it, right behind the lens, sat a cube of glass made of two prisms with a special partly mirrored surface between them, called a beam splitter. About one third of the light was sent sideways through a green filter onto one strip of black-and-white film, which recorded the green parts of the scene. The rest of the light passed through a magenta filter onto two more strips pressed face to face. The front strip recorded blue light, and the back one recorded red. So every time the shutter opened, three separate black-and-white negatives were exposed at the very same instant: a red record, a green record and a blue record.",
+        "Those three negatives were then used to make printing films called matrices, a bit like rubber stamps. Each matrix soaked up dye: the red record took cyan dye, the green record took magenta and the blue record took yellow. One after another, the three matrices were pressed against a blank strip of film, transferring their dyes in perfect alignment. The result was a print with rich, glowing colors that were remarkably stable and did not fade easily. Many Technicolor prints from the 1930s and 1940s still look vivid today.",
+        "There was a price for all this beauty. The three-strip camera was a huge machine, and it had to be wrapped in a large soundproof cover so its noise did not ruin the sound recording. Because the beam splitter divided the light three ways, and the film was very slow, rated at only about ASA 5, the camera needed enormous amounts of light. Film sets were blasted with banks of powerful lamps, making them extremely hot and bright. Studios could not even buy the cameras: Technicolor rented them out, along with its own camera crew, and usually sent a color consultant too. For many years that consultant was Natalie Kalmus, Herbert's former wife, who had strong opinions about which colors could appear on screen, and directors did not always enjoy her advice."
+      ]
+    },
+    {
+      "heading": "Cartoons First, Then Becky, Then Oz",
+      "paragraphs": [
+        "The first film made with the three-strip process was not a big live-action drama. It was a cartoon. Walt Disney's studio had already started a short film called Flowers and Trees in black and white, as part of its Silly Symphonies series of musical cartoons. When Disney saw what Technicolor's new process could do, he took a gamble: he had the film redone in full color. Animators did not have to worry about hot lights and giant cameras, because they were photographing paintings, so cartoons were a perfect place to test three-strip color.",
+        "Flowers and Trees was released on 30 July 1932. Trees danced, flowers bloomed and a fire raged in bright reds and oranges. It cost more than planned, but audiences loved it, and it won the very first Academy Award for Best Short Subject (Cartoons). Disney signed a deal giving his studio the exclusive right to use three-strip Technicolor for cartoons for a few years, which left rival animation studios stuck with older two-color systems. From then on, every Silly Symphony was made in color.",
+        "Live-action filmmakers soon followed. In 1934 a short musical film called La Cucaracha showed that three-strip color could work with real actors. Then came Becky Sharp (1935), based on William Makepeace Thackeray's novel Vanity Fair and directed by Rouben Mamoulian, who took over after the first director died during production. It starred Miriam Hopkins as a clever, ambitious young woman climbing her way into high society. Becky Sharp was the first feature-length film shot entirely in three-strip Technicolor. Mamoulian used color to tell the story: in one famous scene at a ball, as news of the Battle of Waterloo spreads, the colors of the soldiers' uniforms grow stronger and redder as the panic rises. Hopkins was nominated for an Oscar for Best Actress.",
+        "By the late 1930s, Technicolor features were appearing more often, though they were still expensive and special. The most famous of all came out in August 1939: The Wizard of Oz, from the studio MGM. Remember, it was not the first color film; you have just met many earlier ones. But it may be the most famous use of color in movie history, because it turned the switch from gray to color into part of the story itself.",
+        "The film's scenes in Kansas, along with the opening titles, were shot in black and white and printed in a warm brownish tint called sepia. When a tornado carries Dorothy's farmhouse to Oz, she walks to the front door, and suddenly the world bursts into Technicolor. The filmmakers achieved this without any computer tricks. MGM first thought about hand-tinting the frames to keep the sepia look but decided it was too costly. Instead, they painted the inside of the farmhouse set in sepia colors. A stand-in for Judy Garland named Bobbie Koshay, wearing a sepia-colored dress, opened the door with her back to the camera. Then the camera glided forward through the doorway, and Garland herself, in her blue-and-white checked dress, stepped into the dazzling color world of Munchkinland.",
+        "Making Oz was not comfortable. Technicolor's huge lights could heat the set to more than 38 degrees Celsius, or over 100 degrees Fahrenheit, and the actors, some in heavy costumes and makeup, had to perform under that glare day after day. The film's electricity bill was enormous. But the result was so vivid that, more than 80 years later, the yellow brick road and the ruby slippers still glow on screen."
+      ]
+    },
+    {
+      "heading": "Color in Your Pocket: Kodachrome to Eastmancolor",
+      "paragraphs": [
+        "Technicolor's giant cameras were useless for a family on vacation, who needed a color film that fit an ordinary camera. Two musicians helped crack that problem. Leopold Mannes was a pianist, and Leopold Godowsky Jr. was a violinist. They became friends as teenagers in New York, both from musical families, and both were also trained in science. They began experimenting with color film in their spare time, doing chemistry in kitchens and bathrooms. According to a famous story, they timed their developing by whistling or humming pieces of music at a steady tempo, since they could not see a clock in the dark. Eventually Kodak noticed their work, gave them proper laboratories in Rochester, New York, and paired them with company chemists.",
+        "The result was Kodachrome, which Kodak introduced in 1935, first as 16mm film for home movies and then, in 1936, for 35mm still cameras and 8mm movie cameras. Kodachrome was a kind of film called a tripack, with three very thin layers of emulsion stacked on one base. The top layer recorded blue light, the middle green and the bottom red. When the film was processed, the colored dyes were added to each layer one by one in a complicated series of steps, so that the finished film became a positive transparency, a slide, with cyan, magenta and yellow dyes in the right places. Subtractive color, all in one strip of film!",
+        "Kodachrome's rich colors and sharpness made it a legend. Photographers for magazines like National Geographic used it for decades, including Steve McCurry's famous 1984 portrait known as Afghan Girl. Families projected their Kodachrome slides on living-room walls to show off their holidays. But in the digital age, demand collapsed. Kodak stopped making Kodachrome in June 2009, and by then only one lab in the world could still process it: Dwayne's Photo, in the small town of Parsons, Kansas. Photographers sent in their final rolls from around the world, and the very last Kodachrome processing was done there in December 2010. Steve McCurry was given one of the last rolls ever made.",
+        "Meanwhile, Hollywood was changing too. In 1950 Kodak introduced Eastmancolor, a color negative film for movies with its color-making chemicals built into the film itself. It could be loaded into an ordinary single-strip movie camera, needed far less light than three-strip Technicolor and was much cheaper. Within a few years, the giant three-strip cameras were retired; the last American feature shot with one came out in 1955. Technicolor survived by printing Eastmancolor films using its dye transfer method. Early Eastmancolor prints had one sad flaw, though: their dyes were not very stable, so many of them have faded over the decades to a pinkish color.",
+        "Even after color became cheaper, black-and-white did not vanish overnight. Color still cost more, and many directors liked the stark look of black and white for serious dramas. Through the 1950s and early 1960s, plenty of Hollywood films were still made in black and white, and the Academy Awards kept separate prizes for black-and-white and color cinematography into the mid-1960s. Only by the late 1960s, as television switched to color too, did color fully take over. For family snapshots, color prints became the normal choice by around 1970.",
+        "Yet the 1930s were the decade when color really arrived, and it arrived at the very same moment as an even bigger shock. The Flowers and Trees audience in 1932 was not only seeing color; it was listening to music that came from the film itself, perfectly in time with the pictures. Just a few years earlier, every movie had been 'silent', played with live music in the theater. Now the movies were about to start talking."
+      ]
+    }
+  ],
+  "deepDive": "Why three colors? The answer is in biology, not physics. Light comes in a smooth range of wavelengths, roughly 400 to 700 nanometers for the visible part, and a real object's color is a whole curve of how much it reflects at each wavelength. Our eyes throw most of that information away. Each cone type adds up the light it receives, weighted by its own sensitivity curve (peaking near 420, 530 and 560 nanometers for S, M and L cones), so the brain receives just three numbers per spot. Two physically different light mixtures that give the same three numbers look identical; scientists call them metamers. Every color process in this part, from Maxwell's lanterns to Technicolor to your phone screen, depends on metamers: it does not reproduce the real light from a scene, only a mixture that fools our three cone types. That is also why no three-color system can show every color perfectly. The filters and dyes overlap with each other and with the cone curves, so some very saturated colors, like the vivid cyan-green of a tropical sea, fall outside what a given set of primaries can make. Early processes had particular blind spots. Two-color systems like Kinemacolor and early Technicolor could not make a good pure blue, so filmmakers chose costumes and scenery that avoided it. Additive screen plates like the Autochrome absorbed most of the light (each grain passes only about a third of the spectrum, and the black filler blocks more), so they looked dim and needed long exposures. Subtractive systems avoid wasting light in projection, but their dyes are never perfect absorbers; real magenta dye, for example, also absorbs some blue, which is why color film and printers add corrections and, in printing, a separate black ink. Historians also debate how 'natural' early color really was. Technicolor's consultants deliberately controlled palettes, and the famous Technicolor look was partly an artistic style rather than a neutral record of reality. And as the 1861 ribbon showed, even the first color photograph worked partly by accident, thanks to ultraviolet light that no human could see.",
+  "funFact": "The inventors of Kodachrome, Leopold Mannes and Leopold Godowsky Jr., were professional musicians, and they are said to have timed their darkroom chemistry by singing or whistling music at a steady beat.",
+  "check": {
+    "q": "In the Autochrome color plates sold by the Lumière brothers from 1907, what were the tiny colored filters made of?",
+    "a": "Dyed grains of potato starch",
+    "wrong": [
+      "Crushed colored glass",
+      "Drops of colored ink",
+      "Tiny pieces of butterfly wings"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Color photography",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Color_photography"
+    },
+    {
+      "title": "Cone cell",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cone_cell"
+    },
+    {
+      "title": "Autochrome Lumière",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Autochrome_Lumi%C3%A8re"
+    },
+    {
+      "title": "Kinemacolor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kinemacolor"
+    },
+    {
+      "title": "Technicolor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Technicolor"
+    },
+    {
+      "title": "Flowers and Trees",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Flowers_and_Trees"
+    },
+    {
+      "title": "The Wizard of Oz (1939 film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1939_film)"
+    },
+    {
+      "title": "Kodachrome",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kodachrome"
+    }
+  ],
+  "pics": [
+    {
+      "want": "James Clerk Maxwell and Thomas Sutton's 1861 three-color photograph of a tartan ribbon",
+      "search": "Maxwell tartan ribbon 1861 color photograph"
+    },
+    {
+      "want": "An early Autochrome Lumière color photograph on glass from around 1907 to 1915",
+      "search": "Autochrome Lumière plate color photograph"
+    },
+    {
+      "want": "A Technicolor three-strip motion picture camera from the 1930s",
+      "search": "Technicolor three-strip camera"
+    }
+  ]
+}

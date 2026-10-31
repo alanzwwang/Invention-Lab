@@ -1,0 +1,152 @@
+{
+  "n": 20,
+  "title": "The Future of Flight and the Long Journey",
+  "when": "Today – the future, looking back",
+  "summary": "Inventors are now trying to make flying cleaner and quieter, with electric planes, hydrogen, new fuels and a plane that flew around the world on sunshine. Then we look back at the whole amazing journey, from kites and balloons to Mars. The next big idea in flight could be yours!",
+  "sections": [
+    {
+      "heading": "The Next Big Puzzle: Flying Without Harming the Planet",
+      "paragraphs": [
+        "Every great chapter of this story began with a puzzle. Cayley's puzzle was how to separate lift from thrust. The Wrights' puzzle was control. Whittle and von Ohain's puzzle was how to fly faster than propellers allowed. Today's engineers face a new puzzle that may be the hardest yet: how can people keep flying without warming the planet?",
+        "In Part 18 you learned that aviation produces roughly 2 to 3 percent of the carbon dioxide that humans release, plus extra warming from contrails, the long white trails of ice crystals that planes can leave high in the sky. That may sound small, but flying is growing, and it is one of the hardest activities to make clean. A car can run on a battery that weighs a few hundred kilograms. A long-distance airliner needs so much energy that, at takeoff, a large share of its weight can be fuel.",
+        "Engineers are attacking the puzzle from several directions at once. They are making planes lighter and more streamlined, with composite structures like the Boeing 787's and long, slender wings. They are building engines with ever-bigger fans that push more air more gently, saving fuel. Airlines are flying smarter routes and taxiing with fewer engines running. But the biggest changes would come from new kinds of energy: electricity stored in batteries, hydrogen, and fuels made from waste or even from air. None of these is easy, and each has a catch. Let's look at them one at a time, like scientists, and remember that careful testing beats guessing."
+      ]
+    },
+    {
+      "heading": "Batteries Versus Fuel: The Electric Plane Challenge",
+      "paragraphs": [
+        "Electric planes sound wonderful. Electric motors are quiet, have few moving parts and turn about 90 percent of their energy into useful work, while most jet engines manage only around half. Electric motors also do not need air to burn fuel, so they do not lose power at high altitude. A short flight on electricity, using power from wind or solar farms, could produce almost no pollution at all.",
+        "So why are we not all flying electric already? The answer is one word: weight. Scientists compare fuels using energy density, the amount of energy packed into each kilogram. The best lithium-ion batteries in recent years store roughly 250 to 300 watt-hours per kilogram. Jet fuel stores about 12,000 watt-hours per kilogram, roughly 40 times as much. Even after you allow for electric motors being more efficient, a battery big enough to fly a large airliner across an ocean would be far too heavy to get off the ground. There is a second problem: a plane burning fuel gets lighter as it flies, but a battery weighs exactly the same when it is empty as when it is full.",
+        "Electric flight is not new. In 1973 a small motor glider called the Militky MB-E1 carried a person on battery power in Austria, using nickel-cadmium batteries. In 1981 the MacCready Solar Challenger, covered with solar cells, flew about 163 miles (262 kilometres) from France to England. More recently, on 10 December 2019, the Canadian seaplane airline Harbour Air flew a classic DHC-2 Beaver floatplane fitted with a 560-kilowatt electric motor from the company magniX, near Vancouver. On 10 June 2020, the two-seat Pipistrel Velis Electro, built in Slovenia, became the first electric aircraft to receive a type certificate, the official safety approval needed for normal use, from Europe's aviation safety agency, EASA. It is used mostly for pilot training, on flights of under an hour.",
+        "That shows where electric planes fit first: short hops, flight schools and small commuter planes carrying a handful of people between nearby islands or towns. Many companies are designing electric and hybrid-electric aircraft with nine to a few dozen seats. Hybrids, like many hybrid cars, combine a battery with a small fuel-burning engine or generator. Batteries keep improving, but for long flights across continents and oceans, most experts expect liquid fuels to remain necessary for many years. Whether that changes depends on discoveries that have not been made yet, perhaps by someone reading this."
+      ]
+    },
+    {
+      "heading": "Hydrogen and Greener Fuels",
+      "paragraphs": [
+        "Hydrogen is the lightest element in the universe, and it packs about three times as much energy per kilogram as jet fuel. When it is used, the main product is water. That makes it very attractive for aviation. There are two ways to use it. It can be burned in a modified jet engine, or it can be fed into a fuel cell, a device that combines hydrogen with oxygen from the air to make electricity, which then drives electric motors.",
+        "The catch is volume. Hydrogen is a very light gas, so even when it is cooled into a liquid, it takes up about four times as much space as jet fuel for the same energy. Liquid hydrogen must also be kept colder than minus 253 degrees Celsius. That needs big, round, heavily insulated tanks, which do not fit inside thin wings the way jet fuel does, so designers would have to put them inside the fuselage, taking up space where passengers or cargo might go. Airports would also need completely new ways to make, store and pump hydrogen safely.",
+        "Engineers have been experimenting for decades. In 1988 a Soviet Tupolev Tu-155 airliner flew with one of its three engines running on hydrogen. In 2023 a company called ZeroAvia flew a Dornier 228 test plane in Britain with a hydrogen fuel-cell system driving one of its propellers. Airbus announced a program called ZEROe in 2020 to study hydrogen airliners, but it later pushed its plans back by several years because the technology and hydrogen supplies were not ready. Another start-up, Universal Hydrogen, closed in 2024 after it ran out of money. These setbacks are a normal part of invention; remember how many flying machines failed before 1903.",
+        "A more immediate idea is sustainable aviation fuel, often shortened to SAF. It is jet fuel made not from crude oil pumped out of the ground but from things like used cooking oil, waste animal fat, certain crops, farm and forest waste, or even from hydrogen combined with carbon dioxide captured from the air. Because the carbon in these fuels was recently taken out of the atmosphere by plants, or captured directly, the overall carbon dioxide released over the fuel's life can be much lower than for ordinary fuel, though how much lower depends greatly on how it is made.",
+        "The great advantage of SAF is that it is a 'drop-in' fuel: today's engines and airport fuel tanks can use it without changes. Current rules allow it to be blended up to 50 percent with regular jet fuel. In 2008 Virgin Atlantic flew a Boeing 747 with one engine partly running on biofuel, and in 2023 the same airline flew a Boeing 787 from London Heathrow to New York on 100 percent SAF as a special test. The problems are cost and quantity. In 2024 SAF made up only about 0.3 percent of the world's aviation fuel. The European Union now requires a growing share of SAF in fuel at its airports, 6 percent by 2030 and 70 percent by 2050, which will push companies to build many more SAF factories."
+      ]
+    },
+    {
+      "heading": "Flying on Sunshine: Solar Impulse 2",
+      "paragraphs": [
+        "On 9 March 2015, a very strange airplane took off from Abu Dhabi in the United Arab Emirates. Its wings stretched about 72 metres from tip to tip, wider than a Boeing 747's, yet the whole aircraft weighed only about 2,300 kilograms, roughly as much as a large family car. It carried no fuel at all. Its wings, body and tail were covered in 17,248 solar cells, and inside were four lithium-ion battery packs. This was Solar Impulse 2, and its pilots planned to fly it all the way around the world on sunlight alone.",
+        "The two pilots took turns, because the cockpit had room for only one person. Bertrand Piccard, a Swiss psychiatrist and explorer, came from a famous family of adventurers: his grandfather Auguste Piccard rode a balloon into the stratosphere in 1931, and his father Jacques Piccard dived to the deepest point of the ocean in 1960. Bertrand himself had flown around the world nonstop in a balloon in 1999 with Brian Jones. His partner, André Borschberg, was a Swiss engineer and businessman who had trained as a jet pilot in the Swiss Air Force. Together they had spent more than a decade planning the project.",
+        "The trick was the day and night cycle. During the day, the solar cells powered the four propellers and charged the batteries, and the plane slowly climbed, often to around 8,500 metres and on some legs even higher. At night it glided gently down, saving energy, then flew on battery power until the Sun rose again. The plane was slow, averaging only about 76 kilometres per hour over the whole journey, about the speed of a car on a country road. The cockpit was not heated or pressurized, so the pilots wore oxygen masks at high altitude and dressed for extreme cold, and they slept only in short naps of about 20 minutes.",
+        "The hardest leg was across the Pacific Ocean. In June and July 2015, Borschberg flew from Nagoya in Japan to Hawaii, alone, for 117 hours and 52 minutes, nearly five days and nights without landing. It set records for the longest solar-powered flight and the longest solo flight ever made in an airplane. But the batteries had overheated during the climb, because they were wrapped in too much insulation, and the plane had to wait in Hawaii for repairs until April 2016.",
+        "After crossing the United States and the Atlantic Ocean, Solar Impulse 2 landed back in Abu Dhabi on 26 July 2016. It had made the trip in 17 stages over about 16 and a half months and flown roughly 40,000 kilometres (some counts give about 42,000), the first circumnavigation of the Earth by a piloted airplane powered only by the Sun. Solar Impulse was never meant to become an airliner. It was a flying demonstration, built to show what clean energy and careful engineering could do, just as Lilienthal's photographs once showed the world that a human could really glide."
+      ]
+    },
+    {
+      "heading": "Faster but Quieter? The X-59 Experiment",
+      "paragraphs": [
+        "When Concorde made its last passenger flight in 2003, supersonic travel for ordinary passengers ended. One big reason, as you saw in Part 16, was the sonic boom. Many countries, including the United States, banned airliners from flying faster than sound over land, so Concorde could only go supersonic over the sea. Engineers began to wonder: what if a plane could be shaped so that its boom became a soft thump instead of a loud bang?",
+        "NASA's answer is the X-59, built by Lockheed Martin's famous Skunk Works for a mission called Quesst. It looks like a needle with wings. The X-59 is about 30 metres long, with a very long, pointed nose that makes up a large part of its length. Every curve of its shape is designed to spread out the shock waves so that they do not pile up into one sharp boom when they reach the ground. The nose is so long that the pilot cannot see straight ahead through a front window. Instead, the pilot uses an 'external vision system', a camera and screen that show the view in front of the plane.",
+        "The X-59 made its first flight on 28 October 2025, flying below the speed of sound from Palmdale to NASA's Armstrong Flight Research Center in California. In June 2026 it flew faster than sound for the first time, and soon after reached about Mach 1.4. By the autumn of 2026 it was flying regularly, sometimes several test flights in a single week. NASA plans to fly the X-59 over communities in the United States and ask people living below what they heard and how much it bothered them. Those answers will be shared with regulators, such as the US Federal Aviation Administration and the International Civil Aviation Organization, which could use them to decide whether quiet supersonic flight over land should one day be allowed.",
+        "Private companies are experimenting too. In January 2025, a small test jet called XB-1, built by the American company Boom Supersonic, flew faster than sound. The company hopes to build a supersonic airliner, but such plans are still on the drawing board and in testing. It is important to be honest about this: no new supersonic airliner is carrying passengers today, and history is full of exciting aircraft projects that never reached the airport. The X-59 is an experiment, and its job is to gather facts."
+      ]
+    },
+    {
+      "heading": "Air Taxis: Electric Helicopters for Cities?",
+      "paragraphs": [
+        "Picture a small, quiet aircraft rising straight up from a rooftop pad, tilting its propellers forward and whisking four passengers across a crowded city in a few minutes instead of an hour in traffic. That is the dream of the eVTOL, short for electric vertical take-off and landing aircraft. Unlike helicopters, which usually have one big rotor powered by a jet-like engine, most eVTOLs use many small electric propellers, each driven by its own motor and controlled by a fly-by-wire computer, a bit like a giant, people-carrying cousin of a drone.",
+        "Designs come in several shapes. Some are multicopters, with lots of fixed rotors that only push upward, like a big quadcopter. Others are tilt-rotor designs: their propellers point up for takeoff and then swivel forward so that a wing can carry the weight in cruise, which is much more efficient. A third type uses one set of propellers for lifting and a separate set for cruising. Companies working on them include Joby Aviation and Archer Aviation in the United States, EHang in China, Wisk, which is backed by Boeing, and many others around the world.",
+        "In October 2023 the EHang EH216-S, a two-seat multicopter designed to fly without a pilot on board, received a type certificate from China's aviation authority, the first of its kind. Other companies have been carrying out long programs of test flights and working with regulators in the United States, Europe, Japan, the Middle East and elsewhere. Even so, eVTOL air taxis are still in testing and early trials. They are not yet a normal, everyday way for people to travel.",
+        "The challenges are real. Batteries limit how far and how long these aircraft can fly, and they must keep plenty of energy in reserve for safety. The aircraft must prove they are as safe as airliners, which takes years of testing. Cities would need landing pads, sometimes called vertiports, chargers and new air traffic systems to manage hundreds of small aircraft at low height. And people living below will want them to be quiet. Some well-funded companies have already run out of money, a reminder that in aviation, a good idea is only the beginning."
+      ]
+    },
+    {
+      "heading": "The Long Journey: From Icarus to Mars",
+      "paragraphs": [
+        "Before we look ahead any further, let's look back at how far we have come. The journey began with stories: Icarus and his wax wings in Greek myth, flying chariots and winged gods. It continued with real objects that rode the wind, the kites of ancient China, made of wood, silk and bamboo more than 2,000 years ago. Brave tower jumpers like Abbas ibn Firnas and Eilmer of Malmesbury tried to copy birds, at least according to accounts written long afterwards, and Leonardo da Vinci filled notebooks with flying machines he never built.",
+        "In 1783 the Montgolfier brothers' hot-air balloon carried the first humans into the sky over Paris. Then Sir George Cayley stopped copying flapping birds and scratched a fixed wing, a body and a tail onto a silver disc in 1799, and he named the four forces of flight: lift, weight, thrust and drag. Steam-powered machines hopped but could not be controlled. Otto Lilienthal made more than 2,000 glides and showed the world, in photographs, that a person could truly fly a wing. Octave Chanute gathered knowledge and shared it freely.",
+        "Two bicycle makers from Dayton, Wilbur and Orville Wright, realised that control was the key. They built a homemade wind tunnel, tested about 200 small wing shapes, made hundreds of glides, and invented three-axis control. With Charlie Taylor's engine and their own propellers, on 17 December 1903, Orville flew for 12 seconds and about 37 metres, a distance shorter than the wingspan of a jumbo jet. It was the first sustained, powered and controlled airplane flight.",
+        "After that, the pace became astonishing. Blériot crossed the English Channel in 1909. Alcock and Brown crossed the Atlantic nonstop in 1919, and Lindbergh flew solo from New York to Paris in 1927. The DC-3 made airlines pay their way. Frank Whittle and Hans von Ohain, working separately, gave the world the jet engine. Chuck Yeager went faster than sound in a rocket plane in 1947. The Boeing 747 made flying across the world affordable for millions. Computers learned to fly alongside pilots, drones took to the air, and in 2021 Ingenuity flew on Mars.",
+        "Think about this: only 66 years passed between the Wright brothers' first flight in 1903 and astronauts landing on the Moon on 20 July 1969. Some people who were children when the Wrights first flew lived to watch the Moon landing on television. Neil Armstrong even carried a piece of the Wright Flyer's wooden propeller and a scrap of its wing fabric with him to the Moon.",
+        "The 1903 Wright Flyer itself survives. For 20 years, from 1928 to 1948, it was displayed at the Science Museum in London, because Orville Wright was upset that the Smithsonian Institution had given credit for the first flying machine to its own former leader, Samuel Langley. After the Smithsonian publicly accepted the Wrights' achievement in 1942, the Flyer came home in 1948. Today it hangs in the National Air and Space Museum in Washington, D.C., where millions of visitors can stand beneath the fragile wood and cloth machine that started it all."
+      ]
+    },
+    {
+      "heading": "Lessons From the Sky, and Your Turn",
+      "paragraphs": [
+        "What can the story of the airplane teach us about inventing anything? The first lesson is that careful testing beats guessing. For centuries, people jumped off towers trusting their hopes. The Wrights succeeded partly because they refused to trust numbers they had not checked. When their 1901 glider produced only about a third of the expected lift, they did not give up; they built a wind tunnel and measured. Fifty years later, investigators found the cause of the Comet crashes by testing a whole fuselage in a water tank until it cracked. Good inventors treat every failure as data.",
+        "The second lesson is that sharing knowledge helps everyone. Cayley published his ideas. Lilienthal published his tables and his photographs. Chanute collected the world's flying research into one book and wrote encouraging letters to anyone who asked, including two brothers from Ohio. When Wilbur Wright wrote to the Smithsonian in 1899, the Smithsonian sent him papers to read. Today, whenever there is an accident, investigators share what they learn with airlines and aircraft makers around the world, which is a big reason flying became so safe.",
+        "The third lesson is that the airplane was built by many people, not by one hero. Behind every famous name stand others: Gustav Lilienthal helping his brother, Charlie Taylor building an engine in six weeks, John T. Daniels squeezing a camera bulb on a cold beach, engineers in wind tunnels, mechanics in hangars, air traffic controllers, flight attendants, factory workers and test pilots. People from France, Germany, Britain, Brazil, Russia, Australia, the United States, China and many other countries each added a piece. Even the disputed 'firsts' remind us that many minds were racing toward the same dream at the same time.",
+        "There is a fourth lesson too: inventions bring responsibilities. Airplanes brought families together, carried medicine and food, and let scientists explore the world from above. They have also been used in war, and they add to climate change. The people who design the next generation of aircraft will need to be not only clever but wise.",
+        "Which brings us to you. Every pioneer in this story started as a curious young person. The Wright brothers were inspired by a rubber-band toy helicopter. You can start right now: fold paper airplanes and change one thing at a time to see what happens, fly a kite and feel the lift in the string, build a balsa glider, or, with an adult, learn to fly a small drone safely. Learn maths and physics, because they are the language of flight. Write computer code, because software now helps fly almost every aircraft. Visit an air museum, and stand under a real wing. Keep a notebook, like Leonardo and Lilienthal did.",
+        "The next big idea in flight has not been invented yet. Maybe it will be a battery that changes everything, a silent supersonic airliner, a new kind of wing, or a helicopter exploring the clouds of another world. Maybe it will be yours. For thousands of years, people looked up at the birds and wondered why they could not fly. Now we can. So the next time you hear a plane passing overhead, look up at the sky, and ask yourself the question that started it all: what if?"
+      ]
+    }
+  ],
+  "deepDive": "The central obstacle to clean flight is physics, not willpower. Jet fuel stores roughly 12,000 watt-hours of energy per kilogram, while today's best lithium-ion cells store about 250 to 300, and a complete battery pack with cooling and casing stores less. Electric drivetrains are more efficient, turning perhaps 90 percent of stored energy into propeller power versus roughly 40 to 50 percent for a gas turbine, but that still leaves a gap of well over ten to one. Range is also hurt because batteries never get lighter, whereas a long-haul airliner may burn a large fraction of its takeoff weight in fuel. This is why most studies see battery aircraft serving short routes first, with hybrids, hydrogen and sustainable fuels handling longer ones. Hydrogen reverses the problem: per kilogram it holds about three times the energy of kerosene, but as a liquid at minus 253 degrees Celsius it needs roughly four times the volume, and its tanks are heavy and bulky. Burning hydrogen produces no carbon dioxide but does produce water vapour and some nitrogen oxides, and scientists are still studying how water vapour released at high altitude affects contrails and climate. Sustainable aviation fuel is chemically similar to kerosene, so its benefit depends on its full life cycle: estimates of how much it cuts emissions range widely, from modest to very large, depending on the raw material, how much land and energy are used, and whether it competes with food crops. Researchers also debate how much to prioritise contrail avoidance, since small changes in flight altitude could prevent many warming contrails. For supersonic flight, the key question is human response: the X-59 is designed to turn a boom into a quieter thump, and its community tests aim to gather the evidence regulators need. Looking back, historians also argue about how to describe 'firsts'. The Wrights are credited with the first sustained, powered, controlled airplane flights, while many Brazilians honour Santos-Dumont for the first publicly witnessed powered flights in Europe, and claims for Whitehead and Pearse lack solid evidence. Careful wording, rather than national pride, is what makes history trustworthy.",
+  "funFact": "When Neil Armstrong landed on the Moon in 1969, he carried with him a piece of wood from the 1903 Wright Flyer's propeller and a scrap of fabric from its wing.",
+  "check": {
+    "q": "How did Solar Impulse 2 keep flying through the night?",
+    "a": "It used energy stored in batteries that its solar cells had charged during the day",
+    "wrong": [
+      "It burned a small tank of jet fuel at night",
+      "It landed every evening and took off again at sunrise",
+      "It was towed by another airplane until morning"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Solar Impulse",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Solar_Impulse"
+    },
+    {
+      "title": "Lockheed Martin X-59 Quesst",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_Martin_X-59_Quesst"
+    },
+    {
+      "title": "Quesst mission",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/mission/quesst/"
+    },
+    {
+      "title": "Electric aircraft",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electric_aircraft"
+    },
+    {
+      "title": "Hydrogen-powered aircraft",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hydrogen-powered_aircraft"
+    },
+    {
+      "title": "Sustainable aviation fuel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sustainable_aviation_fuel"
+    },
+    {
+      "title": "eVTOL",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/EVTOL"
+    },
+    {
+      "title": "Wright Flyer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wright_Flyer"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The solar-powered aircraft Solar Impulse 2 with its very long wings covered in solar cells",
+      "search": "Solar Impulse 2 aircraft"
+    },
+    {
+      "want": "NASA's X-59 quiet supersonic research aircraft with its very long pointed nose",
+      "search": "NASA X-59 Quesst aircraft"
+    },
+    {
+      "want": "The original 1903 Wright Flyer on display at the Smithsonian National Air and Space Museum",
+      "search": "1903 Wright Flyer National Air and Space Museum"
+    }
+  ]
+}

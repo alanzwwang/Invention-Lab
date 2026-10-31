@@ -1,0 +1,157 @@
+{
+  "n": 6,
+  "title": "Faraday's Magic Ring",
+  "when": "1831 – 1880s",
+  "summary": "Michael Faraday wrapped two coils of wire around an iron ring and discovered how to make electricity from magnets. Then he spun a copper disc between magnet poles and built the very first generator. His big idea of invisible force fields helped later scientists discover radio waves, and he loved sharing science with children at Christmas.",
+  "sections": [
+    {
+      "heading": "Ten Years of Wondering",
+      "paragraphs": [
+        "At the end of Part 5 we left Michael Faraday with a question buzzing in his head. Ørsted had shown in 1820 that an electric current makes magnetism. Nature often seems to work in pairs, so surely the reverse should be true too. Surely a magnet could make an electric current. Faraday is often said to have written a reminder to himself in his notebook in 1822: convert magnetism into electricity.",
+        "It sounds simple, but it was not. Faraday and many other scientists tried. They put strong magnets next to coils of wire and watched the needles of their meters. Nothing happened. They wound wires around magnets and waited. Nothing. A magnet sitting still next to a wire produced no current at all, however long you left it. In Paris, François Arago noticed in 1824 that a spinning copper disc could drag a hanging magnet round with it, a strange effect that no one could explain. The answer was hiding right there, but nobody yet saw it.",
+        "Faraday was busy with many other things during these years. In 1825 he discovered benzene, a chemical that is now used to make plastics, dyes and medicines. He spent years trying to make better glass for telescopes. He became director of the laboratory at the Royal Institution in 1825, and he started the Friday Evening Discourses, talks for the public that still take place today. He also married Sarah Barnard in 1821, and they lived in rooms at the top of the Royal Institution building for decades. They never had children of their own, but they helped raise a niece and loved having young visitors.",
+        "In 1829 Humphry Davy died in Geneva, aged only 50. With his old master gone, and his reputation now secure, Faraday felt free to return to the big question. In the summer of 1831 he went back to it with full force."
+      ]
+    },
+    {
+      "heading": "29 August 1831: The Magic Ring",
+      "paragraphs": [
+        "Imagine the basement laboratory of the Royal Institution on a late summer day in 1831. It is cool and a little damp, lit by daylight from high windows and the glow of a furnace. On the bench lies a ring of soft iron, about 15 centimetres, or 6 inches, across and as thick as a finger. Faraday has spent days wrapping it with copper wire. Because there is no plastic in 1831, he insulates the wire by winding cotton thread and calico between the layers.",
+        "He has wound two separate coils on opposite sides of the ring. He calls one side A and the other side B. The two coils do not touch each other at all. They are connected only through the iron. Coil B is joined by a long wire to a galvanometer, a needle that swings when current flows. The wire is long enough that the battery's own magnetism will not disturb the needle. Coil A can be connected to a battery.",
+        "On 29 August 1831, Faraday connected coil A to the battery. At that instant, the needle connected to coil B gave a sudden kick, swung, and then settled back to zero. Current was flowing steadily through coil A, the iron ring was now a magnet, but coil B produced nothing more. Then he disconnected the battery. Again the needle kicked, but this time in the opposite direction, and settled back.",
+        "Faraday realised what was happening. A steady magnet did nothing. But at the moment the magnetism was changing, growing as the current switched on or vanishing as it switched off, a brief current was pushed through the second coil. He described it as a wave of electricity. The secret was not magnetism. It was changing magnetism. That is why everyone had failed for ten years: they had been waiting for a still magnet to do something, and a still magnet never will.",
+        "Today we call this effect electromagnetic induction: making an electric current by changing the magnetism passing through a coil, or by moving a wire and a magnet past each other. Faraday's ring was, in fact, the first transformer, a device with two coils on an iron core. In Part 13 you will see how transformers like this became one of the most important machines in the whole electrical world. Faraday's original ring still survives and is displayed at the Royal Institution in London."
+      ]
+    },
+    {
+      "heading": "A Magnet Plunged into a Coil",
+      "paragraphs": [
+        "Faraday did not rush to announce his discovery. Over the next few weeks he tested it in every way he could think of, because he wanted to be absolutely sure. If changing magnetism was the key, he reasoned, then he did not need a battery at all. He could make the magnetism change simply by moving a magnet.",
+        "In the autumn of 1831 he wound a long coil of wire around a hollow paper tube and connected it to his galvanometer. Then he took an ordinary bar magnet and plunged it quickly into the tube. The needle swung. He pulled the magnet out again. The needle swung the other way. When the magnet sat still inside the coil, nothing happened. Push it in, current one way. Pull it out, current the other way. The faster he moved the magnet, the bigger the kick.",
+        "For the first time in history, someone had made electricity from motion and a magnet, without any battery or chemicals. Think about how important this is. A battery makes electricity from chemicals, and when the chemicals are used up, it stops. But motion can come from almost anywhere: a turning water wheel, a steam engine, a windmill, a falling river, a person turning a handle. If you can turn motion into electricity, you can make as much electricity as you have motion to spare.",
+        "You can try a gentle version of this yourself with a bicycle dynamo, the small generator that rubs against a tyre to power a bike lamp. Inside is a magnet that spins next to a coil of wire. When the bike stands still, the lamp is dark. Pedal slowly and it glows dimly. Pedal fast and it shines brightly, because the magnetism through the coil is changing faster. Wind-up torches and some hand-cranked radios work in exactly the same way, and so does the generator in a car that keeps its battery charged. Each one is a direct descendant of the bar magnet Faraday pushed into a paper tube in 1831.",
+        "There is one more important rule, worked out by the Russian-German physicist Heinrich Lenz in 1834. The current that is induced always flows in a direction that tries to resist the change causing it. That means you have to push a little harder to move the magnet when current is flowing. Nothing is free: the energy in the electricity comes from the work your muscles, or a steam engine, put in. This is why big generators need huge engines or turbines to turn them.",
+        "In late November 1831 Faraday read the first of his famous papers on the subject to the Royal Society, as part of a long series he called Experimental Researches in Electricity. He kept careful numbered notes of his experiments for decades, and his laboratory diary, thousands of paragraphs long, is still kept at the Royal Institution."
+      ]
+    },
+    {
+      "heading": "The Spinning Copper Disc",
+      "paragraphs": [
+        "Plunging a magnet in and out of a coil makes only short bursts of current. Faraday wanted something better: a machine that made electricity continuously, for as long as you kept it moving. In the autumn of 1831 he found one, and his notebook entry of 28 October describes the experiment.",
+        "He took a flat disc of copper and mounted it on an axle so it could spin like a wheel. He placed it between the poles of a large, powerful horseshoe magnet, so that the edge of the disc passed through the strong magnetism between the poles. Then he pressed one sliding contact against the axle in the middle and another against the rim of the disc, and joined both to his galvanometer with wires. When he turned a handle and the disc spun, the needle moved and stayed moved. As long as the disc kept turning, a steady current flowed.",
+        "Why does it work? Think of the copper disc as millions of thin spokes running from the centre to the edge. As each spoke sweeps through the magnetism, the charges inside it are pushed along the spoke, outward or inward depending on the direction of spin. So there is always a push between the centre of the disc and its rim, and if you connect them with a wire, current flows around the circuit. Turn the disc the other way and the current reverses.",
+        "This Faraday disc was the first electric generator, also called a dynamo: a machine that turns motion into electricity. It was not very good. The voltage it made was tiny, much less than a single modern torch battery, and some of the current swirled around uselessly inside the disc itself, warming it up instead of flowing out through the wires. It was never used as a practical power source. But it showed, beyond any doubt, that a turning machine could produce a steady supply of electricity.",
+        "Every big power station in the world today, whether it burns gas, splits atoms or catches falling water, contains generators that work by the principle Faraday discovered in 1831: a magnet and coils of wire moving past each other. Only solar panels and batteries make electricity in a really different way. When you switch on a light at home, there is a good chance a giant spinning descendant of Faraday's little disc is turning somewhere for you."
+      ]
+    },
+    {
+      "heading": "Meanwhile, in Albany: Joseph Henry",
+      "paragraphs": [
+        "Faraday was not alone. Remember Joseph Henry, the American teacher from Part 5 who built electromagnets that could lift nearly a tonne? He was born in Albany, New York in 1797 into a poor family, worked for a while as a watchmaker's apprentice and even acted in a theatre group, before a book of popular science lectures turned his attention to science. He became professor of mathematics and natural philosophy at the Albany Academy, a school for boys, in 1826.",
+        "Henry had a problem Faraday did not have: time. He taught for many hours a day, and the only period he could use the school's large hall for experiments was during the summer holidays. Yet working with his powerful electromagnets, Henry noticed the same effect Faraday found. When the current in one coil was switched on or off, a current appeared briefly in another coil nearby. Some historians think he may have observed induction around 1831, possibly even before Faraday, though his notes are incomplete and the exact date is uncertain.",
+        "But Henry was slow to publish. He wanted to finish his experiments properly, and he was far from the main scientific journals of Europe. When he read about Faraday's results in 1832, he quickly wrote up his own findings and published them in the American Journal of Science. Henry also discovered something Faraday had not yet studied in detail: self-induction, the way a single coil resists sudden changes in its own current. When you break the circuit of a big coil, the collapsing magnetism can produce a big spark. Faraday published his own work on this a little later.",
+        "So who discovered electromagnetic induction? Faraday published first and explored it far more thoroughly, so he receives the main credit. But it is fair to say that Henry discovered it independently, at about the same time, on the other side of an ocean. Science honours both men: the unit of capacitance, the farad, is named after Faraday, and the unit of inductance, the henry, is named after Henry.",
+        "Henry went on to a remarkable career. In 1832 he became a professor at the College of New Jersey, now Princeton University, and in 1846 he became the first Secretary of the brand-new Smithsonian Institution in Washington, D.C., a post he held until his death in 1878. He helped turn the Smithsonian into one of the most important science institutions in the United States."
+      ]
+    },
+    {
+      "heading": "Pixii's Hand-Cranked Machine",
+      "paragraphs": [
+        "News of Faraday's discovery reached Paris quickly, and an instrument maker there named Hippolyte Pixii, only in his early twenties, set to work. His family made scientific instruments, and in 1832 he built one of the first machines designed to produce electricity from motion in a useful way.",
+        "Pixii's machine turned Faraday's idea around. Instead of moving a wire past a still magnet, it spun the magnet. A horseshoe-shaped permanent magnet was mounted on an upright axle, and a hand crank with gears turned it. Just above the magnet's poles sat two coils of wire wound on iron cores. As the magnet spun, its north and south poles took turns sweeping past the coils, and each pass produced a pulse of current.",
+        "Pixii noticed something interesting: the current reversed direction every time a north pole passed the coils after a south pole. In other words, his machine naturally produced alternating current, electricity that switches direction back and forth. This is what spinning magnets do. We will come back to that fact in a big way in Part 13 and Part 14, when alternating current becomes the centre of a great industrial battle.",
+        "In 1832, though, scientists wanted current that flowed one way, like the current from a battery, because that was what they used for electrolysis and experiments. So, on the suggestion of André-Marie Ampère, Pixii added a commutator, a clever rotating switch on the axle that flipped the connections every half turn. The output then always flowed in the same direction, though it came in bumpy pulses rather than smoothly.",
+        "Pixii's machine is called a magneto, because it used permanent magnets. It was still small and turned by hand, but it was a true ancestor of the dynamos that would light cities later in the century. A reproduction of it is displayed at the Ampère Museum near Lyon in France. Over the next forty years, inventors in many countries improved these machines step by step, adding more coils, using electromagnets instead of permanent magnets and driving them with steam engines, until, as you will see in Part 7, they could finally make enough electricity to power arc lights and industry."
+      ]
+    },
+    {
+      "heading": "Invisible Lines of Force",
+      "paragraphs": [
+        "Faraday had very little mathematics. He had left school early and never studied algebra or calculus. So instead of equations, he thought in pictures. Scatter iron filings on a sheet of paper over a magnet and tap the paper gently. The filings arrange themselves into curving lines that loop from one pole to the other. Faraday believed these lines of force were not just a pretty pattern. He thought they were real, filling the space around every magnet and every current, like invisible stretched rubber bands.",
+        "This was a radical idea. Most scientists of the time thought of forces as acting directly across empty space between objects, the way Newton described gravity. Faraday instead imagined space itself filled with something, what we now call a field. In his picture, induction happened whenever a wire cut across lines of magnetic force, or when the lines passing through a coil changed in number. It was a simple, beautiful way of seeing it, and it gave correct predictions.",
+        "In 1845 Faraday made another stunning discovery. He passed a beam of light through a special heavy glass placed in a strong magnetic field, and found that the magnetism twisted the direction in which the light waves vibrated. This is now called the Faraday effect. It was the first experimental evidence that light and magnetism are connected. Faraday began to wonder whether light itself might be a kind of vibration of his lines of force.",
+        "The person who turned Faraday's pictures into mathematics was a young Scottish physicist, James Clerk Maxwell, born in Edinburgh in 1831, the very year of Faraday's ring. Maxwell admired Faraday deeply and often attended lectures at the Royal Institution. In papers published in 1861 and 1862 he built a model of Faraday's lines of force, and he calculated how fast a disturbance in electric and magnetic fields would travel. The answer came out at almost exactly the speed of light, about 300,000 kilometres per second. Maxwell wrote that we can scarcely avoid the conclusion that light is made of waves in the same medium that causes electric and magnetic effects.",
+        "In 1865 Maxwell published A Dynamical Theory of the Electromagnetic Field, setting out his theory fully, and in 1873 his great book, A Treatise on Electricity and Magnetism. His equations showed that light is an electromagnetic wave, and they also predicted that there should be other electromagnetic waves, with wavelengths much longer or shorter than visible light. Maxwell died in 1879, aged only 48, before anyone could prove him right.",
+        "The proof came from Germany. Between 1886 and 1888, at the technical university in Karlsruhe, Heinrich Hertz built a transmitter with two metal rods about a metre long and a small gap between them. A high-voltage coil made sparks leap across the gap, and those sparks sent out invisible waves. Across the room, a simple loop of wire with its own tiny gap acted as a receiver; when the waves arrived, a faint spark jumped in it. Hertz measured waves a few metres long and showed they travelled at the speed of light and could be reflected, just as Maxwell had predicted. He had made the first radio waves on purpose. Asked what his discovery was good for, Hertz is reported to have said that it was of no use whatsoever. Within a few years, others used those same waves to send wireless messages, and today they carry radio, television, Wi-Fi and mobile phone signals. The unit of frequency, the hertz, is named after him."
+      ]
+    },
+    {
+      "heading": "Plain Mr Faraday",
+      "paragraphs": [
+        "What was Michael Faraday like as a person? By all accounts he was modest, gentle and deeply religious. He belonged to a small Christian group called the Sandemanians, who believed in living simply and humbly, and he served as a deacon and elder in their church. He refused to get rich from his discoveries and did a great deal of unpaid work for the public, such as advising on lighthouses and safety in coal mines.",
+        "He received many honours, but he turned down a knighthood. He wanted to remain, as he put it, plain Mr Faraday to the end. He also twice declined the offer to become president of the Royal Society. Despite having no university education, he became one of the most respected scientists in the world.",
+        "Faraday also cared about explaining science to everyone, especially young people. In 1825 the Royal Institution began a series of Christmas Lectures for young audiences, a tradition Faraday championed. He gave them himself nineteen times between 1827 and 1860, more than anyone else in their history. His most famous series, in 1848, was called The Chemical History of a Candle. Using nothing more than a candle flame, he explained combustion, air, water and much of chemistry, and the lectures became a book that is still in print. The Christmas Lectures continue today, have been shown on British television for decades, and have stopped only during the Second World War.",
+        "In 1836 he showed another famous effect. He built a room-sized box covered in metal foil, stepped inside, and had powerful sparks discharged onto the outside. Inside, his instruments detected no charge at all: electricity stays on the outside of a closed metal shell. This Faraday cage is why people are fairly safe inside a car or aeroplane struck by lightning, and why a microwave oven keeps its waves inside.",
+        "As Faraday grew older, his memory began to fail. In 1848 Queen Victoria and Prince Albert gave him the use of a house at Hampton Court, near London, where he moved fully in 1858. He ended his service at the Royal Institution in 1865 after more than fifty years there, and he died at Hampton Court on 25 August 1867, aged 75. He was buried simply, in a Sandemanian plot in Highgate Cemetery in London.",
+        "Faraday's discoveries are everywhere. The electric motor, the generator, the transformer, the idea of the field that led to radio: all of them trace back to that unschooled bookbinder's apprentice with his coils of wire and his notebook. And the most important of them was the discovery of 29 August 1831. Before it, electricity came only from rubbing machines and expensive batteries that soon ran down. After it, electricity could be made from motion, any motion at all. The key was in the lock. Within a few decades, people would build machines to make electricity on a giant scale, and set it to work."
+      ]
+    }
+  ],
+  "deepDive": "Faraday stated his discovery in words, but it can be written today as Faraday's law of induction: the voltage induced in a loop of wire equals the rate at which the magnetic flux through it changes. Magnetic flux is roughly the strength of the magnetic field multiplied by the area it passes through. So there are three ways to induce a voltage: change the field strength (as when coil A on the ring was switched on), move the magnet or the coil (the bar magnet in the tube), or change the area or angle (a coil spinning in a field, as in every modern generator). If the coil has N turns, the voltage is N times bigger, which is why generators and transformers use many turns of wire. Lenz's law, from 1834, adds the minus sign: the induced current always opposes the change that caused it. This is the law of conservation of energy in disguise; if the induced current helped the change instead, you could build a machine that sped itself up forever, which is impossible. Historians still discuss the question of priority with Joseph Henry. Henry's notebooks from Albany are incomplete, and he did not publish until 1832, after Faraday's results were known, so his exact date is uncertain; most historians conclude that he found induction independently but cannot be shown to have found it first. Faraday's insistence on fields was also controversial. Many leading physicists of the 1830s and 1840s preferred action at a distance, and some of them did not take lines of force seriously until Maxwell's equations made them precise. In Maxwell's theory, a changing magnetic field produces an electric field, and a changing electric field produces a magnetic field; the two can keep regenerating each other and travel through empty space as a wave at a speed set by two measured electrical constants, about 3 × 10^8 metres per second. That number matching the measured speed of light was one of the great surprises of nineteenth-century science, and Hertz's experiments confirmed it. Einstein, who kept a picture of Faraday on his study wall, built his special theory of relativity in 1905 partly on puzzles from electromagnetic induction.",
+  "funFact": "Faraday's 1831 iron ring, the first transformer, still exists and is on display at the Royal Institution in London, close to the basement laboratory where he made it.",
+  "check": {
+    "q": "What was the secret Faraday discovered about making electricity with magnetism?",
+    "a": "The magnetism had to be changing or moving; a still magnet makes no current",
+    "wrong": [
+      "The magnet had to be made of copper",
+      "The magnet had to be heated until it glowed",
+      "The magnet had to touch the wire directly"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Electromagnetic induction",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electromagnetic_induction"
+    },
+    {
+      "title": "Michael Faraday (biography)",
+      "publisher": "The IET Archives",
+      "url": "https://www.theiet.org/membership/library-and-archives/the-iet-archives/biographies/michael-faraday"
+    },
+    {
+      "title": "Michael Faraday",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Michael_Faraday"
+    },
+    {
+      "title": "Homopolar generator",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Homopolar_generator"
+    },
+    {
+      "title": "Joseph Henry",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Joseph_Henry"
+    },
+    {
+      "title": "Hippolyte Pixii",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hippolyte_Pixii"
+    },
+    {
+      "title": "James Clerk Maxwell",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell"
+    },
+    {
+      "title": "Heinrich Hertz",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Heinrich_Hertz"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Faraday's iron induction ring with two coils of wire, the first transformer (1831)",
+      "search": "Faraday induction ring 1831"
+    },
+    {
+      "want": "Engraving or diagram of the Faraday disc generator, a copper disc spinning between the poles of a horseshoe magnet",
+      "search": "Faraday disk generator"
+    },
+    {
+      "want": "Hippolyte Pixii's hand-cranked magneto generator of 1832 with a spinning horseshoe magnet",
+      "search": "Pixii dynamo 1832"
+    }
+  ]
+}

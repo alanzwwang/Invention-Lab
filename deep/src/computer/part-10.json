@@ -1,0 +1,145 @@
+{
+  "n": 10,
+  "title": "ENIAC, the Giant Brain",
+  "when": "1943 – 1955",
+  "summary": "ENIAC was a computer so big it filled a whole room and weighed as much as five elephants. It had about 18,000 glowing glass tubes and could add 5,000 numbers in one second. Six clever women worked out how to program it, but for many years almost nobody knew their names.",
+  "sections": [
+    {
+      "heading": "A War That Needed Numbers",
+      "paragraphs": [
+        "Picture a soldier standing beside a huge artillery gun in the middle of the Second World War. His target is several kilometres away, far beyond sight. How high should he point the barrel? It depends on the distance, the weight of the shell, the type of gunpowder, the temperature, the height above sea level and even the wind. Get it wrong and the shell lands in an empty field, or on your own side.",
+        "The answer came from a small book called a firing table. For each gun and each type of shell, a firing table listed the correct angles for hundreds of different situations. Gunners simply looked up the numbers. But behind every row of that book was a long calculation, called a trajectory, which traced the flight of a shell through the air, step by tiny step, taking air resistance and gravity into account. A single firing table needed thousands of trajectories.",
+        "In the United States, that work was done for the army's Ballistic Research Laboratory at the Aberdeen Proving Ground in Maryland. Much of it was carried out in Philadelphia at the University of Pennsylvania's Moore School of Electrical Engineering. There, dozens of human computers, most of them young women with mathematics degrees, worked at desk calculators, cranking through equations. The Moore School also had a differential analyzer, the kind of spinning-shaft analog machine you met in Part 6, which was faster but still slow and not very precise.",
+        "Working by hand, one trajectory could take a human computer many hours; the University of Pennsylvania estimates about 12. As the war spread and new guns and shells kept arriving, the army fell further and further behind. Gunners were sometimes sent weapons whose tables were not ready. The army needed computing power, and it needed it fast."
+      ]
+    },
+    {
+      "heading": "A Physicist and a Young Engineer",
+      "paragraphs": [
+        "One of the people at the Moore School was John Mauchly, a physicist who had been teaching at Ursinus College near Philadelphia. Mauchly was fascinated by weather and had dreamed of using fast machines to search through masses of weather data. In 1941 he had visited John Atanasoff in Iowa to see the Atanasoff–Berry Computer you met in Part 8, an electronic machine that used vacuum tubes. Mauchly came away convinced that electronic calculating was the future.",
+        "At the Moore School, Mauchly found the perfect partner: J. Presper Eckert, a brilliant engineering graduate student still in his early twenties. Mauchly was the dreamer with big ideas; Eckert was the practical engineer who knew exactly how to make circuits work. In August 1942 Mauchly wrote a short memo describing how vacuum tubes could be used to build an electronic calculator far faster than any mechanical machine.",
+        "The memo might have been forgotten, but in 1943 it came to the attention of Herman Goldstine, a mathematician serving as an army lieutenant and working as a link between the Moore School and the Ballistic Research Laboratory. Goldstine realised that such a machine could solve the firing-table crisis, and he persuaded the army to pay for it. The contract was signed on 5 June 1943. Work began in secret under the code name Project PX.",
+        "The machine was given a long name: the Electronic Numerical Integrator and Computer, or ENIAC for short. Integrator referred to the kind of step-by-step calculation needed for trajectories, and Computer showed that it was meant to do the work of human computers. In the end the project cost about 487,000 US dollars, a huge sum at the time, many times what had first been planned.",
+        "Many experts thought the plan was foolish. ENIAC would need thousands upon thousands of vacuum tubes, and everybody knew tubes burned out. With so many, surely one would fail every few minutes, and the machine would never finish a calculation. Eckert and Mauchly had to prove them wrong."
+      ]
+    },
+    {
+      "heading": "Inside the Giant",
+      "paragraphs": [
+        "If you could walk into the ENIAC room at the Moore School in 1946, you would find yourself surrounded. The machine was made of 40 large panels, each much taller than a grown-up, arranged in a giant U shape around the walls of a room about 9 by 15 metres. The panels were lined with rows of glowing glass tubes, dials, switches, sockets and neon lamps. Thick black cables looped between them like vines in a jungle. Fans pushed air through the machine, because all those tubes gave off a great deal of heat.",
+        "The numbers are amazing. ENIAC contained 17,468 vacuum tubes, though it is often described as having about 18,000. It also had about 7,200 crystal diodes, 1,500 relays, 70,000 resistors and 10,000 capacitors, all joined by a vast number of hand-soldered connections (often given as about 5 million, though some counts are much lower). It weighed about 27 tonnes, about as much as five African elephants, and filled a room of roughly 1,500 to 1,800 square feet (about 140 to 170 square metres), depending on how it is measured. It used about 150 kilowatts of electricity, roughly what a hundred or so homes might use at once today.",
+        "So what did all those tubes do? ENIAC worked with ordinary decimal numbers, 0 to 9, not binary. Each digit was stored in a ring counter, a loop of ten tube circuits in which exactly one was switched on at a time, like a single lit bulb travelling around a ring of ten. Adding 3 meant sending three electrical pulses, which moved the lit position three steps around the ring. When it passed 9 and went back to 0, it sent a carry pulse to the next digit, just like the carry wheel in Pascal's calculator back in Part 2, only electronic.",
+        "The heart of ENIAC was its 20 accumulators. Each accumulator could hold a ten-digit number, with a plus or minus sign, and could add or subtract numbers sent to it. There were also special units for multiplying, for dividing and finding square roots, and three large portable function tables, wheeled cabinets covered with about 1,200 dials each, which held tables of numbers the program needed. Numbers came into ENIAC on punched cards from an IBM card reader, and answers came out on cards from an IBM card punch, which could then be printed.",
+        "And it was fast. ENIAC could do about 5,000 additions or subtractions every second, and a few hundred multiplications. That sounds slow next to a phone, which can do billions of operations a second. But the best electromechanical calculators of the time, such as the Harvard Mark I from Part 8, managed only about three additions per second. ENIAC was more than a thousand times faster. A trajectory that took a human many hours could now be calculated in well under a minute.",
+        "There was one more important thing about ENIAC. It was general-purpose. Colossus, in the last part, could only help break one kind of cipher. ENIAC could be set up to solve almost any kind of mathematical problem, from shell trajectories to the physics of atoms to the weather. It could also make decisions, choosing which steps to do next based on its own results. Mathematicians today would say it was Turing-complete: given enough time and memory, it could in principle compute anything a computer can."
+      ]
+    },
+    {
+      "heading": "Programming With Cables and Switches",
+      "paragraphs": [
+        "Today, to make a computer do something new, you open a different app or type some code. ENIAC had no keyboard, no screen and no programs stored inside it. To program ENIAC, people had to physically rebuild its connections. Each unit had to be told what to do by setting rows of switches. Then the units had to be connected to each other with heavy plug-in cables, so that numbers and control pulses could travel from one unit to another in the right order. A special unit called the master programmer could repeat steps and choose between different paths.",
+        "Planning a program meant first breaking a mathematical problem into thousands of tiny steps that ENIAC's units could carry out, then drawing detailed diagrams showing every switch setting and every cable. Working out how to fit a problem onto the machine usually took weeks. Then came the physical work: walking around the U-shaped room, plugging in cables and setting hundreds of switches and dials, which could take days. If one cable was in the wrong socket, the answers would be wrong, and the programmers had to hunt for the mistake, sometimes crawling between the panels with diagrams in hand.",
+        "This was a completely new kind of job. Nobody had ever programmed an electronic computer before, so there was no manual and no course to take. Engineers built the hardware, and many of them assumed that setting it up would be simple clerical work. They were wrong. Programming turned out to be every bit as difficult and creative as designing the circuits, and sometimes more so.",
+        "Because ENIAC's program was set by its wiring, changing from one problem to another meant pulling out the cables and starting again. While a new problem was being set up, the expensive machine sat idle. This would turn out to be ENIAC's biggest weakness, and one of the main reasons the next generation of computers was designed differently."
+      ]
+    },
+    {
+      "heading": "The Six Programmers",
+      "paragraphs": [
+        "In 1945, six women were chosen from among the Moore School's human computers to become ENIAC's first programmers. They were Kay McNulty, Betty Jennings, Betty Snyder, Marlyn Wescoff, Frances Bilas and Ruth Lichterman. After they married, several became better known by other names: Kay McNulty Mauchly Antonelli, Jean Jennings Bartik, Betty Snyder Holberton, Marlyn Wescoff Meltzer, Frances Bilas Spence and Ruth Lichterman Teitelbaum.",
+        "They came from different backgrounds. Kay McNulty was born in 1921 in County Donegal in Ireland and moved to Philadelphia as a small child; she graduated in mathematics from Chestnut Hill College in 1942 and was hired as a human computer calculating trajectories that same year. Jean Jennings grew up on a farm in Missouri, one of seven children, and answered an advertisement for mathematicians to work as computers in Philadelphia. Betty Snyder, from Philadelphia, went on to become one of the most inventive programmers of her time.",
+        "At first, while their security clearances were sorted out, they reportedly could not even go into the ENIAC room. So they learned the machine from its block diagrams and wiring diagrams, and by asking the engineers question after question. They had to understand exactly how every accumulator, every pulse and every switch worked. In effect, they taught themselves how to program the first general-purpose electronic computer, then went on to teach others.",
+        "For ENIAC's public unveiling in February 1946, Jean Jennings and Betty Snyder were asked to prepare a demonstration: a program to calculate the trajectory of a shell. According to Jean Bartik's later account, they worked on it for weeks, and the night before the event they were still hunting for a bug that made the program fail to stop at the right moment. Betty Snyder figured out the fix in the middle of the night, and the demonstration worked perfectly.",
+        "Yet when the newspapers wrote about ENIAC, the six programmers were almost invisible. Some photographs showed women standing beside the machine, and people assumed they were models or assistants posing for the camera. For decades the women were left out of most histories. That began to change in the 1980s, when a Harvard student named Kathy Kleiman came across old photographs of ENIAC with women in them and set out to find out who they were. She tracked down and interviewed the programmers, an effort that became the ENIAC Programmers Project and later a documentary film.",
+        "Recognition came at last. In 1997 all six were inducted into the Women in Technology International Hall of Fame. Jean Bartik became a Fellow of the Computer History Museum in 2008. Several of the six went on to important careers: Betty Holberton helped develop software for the UNIVAC and contributed to the early programming languages COBOL and FORTRAN, and Kay McNulty is credited with helping to develop the idea of the subroutine, a reusable chunk of program that could be called again and again."
+      ]
+    },
+    {
+      "heading": "The Giant Brain Goes Public",
+      "paragraphs": [
+        "ENIAC was finished too late to help in the war. Germany surrendered in May 1945 and Japan in August 1945, while ENIAC was still being tested. But its builders were proud, and the army was happy to show it off. On the evening of 14 February 1946, ENIAC was announced to the press, and the next day, 15 February, it was formally dedicated at the Moore School in front of scientists, army officers and important guests.",
+        "During the demonstrations, ENIAC added 5,000 numbers in a single second. Then it calculated the trajectory of a shell, step by step, in less time than the shell itself would take to fly from the gun to its target. A calculation that would take a human computer many hours was done in seconds. For the occasion, the engineers reportedly put translucent table-tennis balls cut in half over some of the small neon lights on the panels, numbered so that the audience could see digits flickering, which made the machine look even more impressive.",
+        "The newspapers were thrilled. The New York Times reported the news on its front page, describing an amazing machine that applied electronic speeds to mathematical tasks for the first time. Reporters called ENIAC a 'giant brain' and an 'electronic brain', and the nickname stuck to computers for years. Of course, ENIAC could not think. It could only follow the instructions that people had wired into it, very quickly. But the phrase showed how astonishing it seemed that a machine could do in seconds the work of a room full of people.",
+        "A popular story says that when ENIAC was switched on, the lights of Philadelphia dimmed. It is a fun legend, but there is no good evidence that it ever happened, and historians treat it as a myth. ENIAC used a lot of electricity, but not enough to darken a city.",
+        "In fact, ENIAC's very first large job had nothing to do with artillery. In December 1945, before the public announcement, scientists from the Los Alamos laboratory in New Mexico, where the atomic bomb had been built, used it for a long and secret calculation connected with research into a much more powerful hydrogen bomb. That calculation is said to have used about a million punched cards. It showed that ENIAC really was a general-purpose machine that could tackle whatever problem scientists brought to it."
+      ]
+    },
+    {
+      "heading": "Keeping the Giant Alive",
+      "paragraphs": [
+        "Remember the experts who said ENIAC would never work because its tubes would keep burning out? They had a point. A vacuum tube contains a tiny heated wire, a little like the filament of an old-fashioned light bulb, and like a light bulb, it eventually fails. With more than 17,000 tubes, even a very small chance of failure for each tube adds up to a lot of failures for the whole machine.",
+        "Presper Eckert had an answer, the same insight Tommy Flowers had used in Britain. Tubes failed most often when they were pushed hard, or when they were switched on and heated up. So Eckert designed ENIAC's circuits so that the tubes worked far below their maximum ratings, at a small fraction of the power they were built for. The University of Pennsylvania says they ran at about one-quarter power. ENIAC was also usually left switched on, to avoid the heating and cooling that weakened tubes.",
+        "Even so, in the early days several tubes burned out almost every day, and the machine was out of action for long periods. Over time, engineers improved the situation, partly by using specially made, high-reliability tubes. Eventually ENIAC lost about one tube every two days on average, and technicians could usually find the dead tube within about 15 minutes. In 1954, near the end of its life, ENIAC set its record for running without a failure: 116 hours, close to five days.",
+        "Tubes were not the only problem. Thousands of connections, switches and cables could all go wrong, and heat built up quickly. Running ENIAC was a full-time job for a team of engineers and technicians, who tested tubes, replaced parts and checked the machine with test problems to make sure its answers were right before a real job began.",
+        "In 1946 ENIAC was taken apart and moved to the army's Ballistic Research Laboratory at the Aberdeen Proving Ground in Maryland, where it started work again in 1947. For the next eight years it was one of the hardest-working computers in the world, calculating firing tables, studying the physics of nuclear weapons, testing ideas about wind tunnels, cosmic rays and random numbers, and even helping with some of the first computer weather forecasts, as you will see in Part 19.",
+        "ENIAC was also changed so that it could run in a different way. In 1948, a team including Jean Bartik, and following ideas from the mathematician John von Neumann and others, rewired ENIAC so that it could follow a list of coded instructions held in its function tables, instead of having its cables rearranged for each new problem. It first ran this way in April 1948. It made ENIAC about six times slower, but setting up a new problem now took hours instead of days, which was a very good trade. You will hear much more about this big idea in the next part.",
+        "By the mid-1950s, newer and faster computers had arrived, and ENIAC was growing old. It was switched off for the last time at 11:45 at night on 2 October 1955. It had been working, in one form or another, for about ten years.",
+        "ENIAC was not kept in one piece. Its panels were shared out among museums and universities. Today some of them can be seen at the University of Pennsylvania, at the Computer History Museum in Mountain View, California, at the Smithsonian Institution, at the University of Michigan, at the US Army Field Artillery Museum in Oklahoma and even at a museum in Paderborn, Germany. Standing in front of one panel, covered with tube sockets and switches, it is hard to imagine 40 of them working together as a single machine."
+      ]
+    },
+    {
+      "heading": "Who Really Invented It?",
+      "paragraphs": [
+        "After the war, Eckert and Mauchly left the university to start their own company, which built the UNIVAC computer that you will meet in Part 11. They applied for a patent on ENIAC in 1947, and in 1964 it was finally granted. A patent gives an inventor the right to control who uses an invention, and to charge money for it. The ENIAC patent was very broad. It seemed to cover the basic idea of the electronic digital computer, and the company that now owned it, Sperry Rand, began asking other computer makers to pay fees.",
+        "One of those companies, Honeywell, refused, and the dispute went to court in Minneapolis, Minnesota. The trial was one of the longest and most complicated in the history of American patent law, with tens of thousands of documents and many witnesses, including John Atanasoff himself.",
+        "On 19 October 1973, Judge Earl R. Larson gave his decision. He ruled that the ENIAC patent was invalid. One reason was technical: ENIAC had been used publicly, and the patent applied for too late, more than a year after that use. But the most famous part of his ruling was that Eckert and Mauchly had not themselves invented the electronic digital computer, and that they had derived the basic idea from John Atanasoff, whose machine Mauchly had seen during his visit to Iowa in 1941.",
+        "The ruling surprised many people. It came out at the same time as a huge political crisis in the United States, the Watergate scandal, and so it received little attention in the newspapers. Historians still argue about it. Some agree that Atanasoff deserves much more credit than he once received. Others point out that ENIAC was a far bigger, general-purpose and programmable machine, very different from Atanasoff's special-purpose design, and that Eckert and Mauchly solved enormous engineering problems on their own. A court decides who owns a patent; it does not settle every question of history.",
+        "So, as with every big invention in this story, the fairest answer is that many people contributed. Atanasoff and Berry showed that tubes could do arithmetic. Flowers built Colossus in secret. Eckert, Mauchly, the six programmers and the Moore School team built the first general-purpose electronic computer and showed the world what it could do.",
+        "ENIAC was a giant step. It proved that a machine with thousands of tubes could work for years, and it calculated in seconds what had taken people weeks. Its builders, its programmers and the newspaper stories about the giant brain inspired scientists all over the world to build computers of their own.",
+        "But everyone who worked on ENIAC knew its weakness. Its memory could hold only 20 numbers in its accumulators, plus the tables set on its dials. And its program lived in its cables and switches. To change the program you had to rewire it, which could take days. The people who designed it were already asking themselves a question that would transform computing: what if the program could be stored inside the computer's memory, just like the numbers?"
+      ]
+    }
+  ],
+  "deepDive": "ENIAC's speed came from its electronic counters, but its design looks strange to modern eyes. It was decimal rather than binary: each digit used a ring of ten flip-flops, so one ten-digit accumulator needed hundreds of tubes. A central cycling unit sent out pulses at 100,000 per second, and an addition took 20 of those pulses, or 200 microseconds, giving the famous 5,000 additions per second. Multiplication took longer, so it managed a few hundred a second. ENIAC was also highly parallel: its accumulators could all work at the same time, which is one reason programming it was so hard, since programmers had to coordinate many units like conductors of an orchestra. Historians debate several points. One is the size of Atanasoff's influence. Judge Larson's 1973 ruling in Honeywell v. Sperry Rand found that Eckert and Mauchly derived the subject matter of the electronic digital computer from Atanasoff, but historians such as Arthur and Alice Burks have argued for Atanasoff's importance while others, including Mauchly's defenders, argue that ENIAC's general-purpose, programmable design owed little to the special-purpose ABC. A second debate concerns the 1948 conversion, which allowed ENIAC to run coded instructions stored in its function tables. Some historians, notably Thomas Haigh, Mark Priestley and Crispin Rope in their 2016 book on ENIAC, argue that this made ENIAC one of the first machines to run a program in the modern stored-program style, while others reserve that title for the Manchester Baby of June 1948, because ENIAC's instructions sat in read-only switches rather than in writable memory. A third debate is about recognition: the six programmers' work was ignored for decades partly because programming was seen as clerical 'women's work', while hardware was seen as the real invention. Today historians see programming as a central part of what made ENIAC useful.",
+  "funFact": "During ENIAC's 1946 demonstrations, halved table-tennis balls were reportedly placed over some of its neon lights so the audience could see the numbers glowing.",
+  "check": {
+    "q": "How did people change ENIAC's program?",
+    "a": "By plugging cables and setting switches by hand",
+    "wrong": [
+      "By typing on a keyboard",
+      "By inserting a floppy disk",
+      "By speaking commands into a microphone"
+    ]
+  },
+  "sources": [
+    {
+      "title": "ENIAC",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ENIAC"
+    },
+    {
+      "title": "ENIAC",
+      "publisher": "University of Pennsylvania School of Engineering and Applied Science",
+      "url": "https://www.engineering.upenn.edu/about/history-heritage/eniac/"
+    },
+    {
+      "title": "Jean Bartik",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jean_Bartik"
+    },
+    {
+      "title": "Kathleen Antonelli",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kathleen_Antonelli"
+    },
+    {
+      "title": "Honeywell, Inc. v. Sperry Rand Corp.",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Honeywell,_Inc._v._Sperry_Rand_Corp."
+    }
+  ],
+  "pics": [
+    {
+      "want": "Black-and-white photo of the ENIAC computer room in the 1940s, with programmers working among the panels and cables",
+      "search": "ENIAC computer 1946 photograph"
+    },
+    {
+      "want": "Photo of ENIAC programmers Betty Jennings and Frances Bilas operating the main control panel",
+      "search": "ENIAC programmers Jennings Bilas"
+    },
+    {
+      "want": "Surviving ENIAC panels or a portable function table displayed in a museum",
+      "search": "ENIAC panels museum display"
+    }
+  ]
+}

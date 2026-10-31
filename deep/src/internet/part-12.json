@@ -1,0 +1,154 @@
+{
+  "n": 12,
+  "title": "Searching the Haystack",
+  "when": "1990 – today",
+  "summary": "As the Internet filled up with millions of files and pages, finding anything became like looking for a needle in a haystack. Clever students built search tools with funny names like Archie, Gopher and Yahoo!, and then two Stanford students invented a smart way to rank pages by their links. Their project became Google, but the first search tools came years before it.",
+  "sections": [
+    {
+      "heading": "A Library With No Catalogue",
+      "paragraphs": [
+        "Imagine walking into the biggest library in the world. There are millions of books, but they are not arranged on shelves by subject. They are piled up in thousands of separate rooms, each room run by a different person, and new rooms are being added every day. There is no catalogue, no librarian and no map. That is roughly what the Internet looked like to its users around 1990.",
+        "Back then, much of the useful material on the Internet was stored on computers called FTP servers. FTP, the File Transfer Protocol, was an old and reliable way of copying files from one computer to another. Universities and companies set up 'anonymous FTP' sites where anyone could log in and download free programs, documents and data. The problem was that you had to know which computer had the file you wanted and in which folder. People shared lists by email and newsgroups, and many files were simply lost in the crowd.",
+        "At McGill University in Montreal, Canada, a graduate student from Barbados named Alan Emtage had a job helping students and staff find software. He got tired of hunting through FTP sites by hand, so he wrote a program to do it for him. His program regularly visited a list of anonymous FTP sites, collected the names of every file stored there and put them all into one searchable list. Instead of asking around, you could type part of a file name and get back a list of where to download it.",
+        "The tool was called Archie, from the word 'archive' with the letter v removed, partly because short names suited the computer systems of the time. It was publicly released on 10 September 1990, and colleagues including Bill Heelan and Peter Deutsch helped develop and spread it. Archie is widely regarded as the first Internet search engine. It was simple by today's standards: it searched file names, not the words inside documents, and you had to type rather exact commands. But the central idea was brand new and powerful. A program could automatically go out across the network, gather information about what was out there and build an index that people could search.",
+        "Emtage did not patent Archie or make a fortune from it, and for years few people knew his name. Today he is often honoured as one of the pioneers of search, and in 2017 he was inducted into the Internet Hall of Fame. Every search engine you use still follows the basic pattern that Archie showed: gather, index, answer."
+      ]
+    },
+    {
+      "heading": "Gophers, Veronica and Jughead",
+      "paragraphs": [
+        "In 1991, the same year Tim Berners-Lee announced the World Wide Web, a small team at the University of Minnesota released a different system for finding information. It was led by Mark McCahill and included programmers such as Farhad Anklesaria and Paul Lindner. They called it Gopher. The name was a joke with two meanings: the University of Minnesota's sports teams are the Golden Gophers, and a 'gofer' is someone who goes and fetches things for you.",
+        "Gopher worked like a giant set of menus. You started at a main menu with numbered choices, such as 'Campus news', 'Library catalogue' or 'Weather'. Choosing one opened another menu, and then another, like going through folders inside folders on a computer, until you reached a document. Crucially, a menu item could point to a different Gopher server anywhere in the world, so all the Gopher servers together formed one huge linked 'Gopherspace'.",
+        "For a while Gopher was more popular than the Web. It was simple, fast on slow modems, and easy for universities to set up. Search tools soon appeared for it, with names chosen to continue the Archie comic-book joke. Veronica, created in 1992 at the University of Nevada, Reno, searched the titles of menus on Gopher servers around the world. Jughead searched within a single Gopher site. (Archie, Veronica and Jughead are all characters in the long-running Archie comics.)",
+        "So why are you using the Web and not Gopher? Historians point to two big reasons. First, the Web was more flexible: a web page could mix text, links and later pictures in any arrangement, while Gopher was stuck with rigid menus. Second, in 1993 the University of Minnesota announced that it would charge licence fees to some users of its Gopher server software, especially businesses. In April of that same year, CERN put the Web's software into the public domain for anyone to use free. The Computer History Museum describes this moment as Gopher stumbling. Many developers decided the free, open Web was the safer bet, and Gopher faded. A few enthusiasts still run Gopher servers today, as a kind of living museum of the early Internet."
+      ]
+    },
+    {
+      "heading": "Jerry and David's Guide",
+      "paragraphs": [
+        "Even before automatic search engines for the Web became good, people tried another approach: making lists by hand. In 1991 the Web team at CERN started the WWW Virtual Library, a catalogue of interesting sites arranged by subject and looked after by volunteer experts. It was a bit like the subject cards in an old library drawer.",
+        "In early 1994 two electrical engineering graduate students at Stanford University in California, Jerry Yang and David Filo, started their own list of favourite websites, partly to avoid working on their theses. They worked from a trailer on campus that served as their office. At first their list was called 'Jerry and David's Guide to the World Wide Web'. As it grew, they sorted sites into categories, such as Science, Entertainment and Sports, and then into smaller sub-categories within those, like branches on a tree.",
+        "Within a few months they renamed it Yahoo!. The founders said they liked the word because in Jonathan Swift's novel Gulliver's Travels, a 'yahoo' is a rude, uncivilised creature, and they jokingly thought of themselves that way. They also offered a playful explanation of the letters: 'Yet Another Hierarchical Officious Oracle', though this was added after the name was chosen. The exclamation mark was part of the brand.",
+        "Yahoo! became wildly popular because it solved a real problem in a friendly way. If you wanted websites about volcanoes, you could click Science, then Earth Sciences, then Geology, then Volcanoes, and find a tidy list checked by a human. Soon tens of thousands of people a day were visiting. Yang and Filo founded a company in 1995 and hired staff, nicknamed 'surfers', whose job was to look at websites and decide which category they belonged in. Yahoo! shares went on sale to the public in 1996, and it became one of the most famous companies of the dot-com era, adding news, email, games and more to become a 'portal', a starting page for everything online.",
+        "But human-made directories had a weakness. People can only look at so many sites, and by the late 1990s new pages were appearing far faster than any team could review them. A directory was like a well-organised bookshop; what the Web now needed was something that could read every book in the library."
+      ]
+    },
+    {
+      "heading": "Robots That Read Everything",
+      "paragraphs": [
+        "The answer was to send out robots. Not metal robots with arms, but programs that travel from website to website, reading pages and following links, the way a spider moves along the threads of its web. That is why these programs are called crawlers or spiders.",
+        "In 1994 a student at the University of Washington in Seattle, Brian Pinkerton, launched WebCrawler. It was one of the first search engines to record every word on the pages it visited, not just their titles. That meant you could search for a word buried deep inside a page and still find it. The same year, a researcher at Carnegie Mellon University in Pittsburgh, Michael Mauldin, started Lycos, named after a family of wolf spiders that chase their prey instead of waiting in a web. Other engines with lively names soon followed: Excite, Infoseek, HotBot, and in 1996 Ask Jeeves, which invited people to type questions in ordinary English to an imaginary butler.",
+        "The giant of the mid-1990s was AltaVista, launched in December 1995 by researchers at Digital Equipment Corporation, or DEC, a big computer company. DEC wanted to show off how powerful its new Alpha computers were, and indexing the entire Web was a spectacular demonstration. AltaVista was fast, it indexed many millions of pages, and it let people use clever tricks such as putting words in quotation marks to search for an exact phrase. It quickly became one of the most visited sites on the Web. The Computer History Museum calls it the most popular web search engine before Google.",
+        "But these engines had a growing problem. They mostly ranked pages by looking at the words on them: if you searched for 'volcano', a page that said 'volcano' fifty times might come out on top. Website owners soon learned to cheat by stuffing pages with popular words, sometimes hidden in white text on a white background where readers could not see them. Search results became cluttered with junk. The engines could find millions of pages, but they were not good at telling which ones were actually useful. Something smarter was needed."
+      ]
+    },
+    {
+      "heading": "From BackRub to Google",
+      "paragraphs": [
+        "In 1995 Larry Page, a young computer scientist from Michigan, was thinking of studying at Stanford. Sergey Brin, a Stanford student who had moved to the United States from Moscow as a child, was given the job of showing him around. According to Google's own telling of the story, the two disagreed about almost everything on that first day. But Page joined Stanford, and they became friends and research partners.",
+        "Page was interested in the links between web pages. On the Web, links only point one way: a page knows what it links to, but not which pages link to it. Page wondered what would happen if you collected all the links and turned them around. In 1996 he and Brin built a research search engine to explore this idea. They called it BackRub, because it studied 'back links', the links pointing back to a page. It ran on Stanford's network and was supported by the university's Digital Library Project. Their computers were cheap, assorted machines, and one early set of hard drives was famously housed in a case built from toy construction bricks.",
+        "Their big idea was PageRank. Think of the Web as a giant popularity contest where each link from one page to another is like a vote. A page with many incoming links is probably useful. But not all votes are equal: a link from an important page, one that has lots of good links pointing to it, counts for more than a link from an unknown page. This idea of judging pages by who links to them was similar to the way scientists judge research papers by how often other scientists cite them. Combined with the words on the page, it produced results that felt startlingly good. The name PageRank was also a small pun, since it ranked web pages and was named after Larry Page.",
+        "They renamed their engine Google, a play on the word 'googol', which is the number 1 followed by 100 zeros. The huge number suited their goal, which Google later described as organising the world's information and making it universally accessible and useful. For a while the search engine lived at a Stanford web address and was used mostly by students and teachers. It became so popular that it used a large share of the university's network capacity.",
+        "In August 1998 Andy Bechtolsheim, a co-founder of the computer company Sun Microsystems, saw a demonstration and wrote them a cheque for 100,000 dollars made out to 'Google Inc.', a company that did not yet legally exist. Page and Brin quickly set one up, and Google Inc. was officially founded in September 1998. Its first office was a rented garage and rooms in a house in Menlo Park, California, owned by Susan Wojcicki, who later became one of Google's most important leaders and ran YouTube.",
+        "Google's homepage was famously plain: a logo, a search box and two buttons, at a time when Yahoo! and other portals were crowded with news, adverts and links. Results appeared quickly and were usually relevant. People told their friends, and Google grew mostly by word of mouth. In 2000 it began showing small text adverts linked to the words people searched for, an idea it borrowed and improved from another company, GoTo.com, and these ads became its main source of money. Google was not the first search engine, not even close, but within a few years it became the most used one in much of the world, and 'to google' became a verb in dictionaries."
+      ]
+    },
+    {
+      "heading": "Inside the Machine: Crawl, Index, Rank",
+      "paragraphs": [
+        "How does a modern search engine find an answer among billions of pages in less than a second? The secret is that it does almost all the hard work before you ever type anything. Google describes its search in three stages: crawling, indexing and serving results.",
+        "Stage one is crawling. There is no master list of all web pages, so crawler programs, such as Google's crawler, called Googlebot, find pages by following links from pages they already know and by reading lists of pages called sitemaps that website owners provide. A crawler downloads each page, notes its links and adds new ones to a to-do list. It also tries to be polite, slowing down so it does not overload a website. Site owners can put a small file called robots.txt on their site to ask crawlers not to visit certain parts of it.",
+        "Stage two is indexing. Think of the index at the back of a big book: you look up 'volcano' and it tells you every page number where that word appears. A search engine's index works the same way, but for the whole Web. For each word it stores a list of every page that contains it, along with extra details, such as whether the word is in a heading, what language the page is in and which other pages link to it. If many pages have nearly the same content, the engine groups them and picks one main version. Building this index takes enormous numbers of computers working all the time, in data centres around the world.",
+        "Stage three is ranking and serving. When you type 'how do volcanoes erupt', the engine does not search the Web at that moment. It looks in its prepared index, finds pages containing those words or words with similar meanings, and then sorts them. Google says it uses hundreds of factors to decide the order, including how well the page matches your words, how trustworthy and useful the page seems, how links point to it, your language, your rough location and whether you are on a phone. All of this happens in a fraction of a second.",
+        "Search engines are now far more complicated than the first PageRank. They try to understand meaning, not just matching words, so that a search for 'big cat with stripes' can find pages about tigers. They show maps, pictures, dictionary definitions and, more recently, summaries written by artificial intelligence. And it is a big business: Google has repeatedly said it does not take payment to rank a page higher in its ordinary results, but it does sell adverts, which are labelled as sponsored and usually appear at the top."
+      ]
+    },
+    {
+      "heading": "Winners, Losers and Searchers Around the World",
+      "paragraphs": [
+        "The story of search is full of surprises about who wins. In the late 1990s, people thought AltaVista and Yahoo! were unbeatable. Yet for about a decade, as the Computer History Museum points out, web search mostly lost money: engines such as Lycos, Ask Jeeves, AltaVista and early Google earned some income from banner adverts but struggled to make a profit. Search only became a hugely profitable business once companies learned to show small adverts that matched exactly what each person was searching for.",
+        "The early leaders faded one by one. DEC, which owned AltaVista, was itself in trouble and was bought by another computer company in 1998, and AltaVista passed between several owners before it was finally switched off in 2013. Yahoo! did not build its own powerful search engine at first; for a few years around 2000 its search results were actually supplied by Google, which helped make Google famous. Yahoo! later used other technology and, from 2010, results from Microsoft. Its hand-made directory, the thing that started it all, was closed in 2014.",
+        "The size of the job grew at an astonishing rate. When Page and Brin described their prototype in a research paper in 1998, it had indexed about 24 million web pages. Two years later Google announced an index of about a billion pages. In 2008 Google engineers wrote that their systems had found more than a trillion unique web addresses, although many of these were duplicates or automatically generated pages that were not worth indexing. Today search engines index hundreds of billions of pages, and they must keep revisiting them, because pages change, appear and disappear all the time.",
+        "Google is not the only search engine in the world, and in some countries it is not the favourite. In China, where Google's services are blocked, the most used search engine is Baidu, co-founded in 2000 by Robin Li, who had worked on link-based ranking in the United States in the 1990s. In Russia the leading search engine is Yandex, launched in 1997, and in South Korea a portal called Naver has long been very popular. Microsoft launched its search engine Bing in 2009. Smaller engines such as DuckDuckGo, started in 2008, attract users by promising not to track what they search for.",
+        "Searching has also spread far beyond web pages. You can search inside maps for the nearest library, inside online shops for a particular toy, inside video sites for a science experiment, and inside your own email for a message from last year. Phones let you search by speaking, or by pointing the camera at a plant or a building. Each of these uses the same old pattern Alan Emtage's Archie showed in 1990: gather information, organise it into an index, and answer questions quickly."
+      ]
+    },
+    {
+      "heading": "Searching Like a Detective",
+      "paragraphs": [
+        "Because search engines are so quick and confident, it is easy to think the top result must be the truth. It is not always. A search engine ranks pages by how relevant and popular they seem, which is not the same as being correct. Some websites are designed specifically to climb the rankings, a whole industry called search engine optimisation, or SEO. Adverts can sit at the top. And a false claim that many people repeat and link to can sometimes outrank a careful, accurate page.",
+        "Good searchers act like detectives. Here are some tricks worth remembering. Use a few precise keywords rather than a long sentence, for example 'Mosaic browser 1993' instead of 'what was that old browser thing'. Put words in quotation marks to search for an exact phrase. If you get the wrong kind of result, add a word: 'Python snake' or 'Python programming'. Many engines let you add site: followed by a website, such as site:nasa.gov, to search only that site.",
+        "Then judge what you find. Look at who made the page: a museum, a university, a government science agency or a respected newspaper is usually more reliable than an anonymous post. Check the date, because facts change. See if two or three different trustworthy sources agree. Notice whether a result is labelled as an advert. Be extra careful with AI-written summaries; they can be very helpful, but they sometimes state mistakes confidently, so click through to the original sources when it matters. Part 18 has more about spotting misinformation.",
+        "Search engines have changed how people think and learn. Facts that once needed a trip to the library now take seconds to find, and billions of searches are made every day. But the skill of judging what you find matters more than ever. A search box can show you the haystack and point to where the needles might be. Deciding which needle is real is still your job.",
+        "And here is something to think about next time you press Enter. When you search, your words do not simply float off into the air. They travel as packets out of your house, across your town, often through cables under the sea, to a data centre packed with humming computers, and the answers race all the way back. So what exactly are those wires and cables, and where do they go?"
+      ]
+    }
+  ],
+  "deepDive": "PageRank is a lovely piece of mathematics. Page and Brin imagined a 'random surfer' who starts on any web page and keeps clicking links at random. Every so often, the surfer gets bored and jumps to a completely random page instead; in their published description this happened with a probability of about 15 percent, so a 'damping factor' of about 0.85 described the chance of following a link. If the surfer does this forever, some pages are visited more often than others, and the fraction of time spent on each page is its PageRank. Mathematically, this is the stationary distribution of a Markov chain, which can be found by repeatedly passing rank along the links until the numbers settle down, a calculation that converges in a few dozen rounds even for very large graphs. The idea had relatives in earlier work: citation analysis in science had long judged papers by who cited them, and around the same time Jon Kleinberg at Cornell developed a related link-analysis method called HITS, while Robin Li, who later co-founded the Chinese search engine Baidu, had patented a link-based ranking system called RankDex in the mid-1990s. Historians therefore tend to see link analysis as an idea several people were reaching for at once, with Google turning it into the most successful product. PageRank also started an arms race. Once people knew links mattered, some created 'link farms' of fake pages linking to each other, and search engines responded with ever more complex ranking systems, now using machine learning and, by Google's account, hundreds of factors, of which the original PageRank is only one. There are lively debates about search today. One concerns market power: Google handles a large majority of web searches in many countries, and in 2024 a US federal judge ruled that it had illegally maintained a monopoly in general search, partly through payments to be the default search engine on phones and browsers. Another concerns 'filter bubbles', the worry that personalised results show people only what they already agree with; researchers have found the effect in search is real but often smaller than feared. The newest debate is about AI-generated answers shown above the links, which can save time but may reduce visits to the websites whose work they summarise, and which sometimes contain errors.",
+  "funFact": "The name Google comes from 'googol', the mathematicians' word for the number 1 followed by 100 zeros, and Archie, the first Internet search engine, got its name from 'archive' with the letter v taken out.",
+  "check": {
+    "q": "What was the main idea behind PageRank?",
+    "a": "Treat links to a page like votes, with votes from important pages counting more",
+    "wrong": [
+      "Rank pages by how many times they repeat the search word",
+      "Rank pages by how recently they were made",
+      "Let humans sort every web page into categories by hand"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Today in media history: The first Internet search engine is released in 1990",
+      "publisher": "Poynter",
+      "url": "https://www.poynter.org/reporting-editing/2014/today-in-media-history-the-first-internet-search-engine-is-released-in-1990/"
+    },
+    {
+      "title": "Search",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/revolution/the-web/20/390"
+    },
+    {
+      "title": "Our story",
+      "publisher": "Google",
+      "url": "https://about.google/our-story/"
+    },
+    {
+      "title": "In-depth guide to how Google Search works",
+      "publisher": "Google Search Central",
+      "url": "https://developers.google.com/search/docs/fundamentals/how-search-works"
+    },
+    {
+      "title": "Networking & The Web timeline",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/timeline/networking-the-web/"
+    },
+    {
+      "title": "Archie (search engine)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Archie_(search_engine)"
+    },
+    {
+      "title": "Yahoo",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yahoo"
+    },
+    {
+      "title": "AltaVista",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/AltaVista"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Early Google server rack or the toy-brick hard drive case from Stanford, shown in a museum",
+      "search": "Google early server rack museum"
+    },
+    {
+      "want": "Photo of Google co-founders Larry Page and Sergey Brin",
+      "search": "Larry Page Sergey Brin"
+    },
+    {
+      "want": "Photo of Alan Emtage, creator of Archie, the first Internet search engine",
+      "search": "Alan Emtage"
+    }
+  ]
+}

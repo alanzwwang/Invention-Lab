@@ -1,0 +1,153 @@
+{
+  "n": 6,
+  "title": "Oberth and the Rocket Clubs",
+  "when": "1923 – 1937",
+  "summary": "A teacher wrote a book proving rockets could reach space, and young people all over Germany got excited. They formed clubs, built little rockets in an old army yard and even helped make a space movie that invented the countdown. But soon armies wanted rockets too.",
+  "sections": [
+    {
+      "heading": "A Boy from Transylvania Who Knew Verne by Heart",
+      "paragraphs": [
+        "In Part 5 we met Robert Goddard, working almost alone in his workshop. Now we travel to Europe, where the rocket story became a team sport. It starts with a boy named Hermann Oberth, born on 25 June 1894 in Hermannstadt, a German-speaking town in Transylvania. Today the town is called Sibiu and lies in Romania, but at the time it was part of the Austro-Hungarian Empire. Oberth's father was a doctor, and the family expected Hermann to become one too.",
+        "When Hermann was about 11, he was given Jules Verne's novel 'From the Earth to the Moon', the story you met in Part 4 in which astronauts are fired at the Moon from a giant cannon. He read it again and again until he knew it nearly by heart. But he did not simply enjoy it. He started checking Verne's numbers. Could a cannon really fire people to the Moon? He worked out that the sudden jolt of the cannon shot would crush the passengers, and that the shell would lose much of its speed fighting through the air. A cannon would not work. But a rocket, which speeds up gradually and keeps pushing for a long time, might.",
+        "As a teenager he sketched rocket designs and did calculations in his notebooks. During the First World War he served as a soldier in the Austro-Hungarian army, and later worked in an army hospital. Even then, he kept thinking about rockets. After the war he studied physics at universities in Germany, including Munich, Göttingen and Heidelberg. He married, started a family, and set out to write a doctoral thesis, the long research project you must complete to earn a PhD, on a subject nobody else was studying: how to build a rocket that could fly into space."
+      ]
+    },
+    {
+      "heading": "The Thesis Nobody Wanted",
+      "paragraphs": [
+        "Oberth's thesis was full of careful mathematics. He showed how fast a rocket would need to go to reach space, how much fuel it would need, and how its engines could be designed. He argued that the best rockets would use liquid fuels such as alcohol or hydrogen burned with liquid oxygen, and that they should be built in stages, with the empty lower part dropped off so the upper part could fly on lighter. He even calculated that human passengers could survive the strong push of a launch.",
+        "In 1922 the university turned his thesis down. Most accounts say it was the University of Heidelberg, and that the professors thought it was too fanciful, more like science fiction than real physics. Part of the problem was that no professor there really knew how to judge it, because the subject did not fit neatly into astronomy, physics or engineering. Oberth was angry and disappointed, but he did not give up. He went back to Transylvania and in 1923 successfully defended a version of his work at the university in Cluj, in Romania.",
+        "Then he did something bold. In 1923 he paid a Munich publisher to print his thesis as a small book. Its German title was 'Die Rakete zu den Planetenräumen', which means 'The Rocket into Planetary Space'. It was only about 100 pages long and was crammed with equations. It also contained a plate showing a two-stage rocket he called 'Model B', designed to carry instruments high into the atmosphere. The book argued that rockets could carry people beyond the atmosphere, that liquid fuels were the key, and that one day there could be stations in orbit around the Earth.",
+        "Around this time Oberth heard about Goddard's work in America. In 1922 he wrote to Goddard and asked for a copy of the 1919 Smithsonian paper, and Goddard sent one. This is a good example of something that happens a lot in science: two people, far apart, working on the same problem and reaching some of the same answers independently. Tsiolkovsky in Russia, Goddard in America and Oberth in Germany are sometimes called the three fathers of spaceflight, and none of them was copying the others.",
+        "The difference was what happened next. Goddard kept his work quiet. Oberth's book, by contrast, was read by curious people across the German-speaking world. Newspapers and magazines wrote about it. Writers produced popular books based on its ideas, explaining them without the hard maths. Suddenly, space travel was something people talked about in cafés and classrooms. Meanwhile, Oberth earned his living as a high-school physics and maths teacher back in Transylvania, in the town of Mediaș.",
+        "In 1929 he published a much larger version of the book, called 'Wege zur Raumschiffahrt', or 'Ways to Spaceflight'. It looked even further ahead, describing ideas such as electric rockets, which use electricity to push out a stream of charged particles. Today such engines, called ion engines, really do push spacecraft across the solar system. The book won an international prize set up by the French aviation pioneer Robert Esnault-Pelterie, and Oberth spent some of the prize money on rocket motors for young experimenters."
+      ]
+    },
+    {
+      "heading": "The Society for Space Travel",
+      "paragraphs": [
+        "Oberth's book helped spark something new: a club. On 5 June 1927, in the city of Breslau (now Wrocław in Poland), a small group of enthusiasts founded the Verein für Raumschiffahrt, which means the Society for Space Travel. People usually call it the VfR. Its founders included Johannes Winkler, an engineer who became its first leader; Max Valier, an Austrian writer who gave talks about space travel; and Willy Ley, a young science writer who would later become famous in America. Oberth joined and became a kind of godfather to the group, encouraging its members and lending them his ideas.",
+        "The VfR published its own magazine, called 'Die Rakete' ('The Rocket'), from 1927 to 1929. Members wrote articles, argued about designs and dreamed out loud about stations in orbit and trips to the Moon. The club grew quickly, from a handful of people to hundreds of members, including scientists, engineers, students and ordinary fans. It is often described as the first important rocket society in the world.",
+        "In 1930 an 18-year-old student named Wernher von Braun joined. He had been born on 23 March 1912 in Wirsitz, then part of Germany and now in Poland, into a noble family. His mother gave him a telescope, and he grew up fascinated by the stars. According to a story he told later, as a boy in Berlin he strapped big fireworks to a toy wagon and sent it careering down a busy street until the police arrived. When he first tried to read Oberth's book, the equations baffled him, so he worked hard to get better at maths and physics until he could understand it. Now, as an engineering student at the Technical University in Berlin, he was eager to help build real rockets."
+      ]
+    },
+    {
+      "heading": "Rocket Cars, Rocket Planes and Real Danger",
+      "paragraphs": [
+        "Not everyone interested in rockets in the late 1920s was thinking about the Moon. Some wanted a spectacular show. Max Valier, one of the VfR's founders, persuaded Fritz von Opel, a young member of the family that owned the Opel car company, that rocket-powered vehicles would make amazing publicity. The rockets themselves were solid-fuel rockets, packed with powder, made by a fireworks maker named Friedrich Wilhelm Sander.",
+        "In April 1928, a test driver drove the first Opel rocket car, the RAK.1, at the Opel factory in Rüsselsheim. It reached 100 kilometres per hour in about eight seconds. Then came the big day. On 23 May 1928, at the AVUS race track in Berlin, Fritz von Opel climbed into the RAK.2, a long, low car with stubby wings on its sides to press it down onto the track, and 24 rockets packed into its tail. About 3,000 people came to watch, including the film director Fritz Lang. With a series of roars and enormous clouds of smoke, the car shot down the track and reached about 238 kilometres per hour, around 148 miles per hour. Newspapers around the world reported it.",
+        "There were rocket-powered railway cars too, which ran on tracks. One set a speed record near Hanover in June 1928, while another was destroyed when a rocket exploded. That same month a small rocket-powered glider called the 'Ente', which means 'duck', flew at the Wasserkuppe, a famous gliding hill in central Germany. On its second flight a rocket exploded and the glider was wrecked. On 30 September 1929 Fritz von Opel himself flew a rocket plane near Frankfurt for a few kilometres before a hard landing. He walked away unhurt.",
+        "These stunts were exciting, but they did not lead directly to spaceflight, because powder rockets could not be controlled or made efficient enough. The serious experimenters already knew that liquid fuel was the way forward, as Goddard had shown in America. But liquid-fuel engines were dangerous to test, and the danger was very real.",
+        "Max Valier had moved on from powder rockets to liquid-fuelled engines, working with a company that made liquid oxygen. On 19 April 1930 he drove a rocket car with a liquid-fuelled engine. Less than a month later, on 17 May 1930, an engine he was testing on a stand in a Berlin workshop exploded, and a piece of metal struck him. He died there, aged 35. He is sometimes described as the first person to die in the age of modern rocket research. His death shocked the rocket enthusiasts, and it reminded everyone that these engines needed careful design, strong test stands and safety barriers between the engine and the people. His assistant, Arthur Rudolph, went on to build a safer version of the engine and later became an important rocket engineer himself."
+      ]
+    },
+    {
+      "heading": "Woman in the Moon and the First Countdown",
+      "paragraphs": [
+        "One of the people in the crowd at the AVUS track, Fritz Lang, was one of the most famous film directors in the world. His film 'Metropolis', from 1927, had shown a gleaming city of the future. Now Lang wanted to make a film about a trip to the Moon, and he wanted the rocket to look scientifically correct. So he hired Hermann Oberth as his chief scientific adviser, with Willy Ley helping too.",
+        "The film was called 'Frau im Mond', which means 'Woman in the Moon'. It was a silent film, with written cards on the screen instead of spoken words. Oberth helped design a rocket that looked like a real spaceship of the future: a tall, sleek rocket assembled in a huge hangar, rolled out to its launch site, and launched from a pool of water with a blast. The passengers lie down on special beds to cope with the crushing force of the launch, just as Oberth's calculations said they should.",
+        "Lang added one more detail to build suspense, and it became part of real spaceflight. Before the rocket launches, the screen shows the seconds being counted backwards, one number at a time, until the word 'Now!' appears and the rocket thunders away. The film is often credited with inventing the backwards countdown that has been used for rocket launches ever since. Counting down makes sense: everyone knows exactly how much time is left before the moment of ignition, so each person can do their job at the right time.",
+        "As a publicity stunt, the film studio asked Oberth to build a real liquid-fuelled rocket and launch it on the day of the premiere. Oberth was a brilliant theorist, but he had little experience building engines, and the time was very short. He worked with a VfR member named Rudolf Nebel, but the rocket was not finished in time. The film premiered without it on 15 October 1929 at a grand cinema in Berlin called the UFA-Palast am Zoo, in front of an audience of about 2,000 people. Exhausted and disappointed, Oberth went home to Transylvania for a while.",
+        "Something good came out of the effort, though. In 1930, back in Berlin, Oberth and VfR members, including the young Wernher von Braun, tested a small liquid-fuelled engine with a cone-shaped nozzle. According to accounts of the test, it burned steadily for about a minute and a half and produced roughly 7 kilograms (about 15 pounds) of thrust. A government testing institute watched and confirmed the results in an official certificate. It was a small engine, but it proved the club could make liquid-fuelled rockets work."
+      ]
+    },
+    {
+      "heading": "Rocket Airfield Berlin",
+      "paragraphs": [
+        "To test rockets, the VfR needed space where explosions and crashes would not hurt anyone. Rudolf Nebel found an unusual solution. On the northern edge of Berlin, in the district of Reinickendorf, there was an abandoned army ammunition depot, full of empty concrete bunkers with thick walls. Nebel persuaded the government to rent it to the club for almost nothing. On 27 September 1930 it opened as the Raketenflugplatz Berlin, which means 'Rocket Airfield Berlin'.",
+        "Imagine visiting on a busy weekend. Young men in overalls carry tanks of liquid oxygen, which steam and frost in the air. Others crouch behind a concrete wall with a stopwatch. A small, skinny rocket sits on a test stand. Someone shouts a warning, the engine bursts into life with a howl, and everyone watches to see whether it will burn smoothly or blow apart. Many members slept in the old buildings, and they worked for little or no pay, sometimes trading demonstrations for food or materials.",
+        "The club built a series of small rockets called Mirak, short for 'Minimumrakete', meaning 'smallest rocket', in 1930 and 1931. Some of them exploded. Then they built the Repulsor rockets, with the engine at the front and long thin fuel tanks trailing behind, a layout rather like Goddard's first rocket. In 1931 Repulsor rockets climbed hundreds of metres, and improved versions went higher than a kilometre, some floating back down on parachutes. By May 1932 the rocket airfield had seen about 85 rocket launches and around 220 engine tests.",
+        "The VfR was not the only group in Germany. Johannes Winkler, the club's first leader, worked separately in the town of Dessau. On 14 March 1931 he launched a small rocket called HW-1, which burned liquid methane and liquid oxygen. It is often described as one of the first liquid-fuelled rockets to fly in Europe, though it tipped over and flew only a short way. All over Germany, students and engineers were now experimenting. The rocket had become a craze."
+      ]
+    },
+    {
+      "heading": "Rocket Clubs Around the World",
+      "paragraphs": [
+        "Germany was not the only country with rocket fans. In the Soviet Union, the vast communist country that included Russia, the ideas of Konstantin Tsiolkovsky (whom you met in Part 4) had inspired a new generation. In September 1931 an engineer named Friedrich Zander, often spelled Tsander, helped form a group in Moscow called GIRD, short for the Russian words meaning 'Group for the Study of Reactive Motion'. Zander had been born in Riga, in what is now Latvia, in 1887, and he was so eager to reach space that he often greeted friends with the slogan 'Forward to Mars!'",
+        "GIRD started in a cold basement in a building on Sadovaya-Spasskaya Street in Moscow. Money and materials were so short that members joked GIRD really stood for 'Group of Engineers Working for Nothing'. In May 1932 a young aircraft designer and glider pilot named Sergei Korolev, then 25, became its head. GIRD was divided into teams, called brigades. Zander led the engine team, while an engineer named Mikhail Tikhonravov led another team building a rocket called GIRD-09.",
+        "Sadly, Zander did not live to see a GIRD rocket fly. He fell ill and died in March 1933. A few months later, on the evening of 17 August 1933, the team took GIRD-09 to a military test range at Nakhabino, near Moscow. It was a hybrid rocket, burning liquid oxygen with a jelly-like solid fuel made from gasoline. The rocket climbed, perhaps to about 400 metres, then tipped over, because a joint in the engine leaked, and crashed into the forest. The whole flight lasted about 18 seconds. Still, it was the first Soviet rocket to fly using a liquid propellant, and the team celebrated. On 25 November 1933, Zander's own design, GIRD-X, which burned fully liquid fuels, flew too, reaching about 80 metres.",
+        "That same year, GIRD was merged with another rocket team, the Gas Dynamics Laboratory in Leningrad, to form a larger, official rocket research institute run by the military, called RNII. One young engine designer at the Leningrad lab was Valentin Glushko, who would become one of the greatest rocket engine designers in history. Korolev and Glushko would later have very difficult lives under the Soviet dictator Joseph Stalin, a story you will meet in Part 8.",
+        "In the United States, a group of science-fiction writers founded the American Interplanetary Society in New York City on 4 April 1930. Its first president was David Lasser, an editor of a science-fiction magazine. Two of the most important early members were G. Edward Pendray and his wife Leatrice, known as Lee, one of the few women in any rocket club at the time. In 1931 the Pendrays visited Berlin, watched a rocket test at the Raketenflugplatz and became friends with Willy Ley. Back home, members began building their own liquid-fuelled rockets, but they did not manage a successful flight until 1933.",
+        "In 1934 the club changed its name to the American Rocket Society, partly so that people would take it more seriously than a group dreaming about 'interplanetary' trips. Some of its members later started a company called Reaction Motors. One of its engineers, James Wyld, helped design the engine for the Bell X-1, the rocket plane in which Chuck Yeager became the first pilot to fly faster than the speed of sound in 1947. In Britain, the British Interplanetary Society was founded in Liverpool in 1933. It still exists today."
+      ]
+    },
+    {
+      "heading": "The Army Comes Calling",
+      "paragraphs": [
+        "The happy days of the amateur rocket clubs did not last. To understand why, we need to go back to the end of the First World War. In 1919 Germany signed the Treaty of Versailles, the peace agreement with the countries that had defeated it. The treaty strictly limited the German army. It could have only a small number of soldiers, and it was banned from having heavy artillery, the big guns that fire shells over long distances, along with military aircraft and other weapons.",
+        "But the treaty said nothing about rockets. When it was written, rockets seemed like old-fashioned weapons, as you saw at the end of Part 3. To some officers in the German army's weapons office, this was an opening. If big guns were forbidden, perhaps long-range rockets could do the same job, and no treaty would stop them. An officer named Karl Becker, an expert on artillery, began to support rocket research. He put a younger officer, Captain Walter Dornberger, in charge of developing rockets.",
+        "Army officers began visiting the Raketenflugplatz to see what the young enthusiasts could do. In 1932, VfR members, including von Braun, demonstrated one of their rockets at an army test range at Kummersdorf, south of Berlin. Accounts say the rocket did not perform very well. But the officers were impressed by the young von Braun, who was clearly talented, hard-working and full of ideas. In late 1932 the army hired him, aged just 20, to work on rockets at Kummersdorf. The army also paid for his studies, and in 1934 he earned a PhD in physics from the University of Berlin for research on rocket engines. Because the work was secret, his thesis was kept hidden from the public for years.",
+        "The army offered something no club could: money, equipment, test stands and staff. But it came at a price. The research was now secret, and the goal was a weapon. In January 1933 Adolf Hitler and his Nazi party came to power in Germany. The new government took tight control of all rocket work and did not allow private groups to experiment freely. The VfR, already short of money, fell apart in 1933 and 1934, and the Raketenflugplatz closed. Willy Ley, who opposed the Nazis, left Germany in 1935 and moved to the United States, where he spent the rest of his life writing popular books about rockets and space.",
+        "Oberth's later life was quieter. He did not become a leader of the army's rocket program, though during the war he did some work on it. After the war he lived in West Germany, worked for a few years with von Braun in the United States in the 1950s, and in July 1969 he was invited to watch the launch of Apollo 11. He died in 1989, aged 95, having lived long enough to see the rockets he had imagined as a schoolboy carry people to the Moon.",
+        "By 1937 the army's rocket team had grown too big for Kummersdorf. It moved to a remote, wooded stretch of coast on the Baltic Sea called Peenemünde, and work began on much larger rockets. The dreamers who had wanted to go to the Moon now worked behind fences and guarded gates. Their rockets were about to become weapons in a terrible war."
+      ]
+    }
+  ],
+  "deepDive": "Oberth's 1923 book is remembered less for any single invention than for showing, with equations, that spaceflight was an engineering problem rather than a fantasy. He worked out the speeds a rocket needs, the importance of high exhaust velocity, and why multi-stage rockets make the impossible possible. Staging matters because of the rocket equation: if one rocket must carry its own empty tanks and engines all the way to orbit, the final speed is limited, but dropping dead weight lets the upper stages start from a high speed with a much lighter load. Oberth is also remembered for an insight now called the Oberth effect: a rocket burn gives a spacecraft more extra energy when it is already moving fast, for example when it swings close to a planet. Modern mission planners use this whenever they time engine burns at the closest point of an orbit. Historians often describe Tsiolkovsky, Goddard and Oberth, with the Frenchman Robert Esnault-Pelterie, as founders of astronautics who reached many of the same conclusions independently. Their influence differed. Tsiolkovsky's writings were little known outside Russia until the late 1920s; Goddard did most of his work quietly; Oberth's book, and the popular books it inspired, created a public movement. That movement, in turn, produced a pool of trained young engineers. Historians also debate the 'first countdown'. 'Frau im Mond' (1929) is widely credited with popularising the countdown to zero, though people have probably counted down to dramatic moments in other ways before. A darker debate concerns the clubs themselves. Some writers present the VfR as innocent dreamers corrupted by the army; others point out that several members, including von Braun, chose to accept military money because it was the only way to build big rockets, and that this choice led directly to the V-2 and its victims. The Soviet experience offers a sobering parallel: many leaders of the RNII institute were arrested in Stalin's purges of 1937 to 1938, and some were executed. In both countries, rocketry moved from amateur enthusiasm to state control within about a decade.",
+  "funFact": "The first V-2 rocket successfully launched in 1942 had the logo of Fritz Lang's film 'Woman in the Moon' painted on its base, a sign of how much the film had inspired the young engineers.",
+  "check": {
+    "q": "Which 1929 film, advised by Hermann Oberth, is often credited with inventing the backwards countdown before a launch?",
+    "a": "Woman in the Moon (Frau im Mond), by Fritz Lang",
+    "wrong": [
+      "Metropolis",
+      "From the Earth to the Moon",
+      "The War of the Worlds"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Hermann Oberth",
+      "publisher": "U.S. Centennial of Flight Commission",
+      "url": "https://centennialofflight.net/essay/SPACEFLIGHT/oberth/SP2.htm"
+    },
+    {
+      "title": "Scientist of the Day: Hermann Oberth",
+      "publisher": "Linda Hall Library",
+      "url": "https://www.lindahall.org/about/news/scientist-of-the-day/hermann-oberth/"
+    },
+    {
+      "title": "Early Rocket Societies",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/stories/editorial/early-rocket-societies"
+    },
+    {
+      "title": "85 years ago: The USSR launched its first rocket using liquid propellant",
+      "publisher": "RussianSpaceWeb",
+      "url": "https://russianspaceweb.com/gird09.html"
+    },
+    {
+      "title": "Group for the Study of Reactive Motion",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Group_for_the_Study_of_Reactive_Motion"
+    },
+    {
+      "title": "Woman in the Moon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Woman_in_the_Moon"
+    },
+    {
+      "title": "Opel-RAK",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Opel-RAK"
+    },
+    {
+      "title": "Wernher Magnus Maximilian von Braun",
+      "publisher": "Encyclopedia.com",
+      "url": "https://encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/wernher-magnus-maximilian-von-braun"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Portrait photograph of Hermann Oberth, the German-speaking rocket pioneer from Transylvania",
+      "search": "Hermann Oberth portrait"
+    },
+    {
+      "want": "Photograph of the 1928 Opel RAK.2 rocket car with its side wings, at the AVUS track in Berlin or in a museum",
+      "search": "Opel RAK2 rocket car 1928"
+    },
+    {
+      "want": "Group photo of VfR rocket club members at the Raketenflugplatz Berlin around 1930, with Oberth and the young Wernher von Braun beside a rocket",
+      "search": "Raketenflugplatz Berlin 1930 Oberth von Braun"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "n": 6,
+  "title": "Newcomen's Nodding Giant",
+  "when": "1712 – 1770s",
+  "summary": "Thomas Newcomen sold tools to miners and watched their mines fill with water. In 1712 he built a giant engine with a wooden beam that nodded up and down like a seesaw, slowly pumping water out of a coal mine. It was the first steam engine with a piston that really worked, and soon hundreds of these nodding giants were working all over Britain and Europe.",
+  "sections": [
+    {
+      "heading": "The Ironmonger of Dartmouth",
+      "paragraphs": [
+        "Dartmouth is a steep little harbour town on the south coast of Devon, where the River Dart meets the sea. Around the year 1700 its quays were busy with fishing boats and trading ships, and its narrow streets were full of craftsmen's shops. In one of them worked a man named Thomas Newcomen.",
+        "Newcomen was born in Dartmouth in February 1664. He became an ironmonger, but that word meant more than it does today. His business did not just sell nails and pots; it designed, made and sold iron tools and equipment, including gear for the tin and copper mines of Devon and Cornwall. That meant Newcomen often travelled to the mines and talked with the men who ran them. Again and again he would have heard the same complaint: the water. Mines were being abandoned not because the metal had run out, but because the pumps could not keep up.",
+        "Newcomen was also a deeply religious man. He was a Baptist, part of a Christian group that worshipped outside the official Church of England, and he became a lay preacher and later a leader of the local Baptist congregation. Through his church he knew other craftsmen, and one of them became his partner: John Calley, sometimes spelled Cawley, who worked as a plumber and glazier, which meant he worked with lead pipes and with glass. Lead-working skills turned out to be very useful when you are trying to build something that must not leak.",
+        "We do not have Newcomen's notebooks or letters describing exactly how he came up with his engine, and that is one of the frustrating gaps in this story. What we do know is that he and Calley spent years experimenting, probably about ten years, before they had a machine they trusted. People have long wondered whether Newcomen knew about Denis Papin's idea of a piston pushed down by air after steam condensed, which we met in Part 4, or about Savery's engine just a short ride along the coast. It seems likely that he knew something of both, since these ideas were discussed in print and Savery's engine was famous. But there is no proof of exactly what he read or who he met, so it is fairest to say that Newcomen combined ideas that were in the air with a great deal of hands-on trial and error.",
+        "His key decision was to avoid Savery's biggest weakness. Savery's engine used steam to push water directly, which demanded dangerous pressures. Newcomen would never ask steam to push hard at all. Instead, he would let steam make a vacuum and let the ordinary pressure of the air do the heavy work, and he would pass that work to the pump through a piston and a rocking beam."
+      ]
+    },
+    {
+      "heading": "The Engine Near Dudley Castle",
+      "paragraphs": [
+        "The first Newcomen engine that we know for certain worked successfully was built in 1712 at the Coneygree (or Conygree) Coalworks, near the town of Tipton in the area now called the Black Country, in the West Midlands of England. It stood not far from the ruins of Dudley Castle, and it is often called the Dudley Castle engine. Its job was to pump water out of a coal mine.",
+        "We know what it looked like thanks to a wonderful engraving made in 1719 by a man named Thomas Barney, with the title The Steam Engine near Dudley Castle. It shows a tall brick engine house, with a huge wooden beam sticking out of the top of one wall. Inside, on the ground floor, sits a boiler over a fire. Above the boiler stands an upright cylinder, open at the top, with a piston inside. From one end of the beam hang chains attached to the piston; from the other end, outside the building, hang long rods that drop straight down the mine shaft to the pumps below.",
+        "Imagine walking up to this building in 1712. You would hear it before you saw it: a slow sigh and hiss, a gurgle, then a creak and a deep thump as the giant beam tipped. About twelve times a minute, roughly once every five seconds, the beam rocked. On the outside end, the pump rods rose and fell, and with each stroke a gush of water poured out of a pipe at the top of the shaft and ran away in a channel. Day and night the engine kept going, as long as the stoker kept the fire burning.",
+        "People who saw it were amazed. The engine did steadily the work that had needed teams of horses, and it did not get tired, hungry or ill. According to later accounts it lifted roughly ten gallons of water with each stroke, which would add up to hundreds of tonnes of water a day. At a coal mine, the fuel to feed it lay right there underground, so it could literally burn the coal it was helping to dig.",
+        "A full-size working replica of this engine stands today at the Black Country Living Museum in Dudley, close to where the original once worked. Visitors can watch its beam nod and hear it breathe, just as the miners of 1712 did."
+      ]
+    },
+    {
+      "heading": "How the Nodding Giant Works",
+      "paragraphs": [
+        "The Newcomen engine is called an atmospheric engine. That name is the key to understanding it: the atmosphere, the air all around us, does the pushing, not the steam. Let us go through one complete stroke, step by step.",
+        "Start with the beam. Picture a giant seesaw, made from a tree trunk of solid oak, resting on a pivot on top of the engine-house wall. On the inside end, a chain hangs down to the piston, a tight-fitting disc that can slide up and down inside an upright iron or brass cylinder. On the outside end, chains hang down to the heavy pump rods that reach all the way down the mine shaft. Those rods are heavier than the piston, so when nothing else is happening, the outside end of the beam sinks down and the inside end lifts the piston to the top of the cylinder.",
+        "Step one: steam fills the cylinder. As the heavy pump rods sink and the piston rises, a valve opens between the boiler and the bottom of the cylinder. Steam from the boiler flows in underneath the piston. This steam is at very low pressure, only a tiny bit above the pressure of the air, perhaps 1 or 2 pounds per square inch more. So the steam is not shoving the piston up. The weight of the pump rods is doing the lifting; the steam just fills the space and keeps the air out.",
+        "Step two: the cold-water spray. When the piston reaches the top, the steam valve closes. Then a second valve opens and a jet of cold water squirts up into the cylinder from a tank placed high above it. The cold spray hits the steam, and the steam instantly condenses into a few spoonfuls of water. The cylinder, which was full of steam a moment ago, is now nearly empty, a partial vacuum.",
+        "Step three: the air pushes. The top of the cylinder is open to the air. Air at sea level presses with about 1 kilogram on every square centimetre. Above the piston there is the full push of the atmosphere; below it there is almost nothing. So the air drives the piston down with tremendous force. In a cylinder about half a metre across, that adds up to well over a tonne of push. The piston plunges down, the inside end of the beam is dragged down, and the outside end swings up, lifting the pump rods and hauling a load of water up the shaft.",
+        "Step four: start again. At the bottom of the stroke, the water from the spray and the condensed steam drain out through a pipe. The steam valve opens once more, the pump rods sink again under their own weight, the piston rises, and the cycle repeats.",
+        "Notice what is clever here. The dangerous part of Savery's engine, high-pressure steam, has disappeared. Newcomen's boiler could be a simple copper or iron vessel like a giant kettle with a domed lid, because it never had to hold much pressure. The force comes from the sky itself, from the weight of all the air above. That is why the glossary for this story says an atmospheric engine is one where air pressure, not steam pressure, pushes the piston. A boiler leak might scald someone, but it would not usually blow the engine house apart.",
+        "There was also a little valve with a funny name: the snifting valve. Air dissolved in the water could build up inside the cylinder and spoil the vacuum. The snifting valve let this air escape with a sniffing, snorting sound at each stroke, which is said to be how it got its name. Engineers have always enjoyed giving machines nicknames, and the Newcomen engine collected plenty, including the one in this part's title: the nodding giant."
+      ]
+    },
+    {
+      "heading": "A Lucky Leak and a Boy with String",
+      "paragraphs": [
+        "The cold-water spray inside the cylinder was one of Newcomen's most important improvements. In Savery's engine, and probably in Newcomen's own early trials, the steam was cooled from outside, by pouring water over the vessel or by surrounding the cylinder with a jacket of cold water. That works, but slowly, because the heat has to soak through thick metal. Squirting cold water straight into the steam condensed it almost instantly, which made each stroke faster and the vacuum stronger.",
+        "There is a famous story about how Newcomen discovered this. According to the tale, his early engine had a cylinder surrounded by cold water, and one day the piston suddenly crashed down with such force that it broke the chain or damaged the engine. When the builders investigated, they found a tiny hole in the cylinder wall, perhaps a flaw that had been patched with solder, through which a jet of cold water had squirted inside. The leak, so the story goes, showed them that cold water inside the cylinder worked far better than cold water outside.",
+        "Is it true? Nobody can be sure. The story was written down years later, and it is the kind of neat, lucky-accident tale that people love to tell about inventions. It might be based on a real event, or it might be a simple way of explaining a discovery that really came from patient experiment. So it is best to treat it as a traditional story rather than proven history. Either way, the internal spray became a standard part of every Newcomen engine.",
+        "The next problem was the valves. In the earliest engines, a person had to open and close the steam valve and the injection valve by hand at exactly the right moment in every stroke, about twelve times a minute, hour after hour. That was tiring, boring and easy to get wrong. If the spray came too early or the steam valve stayed open too long, the engine would stumble.",
+        "This is where another famous story comes in. It is said that a boy named Humphrey Potter, whose job was to work the valves, grew tired of his task and wanted to go off and play. So he tied strings from the valve handles to the moving beam, so that the beam itself would open and close the valves at the right moments. The engine ran on its own, and the boy got his break. It is a delightful story, and it has been repeated in books for nearly 300 years.",
+        "But it is a legend, and historians are very doubtful about it. The real solution was a carefully designed system called valve gear, and in the Newcomen engine the main part was the plug tree (or plug rod), a wooden rod hanging from the beam with pegs fixed along it. As the beam moved up and down, the plug tree moved with it, and its pegs knocked against levers and catches that opened and closed the valves at the right points in the stroke. Evidence suggests that this kind of automatic valve gear was already in use within a few years of 1712, and it was the work of engineers refining the machine, not a single bored boy. Still, the legend reminds us of something true: an engine that runs itself is far more useful than one that needs a person standing over it every second.",
+        "With automatic valves, the Newcomen engine became what engineers call self-acting. A small team, a stoker to feed the fire and an engineman to watch over everything, could keep a huge machine pumping day and night. That was a giant step towards the factory machines of the century to come."
+      ]
+    },
+    {
+      "heading": "Working in Savery's Shadow",
+      "paragraphs": [
+        "Newcomen's engine worked in a completely different way from Savery's. It had a piston, a cylinder and a beam, none of which Savery's engine had. You might think Newcomen could simply patent it and collect the rewards. But remember Savery's patent from Part 5. It covered raising water by the 'impellent force of fire' in very broad terms, and Parliament had extended it until 1733. Newcomen's engine raised water using fire, so legally it fell inside Savery's rights.",
+        "As a result, Newcomen had to work under Savery's patent. The two men seem to have reached an agreement while Savery was still alive, and after Savery died in 1715 the rights passed to a group of investors called the Proprietors of the Invention for Raising Water by Fire. This group, run by a London secretary and treasurer named John Meres, licensed the building of engines and collected payments. Mine owners who wanted an engine often paid large yearly sums to the Proprietors. Some of this money reached Newcomen, but historians think he received far less money and recognition than his invention deserved.",
+        "In fact, for many years Newcomen's name was barely attached to his own machine. People simply called it the fire engine, or sometimes linked it with Savery. Only later did historians fully recognise that Newcomen had built the first practical piston steam engine, a machine whose basic layout of cylinder, piston and condensing steam would lead straight on to James Watt.",
+        "Newcomen died in London on 5 August 1729, at the house of a Baptist friend, and was buried at Bunhill Fields, a burial ground used by people from churches outside the Church of England. The exact spot of his grave is unknown. He died four years before Savery's patent finally ran out. Today, the Newcomen Society, a society for the history of engineering and technology founded in Britain in 1920, is named in his honour."
+      ]
+    },
+    {
+      "heading": "Nodding Giants Everywhere",
+      "paragraphs": [
+        "Once people saw what the Dudley Castle engine could do, orders followed. Newcomen engines were built at coal mines in the Midlands, around Newcastle upon Tyne and in other coalfields, and at the tin and copper mines of Cornwall. By the time Savery's patent ran out in 1733, roughly 100 Newcomen engines, perhaps around 125, had been built in Britain and across Europe. After that, anyone could build one without paying the Proprietors, and the numbers grew much faster. Over the whole 1700s, hundreds and hundreds were built.",
+        "The engine also travelled abroad, carried by English engineers and by foreign visitors who came to study it. In the early 1720s an English engineer named Isaac Potter is said to have built one in the mining region of Upper Hungary, at a town the Germans called Königsberg (today Nová Baňa in Slovakia). In France, an engine was set up at Passy, near Paris, in 1726 to pump water for the city. In Sweden, the engineer Mårten Triewald, who had worked in England and seen the engines there, built one at the Dannemora iron mines after returning home in 1726. Engines also appeared in Belgium, Spain, the Netherlands and other countries. It was the first time a steam-powered machine became an international technology, copied and adapted from country to country.",
+        "Why did it spread so widely when it was so wasteful? A Newcomen engine was terribly inefficient by modern standards. Each stroke, the cold spray chilled the whole cylinder, and then the next charge of steam had to heat it all up again before it could fill the space. Most of the fuel's energy went into that endless heating and cooling. Historians estimate that the engines turned only around 1 percent of the energy in their coal into useful work, or even less. That is like buying a hundred sweets and getting to eat only one.",
+        "But at a coal mine, that did not matter much. The coal that could not be sold, the small broken pieces called slack, could be shovelled into the engine's firebox for almost nothing. What mattered to the mine owner was that the engine kept the water down, so the miners could keep digging. In Cornwall, where coal had to be brought by ship, the fuel bill hurt much more, which is why Cornish mine owners would later be so eager to buy James Watt's more efficient engines.",
+        "Engines also got bigger. Builders learned to cast larger cylinders, first in brass and later in cheaper iron, and to build longer beams and stronger pumps. By the 1770s, the largest cylinders were about 1.8 metres (72 inches) across. One engine nicknamed Fairbottom Bobs, built for a colliery near Ashton-under-Lyne in about 1760, worked for many decades and is now preserved at the Henry Ford Museum in Dearborn, Michigan, in the United States."
+      ]
+    },
+    {
+      "heading": "Smeaton Takes Measurements",
+      "paragraphs": [
+        "For about sixty years, Newcomen engines were built mostly by rule of thumb. Engine builders copied what had worked before and guessed at the rest. That changed with John Smeaton, a Yorkshireman born near Leeds in 1724, who is often called the father of civil engineering in Britain. He built bridges, harbours, canals and the famous Eddystone Lighthouse off Plymouth, and he loved to test things scientifically.",
+        "In the late 1760s and early 1770s, Smeaton studied Newcomen engines carefully. He measured how much coal they burned and how much water they lifted, and he built a small experimental engine at his home so that he could try out different proportions, such as the size of the cylinder, the length of the stroke and the amount of injection water. He found that many engines were badly made and badly adjusted, and that just by getting the details right, the same basic design could do far more work with the same coal.",
+        "Engineers measured an engine's performance with a number called its duty: how many pounds of water it could lift one foot high by burning a set amount of coal, usually a bushel. Smeaton's improved engines roughly doubled the duty of typical older engines. In 1775 he built a large engine with a 72-inch cylinder at Chacewater in Cornwall, described as one of the most powerful of its time. His work showed something that would become a theme of the whole steam story: careful measurement can be as important as a brilliant idea.",
+        "Yet even Smeaton's best engines still had the same basic flaw. They still cooled their cylinders with cold water every stroke and then reheated them. Smeaton could make the Newcomen engine as good as it could be, but he could not escape its design. That needed a completely new idea.",
+        "Newcomen-style engines did not vanish quickly, though. In coalfields, where cheap fuel made efficiency less important and the simple design was easy to repair, they kept being built for decades. One was put up in 1795 at Elsecar, near Barnsley in South Yorkshire, for Earl Fitzwilliam's colliery. It kept pumping water until 1923, more than 120 years, when electric pumps replaced it. The Elsecar engine still stands in the very place where it was built, the oldest steam engine anywhere still on its original site, and it has been restored so that visitors can watch its beam move again."
+      ]
+    },
+    {
+      "heading": "A Broken Model in Glasgow",
+      "paragraphs": [
+        "Let us end by travelling north, to Scotland, in the early 1760s. The University of Glasgow owns a small working model of a Newcomen engine, used to show students how the famous fire engine works. But the model does not work very well. It runs for a few strokes and then stops, out of steam. The professor of natural philosophy sends it to London for repair, but it comes back no better.",
+        "So the model is handed to the university's own instrument maker, a quiet, careful young man in his twenties who makes and mends scientific instruments in a small workshop on the university grounds. He has never built a full-size engine. But he is curious, he is good with his hands, and he is the kind of person who will not leave a puzzle alone. Why does the model keep running out of steam? Where is all the heat going?",
+        "His name is James Watt, and the answer he finds will change the world."
+      ]
+    }
+  ],
+  "deepDive": "The Newcomen engine is a perfect case study in the difference between force and efficiency. Its force came from atmospheric pressure: about 101 kilopascals, or roughly 10 tonnes per square metre. The working replica of the 1712 engine has a cylinder about 52 cm (roughly 21 inches) across, with an area of about 0.21 square metres, so a perfect vacuum would give a push of over 2 tonnes; real engines achieved perhaps two-thirds of that because the vacuum was never complete. Engine builders kept the piston speed and stroke modest, and most early engines delivered only a few horsepower, around 5 is one estimate for the 1712 engine, though such numbers are estimates since horsepower had not yet been defined. Efficiency was the weak spot. Each cycle, the injection water cooled the cylinder walls to well below boiling, and the next charge of steam had to reheat that metal before the cylinder could fill. Much of the steam simply condensed on the walls without doing anything. Overall thermal efficiencies of around 0.5 to 1 percent are commonly cited. John Smeaton's careful tests in the 1760s and 1770s introduced the idea of measuring 'duty', and he raised typical figures from around 5 or 6 million to roughly 9 million or more foot-pounds per bushel of coal; Watt's engines would later more than double that again. Historians debate several points. One is how much Newcomen owed to Papin and Savery: the piston-and-cylinder vacuum principle was published by Papin in 1690, but Papin never built a working full-size engine, and Newcomen's practical solutions, from the internal spray to the valve gear and the large-scale beam, were his own. Another is the economic impact of Savery's patent: it diverted money from Newcomen, but the Proprietors also created an organised way to license and spread engines. Economic historians also stress that the engine's importance was not just technical. By letting mines go deeper, it helped Britain's coal output rise, which fed ironworks and later more engines, the beginning of the coal, iron and steam loop described later in this story. Finally, the long survival of engines like Elsecar, working until 1923, shows that 'old' technology often stays in use for generations where its strengths, such as simplicity and cheap fuel, still matter.",
+  "funFact": "The Elsecar Newcomen engine near Barnsley was built in 1795 and kept pumping water out of a coal mine until 1923, so it was still working in the age of aeroplanes and radio.",
+  "check": {
+    "q": "In a Newcomen engine, what actually pushed the piston down?",
+    "a": "The pressure of the air (the atmosphere), after the steam under the piston was condensed",
+    "wrong": [
+      "High-pressure steam from the boiler",
+      "The weight of the pump rods in the mine",
+      "A spring hidden inside the cylinder"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Newcomen atmospheric engine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Newcomen_atmospheric_engine"
+    },
+    {
+      "title": "Thomas Newcomen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Newcomen"
+    },
+    {
+      "title": "Thomas Savery",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Savery"
+    },
+    {
+      "title": "Elsecar Heritage Centre",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Elsecar_Heritage_Centre"
+    },
+    {
+      "title": "John Smeaton",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Smeaton"
+    },
+    {
+      "title": "Black Country Living Museum",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Black_Country_Living_Museum"
+    },
+    {
+      "title": "Fairbottom Bobs",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fairbottom_Bobs"
+    },
+    {
+      "title": "Mårten Triewald",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/M%C3%A5rten_Triewald"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Thomas Barney's 1719 engraving The Steam Engine near Dudley Castle, showing the engine house and beam",
+      "search": "Steam Engine near Dudley Castle 1719 Barney"
+    },
+    {
+      "want": "A cutaway diagram of a Newcomen atmospheric engine showing boiler, cylinder, piston, beam and pump rods",
+      "search": "Newcomen atmospheric engine diagram"
+    },
+    {
+      "want": "The Elsecar Newcomen engine house near Barnsley, still standing on its original site",
+      "search": "Elsecar Newcomen engine"
+    }
+  ]
+}

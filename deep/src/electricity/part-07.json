@@ -1,0 +1,160 @@
+{
+  "n": 7,
+  "title": "Electricity Goes to Work",
+  "when": "1837 – 1879",
+  "summary": "Electricity stopped being a science trick and got a job! It sent messages along wires and under the ocean, coated spoons in shiny silver, and lit up whole streets with blazing arc lamps. But those lamps were far too bright for anyone's bedroom.",
+  "sections": [
+    {
+      "heading": "A Wire That Talks",
+      "paragraphs": [
+        "By the 1830s, scientists had batteries that made a steady current, electromagnets that jumped to life when current flowed, and Faraday's discovery that motion could make electricity. Those were wonderful discoveries, but almost all of them lived inside laboratories and lecture halls. Ordinary people had never used electricity for anything at all. That was about to change, and the first job electricity was given was not lighting. It was talking.",
+        "Electricity, though, moves along a wire almost instantly. The electrons themselves only drift slowly, but the electrical push travels down the wire at an enormous speed, so switching on a current at one end affects the other end, many kilometres away, in a tiny fraction of a second. Inventors realised that if they could make that current do something visible at the far end, they could send messages faster than anything humans had ever known. A machine that does this is called a telegraph, from Greek words meaning 'far writing'.",
+        "Many people experimented with electric telegraphs, in Germany, Russia, Britain and America. The first one to go into real commercial service was built by two Englishmen with very different personalities. William Fothergill Cooke was a restless young businessman who had seen a telegraph demonstration in Germany and wanted to make money from the idea. Charles Wheatstone was a quiet, brilliant professor at King's College London who knew the science deeply. Together they patented their system in May 1837.",
+        "Their telegraph used needles, a bit like compass needles. Each needle sat inside a coil of wire. When current flowed one way through the coil, the needle tipped left; when it flowed the other way, it tipped right. Their first commercial design had five needles arranged across a diamond-shaped board printed with letters. By making two needles tip at the same time, the operator made them point together at one letter on the board. Five needles could only point to twenty letters, so a few letters such as C, J, Q, U, X and Z were left out, and people simply spelled around them.",
+        "Railways were the first big customers. Trains were new, fast and sometimes dangerous, and railway managers badly needed to know where each train was. In 1838 a five-needle line opened beside the Great Western Railway tracks between Paddington station in London and West Drayton, about 13 miles (21 kilometres) away. Its wires had trouble with their insulation, so later versions used two needles and then just one, reading a code made of left and right swings. Single-needle telegraphs stayed in use on some British railways until the 1930s.",
+        "What really made the public notice was a crime. On New Year's Day 1845 a man named John Tawell was suspected of a murder in Slough, west of London. He jumped on a train to London, believing nobody could get there ahead of him. But a telegraph message from Slough raced him to Paddington with his description, and police were waiting when he stepped off the train. Newspapers loved the story. Suddenly everyone understood that the telegraph was faster than any train. The same year, the Electric Telegraph Company was formed to build lines across Britain."
+      ]
+    },
+    {
+      "heading": "Dots, Dashes and 'What Hath God Wrought'",
+      "paragraphs": [
+        "Across the Atlantic, the most famous telegraph story belongs to a man who was not a scientist at all. Samuel Morse was a painter. He had studied art in London, painted portraits of important Americans, and in 1826 helped found the National Academy of Design in New York. Sadly, in 1825 his young wife Lucretia died while he was away from home working, and some of his biographers suggest the slowness of the news hurt him deeply. Whether or not that was his reason, Morse became fascinated by the idea of instant messages.",
+        "In 1832, sailing home from Europe, Morse got talking with a Boston scientist named Charles Thomas Jackson, who described experiments with electromagnets. Morse began sketching a telegraph in his notebook during the voyage. Turning those sketches into a working machine took years and lots of help. Leonard Gale, a chemistry teacher at New York University, showed him how to make the signal travel much farther by using better batteries and relays. A relay is a small electromagnetic switch: a weak current arriving from far away flips the switch, which then turns on a fresh, strong current from a local battery. Joseph Henry in America and Edward Davy in Britain had both worked out relays in the 1830s. With relays, a message could be passed along a chain, refreshed at each step, like runners in a relay race handing on a baton.",
+        "Morse's other key helper was a young man named Alfred Vail. Vail was skilled with machines, and his family's ironworks in New Jersey helped pay for the work. Vail built much of the apparatus, including the 'register', which pressed marks onto a moving strip of paper tape, and he worked closely with Morse on the famous code.",
+        "Morse code turns every letter into a short pattern of short signals (dots) and long signals (dashes). The letter E, the most common letter in English, is just a single dot. T is a single dash. Rarer letters get longer patterns. The idea is the same one used in clever computer coding today: give the most common things the shortest codes, and your messages get shorter. Unlike Cooke and Wheatstone's needles, Morse's system needed just one wire (the earth itself could complete the circuit), which made it much cheaper to build.",
+        "Morse spent years trying to persuade people his idea was worth paying for. Finally, in 1843, the United States Congress set aside 30,000 dollars to build an experimental line about 38 miles (around 61 kilometres) long, from Washington, D.C. to Baltimore, Maryland. Workers first tried burying the wire in pipes, but the insulation failed, so they strung it on wooden poles instead. That is why, for the next hundred years, rows of telegraph poles marched beside roads and railway lines all over the world.",
+        "On 24 May 1844, Morse sat in a room in the United States Capitol building in Washington and tapped out a message to Vail, waiting at a railway depot in Baltimore. The words were chosen by Annie Ellsworth, the young daughter of a friend who had helped get the money through Congress. She picked a line from the Bible, from the Book of Numbers: 'What hath God wrought', meaning roughly 'What amazing things God has made happen'. Vail received it and sent it straight back. The message had crossed 38 miles in a moment."
+      ]
+    },
+    {
+      "heading": "A Cable Under the Ocean",
+      "paragraphs": [
+        "Land telegraphs were one thing. Laying a wire across the bottom of the Atlantic Ocean, through water up to several kilometres deep, was another thing entirely. Yet an American businessman named Cyrus Field became determined to do it. In 1856 the Atlantic Telegraph Company was formed, with Field as one of its leaders, and it ordered about 2,500 nautical miles (some 4,600 kilometres) of cable.",
+        "An undersea cable is a copper wire coated in insulation and protected by an outer layer of iron wires. In those days the insulation was gutta-percha, a rubbery substance made from the sap of trees from South-East Asia. It was one of the few materials that stayed waterproof and did not rot in seawater for years. The cable was so heavy that it took huge ships to carry it, and it often snapped as it was being paid out over the stern, sinking to the sea floor and taking months of money and hard work with it.",
+        "After several failures, the cable was finally connected in August 1858, running from Valentia Island in the far west of Ireland to Newfoundland. On 16 August the first official message was sent, and Queen Victoria exchanged greetings with the American President, James Buchanan. There were celebrations with fireworks and church bells in New York. But the signal was horribly weak and blurred. Sending even a single letter took about two minutes. Queen Victoria's message of 98 words took a long time to get through: accounts differ, but at least over an hour, and the copy sent back took far longer.",
+        "Then things got worse. The company's chief electrician, Wildman Whitehouse, believed the answer was to push harder, and he applied very high voltages, up to about 2,000 volts, to force signals through. The high voltage damaged the insulation, and in September 1858, only about three weeks after it had begun working, the cable fell silent forever. Whitehouse was dismissed.",
+        "Meanwhile a young Scottish physicist named William Thomson, who later became Lord Kelvin, had a much better approach. Instead of shouting louder, he built a better ear. His mirror galvanometer was an extremely sensitive detector: a tiny magnet with a small mirror attached hung by a silk thread inside a coil. A beam of light bounced off the mirror onto a scale, so even the faintest current made the spot of light swing visibly across the room. It worked with gentle currents that did not harm the cable.",
+        "The American Civil War and money troubles delayed another try for years. When it came, it used the most extraordinary ship of the age: the Great Eastern, designed by the engineer Isambard Kingdom Brunel. She was so gigantic that no ordinary harbour could easily handle her, but she was perfect for carrying an entire ocean's worth of cable in one go. In 1865 the cable snapped after more than 1,000 nautical miles had been laid, and its end was lost in deep water. The crew tried to fish it up with grappling hooks and failed.",
+        "In July 1866 they tried again with a new and better cable, and this time it worked. On 27 July 1866 the Great Eastern reached Heart's Content in Newfoundland, and the cable was put into service the same day. Even more amazingly, the ship then went back out, found the broken 1865 cable lying on the sea bed, hauled it up, joined it to new cable, and completed a second line in September. The new cables could carry about 8 words a minute, about 80 times faster than the 1858 one. News that once took ten days to cross the Atlantic by ship now took minutes. It was one of the first true steps towards the connected world we live in today."
+      ]
+    },
+    {
+      "heading": "Silver Spoons from a Battery",
+      "paragraphs": [
+        "While telegraph wires were stretching across countries, electricity found a second job in a very different place: the workshops of Birmingham, in the middle of England, a city famous for making buttons, buckles, jewellery, cutlery and thousands of other metal goods.",
+        "Here is the trick. Remember how Nicholson and Carlisle used Volta's pile to split water, and how Humphry Davy used electricity to pull new metals out of chemical compounds? Electricity can push metal atoms around inside a liquid. Dissolve some silver in a suitable liquid, and the liquid fills up with silver atoms that have lost a little electric charge. These charged atoms are called ions. Hang a plain metal spoon in the liquid, connect it to the negative side of a battery, connect a bar of pure silver to the positive side, and switch on. The silver ions drift to the spoon, pick up electrons, and settle on it as a smooth, thin layer of real silver. Meanwhile, the silver bar slowly dissolves, topping up the liquid. This is electroplating.",
+        "The first person to do it was an Italian chemist, Luigi Brugnatelli, a friend of Volta's, who gold-plated objects using a voltaic pile in 1805. But his work was mostly ignored, and for about thirty years nobody turned it into a business. In the late 1830s, scientists in Britain and Russia independently worked out how to copy objects using deposited copper. In Russia, Moritz Hermann von Jacobi (known in Russian as Boris Jacobi) used the method, called electrotyping, to make exact copies of printing plates and even sculptures.",
+        "The breakthrough for silver and gold came from a Birmingham surgeon named John Wright, who discovered that a solution containing a chemical called potassium cyanide worked beautifully for plating these precious metals. Cyanide is deadly poisonous, so this was serious, careful work for trained people only. Wright's associates, the cousins George and Henry Elkington, took out patents in 1840 and built a great factory in Birmingham.",
+        "There is a hidden link to the rest of our story here. Plating needed a lot of steady current, and batteries were expensive to run because they used up zinc and acid. So in 1844 the Elkingtons began using a generator, a machine built by John Woolrich that turned the motion of a steam engine into electricity using Faraday's induction. It is often described as the first electrical generator used in a real industry. Electroplating proved that there was money to be made from electricity, and it gave engineers a reason to build bigger and better generators. By the 1850s, plating with nickel, brass, tin and zinc had all been developed, and today electroplating is still used on everything from car parts to the tiny gold contacts inside your phone."
+      ]
+    },
+    {
+      "heading": "Machines That Feed Themselves",
+      "paragraphs": [
+        "Faraday's spinning copper disc had shown that motion could make electricity, and Hippolyte Pixii's hand-cranked machine had added a clever part called a commutator. A spinning coil in a magnetic field naturally produces a current that flips back and forth. The commutator is a rotating switch on the shaft that reverses the connections at just the right moment, so the current coming out always flows the same way. That kind of machine, making direct current, is called a dynamo.",
+        "But early generators had a weakness. Their magnetic fields came from permanent magnets, the same kind of magnet you might stick on a fridge, only bigger. Permanent magnets are not very strong compared with a good electromagnet, so the machines could only make modest amounts of power. Building bigger ones meant stacking up heavier and heavier magnets.",
+        "Why not use electromagnets instead? The difficulty was that electromagnets need current to work, and getting that current from a separate battery was costly. Then several inventors noticed a wonderful loophole. The iron cores of the electromagnets keep a tiny bit of magnetism even when switched off. So when the machine starts spinning, that weak leftover magnetism makes a weak current. If you feed that current back into the electromagnets, they get a bit stronger, which makes a bit more current, which makes the magnets stronger still. Round and round it goes, and in a few seconds the machine has built itself up to full power. This is called self-excitation, and a machine that works this way 'feeds itself'.",
+        "As so often in this story, the idea came to several people at almost the same time. In Hungary, a monk and physics teacher named Ányos Jedlik had worked out the principle around 1856 but never patented it. In Britain, Henry Wilde described a powerful dynamo design in 1866, and Samuel Alfred Varley filed a patent on 24 December 1866. In Germany, Werner von Siemens, an engineer who had already built a big telegraph business, described his 'dynamo-electric' machine in a report to the Berlin Academy of Sciences early in 1867. On 17 January 1867, papers by Siemens and by Charles Wheatstone, the telegraph pioneer, were presented at the Royal Society in London. It is fairest to say the self-exciting dynamo had several inventors.",
+        "The next step came from a Belgian carpenter's son named Zénobe Gramme, who worked as a model-maker in Paris. Building on an earlier ring-shaped design by the Italian Antonio Pacinotti from about 1860, Gramme wound many coils of wire around a spinning iron ring, each connected to its own segment of the commutator. With many coils taking turns, the output was smooth and nearly steady, not jerky. He demonstrated his machine to the Paris Academy of Sciences in 1871, and the Gramme machine became the first generator to make power on a commercial scale for industry. It was used for electroplating, for arc lights and in early factories.",
+        "Then, at an exhibition in Vienna in 1873, something unexpected happened. Gramme's business partner, Hippolyte Fontaine, connected the wires of one Gramme machine to a second one that was already running. To everyone's surprise, the second machine's shaft began to spin by itself. A dynamo run backwards is an electric motor! Faraday had shown this connection decades earlier, but now it worked at a size that could drive real machinery. The same machine could turn motion into electricity and electricity back into motion, which is still true of electric car motors today."
+      ]
+    },
+    {
+      "heading": "Arc Lights Leave the Lab",
+      "paragraphs": [
+        "Now there was finally a cheap, powerful source of electricity: a steam engine driving a dynamo. And people already knew one way to turn electricity into light. Back in the early 1800s Humphry Davy had dazzled audiences at the Royal Institution with a brilliant arc of light leaping between two pieces of charcoal. The problem then had been that it gobbled up the power of enormous batteries. With dynamos, the arc light could finally go out into the world.",
+        "Here is how an arc lamp works. Two carbon rods touch, and current flows through them. Then they are pulled a few millimetres apart. The current keeps jumping across the gap through the hot air, which becomes a glowing, electrified gas. The tips of the rods reach several thousand degrees Celsius and glow an intense blue-white. One arc lamp could give off as much light as hundreds of candles, and big ones far more.",
+        "But there was a catch: the carbon rods slowly burn away, and as they shorten, the gap grows until the arc goes out. Early arc lamps needed a clever clockwork or electromagnetic gadget, called a regulator, to keep nudging the rods closer together. Regulators were fiddly and expensive.",
+        "A young Russian engineer named Pavel Yablochkov came up with a beautifully simple solution in 1876. Instead of pointing the two rods at each other, he stood them side by side, like two candles, separated by a thin strip of material that does not conduct, such as kaolin (a white clay) or plaster of Paris. The arc burned across the tips at the top, and as the rods burned down, the strip between them crumbled away at the same speed, so the gap always stayed the right size. No regulator needed! People called it the 'electric candle'.",
+        "There was one more clever detail. With direct current, one rod burned away about twice as fast as the other, which ruined the trick. So Yablochkov ran his candles on alternating current, which flips back and forth, making both rods wear down evenly. That made his candles some of the first popular users of AC, years before the War of the Currents you will read about later. Each candle lasted about two hours and then had to be replaced, so lamp holders often held several candles that switched over one after another.",
+        "In 1877 Yablochkov candles lit a hall of a great Paris department store, the Louvre store, with about 80 lamps. Then, for the great Paris Exposition (world's fair) of 1878, they lit the Avenue de l'Opéra and the square in front of the Opera House, part of a display of about 64 lamps glowing in white glass globes, each holding several candles. Visitors had never seen a street at night look so bright. That December, electric candles were installed along the Victoria Embankment beside the River Thames in London. They spread to cities from Rio de Janeiro to Calcutta, and at their peak French factories turned out about 8,000 candles a day.",
+        "In America, Charles F. Brush of Cleveland, Ohio, took a different path. Brush, a young chemist and engineer, began designing his own dynamo in 1876, and in 1878 tests by the Franklin Institute in Philadelphia judged his machine better than its rivals. He also built a reliable arc lamp with an automatic regulator, and arranged many lamps in a row, one after another, on a single circuit. On the evening of 29 April 1879, Brush's arc lamps lit up the Public Square in the middle of Cleveland, powered by a generator nearby. Crowds came out to stare at the brilliant light. Within a couple of years Brush systems were glowing in New York, where they lit part of Broadway, and in Boston, Philadelphia and other cities. In San Francisco in 1879, a company bought Brush generators and began selling electric light from a central plant to many different customers, one of the very first electric utilities in the world."
+      ]
+    },
+    {
+      "heading": "Football by Arc Light",
+      "paragraphs": [
+        "Imagine a chilly autumn evening, 14 October 1878, at the Bramall Lane ground. In those days, football matches had to finish before it got dark, which in a northern English winter could mean mid-afternoon. But on this night, a game kicked off after sunset. Arc lamps had been raised high on wooden towers around the pitch, and dynamos, driven by steam engines, supplied the current. The players, most of them from the Sheffield club called The Wednesday (today's Sheffield Wednesday), were split into two teams, the Reds and the Blues.",
+        "More than 20,000 people came to watch, an enormous crowd for the time. Many of them had come as much to see the lights as the football. Reports say the glare was dazzling, and players sometimes squinted or were blinded for a moment when they looked towards a lamp. The dynamos and the steam engines that drove them were not always reliable, and there was no electricity grid to fall back on if something went wrong.",
+        "Bramall Lane is now counted as the first stadium to host floodlit association football, and other experimental floodlit matches followed in different towns that winter. But it took many decades before floodlights became normal. For years, the football authorities were suspicious of night games, and it was not until the 1950s that floodlit matches became common in English football. Still, that evening in 1878 was a preview of the future: a world where electricity could keep sport, work and fun going long after the sun had set."
+      ]
+    },
+    {
+      "heading": "Too Bright for the Living Room",
+      "paragraphs": [
+        "So by 1879, electricity was sending messages across oceans, plating cutlery, spinning motors and lighting streets, squares, shops and football pitches. Why, then, did nearly every home in the world still light its rooms with candles, oil, kerosene or gas?",
+        "The answer is that arc lights were almost the perfect light for the wrong job. Imagine putting a lamp as bright as hundreds of candles on your bedroom ceiling. You would not be able to look anywhere near it. Arc lamps also hissed, flickered and buzzed. They gave off strong ultraviolet light, the invisible kind that causes sunburn, and fumes, including some carbon monoxide. Their white-hot carbon tips could spit sparks, a real fire risk in a house full of curtains, wood and paper. Their carbons needed replacing every few hours.",
+        "What homes needed was something completely different: lots of small, gentle, steady lights, maybe as bright as ten or twenty candles each, which could each be switched on and off separately without affecting any of the others. Inventors called this challenge 'subdividing the light', meaning splitting one huge electric light into many little ones. Some respected experts thought it might be impossible. The British engineer William Preece, a leading figure at the Post Office telegraph service, was among those who doubted it could be done in a practical, affordable way.",
+        "There was an obvious alternative to the arc. Instead of making electricity leap across a gap, why not send it through a thin strip or wire that would get so hot it would glow, like the element of a toaster but brighter? It sounds simple. It was not. For decades, every glowing wire anyone tried either burned up in seconds, melted, darkened its glass, or cost far too much to make.",
+        "And here is the surprise. The answer, a small, gentle glowing wire sealed inside a glass bulb, was not a brand-new idea in 1879. Inventors had been chasing it for about forty years already. In the next part, we go back to meet the patient, often forgotten people who ran that long race."
+      ]
+    }
+  ],
+  "deepDive": "Why was the 1858 Atlantic cable so slow, even before it was damaged? The answer is a property called capacitance. A long cable is really a copper wire separated from the surrounding seawater by a thin layer of insulation, and that makes it act like a gigantic, stretched-out Leyden jar. Each pulse of current has to charge up the cable before the far end feels much, and then the charge has to drain away again. Sharp on-off signals become smeared, rounded humps, and if you send pulses too quickly they blur into one another. In the 1850s William Thomson worked out what is often called his 'law of squares': the delay in a cable grows roughly with the square of its length. Double the length and the signals become about four times sluggish. That meant a transatlantic cable needed a thick copper core, good insulation and very sensitive receivers, not brute-force voltage. Wildman Whitehouse, who favoured high voltage, clashed with Thomson, and the failure of the 1858 cable after about three weeks helped settle the argument in Thomson's favour. A government inquiry afterwards studied what had gone wrong, and the lessons shaped the much more successful 1866 cable. Historians also argue about credit for the dynamo. Ányos Jedlik described self-excitation around 1856 but did not publish widely or patent it; Wilde, Varley, Siemens and Wheatstone all reached the idea in 1866–67, and national pride has sometimes coloured who gets named first. Most historians treat it as a case of simultaneous invention: once permanent-magnet generators, electromagnets and the commutator all existed, the next step was waiting to be noticed. A similar debate surrounds the arc lamp: Yablochkov, Brush, Werner von Siemens, and the French makers of regulator lamps such as Serrin all built successful systems, and which counts as first depends on whether you mean first demonstration, first patent or first paying customers. Finally, the numbers show why arc lamps lost the home market. A big arc lamp might use hundreds or even thousands of watts, which suited a street corner but would have flooded a parlour. Engineers measured light in 'candlepower', and arc lamps were rated in hundreds or thousands of candles. The challenge set by 1879 was not making light, but making small amounts of it, cheaply and safely, in many separate places at once.",
+  "funFact": "When the first Atlantic cable worked in 1858, sending one single letter of the alphabet across the ocean took about two minutes.",
+  "check": {
+    "q": "Why did Pavel Yablochkov run his 'electric candles' on alternating current?",
+    "a": "So that both carbon rods burned down evenly",
+    "wrong": [
+      "Because alternating current was cheaper to send under the ocean",
+      "So that the candles would change colour",
+      "Because direct current had not been discovered yet"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cooke and Wheatstone telegraph",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cooke_and_Wheatstone_telegraph"
+    },
+    {
+      "title": "Samuel Morse",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Samuel_Morse"
+    },
+    {
+      "title": "Transatlantic telegraph cable",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable"
+    },
+    {
+      "title": "Electroplating",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electroplating"
+    },
+    {
+      "title": "Dynamo",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dynamo"
+    },
+    {
+      "title": "Gramme machine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gramme_machine"
+    },
+    {
+      "title": "Yablochkov candle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yablochkov_candle"
+    },
+    {
+      "title": "Arc lamp",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Arc_lamp"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A Cooke and Wheatstone five-needle telegraph instrument with its diamond-shaped letter board (museum object)",
+      "search": "Cooke Wheatstone five needle telegraph"
+    },
+    {
+      "want": "The steamship Great Eastern laying the Atlantic telegraph cable in 1865 or 1866 (period illustration)",
+      "search": "Great Eastern Atlantic cable 1866"
+    },
+    {
+      "want": "A Gramme ring dynamo machine from the 1870s, as shown in a museum or old engraving",
+      "search": "Gramme machine dynamo 1871"
+    }
+  ]
+}

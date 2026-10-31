@@ -1,0 +1,153 @@
+{
+  "n": 17,
+  "title": "A World in Your Pocket: How Smartphones Changed Society",
+  "when": "2007 – today",
+  "summary": "Today billions of people carry a smartphone, and it has changed almost everything: how we find our way, send money, learn, work and talk to our families. In some countries people skipped home telephones completely and jumped straight to mobile phones. Phones even gave us new words like 'selfie' and new ways to smile with emoji!",
+  "sections": [
+    {
+      "heading": "Billions of Pockets",
+      "paragraphs": [
+        "Try a little experiment the next time you ride a bus, wait in a doctor's office or sit in a busy café. Count the people around you, then count how many of them are holding a phone. In most places in the world today, the two numbers are surprisingly close. Only about twenty years ago that scene would have looked very strange. In 2007, when the first iPhone went on sale, most people's phones could make calls, send texts and maybe take a blurry photo. Going online meant sitting down at a computer. Today, for billions of people, the internet is simply something that lives in their pocket.",
+        "Let's look at the numbers, because they are enormous. The International Telecommunication Union, or ITU, is the United Nations agency that keeps track of the world's telephones and internet connections. It estimated that about 5.5 billion people were using the internet in 2024. That is about 68 out of every 100 people on Earth. The GSMA, an organization that represents mobile phone companies around the world, estimated that by the end of 2024 about 4.7 billion people were using the internet on a mobile phone. That is well over half of humanity, and for a huge number of those people the phone is their main way online, or their only one.",
+        "Here is an even stranger fact: there are more mobile phone subscriptions in the world than there are people. By 2024 the number of subscriptions had passed 9 billion, while the world's population was a little over 8 billion. How can that be? A subscription is tied to a SIM card, not to a person. Many people carry two SIM cards, for example one for work and one for home, or one from each of two networks so they can choose the cheaper price. Some subscriptions do not belong to people at all. They live inside machines such as card-payment terminals, burglar alarms, smart meters, cars and delivery trackers that quietly talk to the network on their own.",
+        "So the number of subscriptions is not the same as the number of phone owners. The ITU measures ownership too. It found that about four out of every five people aged 10 and over own a mobile phone. In rich countries, ownership is above 95 percent, so almost everybody has one. In the world's lowest-income countries the figure is lower, about 56 percent, and women there are less likely than men to own a phone. These gaps matter, and we will come back to them.",
+        "The networks have spread too. According to the ITU, around 96 percent of the world's people live within reach of at least a 3G mobile signal, and about 92 percent are covered by 4G. Newer 5G networks covered about half of the world's people in 2024, mostly in cities and richer countries. In low-income countries only about half of people had 4G coverage and just 4 percent had 5G. Even so, the mobile phone has spread faster than almost any technology in history. The telephone took most of the 20th century to reach most homes in rich countries. The mobile phone reached most of the planet in about twenty-five years.",
+        "Still, it is important to remember the other side of the picture. About 2.6 billion people, roughly one person in three, were still offline in 2024. In Africa, about two-thirds of people own a mobile phone but only about 38 percent use the internet. Sometimes the reason is that there is no signal. More often, it is that phones and data plans cost too much, or that people have not had the chance to learn how to use them. Connecting the last third of humanity is one of the biggest challenges of the 21st century."
+      ]
+    },
+    {
+      "heading": "Leapfrogging: Skipping Straight to Mobile",
+      "paragraphs": [
+        "Think about what it took to give a house a landline telephone in the 20th century. Workers had to dig trenches or put up poles, string copper wires along every street, connect each wire to a building called a telephone exchange, and then keep everything repaired when storms, floods or thieves damaged it. In big, crowded cities that was worth the cost. In a small farming village far from any town, it often was not. Across large parts of Africa, South Asia and Latin America, many villages never got landlines at all.",
+        "Mobile phones changed the math. Instead of running a wire to every single home, a company could put up one tower that covered a whole area, with a radio signal reaching many kilometers in open country. Phones themselves got cheaper every year, and prepaid plans meant you did not need a bank account or a monthly bill. You could buy a little bit of calling credit, often called airtime, from a shop or street stall whenever you had some money.",
+        "Experts call this leapfrogging. In the game of leapfrog, you jump right over another player. In technology, leapfrogging means jumping over an older stage of development entirely. Millions of people in Africa and Asia never owned a landline telephone or a desktop computer. Their first phone was a mobile phone, and later their first computer was a smartphone. India is a good example: a very large number of Indians first went online not with a laptop but with an inexpensive Android phone and a cheap data plan.",
+        "Before mobile phones, important news in some rural areas traveled on foot or by bus. In Mali, for example, people sometimes traveled from village to village just to tell relatives about a wedding, a birth or a death. With a phone, the same news can travel in seconds. Farmers can call ahead to find out the price of crops at different markets before deciding where to sell. Fishermen can find out which harbor is paying more for the day's catch. Phones also created brand-new small businesses: selling airtime, charging other people's phones for a small fee, and repairing broken handsets in roadside stalls.",
+        "The most famous leapfrogging story of all is about money. In Kenya in the early 2000s, many people did not have bank accounts. Banks were far away, and their fees were too high for people earning small amounts. Yet people often needed to send money to family members. A worker in the capital, Nairobi, might want to send part of his wages to his parents in a village hundreds of kilometers away. Usually that meant handing an envelope of cash to a bus driver or a friend and hoping it arrived safely.",
+        "The mobile network company Safaricom, working with the British company Vodafone, tested an idea in 2005 and launched it fully in March 2007. It was called M-Pesa. M stands for mobile, and pesa is the Swahili word for money. Here is how it works. You take cash to an M-Pesa agent, often a small shop that also sells airtime. The agent adds that amount to an electronic balance linked to your phone number. Then you can send money to anyone else with a phone by typing a short text-style message protected by a secret PIN. The person you sent it to goes to their own nearby agent and turns the balance back into cash. Best of all, it worked on simple, cheap phones, not just smartphones.",
+        "M-Pesa spread with astonishing speed. Within about five years, Kenya had around 17 million registered accounts, and the service later expanded to countries including Tanzania, Mozambique, the Democratic Republic of the Congo, Lesotho, Ghana, Egypt and Ethiopia. Today it serves tens of millions of people. People use it to pay school fees, electricity bills and shopkeepers, to save money and even to borrow small amounts.",
+        "Did it actually make life better? Economists Tavneet Suri and William Jack studied Kenyan households and published a famous paper in the journal Science in 2016. They estimated that access to M-Pesa had helped lift about 194,000 households, roughly 2 percent of Kenyan households, out of poverty, with especially large benefits for households led by women. Not every researcher agrees. A 2019 paper by other scholars argued the study had serious flaws. This is a good reminder that even exciting success stories need careful checking, and that scientists can disagree about how big an effect really is."
+      ]
+    },
+    {
+      "heading": "A Day in a Pocket-Powered Life",
+      "paragraphs": [
+        "Imagine a single ordinary day for a family in almost any city in the world today, and count how many times a smartphone quietly does a job that used to need a completely different object.",
+        "The day starts with an alarm clock, which is the phone. Someone checks the weather forecast, which used to mean waiting for the radio or the newspaper. On the way to school or work, a bus app shows exactly when the next bus will arrive, using the bus's own GPS position. Older readers can remember when a family road trip meant unfolding a giant paper map across the car, arguing over which road to take, and stopping at gas stations to ask for directions. Now a navigation app speaks the directions out loud, warns about traffic jams ahead and recalculates the route when you miss a turn. Paper maps have not disappeared, but for most daily trips they have been replaced.",
+        "At lunchtime a grandmother in Canada makes a video call to her grandson in the Philippines. In the 1970s an international phone call was so expensive that many families made one only on special occasions, and they talked fast to save money. A video call across the world, with moving faces and voices, would have looked like science fiction. Today it costs almost nothing beyond the price of the data. For families separated by migration, work or study, this is one of the most precious changes smartphones have brought.",
+        "In the afternoon, a teenager listens to music. A generation ago, she would have bought cassette tapes or CDs, one album at a time. Today streaming apps send songs from distant computer servers, a little piece at a time, straight to her headphones. The same is true for films, television shows and podcasts. A huge share of the world's internet traffic is now video, and much of it is watched on phone screens.",
+        "The phone is also a classroom. A student can look up a word, watch a video explaining fractions, practice a new language with a learning app or read a free online encyclopedia. During the COVID-19 pandemic, which began in 2020, schools in many countries closed their buildings for weeks or months. Many students kept learning through laptops, tablets and phones. For families with no computer at home, a shared smartphone was sometimes the only link to the teacher. That period also showed the digital divide clearly: children without a device or a good connection fell further behind.",
+        "Then there is banking and shopping. Paying a bill once meant writing a check, buying a stamp and mailing an envelope, or standing in line at a bank. Now many people check their balance, send money to a friend and pay for groceries by tapping their phone on a card reader. Phones store train tickets, boarding passes and concert tickets. They are a flashlight, a calculator, a voice recorder, a dictionary, a translator that can read a restaurant menu written in another language, and a camera that has made billions of people into photographers."
+      ]
+    },
+    {
+      "heading": "Work in the Age of Apps",
+      "paragraphs": [
+        "Smartphones did not just change how people relax. They changed how millions of people earn a living, and they invented jobs that did not exist before.",
+        "The most obvious new job is making apps. After Apple opened its App Store in 2008 and Google opened its Android store the same year, anyone with a computer and the right skills could build a program and sell it to the whole world. Some app makers became famous, but most work in ordinary teams at companies, designing screens, writing code, testing for bugs and answering customers' questions. There are also app-related jobs most people never think about: people who draw the icons and buttons, write the words that appear on the screen, translate apps into other languages, and check that apps are easy to use for people with poor eyesight or hearing.",
+        "A second group of new jobs is sometimes called the gig economy. A gig was originally a musician's word for a one-time performance. In the gig economy, people do short, separate jobs found through an app instead of working regular hours for one boss. When you tap a button to order a ride, an app finds a nearby driver, shows both of you a map, sets the price and handles the payment. Food delivery, grocery shopping, dog walking, cleaning and small home repairs all work in a similar way. None of this would be possible without phones that know their own location, can show maps and can take payments.",
+        "For many workers, gig apps offer something valuable: flexibility. A student can drive in the evenings, a parent can deliver meals while children are at school, and someone between jobs can earn money quickly. In India alone, a government study estimated about 7.7 million gig workers in 2020 and 2021, and predicted the number could reach about 23.5 million by 2030.",
+        "But the gig economy has also caused big arguments. Most app companies treat their drivers and couriers as independent contractors, which means they are like tiny one-person businesses rather than employees. That usually means no guaranteed minimum wage for all their working time, no paid sick days and no company pension. Workers in many countries have gone to court to argue that they deserve more protection. In February 2021, the Supreme Court of the United Kingdom ruled that a group of Uber drivers should be treated as workers entitled to rights such as the minimum wage and holiday pay. In California, by contrast, voters approved a measure called Proposition 22 in 2020, backed by the app companies, which kept drivers as contractors but promised them some extra benefits, such as earnings of at least 120 percent of the local minimum wage for time spent on trips. Governments are still arguing about the best rules.",
+        "Smartphones have changed office work too. Before mobile email, most people left their work behind when they left the building. With BlackBerrys in the 2000s and smartphones after them, messages from the boss could arrive at dinner, on weekends or on holiday. Many people like being able to work from anywhere. Others feel they can never fully switch off. Some countries have responded with rules. France, for example, introduced a so-called right to disconnect in 2017, which requires larger companies to agree with their staff on limits to after-hours emails and messages."
+      ]
+    },
+    {
+      "heading": "Everyone Can Be a Reporter",
+      "paragraphs": [
+        "For most of history, if something important happened, ordinary people learned about it from professional reporters, often hours or days later. Newspapers, radio and television decided which stories to tell. Smartphones changed that, because they put a camera, a video recorder and a way to publish instantly into billions of hands. When ordinary people record and share news themselves, it is called citizen journalism.",
+        "Some early examples came even before smartphones. On September 11, 2001, many of the images and eyewitness accounts from near the World Trade Center in New York came from ordinary people. When the huge Indian Ocean tsunami struck in December 2004, video filmed by tourists and local residents on cameras was shown on television around the world, and bloggers shared news in real time while professional reporters were still trying to reach the area.",
+        "Smartphones made this far faster. On January 15, 2009, a passenger jet, US Airways Flight 1549, lost power in both engines after hitting a flock of birds and landed on the Hudson River in New York. All 155 people on board survived. A passenger on one of the ferries that rushed to help, Janis Krums, snapped a photo with his iPhone of people standing on the floating plane's wings and posted it on Twitter. His picture spread across the internet before most television crews had arrived. Many people point to that moment as a sign that news had changed forever.",
+        "Phones became especially important in places where governments tried to control the news. After a disputed election in Iran in 2009, foreign journalists were largely blocked from reporting, and people used social media to share what they saw. During the Arab Spring protests that spread across North Africa and the Middle East starting in late 2010, protesters filmed events on phones and uploaded them to sites like YouTube, where the whole world could watch. In the United States in 2020, a teenager named Darnella Frazier used her phone to record the arrest in Minneapolis during which a police officer killed George Floyd. Her video led to protests around the world and to a trial, and in 2021 she received a special citation from the Pulitzer Prize board, one of journalism's highest honors.",
+        "Phones help in disasters and emergencies too. After Kenya's disputed election in late 2007 led to violence, a group of Kenyan technologists including Ory Okolloh, Erik Hersman, Juliana Rotich and David Kobia built a website in just a few days that collected eyewitness reports sent by text message and email and plotted them on a map. They called it Ushahidi, which means testimony or witness in Swahili. After the devastating earthquake in Haiti in January 2010, a team using Ushahidi's tools collected nearly 40,000 reports and mapped about 4,000 separate events, helping rescuers see where help was needed.",
+        "Governments also use phones to warn people. In the United States, a system called Wireless Emergency Alerts went live in 2012. It uses a trick called cell broadcast: instead of sending a separate text to each phone, a tower sends one message to every compatible phone in its area at the same moment. That is why a tornado warning or a missing-child alert can make every phone in a room buzz at once, even when the ringer is switched off. Many other countries have similar systems, such as EU-Alert in Europe and J-Alert in Japan.",
+        "But there is a catch. When anyone can publish anything, false information can spread just as fast as the truth. Photos can be old, taken somewhere else, or edited. Rumors can race through group chats in minutes. Being a smart news reader in the smartphone age means asking good questions: Who made this? Where and when was it taken? Do trustworthy news organizations confirm it?"
+      ]
+    },
+    {
+      "heading": "Smiley Faces, Selfies and Group Chats",
+      "paragraphs": [
+        "Smartphones did not only change what news we share. They changed the way humans talk to each other, and even added new words to the dictionary.",
+        "Start with emoji. As you read in Part 6, the Japanese phone company J-Phone offered a small set of picture characters in 1997, and in 1999 designer Shigetaka Kurita created a famous set of 176 emoji for NTT Docomo's i-mode service. For years, these little pictures were mostly a Japanese thing, and they often did not work between different phone companies. The breakthrough came in October 2010, when Unicode, the international standard that tells computers how to store letters and symbols, added 722 emoji. Because of Unicode, a heart sent from one brand of phone would show up as a heart on another. Apple added an emoji keyboard for iPhone users in Japan in 2008 and made it available worldwide in 2011. After that, emoji exploded. In 2015, Oxford Dictionaries chose an emoji, the Face with Tears of Joy, as its Word of the Year. The following year, the Museum of Modern Art in New York added Kurita's original 1999 emoji to its collection. By the mid-2020s Unicode included close to 4,000 emoji, from flags and foods to people with many different skin tones.",
+        "Why did emoji become so popular? When we talk face to face, our expressions and tone of voice tell listeners whether we are joking, happy or annoyed. Short text messages lose all of that. A tiny smiling face or a thumbs-up puts some of the missing emotion back.",
+        "Next come selfies. People have made self-portraits for centuries, from painters at their easels to the American photography pioneer Robert Cornelius, who in 1839 made one of the earliest photographs of a person by pointing his camera at himself. Because cameras then were so slow, he had to uncover the lens, run into position and keep still for a minute or more. Taking a self-portrait with a normal camera remained awkward for a long time, because you could not see yourself while you aimed.",
+        "The phone fixed that with the front-facing camera. In 1999, the Kyocera VP-210 in Japan became the first camera phone with a camera facing the user, mainly for video calls. The Sony Ericsson Z1010 brought a front camera to Western shoppers in late 2003, and the iPhone 4 in 2010 helped make the selfie a worldwide habit. The word itself first appeared in writing in 2002, on an Australian internet science forum. In November 2013, Oxford Dictionaries named selfie its Word of the Year. A few months later, at the Academy Awards in March 2014, the television host Ellen DeGeneres squeezed into a selfie with a crowd of famous film stars. When she posted it on Twitter, it broke the record for the most retweets, passing 2.8 million within a day.",
+        "Group chats are another smartphone invention that changed daily life. Messaging apps made it free to send messages, photos and voice notes to whole groups of people at once: a family spread across three countries, a football team, a class project or a group of friends planning a weekend. For many people, the group chat has become a sort of digital living room, where news, jokes and plans are shared all day long.",
+        "Then there is social media: apps where people post photos, videos and updates for friends or for the whole world to see. Smartphones turned social media from something you checked on a computer once a day into something people carry everywhere. That made it possible for a teenager with a phone to start a popular cooking channel, for a scientist to explain discoveries to millions, and for people with rare illnesses to find others like them. But it also brought pressures, such as comparing yourself with others' carefully chosen photos, which Part 18 will look at honestly."
+      ]
+    },
+    {
+      "heading": "The Most Powerful Tool Ever Shared",
+      "paragraphs": [
+        "Step back and look at the whole picture. In less than twenty years, the smartphone has become the most widely shared powerful tool in human history. A farmer in Kenya, a nurse in Brazil, a student in India and a retired engineer in Sweden may all carry versions of the same invention. It connects families across oceans, lets people without bank accounts send money safely, gives eyewitnesses a way to show the world what is happening, warns people about storms and puts much of the world's knowledge a few taps away.",
+        "It also reshaped the economy. Whole industries, such as app making, ride-hailing and mobile payments, grew up around it, while older businesses, from paper map makers to camera film companies and music shops, had to change or shrink. The way we talk changed too, with new words like selfie and new ways of showing feelings like emoji.",
+        "But here is a fair warning. Something this powerful does not only bring good things. The same phone that connects you to your grandmother can keep you up past midnight. The same camera that records important news can be used to embarrass someone. The same apps that make life easier collect huge amounts of information about where we go and what we do. And the materials inside every phone come from mines and factories, and old phones end up as waste. In Part 18, we will look at these problems honestly, and at what scientists, governments and ordinary people are doing about them."
+      ]
+    }
+  ],
+  "deepDive": "Measuring how many people use phones is trickier than it sounds. The simplest number, mobile subscriptions, passed 9 billion in 2024, more than the world's population. But subscriptions count SIM cards, not humans: one person may carry two SIMs, and millions of SIMs sit inside payment terminals, alarms and cars. That is why organizations such as the ITU also run household surveys asking who actually owns a phone and who has used the internet recently. By those measures about four in five people aged 10 and over own a mobile phone, and about 5.5 billion people (around 68 percent) used the internet in 2024. Researchers then split the remaining gap into two parts. The coverage gap is people who live where no mobile broadband signal reaches; it is now small, because about 92 percent of people are covered by 4G. The much bigger usage gap is people who live under a signal but still do not go online, usually because handsets and data are too expensive relative to income, because they lack reading or digital skills, or because they do not see content in their own language. Women in low-income countries are noticeably less likely to own a phone than men, which economists call the mobile gender gap. Studying whether phones actually improve lives is harder still. The best-known study, by Tavneet Suri and William Jack (Science, 2016), compared Kenyan households according to how close they lived to M-Pesa agents as the network spread, and estimated that mobile money lifted about 2 percent of households out of poverty, partly by helping women move from farming into business. Critics argued in 2019 that the method could not fully separate M-Pesa's effect from other changes happening in Kenya at the same time, and that it may overstate the benefits. This is a classic problem in economics: when a technology spreads everywhere at once, there is no perfect comparison group. Researchers try to solve it using natural experiments, such as the uneven roll-out of towers or agents, and by checking whether results hold up in other countries. The broad picture most economists accept is that mobile phones and mobile money bring real benefits, especially for sending money and sharing information, but the exact size of those benefits is still debated.",
+  "funFact": "When Ellen DeGeneres posted her crowded celebrity selfie from the 2014 Academy Awards, it became the most retweeted post ever at the time, passing 2.8 million retweets within about a day.",
+  "check": {
+    "q": "What did the Kenyan service M-Pesa, launched in 2007, let people do with their mobile phones?",
+    "a": "Send and receive money using their phone, even on basic phones without a bank account",
+    "wrong": [
+      "Watch live television on their phones",
+      "Make the first video calls in Africa",
+      "Charge their phones using solar power from the network"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Measuring digital development: Facts and Figures 2024 – Internet use",
+      "publisher": "International Telecommunication Union (ITU)",
+      "url": "https://www.itu.int/itu-d/reports/statistics/2024/11/10/ff24-internet-use/"
+    },
+    {
+      "title": "Facts and Figures 2024 – Mobile phone ownership",
+      "publisher": "International Telecommunication Union (ITU)",
+      "url": "https://www.itu.int/itu-d/reports/statistics/2024/11/10/ff24-mobile-phone-ownership/"
+    },
+    {
+      "title": "Facts and Figures 2024 – Mobile network coverage",
+      "publisher": "International Telecommunication Union (ITU)",
+      "url": "https://www.itu.int/itu-d/reports/statistics/2024/11/10/ff24-mobile-network-coverage/"
+    },
+    {
+      "title": "M-Pesa",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/M-Pesa"
+    },
+    {
+      "title": "Mobile phone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mobile_phone"
+    },
+    {
+      "title": "Selfie",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Selfie"
+    },
+    {
+      "title": "Citizen journalism",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Citizen_journalism"
+    },
+    {
+      "title": "Ushahidi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ushahidi"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A small M-Pesa agent shop in Kenya with the green M-Pesa sign, where people turn cash into mobile money",
+      "search": "M-Pesa agent shop Kenya"
+    },
+    {
+      "want": "Robert Cornelius's 1839 daguerreotype self-portrait, one of the earliest photographs of a person",
+      "search": "Robert Cornelius self portrait 1839"
+    },
+    {
+      "want": "Passengers standing on the wings of US Airways Flight 1549 on the Hudson River, January 2009",
+      "search": "US Airways Flight 1549 Hudson River passengers wings"
+    }
+  ]
+}

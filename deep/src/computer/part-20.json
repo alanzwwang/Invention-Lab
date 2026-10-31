@@ -1,0 +1,150 @@
+{
+  "n": 20,
+  "title": "The Next Computer, and the Long Road Here",
+  "when": "Today and tomorrow",
+  "summary": "Chips are now so tiny that their parts are only a few dozen atoms wide, so scientists are trying amazing new ideas: quantum computers, brain-like chips, computers that use light, and even storing data in DNA. We also look back at the whole journey, from beads and gears to phones and AI. The next chapter of the computer story has not been written yet, and you could write it!",
+  "sections": [
+    {
+      "heading": "Running Out of Room at the Bottom",
+      "paragraphs": [
+        "Hold up one hair from your head. It is roughly 50,000 to 100,000 nanometres thick (a nanometre is one billionth of a metre). In 1971 the Intel 4004 chip from Part 13 had transistors about 10,000 nanometres across, already far smaller than anything you could see. Today the tiniest parts of the best transistors are only a few dozen atoms wide. A silicon atom is roughly a quarter of a nanometre across. We are building switches so small that you could almost count the atoms in them.",
+        "For about 50 years, Gordon Moore's famous prediction from 1965, known as Moore's law, held up remarkably well: the number of transistors that could be crammed onto a chip doubled about every two years. Remember, Moore's law was never a law of nature like gravity. It was an observation, and then a goal that the whole chip industry raced to keep. That race gave us faster computers almost every year, at lower prices, for decades.",
+        "But the race has slowed. For a long time, smaller transistors were not just more numerous but also faster and less power-hungry, a happy rule engineers called Dennard scaling. Around the mid-2000s that rule broke down. When the insulating layers in a transistor are only a handful of atoms thick, electricity starts to leak through even when the switch is supposed to be off, a bit like water seeping through a thin dam. Leaking current makes heat, and too much heat can damage a chip. That is why the clock speeds of ordinary processors stopped climbing quickly in the mid-2000s and have stayed at a few gigahertz ever since. In 2023 Intel's chief executive Pat Gelsinger said the doubling now happened closer to every three years.",
+        "You may see chip names like '3 nm' or '2 nm' in adverts. Do not be fooled: these are marketing labels for a generation of manufacturing, not the real width of a transistor. The actual features are larger, and different companies use the names differently. Still, the factories that make these chips are among the most complex places on Earth. The newest machines print patterns with extreme ultraviolet light, whose wavelength is only 13.5 nanometres, and a single one of these machines can cost well over 100 million US dollars.",
+        "Shrinking has also become astonishingly expensive. A single modern chip factory, called a fab, can cost 20 billion US dollars or more to build, and only a handful of companies in the world, such as TSMC in Taiwan, Samsung in South Korea and Intel in the United States, can make the most advanced chips at all. Each new generation takes years of research, new materials and new machines. So instead of relying only on making transistors smaller, engineers now look for other ways to get more computing done with each chip and each watt of power.",
+        "So engineers have found new tricks. One is to build upwards instead of only outwards. In 3D stacking, thin layers of chips are piled on top of each other like floors in a skyscraper and connected by thousands of tiny vertical wires. Memory chips in phones now have more than 200 layers of storage cells stacked up. Graphics processors for AI use 'high-bandwidth memory', towers of memory chips stacked right beside the processor so data does not have to travel far.",
+        "Another trick is the chiplet. Instead of making one huge chip, where a single speck of dust can ruin the whole thing, companies make several smaller chips, test each one, and join the good ones together inside one package, like Lego bricks. AMD's Ryzen and EPYC processors and many AI chips are built this way.",
+        "A third trick is specialisation. A general-purpose processor can do anything, but it is not the fastest at any one thing. So computers now carry specialised helpers: graphics processors for pictures and AI, 'neural processing units' in phones for recognising faces and voices, and chips like Google's tensor processing units, built just for neural networks. It is a bit like a kitchen: instead of one chef doing everything, you have a pastry chef, a sauce chef and someone who only chops vegetables. Together they can work faster than one genius trying to do it all."
+      ]
+    },
+    {
+      "heading": "The Strange World of Qubits",
+      "paragraphs": [
+        "Now let us look at a completely different kind of computer, one that uses the strange rules of the very small. At the scale of atoms, electrons and particles of light, nature follows the laws of quantum physics, and those laws are very different from everyday life.",
+        "In 1981, the American physicist Richard Feynman, a Nobel Prize winner famous for his bongo drums, safe-cracking pranks and brilliant teaching, gave a talk at a conference near Boston called 'Simulating Physics with Computers'. He pointed out a problem. When ordinary computers try to simulate how atoms and molecules behave, the amount of calculation explodes as you add more particles, because quantum systems can be in so many combinations at once. Feynman suggested that the best way to simulate nature might be to build a computer out of quantum parts itself. In the published version of the talk he wrote: 'Nature isn't classical, dammit, and if you want to make a simulation of nature, you'd better make it quantum mechanical.' Around the same time, the Russian mathematician Yuri Manin had a similar idea.",
+        "An ordinary computer stores information in bits, each of which is either 0 or 1, like a coin lying heads or tails on a table. A quantum computer uses qubits. A qubit can be in a superposition: a combination of 0 and 1 at the same time, a bit like a coin spinning in the air. When you measure it, it lands on 0 or 1, with chances that depend on how it was spinning.",
+        "Qubits can also be entangled, which means linked together so that their results are connected, no matter how far apart they are. With more qubits, the number of combinations the machine juggles grows enormously: 2 qubits involve 4 combinations, 10 qubits involve 1,024, and 300 qubits would involve more combinations than there are atoms in the observable universe.",
+        "But here is the part that popular articles often get wrong. A quantum computer does not simply 'try every answer at once' and hand you the best one. When you measure it, you get just one result. The trick is a third idea called interference. Like waves on a pond that can add up to make a big wave or cancel each other out, a clever quantum algorithm arranges things so that the paths leading to wrong answers cancel out and the paths leading to the right answer get stronger. Only certain problems have this special structure. That is why quantum computers are expected to be amazing at some jobs and no help at all for most others."
+      ]
+    },
+    {
+      "heading": "Shor's Shock and the Supremacy Argument",
+      "paragraphs": [
+        "For more than ten years after Feynman's talk, quantum computing was mostly a curiosity for physicists. Then, in 1994, the American mathematician Peter Shor found something that made the whole world sit up. He designed a quantum algorithm that could find the prime factors of enormous numbers dramatically faster than any known method on an ordinary computer.",
+        "Why does that matter? Multiplying two large prime numbers together is easy: a computer can do it in a blink. But going backwards, taking a number hundreds of digits long and finding the two primes that were multiplied to make it, is so hard for ordinary computers that it would take longer than the age of the universe. Much of the encryption that protects online shopping, banking and messages, such as a system called RSA, depends on that difficulty. Shor showed that a large, reliable quantum computer could break it.",
+        "Do not panic: no quantum computer today can come close. In 2001 an IBM team used a seven-qubit machine to factor the number 15 into 3 times 5, which any 9-year-old can do in their head. Researchers estimate that breaking a real RSA key would need a machine with hundreds of thousands to millions of working qubits, depending on the design. Even so, governments are preparing early. In 2024 the US National Institute of Standards and Technology published its first official 'post-quantum' encryption standards, new codes designed to resist both ordinary and quantum attackers.",
+        "Building a quantum computer is fiendishly hard, because qubits are extremely delicate. A tiny vibration, a stray bit of heat or a whisper of electromagnetic noise can knock a qubit out of its superposition, a problem called decoherence. Many quantum computers, such as those built by Google and IBM, use loops of superconducting metal that must be cooled in giant refrigerators to about 0.02 degrees above absolute zero, colder than outer space. Photos of these machines show a beautiful golden 'chandelier' of cables and plates hanging down: that is the refrigerator, and the actual chip is a small square at the bottom. Other teams trap single charged atoms (ions) with electric fields, hold neutral atoms with laser beams, or use particles of light.",
+        "In October 2019, Google announced that its 53-qubit Sycamore chip had completed a special random-sampling task in about 200 seconds, a job it estimated would take the world's fastest supercomputer about 10,000 years. Google called this 'quantum supremacy', a term coined by the physicist John Preskill for the moment a quantum computer does something no ordinary computer can do in a reasonable time. IBM quickly disagreed. Its researchers argued that, with a smarter method and lots of disk storage, the Summit supercomputer could do the same task in about two and a half days. In later years, other teams found even faster ordinary methods. The task itself had no practical use; it was chosen simply because it is hard for normal computers. So scientists still argue about how big Google's lead really was.",
+        "In December 2024 Google showed a new 105-qubit chip called Willow. Its biggest achievement was not speed but error correction. The idea is to spread one reliable 'logical qubit' across many physical qubits that keep checking each other, so mistakes can be spotted and fixed. For years, adding more qubits added more errors. Willow showed that, in Google's experiment, making the error-correcting group bigger made the logical qubit more reliable, not less, an important step. But experts point out that the error rates are still far too high for big, useful programs.",
+        "What kind of problem might be worth all this effort? Here is one example scientists often mention. Farmers rely on fertiliser made from nitrogen in the air, and the factory process that makes it, invented in Germany in the early 1900s, needs very high temperatures and pressures and uses a noticeable slice of the world's energy. Yet tiny bacteria in the roots of plants like peas and beans do the same job at ordinary temperatures, using a natural chemical helper called an enzyme. Nobody fully understands how that enzyme works, because simulating the electrons inside it is far too hard for ordinary computers. A powerful quantum computer, working with nature's own quantum rules, just as Feynman suggested, might one day help chemists understand it and design cleaner ways to feed the world.",
+        "Today's quantum computers have from a few dozen up to around a thousand or so physical qubits, and errors are still the main challenge. They are research machines, not something you will find in a laptop. And even when they get much better, they will not replace ordinary computers. They will be special tools for particular problems: simulating molecules for new medicines and batteries, studying new materials, certain optimisation and search problems, and, yes, breaking old kinds of codes. For writing essays, playing games, watching videos or browsing the web, your ordinary computer will still be the right machine. A quantum computer is not 'faster at everything'; it is a very strange key that fits only certain locks."
+      ]
+    },
+    {
+      "heading": "Brains, Light and DNA",
+      "paragraphs": [
+        "Quantum computers are not the only experiment. Scientists are trying several other wild ideas, often by borrowing from nature.",
+        "The first is neuromorphic computing, which means 'brain-shaped' computing. Your brain runs on about 20 watts of power, less than many light bulbs, yet it can recognise a friend's face in a crowd in a fraction of a second. Ordinary computers keep their memory and processor separate and waste lots of energy shuttling data back and forth between them. Brain cells, by contrast, store and process information in the same place and only send signals, called spikes, when something changes. Neuromorphic chips try to copy that style. The idea goes back to the American engineer Carver Mead in the late 1980s. In 2014 IBM's TrueNorth chip packed about a million artificial neurons onto one chip that used only about 70 milliwatts, a tiny fraction of what a phone uses. Intel's Loihi chips followed from 2017, and in 2024 Intel built Hala Point, a system with about 1.15 billion artificial neurons, which it called the largest of its kind. At the University of Manchester, Steve Furber, co-designer of the ARM chip from Part 17, led SpiNNaker, a machine with about a million small ARM processor cores linked together to model brain activity.",
+        "The second idea is computing with light. Light already carries most of the world's internet traffic through glass fibres under the oceans, because it can carry enormous amounts of data with little loss. Inside data centres, light is increasingly used to link computers together. Using light to actually do the calculations is harder, because light beams barely affect each other, so it is tricky to build a light-based switch that works like a transistor. But for some maths that AI needs, such as multiplying big grids of numbers, beams of light passing through carefully designed chips can do the job very fast and with little energy. Several companies and university labs have built experimental light-based AI processors, though they are not yet in ordinary computers.",
+        "The third idea is the strangest: storing data in DNA, the molecule that carries the genetic instructions of every living thing. DNA uses four chemical letters, usually written A, C, G and T, and computer data can be translated into strings of those letters, then made by machines that build DNA to order. In 2012 a team led by the Harvard geneticist George Church stored a whole book in DNA, and in 2017 researchers showed that, in theory, a single gram of DNA could hold about 215 petabytes, or 215 million gigabytes. That is like squeezing the storage of millions of laptops into a speck smaller than a sugar cube. DNA can also last an astonishingly long time if kept cool and dry: scientists have read DNA from mammoth remains about a million years old. The problems are cost and speed. Writing and reading DNA is still very slow and expensive, so for now it is an experiment, perhaps one day used for archives that need to last for centuries."
+      ]
+    },
+    {
+      "heading": "The Big Questions",
+      "paragraphs": [
+        "New computers will not only bring new powers. They will also bring new choices, and those choices belong to everybody, not just engineers.",
+        "The first big question is energy. Training a large AI model can use as much electricity as many homes use in a year, and data centres already use around 1.5 percent of the world's electricity. As AI grows, that share is expected to rise. Engineers are working on more efficient chips, smarter cooling and running data centres on wind, solar and other clean power, but every new leap in computing has to be weighed against its cost to the planet. Brain-inspired chips and light-based computing are partly attempts to answer this problem.",
+        "The second is fairness. If an AI system is trained on information that leaves some people out or treats them unfairly, it can repeat that unfairness in decisions about jobs, loans or medical care, faster and on a bigger scale. And not everyone has equal access to computers, fast internet or AI tools. Making sure the benefits reach people in every country, and not only the richest, is a challenge as big as any engineering problem.",
+        "The third is jobs. Computers have always changed work. The human 'computers' of Part 3 lost their jobs to electronic machines, but many of them became the first programmers. Spreadsheets changed accounting, and robots changed factories. AI may now change jobs that involve writing, drawing, translating and coding. Some tasks will disappear, some jobs will change, and new jobs will appear. History suggests the change can be hard for the people caught in the middle, so societies have to think about training, education and support.",
+        "The fourth, and maybe the most important, is keeping humans in charge. AI systems can make confident mistakes, and they can be misused to create fake pictures, spread false information or attack computer systems. Scientists, governments and companies are working on rules and safety tests: checking what AI systems can do before they are released, making sure people can tell when content was made by AI, and keeping a human responsible for important decisions about people's lives. These are not questions a machine can answer for us. They need curious, thoughtful people who understand both the technology and the humans it serves."
+      ]
+    },
+    {
+      "heading": "The Long Road Here",
+      "paragraphs": [
+        "Before we look forward one last time, let us look back along the whole road, because every computer you touch carries pieces of thousands of years of ideas inside it.",
+        "It started with storing numbers. Notches on bones, knots on Inca strings and beads on an abacus kept track of quantities, but a human did all the thinking. The Antikythera mechanism showed that gears could model the sky. Then came machines that could do arithmetic by themselves: Schickard's calculating clock, Pascal's adding machine with its clever carry, and Leibniz's stepped reckoner, along with his work on binary, the language of 0s and 1s that every modern computer speaks.",
+        "Next came instructions. Bouchon, Falcon and Jacquard used punched paper and cards to tell a loom which threads to lift, the first time a machine followed a changeable list of orders. Charles Babbage took those cards and imagined the Analytical Engine, with a mill to calculate and a store to remember: the ancestors of today's CPU and memory. Ada Lovelace saw that such an engine could work with any symbols, not just numbers, perhaps even music, the seed of today's computers that handle pictures, sound and words.",
+        "Then came the theory. George Boole turned logic into algebra. Alan Turing defined, in 1936, exactly what it means to compute, and imagined a universal machine that could run any program. Claude Shannon showed that Boole's logic could be built from electrical switches.",
+        "And then came the race to make it fast and small. Clicking relays gave way to glowing vacuum tubes in Colossus and ENIAC. The stored-program machines of Manchester and Cambridge kept their instructions in memory. The transistor replaced the tube, the integrated circuit put many transistors on one chip, and the microprocessor put a whole computer's brain on a fingernail of silicon. Software, from Grace Hopper's compilers to UNIX, taught machines to understand human-friendly languages. Personal computers brought them into homes and schools, phones put them in pockets, and supercomputers and AI pushed them to the edge of what we can imagine.",
+        "Here is one way to measure the whole journey. ENIAC weighed about 27 tonnes, filled a large room, used about 150 kilowatts of power and did about 5,000 additions a second. A modern smartphone weighs about 200 grams, runs on a battery and is millions of times faster. That is a machine roughly 135,000 times lighter and millions of times more powerful, in about 80 years."
+      ]
+    },
+    {
+      "heading": "Your Turn",
+      "paragraphs": [
+        "If you take one thing from this whole story, let it be this: the computer was not invented by one person, in one place, in one flash of genius. It was built by thousands of people across many countries and many centuries. Babylonian scribes and Inca record-keepers. French weavers and English mathematicians. A shy Polish codebreaker and a Post Office engineer. Six young women plugging cables into ENIAC. A Japanese engineer working on a calculator chip. A British woman designing a phone chip that now sits in billions of pockets. Many of them were young, many were overlooked in their own time, and almost all of them built on the work of someone before them.",
+        "Many of those pioneers started out as curious kids. Pascal was a teenager when he began his calculator. Ada Lovelace was dreaming up flying machines at 12. Steve Wozniak was designing computers on paper in his teens, and many of today's engineers first learned to code on home computers, school laptops or tiny boards like the Raspberry Pi. You do not need a laboratory to start. You need curiosity, patience with mistakes, and the courage to ask 'What if?'",
+        "Somewhere right now, someone is wondering how to make a chip that uses less power, a quantum computer that makes fewer mistakes, an AI that is fairer and safer, or a computer that helps doctors, farmers or climate scientists in ways nobody has imagined yet. It might be a professor in a big lab. It might be a student in a small town. It might be you.",
+        "The abacus, the gears, the cards, the tubes, the transistors and the chips were each 'the future' once. The next part of the computer's story has not been written yet. Maybe you will write it."
+      ]
+    }
+  ],
+  "deepDive": "Is Moore's law dead? It depends on what you measure. Transistor counts on the biggest chips are still rising, partly thanks to chiplets and 3D stacking, but the cost per transistor has stopped falling as fast as it once did, and single-thread performance has improved far more slowly since Dennard scaling ended in the mid-2000s. One widely quoted analysis found that yearly single-core speed gains fell from about 52 percent (1986 to 2003) to about 7 percent (2011 to 2018). The industry's response, sometimes called 'More than Moore', is to get gains from architecture, packaging and specialised accelerators rather than from shrinking alone. Meanwhile process names such as '3 nm' have drifted away from any physical dimension.\n\nQuantum computing has its own debates. The central question is error correction. Physical qubits today typically fail somewhere around once in every hundred to thousand operations, while useful algorithms such as Shor's need error rates millions of times lower. The threshold theorem says that if physical error rates fall below a certain level, combining many physical qubits into one logical qubit can push errors down as far as needed, at the cost of huge overhead. Estimates for breaking 2048-bit RSA have fallen over time, from about 20 million noisy qubits in an influential 2019-2021 study by Craig Gidney and Martin Ekerå to lower figures in later work, but all remain far beyond today's machines. Because encrypted data can be recorded now and decrypted later ('harvest now, decrypt later'), security agencies want the switch to post-quantum cryptography to happen well before such machines exist.\n\nClaims of 'quantum advantage' are also contested because classical algorithms keep improving. Google's 2019 estimate of 10,000 years for Sycamore's task was cut to days, then much less, by IBM and later researchers using tensor-network methods. Many scientists therefore prefer to talk about useful, verifiable advantage on a real problem, such as simulating a molecule, rather than speed records on artificial benchmarks. Grover's search algorithm gives only a square-root speedup, and data must still be loaded into and read out of a quantum machine, which is why most experts expect quantum computers to be specialised co-processors working alongside classical supercomputers rather than replacements for them.",
+  "funFact": "Researchers have calculated that a single gram of DNA could in theory store about 215 petabytes of data, roughly 215 million gigabytes.",
+  "check": {
+    "q": "What did Peter Shor show in 1994 that a large quantum computer could do?",
+    "a": "Factor huge numbers quickly, which could break some of today's encryption",
+    "wrong": [
+      "Replace every ordinary computer in the world",
+      "Run Windows thousands of times faster",
+      "Store a whole library in a single atom"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Moore's law",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Moore%27s_law"
+    },
+    {
+      "title": "Quantum computing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Quantum_computing"
+    },
+    {
+      "title": "Shor's algorithm",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shor%27s_algorithm"
+    },
+    {
+      "title": "Quantum supremacy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Quantum_supremacy"
+    },
+    {
+      "title": "Willow processor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Willow_processor"
+    },
+    {
+      "title": "Cognitive computer (neuromorphic chips)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cognitive_computer"
+    },
+    {
+      "title": "DNA digital data storage",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/DNA_digital_data_storage"
+    },
+    {
+      "title": "Optical computing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Optical_computing"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The golden 'chandelier' dilution refrigerator of a superconducting quantum computer, such as IBM Q System One or Google's Sycamore cryostat",
+      "search": "quantum computer dilution refrigerator chandelier"
+    },
+    {
+      "want": "A close-up photo of a modern silicon wafer covered in rows of chips, reflecting rainbow colours",
+      "search": "silicon wafer chips close-up"
+    },
+    {
+      "want": "ENIAC in its room at the University of Pennsylvania, with operators setting cables and switches, to compare with a modern smartphone",
+      "search": "ENIAC computer operators 1946"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "n": 14,
+  "title": "How Rockets Work (Part 2): Fuel, Stages and Coming Home",
+  "when": "Science explainer",
+  "summary": "A big rocket is mostly fuel, packed into tanks and burned in engines with giant bell-shaped nozzles. Rockets drop their empty parts as they climb so they get lighter, and steer by tilting their engines. Coming home, a capsule plunges through air so squashed and hot that it needs a special shield that slowly burns away.",
+  "sections": [
+    {
+      "heading": "Two Kinds of Rocket Food",
+      "paragraphs": [
+        "In Part 10 we learned the big idea: a rocket moves by throwing hot gas out of its back, and Newton's third law pushes the rocket the other way. Now let's open up a rocket and see how engineers actually make that happen, and how they get astronauts home again afterwards.",
+        "Every rocket burns propellant, which means two things together: a fuel, and an oxidizer that lets the fuel burn. On Earth, a campfire takes its oxygen from the air. A rocket cannot do that high in the sky or in space, so it carries its own. There are two main ways to pack this \"rocket food\": as a solid or as liquids.",
+        "A solid-fuel rocket is the older kind. The fuel and oxidizer are mixed together into a rubbery or crumbly block, packed inside a strong tube. Fireworks and the Chinese fire arrows from Part 2 were tiny solid rockets using gunpowder. Modern solid rockets use better recipes, often a powdered oxidizer called ammonium perchlorate, powdered aluminium as fuel, and a rubbery binder that holds it all together, a bit like a giant pencil eraser. The Space Shuttle's two white side boosters were solid rockets, each about 45 metres tall, and so are many military missiles and the boosters strapped to rockets like NASA's Space Launch System.",
+        "Solid rockets have big advantages. They are fairly simple, with few moving parts. They can sit ready for years. And they can push enormously hard for their size. But they have one big problem: once you light one, you generally cannot turn it off or turn it down. It burns until it is empty, a bit like a match. Engineers shape a hollow channel down the middle of the block, sometimes star-shaped, to control how fast the burning surface grows, which is a clever way to plan the thrust in advance.",
+        "A liquid-fuel rocket keeps its fuel and oxidizer in separate tanks as liquids and pumps them into the engine, where they meet and burn. Robert Goddard's little 1926 rocket was the first of these. Liquid rockets are more complicated, with pipes, valves and pumps, but they have a superpower: you can throttle them up and down, switch them off, and sometimes restart them. That control is why almost every crewed spacecraft has relied on liquid engines.",
+        "There are several favourite liquid combinations. Kerosene, a refined fuel similar to jet fuel (rocket engineers use a very pure version called RP-1), burned with liquid oxygen, powered the five F-1 engines of the Saturn V's first stage and powers the SpaceX Falcon 9 today. It is dense, so the tanks can be smaller, and it is easy to store. Liquid hydrogen burned with liquid oxygen gives the fastest exhaust of any common chemical pair, so it squeezes the most push out of every kilogram, which is why the Saturn V's upper stages and the Space Shuttle's main engines used it. But hydrogen has to be chilled to about minus 253 degrees Celsius to stay liquid, and it is so light and fluffy that it needs huge tanks; the Shuttle's big orange external tank was mostly filled with hydrogen. Liquid oxygen itself must be kept below about minus 183 degrees Celsius, which is why rockets on the pad often have frost on their sides and clouds of vapour drifting off them.",
+        "A third kind, called hypergolic propellants, catch fire the instant they touch each other, with no spark needed. They are poisonous and must be handled with great care, but they are very reliable. The Apollo service module engine and both engines of the lunar module used them, because an engine that had to fire to get astronauts off the Moon or out of lunar orbit could not be allowed to fail to light.",
+        "So which is better? It depends on the job. Engineers often mix the two. The Space Shuttle lit its two solid boosters and its three liquid-hydrogen main engines together: the solids gave a huge shove for the first two minutes, then dropped away, while the more efficient liquid engines kept going all the way to orbit. Small satellites are often nudged around by tiny liquid thrusters, while missiles that must be ready in seconds usually use solids. A good rocket designer chooses the right food for each part of the trip."
+      ]
+    },
+    {
+      "heading": "Inside the Engine",
+      "paragraphs": [
+        "Let's take a tour of a liquid-fuel engine, using the mighty F-1 as our example. It stood about 5.6 metres tall, weighed about 8.4 tonnes, and on its own produced about 6,770 kilonewtons of thrust, roughly 1.5 million pounds. It first flew on 9 November 1967 on the uncrewed Apollo 4 mission, and it remains the most powerful single-chamber liquid-fuel rocket engine ever flown. Some Russian engines make more thrust, but they do it by sharing their pumps between four combustion chambers.",
+        "The first big part is the turbopump. The tanks hold the propellants, but the engine needs them pushed in at enormous pressure and speed. So each F-1 had a turbine, spun by a small burner of its own, connected to two pumps. That turbine produced about 55,000 horsepower, roughly as much as dozens of race cars, and the pumps shoved in roughly 2.5 tonnes of kerosene and liquid oxygen every second. At that rate, an F-1 could have emptied a backyard swimming pool in well under a minute.",
+        "The propellants then rush into the combustion chamber, where they spray through an injector plate full of tiny holes, mix and burn. The temperature inside reaches about 3,000 degrees Celsius, hot enough to melt most metals. To stop the engine from melting itself, engineers use a trick called regenerative cooling: cold fuel is first sent through dozens of thin tubes that form the walls of the chamber and nozzle, soaking up heat before it is burned. The F-1's walls were built from hundreds of these tubes brazed together.",
+        "Early F-1 engines had a frightening problem called combustion instability: the burning gases sloshed and vibrated so violently that the engine could tear itself apart in a fraction of a second. Engineers tested it by setting off small bombs inside running engines to see if the shaking would calm down. After years of work and many redesigns of the injector plate, with baffles added to break up the waves, the F-1 became stable and safe.",
+        "Finally, there is the nozzle, the giant bell shape at the bottom. You might think the bell is just a funnel, but it does something clever. The hot gas first squeezes through a narrow neck called the throat, where it reaches the speed of sound. Then the nozzle widens out. For gas moving faster than sound, a widening passage makes it speed up even more, as the gas expands and cools. This type of nozzle is named after the Swedish engineer Gustaf de Laval, who designed it for steam turbines in the 1880s. By the time the exhaust leaves the bell, it is moving at roughly 2.5 to 4.5 kilometres per second, many times faster than a rifle bullet. The faster the exhaust, the harder it pushes the rocket.",
+        "Nozzle size depends on where the engine works. Near the ground, air pressure pushes back on the exhaust, so first-stage nozzles are fairly short. In the near-vacuum of space, a much bigger bell can stretch the gas further and get more push, which is why upper-stage engines often have enormous, thin nozzles that look almost too big for them."
+      ]
+    },
+    {
+      "heading": "The Fuel Problem",
+      "paragraphs": [
+        "Here is the strangest thing about rockets: they are mostly fuel. A fully loaded Saturn V weighed about 2,900 tonnes, and roughly 90 percent of that was propellant. The metal tanks, engines, computers, spacecraft and astronauts together made up only a small slice. A Falcon 9 today is similar. In fact, a big rocket is a bit like an egg: a thin shell wrapped around a huge amount of liquid. Some rockets have tank walls so thin that they need to be pressurised, like a balloon, to keep from crumpling under their own weight.",
+        "Why so much fuel? Remember Konstantin Tsiolkovsky and his rocket equation from Part 4. The idea is simple to say: the speed a rocket can reach depends on two things, how fast its exhaust shoots out, and how much of the rocket is fuel compared with what is left when the fuel is gone. Engineers call the second number the mass ratio: the full rocket's mass divided by its empty mass.",
+        "The catch is that the speed grows only slowly as you add fuel, following a mathematical curve called a logarithm. Every extra bit of fuel also has to lift itself and all the fuel still waiting above it. Doubling the fuel does not double the speed. To go from orbit speed to Moon speed, or to reach orbit at all, you need a staggering amount of propellant.",
+        "Let's put in some numbers. To get into low Earth orbit, a rocket must reach about 7.8 kilometres per second sideways. But it also loses speed fighting gravity on the way up and pushing through air, so in total it needs to make about 9 to 10 kilometres per second of speed change. With exhaust moving at about 3 kilometres per second, the rocket equation says the full rocket must weigh more than 20 times as much as the empty one. No one can build a single tank-and-engine that light and still strong enough. That is the fuel problem, and for many years people thought it made spaceflight impossible."
+      ]
+    },
+    {
+      "heading": "Dropping Dead Weight",
+      "paragraphs": [
+        "The answer is staging, an idea described by the Polish-Lithuanian artillery expert Kazimierz Siemienowicz in 1650 and worked out for spaceflight by Tsiolkovsky with his \"rocket trains\". Instead of one huge rocket, you stack several rockets on top of each other. When the bottom one runs out of fuel, you throw it away, empty tanks, heavy engines and all, and light the next one. Each new stage only has to push what is left above it, so it starts its job much lighter. It is like a team of runners in a relay race, except that each runner is also carrying the next runner on their back.",
+        "The Saturn V shows how it works. Its first stage, the S-IC, held about 2,000 tonnes of kerosene and liquid oxygen. Its five F-1 engines burned all of it in only about two and a half minutes, more than 12 tonnes every second, lifting the rocket to about 66 kilometres high and nearly 10,000 kilometres per hour. Then small explosive charges cut it loose, and little rockets pushed it away. The empty stage, as tall as a 14-storey building, fell into the Atlantic Ocean.",
+        "Next, the second stage, the S-II, lit its five J-2 hydrogen engines and burned for about six minutes. By the time it was dropped, the rocket was well above the atmosphere and almost at orbit speed. Then the third stage, the S-IVB, with its single J-2, fired for about two and a half minutes to reach orbit. It stayed attached, and later its engine was restarted for the big burn that sent the astronauts towards the Moon. After that, it too was cast off.",
+        "By the time an Apollo spacecraft reached the Moon, the 2,900-tonne monster that sat on the launch pad had shrunk to about 45 tonnes: the command module, service module and lunar module. The lunar module itself had two stages: the descent stage stayed on the Moon as a launch pad while the lighter ascent stage blasted off. And of all of it, only the command module, a cone about 3.9 metres wide, came back to Earth.",
+        "Staging is still used on almost every rocket that reaches orbit. Rockets like the Falcon 9 have two stages; others strap extra boosters to their sides that fall away first, as the Space Shuttle's solid boosters did. Throwing away stages works, but it is wasteful, a bit like flying across the world in a jumbo jet and then throwing the plane away after landing."
+      ]
+    },
+    {
+      "heading": "Ride Along: Ten Minutes in the Life of a Rocket",
+      "paragraphs": [
+        "Let's put all of these pieces together and imagine riding a big liquid-fuel rocket from the launch pad, second by second. A few hours before launch, the tanks are filled with super-cold liquid oxygen and fuel. Vapour streams off the sides like steam from a kettle. The astronauts climb in and strap themselves into couches shaped to their bodies, lying on their backs so that the push of launch presses them into their seats rather than draining blood from their heads.",
+        "About eight or nine seconds before liftoff, the turbopumps spin up and the engines ignite. Computers check that every engine is running properly; if not, they shut everything down before the clamps let go. At zero, the rocket rises. At first it climbs slowly, because its thrust is only a little greater than its weight. But every second it burns tonnes of propellant and gets lighter, while the engines keep pushing just as hard, so it speeds up faster and faster.",
+        "About a minute or so after launch, the rocket passes through a moment engineers call \"Max Q\", short for maximum dynamic pressure. The rocket is now moving fast through air that is still fairly thick, so the air presses harder on its body than at any other time. Some rockets even throttle their engines down briefly to ease the strain. Higher up, the air thins out quickly and the stress drops.",
+        "Meanwhile, the guidance computer is slowly tipping the rocket over, from pointing straight up to pointing more and more sideways. This is called the gravity turn. Remember that orbit is mostly about sideways speed, about 7.8 kilometres per second. Going straight up wastes fuel fighting gravity, so the rocket climbs out of the thick lower air first and then spends most of its effort speeding up along the horizon.",
+        "Just before the first stage runs dry, the astronauts are pushed back hardest of all, because the nearly empty rocket is so light that the same thrust speeds it up much more quickly. On Apollo this reached about four times normal gravity. Then the engines cut off, the stage separates, and for a moment the crew lurches forward before the next stage lights. On some rockets the nose fairing that protected the cargo also falls away now, since there is no longer enough air to harm it. A few more minutes later, the last stage shuts down, everything goes quiet, and pencils, checklists and dust begin to float. The crew is in orbit, falling around the Earth."
+      ]
+    },
+    {
+      "heading": "Keeping It Pointed the Right Way",
+      "paragraphs": [
+        "A rocket is tall, thin and top-heavy, and it is being pushed from the bottom. Try balancing a broomstick upright on your hand: that is the steering problem rockets face. Without constant small corrections, a rocket would tip over and tumble. Engineers have invented several ways to keep it on course.",
+        "Fins are the oldest method. Like the feathers on an arrow, they keep a rocket pointing into the airflow. William Hale's rockets in the 1800s were made to spin instead, which kept them steady like a spinning top or a well-thrown football. The Saturn V had four fins at its base too. But fins only work in thick air, and they cannot actively steer at low speed or in space.",
+        "The German V-2 used small heat-proof vanes made of graphite that stuck into the exhaust stream, deflecting the gas to turn the rocket. Most modern rockets use a smarter method called gimballing: the whole engine is mounted on a pivot, like a ball joint, and powerful hydraulic arms tilt it a few degrees. Pointing the thrust slightly off-centre swings the rocket's nose the other way. On the Saturn V's first stage, the four outer F-1 engines could gimbal while the centre one was fixed.",
+        "But how does a rocket know which way it is pointing? Robert Goddard experimented with gyroscopes in the 1930s. A gyroscope is a fast-spinning wheel that resists being tilted, so it acts like a steady reference even as the rocket shakes and turns. Accelerometers measure how the rocket speeds up in each direction. Together, they form an inertial guidance system, which works without seeing the stars or getting signals from the ground.",
+        "On the Saturn V, these instruments sat in a ring about one metre tall called the Instrument Unit, between the third stage and the spacecraft. Inside was a guidance computer that checked the rocket's position many times a second and sent commands to gimbal the engines. Modern rockets also use GPS, and the Falcon 9's first stage uses grid fins, folding lattice paddles, to steer itself back to a landing pad. In space, where fins are useless, small thrusters puff gas to turn a spacecraft, a system called reaction control."
+      ]
+    },
+    {
+      "heading": "Coming Home Through Fire",
+      "paragraphs": [
+        "Getting up is only half the story. A spacecraft coming home is moving incredibly fast. A capsule returning from low Earth orbit hits the top of the atmosphere at about 7.8 kilometres per second. One returning from the Moon, like Apollo, arrived at up to about 11 kilometres per second, roughly 40,000 kilometres per hour, fast enough to cross the United States in about seven minutes. All that speed has to be lost before splashdown, and it turns into heat.",
+        "Many people think re-entry heat comes mainly from friction, the way your hands get warm when you rub them together. In fact, most of it comes from compression. The capsule is moving so fast that the air in front of it cannot get out of the way. It piles up and gets squashed into a thin layer just ahead of the spacecraft, called a shock layer. When you squeeze gas very hard and very fast, it gets very hot; you may have felt a bicycle pump warm up while pumping a tyre. In the shock layer the air can reach several thousand degrees Celsius, and it glows as a blazing plasma.",
+        "In the early 1950s, two American engineers at NACA, NASA's predecessor, H. Julian Allen and Alfred Eggers, discovered something surprising. A pointed, streamlined shape was the worst choice, because it kept the shock wave pressed tight against the vehicle. A blunt, rounded shape pushed the shock wave forward, leaving a cushion of hot gas that carried most of the heat away into the air. That is why space capsules, from Mercury to Apollo to Orion and Soyuz, come in base-first with their broad, rounded bottoms facing forward.",
+        "The bottom is covered with a heat shield. Apollo used an ablative shield, a material designed to char, melt and flake away slowly. The command module's shield was made from a resin called Avcoat packed by hand into a honeycomb of hundreds of thousands of tiny cells. As its surface burned away, it carried the heat off with it, a bit like how sweat cools you as it evaporates. The astronauts inside stayed at a comfortable temperature, even though the shield's outer surface reached around 2,700 degrees Celsius. Today's Orion capsule uses an updated version of the same material. The Space Shuttle used a different idea: reusable tiles and panels that could survive the heat many times without burning away.",
+        "The angle of re-entry also has to be just right. Come in too steeply and the heating and slowing down would be deadly; come in too shallowly and the capsule could skip off the atmosphere like a flat stone on a pond. Apollo's safe \"corridor\" was only a couple of degrees wide. As it slowed down, the crew felt several times their normal weight. For a few minutes, the glowing plasma around the capsule blocked all radio signals, a nervous silence called blackout.",
+        "The final step is the parachutes. After the air has slowed the capsule to a few hundred kilometres per hour, small drogue parachutes pop out to steady it, then the main parachutes open. Apollo used three main parachutes, each about 25 metres across, and was designed to land safely even if one failed, which is exactly what happened on Apollo 15. The capsule splashed into the ocean at about 35 kilometres per hour, and the crew were collected by ship. Russian Soyuz capsules land on the ground instead; just before touchdown, small rockets fire for a fraction of a second to soften the bump.",
+        "So every Apollo flight followed a pattern: a 110-metre rocket, almost all fuel, burned and threw away its stages one after another, and in the end only a small, scorched cone came home. It worked brilliantly, but it was enormously expensive. Every launch threw away an entire Saturn V. Engineers began to ask: could we build a spaceship that flies to orbit, comes back and flies again, like an aeroplane?"
+      ]
+    }
+  ],
+  "deepDive": "The rocket equation, published by Tsiolkovsky in 1903, is usually written as delta-v = ve x ln(m0/mf), where delta-v is the change in speed, ve the effective exhaust velocity, m0 the starting mass and mf the final mass. Engineers often quote engine efficiency as specific impulse, measured in seconds, which is the exhaust velocity divided by standard gravity (9.81 m/s2). The F-1 burning RP-1 and liquid oxygen managed about 263 seconds at sea level, while the hydrogen-burning J-2 reached about 420 seconds in vacuum. Hydrogen wins on efficiency because its exhaust molecules are very light, but liquid hydrogen is roughly one-eleventh as dense as kerosene, so its tanks and stages are bulky and the structure weighs more; this is why many rockets use dense kerosene in the first stage, where raw thrust matters, and hydrogen higher up. Reaching low Earth orbit needs about 9.3 to 10 km/s of delta-v once gravity losses and air drag are added to the 7.8 km/s orbital speed. With an exhaust velocity of 3 km/s, that implies a mass ratio above about 20, which is beyond realistic single-stage structures with useful payloads, the reason staging dominates. The nozzle is a converging-diverging de Laval design: below the speed of sound, narrowing a pipe speeds up the flow, but once the flow is supersonic, widening it accelerates the gas further while its pressure and temperature fall. A nozzle performs best when its exit pressure matches the outside pressure, so sea-level engines use smaller expansion ratios than vacuum engines. On re-entry, H. Julian Allen and Alfred Eggers' blunt-body insight at NACA Ames (1951 to 1953) showed that a detached bow shock dumps most of the energy into the air rather than the vehicle. At lunar-return speeds, radiation from the hot shock layer becomes a significant part of the heating, not just convection. Ablative shields like Apollo's Avcoat absorb heat by pyrolysis, as the resin decomposes into gases that thicken the boundary layer and block some incoming heat, leaving a protective char. On Artemis I in 2022, Orion's Avcoat shield lost unexpected chunks of char during its skip entry, which NASA traced to gases trapped inside the material; engineers changed the entry path for later flights.",
+  "funFact": "Each of the Saturn V's five F-1 engines pumped about 2.5 tonnes of kerosene and liquid oxygen into its combustion chamber every second.",
+  "check": {
+    "q": "What mainly heats a spacecraft as it comes back into the atmosphere?",
+    "a": "Air being squeezed (compressed) in front of it",
+    "wrong": [
+      "Friction from rubbing against the air",
+      "Sunlight shining on the capsule",
+      "The capsule's engines firing"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Rockets and rocket launches, explained",
+      "publisher": "National Geographic",
+      "url": "https://www.nationalgeographic.com/science/article/rockets-and-rocket-launches-explained"
+    },
+    {
+      "title": "Most powerful single-chamber liquid-fuelled rocket engine",
+      "publisher": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/world-records/113427-most-powerful-single-chamber-liquid-fuelled-rocket-engine"
+    },
+    {
+      "title": "Man in Space: Saturn V Launch Vehicle (National Historic Landmark theme study)",
+      "publisher": "US National Park Service (via NPS History)",
+      "url": "https://www.npshistory.com/publications/nhl/theme-studies/man-in-space/space12.htm"
+    },
+    {
+      "title": "Command Module, Apollo 11",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/command-module-apollo-11/nasm_A19700102000"
+    },
+    {
+      "title": "Why NASA's crew capsule had heat shield issues during Artemis I",
+      "publisher": "Popular Science",
+      "url": "https://www.popsci.com/science/why-nasas-crew-capsule-had-heat-shield-issues-during-artemis-i/"
+    },
+    {
+      "title": "Rocketdyne F-1",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rocketdyne_F-1"
+    },
+    {
+      "title": "Saturn V",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Saturn_V"
+    },
+    {
+      "title": "Apollo command and service module",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Apollo_command_and_service_module"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A Rocketdyne F-1 rocket engine on display in a museum, showing its huge bell-shaped nozzle",
+      "search": "Rocketdyne F-1 engine museum"
+    },
+    {
+      "want": "Photograph of the Saturn V first stage (S-IC) separating from the rest of the rocket during the Apollo 11 launch",
+      "search": "Saturn V S-IC stage separation"
+    },
+    {
+      "want": "The scorched heat shield on the base of an Apollo command module after re-entry",
+      "search": "Apollo command module heat shield"
+    }
+  ]
+}

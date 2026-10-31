@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Invention Lab</title>
+  <meta name="description" content="Explore 140 inventions that changed the world — from the wheel to the smartphone — with a timeline, invention chains, games and a collector's notebook." />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E💡%3C/text%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Space+Mono:wght@400;700&family=Pacifico&family=Akaya+Kanadaka&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Blueprint grid with drifting sparks behind everything -->
+  <canvas id="sparks" aria-hidden="true"></canvas>
+
+  <header class="top">
+    <a class="logo" href="#home">💡 Invention Lab</a>
+    <nav>
+      <a href="#spotlight">Spotlight</a>
+      <a href="#timeline">Timeline</a>
+      <a href="#games">Games</a>
+      <a href="#notebook">Notebook</a>
+      <a href="#library">📚 Library</a>
+    </nav>
+    <div class="level" role="radiogroup" aria-label="Reading level">
+      <button class="lv" data-level="kid" role="radio" title="Short and simple (ages 7–10)">🧒 Kid</button>
+      <button class="lv" data-level="explorer" role="radio" title="More detail (ages 10–14)">🧭 Explorer</button>
+      <button class="lv" data-level="expert" role="radio" title="The full story (teens & adults)">🎓 Expert</button>
+    </div>
+  </header>
+
+  <main>
+    <!-- ===================== HERO ===================== -->
+    <section id="home" class="hero">
+      <p class="kicker">Lab notes, entry #<span id="visitNo">1</span></p>
+      <h1>Welcome to the <span class="shine">Invention Lab</span></h1>
+      <p class="lead">
+        <span id="count">140</span> inventions that changed the world, from the first wheel to the phone in your
+        pocket. Every visit brings a new spark. ⚡
+      </p>
+      <div class="hero-stats">
+        <div class="stat"><b id="statFound">0</b><small>discovered</small></div>
+        <div class="stat"><b id="statStreak">1</b><small>day streak 🔥</small></div>
+        <div class="stat"><b id="statBadges">0</b><small>badges</small></div>
+      </div>
+      <div class="dyk card">
+        <p class="dyk-label">💡 Did you know?</p>
+        <p id="dykText" class="dyk-text"></p>
+        <button id="dykNext" class="chip small">Another one ↻</button>
+      </div>
+      <a class="btn" href="#spotlight">Open today's invention ↓</a>
+    </section>
+
+    <!-- ===================== SPOTLIGHT ===================== -->
+    <section id="spotlight" class="panel">
+      <p class="kicker">Station 1</p>
+      <h2>Invention Spotlight</h2>
+      <p class="sub">A new invention every visit. Tap 🎲 for a surprise, or follow the "led to" trail.</p>
+      <div class="spot-controls">
+        <button id="spotPrev" class="chip" title="The invention just before this one in time">⏪ Older</button>
+        <button id="spotRandom" class="chip accent">🎲 Surprise me</button>
+        <button id="spotNext" class="chip" title="The invention just after this one in time">Newer ⏩</button>
+      </div>
+      <article id="spotCard" class="card spot" aria-live="polite"></article>
+    </section>
+
+    <!-- ===================== TIMELINE ===================== -->
+    <section id="timeline" class="panel">
+      <p class="kicker">Station 2</p>
+      <h2>The Great Timeline</h2>
+      <p class="sub">5,000+ years of human ideas. Filter, search, and tap any invention to open it.</p>
+      <div class="tl-tools">
+        <input id="tlSearch" type="search" placeholder="Search inventions, inventors, places…" aria-label="Search inventions" />
+        <div id="tlCats" class="chips" role="group" aria-label="Filter by category"></div>
+      </div>
+      <div id="tlEras" class="eras"></div>
+      <p id="tlEmpty" class="note hidden">No inventions match that. Try another word!</p>
+    </section>
+
+    <!-- ===================== GAMES ===================== -->
+    <section id="games" class="panel">
+      <p class="kicker">Station 3</p>
+      <h2>Inventor Games</h2>
+      <p class="sub">Every game is shuffled, so it's different every time you play.</p>
+      <div class="game-tabs" role="tablist">
+        <button class="tab active" data-game="first" role="tab">⚔️ Which Came First?</button>
+        <button class="tab" data-game="sort" role="tab">⏳ Time Machine</button>
+        <button class="tab" data-game="quiz" role="tab">🧠 Inventor Quiz</button>
+        <button class="tab" data-game="chain" role="tab">🔗 Invention Chain</button>
+      </div>
+      <div id="gameBox" class="card game-box"></div>
+    </section>
+
+    <!-- ===================== NOTEBOOK ===================== -->
+    <section id="notebook" class="panel">
+      <p class="kicker">Station 4</p>
+      <h2>Inventor's Notebook</h2>
+      <p class="sub">Every invention you open gets stamped into your notebook. Can you collect all of them?</p>
+      <div class="nb-progress"><div class="bar"><i id="nbBar"></i></div><span id="nbText">0 / 140</span></div>
+      <h3 class="mini-head">Badges</h3>
+      <div id="badges" class="badges"></div>
+      <h3 class="mini-head">Your collection</h3>
+      <div id="nbGrid" class="nb-grid"></div>
+      <p class="note">Your progress is saved in this browser only. <button id="resetBtn" class="linkish">Reset notebook</button></p>
+    </section>
+
+    <!-- ===================== DEEP DIVE LIBRARY ===================== -->
+    <section id="library" class="panel">
+      <p class="kicker">Station 5</p>
+      <h2>The Deep Dive Library</h2>
+      <p class="sub" id="libSub">Giant stories, 20 chapters each, with the sources we used. Pick a book and dive in.</p>
+      <div id="libShelf" class="shelf"></div>
+      <a class="btn" href="deep.html">Open the whole library →</a>
+    </section>
+  </main>
+
+  <!-- Invention pop-up -->
+  <dialog id="modal" class="modal">
+    <button class="modal-x" id="modalX" aria-label="Close">✕</button>
+    <article id="modalCard" class="spot"></article>
+  </dialog>
+
+  <!-- Photo credits pop-up -->
+  <dialog id="credits" class="modal">
+    <button class="modal-x" data-close aria-label="Close">✕</button>
+    <h2>Photo credits</h2>
+    <p class="note">Photos come from Wikimedia Commons and are used under their free licenses. Thank you to every photographer!</p>
+    <ol id="creditList" class="credit-list"></ol>
+  </dialog>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <footer class="foot">
+    <p>Made by Alan 💡 · Facts checked against encyclopedias and museums · <button id="creditsBtn" class="linkish">Photo credits</button></p>
+  </footer>
+
+  <script src="data/inventions.js"></script>
+  <script src="data/credits.js"></script>
+  <script src="deep/data/library.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

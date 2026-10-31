@@ -1,0 +1,156 @@
+{
+  "n": 8,
+  "title": "Fixing the Rainbow: Better Lenses",
+  "when": "1730s – 1838",
+  "summary": "Clever lens-makers found that two different kinds of glass, stuck together, could cancel out the rainbow blur that Newton thought was impossible to fix. An orphan boy who was pulled alive from a collapsed house grew up to make the best lenses in the world. With one of his instruments, an astronomer finally measured how far away a star is.",
+  "sections": [
+    {
+      "heading": "Was Newton Wrong?",
+      "paragraphs": [
+        "At the end of the last part, Isaac Newton had declared that lens telescopes could never escape their rainbow fringes. Because he was the most respected scientist in Europe, many people simply believed him. For more than half a century, if you wanted a sharp view of a planet without colored halos, you either used a mirror telescope or a lens telescope so long it needed a mast.",
+        "But a few thinkers had a nagging doubt, and it came from a surprising place: the human eye. Your eye is a lens system. Light passes through the clear cornea at the front, then a watery liquid, then the lens inside your eye, then a jelly-like fluid, each with slightly different properties. In 1747 the great Swiss mathematician Leonhard Euler argued that if a combination of different transparent materials can make sharp images in our eyes, then a combination of different materials might also make a color-free lens. A Swedish scientist named Samuel Klingenstierna also showed mathematically that Newton's reasoning about colors did not have to be true for all materials.",
+        "The secret lies in a word we met before: dispersion, which means how much a material spreads light out into its colors. Newton had assumed that any glass that bends light strongly would spread the colors by a matching amount, as if bending power and color-spreading were always locked together. They are not. Different kinds of glass bend light by different amounts, and, separately, spread colors by different amounts.",
+        "Two kinds of glass mattered most. Crown glass was the ordinary glass used for windows, made from sand, soda or potash and lime. It bends light moderately and spreads colors only a little. Flint glass was a heavier, sparklier glass rich in lead, first made in England in the 1660s and 1670s for fine drinking glasses and named after the flint stones once used as its source of pure silica. Flint glass spreads colors much more strongly than crown glass, even though its overall bending power is only a bit greater.",
+        "Now picture the trick. Take a convex lens of crown glass, which bulges outward and brings light to a focus. On its own it would make rainbow fringes, with blue light focusing a little too close. Then add a weaker concave lens of flint glass, which caves inward and spreads light out. The flint lens spreads the colors backward by about the same amount the crown lens spread them forward, because flint is so good at spreading colors. But because the flint lens is weaker, it does not undo all the focusing. The pair still brings light together, now with red and blue meeting at almost the same point. This two-part lens is called an achromatic lens, from Greek words meaning without color.",
+        "An achromat is not absolutely perfect. It brings two colors, usually red and blue, to exactly the same focus, and the colors in between land very close by. A faint purple or green tinge, called the secondary spectrum, can still be seen around very bright objects. But compared with a single lens, the improvement was enormous. A telescope no longer needed to be 100 feet long to give a crisp view."
+      ]
+    },
+    {
+      "heading": "The Lawyer Who Kept a Secret",
+      "paragraphs": [
+        "The first person known to make an achromatic lens was not a famous scientist but an English lawyer and amateur inventor named Chester Moor Hall, born in 1703 in Leigh in Essex. In 1729 or 1733 (the accounts differ), he worked out that crown and flint glass could be combined to cancel each other's colors, and he had lenses made and built at least one small achromatic telescope.",
+        "Hall seems to have wanted to keep his idea private. According to the most often told version of the story, he cleverly split the work between two London opticians, Edward Scarlett and James Mann, ordering the crown lens from one and the flint lens from the other, so that neither would understand what he was making. But both opticians were busy and quietly handed the jobs to the same subcontractor, a lens grinder named George Bass. Bass noticed that the two lenses were for the same customer and had matching curves. When he put them together, he discovered that the pair gave an image free of color. Hall's secret was out, at least in one workshop.",
+        "Strangely, nothing much happened next. Hall did not publish his discovery or patent it, and Bass made achromatic lenses for some customers without announcing them to the world. Hall lived quietly at New Hall in Sutton, near Southend, and died in 1771. For about 25 years, the achromatic lens existed in England, but almost no one knew."
+      ]
+    },
+    {
+      "heading": "Dollond's Patent and the Great Quarrel",
+      "paragraphs": [
+        "The man who made the achromatic lens famous was John Dollond. He was born in 1706 in Spitalfields, London, the son of a Huguenot, a French Protestant who had fled to England to escape religious persecution. Like his father, John worked as a silk weaver, but in his spare time he taught himself Latin, Greek, mathematics and optics. His son Peter opened a shop making optical instruments in London in 1750, and two years later, at about age 46, John left weaving to join him.",
+        "At first John Dollond defended Newton. When Euler suggested that a color-free lens was possible, Dollond argued that Newton's experiments proved otherwise. But he was an honest experimenter. Around 1757 he tested the question himself, using prisms of crown and flint glass, and found that he could indeed cancel the colors while still bending the light. Newton's assumption had been wrong.",
+        "In 1758 Dollond read a paper about his experiments to the Royal Society, and that same year he was granted a patent on achromatic lenses and awarded the Society's Copley Medal, its top prize for scientific work. In 1761 he became a Fellow of the Royal Society and optician to King George III. He died later that year, aged 55.",
+        "Did Dollond know about Hall's earlier lenses? It seems that George Bass told him about them in the 1750s, so the honest answer is that Dollond probably knew the idea had been tried, but he was the one who studied it scientifically, made it work reliably, published it and turned it into a business. That made the patent controversial. Other London opticians were furious, because they had made or sold achromatic lenses too, and now they were forbidden to.",
+        "After John's death, his son Peter Dollond enforced the patent firmly in the courts, suing rival opticians who made achromats without paying. Rivals petitioned against the patent and challenged it, but it was upheld. In the case of Watkin versus Dollond, the judge, Lord Mansfield, ruled that the person who locked an invention away in his desk was not the one who ought to profit from it, but the one who brought it out for the benefit of the public. That is a neat summary of the whole affair. When the patent finally expired in 1772, the price of achromatic lenses in England fell by about half.",
+        "The Dollond name became one of the most famous in optics. Dollond telescopes were used by sailors, scientists and kings. One sailed with Captain James Cook on his 1768 to 1771 voyage to observe the transit of Venus, and Admiral Lord Nelson owned Dollond spyglasses. The family firm lasted for centuries; in 1927 it merged with another company to become Dollond and Aitchison, a chain of opticians on British high streets."
+      ]
+    },
+    {
+      "heading": "The Trouble with Glass",
+      "paragraphs": [
+        "Knowing how to design an achromatic lens was one thing. Making a big one was another. The problem was the glass itself, especially flint glass. Flint glass is heavy with lead, and when it is melted in a furnace, the heavy lead tends to sink while lighter ingredients rise, a bit like a salad dressing separating in the bottle. When the glass cooled, it was often full of bubbles, grains of unmelted sand, and streaks called striae: wavy bands where the glass was slightly denser or thinner. You can sometimes see similar wiggly lines in old window panes.",
+        "For a drinking glass, a few streaks do not matter. For a telescope lens they are a disaster, because every streak bends light by a slightly different amount and smears the image. Opticians could usually find a small clear piece in a batch, but a flawless disk wider than about 4 inches, roughly 10 centimeters, was extremely rare. That put a ceiling on how big achromatic telescopes could be. In England, a heavy tax on glass made the problem worse by discouraging glassmakers from experimenting.",
+        "The breakthrough came from an unlikely corner of Europe: the Jura mountains of Switzerland. Pierre-Louis Guinand was born in 1748 in La Sagne, in the Principality of Neuchâtel, and worked as a carpenter and a watchmaker in a region famous for its skilled clock and watch craftsmen. He became fascinated by telescopes, tried to make his own lenses, and discovered how hard it was to get good flint glass. So, starting in the 1780s, he taught himself glassmaking and began years of patient experiments with a small furnace.",
+        "Guinand's key idea was simple but powerful: stir the glass. While the glass was molten, he stirred it with a rod made of fireclay, the same heat-proof clay used to make the melting pot. Stirring mixed the heavy and light parts evenly and helped bubbles escape, so the glass cooled into a much more uniform block. It took him many failed melts to get the timing, temperature and stirring right, but by the early 1800s he could make disks of clear flint glass larger than anyone else. Stirring molten optical glass is still part of how high-quality glass is made today.",
+        "Guinand's glass was so good that a group of businessmen and instrument-makers in Bavaria, in southern Germany, invited him to bring his secrets to their new optical workshop. There, he would meet a teenage apprentice who would take his methods further than he could have imagined."
+      ]
+    },
+    {
+      "heading": "The Boy Pulled from the Rubble",
+      "paragraphs": [
+        "Joseph Fraunhofer was born on 6 March 1787 in Straubing, Bavaria, the 11th child of a glazier, a craftsman who made and fitted glass. Glass was in the family, but there was not much money and there was a lot of sadness. His mother died when he was 10, and his father died a year later. At about 12, the orphaned boy was sent to Munich as an apprentice to a mirror maker and decorative glass cutter named Philipp Anton Weichselberger. It was a hard life. He worked long hours, and his master did not let him attend school or read much.",
+        "Then, in July 1801, when Joseph was 14, disaster struck. His master's old house collapsed, burying him under the rubble. Rescuers worked for hours to dig him out, and astonishingly he was pulled out alive. The rescue caused such a stir that the ruler of Bavaria, Prince-Elector Maximilian Joseph, came to the scene. Moved by the boy's escape, he gave Joseph a gift of gold coins, 18 ducats according to the usual account, which was a good deal of money.",
+        "The accident changed his life. Another important man who came to the site was Joseph von Utzschneider, a government official and businessman. He took an interest in the clever, quiet boy, gave him books on mathematics and optics, and made sure he could attend Sunday school. Joseph used part of the Elector's gold to buy a glass-cutting machine and to free himself from the rest of his apprenticeship early.",
+        "In 1806, Utzschneider brought him into a new optical company in Munich, run with the engineer Georg von Reichenbach. The next year the glass furnaces moved to a former monastery at Benediktbeuern, in the foothills of the Alps. Pierre-Louis Guinand was working there, and young Fraunhofer learned Guinand's glassmaking methods. Then he improved on them, using careful measurements and mathematics where Guinand had used trial and error. Fraunhofer designed better polishing machines, better ways of testing lens shapes, and better lens designs. He became a partner in the firm in 1809 and director of its optical institute in 1818. Thanks largely to him, Bavaria overtook England as the world center of fine optics."
+      ]
+    },
+    {
+      "heading": "Hundreds of Dark Lines in the Rainbow",
+      "paragraphs": [
+        "To design a perfect achromatic lens, Fraunhofer needed to know exactly how much each kind of glass bent each color. But colors blend smoothly into one another. Where exactly does red end and orange begin? To measure accurately, he needed sharp, fixed markers in the rainbow, like the marks on a ruler.",
+        "Around 1814 he found them in an unexpected place. He set up a prism in front of the small telescope of a theodolite, a surveying instrument for measuring angles very precisely, and let sunlight from a narrow slit pass through the prism. Looking at the magnified rainbow, he saw that it was not smooth at all. It was crossed by many thin dark lines, as if someone had drawn on it with a fine pencil.",
+        "An English chemist, William Hyde Wollaston, had glimpsed a few of these lines in 1802 but thought they were just the gaps between colors. Fraunhofer studied them carefully. He mapped 574 of them, measured their exact positions, and showed that they were always in the same places in sunlight, no matter which prism he used. He labeled the strongest ones with letters from A to K. For example, the pair he called D sits in the yellow, at a wavelength of about 589 nanometers. Astronomers and physicists still use some of his letters today. Fraunhofer also found that sunlight reflected from the Moon and planets showed the same lines, while the light of other stars, such as Sirius, showed different patterns.",
+        "Fraunhofer used the lines as his ruler, and they let him measure his glass more accurately than anyone ever had. But he did not know what they were. In 1821 he also developed the diffraction grating, a surface ruled with many very fine parallel lines that spreads light into a spectrum even more precisely than a prism, and used it to measure wavelengths of light.",
+        "The meaning of the dark lines was solved about 45 years after his discovery, when scientists showed that each chemical element absorbs its own special set of colors. That story, and how it let astronomers learn what stars are made of, comes in Part 12. But it all started with a glassmaker who needed a better ruler. Today his name is everywhere: the dark lines are called Fraunhofer lines, and they mark the birth of spectroscopy, the study of light's colors to learn about the things that give it off."
+      ]
+    },
+    {
+      "heading": "The Great Dorpat Refractor",
+      "paragraphs": [
+        "Fraunhofer's masterpiece was a telescope built for the observatory at Dorpat, a university town in what was then the Russian Empire and is now Tartu in Estonia. It was finished in 1824. Its achromatic objective lens was about 24 centimeters, or roughly 9.5 inches, across, made of flawless crown and flint glass from Benediktbeuern, and its focal length was more than 4 meters. At the time it was the largest and finest refracting telescope in the world.",
+        "The lens was only part of the wonder. Fraunhofer mounted the telescope on a new kind of stand, now called a German equatorial mount. One axis of the mount was tilted to point at the celestial pole, parallel to Earth's own axis, so that turning the telescope around that single axis followed the stars as they slowly wheeled across the sky. A heavy counterweight on the other side balanced the long tube. And it was driven by clockwork, a falling weight regulated like a clock, which turned the telescope smoothly to keep a star in view while the Earth rotated underneath. An astronomer no longer had to keep nudging the tube by hand every few seconds. The German equatorial mount became the standard design for big refractors, and you can still buy small telescopes on one today.",
+        "The astronomer who used it was Friedrich Georg Wilhelm Struve, the director of the Dorpat Observatory. Struve specialized in double stars, pairs of stars that appear very close together in the sky, many of which orbit each other. Between 1824 and 1837 he used the great refractor to examine and measure 2,714 double stars, a gigantic project that needed both sharp optics and a steady, motorized mount. Later he founded the Pulkovo Observatory near St Petersburg, which became one of the leading observatories in the world.",
+        "Fraunhofer was honored for his work. He received an honorary doctorate, and in 1824 he was knighted, becoming Joseph von Fraunhofer. But he did not live to enjoy it for long. He died in Munich on 7 June 1826, only 39 years old. His death is often blamed on years of breathing poisonous heavy-metal fumes from the glass furnaces, though tuberculosis has also been suggested. He was buried in Munich, and his gravestone bore a Latin phrase that sums him up perfectly: Approximavit sidera, which means He brought the stars closer."
+      ]
+    },
+    {
+      "heading": "How Far Away Is a Star?",
+      "paragraphs": [
+        "For thousands of years, one of the biggest questions in astronomy had no answer: how far away are the stars? Since Copernicus, astronomers had believed that Earth orbits the Sun. If that is true, then as Earth swings from one side of its orbit to the other over six months, nearby stars should seem to shift very slightly against more distant stars behind them. This tiny shift is called parallax.",
+        "You can see parallax with your own thumb. Hold your thumb up at arm's length, close one eye, and line it up with something across the room. Now switch eyes. Your thumb seems to jump sideways, because you are looking from two different positions. Bring your thumb closer and it jumps more; move it farther and it jumps less. Measure the jump, know the distance between your eyes, and a little geometry tells you how far away your thumb is. Astronomers use Earth's orbit, about 300 million kilometers across, as their pair of eyes.",
+        "The trouble was that the stars are so far away that their parallax jump is unbelievably small. Even Tycho Brahe, the best naked-eye observer in history, could not detect any, and many astronomers had tried and failed with telescopes. To measure it you needed a telescope with superb optics, an extremely precise way to measure tiny angles, and a lot of patience.",
+        "Friedrich Wilhelm Bessel had all three. Born in 1784 in Minden, Germany, he left school at 14 to work as an apprentice clerk at a trading company in Bremen. Interested in navigation, he taught himself astronomy and mathematics, and in 1804, at about age 20, he calculated a new orbit for Halley's Comet. In 1810, aged 25 and with no university degree, he was made director of the new observatory at Königsberg in Prussia.",
+        "Bessel chose his target cleverly. Instead of a bright star, he picked 61 Cygni, a faint pair of orange stars in the constellation Cygnus, the Swan. It had been nicknamed the Flying Star because the Italian astronomer Giuseppe Piazzi had found that it moves across the sky faster than any other star you can see with the naked eye. Bessel reasoned that a star moving that fast across our view was probably close by.",
+        "His instrument was a heliometer made by Fraunhofer's workshop, which arrived after Fraunhofer's death. A heliometer is a refracting telescope whose objective lens is cut in half. The two halves can be slid past each other with a very fine screw, making two images of the sky. By sliding them until the image of one star sits exactly on top of another, an astronomer can measure the angle between the two stars with superb accuracy. From 1837 to 1838, Bessel measured the position of 61 Cygni against fainter background stars again and again.",
+        "In 1838 he announced the result: a parallax of about 0.314 arcseconds. An arcsecond is 1/3,600 of a degree, so this is about the angle a small coin makes when seen from roughly 16 kilometers away. It meant 61 Cygni was about 10.3 light-years away, around 100 trillion kilometers. The modern value is about 11.4 light-years, so Bessel was remarkably close. At almost the same time, Thomas Henderson measured the parallax of Alpha Centauri from South Africa, and Struve, at Dorpat, measured Vega. But Bessel's careful result is usually counted as the first reliable distance to a star beyond the Sun.",
+        "The meaning was staggering. Light from 61 Cygni, traveling about 300,000 kilometers every second, takes about 11 years to reach us. And it is one of our closest neighbors. The universe was far, far bigger than most people had imagined, and lens telescopes, which Newton had said could never be perfected, had measured it."
+      ]
+    }
+  ],
+  "deepDive": "The achromatic doublet works because glasses differ in two independent properties: refractive index (how strongly they bend light) and dispersion (how much the index changes with color). Optical designers today summarize the second using the Abbe number; a crown glass typically has a high Abbe number (low dispersion) and a flint glass a low one. To make an achromat, the designer chooses a positive crown element and a negative flint element whose powers are in the right ratio so that the total color error at two chosen wavelengths, usually red and blue, adds to zero while the total power stays positive. The leftover error at other wavelengths, the secondary spectrum, is why astronomers later developed apochromats with three elements or special glasses. Priority for the achromat is still debated. Hall made achromats first, around 1729 to 1733 depending on the account, and Bass made them for some customers, but Dollond independently investigated the physics, published it in 1758 and turned it into a product, so historians usually credit Hall with the invention and Dollond with its introduction. Some details of the Hall story, such as the trick of using two opticians, come from accounts told decades later during the patent disputes, so they should be treated with some caution. Fraunhofer's lines were also not entirely his discovery: Wollaston saw several in 1802. But Fraunhofer mapped 574 of them precisely, recognized they were a property of sunlight and not of the prism, and saw that stars showed different patterns, which is why spectroscopy is often dated from his 1814 work. The parallax race of 1838 is another fair-credit story. Henderson's Alpha Centauri measurements were made earlier at the Cape of Good Hope but published after Bessel's, and Struve's Vega value was less certain. Bessel's 0.314 arcsecond result, compared with the modern value of about 0.286 arcseconds, gave a distance roughly 10 percent too small, an impressive achievement given that the angle he was measuring was smaller than the apparent width of a coin many kilometers away.",
+  "funFact": "Joseph von Fraunhofer, who became one of the greatest lens-makers in history, was rescued from the ruins of a collapsed house in Munich at age 14, and the ruler of Bavaria gave him 18 gold ducats.",
+  "check": {
+    "q": "Which two kinds of glass are paired in an achromatic lens to cancel out rainbow fringes?",
+    "a": "Crown glass and flint glass",
+    "wrong": [
+      "Window glass and mirror glass",
+      "Speculum metal and quartz",
+      "Two pieces of the same crown glass"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Achromatic lens",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Achromatic_lens"
+    },
+    {
+      "title": "John Dollond",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Dollond"
+    },
+    {
+      "title": "Peter Dollond",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Peter_Dollond"
+    },
+    {
+      "title": "Joseph von Fraunhofer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Joseph_von_Fraunhofer"
+    },
+    {
+      "title": "Fraunhofer lines",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fraunhofer_lines"
+    },
+    {
+      "title": "Friedrich Georg Wilhelm von Struve",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Friedrich_Georg_Wilhelm_von_Struve"
+    },
+    {
+      "title": "Friedrich Bessel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Friedrich_Bessel"
+    },
+    {
+      "title": "61 Cygni",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/61_Cygni"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Portrait of the optician Joseph von Fraunhofer",
+      "search": "Joseph von Fraunhofer portrait"
+    },
+    {
+      "want": "Fraunhofer's hand-drawn map of the dark lines in the solar spectrum (1814)",
+      "search": "Fraunhofer lines solar spectrum 1814"
+    },
+    {
+      "want": "The great Fraunhofer refractor at the old Tartu (Dorpat) Observatory in Estonia",
+      "search": "Tartu Observatory Fraunhofer refractor"
+    }
+  ]
+}

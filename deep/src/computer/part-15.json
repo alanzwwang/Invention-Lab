@@ -1,0 +1,155 @@
+{
+  "n": 15,
+  "title": "Teaching Machines to Understand Us: Software",
+  "when": "1947 – 1970s",
+  "summary": "A computer is a super-fast machine, but on its own it only understands long strings of numbers. Clever people like Grace Hopper, Margaret Hamilton and the makers of BASIC invented ways to talk to computers in words instead. Their software helped land astronauts on the Moon.",
+  "sections": [
+    {
+      "heading": "Speaking the Machine's Own Language",
+      "paragraphs": [
+        "Imagine you have just been handed the keys to one of the first stored-program computers, around 1949. It fills a room, it hums, it gets warm, and it can do thousands of sums every second. There is just one problem: it does not understand a single word you say. It has no idea what 'add' means, or 'print', or 'please'. All it understands are numbers, and very particular numbers at that.",
+        "Deep inside, every instruction a computer can carry out has its own code. One pattern of 1s and 0s might mean 'fetch the number stored in memory box 27'. Another might mean 'add it to the number you are already holding'. A third might mean 'if the answer is negative, jump to a different instruction'. A list of these coded instructions is called machine code, and it is the only thing a processor truly understands. You met this idea in the last part: the processor fetches an instruction, decodes it and carries it out, again and again.",
+        "Writing a program in pure machine code is a bit like writing a novel using only a secret number for every word. You would have to look up every code in a table, write it down perfectly, and keep track of exactly which memory box held which number. Change one instruction near the start and the positions of everything after it might shift, so you would have to go back and fix dozens of other numbers too. A single wrong digit could make the whole machine do something completely different, and finding that one wrong digit among thousands could take days.",
+        "The first big improvement was to give each instruction a short, memorable nickname, called a mnemonic (said 'nem-ON-ik', meaning a memory aid). Instead of a string of digits, a programmer could write something like ADD or LOAD or JUMP, followed by a number for the memory box. This became known as assembly language. A helper program called an assembler then turned the nicknames back into the machine's numbers, one nickname for one instruction. Assembly was still very close to the hardware, but it was far easier for humans to read.",
+        "Credit for the earliest assembly language usually goes to Kathleen Booth, a British mathematician who worked with Andrew Booth, whom she later married, on experimental computers at Birkbeck College in London. In 1947 she worked out a way of writing instructions in a symbolic form for their machine, the ARC. At Cambridge, the team building EDSAC, whom you met in Part 11, went further. Their start-up program, called the 'initial orders', was written by the young David Wheeler and could read instructions typed with simple one-letter codes, then translate them into machine code automatically as the program was loaded. Wheeler is often credited with creating the first working assembler.",
+        "Some people began to wonder: what if the computer itself could do the boring translation work? After all, translating was just following rules, and following rules was exactly what computers were good at. One of the loudest voices asking this question belonged to a woman in a naval uniform."
+      ]
+    },
+    {
+      "heading": "Grace Hopper and the Moth in the Machine",
+      "paragraphs": [
+        "Grace Brewster Murray was born in New York City on 9 December 1906. As a child she was famously curious; she later told the story of taking apart alarm clocks to see how they worked. She studied mathematics and physics at Vassar College, then earned a doctorate in mathematics at Yale in 1934, which was rare for a woman at the time. She married Vincent Hopper and became a mathematics teacher at Vassar.",
+        "When the United States entered the Second World War, she wanted to serve. The navy at first said she was too old, too light and too valuable as a maths professor, but she persisted and joined the US Naval Reserve in 1943. In 1944 she was sent to Harvard University to work on the giant Harvard Mark I under Howard Aiken, the machine you met in Part 8. She became one of its first programmers, writing long sequences of instructions on punched paper tape and helping produce a thick manual explaining how to use it.",
+        "After the war she stayed at Harvard, working on the next machines, the Mark II and Mark III. The Mark II was built from thousands of electromagnetic relays, those clicking metal switches. On 9 September 1947, the Mark II began giving wrong answers. The operators hunted through the machine and found the culprit trapped between the contacts of one of the relays: a real moth. They removed it carefully, taped it into the logbook and wrote beside it, 'First actual case of bug being found.'",
+        "It is a wonderful story, but notice the word 'actual'. The team wrote it as a joke precisely because engineers already called faults 'bugs'. Thomas Edison used the word in a letter in 1878, describing 'bugs' as the little faults and difficulties that appear when an invention is being developed. So the moth did not invent the word. What it did was give programmers a perfect, funny example, and Grace Hopper loved telling the story for the rest of her life, which helped make 'bug' and 'debugging' everyday computer words. The logbook page, moth and all, is now kept at the Smithsonian's National Museum of American History in Washington, DC.",
+        "Hopper was a brilliant teacher as well as a programmer. In later years she handed out pieces of wire just under 30 centimetres (about 11.8 inches) long. That, she explained, is how far light travels in one nanosecond, a billionth of a second. Electric signals in real wires are even slower. So if you want a computer to be fast, its parts must be close together. It was a simple trick that made an invisible idea easy to hold in your hand.",
+        "She served in the navy, on and off, for more than 42 years. She was promoted to commodore in 1983, a rank later renamed rear admiral, and when she finally retired in August 1986, at the age of 79, she was the oldest serving officer in the US Navy. People nicknamed her 'Amazing Grace'. She died on 1 January 1992, and in 2016 President Barack Obama awarded her the Presidential Medal of Freedom, the highest civilian honour in the United States. But her most important idea was about language."
+      ]
+    },
+    {
+      "heading": "Letting the Computer Do the Translating",
+      "paragraphs": [
+        "In 1949 Hopper joined the Eckert–Mauchly Computer Corporation, the company started by the builders of ENIAC, which was creating UNIVAC. There she noticed that programmers kept writing the same pieces of code over and over: a routine for working out a square root, a routine for printing a number, and so on. They copied these pieces by hand from notebooks, and every time they copied, they risked making mistakes.",
+        "Her idea was to store these useful pieces on tape and let the computer itself find the right ones and stitch them together into a finished program. In 1952 she finished a system she called A-0 and described it as a 'compiler', because it compiled, or gathered together, pieces of code. Today a computer scientist would say A-0 was closer to what we now call a linker or loader than a modern compiler, since it did not translate whole sentences of a human-style language. But it was an important step toward the big idea: a program that writes programs. In 2024 the IEEE, a large engineering organisation, put up a plaque at the University of Pennsylvania honouring this work.",
+        "A compiler, in today's meaning, is a program that takes code written in a language humans find comfortable and translates it into the machine code a processor needs. Think of it as a tireless interpreter at a meeting between two people who speak different languages, except it translates the whole speech in advance and never gets bored.",
+        "Hopper wanted to go further than mathematical shorthand. Most people who needed computers in business were not mathematicians. They wanted to work out wages, track stock in warehouses and send out bills. Why not let them write instructions in something close to ordinary English? Many of her colleagues told her this was impossible, because computers could not understand English. Her reply, in effect, was that a computer could be taught to recognise a limited set of English words if someone wrote the right translating program. Her team went ahead and built FLOW-MATIC, released in the late 1950s for UNIVAC computers, one of the first programming languages to use English-like commands for business data processing.",
+        "Meanwhile, every computer company had its own languages, and big customers such as the US government were fed up with programs that only worked on one brand of machine. In April 1959 Mary Hawes, a computer scientist at the Burroughs company, called a meeting at the University of Pennsylvania to start work on a common business language. The US Department of Defense agreed to sponsor the effort, and on 28 and 29 May 1959 about 41 people met at the Pentagon. They formed committees, including a short-range committee with representatives from six computer makers and three government agencies, which was given just a few months to design an interim language.",
+        "The result was COBOL, short for COmmon Business-Oriented Language. Its specification was approved in January 1960. A six-person group, including the programming-language expert Jean Sammet, did much of the drafting, and many of Hopper's former staff sat on the committees. Hopper herself was a technical adviser. COBOL borrowed heavily from FLOW-MATIC, and also from an IBM language called COMTRAN. So it is fair to say Hopper is one of COBOL's most important ancestors, sometimes called its 'grandmother', but she did not design it alone; it was a team effort by a committee.",
+        "COBOL programs read almost like instructions to a clerk. A line might say MOVE TOTAL-PAY TO OUTPUT-LINE, or ADD OVERTIME TO WAGES. That makes COBOL long-winded, with more than 300 special reserved words, but it also means a manager can glance at a program and roughly understand it. COBOL spread through banks, insurance companies and governments. Astonishingly, huge amounts of COBOL code written decades ago are still running on mainframe computers today, quietly handling payments and records."
+      ]
+    },
+    {
+      "heading": "FORTRAN, LISP and BASIC: Languages for Everyone",
+      "paragraphs": [
+        "While Hopper was working on business languages, scientists and engineers had their own headache. Their programs were full of formulas: the path of a rocket, the stress on a bridge, the flow of air over a wing. Turning each formula into hundreds of assembly instructions was slow, and programming costs were starting to be bigger than the cost of the computer itself.",
+        "In late 1953 a young IBM programmer named John Backus proposed a bold project: a language in which scientists could write formulas almost the way they wrote them on paper, plus a compiler that would turn those formulas into fast machine code for IBM's new 704 computer. Many experts doubted it could work. They believed a program written by a machine would always be slower and clumsier than one written by a skilled human, and on the expensive computers of the 1950s, speed was everything.",
+        "Backus gathered a small team that included Lois Haibt, Roy Nutt, Irving Ziller, Harlan Herrick, Richard Goldberg, David Sayre and others. The work took years. The first manual appeared in October 1956 and the compiler was delivered to customers in April 1957. The language was called FORTRAN, from 'FORmula TRANslation'. Its compiler was one of the most complicated programs anyone had written, and its great trick was that it produced machine code nearly as efficient as code written by hand. That convinced sceptical programmers to switch.",
+        "With FORTRAN, a scientist could write a line such as Y = A * X + B and let the compiler worry about which memory boxes and machine instructions to use. Programs that might have needed a thousand assembly instructions could be written in a few dozen statements. FORTRAN spread with amazing speed. By 1963 there were more than 40 different FORTRAN compilers for different computers, which meant that, for the first time, a program could often be moved from one brand of machine to another. FORTRAN is still used today for weather forecasting, physics and other heavy number-crunching, making it one of the oldest programming languages still in use.",
+        "In 1958 John McCarthy, a mathematician at MIT, began designing a very different language called LISP, short for 'LISt Processing'. McCarthy was interested in getting computers to reason and solve puzzles, a field you will meet properly in Part 19. Instead of focusing on numbers, LISP worked with lists of symbols, and LISP programs were themselves written as lists, so a program could build and change other programs. McCarthy published the design in 1960. One of his students, Steve Russell, surprised him by turning the core of the design into a working interpreter on the IBM 704. LISP is the second-oldest high-level language still in common use, after FORTRAN.",
+        "Yet all these languages were still mostly for experts. At Dartmouth College in New Hampshire, two mathematics professors, John Kemeny and Thomas Kurtz, had a radical idea: every student, whether they studied history, art or physics, should be able to use a computer. Their goal was that every student on campus should be able to use a computer. To make that possible, they needed a language that was easy to learn and a way for many people to use one computer at once.",
+        "With help from a small group of undergraduates, they set up a General Electric GE-225 computer, plus a second machine, a Datanet-30, to handle typewriter-like terminals called Teletypes. At about 4 o'clock in the morning on 1 May 1964, in the basement of College Hall, Kemeny and a student programmer each typed RUN on neighbouring terminals at the same moment. Both of their little programs ran and printed answers. BASIC was born. Its name stands for 'Beginner's All-purpose Symbolic Instruction Code'.",
+        "A BASIC program could be as short as two lines: 10 PRINT \"HELLO\" and 20 GOTO 10, which prints HELLO forever until you stop it. Kemeny and Kurtz made their BASIC compiler free so it would spread, and high schools around New England soon connected to the Dartmouth computer over telephone lines. Ten years later BASIC would become the first language millions of children learned on home computers, as you will see in the next part."
+      ]
+    },
+    {
+      "heading": "Big Iron: Mainframes and Sharing Time",
+      "paragraphs": [
+        "In the 1960s, 'a computer' usually meant a mainframe: a row of tall metal cabinets in a cool, air-conditioned room with a raised floor hiding thick cables. People nicknamed these machines 'big iron'. A university or company would own one, and it cost so much that every minute of its time mattered.",
+        "There was a serious problem with mainframes. Each model had its own set of machine instructions, so when a company bought a bigger, newer computer, all its carefully written software might have to be rewritten. That could cost more than the machine. IBM, the giant company that had grown from Herman Hollerith's punched-card business, decided to take a huge gamble. On 7 April 1964 it announced the System/360, a whole family of computers, from fairly small to very large, that all understood the same instructions. A customer could start with a small model and later move to a big one without rewriting any programs.",
+        "The chief designer of its architecture was Gene Amdahl, and the project was managed by Fred Brooks, who also led its software. System/360 also made the 8-bit byte the standard size, which is why a byte is 8 bits today, as you saw in Part 14. Huge numbers of System/360 machines were sold or leased, and the family's descendants still run in banks and airlines today.",
+        "Another problem was waiting. In the early days, programmers handed a stack of punched cards to an operator and came back hours later, or the next day, to collect a printout. If there was one typo, the whole program failed and they had to try again. This way of working was called batch processing. In 1959 John McCarthy suggested a better way, called time-sharing. The computer would switch rapidly between many users, giving each a tiny slice of time. Because it switched so fast, every user sitting at a terminal felt as if they had the whole machine to themselves.",
+        "At MIT, Fernando Corbató's team had a working time-sharing system, CTSS, by November 1961, and Dartmouth's system let students use BASIC this way from 1964. Users typed on Teletypes or other terminals, sometimes connected over telephone lines from far away. Time-sharing changed how people felt about computers. Instead of a distant oracle you sent questions to, the computer became something you could have a conversation with, typing a command and getting an answer within seconds."
+      ]
+    },
+    {
+      "heading": "Software Goes to Space",
+      "paragraphs": [
+        "Some of the most dramatic software stories of the 1960s happened in the race to space. At the Langley laboratory in Hampton, Virginia, the US aircraft research agency (NACA, which became NASA in 1958) had employed human computers since the 1930s. Among them was a group of African American women mathematicians known as the West Area Computers. Because of the racial segregation laws of the time, they had to work, eat and use bathrooms separately from their white colleagues, even though their calculations were just as important.",
+        "Dorothy Vaughan joined this group in 1943. In 1949 she became its acting head, the first Black supervisor at NACA, and was later officially promoted. When the segregated group was closed down in 1958, as NACA became NASA, she moved into the new Analysis and Computation Division. As electronic computers began to arrive, Vaughan saw that hand calculation would soon be replaced by machines. Rather than be left behind, around 1961 she taught herself the new FORTRAN language, taught it to her co-workers and became an expert programmer. Her story shows something important: people who understood the maths, and were willing to learn the new tools, became the first generation of professional programmers.",
+        "Katherine Johnson, born in West Virginia on 26 August 1918, joined Langley in 1953. She was so good with flight paths that in 1961 she calculated the trajectory for Alan Shepard's Freedom 7 flight, the first American human spaceflight. The next year NASA was preparing for John Glenn to become the first American to orbit the Earth, in the Friendship 7 capsule, which flew on 20 February 1962. The orbit had been worked out by IBM electronic computers, but these were new and astronauts did not fully trust them. Glenn reportedly asked engineers to 'get the girl' to check the numbers by hand, and said that if she agreed with the computer, he was ready to go. She did, and he flew. Johnson later worked on Apollo calculations, and in 2015 she received the Presidential Medal of Freedom. She died in 2020, aged 101.",
+        "For the Moon landings, the spacecraft needed computers on board, and those computers needed software that could not fail. At the MIT Instrumentation Laboratory, Margaret Hamilton, born in Indiana in 1936, led the team that wrote the onboard flight software for the Apollo Guidance Computer, which you met in Part 13. She had earlier programmed for SAGE, a giant American air-defence computer system. A famous 1969 photograph shows her standing beside a stack of printed program listings nearly as tall as she was.",
+        "The Apollo Guidance Computer was tiny by today's standards. It had about 2,048 words of erasable memory for working numbers, and 36,864 words of fixed memory for its programs, stored in 'core rope memory', where wires were threaded through or around little magnetic rings by hand to represent 1s and 0s. Its timing crystal ticked about 2 million times a second, and its internal clock ran at half that speed, about 1 megahertz. Every instruction had to count. Hamilton pushed her team to plan for things going wrong, including mistakes by the astronauts themselves, and she helped popularise the term 'software engineering' to show that writing software deserved the same care as building a bridge or a rocket.",
+        "On 20 July 1969, as Neil Armstrong and Buzz Aldrin steered the lunar module Eagle down toward the Moon, the computer flashed a program alarm: 1202. Then came another, 1201. Nobody in the spacecraft knew exactly what they meant. Back in Mission Control in Houston, guidance officer Steve Bales and a young engineer called Jack Garman quickly recognised them. The alarms meant the computer was being asked to do more work than it had time for. A radar used for meeting up with the command module had been left switched on, and it was stealing the computer's attention with a stream of unnecessary signals, adding roughly 13 percent to an already heavy workload.",
+        "This is where the careful design paid off. The software had been built with priority scheduling: when it was overloaded, it restarted itself, dropped the less important jobs and kept the vital ones, such as steering and controlling the engine. Bales gave the call 'Go', the landing continued, and Eagle touched down safely. In November 2016 President Barack Obama awarded Margaret Hamilton the Presidential Medal of Freedom for her work."
+      ]
+    },
+    {
+      "heading": "UNIX and C: Software Built to Last",
+      "paragraphs": [
+        "As computers grew more powerful, they needed a master program to manage everything else: to share out memory, keep track of files, talk to printers and terminals, and let several programs run without trampling on each other. This master program is called an operating system. Early operating systems were usually written in assembly language for one particular machine, which made them huge, fragile and impossible to move to new computers.",
+        "In the late 1960s Bell Labs was working with MIT and General Electric on an ambitious time-sharing system called Multics. It became so big and complicated that Bell Labs pulled out in 1969. Two of its researchers, Ken Thompson and Dennis Ritchie, missed the friendly, interactive way of working they had enjoyed, so in 1969 Thompson began writing a smaller, simpler system on a spare minicomputer, a DEC PDP-7. Its name, UNIX, was a playful twist on Multics.",
+        "UNIX was built around a few clear ideas. Make each program small and good at one job. Store everything, from documents to devices, as files. And let programs be linked together with 'pipes', so the output of one tool flows straight into the next, like a chain of workers on an assembly line. One tool might list names, another sort them, a third count them, and by joining them a user could do something new without writing a big program.",
+        "To make UNIX easier to improve, Ritchie created a new programming language called C, around 1972, growing out of an earlier language called B that Thompson had written. C was powerful enough to control hardware directly, yet much easier to read and write than assembly. In 1973 the core of UNIX was rewritten in C. This was a breakthrough: now, to move UNIX to a new kind of computer, you mainly needed a C compiler for that machine, rather than rewriting the whole system. In 1978 Brian Kernighan and Dennis Ritchie published a book about C whose first example program simply printed 'hello, world', and ever since, millions of beginners have started a new language by making a computer say hello.",
+        "UNIX spread to universities, where students studied and improved it, and its ideas lived on in many later systems. Today, the operating systems inside Apple's Macs and iPhones descend partly from UNIX, and Linux and Android follow its design closely. C and the languages that grew from it, such as C++, are still everywhere. In 1983 Thompson and Ritchie received the Turing Award, often called the Nobel Prize of computing, for their work.",
+        "By the early 1970s, then, people could talk to computers in languages much closer to their own, programs could move between machines, and software had flown to the Moon. But there was still a catch. Computers were huge, costly machines that belonged to governments, universities and big companies. Ordinary people might type on a terminal at school or work, but they could never own a computer themselves. Could a computer ever be small and cheap enough to sit on a desk at home?"
+      ]
+    }
+  ],
+  "deepDive": "Historians of computing often say that software, not hardware, became the real bottleneck by the late 1950s. Machines kept getting faster and cheaper, while the cost of writing, testing and maintaining programs kept rising, partly because good programmers were scarce. Each step in this part attacked that problem by moving work from people to the machine. Assembly language let programmers use names instead of numbers. Compilers, starting with experiments such as Hopper's A-0 (1952) and maturing with FORTRAN (1957), translated whole formulas into machine code. The FORTRAN team's real achievement was optimisation: their compiler analysed programs and produced code efficient enough that experts accepted the loss of hand control. That set a pattern that continues today, when almost nobody writes large programs in assembly. There are honest debates about 'firsts'. A-0 is often called the first compiler, but by modern definitions it behaved more like a linker and loader; other early systems, such as Alick Glennie's Autocode for the Manchester Mark 1 (about 1952) and Laning and Zierler's algebraic system for MIT's Whirlwind (1954), also have claims. Similarly, the 1947 moth is a real artefact, but the word 'bug' was decades older. Another debate is about the 'software crisis'. By the late 1960s, large projects such as OS/360 were running years late and over budget, and in 1968 a NATO conference in Germany used the phrase 'software engineering' to call for a more disciplined approach; Margaret Hamilton's team was promoting similar ideas for Apollo. The System/360 manager Fred Brooks's observation, in his 1975 book The Mythical Man-Month, that adding people to a late project makes it later is still quoted by managers today. Finally, there is the story of who did the work. Early programming was often seen as clerical and given to women, from the ENIAC six to the West Area Computers and the Apollo rope-memory weavers. As programming became recognised as skilled, well-paid engineering, the field's public image shifted toward men, and many women's contributions were overlooked until historians and films such as 'Hidden Figures' (2016) brought them back into view.",
+  "funFact": "The Apollo Guidance Computer's programs were stored in 'core rope memory', made by threading copper wires through or around tiny magnetic rings by hand, so the software was literally woven into the hardware.",
+  "check": {
+    "q": "What did the 1202 alarm during the Apollo 11 Moon landing mean?",
+    "a": "The guidance computer was overloaded with work, so it restarted and kept only the most important jobs",
+    "wrong": [
+      "A moth had flown into the computer's relays",
+      "The lunar module had run out of fuel",
+      "The astronauts had typed their program in the wrong language"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Grace Hopper",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Grace_Hopper"
+    },
+    {
+      "title": "Fortran",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fortran"
+    },
+    {
+      "title": "BASIC at Dartmouth",
+      "publisher": "Dartmouth College",
+      "url": "https://www.dartmouth.edu/basicfifty/basic.html"
+    },
+    {
+      "title": "COBOL",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/COBOL"
+    },
+    {
+      "title": "IBM System/360",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/IBM_System/360"
+    },
+    {
+      "title": "Katherine Johnson Biography",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/langley/katherine-johnson-biography/"
+    },
+    {
+      "title": "Apollo Guidance Computer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Apollo_Guidance_Computer"
+    },
+    {
+      "title": "Margaret Hamilton (software engineer)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The Harvard Mark II logbook page from 1947 with the moth taped in and the note 'First actual case of bug being found'",
+      "search": "first computer bug moth logbook 1947"
+    },
+    {
+      "want": "Margaret Hamilton in 1969 standing next to the tall stack of printed Apollo Guidance Computer source code listings",
+      "search": "Margaret Hamilton Apollo source code"
+    },
+    {
+      "want": "Ken Thompson and Dennis Ritchie at a PDP-11 computer at Bell Labs",
+      "search": "Ken Thompson Dennis Ritchie PDP-11"
+    }
+  ]
+}

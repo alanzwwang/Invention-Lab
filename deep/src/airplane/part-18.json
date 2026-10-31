@@ -1,0 +1,163 @@
+{
+  "n": 18,
+  "title": "Safety, Problems and Hard Questions",
+  "when": "1950s – today",
+  "summary": "Thousands of planes fly every day, so people invented radar, air traffic controllers and bright orange 'black boxes' to keep them safe. In 2009 a calm pilot landed a plane on a river and everyone survived. But planes also make noise and pollution, and people are still working to fix those problems.",
+  "sections": [
+    {
+      "heading": "A Sad Day over the Grand Canyon",
+      "paragraphs": [
+        "On the morning of 30 June 1956, two airliners took off from Los Angeles International Airport only minutes apart. One was TWA Flight 2, a graceful Lockheed Super Constellation with three tail fins, heading for Kansas City. The other was United Air Lines Flight 718, a Douglas DC-7, heading for Chicago. Both planes were flying east across the deserts of Arizona.",
+        "Back then, much of the sky over the United States was what is called uncontrolled airspace. Outside the busy areas near airports and along certain airways, nobody on the ground was watching where planes were or telling them how to keep apart. Pilots were expected to follow a rule called “see and be seen”: look out of the window and steer clear of other aircraft. That works on a clear day with few planes. It works much less well among towering clouds, at high speed, when two planes are approaching each other from awkward angles.",
+        "That day, big puffy cumulus clouds had built up over the Grand Canyon. Both crews steered around them, and somewhere above the canyon the two planes came together. The investigators later concluded simply that the pilots did not see each other in time. All 128 people on the two aircraft died. At the time it was the deadliest airline accident in American history.",
+        "The accident shocked the country, and people asked hard questions. Why, in an age of radar and jet engines, was nobody keeping track of airliners over open country? The answer was that air traffic control had not kept up with the huge growth in flying after World War II. The equipment was old, there were too few controllers, and responsibility was split between different government groups, with military planes following separate rules.",
+        "Congress responded. Money was found in 1957 to hire more controllers and buy radar, at first using surplus military equipment. Then the Federal Aviation Act of 1958 created a new body, the Federal Aviation Agency, which began on 23 August 1958. Its first leader was Elwood Quesada, a former Air Force general. For the first time, one agency had authority over all American airspace, including military flights. In 1967 it was renamed the Federal Aviation Administration (FAA), the name it still has today.",
+        "In 2014 the crash site deep in the canyon was named a National Historic Landmark, the first for an event that happened in the air. It is a quiet reminder that many of the safety rules we take for granted today were written after painful lessons."
+      ]
+    },
+    {
+      "heading": "Eyes on the Sky: Air Traffic Control and Radar",
+      "paragraphs": [
+        "Air traffic control is a bit like a giant, invisible system of roads and traffic lights in the sky, run by people talking on radios. Its job is to keep planes safely apart, to keep traffic flowing, and to give pilots information such as weather and runway conditions. The pilot still has the final say over the aircraft, but controllers can see the bigger picture.",
+        "It began very simply. At Croydon Airport near London, a small wooden control tower was put into use in February 1920, and the first airport control tower in the United States opened at Cleveland in 1930. Early controllers used flags, light signals and blackboards. Radio made a huge difference, because a controller could finally talk to a pilot in the air.",
+        "Radar was the next giant step. Radar, short for radio detection and ranging, was developed in the 1930s and used heavily in World War II. A radar station sends out pulses of radio waves. When a pulse hits a plane, a tiny echo bounces back. By timing how long the echo takes to return, and noting which direction the antenna was pointing, the system can work out where the plane is. After the war, radar screens let controllers see aircraft as glowing dots, even in cloud or at night.",
+        "Later came secondary radar. Each airliner carries a box called a transponder. When a ground station's radar signal reaches it, the transponder answers with its own radio reply, giving a four-digit identification code and the plane's altitude. That way, the dot on the controller's screen comes with a label saying exactly which flight it is and how high it is flying. Today many planes also use a system called ADS-B, in which the aircraft works out its own position by satellite navigation and broadcasts it several times a second for controllers and other planes to receive.",
+        "A flight passes from one team of controllers to another, like a baton in a relay race. Ground controllers guide it along the taxiways. Tower controllers clear it to take off. Approach controllers guide it as it climbs away from the busy airport area. Then large en-route centres look after it high up, often for hundreds of kilometres, each controller watching one slice of sky called a sector. Near the destination, the process happens in reverse.",
+        "Planes also carry their own last line of defence. A system called TCAS (traffic collision avoidance system) listens to the transponders of nearby aircraft. If two planes get dangerously close, it tells one crew to climb and the other to descend, in a calm computer voice. Together, controllers, radar and these onboard systems make the “see and be seen” days of 1956 feel like a very long time ago."
+      ]
+    },
+    {
+      "heading": "The Black Box That Is Really Orange",
+      "paragraphs": [
+        "When an airplane accident happens, one of the first things investigators look for is the so-called black box. Here is the first surprise: it is not black. Flight recorders are painted bright orange, often with reflective stripes, so they are easier to spot among wreckage. The name black box probably comes from World War II, when secret British electronic equipment was often kept in black-painted cases.",
+        "The man behind the modern flight recorder was an Australian scientist named David Warren, born in 1925 on Groote Eylandt, an island off northern Australia. His own life had been touched by an air accident: when he was a boy, his father died in the 1934 crash of an airliner called Miss Hobart over Bass Strait.",
+        "In the early 1950s Warren was working at the Aeronautical Research Laboratories in Melbourne when experts were trying to understand the mysterious crashes of the de Havilland Comet, the jet airliner you met in Part 15. Nobody knew exactly what had happened in the final moments of those flights. Around the same time, Warren saw a small new pocket voice recorder at a trade show. He realised that if a crash-proof recorder in every airliner kept track of both the instrument readings and the voices in the cockpit, investigators would no longer have to guess. He built a prototype flight data recorder in 1956 and a combined data and voice recorder in 1958. At first, some people were not keen; a few pilots worried about being spied on. But the idea's value became obvious.",
+        "After an inquiry into a 1960 crash in Queensland recommended recorders, Australia became the first country to make cockpit voice recorders compulsory. The United States introduced its first rules for them in 1964, and soon recorders were required around the world.",
+        "Today there are usually two recorders. The flight data recorder (FDR) stores many measurements, such as speed, altitude, heading, engine power and the positions of the controls, many times each second. The cockpit voice recorder (CVR) records what the pilots say and the sounds in the cockpit, from switches clicking to warning alarms. In some planes they are combined in a single unit.",
+        "They are built to survive almost anything. International standards require them to survive an impact of 3,400 times the force of gravity and fire hotter than 1,000 degrees Celsius. The memory is sealed inside layers of steel and insulation. Recorders are usually mounted near the tail, which is often the part of the aircraft most likely to survive a crash. If a plane goes down at sea, an underwater locator beacon attached to each recorder sends out a ping that search ships can hear, for up to about 30 days, from depths as great as 6,000 metres.",
+        "David Warren died in 2010, but his invention has helped solve countless accidents. Each time a recorder reveals what went wrong, the lesson can be used to protect every flight that follows."
+      ]
+    },
+    {
+      "heading": "Checklists, Simulators and Teamwork",
+      "paragraphs": [
+        "Modern airliners are extraordinarily complicated, with thousands of switches, systems and warning lights. No human can remember every step perfectly every time, especially when tired or surprised. So pilots use one of the simplest safety inventions of all: the checklist.",
+        "A famous story is often told about how flying checklists became important. In 1935 a large new Boeing bomber prototype, the Model 299, crashed during a test flight because the crew forgot to release a lock on the controls. People said the plane was simply too complicated for one person to fly. Instead of giving up, test pilots wrote short lists of key steps to check before takeoff, landing and other stages of flight. Today every airliner crew works through checklists for normal flying, and special checklists for emergencies, such as an engine fire or a loss of cabin pressure.",
+        "Pilots also practise in flight simulators. One of the first, the Link Trainer, was built by an American organ and piano maker named Ed Link around 1929 and was used to train many thousands of pilots to fly using instruments. Modern full-flight simulators are astonishing machines: a real cockpit sits inside a big box mounted on powerful hydraulic legs that tilt and shake it, while wraparound screens show realistic views of airports around the world. Pilots can practise engine failures, storms and emergency landings that would be far too dangerous to try in a real plane. Airline pilots return to the simulator regularly throughout their careers.",
+        "The third key idea is teamwork. In the 1970s, investigators found that some accidents happened not because a plane broke, but because the crew did not talk to each other clearly. In 1978, United Airlines Flight 173 ran out of fuel near Portland, Oregon, while the captain was focused on a problem with the landing gear and other crew members did not speak up firmly enough about the falling fuel. After a NASA workshop in 1979, the psychologist John Lauber coined the term crew resource management, or CRM.",
+        "CRM teaches pilots and cabin crew to share information, to speak up when something seems wrong even to a senior captain, to divide up tasks and to double-check each other. United Airlines started the first full CRM training programme in 1981, and by the 1990s it had become standard around the world. The idea spread beyond aviation too. Hospitals now use surgical checklists and team training based on CRM, and so do firefighters, ship crews and railway workers.",
+        "Checklists, simulators and teamwork are not as dramatic as jet engines. But together they have saved many lives. And on one cold January afternoon in 2009, the world saw all three in action."
+      ]
+    },
+    {
+      "heading": "The Miracle on the Hudson",
+      "paragraphs": [
+        "On 15 January 2009, a cold, clear afternoon in New York, US Airways Flight 1549 took off from LaGuardia Airport at about 3:25 pm. It was an Airbus A320 heading for Charlotte, North Carolina, with 150 passengers and 5 crew. In the cockpit were Captain Chesley Sullenberger, known as Sully, a former Air Force pilot with decades of experience, and First Officer Jeffrey Skiles.",
+        "About two minutes after takeoff, at roughly 2,800 feet (about 850 metres), the plane flew into a flock of Canada geese. Several of the big birds were sucked into the engines, and both engines lost almost all their power at once. Suddenly a heavy airliner full of people had become a glider, low over one of the most crowded cities in the world.",
+        "The crew had only moments to decide. Skiles began working through the emergency checklist for a dual engine failure, trying to restart the engines. That checklist had been written for failures at high altitude, where a crew might have several minutes, so he had to move through it very fast. The crew also switched on the auxiliary power unit, a small extra engine in the tail that kept electrical power flowing to the plane's systems.",
+        "Air traffic controller Patrick Harten quickly offered runways back at LaGuardia and then at Teterboro Airport in New Jersey. But Sullenberger judged that the plane was too low and too slow to reach either one safely. He told the controller calmly: “We're gonna be in the Hudson.” He chose the long, wide Hudson River beside Manhattan as the safest place to come down.",
+        "Gliding over the George Washington Bridge, the crew lined up with the river. Sullenberger kept the wings level and the nose slightly up, and at about 3:30 pm the A320 touched down on the water, skidding to a stop. The whole flight, from takeoff to landing on the river, lasted only about six minutes.",
+        "Inside, the three flight attendants, Donna Dent, Doreen Welsh and Sheila Dail, shouted commands and guided passengers to the exits. People climbed out onto the wings and into inflatable slides, standing in icy water up to their knees. Within minutes, commuter ferries and other boats arrived, and rescuers pulled everyone from the freezing river. Sullenberger walked the cabin twice to make sure nobody was left behind. All 155 people survived, although about 100 had injuries, five of them serious.",
+        "The newspapers called it the Miracle on the Hudson, but investigators from the National Transportation Safety Board (NTSB) saw it as the result of training, skill, teamwork and good design. They tested the situation in simulators and found that turning back to LaGuardia could only have worked in some attempts, and only if the pilots had turned instantly, with no time to understand what had happened. The NTSB concluded that ditching in the river was the right decision. It also recommended changes, such as better checklists for engine failures at low altitude and more research into bird strikes.",
+        "The aircraft itself was lifted out of the river and is now displayed at the Sullenberger Aviation Museum in Charlotte, the city it was flying to that day."
+      ]
+    },
+    {
+      "heading": "Why Flying Became So Safe",
+      "paragraphs": [
+        "When you board a plane today, you are using one of the safest ways to travel ever invented. In 1970, there were about 6.35 fatal airliner accidents for every million flights. By 2019 that number had fallen to about 0.51, roughly twelve times lower, even though there were far more flights. One study of travel in the United Kingdom found that, per kilometre travelled, a car journey was about 60 times more likely to end in death than an airline flight.",
+        "How did this happen? There is no single invention. Instead, there are many layers of protection. Engines became more reliable. Radar and air traffic control kept planes apart. Weather radar helped pilots avoid storms. Ground proximity and terrain warning systems shout “Pull up!” if a plane is getting too close to a mountain or the ground. Collision avoidance systems, checklists, simulators and crew teamwork add more layers. Each layer has small holes, but it is very unlikely that the holes in all of them line up at the same time.",
+        "Perhaps the most important safety idea of all is learning from every mistake. When an accident or a serious incident happens, independent investigators, such as the NTSB in the United States, the Air Accidents Investigation Branch in Britain or the Australian Transport Safety Bureau, study everything: the wreckage, the flight recorders, weather, maintenance records, training and the design of the plane. International rules agreed through ICAO say these investigations are about finding causes and preventing future accidents, not about blaming people. Their reports are published, and the lessons are shared with airlines and manufacturers all over the world.",
+        "This means that every accident, however sad, makes future flights safer. The Comet crashes taught engineers about metal fatigue. The Grand Canyon collision led to modern air traffic control. Crashes caused by crew misunderstandings led to crew resource management. Pilots often say that the rules of aviation are written from hard experience.",
+        "Accidents still happen, and each one is taken very seriously. But in 2017, the safest year for airliners on record up to that time, there were only 10 fatal airliner accidents worldwide among tens of millions of flights. For a passenger today, the riskiest part of a plane trip is often the car ride to the airport."
+      ]
+    },
+    {
+      "heading": "The Costs: Noise, Pollution and Climate",
+      "paragraphs": [
+        "Every invention has side effects, and the airplane has some big ones. The first one you notice is noise. If you live near a busy airport, planes may roar overhead every couple of minutes. Studies have found that aircraft noise can disturb sleep, make it harder for children in nearby schools to concentrate, and may even affect people's heart health over many years. Modern turbofans are much quieter than the early jets, and many airports now use quieter flight paths, limit night flights and charge noisier planes higher fees.",
+        "Then there is air pollution. Jet engines burn kerosene, a fuel made from oil. Besides carbon dioxide and water vapour, they release nitrogen oxides, tiny soot particles and other gases that affect air quality near airports and high in the atmosphere. Some small piston-engine planes still use fuel containing lead, which is being phased out because lead is harmful to people.",
+        "The biggest long-term worry is climate change. Burning jet fuel releases carbon dioxide (CO2), a gas that traps heat in the atmosphere. In 2018, aviation made roughly 2.4 to 2.7 percent of all the CO2 released by human activities around the world. That may sound small, but it comes from a fairly small share of the world's population, since most people on Earth rarely or never fly, and air travel keeps growing.",
+        "Planes also warm the climate in other ways. You have probably seen white streaks behind high-flying jets. These are contrails, short for condensation trails. Hot, wet exhaust meets the freezing air at cruising height, and the water vapour turns into tiny ice crystals, the same way your breath makes a cloud on a cold morning. Most contrails vanish quickly, but in moist air some spread into thin, wispy clouds that can last for hours. At night especially, these clouds can trap heat. When scientists add contrails and nitrogen oxides to CO2, their best estimate is that aviation causes about 3.5 percent of the human-caused warming effect on the climate, though the contrail part is still quite uncertain.",
+        "Engineers have made planes much more efficient. Jet airliners became about 70 percent more fuel efficient between 1967 and 2007, thanks to better engines, lighter materials and smarter wing shapes. But because the number of flights has grown so fast, total emissions have kept rising. In 2016, countries agreed through ICAO on a scheme called CORSIA, which asks airlines to balance growth in international emissions by paying for projects that reduce carbon elsewhere. Airlines are also starting to use sustainable aviation fuel made from waste oils, plants or other sources, but in 2023 it was still only about 0.2 percent of all jet fuel and cost two to four times as much. Part 20 looks at the cleaner planes engineers are working on now."
+      ]
+    },
+    {
+      "heading": "Security, and Airplanes in War",
+      "paragraphs": [
+        "Another hard question is security. Because planes carry many people and can cross borders quickly, some criminals and violent groups have tried to take them over. This is called hijacking. Between 1968 and 1972 there were 326 hijacking attempts around the world, roughly one every five or six days, many of them in the United States. In response, the United States began screening every passenger and their carry-on bags, starting on 5 January 1973. Metal detectors and X-ray machines appeared in airports, and the number of hijackings dropped.",
+        "On 11 September 2001, a terrible attack in the United States used hijacked airliners, and nearly 3,000 people lost their lives. It changed airport security around the world. Cockpit doors were strengthened so that nobody can force their way in, and in the United States the Transportation Security Administration (TSA) was created in November 2001 to carry out passenger screening. Later rules limited liquids in hand luggage to small containers, and full-body scanners were introduced. Waiting in security lines is less fun than flying, but those checks are part of why hijackings have become very rare: about 15 worldwide between 2010 and 2019.",
+        "Finally, there is the hardest truth about the airplane. Almost as soon as it was invented, it was used in war. You saw in Part 13 how World War I turned scouting planes into fighters and bombers. In World War II, huge fleets of bombers attacked cities, and many civilians were killed on all sides. Since then, military aircraft have played a part in many conflicts. The same skills of flight that carry families on holiday can also carry weapons. Many of the Wright brothers' fellow pioneers hoped flying would bring nations together, and some lived long enough to be saddened to see how much destruction airplanes could cause.",
+        "Yet aircraft have also saved enormous numbers of lives in times of crisis. During the Berlin Airlift of 1948 and 1949, cargo planes flew food and coal into the blockaded city of West Berlin for more than a year. Today aircraft carry aid after earthquakes and floods, fight forest fires by dropping water, and act as air ambulances and flying hospitals. Whether an invention helps or harms depends on the choices people make with it.",
+        "The airplane, then, is safer than ever, but it also brings noise, pollution, security worries and the power to do harm. Many of the newest tools for safety and efficiency come from computers. In today's cockpits, computers help fly the plane, guide it with satellites and can even land it in fog. And some aircraft now fly with no pilot on board at all. Part 19 takes off into the world of smart planes and drones."
+      ]
+    }
+  ],
+  "deepDive": "Safety experts often explain aviation's record with the 'Swiss cheese model', proposed by the psychologist James Reason. Each defence, such as design, maintenance, training, air traffic control, checklists and warning systems, is pictured as a slice of cheese with holes, its weaknesses. An accident happens only when the holes in many slices briefly line up. The model shifts attention away from blaming a single person and toward strengthening the whole system, which is why investigations under ICAO rules aim to find causes, not culprits. Many airlines also run confidential reporting programmes, so pilots and mechanics can report mistakes and near misses without fear of punishment; this so-called just culture catches problems before they cause accidents. Statistics need care. Fatal accidents per million flights fell from about 6.35 in 1970 to about 0.51 in 2019. Comparing flying with driving per kilometre makes flying look extremely safe, because planes cover huge distances; comparing per trip or per hour narrows the gap, although flying still comes out well ahead. The climate debate is also full of uncertainty. Aviation's CO2 share, roughly 2.4 to 2.7 percent of human emissions in 2018, is measured fairly well. The non-CO2 effects are not. Estimates for contrail cirrus range widely, and contrails form only in certain cold, humid layers of air. Interestingly, research suggests that a small fraction of flights produce most of the warming contrails, so slightly changing the altitude of those flights might reduce warming at little cost; airlines and scientists are testing this idea. Meanwhile CO2 lasts for centuries while contrails last hours, so comparing them depends on the time scale chosen, which is one reason scientists use different measures and argue about them. Finally, the Hudson ditching is often studied for its human factors: the NTSB stressed that simulator runs showing a successful return to LaGuardia ignored the roughly 35 seconds a real crew needs to recognise an unexpected emergency and decide what to do.",
+  "funFact": "The Airbus A320 that landed on the Hudson River was flying to Charlotte, North Carolina, and today it is displayed in a museum in Charlotte, so in a way it finally reached its destination.",
+  "check": {
+    "q": "What colour are an airliner's flight recorders, the so-called black boxes?",
+    "a": "Bright orange",
+    "wrong": [
+      "Black",
+      "Silver",
+      "Dark blue"
+    ]
+  },
+  "sources": [
+    {
+      "title": "1956 Grand Canyon mid-air collision",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1956_Grand_Canyon_mid-air_collision"
+    },
+    {
+      "title": "Air traffic control",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Air_traffic_control"
+    },
+    {
+      "title": "Flight recorder",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Flight_recorder"
+    },
+    {
+      "title": "David Warren (inventor)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/David_Warren_(inventor)"
+    },
+    {
+      "title": "Crew resource management",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Crew_resource_management"
+    },
+    {
+      "title": "US Airways Flight 1549",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/US_Airways_Flight_1549"
+    },
+    {
+      "title": "Aviation safety",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aviation_safety"
+    },
+    {
+      "title": "Environmental impact of aviation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Environmental_impact_of_aviation"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A bright orange flight data recorder or cockpit voice recorder (the so-called black box) on display",
+      "search": "flight data recorder orange black box"
+    },
+    {
+      "want": "Photograph of US Airways Flight 1549, the Airbus A320, floating in the Hudson River with passengers standing on its wings",
+      "search": "US Airways Flight 1549 Hudson River"
+    },
+    {
+      "want": "An airport air traffic control tower, or a radar screen used by air traffic controllers",
+      "search": "air traffic control tower airport"
+    }
+  ]
+}

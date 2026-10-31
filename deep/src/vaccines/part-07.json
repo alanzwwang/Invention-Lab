@@ -1,0 +1,162 @@
+{
+  "n": 7,
+  "title": "Invisible Enemies: Germ Theory",
+  "when": "1840s – 1890s",
+  "summary": "For a long time, people thought diseases came from smelly 'bad air'. Then a doctor showed that washing hands saved mothers, Louis Pasteur proved germs only come from other germs, and Robert Koch caught the exact germs behind anthrax and tuberculosis. Scientists even found something smaller than germs: viruses!",
+  "sections": [
+    {
+      "heading": "A World That Blamed Bad Air",
+      "paragraphs": [
+        "By the 1840s, doctors had been vaccinating people against smallpox for almost fifty years. Millions of arms carried the little round scar of Jenner's cowpox. Yet if you had walked into a hospital in London, Paris or Vienna and asked a doctor, 'Why does vaccination work? And what actually causes smallpox, or cholera, or fever?', you would have got a shrug, a long Latin word, or an answer that sounds very strange today.",
+        "The most popular answer was miasma. The word comes from Greek and means something like pollution or defilement. According to miasma theory, diseases rose up out of rotting things: piles of rubbish, swamps, open sewers, graveyards and crowded, filthy slums. The rot was supposed to poison the air, and when people breathed that foul-smelling air, they fell ill. The idea was ancient, and it was still the leading explanation among doctors and scientists for most of the nineteenth century.",
+        "You can still hear the miasma idea hiding inside an everyday word. Malaria, the disease spread by mosquitoes, gets its name from medieval Italian 'mala aria', which simply means bad air. People living near warm marshes noticed that fevers were common there. They blamed the swampy smell, not the whining insects.",
+        "Miasma theory was wrong, but it was not completely useless. Because people believed stinking air caused disease, reformers fought hard to clean cities up. In Britain, the reformer Edwin Chadwick famously argued that 'all smell is disease'. In the hot summer of 1858, the River Thames in London became so thick with sewage that the stench was nicknamed the Great Stink. Members of Parliament, working right beside the river, could hardly bear it. They quickly backed the engineer Joseph Bazalgette's plan to build huge new sewers that carried waste away from the city. The sewers were meant to remove bad smells, but they also kept sewage out of drinking water, and that is what really saved lives.",
+        "A few people had suspected something different. Back in 1546, the Italian doctor Girolamo Fracastoro wrote about invisible 'seeds' of disease that could pass from person to person, through objects, or through the air. In the 1670s, the Dutch cloth merchant and lens-maker Antonie van Leeuwenhoek peered through his homemade microscopes and saw tiny wriggling creatures in pond water and even in the gunk scraped from his own teeth. He called them animalcules, meaning little animals. But nobody could prove that these tiny living things had anything to do with illness.",
+        "In 1854 a London doctor named John Snow carefully mapped the deaths in a cholera outbreak in the Soho district and traced them to a single water pump on Broad Street. His map was powerful evidence that cholera travelled in water, not air. Even so, many experts stuck with miasma. Old ideas are sticky. To knock them loose, scientists needed experiments so clear that almost nobody could argue with them. The first crack came from a maternity hospital in Vienna."
+      ]
+    },
+    {
+      "heading": "The Doctor Who Said 'Wash Your Hands'",
+      "paragraphs": [
+        "In July 1846 a young Hungarian doctor named Ignaz Semmelweis started work as an assistant in the First Obstetrical Clinic of the Vienna General Hospital, one of the biggest hospitals in Europe. Obstetrics is the part of medicine that looks after mothers having babies. The hospital had two maternity clinics, side by side, and Semmelweis soon noticed something terrible about them.",
+        "Many new mothers caught a disease called childbed fever, also known as puerperal fever, a few days after giving birth. In the First Clinic, it killed on average about one mother in every ten. In the Second Clinic, the death rate was under four in a hundred. The difference was so well known in Vienna that some pregnant women begged not to be sent to the First Clinic.",
+        "Semmelweis became a detective. He listed every difference he could find between the two clinics and ruled them out one by one. There was one big difference left. The First Clinic was where medical students and doctors trained. The Second Clinic was run by midwives. And the doctors and students often came to the maternity ward straight from the autopsy room, where they had been studying the bodies of people who had died.",
+        "In 1847 a tragedy gave Semmelweis his key clue. His friend and colleague Jakob Kolletschka, a professor of forensic medicine, was accidentally cut by a student's scalpel during an autopsy. Kolletschka became very ill and died. When Semmelweis read the report of what had happened inside his friend's body, he was struck by how similar it was to what happened inside the mothers who died of childbed fever. Perhaps, he thought, something from the dead bodies was being carried on the doctors' hands into the wards. He called it 'cadaverous particles'. He did not know what those particles were. He only knew how to test the idea.",
+        "In May 1847 Semmelweis ordered everyone in the First Clinic to wash their hands in a solution of chlorinated lime before examining patients. He chose chlorine because it removed the smell of the autopsy room from people's hands better than ordinary soap did. The results were dramatic. In April 1847 the monthly death rate in the First Clinic had been about 18 in every hundred mothers. By June it was about 2 in a hundred, and in July just over 1 in a hundred. Over the following months the First Clinic's death rate fell to about the same level as the midwives' clinic.",
+        "You might expect that the whole medical world would cheer. Instead, many senior doctors ignored Semmelweis or were offended. Some disliked the idea that gentlemen doctors' hands could carry death. Others pointed out, fairly, that he could not explain how his 'particles' worked, and for years he published very little about his results himself. Political turmoil in 1848 and a quarrel with his boss also hurt him. In 1849 he lost his post in Vienna and eventually moved back to Hungary.",
+        "In the city of Pest (now part of Budapest), Semmelweis ran a maternity ward from 1851 and used his methods again. Between 1851 and 1855 only eight of 933 mothers there died of childbed fever. In 1861 he finally published a book laying out his evidence, but most of the medical establishment still would not accept it, and his angry open letters to critics made things worse. His health and behaviour declined, and in 1865, at just 47, he died in an asylum from an infected wound. Only after Pasteur, Koch and others explained what germs were did the world understand that Semmelweis had been right all along. Today he is often called the 'saviour of mothers'."
+      ]
+    },
+    {
+      "heading": "Pasteur: Flasks, Wine and Silkworms",
+      "paragraphs": [
+        "Louis Pasteur was born in 1822 in Dole, a small town in eastern France, the son of a tanner who prepared animal skins for leather. He was not a medical doctor. He trained as a chemist, and his first big discovery was about crystals. He showed that some molecules come in mirror-image forms, like a left hand and a right hand.",
+        "In 1854 Pasteur became dean of the new Faculty of Sciences in Lille, an industrial city in northern France full of breweries and factories making alcohol from sugar beet. Local businessmen came to him with a problem: some of their vats went sour and spoiled. Pasteur put drops from good vats and bad vats under his microscope. In the good vats he saw round yeast cells. In the spoiled ones he saw different, rod-shaped microbes. He came to a bold conclusion: fermentation, the process that turns sugar into alcohol, is done by living yeast cells, and other living microbes can make wine or beer go wrong. The famous German chemist Justus von Liebig disagreed, but Pasteur's experiments steadily won the argument.",
+        "That led Pasteur straight into one of the oldest debates in science: spontaneous generation. This was the belief that living things could appear by themselves from non-living matter. For centuries people thought maggots grew out of rotting meat and mice out of piles of old grain. In 1668 the Italian doctor Francesco Redi showed that maggots only appeared on meat if flies could reach it. But microbes were so small that the debate about them went on. In 1745 the English naturalist John Needham boiled broths, sealed them and still found them cloudy with life later. In 1768 the Italian priest-scientist Lazzaro Spallanzani boiled broths longer in sealed containers and found nothing grew, but supporters of spontaneous generation said he had simply damaged the 'vital force' in the air.",
+        "In 1859 the French naturalist Félix Pouchet published a big book defending spontaneous generation. That same year the French Academy of Sciences announced a prize for anyone who could throw new light on the question with well-conducted experiments. Pasteur decided to settle it.",
+        "His most famous experiment used a glass flask with a long neck that he heated and bent into an S-shape, like the neck of a swan. He poured in a nutritious meat broth and boiled it to kill any microbes inside. Then he left the flask open to the air. Air could drift in and out through the curving neck, so nobody could say the broth was cut off from air or any 'vital force'. But dust and microbes floating in the air settled in the low bend of the neck, the way mud settles in the bend of a river. The broth stayed clear for as long as he left it.",
+        "Then came the clever second step. When Pasteur tipped the flask so that the broth washed into the dusty bend of the neck and then back down, the broth soon turned cloudy with growing microbes. Same broth, same air, same flask. The only thing that changed was whether microbes from outside could reach it. Life, at least microbial life, came from other life.",
+        "Pasteur won the Academy's Alhumbert Prize in 1862. On 7 April 1864 he gave a dramatic lecture at the Sorbonne in Paris, showing his flasks to a fashionable audience. He declared that the doctrine of spontaneous generation would 'never' recover from 'the mortal blow of this simple experiment'. It was not quite the last word, because later the Irish physicist John Tyndall showed that some bacteria form tough spores that can survive ordinary boiling, which explained some confusing results. But the main point stood: microbes do not appear from nowhere.",
+        "If microbes spoil wine and broth, Pasteur reasoned, then killing them should stop the spoiling. He found that gently heating wine to a moderate temperature, well below boiling, killed most of the troublesome microbes without ruining the taste. He patented the method in 1865. Today we call it pasteurisation, and it is why the milk in your fridge carries his name in many languages.",
+        "In 1865 the French government asked Pasteur to help with a disaster in the south of France. A disease called pébrine was killing silkworms, and the country's silk industry was collapsing. Pasteur had never studied silkworms before. Over several years he worked out a way to check the moths under a microscope and keep only the eggs from healthy ones, which helped bring pébrine under control. A second silkworm disease, flacherie, was harder to stop. The work taught Pasteur something important: tiny living things could cause disease in animals, not just spoil food. In 1868, in the middle of this work, he suffered a stroke that left one side of his body partly paralysed, but he kept working for the rest of his life.",
+        "Across the Channel, a surgeon in Glasgow named Joseph Lister read Pasteur's papers on fermentation. In the 1860s, many patients survived an operation only to die later when their wounds became infected. Lister wondered whether microbes from the air and from dirty instruments were getting into wounds. He began cleaning wounds and instruments with carbolic acid, a chemical that kills microbes, and in 1867 reported far fewer deadly infections. This was antiseptic surgery, and it spread around the world. Lister generously credited Pasteur for the idea that started it.",
+        "Step by step, a new picture was forming. It is called the germ theory of disease: the idea that many illnesses are caused by microscopic living things, or germs, that invade the body. In the new picture, Semmelweis's 'cadaverous particles' were germs on doctors' hands, Snow's cholera was a germ in water, and spoiled wine and infected wounds were both the work of microbes. But a theory is not the same as proof. To prove that a particular germ caused a particular disease, someone needed better tools. That someone was a country doctor in a small town in what was then eastern Germany."
+      ]
+    },
+    {
+      "heading": "Robert Koch: A Country Doctor and His Microscope",
+      "paragraphs": [
+        "Robert Koch was born in 1843 in Clausthal, a mining town in the Harz Mountains of Germany. After studying medicine and serving as an army surgeon in the Franco-Prussian War, he became a district doctor in Wollstein, a small town that is now Wolsztyn in Poland. He spent his days treating farmers, families and their injuries. But his wife, Emmy, gave him a microscope, and in a corner of his home he set up a little private laboratory.",
+        "Around Wollstein, a disease called anthrax was killing sheep and cattle, and it sometimes infected the farmers and wool workers who handled animals. Scientists had already seen rod-shaped bacteria in the blood of animals that died of anthrax, but nobody had proved that the rods caused the disease. Koch set out to do it. He took tiny amounts of infected material and put them into mice, and found that the mice developed anthrax. He grew the bacteria outside the body, in drops of fluid from the eyes of cattle that he watched under the microscope, and he followed them as they multiplied.",
+        "Koch's greatest discovery about anthrax was its life cycle. When conditions got harsh, the rod-shaped bacteria formed tiny, tough spores, like seeds in a hard shell. The spores could survive drying out and lie in the soil for years. When they got into a new animal, they turned back into active bacteria. This explained a mystery farmers had known about for generations: some fields seemed cursed, because animals that grazed there kept getting anthrax, year after year. The spores were waiting in the ground.",
+        "In 1876 Koch took his results to the botanist Ferdinand Cohn, a professor in the city of Breslau (now Wrocław in Poland). Cohn helped publish Koch's paper that year. For the first time, a specific bacterium had been convincingly linked to a specific disease.",
+        "Koch then invented or improved many of the tools that microbiologists still use. He dried thin smears of bacteria onto glass slides and stained them with coloured dyes so they stood out under the microscope. He was also one of the first to photograph bacteria through the microscope. He needed a way to grow pure colonies of one type of bacterium, separate from all the others. He tried slices of potato and then gelatin, but gelatin melts at body temperature. In 1881, Walther Hesse, a member of his team, suggested agar, a jelly made from seaweed. The idea came from Hesse's wife, Fanny Hesse, who used agar to make jellies in her kitchen. Agar stays solid when warm, and it is still used in labs everywhere. A few years later Koch's assistant Julius Richard Petri designed the shallow round glass dish with a lid that we still call a Petri dish.",
+        "With these tools, Koch went after one of the biggest killers of his time: tuberculosis, often called TB or consumption, a disease that usually attacks the lungs. In 1882 Koch himself estimated that it caused about one in every seven deaths. The TB germ was hard to see because it is small and grows very slowly. Koch found a special staining method that made the tuberculosis bacteria stand out in blue against a brown background. On 24 March 1882 he presented his evidence to the Physiological Society in Berlin. The young scientist Paul Ehrlich, who was in the audience, later called it his single greatest scientific experience. Today the World Health Organization marks 24 March every year as World Tuberculosis Day.",
+        "In 1883 and 1884 Koch travelled to Egypt and India, where he found the comma-shaped bacterium that causes cholera and linked it to contaminated water. Not everything went well: a substance called tuberculin that he hoped would cure TB did not work as a cure. But in 1905 he received the Nobel Prize in Physiology or Medicine for his work on tuberculosis."
+      ]
+    },
+    {
+      "heading": "Koch's Postulates: Rules for Catching a Culprit",
+      "paragraphs": [
+        "Like detectives building a case for court, Koch and his assistant Friedrich Loeffler wrote down a chain of evidence for germs. They worked them out in 1884, building on ideas from Koch's old teacher Jakob Henle, and Koch refined and published them in 1890. They are known as Koch's postulates. Put simply, they say:",
+        "One: the suspected germ should be found in plenty in people or animals with the disease, and not in healthy ones. Two: scientists must be able to take the germ from a sick body and grow it by itself, in a pure culture. Three: when that pure germ is put into a healthy animal, it should cause the same disease. Four: scientists must be able to take the germ back out of that newly sick animal and show it is the same one they started with.",
+        "These rules were a huge step forward. They gave scientists a clear standard, so that claims about germs could be tested instead of just argued about. In the twenty or so years after Koch's anthrax work, researchers in Germany, France, Japan and elsewhere identified the bacteria behind many diseases, including diphtheria, typhoid, tetanus and plague. Historians sometimes call this period the golden age of bacteriology.",
+        "But Koch himself found that nature did not always follow his rules. Some people carry cholera or typhoid bacteria without becoming ill, so the first postulate does not always hold. Not everyone exposed to a germ gets sick, because some people are immune, which complicates the third rule. And some germs simply refuse to grow in a dish on their own. Koch could never make animals catch cholera in the way people do, so he could not fully complete his postulates for it, even though he had found the right germ. Today scientists use updated methods, including genetic tests, but Koch's postulates are still taught as the starting point for thinking clearly about cause and effect in disease."
+      ]
+    },
+    {
+      "heading": "Two Giants, Two Countries, One Big Rivalry",
+      "paragraphs": [
+        "Pasteur and Koch were the two greatest microbe hunters of their age, and they did not like each other much. Part of the reason was their different styles. Pasteur was a chemist who loved bold experiments and grand public demonstrations. Koch was a physician who cared most about careful methods, pure cultures and photographs. Each thought the other was sloppy in some way.",
+        "Part of the reason was history and national pride. In 1870 and 1871, France and the German states fought the Franco-Prussian War. France lost badly, and the German Empire was created. Pasteur was so upset that he sent back an honorary degree he had received from the University of Bonn in Germany. Koch had served as a doctor in the German army during the same war. When the two men argued about science a few years later, many people in France and Germany cheered for their own country's champion.",
+        "The two men were polite when they met at a medical congress in London in 1881, but soon quarrelled in print about anthrax, and in 1882 they clashed in public at a congress in Geneva. The rivalry was not always friendly, but it pushed both sides to work faster and check each other's results."
+      ]
+    },
+    {
+      "heading": "Smaller Than a Bacterium: The Discovery of Viruses",
+      "paragraphs": [
+        "By the 1890s scientists had a powerful toolkit for bacteria. A bacterium is a single living cell, usually about one to a few thousandths of a millimetre long. That is tiny, but a good light microscope can show it, especially after staining. Bacteria can grow by themselves in a dish of agar if given the right food and warmth.",
+        "Yet for some diseases, nobody could find any bacteria at all. Smallpox, rabies and measles were among them. Something was causing these illnesses, but it seemed to be invisible. The clue that cracked the mystery came not from a human disease, but from a sick plant.",
+        "Tobacco mosaic disease makes the leaves of tobacco plants mottled with light and dark patches, like a mosaic. In 1886 the German scientist Adolf Mayer showed that juice from sick leaves could pass the disease to healthy plants. In 1892 the Russian scientist Dmitri Ivanovsky pushed the infected juice through a Chamberland filter. This was a tube of unglazed porcelain invented in 1884 by Charles Chamberland, one of Pasteur's assistants, to clean drinking water. Its pores were so small that bacteria could not get through. Yet the filtered juice could still make healthy plants sick.",
+        "In 1898 the Dutch microbiologist Martinus Beijerinck, working in Delft, repeated and extended the experiments. He showed that the infectious agent in the filtered juice could multiply inside living plants, so it was not just a poison that would get weaker as it spread. But it would not grow on its own in a dish the way bacteria did. Beijerinck called it a 'contagium vivum fluidum', Latin for a contagious living fluid, and he used the word virus for it, from a Latin word meaning poison or slimy liquid. In the same year, Friedrich Loeffler, Koch's old colleague, and Paul Frosch showed that foot-and-mouth disease of cattle was also caused by a filterable agent. It was the first animal virus to be found.",
+        "Beijerinck was wrong about one thing: viruses are not a fluid. They are particles, far smaller than bacteria. Most are between about 20 and 300 millionths of a millimetre across, too small to be seen with any ordinary light microscope, because light waves are too large to show such fine detail. In 1939, German scientists using the new electron microscope, which uses beams of electrons instead of light, finally photographed tobacco mosaic virus. Tobacco mosaic virus turned out to be a stiff rod about 300 millionths of a millimetre long and 18 millionths wide.",
+        "Here is the key difference. A bacterium is a living cell that can feed and divide by itself. A virus is a tiny package of genetic instructions wrapped in a protein coat. It cannot do anything on its own. It can only copy itself by getting inside a living cell and hijacking that cell's machinery. That is why viruses would not grow on agar, and why smallpox and rabies stayed so mysterious for so long. Jenner's cowpox and the smallpox it protected against were viruses, though nobody in Jenner's day had any way to know."
+      ]
+    },
+    {
+      "heading": "A Question in Pasteur's Mind",
+      "paragraphs": [
+        "By the late 1870s the fog of miasma was clearing. Scientists now knew that specific germs cause specific diseases, that germs come from other germs, and that they can be spread by hands, water, wounds and air.",
+        "But knowing your enemy is not the same as being able to defend against it. Doctors still had no medicines that could kill bacteria inside the body; antibiotics were more than half a century away. The only weapon that had ever given lasting protection against a deadly disease was vaccination against smallpox, and nobody could yet explain how it worked.",
+        "Louis Pasteur, now in his mid-fifties and still partly paralysed from his stroke, had been thinking about Jenner. Cowpox was a mild cousin of smallpox, and catching it protected people against the deadly disease. Now that scientists could grow germs in flasks, Pasteur wondered: could a scientist take a dangerous germ and deliberately weaken it in the laboratory, so that it caused only a mild illness, or none at all, but still taught the body to resist the real thing? If that worked, perhaps there could be a 'cowpox' for every disease."
+      ]
+    }
+  ],
+  "deepDive": "Historians today warn against telling the germ theory story as a simple fight between clever heroes and foolish believers in bad air. In the mid-1800s, miasma theory was a reasonable explanation for what doctors actually saw: disease really was worse in crowded, dirty, smelly places, and cleaning those places up really did reduce illness. Many physicians also held mixed views, accepting that some diseases were 'contagious' while blaming others on local conditions. What changed minds was not one experiment but a pile-up of evidence from different directions: Snow's maps and statistics, Semmelweis's before-and-after numbers, Pasteur's flasks, Lister's surgical results and, above all, Koch's ability to show a specific microbe, grow it in pure culture, photograph it and reproduce the disease in animals. Semmelweis's data are a classic case study in medical statistics: monthly death rates in the First Clinic fell from about 18% in April 1847 to around 1–2% by mid-summer once chlorinated-lime handwashing began. Yet he lacked a mechanism, published little at first, and antagonised colleagues, which is part of why his findings were rejected; scientists sometimes call the reflex rejection of evidence that contradicts established beliefs the 'Semmelweis reflex'. Pasteur's reputation has also been re-examined. When the historian Gerald Geison studied Pasteur's private laboratory notebooks for a book published in 1995, he argued that Pasteur sometimes gave public accounts that were tidier than what actually happened in his lab, a debate that continues into the next part of this story. Koch's postulates, meanwhile, were enormously useful but never perfect: asymptomatic carriers, organisms that cannot be cultured, and diseases with several causes all break them. Viruses were the biggest exception, since they cannot be grown without living cells. Modern researchers use 'molecular' versions of the postulates, looking for a germ's genes rather than growing the whole organism, and epidemiologists use broader tests of causation such as the Bradford Hill criteria. The discovery of viruses also raised a deep question that is still debated: are viruses alive? They carry genes and evolve, but they cannot grow or copy themselves without hijacking a cell.",
+  "funFact": "The agar jelly used in microbiology labs all over the world was suggested to Robert Koch's team because Fanny Hesse already used it in her kitchen to set jellies.",
+  "check": {
+    "q": "What did Ignaz Semmelweis ask doctors to do in 1847 to stop new mothers dying of childbed fever?",
+    "a": "Wash their hands in a chlorinated lime solution",
+    "wrong": [
+      "Open all the windows to let out bad air",
+      "Boil all the patients' drinking water",
+      "Vaccinate the mothers with cowpox"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ignaz Semmelweis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ignaz_Semmelweis"
+    },
+    {
+      "title": "Miasma theory",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Miasma_theory"
+    },
+    {
+      "title": "Spontaneous generation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spontaneous_generation"
+    },
+    {
+      "title": "Louis Pasteur",
+      "publisher": "Science History Institute",
+      "url": "https://www.sciencehistory.org/education/scientific-biographies/louis-pasteur/"
+    },
+    {
+      "title": "Robert Koch",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robert_Koch"
+    },
+    {
+      "title": "Koch's postulates",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Koch%27s_postulates"
+    },
+    {
+      "title": "World Tuberculosis Day",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/campaigns/world-tb-day"
+    },
+    {
+      "title": "Tobacco mosaic virus",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tobacco_mosaic_virus"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A glass swan-neck flask like the ones Louis Pasteur used to disprove spontaneous generation, or a historical diagram of the experiment",
+      "search": "Pasteur swan neck flask experiment"
+    },
+    {
+      "want": "Portrait photograph of Robert Koch, the German doctor who identified the bacteria causing anthrax and tuberculosis",
+      "search": "Robert Koch portrait photograph"
+    },
+    {
+      "want": "Electron microscope image of rod-shaped tobacco mosaic virus particles",
+      "search": "tobacco mosaic virus electron micrograph"
+    }
+  ]
+}

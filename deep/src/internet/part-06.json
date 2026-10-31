@@ -1,0 +1,160 @@
+{
+  "n": 6,
+  "title": "A Network of Networks: TCP/IP",
+  "when": "1973 – 1983",
+  "summary": "By the 1970s there were lots of networks, but they all spoke different languages. Vint Cerf and Bob Kahn invented TCP/IP, a shared set of rules that let any network join any other. On 1 January 1983 the ARPANET switched to these rules, and the Internet as we know it was born.",
+  "sections": [
+    {
+      "heading": "Islands That Could Not Talk",
+      "paragraphs": [
+        "At the end of Part 5 we left the world of networks in a muddle. The ARPANET linked research centres across the United States. ALOHAnet carried data by radio around Hawaii. Ethernet joined computers inside an office. Britain had the NPL network, France had CYCLADES, and telephone companies were building networks of their own. Each was clever. None of them could talk to the others.",
+        "In 1972, Bob Kahn left BBN, where he had helped design the IMPs, and joined ARPA, which was soon renamed DARPA, with a D for Defense. One of the first projects he took on was a packet radio network: a way for computers in moving vehicles, or carried by people, to send packets by radio, a bit like ALOHAnet but able to hop from one radio station to another over a wider area. DARPA was also starting a packet satellite network, called SATNET. It grew out of satellite links set up in 1973 that connected the ARPANET with research sites in Norway and Britain, bouncing signals off a communications satellite far above the Atlantic.",
+        "So Kahn had a very practical problem. A radio network, a satellite network and the ARPANET were completely different beasts. Radio signals could fade when a truck drove behind a hill, or be blocked by interference. Satellite signals took about a quarter of a second to go up to the satellite and back down. The ARPANET used telephone lines and was fairly reliable. Packets had different maximum sizes on each network, and each network had its own way of addressing computers.",
+        "Kahn did not want to force everyone to rebuild their networks to look like the ARPANET. That would have been slow, expensive and probably impossible. Instead he had a more daring idea, which he called open-architecture networking. Each network could be designed however its builders liked, for whatever job it was good at. Then a single, shared set of rules would sit on top, letting packets pass from one network to the next. The networks would stay different, but they would be joined.",
+        "The Internet Society's history describes four ground rules in Kahn's plan. First, each network would stand on its own, and no network should have to change inside in order to connect. Second, delivery would be 'best effort': the networks would try their best to deliver each packet, and if one got lost, the computer that sent it would send it again. Third, networks would be connected by special boxes called gateways, which would simply pass packets along without keeping track of each conversation. Fourth, there would be no single control centre running the whole thing. Those four rules still describe the Internet remarkably well today."
+      ]
+    },
+    {
+      "heading": "Cerf and Kahn Team Up",
+      "paragraphs": [
+        "Kahn needed a partner who understood exactly how computers talked to the network. In the spring of 1973 he went to see Vint Cerf, a young assistant professor at Stanford University in California.",
+        "Cerf was born in 1943 in New Haven, Connecticut. He had been hard of hearing since childhood and has worn hearing aids for most of his life, and he has said that text messages like email suited him well. As a graduate student at UCLA in the late 1960s, he worked in Leonard Kleinrock's lab, the place where the first ARPANET IMP was installed and the famous 'LO' message was sent, as you saw in Part 4. There he worked with Steve Crocker and others on the ARPANET's first host-to-host rules, called NCP, the Network Control Program. Kahn and Cerf had first met around that time, when Kahn came to UCLA to test how the new network behaved under heavy traffic.",
+        "So the pair fitted together nicely. Kahn knew networks from the inside: the IMPs, the radio links and the satellites. Cerf knew how ordinary computers and their operating systems could be connected to a network. Cerf was also chairing the International Network Working Group, the club of network researchers formed at the 1972 ICCC conference, so he was in touch with experts from Britain, France and elsewhere.",
+        "Through the summer of 1973 they worked out the main ideas. In September 1973, at a meeting of the International Network Working Group at the University of Sussex in England, they handed round their first written version. After more polishing, their paper 'A Protocol for Packet Network Intercommunication' was published in May 1974 in IEEE Transactions on Communications, a respected engineering journal. It is one of the most important technical papers of the 20th century.",
+        "The paper described a program they called TCP, the Transmission Control Program. Its job was enormous. It had to take a stream of data from one computer, chop it into packets, put each packet into a standard 'envelope' with addresses that every network could understand, send it across as many different networks as needed, and on the far side check that everything had arrived, put the pieces back in the right order and ask for any missing ones to be sent again.",
+        "Cerf and Kahn were careful to give credit to others. Their paper thanked people whose ideas had shaped it, including Donald Davies and Roger Scantlebury of Britain's National Physical Laboratory, the team you met in Parts 3 and 5. Cerf has often said that the Internet was built by thousands of people, and that he and Kahn simply wrote down an early design. That generous view is also the historically accurate one."
+      ]
+    },
+    {
+      "heading": "Gateways: the Border Crossings",
+      "paragraphs": [
+        "To join networks, you need something at the place where they meet. Cerf and Kahn called these meeting points gateways. Today we call them routers, and there are many millions of them, from huge machines in data centres to the little box with blinking lights that probably sits in your home.",
+        "A gateway is a computer that is connected to two or more networks at once. When a packet arrives from one network, the gateway reads the Internet address on its envelope, works out which neighbouring network will bring it closer to its destination, and sends it on. If the next network can only carry smaller packets, the gateway can cut the packet into smaller pieces, which are put back together later.",
+        "Think about a parcel that has to travel from a village in Scotland to a village in Japan. It might go by a local van, then a train, then a plane, then a Japanese delivery truck. Each carrier works in its own way, with its own vehicles and timetables. What makes the whole trip possible is that every carrier respects the same address label and hands the parcel on at the right place. Gateways are the sorting depots where the parcel moves from one carrier to the next.",
+        "A very important choice was that gateways should be simple and forgetful. In Kahn's plan, a gateway does not remember which conversation a packet belongs to. It just looks at the address on each packet, sends it the right way and forgets about it. This made gateways cheap, fast and easy to build. It also meant that if one gateway broke, packets could often be sent around it by another path, because no important information was stored inside it. The full story of how a packet finds its way from router to router is the subject of Part 7."
+      ]
+    },
+    {
+      "heading": "Smart Edges, Simple Middle: the French Connection",
+      "paragraphs": [
+        "If the gateways in the middle are simple and forgetful, who makes sure your message arrives complete and in the right order? The answer is one of the deepest ideas in the Internet's design: the computers at the two ends of the conversation do it.",
+        "This is often called the end-to-end idea. The network in the middle only promises to try its best to deliver each packet. It might lose one now and then, deliver two in the wrong order or occasionally deliver a duplicate. The sending and receiving computers, at the edges of the network, number the packets, check them, put them in order and ask for any missing ones to be sent again.",
+        "Imagine sending a long story to a pen-friend as a pile of numbered postcards, the analogy you met in Part 3. The postal service does not promise that every card will arrive on time or in order. But you and your friend have a system. You number every card. Your friend lays them out in order, notices that card 17 is missing, and writes back: 'Please send 17 again.' The post office stays simple; the clever checking happens at the two ends.",
+        "This idea owes a great deal to Louis Pouzin and his CYCLADES network in France, which you met in Part 5. CYCLADES was the first network to make the host computers, rather than the network itself, responsible for reliable delivery. Its packets were called datagrams: each one was a self-contained little parcel with its full destination address, travelling on its own, with no fixed path set up in advance. The network just did its best with each datagram, and the computers at the ends took care of the rest.",
+        "The ARPANET worked differently. Its IMPs did a lot of careful work inside the network to make sure messages arrived in order, so the computers attached to it could assume the network was reliable. That was convenient, but it meant the ARPANET's host rules, NCP, could not cope with packets crossing other, less reliable networks such as packet radio. Cerf and Kahn needed something that would work over any network, even a crackly radio link, and the datagram approach fitted perfectly.",
+        "The connection between France and California was personal as well as technical. Gérard Le Lann, a researcher from the CYCLADES team, spent time working in Cerf's group at Stanford and helped bring CYCLADES ideas into the early design of TCP. Hubert Zimmermann, another member of the French team, later drew on the same experience in shaping a famous international model of network layers. Ideas crossed the Atlantic as easily as the packets would soon do.",
+        "Why is this approach so powerful? Because a simple network is easy to extend. Anyone can build a new kind of network, whether radio, cable, fibre or something not yet invented, and connect it, as long as it can carry datagrams. And because the clever parts live in the end computers, people can invent new uses for the Internet, such as the Web, video calls or online games, without asking the people who run the network for permission or waiting for them to rebuild it."
+      ]
+    },
+    {
+      "heading": "One Program Becomes Two: TCP and IP",
+      "paragraphs": [
+        "In Cerf and Kahn's 1974 design, one program, TCP, did everything: addressing, forwarding, ordering, checking and resending. During the mid-1970s, teams at Stanford, at BBN and at University College London in Britain, all funded by DARPA, wrote working versions of TCP and tested them against each other. As they did, they found that one big program doing every job was not always the best design.",
+        "One surprise came from experiments with sending voice over packet networks. For a phone-style conversation, it is better to lose a tiny scrap of sound than to wait for it to be resent. If a missing piece arrives a whole second later, the conversation has already moved on. But TCP insisted on resending every missing packet and keeping everything perfectly in order, which made live voice stutter.",
+        "Jon Postel, a researcher at the University of Southern California's Information Sciences Institute and the editor of the RFC documents for many years, argued strongly that the design should be split into layers. In a 1977 note, he wrote, 'We are screwing up in our design of Internet protocols by violating the principle of layering.' His point was that each layer should do one job well and leave other jobs to other layers.",
+        "Around 1978, the single program was split into two partners. IP, the Internet Protocol, got the simple job: put an address on each packet and pass it from network to network, doing its best but promising nothing. TCP, now called the Transmission Control Protocol, got the careful job: run on the two end computers, number the packets, put them back in order, check for missing ones and ask for them again. A third, much simpler partner, UDP, was added for programs like live voice that wanted to use IP directly and handle losses in their own way.",
+        "This is exactly where the name TCP/IP comes from: two protocols working as a team. IP is like the postal system that moves envelopes; TCP is like the careful friend who numbers the postcards and checks that the whole story has arrived. Gateways in the middle only need to understand IP. Only the computers at the edges need to run TCP.",
+        "The new version of IP, called IP version 4 or IPv4, was written in 1978, and the finished descriptions of IPv4 and TCP were published as RFCs in 1981. IPv4 gave every computer a 32-bit address. Early on, the designers split that address into 8 bits for the network and 24 bits for the computer on that network, which meant there could be only 256 networks. At the time that seemed like plenty, since only a handful of networks existed. Once Ethernet put a little network in almost every university department, it clearly was not, and the addressing scheme had to be changed. You will find out how addresses work, and why they nearly ran out, in Part 8."
+      ]
+    },
+    {
+      "heading": "The Van That Drove Into History",
+      "paragraphs": [
+        "Ideas on paper are one thing. To prove that TCP really could join different networks, the engineers needed tests, and some of the most memorable involved a large grey-silver step van owned by SRI, the research institute in Menlo Park, California, that had received the first ARPANET message in 1969.",
+        "SRI ran DARPA's packet radio experiments, and the van, fitted out by SRI engineer Don Cone, was a network node on wheels. Inside were radios, computer terminals and other equipment; on top was an oddly shaped antenna. As it drove around the San Francisco Bay Area, its radio connected it to packet radio stations on hills and buildings, and from there to a gateway at SRI that linked it to the ARPANET.",
+        "Tests across two networks came first, from 1975. One summer day, on 27 August 1976, the team parked the van beside Rossotti's, a popular old roadhouse in Portola Valley, near Stanford, today called the Alpine Inn. Sitting at a picnic table in the beer garden, they typed their regular weekly report on a terminal and sent it through the packet radio network and the ARPANET. It is a lovely thought: one of the early Internet transmissions was sent from a picnic bench outside a bar, by people who just wanted to file their homework.",
+        "The big test came on a rainy day, 22 November 1977. This time the goal was to join three completely different networks: packet radio, the ARPANET and SATNET, the satellite network. The van drove along the roads south of San Francisco, sending data by radio. From SRI's gateway the packets entered the ARPANET, which carried them right across the United States and then, over its own long-distance link, across the Atlantic to Europe and on to University College London. There, another gateway sent them into the satellite network, which bounced them back across the Atlantic to a ground station on the US East Coast. Back on the ARPANET, they crossed America once more to arrive at USC's Information Sciences Institute in Los Angeles.",
+        "Think about that route. The van and its destination were only a few hundred kilometres apart, both in California, but the packets went the long way round, across the continent, over the ocean, up to a satellite and back, on purpose. The point was to show that TCP could cope with very different networks along one path: a fading radio link, long-distance phone lines and a satellite hop with a long delay. The total journey is often described as about 150,000 kilometres, or about 94,000 miles, and the data came through intact.",
+        "More than 35 people from about eight organisations worked on the test, including engineers from SRI, BBN, Collins Radio, the satellite company Linkabit, University College London, where Peter Kirstein led the British side, and NDRE, the Norwegian Defence Research Establishment. The BBN team included Ray Tomlinson, the email pioneer from Part 5, who worked on TCP; Virginia Strazisar, who built the gateways; and Radia Perlman, whom you will meet again in Part 9. Many historians see this three-network test as the moment the Internet, as a working idea, came to life. The SRI van itself is now part of the collection of the Computer History Museum in Mountain View, California, which describes it as 'the van where the Internet was born'."
+      ]
+    },
+    {
+      "heading": "Flag Day: 1 January 1983",
+      "paragraphs": [
+        "By the early 1980s, TCP/IP worked well in experiments. But the ARPANET itself, with its hundreds of computers, still ran on the old NCP rules from 1970. Changing a working network is a bit like changing the engines on a plane while it is flying, and many computer owners were in no hurry to do the work.",
+        "The US Department of Defense, which paid for the ARPANET, helped make up their minds. It adopted TCP/IP as a defence standard in 1980, and confirmed in March 1982 that TCP/IP would be its standard for military networking. In 1981, an RFC written by Jon Postel, RFC 801, set out the plan: on 1 January 1983, the ARPANET would stop supporting NCP. After that date, any computer that had not switched to TCP/IP would no longer be able to talk to the others.",
+        "Engineers call a change like this a 'flag day': a single date when everyone must switch over together, because the old and new systems cannot work side by side for ever. Through 1982, teams at universities, companies and military sites worked hard to rewrite and test their software. Some were ready early; others rushed to finish at the last minute.",
+        "When 1 January 1983 arrived, the switch happened. It had been planned for years, and the Internet Society's history says it went smoothly, although some sites needed extra time to get everything fully working. The people who had sweated through the change were proud enough to wear buttons that read 'I survived the TCP/IP transition.'",
+        "Because this was the day the ARPANET moved onto the rules that still run the Internet, 1 January 1983 is often called the birthday of the Internet. Like most birthdays in this story, it is a useful symbol rather than a single moment of invention. The ideas were from 1973 and 1974, the first three-network test was in 1977, and the network would keep growing and changing for decades afterwards.",
+        "Two more events in 1983 helped TCP/IP spread. First, the military part of the ARPANET was split off into its own network, called MILNET, for operational defence use, while the ARPANET continued as a research network. The two stayed connected using TCP/IP, which neatly showed the point of the whole design. Second, the University of California, Berkeley, with DARPA funding, included TCP/IP in its popular version of the Unix operating system, released in 1983. Universities everywhere used Berkeley Unix, so TCP/IP suddenly arrived, free, on a huge number of computers."
+      ]
+    },
+    {
+      "heading": "Why We Call It the Internet",
+      "paragraphs": [
+        "Where does the word Internet come from? In the early 1970s, researchers talked about 'internetworking', meaning connecting networks together, and an 'internetwork' was a network made of networks. In December 1974, Vint Cerf, together with Yogen Dalal and Carl Sunshine, wrote RFC 675, the first detailed specification of TCP. In it they used the short form 'internet' for this network of networks. Over time, the one big, worldwide internetwork that used TCP/IP became known as the Internet, often written with a capital I to show that it is the name of one particular thing, like the Moon.",
+        "Here is a useful way to remember it. The prefix inter means between, as in international, between nations. The Internet is what you get between networks: all of them, joined by shared rules. Your home Wi-Fi is a network. Your school has a network. Your mobile phone company has a network. The Internet is the agreement that lets all of them pass packets to each other.",
+        "Cerf and Kahn are often called 'fathers of the Internet', and they have received many honours. They shared the Turing Award for 2004, often called the Nobel Prize of computing, and in 2005 President George W. Bush gave them the Presidential Medal of Freedom, the highest award for civilians in the United States. Kahn went on to found an organisation in Virginia that researches information networks, and Cerf later joined Google as its 'Chief Internet Evangelist' and worked on ideas for an Internet stretching into space, which you will read about in Part 20.",
+        "Yet both men are quick to point out that they did not do it alone. Baran, Davies and Kleinrock had shown how packet switching could work. The BBN team had built the IMPs. Pouzin and the CYCLADES team showed the power of datagrams and smart edges. Postel pushed for clean layers. Dozens of programmers at Stanford, BBN, University College London, SRI, USC, Norway's NDRE and many other places wrote and tested the code. The Internet was not invented by one person in one moment. It was assembled by a crowd of curious people who agreed to share open rules.",
+        "Those rules are called protocols, and TCP/IP is the most famous of them all. But rules on paper can feel abstract. What actually happens when you press Send? To find out, let's shrink ourselves down to the size of a single packet and ride along on its journey, from your screen, through the routers, to a computer on the other side of the world. That is where Part 7 begins."
+      ]
+    }
+  ],
+  "deepDive": "The design of TCP/IP was shaped by real engineering trade-offs, and historians still discuss how ideas moved between teams. One debate is about credit. Cerf and Kahn's May 1974 paper laid out the architecture, but the INWG meetings, the CYCLADES datagram network and the NPL work all fed into it, and the first full TCP specification (RFC 675, December 1974) had three authors. Historians generally credit Cerf and Kahn with the internetworking design while emphasising that it was refined by a large community. A second theme is the end-to-end argument. In a famous 1984 paper, Jerome Saltzer, David Reed and David Clark of MIT argued that functions such as reliable delivery can only be done completely by the end systems, so building them into the network core often adds cost without removing the need for end checks. This principle explains why IP offers only best-effort delivery, why routers can be relatively simple, and why new applications could be deployed without changing the network. Critics note that the modern Internet has drifted from the pure ideal: firewalls, address translation boxes and content filters now sit in the middle and inspect traffic. A third theme is the so-called Protocol Wars of the 1980s and early 1990s. Many governments and telephone companies backed the international OSI standards and X.25 virtual-circuit networks, which put more intelligence inside the network. TCP/IP won largely because it already existed in working, freely available code, especially in Berkeley Unix, while OSI was still being finalised. The early address design also shows the limits of foresight: 32-bit IPv4 addresses gave about 4.3 billion possible addresses, but the first split allowed only 256 networks, forcing later changes such as address classes (1981) and classless addressing (1993). Finally, the demonstration numbers deserve care. Accounts of the 22 November 1977 test describe a round trip of about 94,000 miles (about 150,000 km), largely because the satellite hop alone requires signals to climb to geostationary orbit about 36,000 km above the equator and come back down. Precise figures vary between retellings, so treat them as approximate.",
+  "funFact": "On 27 August 1976, one of the first transmissions linking the packet radio network and the ARPANET was sent from a picnic table in the beer garden of Rossotti's, a roadhouse near Stanford now called the Alpine Inn.",
+  "check": {
+    "q": "On what date did the ARPANET switch from its old NCP rules to TCP/IP?",
+    "a": "1 January 1983",
+    "wrong": [
+      "29 October 1969",
+      "22 November 1977",
+      "6 August 1991"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Brief History of the Internet",
+      "publisher": "Internet Society",
+      "url": "https://www.internetsociety.org/internet/history-internet/brief-history-internet/"
+    },
+    {
+      "title": "Internet History of 1970s",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/internethistory/1970s/"
+    },
+    {
+      "title": "Internet History of 1980s",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/internethistory/1980s/"
+    },
+    {
+      "title": "Born in a Van: Happy 40th Birthday to the Internet!",
+      "publisher": "Computer History Museum",
+      "url": "https://computerhistory.org/blog/born-in-a-van-happy-40th-birthday-to-the-internet/"
+    },
+    {
+      "title": "SRI van model",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/revolution/networking/19/375/2167"
+    },
+    {
+      "title": "Louis Pouzin",
+      "publisher": "Internet Hall of Fame",
+      "url": "https://www.internethalloffame.org/inductee/louis-pouzin/"
+    },
+    {
+      "title": "Internet protocol suite",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Internet_protocol_suite"
+    },
+    {
+      "title": "CYCLADES",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/CYCLADES"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Photograph of Vint Cerf and Bob Kahn together, co-designers of TCP/IP, for example at the 2005 Presidential Medal of Freedom ceremony",
+      "search": "Vint Cerf Bob Kahn"
+    },
+    {
+      "want": "The SRI packet radio van, the step van used in the 1977 three-network Internet demonstration, at the Computer History Museum",
+      "search": "SRI packet radio van"
+    },
+    {
+      "want": "Diagram or photo of the Alpine Inn (Rossotti's) roadhouse in Portola Valley, California, with its historical Internet plaque",
+      "search": "Alpine Inn Portola Valley"
+    }
+  ]
+}

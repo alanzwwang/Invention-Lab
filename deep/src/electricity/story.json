@@ -1,0 +1,528 @@
+{
+  "slug": "electricity",
+  "title": "Electricity & the Light Bulb",
+  "emoji": "💡",
+  "tagline": "From crackling amber to glowing cities: how humans tamed lightning",
+  "intro": "Flip a switch and the room fills with light. It feels like nothing, but it took people more than two thousand years to get there. In this Deep Dive you will travel from ancient Greeks rubbing amber to make straw jump, through daring experimenters who stored sparks in glass jars and flew kites in thunderstorms, to Alessandro Volta's first battery and Michael Faraday's magical spinning magnets. Then comes the great light bulb race, where Joseph Swan, Thomas Edison and many others battled to make a glow that would not burn out. You will see the first power stations switch on, watch Edison, Tesla and Westinghouse fight the War of the Currents, and follow the wires as they spread into a giant grid that changed homes, factories and whole countries. Finally we look at the problems electricity brought, the tiny LEDs that replaced old bulbs, and the wind and sunshine that may power our future. Twenty parts. Let's light it up!",
+  "outline": [
+    {
+      "n": 1,
+      "title": "A World Lit by Flames",
+      "when": "Prehistory – 1870s",
+      "covers": [
+        "What nights were like before electric light: darkness, early bedtimes, danger of fire",
+        "Fire, torches and oil lamps (stone and clay lamps burning animal fat and plant oils) going back tens of thousands of years",
+        "Candles made of tallow (animal fat) and beeswax; whale-oil lamps and the whaling industry of the 1700s–1800s",
+        "Gas lighting: William Murdoch lit his house with coal gas in the 1790s; gas streetlights spread in London from about 1812 (Gas Light and Coke Company)",
+        "Kerosene (paraffin) lamps from the 1850s made light cheaper for millions of homes",
+        "Problems with flame light: smoke, soot, smell, fires, explosions, dim light — and the cost of light for ordinary families",
+        "Set the scene: people already knew about a strange force called electricity, but nobody could use it to light a room"
+      ],
+      "keyFacts": [
+        "William Murdoch, a Scottish engineer, lit his house in Redruth, Cornwall with coal gas in about 1792",
+        "The Gas Light and Coke Company of London received its charter in 1812, the first gas company of its kind",
+        "Kerosene became widely used after oil was drilled in Pennsylvania in 1859 (Edwin Drake's well)",
+        "A single candle gives far less light than a modern LED bulb; lighting a home at night was a real expense for most families"
+      ],
+      "hook": "End by asking: what if light could come without any flame at all? The answer started with a piece of rubbed amber thousands of years ago."
+    },
+    {
+      "n": 2,
+      "title": "Amber, Electric Fish and Rubbing Machines",
+      "when": "about 600 BCE – 1740s",
+      "covers": [
+        "Ancient Greeks noticed that amber rubbed with fur attracts light things; tradition credits Thales of Miletus (about 600 BCE), but none of his own writings survive — label as tradition",
+        "The Greek word for amber, 'elektron', is where 'electricity' comes from",
+        "Ancient people knew electric fish: the Roman doctor Scribonius Largus (about 46 CE) recommended shocks from a torpedo ray for headaches",
+        "William Gilbert's book De Magnete (1600) separated magnetism from the amber effect and coined the Latin word 'electricus'",
+        "Otto von Guericke's spinning sulfur ball (1660s) — an early friction machine that made sparks",
+        "Stephen Gray (around 1729–1730) showed electricity could travel along threads, discovering conductors and insulators, and his 'flying boy' demonstration",
+        "Charles du Fay (1733) found two kinds of electricity ('vitreous' and 'resinous') — like kinds push apart, unlike kinds attract"
+      ],
+      "keyFacts": [
+        "Gilbert was physician to Queen Elizabeth I and published De Magnete in 1600",
+        "Stephen Gray sent electricity along a thread more than 200 metres long, held up by silk",
+        "Du Fay's two kinds of electricity were later renamed positive and negative by Benjamin Franklin"
+      ],
+      "hook": "End with experimenters wondering whether they could catch electricity and keep it — and someone getting a nasty surprise from a jar of water."
+    },
+    {
+      "n": 3,
+      "title": "Bottled Lightning and Benjamin Franklin",
+      "when": "1745 – 1760s",
+      "covers": [
+        "The Leyden jar: invented independently by Ewald von Kleist (1745) and Pieter van Musschenbroek in Leiden (1746) — a jar that stored electric charge and gave a big shock",
+        "Electricity as entertainment: Abbé Nollet shocking a line of about 180 royal guards in front of King Louis XV, and a long line of about 200 monks",
+        "Benjamin Franklin's electrical experiments in Philadelphia; he introduced the words 'positive', 'negative', 'charge' and 'battery' (for a row of Leyden jars)",
+        "Franklin's idea that lightning is electricity; in May 1752 Thomas-François Dalibard in France proved it first using Franklin's plan with a tall iron rod",
+        "The kite experiment (June 1752): the kite was NOT struck by lightning; it collected charge from the storm cloud, and sparks jumped from a key. Some historians debate details because Franklin described it only later",
+        "The lightning rod and how it protects buildings; Georg Wilhelm Richmann killed in St Petersburg (1753) while experimenting — a reminder of real danger"
+      ],
+      "keyFacts": [
+        "Dalibard's experiment at Marly-la-Ville took place on 10 May 1752",
+        "Franklin announced the lightning rod in Poor Richard's Almanack, published for 1753",
+        "Richmann died in August 1753, often called the first person killed by an electrical experiment"
+      ],
+      "hook": "End with electricity still only coming in sudden sparks — until an Italian doctor noticed a dead frog's leg twitching."
+    },
+    {
+      "n": 4,
+      "title": "Frog Legs and the First Battery",
+      "when": "1780 – 1801",
+      "covers": [
+        "Luigi Galvani in Bologna (1780s) saw frog legs twitch when touched with two different metals; he published his idea of 'animal electricity' in 1791",
+        "Alessandro Volta disagreed: he thought the electricity came from the two different metals, not from the frog — a friendly but serious scientific argument",
+        "The voltaic pile (1800): stacks of zinc and copper (or silver) discs separated by cardboard or cloth soaked in salt water — the first source of steady electric current",
+        "Volta's letter to Joseph Banks of the Royal Society, dated 20 March 1800",
+        "Volta demonstrated his pile to Napoleon in 1801; the unit 'volt' was later named after him (1881)",
+        "Why this matters: for the first time electricity could flow continuously, not just in one spark — the birth of the electric current",
+        "Within weeks, William Nicholson and Anthony Carlisle used a pile to split water into hydrogen and oxygen (electrolysis)"
+      ],
+      "keyFacts": [
+        "Galvani's book on 'animal electricity' was published in 1791",
+        "Volta described the pile in a letter dated 20 March 1800",
+        "Nicholson and Carlisle split water with electricity in 1800, within weeks of hearing about Volta's pile",
+        "Both men were partly right: nerves and muscles really do use electrical signals, and Volta was right about the metals"
+      ],
+      "hook": "End with batteries spreading across Europe's laboratories — and one brilliant chemist in London building the biggest battery anyone had ever seen."
+    },
+    {
+      "n": 5,
+      "title": "Davy's Dazzling Arc and Ørsted's Needle",
+      "when": "1800 – 1827",
+      "covers": [
+        "Humphry Davy at the Royal Institution in London used huge batteries to discover new elements by electrolysis: potassium and sodium (1807), then others",
+        "Davy's arc light: a dazzling bridge of light between two charcoal rods, shown publicly around 1808–1810 with a battery of about 2,000 plates — far too bright and hungry for homes",
+        "A young bookbinder's apprentice, Michael Faraday, attended Davy's lectures (1812) and became his assistant in 1813",
+        "Hans Christian Ørsted (1820) saw a compass needle move near a wire carrying current: electricity makes magnetism",
+        "André-Marie Ampère quickly worked out the maths of currents and magnetism (1820); the 'amp' is named after him",
+        "Faraday built the first electric motor in 1821 — a wire that spun around a magnet",
+        "Electromagnets: William Sturgeon (1825) and Joseph Henry's powerful magnets; Georg Ohm's law linking voltage, current and resistance (1827)"
+      ],
+      "keyFacts": [
+        "Davy isolated potassium and sodium in 1807",
+        "Ørsted announced his discovery in July 1820",
+        "Faraday showed his electromagnetic rotation (the first motor) in September 1821",
+        "Joseph Henry built electromagnets in the early 1830s able to lift around a tonne"
+      ],
+      "hook": "End with Faraday's big question: if electricity can make magnetism, can magnetism make electricity?"
+    },
+    {
+      "n": 6,
+      "title": "Faraday's Magic Ring",
+      "when": "1831 – 1880s",
+      "covers": [
+        "Faraday's experiments on 29 August 1831: two coils wound on an iron ring — switching one on or off made a brief current in the other",
+        "Moving a magnet in and out of a coil made current: electromagnetic induction — the idea behind every generator and transformer",
+        "The Faraday disc (October 1831): a copper disc spinning between magnet poles — the first electric generator (dynamo)",
+        "Joseph Henry discovered induction independently in America at about the same time but published later — fair credit to both",
+        "Hippolyte Pixii's hand-cranked generator (1832) made current from motion",
+        "Faraday's idea of invisible 'lines of force' (fields); James Clerk Maxwell turned it into equations in the 1860s, showing light is an electromagnetic wave; Heinrich Hertz made radio waves in 1887–1888",
+        "Faraday's life: no university education, famous Christmas Lectures for young people (started 1825), modest and kind"
+      ],
+      "keyFacts": [
+        "Faraday discovered electromagnetic induction on 29 August 1831",
+        "Faraday started the Royal Institution Christmas Lectures for young people in 1825; they still run today",
+        "Maxwell published his electromagnetic theory in 1865",
+        "The unit of capacitance, the farad, is named after Faraday"
+      ],
+      "hook": "End with the key that unlocked everything: now motion could make electricity — and soon people would build machines to make it by the ton."
+    },
+    {
+      "n": 7,
+      "title": "Electricity Goes to Work",
+      "when": "1837 – 1879",
+      "covers": [
+        "The electric telegraph: Cooke and Wheatstone's patent (1837) in Britain; Samuel Morse's code and his famous message 'What hath God wrought' (24 May 1844)",
+        "Transatlantic telegraph cables: 1858 (failed after weeks) and 1866 (worked) — news across the ocean in minutes",
+        "Electroplating with silver and gold, one of the first electrical industries",
+        "Better dynamos: Werner von Siemens and others found the self-exciting dynamo principle (1866–67); Zénobe Gramme's ring dynamo (1871) made steady, strong current",
+        "Arc lamps leave the lab: Pavel Yablochkov's 'electric candle' (1876) lit Paris streets in 1878; Charles Brush lit Cleveland's Public Square in 1879",
+        "The first floodlit football match at Bramall Lane, Sheffield (14 October 1878) using arc lights",
+        "The big problem: arc lights were blinding, buzzing and dangerous — great for streets, terrible for a living room. Inventors called the challenge 'subdividing the light'"
+      ],
+      "keyFacts": [
+        "Morse's first long-distance message on the Washington–Baltimore line was sent on 24 May 1844",
+        "Gramme's ring dynamo was introduced in 1871",
+        "Yablochkov candles lit the Avenue de l'Opéra in Paris in 1878",
+        "The first permanent transatlantic telegraph cable began working in 1866"
+      ],
+      "hook": "End by revealing that the answer — a small, gentle glowing wire in a glass bulb — had been chased for forty years already."
+    },
+    {
+      "n": 8,
+      "title": "The Long Race to a Gentle Glow",
+      "when": "1802 – 1879",
+      "covers": [
+        "Incandescence explained simply: heat something enough and it glows (Davy showed glowing platinum strips around 1802)",
+        "Early incandescent lamps: Warren de la Rue's platinum coil in a vacuum tube (about 1840) — worked, but platinum was too expensive",
+        "Frederick de Moleyns got the first patent for an incandescent lamp (1841, Britain); John W. Starr (USA) tried carbon in a vacuum (1845)",
+        "Alexander Lodygin in Russia patented a carbon-rod lamp (1872–1874); Henry Woodward and Mathew Evans patented a lamp in Canada (1874) and later sold rights to Edison",
+        "Why it was so hard: filaments burned up in air, melted, or blackened the glass; batteries were too costly to run lamps",
+        "The Sprengel mercury vacuum pump (Hermann Sprengel, 1865) made much better vacuums possible — a key hidden breakthrough",
+        "Historians count around twenty inventors who worked on incandescent lamps before 1879; the light bulb had many parents"
+      ],
+      "keyFacts": [
+        "De Moleyns' British patent for an incandescent lamp dates from 1841",
+        "Sprengel invented his mercury vacuum pump in 1865",
+        "Lodygin received a Russian patent for his lamp in 1874"
+      ],
+      "hook": "End with two men, one in England and one in America, closing in on the prize at the same time."
+    },
+    {
+      "n": 9,
+      "title": "Joseph Swan Lights Up Newcastle",
+      "when": "1850 – 1883",
+      "covers": [
+        "Joseph Swan, a chemist and pharmacist from Sunderland working in Newcastle, experimented with carbonised paper filaments from the 1850s, but vacuums were too poor",
+        "With better vacuum pumps (help from Charles Stearn), Swan showed a working carbon lamp to the Newcastle Chemical Society on 18 December 1878 and lectured to about 700 people on 3 February 1879",
+        "Swan's home at Underhill in Gateshead was one of the first houses lit by electric light bulbs; Cragside, Lord Armstrong's house in Northumberland, was lit by Swan lamps using hydroelectric power in 1880",
+        "The Savoy Theatre in London (1881) became the first public building lit entirely by electricity, using Swan lamps; Richard D'Oyly Carte smashed a lit bulb on stage to show it was safe",
+        "Swan's early thick carbon rods had low resistance; his later lamps used treated cotton thread filaments",
+        "Rivalry and teamwork: Edison sued in Britain, but Swan's prior work was strong, so they formed the Edison & Swan United Electric Light Company ('Ediswan') in 1883",
+        "Swan's other inventions (bromide photographic paper) and his knighthood (1904)"
+      ],
+      "keyFacts": [
+        "Swan demonstrated a carbon-filament lamp in Newcastle on 18 December 1878",
+        "The Savoy Theatre opened in October 1881 lit with more than 1,000 Swan lamps",
+        "Ediswan was formed in 1883"
+      ],
+      "hook": "End by crossing the Atlantic to a busy laboratory in New Jersey, where a famous inventor had promised the newspapers he would beat everyone."
+    },
+    {
+      "n": 10,
+      "title": "Edison's Invention Factory",
+      "when": "1876 – 1892",
+      "covers": [
+        "Thomas Edison and his Menlo Park laboratory in New Jersey (1876), already famous for the phonograph (1877)",
+        "Edison's team: Francis Upton (mathematician), Charles Batchelor, John Kruesi, glassblower Ludwig Böhm — it was team invention",
+        "The key idea: a thin, high-resistance filament so many lamps could run side by side (in parallel) on one system without needing huge copper wires",
+        "Carbonised cotton thread test in October 1879 glowed for about 13–15 hours; patent filed 4 November 1879, granted 27 January 1880",
+        "Public demonstration at Menlo Park on New Year's Eve 1879 with crowds arriving by special trains",
+        "Carbonised bamboo filaments (from 1880) lasted over 1,000 hours after testing thousands of materials",
+        "Lewis Latimer, son of people who escaped slavery, improved carbon filament making (patent 1882), joined Edison's company in 1884 and wrote a book on electric lighting; Hiram Maxim was another rival. Edison's real genius was a whole system: lamps, sockets, switches, fuses, meters, wires and generators"
+      ],
+      "keyFacts": [
+        "Edison's lamp patent (US 223,898) was granted on 27 January 1880",
+        "Edison's company tested over 6,000 plant materials in its search for a better filament",
+        "Bamboo filaments could last more than 1,200 hours",
+        "Latimer's patent for a process of manufacturing carbon filaments was granted in January 1882"
+      ],
+      "hook": "End with a question: we've met the inventors — but what actually happens inside that little glass ball when you switch it on?"
+    },
+    {
+      "n": 11,
+      "title": "Inside the Bulb: How It Works",
+      "when": "Science + 1897 – 1925",
+      "covers": [
+        "Atoms and electrons: J.J. Thomson discovered the electron in 1897; current is a flow of charge (in metal wires, electrons)",
+        "Voltage (the push), current (the flow, in amps) and resistance (how hard it is to flow) — use a water-pipe comparison and Ohm's law simply",
+        "Why a thin filament gets white-hot (around 2,500 °C) and why the bulb needs a vacuum or unreactive gas (no oxygen to burn it)",
+        "Conventional current vs electron flow: Franklin's guess made 'current' flow from + to −, but electrons actually move from − to +",
+        "Better filaments: tungsten (Just and Hanaman, 1904; William Coolidge's bendable tungsten wire, 1910); Irving Langmuir's gas-filled, coiled filament (1913)",
+        "Inefficiency: an old-style bulb turns about 90% of its energy into heat, not light",
+        "The Phoebus cartel (1924–1925): bulb companies agreed to limit lamp life to about 1,000 hours; and the Centennial Light in Livermore, California, glowing since 1901"
+      ],
+      "keyFacts": [
+        "Tungsten has the highest melting point of any metal, about 3,422 °C",
+        "Coolidge's ductile tungsten filament appeared in 1910 at General Electric",
+        "The Phoebus cartel set a 1,000-hour standard life for ordinary bulbs",
+        "The Centennial Light has been burning (with brief interruptions) since 1901"
+      ],
+      "hook": "End by pointing out that a bulb is useless without electricity reaching it — and in 1880 almost no building had any."
+    },
+    {
+      "n": 12,
+      "title": "The First Power Stations",
+      "when": "1878 – 1890",
+      "covers": [
+        "Godalming, Surrey (1881): one of the world's first public electricity supplies, using a water wheel on the River Wey for streetlights and some homes",
+        "Edison's Holborn Viaduct station in London (January 1882), an early coal-fired central power station",
+        "Pearl Street Station, New York, switched on 4 September 1882: steam engines and 'Jumbo' dynamos, about 85 customers and 400 lamps at first, including J.P. Morgan's offices and The New York Times",
+        "Appleton, Wisconsin (30 September 1882): an early hydroelectric station",
+        "How the system worked: underground cables, fuses, Edison's chemical electricity meter, 110-volt direct current (DC)",
+        "DC's big weakness: it could only travel about a mile (around 1.5 km) before too much power was lost, so a city would need power stations every mile or so"
+      ],
+      "keyFacts": [
+        "Pearl Street Station began operating on 4 September 1882",
+        "Godalming's public supply began in autumn 1881",
+        "Pearl Street's DC power could reach customers within roughly one mile of the station"
+      ],
+      "hook": "End with engineers asking: is there a way to send electricity much farther? The answer was a different kind of current that wiggles back and forth."
+    },
+    {
+      "n": 13,
+      "title": "AC, DC and the Magic of Transformers",
+      "when": "Science + 1881 – 1886",
+      "covers": [
+        "Direct current (DC) flows one way; alternating current (AC) switches direction many times a second (today 50 times in Europe and much of the world, 60 in North America)",
+        "How generators work (Faraday's induction again): spinning magnets and coils make AC naturally",
+        "Why power is lost in long wires (wires heat up) and why sending power at high voltage and low current loses much less",
+        "Transformers raise or lower AC voltage using two coils on an iron core; they don't work with steady DC",
+        "Inventors of practical transformers: Lucien Gaulard and John Dixon Gibbs (early 1880s); the Hungarian Ganz team of Károly Zipernowsky, Ottó Bláthy and Miksa Déri (1885), who named the 'transformer'",
+        "William Stanley lit the main street of Great Barrington, Massachusetts with an AC system in 1886, backed by George Westinghouse"
+      ],
+      "keyFacts": [
+        "The Ganz company engineers built closed-core transformers in 1885",
+        "Stanley's Great Barrington demonstration took place in March 1886",
+        "Doubling the current in a wire makes about four times as much heat loss — this is why high voltage is used for long distances"
+      ],
+      "hook": "End with Edison convinced AC was dangerous and Westinghouse convinced it was the future — the stage was set for a war."
+    },
+    {
+      "n": 14,
+      "title": "The War of the Currents",
+      "when": "1884 – 1896",
+      "covers": [
+        "Nikola Tesla: born in 1856 in Smiljan (in today's Croatia), arrived in New York in 1884 and worked briefly for Edison's company",
+        "Tesla's AC induction motor and polyphase system (patents and lecture in 1888); Galileo Ferraris in Italy invented an induction motor independently; Westinghouse bought Tesla's patents",
+        "The fight: Edison's side warned AC was deadly; Harold P. Brown killed animals with AC in public demonstrations; the first electric chair execution (William Kemmler, 6 August 1890)",
+        "Lauffen to Frankfurt (1891): Mikhail Dolivo-Dobrovolsky and Oskar von Miller sent three-phase AC about 175 km",
+        "Edison's company merged with Thomson-Houston to form General Electric (1892) — which then also embraced AC",
+        "Westinghouse lit the 1893 Chicago World's Fair with AC; the Niagara Falls power plant sent AC to Buffalo in November 1896",
+        "Fair ending: AC won for big grids, but DC never disappeared (batteries, electronics), and New York's Con Edison only ended its last DC service in 2007"
+      ],
+      "keyFacts": [
+        "Tesla's key AC motor patents were granted in 1888",
+        "William Kemmler was executed in the electric chair on 6 August 1890 in Auburn, New York",
+        "The Lauffen–Frankfurt line of 1891 was about 175 km long",
+        "Niagara Falls power reached Buffalo, about 20 miles away, in November 1896"
+      ],
+      "hook": "End with AC winning the argument — and power lines beginning to march across entire countries."
+    },
+    {
+      "n": 15,
+      "title": "Wiring the World: The Grid",
+      "when": "1889 – 1960s",
+      "covers": [
+        "Sebastian de Ferranti's Deptford power station in London (about 1889–1891) sent AC at 10,000 volts — a giant step toward big central stations",
+        "Charles Parsons' steam turbine (1884) made generators much more powerful; most power stations still use turbines",
+        "What a grid is: power stations, high-voltage lines, substations, transformers, and local wires, all linked so power can flow where it is needed and supply must match demand every second",
+        "Britain's National Grid: the Electricity (Supply) Act 1926 and the grid completed in 1933",
+        "America: the Tennessee Valley Authority (1933), Rural Electrification Administration (1935) bringing power to farms; the Hoover Dam (completed 1936)",
+        "Other countries: Soviet GOELRO electrification plan (1920); Japan's grid split between 50 Hz (east) and 60 Hz (west) because of early equipment from different countries"
+      ],
+      "keyFacts": [
+        "In the mid-1930s about 90% of US city homes had electricity but only about 10% of farms did",
+        "Britain's national grid was completed in 1933",
+        "Parsons built his first steam turbine generator in 1884"
+      ],
+      "hook": "End by stepping inside a home of the 1920s or 1930s to see how plugging in changed everyday life."
+    },
+    {
+      "n": 16,
+      "title": "Switched On: How Life Changed",
+      "when": "1879 – 1960s",
+      "covers": [
+        "Electric transport: Werner von Siemens' electric railway at the Berlin trade fair (1879); Frank Sprague's electric trams in Richmond, Virginia (1888); electric lifts allowed taller buildings; underground railways",
+        "Factories: electric motors replaced steam belts; safer, brighter factories and night shifts",
+        "Home appliances: electric fan (1882), electric iron (1882), motorised vacuum cleaner (Hubert Cecil Booth, 1901), washing machines, refrigerators in the 1920s–30s — less heavy housework, especially for women",
+        "Entertainment and communication: radio, cinema, television, telephones all depended on electricity",
+        "Cities at night: bright streets, night life, safer roads, illuminated signs — and the end of the old darkness",
+        "Medicine and science: X-rays (Wilhelm Röntgen, 1895), electric hospital equipment"
+      ],
+      "keyFacts": [
+        "Siemens demonstrated an electric passenger railway at the Berlin trade fair in 1879",
+        "Sprague's Richmond tram system opened in 1888",
+        "Röntgen discovered X-rays in 1895 using an electrical discharge tube"
+      ],
+      "hook": "End with a warning: all this power came with hidden costs — shocks, fires, smoke and sudden darkness."
+    },
+    {
+      "n": 17,
+      "title": "Shocks, Smoke and Blackouts",
+      "when": "1880s – today",
+      "covers": [
+        "Danger at home: electric shocks and fires; safety inventions such as fuses, circuit breakers, earth (ground) wires and safety-tested appliances (Underwriters Laboratories founded 1894)",
+        "Blackouts: the Northeast blackout of 9 November 1965 left about 30 million people without power; the 2003 North American blackout affected about 50 million",
+        "Pollution from coal power stations: smoke, acid rain, and the deadly London smog of December 1952",
+        "Climate change: burning coal, oil and gas for electricity releases carbon dioxide; electricity and heat are the biggest single source of energy-related CO2 emissions",
+        "Light pollution: most people today cannot see the Milky Way from home; effects on animals like birds and baby sea turtles",
+        "Unfairness: in the early 2020s about 700 million people worldwide still had no electricity at home, mostly in sub-Saharan Africa"
+      ],
+      "keyFacts": [
+        "The 1965 Northeast blackout began on 9 November and affected around 30 million people",
+        "The London smog of December 1952 is estimated to have caused at least 4,000 deaths, possibly many more",
+        "Studies estimate that more than 80% of the world's people live under light-polluted skies"
+      ],
+      "hook": "End by noting that engineers fought back on two fronts: lights that waste less energy, and cleaner ways to make power."
+    },
+    {
+      "n": 18,
+      "title": "Beyond the Filament: From Neon to LED",
+      "when": "1907 – today",
+      "covers": [
+        "Glowing gases: Georges Claude's neon light (shown in Paris in 1910); fluorescent tubes (patented by Edmund Germer and colleagues in the late 1920s; sold by General Electric from 1938)",
+        "Compact fluorescent lamps (CFLs): Ed Hammer at GE designed the spiral CFL in 1976",
+        "How an LED works simply: a tiny semiconductor chip gives off light when electrons drop into 'holes' — no hot filament",
+        "LED history: Henry Round saw electroluminescence (1907); Oleg Losev studied it in the 1920s; Nick Holonyak made the first visible (red) LED in 1962",
+        "The blue LED breakthrough: Isamu Akasaki, Hiroshi Amano and Shuji Nakamura (late 1980s–1993); Nobel Prize in Physics 2014. Blue + yellow phosphor = white light",
+        "Many countries phased out old incandescent bulbs from 2009 onward; LEDs use about 75% less energy and last up to 25 times longer"
+      ],
+      "keyFacts": [
+        "Holonyak demonstrated the first visible-light LED in 1962",
+        "Nakamura produced a bright blue LED at Nichia in 1993",
+        "The 2014 Nobel Prize in Physics was awarded for the invention of efficient blue LEDs"
+      ],
+      "hook": "End by saying a better bulb is only half the answer — the other half is where the electricity comes from."
+    },
+    {
+      "n": 19,
+      "title": "Power from Sun, Wind and Water",
+      "when": "1839 – today",
+      "covers": [
+        "Hydroelectric power from Niagara to giant dams such as China's Three Gorges, the largest power station in the world",
+        "Wind: James Blyth's wind turbine in Scotland (1887) and Charles Brush's in Cleveland (1888); today's turbines with blades longer than a blue whale",
+        "Solar: Edmond Becquerel found the photovoltaic effect (1839); Charles Fritts' selenium cells (1883); Bell Labs' silicon solar cell (1954, about 6% efficient); solar on satellites (Vanguard 1, 1958)",
+        "Nuclear power: Obninsk in the USSR (1954) and Calder Hall in England (1956) — low carbon, but with waste and accident concerns (Chernobyl 1986, Fukushima 2011)",
+        "Storing power: lithium-ion batteries (Nobel Prize in Chemistry 2019 for John Goodenough, Stanley Whittingham and Akira Yoshino), pumped hydro",
+        "DC's comeback: high-voltage DC (HVDC) cables, first commercially used in 1954 (Gotland, Sweden), now carry power long distances and under the sea — Edison's current gets a second chance",
+        "Prices: solar panel electricity became roughly 90% cheaper during the 2010s; renewables now make about 30% of the world's electricity"
+      ],
+      "keyFacts": [
+        "Bell Labs announced its silicon solar cell in April 1954",
+        "Obninsk became the first nuclear power plant to supply a power grid in June 1954",
+        "Renewable sources produced around 30% of the world's electricity in 2023"
+      ],
+      "hook": "End by asking what the electric world will look like when today's young readers are grown up."
+    },
+    {
+      "n": 20,
+      "title": "The Electric Future — and the Whole Story",
+      "when": "Today – the future",
+      "covers": [
+        "Smart grids, smart meters and smart bulbs that talk to each other; electric cars and heat pumps making electricity even more important",
+        "Big ideas still being worked on: nuclear fusion (the US National Ignition Facility got more energy out than its lasers put in, December 2022), superconducting cables, giant batteries, solar power for villages far from grids",
+        "Bringing power to the hundreds of millions who still don't have it",
+        "What readers can do: switch off, choose LEDs, stay safe around electricity, keep asking questions like Faraday did",
+        "Tie it all together: amber → Franklin's kite → Volta's pile → Faraday's ring → Swan and Edison's bulbs → Pearl Street → the War of the Currents → the grid → LEDs and renewables",
+        "Final message: electricity was not one person's invention but a relay race of curious people across centuries and countries"
+      ],
+      "keyFacts": [
+        "The National Ignition Facility achieved fusion ignition on 5 December 2022",
+        "Today almost every modern technology — phones, computers, hospitals, the internet — depends on electricity from a grid or battery"
+      ],
+      "hook": "Finish with the reader flipping a switch and, for a second, remembering everyone who made that light possible."
+    }
+  ],
+  "people": [
+    "Thales of Miletus (about 624 – about 546 BCE) — Greek thinker traditionally said to have noticed rubbed amber attracting objects; none of his writings survive",
+    "Scribonius Largus (about 1 – about 50 CE) — Roman doctor who recorded using shocks from torpedo rays as a treatment",
+    "William Gilbert (1544–1603) — English physician who wrote De Magnete (1600) and coined 'electricus'",
+    "Otto von Guericke (1602–1686) — German scientist and mayor of Magdeburg who built an early friction machine with a sulfur ball",
+    "Stephen Gray (1666–1736) — English dyer and amateur scientist who discovered that electricity travels through conductors",
+    "Charles François de Cisternay du Fay (1698–1739) — French chemist who found two kinds of electricity",
+    "Ewald Georg von Kleist (1700–1748) — German cleric who invented a charge-storing jar in 1745",
+    "Pieter van Musschenbroek (1692–1761) — Dutch professor in Leiden whose 1746 jar became known as the Leyden jar",
+    "Jean-Antoine Nollet (1700–1770) — French abbé and showman of electrical experiments",
+    "Benjamin Franklin (1706–1790) — American printer, scientist and statesman; showed lightning is electrical and invented the lightning rod",
+    "Thomas-François Dalibard (1709–1778) — French naturalist who first carried out Franklin's lightning experiment (May 1752)",
+    "Georg Wilhelm Richmann (1711–1753) — Baltic German physicist in St Petersburg killed while studying lightning",
+    "Luigi Galvani (1737–1798) — Italian doctor whose frog-leg experiments led to the idea of 'animal electricity'",
+    "Alessandro Volta (1745–1827) — Italian physicist who invented the voltaic pile, the first battery giving steady current (1800)",
+    "William Nicholson (1753–1815) and Anthony Carlisle (1768–1840) — English scientists who first split water with electricity (1800)",
+    "Humphry Davy (1778–1829) — English chemist who discovered elements by electrolysis and demonstrated the arc light",
+    "Hans Christian Ørsted (1777–1851) — Danish physicist who discovered that electric current affects a compass (1820)",
+    "André-Marie Ampère (1775–1836) — French physicist who described the laws of electric currents and magnetism",
+    "Georg Simon Ohm (1789–1854) — German physicist who discovered the relationship between voltage, current and resistance",
+    "William Sturgeon (1783–1850) — English inventor of the electromagnet (1825)",
+    "Joseph Henry (1797–1878) — American scientist who built powerful electromagnets and discovered induction independently",
+    "Michael Faraday (1791–1867) — English scientist who invented the first electric motor and discovered electromagnetic induction",
+    "Hippolyte Pixii (1808–1835) — French instrument maker who built an early hand-cranked generator (1832)",
+    "James Clerk Maxwell (1831–1879) — Scottish physicist whose equations united electricity, magnetism and light",
+    "Heinrich Hertz (1857–1894) — German physicist who first made and detected radio waves",
+    "William Fothergill Cooke (1806–1879) and Charles Wheatstone (1802–1875) — British inventors of an early electric telegraph",
+    "Samuel Morse (1791–1872) — American painter and inventor who developed Morse code and a telegraph system",
+    "Werner von Siemens (1816–1892) — German engineer and industrialist who developed the self-exciting dynamo and electric railways",
+    "Zénobe Gramme (1826–1901) — Belgian inventor of the ring dynamo",
+    "Pavel Yablochkov (1847–1894) — Russian engineer who invented the 'electric candle' arc lamp",
+    "Charles F. Brush (1849–1929) — American inventor of arc lighting systems and an early wind turbine",
+    "Warren de la Rue (1815–1889) — British astronomer and chemist who made an early platinum incandescent lamp",
+    "Frederick de Moleyns (1804–1854) — received the first British patent for an incandescent lamp (1841)",
+    "John Wellington Starr (about 1822–1846) — American who experimented with carbon lamps in a vacuum",
+    "Alexander Lodygin (1847–1923) — Russian engineer who patented a carbon incandescent lamp",
+    "Henry Woodward and Mathew Evans (active 1870s) — Canadians who patented an incandescent lamp in 1874",
+    "Hermann Sprengel (1834–1906) — German-born chemist who invented the mercury vacuum pump",
+    "Joseph Swan (1828–1914) — English chemist who developed a practical carbon-filament lamp and lit the first homes and theatre",
+    "Charles Stearn (active 1870s) — helped Swan achieve better vacuums in his bulbs",
+    "William Armstrong (1810–1900) — English industrialist whose house, Cragside, was lit by hydroelectric power and Swan lamps",
+    "Richard D'Oyly Carte (1844–1901) — theatre owner who lit the Savoy Theatre with electricity",
+    "Thomas Edison (1847–1931) — American inventor who led the team that made a long-lasting practical bulb and a complete electric lighting system",
+    "Francis Upton (1852–1921) — mathematician on Edison's team who calculated how the lighting system should work",
+    "Charles Batchelor (1845–1910) — Edison's chief experimental assistant",
+    "John Kruesi (1843–1899) — Swiss-born machinist who built many of Edison's devices",
+    "Ludwig Böhm (active 1870s–1880s) — German glassblower who made Edison's early bulbs",
+    "Lewis Latimer (1848–1928) — African American inventor and draftsman who improved carbon filament manufacturing",
+    "Hiram Maxim (1840–1916) — American-born inventor who ran a rival lighting company",
+    "J. J. Thomson (1856–1940) — British physicist who discovered the electron (1897)",
+    "Alexander Just (1872–1937) and Franjo Hanaman (1878–1941) — inventors of the tungsten filament lamp (1904)",
+    "William D. Coolidge (1873–1975) — American engineer who made tungsten into bendable wire for filaments",
+    "Irving Langmuir (1881–1957) — American chemist who invented the gas-filled coiled-filament lamp",
+    "Lucien Gaulard (1850–1888) and John Dixon Gibbs (1834–1912) — developed an early AC transformer system",
+    "Károly Zipernowsky (1853–1942), Ottó Bláthy (1860–1939) and Miksa Déri (1854–1938) — Hungarian engineers at Ganz who built practical closed-core transformers",
+    "William Stanley (1858–1916) — American engineer who built the first practical AC lighting system in the USA (1886)",
+    "George Westinghouse (1846–1914) — American industrialist who championed AC power",
+    "Nikola Tesla (1856–1943) — Serbian-American inventor of the AC induction motor and polyphase system",
+    "Galileo Ferraris (1847–1897) — Italian physicist who independently invented an induction motor",
+    "Harold P. Brown (1857–1944) — American engineer who campaigned against AC with cruel public demonstrations",
+    "Mikhail Dolivo-Dobrovolsky (1862–1919) — Russian engineer who developed three-phase AC equipment",
+    "Oskar von Miller (1855–1934) — German engineer who organised the Lauffen–Frankfurt power line",
+    "Sebastian Ziani de Ferranti (1864–1930) — British engineer who designed the high-voltage Deptford power station",
+    "Charles Parsons (1854–1931) — Anglo-Irish engineer who invented the modern steam turbine",
+    "Frank J. Sprague (1857–1934) — American engineer who built the first large successful electric tram system",
+    "Hubert Cecil Booth (1871–1955) — British engineer who invented the powered vacuum cleaner",
+    "Wilhelm Röntgen (1845–1923) — German physicist who discovered X-rays",
+    "Georges Claude (1870–1960) — French engineer who invented neon lighting",
+    "Edmund Germer (1901–1987) — German inventor who co-patented the fluorescent lamp",
+    "Edward Hammer (1931–2012) — American engineer who designed the spiral compact fluorescent lamp",
+    "Henry Joseph Round (1881–1966) — English engineer who first reported light from a semiconductor (1907)",
+    "Oleg Losev (1903–1942) — Russian scientist who studied light-emitting diodes in the 1920s",
+    "Nick Holonyak Jr. (1928–2022) — American engineer who made the first visible-light LED",
+    "Isamu Akasaki (1929–2021), Hiroshi Amano (born 1960) and Shuji Nakamura (born 1954) — Japanese-born scientists who made efficient blue LEDs",
+    "Edmond Becquerel (1820–1891) — French physicist who discovered the photovoltaic effect",
+    "Charles Fritts (1850–1903) — American inventor who made early selenium solar cells",
+    "James Blyth (1839–1906) — Scottish engineer who built one of the first electricity-making wind turbines",
+    "John B. Goodenough (1922–2023), M. Stanley Whittingham (born 1941) and Akira Yoshino (born 1948) — chemists who developed the lithium-ion battery"
+  ],
+  "glossary": [
+    "static electricity — electric charge that builds up on a surface and stays there until it jumps away as a spark",
+    "charge — a property of tiny particles; positive and negative charges attract, and like charges push apart",
+    "electron — a tiny negatively charged particle in every atom; moving electrons carry current in metal wires",
+    "conductor — a material electricity flows through easily, like copper",
+    "insulator — a material that blocks electricity, like rubber, glass or plastic",
+    "circuit — a complete loop that electricity can flow around",
+    "current — the flow of electric charge, measured in amps (A)",
+    "voltage — the 'push' that drives current, measured in volts (V)",
+    "resistance — how much a material holds back current, measured in ohms (Ω)",
+    "battery — a device that turns chemical energy into electrical energy (Franklin first used the word for a row of Leyden jars)",
+    "electromagnet — a coil of wire that becomes a magnet when current flows through it",
+    "electromagnetic induction — making electricity by moving a magnet and a wire relative to each other (or by changing a magnetic field)",
+    "generator (dynamo) — a machine that turns motion into electricity using induction",
+    "filament — the thin wire inside an incandescent bulb that glows when hot",
+    "incandescence — glowing because something is very hot",
+    "direct current (DC) — electricity that flows in one direction only",
+    "alternating current (AC) — electricity that switches direction many times a second",
+    "transformer — a device with two coils that raises or lowers AC voltage",
+    "grid — the network of power stations, power lines and substations that delivers electricity",
+    "LED (light-emitting diode) — a tiny semiconductor chip that gives off light without a hot filament"
+  ],
+  "doNotSay": [
+    "Do NOT say Thomas Edison invented the light bulb alone or first. Many inventors made incandescent lamps before him; Edison's team made a long-lasting practical bulb and, importantly, a complete electrical system. Swan developed his lamp at the same time.",
+    "Do NOT say Benjamin Franklin 'discovered electricity' — it was known for centuries before him.",
+    "Do NOT say Franklin's kite was struck by lightning. It collected charge from the stormy air; a direct strike would likely have killed him. Note that some historians question the details of the kite story.",
+    "Do NOT say Thales definitely discovered static electricity; it is a later tradition, and none of his writings survive.",
+    "Do NOT present the 'Baghdad battery' as a proven ancient battery; its use is unknown and the claim is speculation.",
+    "Do NOT say Heinrich Göbel invented a working light bulb in the 1850s; this claim is not supported by evidence.",
+    "Do NOT say Edison personally electrocuted Topsy the elephant as part of the War of the Currents. Topsy was killed at Coney Island in 1903 by its owners, years after the war ended; an Edison film company recorded it.",
+    "Do NOT tell Tesla's '$50,000 joke' story with Edison as certain fact; it comes from Tesla's own later account — call it a story told by Tesla.",
+    "Do NOT say Tesla invented alternating current. AC was known earlier; Tesla invented a practical AC induction motor and polyphase system, and Ferraris, the Ganz engineers, Gaulard and Gibbs, Stanley and Westinghouse all played key roles.",
+    "Do NOT present the War of the Currents as heroes versus villains; describe both sides fairly.",
+    "Do NOT quote Edison's 'I have not failed, I've found 10,000 ways that won't work' or Faraday's 'one day sir, you may tax it' as exact, verified quotes — they are popular sayings of uncertain origin.",
+    "Do NOT say Edison's first successful bulb burned for 40 hours as a firm fact; lab records point to about 13–15 hours for the October 1879 cotton-thread test.",
+    "Do NOT say electricity is 'used up' in a bulb. The charge keeps flowing around the circuit; energy is converted to light and heat.",
+    "Do NOT say electrons zoom through wires at the speed of light. The electrons themselves drift slowly; the electrical signal/energy travels very fast.",
+    "Do NOT say 'lightning never strikes the same place twice' — it often does, especially tall buildings.",
+    "Do NOT say Ørsted, Galvani or anyone else 'discovered electricity by accident' in one moment; discoveries built on earlier work.",
+    "Do NOT say AC 'killed' DC entirely; DC is used in batteries, electronics, and modern HVDC power lines."
+  ]
+}

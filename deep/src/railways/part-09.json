@@ -1,0 +1,154 @@
+{
+  "n": 9,
+  "title": "Inside a Steam Locomotive",
+  "when": "How it works",
+  "summary": "A steam engine is like a giant kettle on wheels. A fire boils water, the steam pushes pistons back and forth, and rods turn the big wheels round. Every puff you hear is used steam rushing up the chimney to make the fire burn even hotter!",
+  "sections": [
+    {
+      "heading": "On the Footplate: Crew and Firebox",
+      "paragraphs": [
+        "Imagine climbing a set of steep iron steps on a cold morning and stepping into the cab of a big steam locomotive. Railway people call this open-backed space the footplate. The first thing you notice is the heat. In front of you is a small round or oval door, and when it swings open you see a roaring orange fire so bright you have to squint. The second thing you notice is the noise: hissing pipes, a gentle roar from the fire, the clank of metal and, somewhere above your head, the rumble of boiling water.",
+        "Two people normally work here, and they have very different jobs. The driver (called the engineer in North America) is in charge of the train. The driver opens and closes the steam supply, decides how hard the engine should work, watches the signals beside the track and puts on the brakes. The fireman looks after the fire and the water. That sounds simple, but it is one of the hardest jobs ever done on a railway. The fireman shovels coal into the fire, keeps the right amount of water in the boiler, watches the steam pressure gauge and helps look out for signals on his side of the cab.",
+        "Every steam locomotive starts with a fire. In Britain the fuel was nearly always coal, but early American engines mostly burned wood until about 1870, and some later engines burned oil sprayed in as a fine mist. The fire burns inside a box called the firebox, at the back of the engine, right next to the cab. The floor of the firebox is a grate: a set of iron bars with gaps between them. Coal sits on the bars, air comes up through the gaps from underneath, and ash falls down through the gaps into a tray called the ashpan. On many engines a sloping shelf of fireproof bricks, called the brick arch, sits above the fire. It makes the hot gases take a longer path, so more of the smoke burns up and more heat stays inside the engine.",
+        "Firing was a real skill, not just brute strength. The fireman did not simply hurl coal into the middle of the fire. He spread it in a careful pattern, often thicker at the back corners and thinner at the front, so that the whole grate burned evenly. A shovelful thrown in the wrong place could make a hole in the fire, letting cold air rush through and cool the boiler. On a long, fast run with a big express engine, a fireman could shovel several tonnes of coal in a single shift, all while the cab swayed and bounced at high speed. Some very large engines, especially in America, later used a mechanical stoker, a screw conveyor that carried coal from the tender to the fire, because no human could shovel fast enough to feed them.",
+        "The firebox itself was a box inside a box. The inner box, where the fire burned, was usually made of copper in Britain and steel in America. The outer box was made of steel. In between was a narrow space filled with water. The two walls were held together by hundreds of short metal rods called stays, because the steam pressure was always trying to push them apart. This water jacket did two jobs at once. It soaked up heat from the fire, and it stopped the metal of the firebox from getting so hot that it went soft.",
+        "The most dangerous place in the whole engine was the top of the inner firebox, called the crown sheet. It sat right above the hottest part of the fire, and it stayed safe only as long as water covered it. If the water level fell too low, the crown sheet could overheat, weaken and give way under pressure, causing a terrible boiler explosion. To guard against this, many boilers had a fusible plug screwed into the crown sheet. It was a metal plug with a core made of a metal that melts at a low temperature. While water covered it, the plug stayed cool. If the water dropped below it, the core melted and a jet of steam blew down into the firebox, warning the crew and damping the fire. The idea is credited to Richard Trevithick, who came up with it in 1803 after one of his boilers exploded because a worker let the water run low. He shared the idea freely instead of patenting it."
+      ]
+    },
+    {
+      "heading": "The Boiler: A Giant Kettle Full of Tubes",
+      "paragraphs": [
+        "In front of the firebox stretches the long, round barrel that makes a steam locomotive look the way it does. This is the boiler, and it is mostly full of water. If the boiler were just a big empty tank with a fire at one end, it would take ages to heat up, like trying to boil a bathtub with a candle. The clever trick, which made Rocket so successful at Rainhill in 1829, is the fire-tube.",
+        "Running from the front wall of the firebox all the way to the front of the boiler are dozens, or on big engines more than a hundred, metal tubes. The hot gases from the fire do not go straight up a chimney. Instead they are pulled forward through these tubes. Each tube is completely surrounded by water. That means the heat has an enormous area of metal to pass through. Rocket had 25 copper tubes; a large twentieth-century engine might have well over a hundred small tubes plus a few much bigger ones.",
+        "As the water boils, the steam collects in the space above the water. When water turns into steam at normal air pressure, it expands to roughly 1,600 times its volume, so a single litre of water can become well over a cubic metre of steam. Inside a boiler, though, the steam cannot escape, so instead of spreading out it builds up pressure. Early engines like Rocket worked at about 50 pounds per square inch. By the twentieth century many express engines worked at 200 to 250 pounds per square inch or more. That is more than ten times the pressure of the air around us, pressing on every square centimetre of the boiler from the inside. This is why boilers had to be made of thick steel plates joined with thousands of rivets, and why they were tested and inspected so carefully.",
+        "Many boilers have a dome on top, like a little hat. The highest point in the boiler is the best place to collect steam, because it is furthest from the splashing water, and the steam taken from there is drier. Water droplets are a nuisance: they carry no useful energy and can damage the cylinders. To get even better steam, most later engines added a superheater. After the steam leaves the boiler, it is sent back through thin pipes placed inside some of the larger fire-tubes, where the hot gases heat it far above its boiling point. This makes the steam completely dry and gives it more energy. The German engineer Wilhelm Schmidt developed the first practical superheaters in the 1880s and 1890s, and one British railway's tests in 1915 found that engines using superheated steam burned nearly a fifth less coal per mile. During the early twentieth century, superheaters spread to most new main-line engines.",
+        "The boiler also needs a steady supply of fresh water, and that is harder than it sounds. You cannot just pour water into a tank that is already pressed full of high-pressure steam; it would blast straight back out at you. The answer was the injector, invented by the French engineer Henri Giffard and patented in 1858. It uses a jet of steam, shot through cone-shaped nozzles, to push a stream of water into the boiler against the boiler's own pressure. It works because the jet of fast-moving steam condenses into the water and gives it a huge push. The fireman also kept a close eye on the gauge glasses: thick glass tubes on the back of the boiler in which he could see the actual water level bobbing up and down."
+      ]
+    },
+    {
+      "heading": "Regulator, Cylinders and Pistons: Turning Steam Into Motion",
+      "paragraphs": [
+        "So far we have a boiler full of hot, high-pressure steam. Now we need to turn that pressure into movement. The driver does this with the regulator, which drivers in America call the throttle. It is a valve, usually tucked up inside the dome, worked by a long handle in the cab. When the regulator is closed, the steam stays in the boiler. When the driver eases it open, steam rushes along a big pipe toward the front of the engine and into the cylinders.",
+        "A cylinder is a strong metal tube, closed at both ends, with a close-fitting metal disc inside it called a piston. The piston can slide from one end of the cylinder to the other. When steam is let in at one end, its pressure pushes the piston toward the other end. Then steam is let in at the other end, and the piston is pushed back again. Because steam pushes on both sides in turn, railway engineers call this double-acting. Most locomotives have two cylinders, one on each side near the front, though some powerful engines had three or four.",
+        "A rod called the piston rod sticks out of the cylinder and is joined to a sliding block called the crosshead, which runs along a guide bar so that it moves perfectly straight. From the crosshead, a long, heavy rod called the connecting rod reaches back to a crank pin fixed to one of the big wheels, a little way out from the centre. As the piston moves back and forth, the connecting rod pulls and pushes on the crank pin, and the wheel turns round. It is the same idea as your legs pushing the pedals of a bicycle: a straight push becomes a turning motion.",
+        "There is a problem with just one cylinder, though. When the piston is right at the end of its stroke, the connecting rod is lined up straight with the centre of the wheel. Pushing on it then would be like pushing a door exactly on its hinges: nothing would turn. Engineers call this point dead centre. The solution is to set the cranks on the two sides of the engine a quarter of a turn (90 degrees) apart. Whenever one side is at dead centre, the other side is halfway through its stroke and pushing hard. With two double-acting cylinders, the engine gets four pushes for every turn of the driving wheels, which is why a steam engine starting slowly makes four distinct chuffs per wheel turn.",
+        "Most engines have more than one pair of driving wheels. The extra pairs are joined to the first by coupling rods, the long rods you can see swinging along the side of a steam engine, so that all the driving wheels turn together and share the work of gripping the rails. More driving wheels means more grip, which helps for heavy freight trains. Bigger driving wheels mean more distance covered per turn, which helps for fast passenger trains. A fast express engine might have driving wheels taller than an adult, about 2 metres across, while a slow, powerful freight engine might have smaller wheels but more of them."
+      ]
+    },
+    {
+      "heading": "Valve Gear: The Engine's Clever Timekeeper",
+      "paragraphs": [
+        "Something has to decide when the steam goes into each end of the cylinder and when the used steam is let out. That job belongs to the valves, and the rods and links that move them are called the valve gear. If you watch a steam engine moving slowly, the valve gear is the busy tangle of smaller rods that dance alongside the big connecting and coupling rods. It may look complicated, but its job can be described simply.",
+        "Above or beside each cylinder is a small chamber called the steam chest, with a sliding valve inside it. As the valve slides one way, it opens a port to let fresh steam into the front of the cylinder while opening another port to let the old steam out of the back. As it slides the other way, it does the opposite. The valve gear is driven by the turning wheels themselves, so the valves always move in perfect step with the pistons, however fast or slow the engine goes.",
+        "Valve gear also lets the driver go backwards. By moving the reversing lever, or turning a reversing screw, the driver changes the timing of the valves so that steam pushes the pistons at the opposite moments, and the wheels turn the other way. There were many different designs. In the nineteenth century the most common was Stephenson valve gear, which used two off-centre discs called eccentrics on the driving axle and a curved slotted link to choose between them. It was usually hidden between the frames under the boiler. Later engines very often used Walschaerts valve gear, devised in Belgium by Egide Walschaerts. It was mounted outside the wheels, where it was much easier for the crew to oil and repair.",
+        "The cleverest thing about valve gear is something called cutoff. The driver does not have to let steam into the cylinder for the whole length of the piston's stroke. He can let it in for, say, the first half and then shut it off. The trapped steam keeps on pushing as it expands, a bit like a spring uncoiling, and it gives up much more of its energy before it is let out. When starting a heavy train, the driver uses a long cutoff, perhaps 75 percent of the stroke, to get the biggest possible push. Once the train is rolling fast, the driver winds the reverser back toward the middle so that steam is cut off after only about 15 or 20 percent of the stroke, or even less. Drivers called this notching up, and it saved a great deal of coal and water."
+      ]
+    },
+    {
+      "heading": "Chuff, Roar and Whistle: The Blastpipe and Safety Valve",
+      "paragraphs": [
+        "After the steam has done its work in the cylinders, it still has a job to do. Instead of being thrown away at the side of the track, it is piped forward into the smokebox and shot upward through a nozzle called the blastpipe, straight up the chimney. Every time a cylinder lets out its used steam, a strong puff blasts up the chimney. That is the famous chuff, chuff, chuff of a steam train.",
+        "Each blast of steam does something very useful on the way. As it rushes up the chimney, it drags the air and smoke in the smokebox along with it, leaving behind a partial vacuum. To fill that gap, hot gases are pulled forward from the firebox through the boiler tubes, and fresh air is sucked in through the grate from below. In other words, the engine's own exhaust works like a pair of bellows, fanning the fire. Rocket used this idea at Rainhill in 1829, though, as you read in Part 7, the idea of blasting exhaust up the chimney had been tried by earlier engineers.",
+        "The best part is that this system adjusts itself. When the engine is working hard, up a hill or pulling a heavy train, it uses steam faster and the blasts come harder and quicker. That pulls more air through the fire, which burns hotter and makes steam faster, exactly when it is most needed. When the engine is coasting, the blast is gentle and the fire calms down. Engineers spent more than a century improving the shape of blastpipes and chimneys. Many later engines used double chimneys or special multiple nozzles, which let the exhaust escape more easily while still drawing the fire strongly. Mallard itself was fitted with a double chimney and blastpipe.",
+        "On top of the boiler sits the most important safety device of all: the safety valve. It is held shut by a strong spring. If the pressure inside rises above the boiler's safe working limit, the steam pushes the valve open and roars out with a deafening hiss until the pressure falls again. In 1875 the American George Richardson designed a type of safety valve that opened fully at the set pressure and closed cleanly once it had dropped, and designs based on it came into use almost everywhere. A good fireman tried to keep his engine just below the point where the safety valves lifted, because every blowing-off sent precious water and coal straight into the sky. Finally there is the whistle, a simple pipe blown by steam, which the driver sounded as a warning before tunnels and level crossings and to send signals to other railway staff."
+      ]
+    },
+    {
+      "heading": "Thirsty Giants: Tenders, Water Stops and Troughs",
+      "paragraphs": [
+        "A steam locomotive is incredibly thirsty. Every puff that goes up the chimney is water that has been boiled and thrown away, and it never comes back. Most steam locomotives do not recycle their steam at all. That means they use far more water than coal, often several times as much by weight. A big express engine working hard could boil away thousands of litres of water every hour.",
+        "That is why the biggest engines pulled a tender, a separate wagon coupled permanently behind the cab. A typical tender was built around a large U-shaped water tank, with a coal space in the middle. Smaller engines, used for short trips and shunting, carried their water in tanks along the sides of the boiler or over the top of it, and are called tank engines. Engineers usually designed a tender so that the engine would need to stop for water about twice as often as it stopped for coal, because water was much easier to find than fuel.",
+        "The giants of America needed giant tenders. The Union Pacific Big Boy engines, built from 1941 to 1944 to haul heavy freight over the mountains of Wyoming and Utah, had tenders that held about 24,000 to 25,000 US gallons of water, roughly 91,000 to 95,000 litres, enough to fill a large swimming pool, plus 28 short tons of coal. With its tender, a Big Boy was over 40 metres long and weighed more than 500 tonnes. Even so, it still had to stop regularly for water on its long climbs.",
+        "Along every main line, railways built water towers and tall metal arms called water columns or water cranes. When a train stopped, the fireman climbed onto the tender, swung the leather hose of the water column over the filler hole and opened the valve. Thousands of litres gushed in within minutes.",
+        "In Britain, an engineer found a clever way to fill up without stopping at all. John Ramsbottom, chief mechanical engineer of the London and North Western Railway, wanted to speed up the Irish Mail, the important train carrying letters from London toward Holyhead and the ferry to Ireland. In 1860 he laid the first water troughs at Mochdre on the North Wales coast. A water trough is a long, shallow metal channel laid between the rails and kept full of water. As a train raced over it, the fireman wound down a scoop under the tender. The speed of the train forced water up the scoop and into the tank. Ramsbottom found that at only 15 mph the water was lifted more than 2 metres, and at higher speeds it shot up with tremendous force.",
+        "A typical British trough was about half a kilometre long, and an engine could pick up thousands of litres in a few seconds. Picking up water at speed was exciting and sometimes very wet. Troughs were laid on nearly all of Britain's main lines, and American railways such as the Pennsylvania and the New York Central used them too, calling them track pans."
+      ]
+    },
+    {
+      "heading": "Where Does All the Energy Go?",
+      "paragraphs": [
+        "Here is the steam engine's biggest weakness. If you could measure all the energy stored in the coal shovelled into the firebox, and then measure how much of it ended up actually pulling the train, the answer would be disappointing. A typical steam locomotive turned only about 5 to 10 percent of its fuel's energy into useful pulling work. The very best, carefully designed and run engines did a little better, but even they threw away almost nine-tenths of their energy. So where did it all go?",
+        "Some of the energy never even got into the water. Part of the coal fell through the grate unburned, or was blown out of the chimney as sparks and cinders by the strong draught. Hot gases still left the chimney at high temperatures, carrying heat straight into the sky. The boiler and firebox also lost heat through their outer walls, even though they were wrapped in insulation, and on a cold, windy day that loss was larger.",
+        "The biggest loss of all was the exhaust steam. When the used steam is shot up the chimney, it is still hot and still carries most of the energy that was needed to turn water into steam in the first place. That energy, the heat needed just to make water boil into vapour, is enormous. Big stationary steam engines in factories and power stations could save much of it by cooling the used steam in a condenser, the idea James Watt patented in 1769. But a condenser is big and heavy and needs lots of cooling water, so almost all locomotives simply threw their steam away, accepting the loss in exchange for a simple engine and the fire-fanning blast from the chimney.",
+        "Remember these weaknesses, because they matter later in the story. In Part 17, you will meet engines that turned several times more of their fuel's energy into useful work, did not need water stops, could be started in minutes and needed far less daily care. Those advantages, more than anything, are why steam power eventually left the main lines of the world, even though so many people still love it."
+      ]
+    },
+    {
+      "heading": "Mallard: Steam at Full Speed",
+      "paragraphs": [
+        "Even with all those weaknesses, steam locomotives could be astonishing machines. The most famous proof came on Sunday 3 July 1938, on a long, gentle downhill stretch of the East Coast Main Line called Stoke Bank, south of Grantham in Lincolnshire.",
+        "The engine was Mallard, a blue streamlined locomotive of the London and North Eastern Railway's A4 class. It had been designed by the LNER's chief mechanical engineer, Sir Nigel Gresley, built at Doncaster Works and had entered service only four months earlier, in March 1938. The A4s had a sleek, wedge-shaped front end that was tested in a wind tunnel, so that air would flow smoothly over the engine and lift the smoke away from the driver's view. Mallard also had the improved double chimney and blastpipe you read about earlier.",
+        "That day, Mallard was officially out on brake tests, pulling a train of seven coaches. One of them was a dynamometer car, a special carriage packed with instruments that measured the train's speed and pulling force and recorded them on a roll of paper. The driver was Joseph Duddington, a very experienced engine man, and his fireman was Thomas Bray. Coming over the top of Stoke Bank, Duddington opened the engine up and let it run. Mile after mile, the speed climbed. Near the bottom of the slope, the instruments recorded a peak of 126 mph, about 203 km/h. At the time, the LNER announced the record cautiously as 125 mph.",
+        "The run came at a cost. The bearing at the big end of the middle cylinder's connecting rod overheated under the strain, and Mallard had to limp onward at reduced speed and be taken back to Doncaster Works for repairs. But the record stood, and it still stands today: no steam locomotive has ever been officially proven to go faster. There have been claims for other engines, especially in the United States and Germany, but none was measured as carefully.",
+        "But there is one more mystery to solve. The engine can push with enormous force and run at incredible speed. Yet the whole heavy train runs on just two thin strips of steel, each only a few centimetres wide on top. So what keeps it on the rails, even around curves, and how can a single engine pull such a massive load at all?"
+      ]
+    }
+  ],
+  "deepDive": "Why was steam so inefficient? Physics puts a hard ceiling on any heat engine. The French engineer Sadi Carnot showed in 1824 that the maximum possible efficiency depends on the difference between the hottest and coolest temperatures in the cycle. A locomotive boiler at around 15 bar makes saturated steam at roughly 200 degrees Celsius, and superheating might raise it to 350 or 400 degrees, but because the exhaust is thrown out of the chimney at about 100 degrees rather than cooled further in a condenser, the theoretical ceiling is already modest. Real losses then pile on top: incomplete combustion, sparks and unburned coal carried up the chimney by a fierce draught, hot flue gases, heat leaking from the boiler, friction in rods and bearings, and above all the latent heat locked in the exhaust steam. Measured figures vary with how power is defined. Engineers distinguish indicated power (measured inside the cylinders), drawbar power (measured at the coupling behind the tender, which is what actually pulls the train), and the net figure after the engine's own weight is moved. American studies suggest that typical mid-twentieth-century steam averaged roughly 6 to 8 percent from coal to drawbar. The French engineer Andre Chapelon rebuilt Paris-Orleans locomotives in the 1920s and 1930s with larger steam passages, better exhausts and high superheat, and these are usually reported as reaching about 12 percent, a figure that enthusiasts still debate. Compound engines, which used steam twice in high- and low-pressure cylinders, were another route to economy, popular in France but less so in Britain and America because they were more complicated to build and maintain. By comparison, a mid-century diesel-electric typically delivered around 25 to 30 percent or more. Historians therefore argue that the end of steam was less about speed or power than about running costs: water treatment and supply, daily servicing, crew labour, and fuel. It is also worth noting that the Mallard record is not completely without debate. The 126 mph figure comes from the peak reading of the dynamometer car trace; some analysts argue the speed sustained over a measured distance was a little lower, which is partly why the LNER first announced 125 mph. Either way, it remains the highest properly recorded speed for a steam locomotive.",
+  "funFact": "When a steam train scoops water from a trough at speed, it can pick up thousands of litres in a few seconds without stopping, a system first used in 1860 at Mochdre in North Wales.",
+  "check": {
+    "q": "What does the blastpipe do on a steam locomotive?",
+    "a": "It shoots used steam up the chimney, pulling air through the fire to make it burn hotter",
+    "wrong": [
+      "It lets the driver make the train go backwards",
+      "It pumps fresh water into the boiler",
+      "It stops the boiler from bursting when the pressure gets too high"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Steam locomotive",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Steam_locomotive"
+    },
+    {
+      "title": "LNER Class A4 4468 Mallard",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mallard_(locomotive)"
+    },
+    {
+      "title": "Water trough",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Water_trough"
+    },
+    {
+      "title": "Valve gear",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Valve_gear"
+    },
+    {
+      "title": "Superheater",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Superheater"
+    },
+    {
+      "title": "Fusible plug",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fusible_plug"
+    },
+    {
+      "title": "Union Pacific Big Boy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Union_Pacific_Big_Boy"
+    },
+    {
+      "title": "Tender (rail)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tender_(rail)"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Cutaway diagram of a steam locomotive showing the firebox, boiler tubes, smokebox, cylinders and driving wheels",
+      "search": "steam locomotive cutaway diagram boiler"
+    },
+    {
+      "want": "The blue streamlined LNER A4 locomotive Mallard on display at the National Railway Museum in York",
+      "search": "Mallard 4468 National Railway Museum"
+    },
+    {
+      "want": "The cab (footplate) of a steam locomotive with the open firebox door, regulator handle, gauges and water gauge glasses",
+      "search": "steam locomotive cab footplate firebox"
+    }
+  ]
+}

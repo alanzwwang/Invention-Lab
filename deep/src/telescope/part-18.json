@@ -1,0 +1,141 @@
+{
+  "n": 18,
+  "title": "JWST: The Golden Eye",
+  "when": "1989 – today",
+  "summary": "The James Webb Space Telescope has a giant golden mirror made of 18 hexagons and a sunshade as big as a tennis court. It had to fold up to fit inside a rocket, then unfold all by itself far out in space. Now it sees heat-light from the very first galaxies and sniffs the air of faraway planets.",
+  "sections": [
+    {
+      "heading": "Light That Got Stretched on the Way Here",
+      "paragraphs": [
+        "Imagine shouting across a canyon. Your voice takes a moment to reach the other side, so anyone listening hears you slightly in the past. Light works the same way, only much faster. Light from the Moon is about 1.3 seconds old when it reaches you; sunlight is about 8 minutes old. Light from a galaxy billions of light-years away left it billions of years ago. That makes every big telescope a kind of time machine. The farther you look, the further back in time you see.",
+        "Astronomers wanted to look all the way back to the first galaxies, which formed in the first few hundred million years after the Big Bang about 13.8 billion years ago. But there was a problem, and it comes from the discovery we met in Part 13: the universe is expanding. As light travels across expanding space for billions of years, its waves get stretched along with space itself, like a wavy line drawn on a balloon that is being blown up. Stretched waves are longer, and longer waves are redder. This is called cosmological redshift.",
+        "For the most distant galaxies, the stretching is extreme. Light that left a young galaxy as ultraviolet or blue light, waves only a few hundred nanometers long, arrives at Earth stretched to many times that length, deep into the infrared, which our eyes cannot see at all. Hubble, which sees mainly visible and ultraviolet light with a little near-infrared, could glimpse some early galaxies, but the very first ones had slipped beyond its reach. To find them, astronomers needed a big, very sensitive infrared telescope.",
+        "Infrared has other superpowers too. Stars and planets are born inside thick clouds of dust that block visible light like fog. Infrared waves are long enough to slip through much of that dust, so an infrared telescope can peek inside the cosmic nurseries. And cool things, like newborn stars, brown dwarfs and planets, give off most of their own light as infrared, the same 'heat light' that William Herschel discovered with his thermometers in 1800.",
+        "But infrared astronomy has a huge problem: everything warm glows in infrared, including the telescope itself. A telescope at room temperature shines in infrared far brighter than the faint galaxies it is trying to see, like trying to spot fireflies while holding a burning torch. Earlier infrared space telescopes such as IRAS in 1983 and NASA's Spitzer, launched in 2003, solved this by being small and chilled. The new telescope would have to be enormous and freezing cold at the same time."
+      ]
+    },
+    {
+      "heading": "Designing a Golden Giant",
+      "paragraphs": [
+        "Planning began before Hubble had even launched. In September 1989, astronomers met at the Space Telescope Science Institute in Baltimore for a workshop on a 'Next Generation Space Telescope'. In 1996, a committee led by the astronomer Alan Dressler recommended that NASA build a large infrared telescope of at least 4 meters to follow Hubble. Over the next years, the plan grew into the design that would eventually fly. In 2002, the telescope received its official name: the James Webb Space Telescope, usually shortened to JWST or simply Webb.",
+        "The heart of Webb is its primary mirror, 6.5 meters (about 21 feet) across. Hubble's mirror is 2.4 meters wide, so Webb's mirror has roughly 25 square meters of collecting area, about six times as much as Hubble's. That would be far too big to fit inside any rocket as one solid piece. So, borrowing Jerry Nelson's idea from the Keck telescopes, the engineers split it into 18 hexagonal segments, each about 1.3 meters across. The two outer columns of segments, three on each side, fold back like the leaves of a drop-leaf table so the mirror can squeeze into the rocket.",
+        "The segments are made of beryllium, a rare, light, very stiff metal. Beryllium was chosen because it is strong for its weight and, crucially, it keeps its shape well when it gets extremely cold. Each bare beryllium segment weighs only about 20 kilograms, and the whole primary mirror only about 705 kilograms, much lighter than a glass mirror of the same size would be. The back of each segment was machined into a honeycomb of ribs to save weight. Behind each segment sit seven tiny motors called actuators: six to move it in any direction and tilt it, and one to adjust its curve. They can make moves smaller than a thousandth of the width of a human hair.",
+        "The front of each segment is covered with an extremely thin layer of gold, about 100 nanometers thick. Gold is one of the best materials in the world at reflecting infrared light. Because the layer is so thin, the gold on all 18 segments together weighs only about 48 grams, roughly the weight of a golf ball. On top of the gold is a thin protective layer of glass, so the soft metal does not get scratched.",
+        "To keep the telescope cold enough, Webb has a sunshield about 21 meters by 14 meters, roughly the size of a tennis court. It is made of five layers of a special plastic film called Kapton, each thinner than a human hair, coated with aluminium, and with the two layers facing the Sun also coated with doped silicon, which gives them a purple-pink tint. The gaps between the layers let heat escape sideways into space. The result is astonishing: the side facing the Sun can reach about 85 degrees Celsius, hot enough to cook an egg, while the telescope side falls to about minus 233 degrees Celsius. NASA describes the protection as like sunscreen with an SPF of about one million.",
+        "Behind the mirror sit four scientific instruments, all kept below about 50 kelvin, which is minus 223 degrees Celsius. NIRCam, the main near-infrared camera, was built by the University of Arizona and Lockheed Martin. NIRSpec, a spectrograph that can study up to about a hundred objects at once through a grid of about a quarter of a million tiny shutters, was provided by the European Space Agency. MIRI, the mid-infrared instrument, was built by a team of European institutes together with NASA's Jet Propulsion Laboratory. Because MIRI sees even longer infrared waves, it has its own refrigerator, a cryocooler, that chills it to only about 7 degrees above absolute zero. The fourth instrument, the Fine Guidance Sensor with a science instrument called NIRISS, was built by Canada; it keeps the telescope pointed with extreme accuracy. Together they cover wavelengths from about 0.6 to 28.5 micrometers."
+      ]
+    },
+    {
+      "heading": "Three Agencies, Many Years and a Big Price Tag",
+      "paragraphs": [
+        "Webb is a partnership between NASA, the European Space Agency (ESA) and the Canadian Space Agency (CSA), with thousands of scientists, engineers and technicians from 14 countries. The prime contractor that built much of the telescope was Northrop Grumman, and the Space Telescope Science Institute in Baltimore, which also runs Hubble, operates the telescope and handles its science. ESA provided NIRSpec, much of MIRI and the Ariane 5 rocket and launch; Canada provided the Fine Guidance Sensor and NIRISS. In return, European and Canadian astronomers get guaranteed shares of observing time.",
+        "Building something this complicated, which had never been attempted before, turned out to be far harder than expected. In the late 1990s, early estimates suggested a launch around 2007 and a cost of perhaps a billion dollars or so. Those hopes were wildly optimistic. Engineers had to invent new technologies: the beryllium mirrors, the folding sunshield, new infrared detectors, the microshutters and coolers that could survive launch and then work for years at deep-space temperatures. Every new part had to be tested in giant vacuum chambers that recreated the cold of space, including the huge Chamber A at NASA's Johnson Space Center in Houston, the same chamber used to test Apollo spacecraft.",
+        "Problems kept piling up. In 2011, after costs had grown sharply, a committee of the U.S. House of Representatives even proposed cancelling the telescope, though Congress kept it alive with a cost cap, a story we will return to in Part 19. In 2018, during testing, the sunshield tore and some screws and washers came loose after a shake test, adding more delays. The launch slipped year after year. In the end, Webb's total cost, including development and its first years of operations, came to about 10 billion dollars, making it one of the most expensive science projects ever.",
+        "Why keep going? Because astronomers argued that Webb could answer questions no other machine could: how the first galaxies formed, how stars and planets are born, and what the atmospheres of distant planets are made of. And, unlike Hubble, Webb would be far beyond the reach of astronauts. There would be no repair missions. Everything had to work the first time."
+      ]
+    },
+    {
+      "heading": "Christmas Morning Launch and a Month of Nail-Biting",
+      "paragraphs": [
+        "On the morning of 25 December 2021, while many families were opening presents, an Ariane 5 rocket stood on its launch pad at Europe's Spaceport near Kourou in French Guiana, on the north-east coast of South America. Folded inside its nose cone, like a giant butterfly in a cocoon, was the James Webb Space Telescope, weighing about 6 tonnes. At 12:20 Universal Time, the rocket roared into the sky. About 27 minutes later, Webb separated from the rocket's upper stage, and cameras on the rocket filmed the telescope drifting gently away, its solar panel unfolding almost at once. Engineers in the control room cheered.",
+        "Why launch from South America on a European rocket? The Ariane 5 was part of Europe's contribution to the mission, and it had a long record of reliable launches. Kourou also sits only about 5 degrees north of the equator, where Earth's surface spins fastest, so rockets launched eastward from there get a free boost of speed. Even so, fitting Webb inside was a squeeze: the rocket's nose cone is about 5.4 meters wide, smaller than Webb's 6.5-meter mirror and far smaller than its sunshield. Everything had to be folded, rolled and tucked like a giant piece of origami.",
+        "Launch was only the start of the danger. NASA's engineers had counted 344 'single-point failures': individual parts or steps that, if any one of them failed, could ruin the whole mission. Most of them were in the deployment, the long sequence of unfolding. Hubble had been launched mostly ready to use; Webb had to assemble itself in deep space, by remote control, with no astronauts to help.",
+        "Over the next two weeks, the steps came one after another. The antenna swung out to talk to Earth. On 28 December, the two big pallets holding the folded sunshield lowered into place. Then booms slid out to stretch the sunshield wide, and over several nervous days, motors and pulleys pulled each of the five thin layers tight, one by one. The tensioning finished on 4 January 2022. On 5 January, a tripod of struts swung out and locked the small secondary mirror into place in front of the big one. Finally, on 7 and 8 January, the two folded wings of the primary mirror swung forward and latched, completing the golden hexagon. When the last latch clicked, the flight team in Baltimore erupted in applause. The hardest part of the unfolding was done.",
+        "Meanwhile, Webb kept coasting outward. On 24 January 2022, about a month after launch, a final short thruster burn placed it into its working orbit. But it still could not see clearly. Its 18 mirror segments were each pointing at slightly different places, so the first test images showed 18 separate, blurry copies of the same star. Over several months, engineers used the actuators to move each segment by tiny amounts, merging the 18 dots into one, then lining up the segments' heights to within about 50 nanometers so that they acted like a single seamless mirror. By the spring of 2022, a test picture of a star looked astonishingly sharp, and the instruments were cooled, switched on and checked one by one.",
+        "There was one more piece of good news. Because the Ariane 5 had placed Webb on its path so precisely, and the first course corrections went so well, Webb used much less fuel than expected. It was designed with enough propellant for at least 10 years of work, but NASA now estimates it has enough to keep going for about 20 years."
+      ]
+    },
+    {
+      "heading": "A Home a Million Miles Away",
+      "paragraphs": [
+        "Hubble circles Earth only a few hundred kilometers up. Webb lives much farther away: near a spot called the second Lagrange point, or L2, about 1.5 million kilometers (roughly a million miles) from Earth, on the opposite side from the Sun. That is about four times farther than the Moon.",
+        "Why there? L2 is one of five special places, named after the 18th-century mathematician Joseph-Louis Lagrange, where the pulls of the Sun and Earth balance out in a useful way. Normally, something farther from the Sun than Earth would orbit more slowly and fall behind. But at L2, Earth's extra gravity adds to the Sun's, giving just enough extra pull for an object there to keep pace with Earth, circling the Sun once a year while staying lined up behind our planet.",
+        "For Webb, that line-up is perfect. The Sun, Earth and Moon are all in roughly the same direction, so a single sunshield can block the heat and light from all three at once, keeping the telescope permanently in its own cold shadow. Its solar panel and the hot side of the shield face the Sun, while the mirror looks out into the dark. And because it is not circling Earth, Webb does not spend half its time passing in and out of Earth's shadow, heating up and cooling down as Hubble does.",
+        "Webb was not the first visitor to this neighbourhood. Earlier spacecraft had used the L2 region too, including NASA's WMAP, which mapped the afterglow of the Big Bang, and ESA's Herschel infrared telescope, named after William Herschel, and its Planck mission, launched together in 2009. ESA's Gaia spacecraft, which measured the positions and motions of more than a billion stars in our galaxy, also worked from an orbit around L2. Astronomers like it there for the same reasons Webb does: a calm, cold, steady view of the sky, with the Sun and Earth always behind you.",
+        "Webb does not sit perfectly still at L2, though. The balance there is unstable, like a marble balanced on top of a hill, so Webb actually travels in a big looping path called a halo orbit around the L2 point, taking about six months to go around. Every few weeks it fires small thrusters to stay on course. From its loop, Webb sends its data home through NASA's Deep Space Network, giant radio dishes in California, Spain and Australia."
+      ]
+    },
+    {
+      "heading": "First Light: Thousands of Galaxies in a Grain of Sand",
+      "paragraphs": [
+        "On 11 July 2022, at the White House in Washington, U.S. President Joe Biden revealed Webb's first full-colour image. It was called Webb's First Deep Field, and it showed a galaxy cluster named SMACS 0723. The cluster's enormous gravity acts like a natural magnifying glass, bending and stretching the light of even more distant galaxies behind it into glowing arcs. The picture covered a patch of sky about as big as a grain of sand held at arm's length, yet it was packed with thousands of galaxies, some seen as they were more than 13 billion years ago. It took about 12.5 hours of observing, much less time than Hubble needed for its famous deep fields.",
+        "The next day, 12 July, the rest of the first images were released. The 'Cosmic Cliffs' in the Carina Nebula looked like a mountain range of glowing gas, sparkling with hundreds of newborn stars that had been hidden in dust. The Southern Ring Nebula showed the shells of gas thrown off by a dying star. Stephan's Quintet, a group of five galaxies, revealed shock waves rippling through the gas as some of the galaxies collided. And a spectrum of a giant planet called WASP-96 b showed the clear fingerprint of water vapour in its atmosphere. Notice the six-pointed spikes around bright stars in Webb's pictures: they come from the hexagonal mirror segments and the struts that hold the secondary mirror.",
+        "Discoveries came quickly. On 25 August 2022, NASA announced that Webb had detected carbon dioxide in the atmosphere of WASP-39 b, a hot, puffy gas giant about 700 light-years away. It has roughly the mass of Saturn but is wider than Jupiter, and it circles its Sun-like star in just over four days at a temperature of about 900 degrees Celsius. When the planet passed in front of its star on 10 July 2022, a little of the starlight shone through its atmosphere on the way to Webb. NIRSpec spread that light into a spectrum and found a small bump between 4.1 and 4.6 micrometers, the signature of carbon dioxide molecules absorbing light. It was the first clear evidence of carbon dioxide on a planet outside our solar system. Webb went on to find sulfur dioxide there too, made by starlight driving chemical reactions in the planet's air, the first time this kind of photochemistry was seen on an exoplanet.",
+        "Webb also began smashing distance records. In 2024, the JADES team (the JWST Advanced Deep Extragalactic Survey) confirmed a galaxy called JADES-GS-z14-0, seen as it was about 300 million years after the Big Bang, when the universe was only about 2 percent of its present age. The galaxy is about 1,600 light-years across and surprisingly bright, and in 2025 the ALMA observatory in Chile even detected oxygen in it. Also in 2025, another team announced a galaxy called MoM-z14 that appears to be slightly more distant still. Records like these are likely to keep falling.",
+        "In October 2022, Webb also revisited one of Hubble's most famous targets, the Pillars of Creation in the Eagle Nebula. In Hubble's visible-light picture, the pillars are thick, dark towers of dust. In Webb's near-infrared view, the dust turns into a see-through haze, and hundreds of young stars, some only a few hundred thousand years old, shine out from inside and around the pillars. Side by side, the two images show exactly why an infrared telescope was worth building.",
+        "Many of these early galaxies turned out to be brighter and more mature than most astronomers had expected so soon after the Big Bang, a puzzle scientists are still working on. Webb has also found mysterious compact red objects in the young universe, nicknamed 'little red dots', studied the atmospheres of small rocky planets like those around the star TRAPPIST-1, and peered into star-forming clouds in our own galaxy. Webb and Hubble often team up: Hubble sees in visible and ultraviolet light, Webb in infrared, and together they show far more than either alone. Neither has replaced the other; both are still working."
+      ]
+    },
+    {
+      "heading": "What's in a Name?",
+      "paragraphs": [
+        "James Edwin Webb was not an astronomer. He was a government official who led NASA from 1961 to 1968, during the years when the agency was racing to put people on the Moon. He fought hard to make sure NASA did serious science, not just rocket launches, which is why NASA administrator Sean O'Keefe chose to honour him when the telescope was named in 2002.",
+        "Later, some people raised concerns. Before he led NASA, Webb had been a senior official at the U.S. State Department from 1949 to 1952, a time when the government was pushing gay and lesbian employees out of their jobs, a campaign historians now call the Lavender Scare. Starting around 2015, and especially in 2021, a number of astronomers and others asked whether Webb had played a part, and some signed a petition urging NASA to rename the telescope. Other names, such as Harriet Tubman, were suggested.",
+        "NASA asked its chief historian, Brian Odom, to investigate. After studying more than 50,000 documents in archives, the report published in November 2022 found no evidence that Webb led or encouraged the firings of people because of their sexual orientation, either at the State Department or at NASA. NASA kept the name. Some critics accepted the report, while others argued that, as a top official, Webb still bore responsibility for policies that harmed people, and some scientists and journals choose to call the telescope simply JWST. Historians continue to discuss how to judge people from the past fairly, using the evidence that survives.",
+        "Whatever you call it, the telescope itself keeps working, a golden eye floating in the dark a million miles from home. JWST shows how far telescopes have come since a Dutch spectacle maker's three-times spyglass. But building, placing and protecting telescopes has never been free of trouble, and some of those troubles are the subject of our next part."
+      ]
+    }
+  ],
+  "deepDive": "Astronomers describe cosmic distance with redshift, written z. If light leaves a galaxy with wavelength L and arrives with wavelength (1 + z) times L, the galaxy has redshift z. For JADES-GS-z14-0, z is about 14.2, so every wave has been stretched about 15 times. Hydrogen's strong ultraviolet Lyman-alpha line at 121.6 nanometers arrives near 1.85 micrometers, in the near-infrared, and almost all light shorter than that line is absorbed by neutral hydrogen gas that filled the early universe. This produces a sharp 'break' in the galaxy's colours; galaxies that vanish in bluer filters but appear in redder ones are candidates for great distance. Such photometric guesses can be fooled by dusty, nearer galaxies, so confirmation needs a spectrum, which is why NIRSpec, and later ALMA's detection of an oxygen line, mattered so much for z14-0. Why must Webb be so cold? A warm object glows most strongly at a wavelength inversely proportional to its temperature (Wien's law). A mirror at room temperature, about 300 kelvin, glows most strongly near 10 micrometers, right in Webb's range. At about 40 kelvin, the peak moves out past 70 micrometers and the glow in Webb's band is tiny. MIRI goes further, cooled to about 7 kelvin by a cryocooler, because its detectors are sensitive out to 28 micrometers. Webb's sharpness is set mainly by diffraction: at 2 micrometers, a 6.5-meter aperture gives about 0.07 arcseconds, similar to Hubble's visible-light sharpness, because Webb's larger mirror is offset by its longer wavelengths. The L2 halo orbit is unstable on a timescale of weeks, so small station-keeping burns are needed roughly every three weeks; the sunshield also acts like a small solar sail, and engineers use a trim flap and mirror pointing choices to manage the gentle push of sunlight. Scientists still debate the high abundance of bright early galaxies. Proposed explanations include more efficient star formation in early dark-matter halos, top-heavy populations of massive stars, bursts of star formation that temporarily brighten galaxies, and contributions from growing black holes. Most researchers think standard cosmology survives, but the details of early galaxy growth need revising.",
+  "funFact": "All the gold on Webb's 18 mirror segments put together weighs only about 48 grams, roughly the weight of a golf ball.",
+  "check": {
+    "q": "Why does JWST observe mainly in infrared light?",
+    "a": "Light from the earliest galaxies has been stretched into infrared by the expanding universe, and infrared can see through dust",
+    "wrong": [
+      "Because infrared light travels faster than visible light",
+      "Because it is closer to the stars than Hubble",
+      "Because gold mirrors cannot reflect visible light at all"
+    ]
+  },
+  "sources": [
+    {
+      "title": "James Webb Space Telescope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope"
+    },
+    {
+      "title": "Webb Fact Sheet",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/mission/webb/fact-sheet/"
+    },
+    {
+      "title": "James Webb Space Telescope (mission page)",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/mission/webb/"
+    },
+    {
+      "title": "NASA's Webb Detects Carbon Dioxide in Exoplanet Atmosphere",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-detects-carbon-dioxide-in-exoplanet-atmosphere/"
+    },
+    {
+      "title": "JADES-GS-z14-0",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/JADES-GS-z14-0"
+    },
+    {
+      "title": "WASP-39b",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/WASP-39b"
+    },
+    {
+      "title": "James E. Webb",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/James_E._Webb"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The golden 18-segment primary mirror of the James Webb Space Telescope fully unfolded in a NASA clean room",
+      "search": "James Webb Space Telescope primary mirror clean room"
+    },
+    {
+      "want": "The Ariane 5 rocket carrying JWST lifting off from Kourou, French Guiana, on 25 December 2021",
+      "search": "Ariane 5 JWST launch Kourou"
+    },
+    {
+      "want": "Webb's First Deep Field image of galaxy cluster SMACS 0723",
+      "search": "Webb First Deep Field SMACS 0723"
+    }
+  ]
+}

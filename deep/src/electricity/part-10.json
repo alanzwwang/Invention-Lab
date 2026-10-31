@@ -1,0 +1,155 @@
+{
+  "n": 10,
+  "title": "Edison's Invention Factory",
+  "when": "1876 – 1892",
+  "summary": "Thomas Edison built a laboratory in the New Jersey countryside where a whole team invented things together. They baked thread, paper and thousands of plants into carbon until they found filaments that glowed for hours, then for months. Then they invented everything else a light bulb needs: switches, fuses, meters, wires and generators.",
+  "sections": [
+    {
+      "heading": "The Wizard Moves to the Countryside",
+      "paragraphs": [
+        "Thomas Alva Edison was born on 11 February 1847 in Milan, Ohio, the youngest of seven children. When he was seven his family moved to Port Huron, Michigan. He went to school for only a few months. His mother taught him to read, write and do arithmetic, and after that he taught himself, devouring books on science and machines. At about thirteen he was selling newspapers and sweets to passengers on a railway line running to Detroit, and by sixteen he was working full-time as a telegraph operator, tapping out and decoding messages in Morse code. The telegraph, which you met in Part 7, taught him a huge amount about batteries, wires, magnets and circuits.",
+        "Edison began inventing improvements to the telegraph, and he was good at it. His first patent, granted in 1869, was for an electric vote recorder. In the early 1870s he ran workshops in Newark, New Jersey, and sold an important telegraph invention, the quadruplex system, which could send four messages along one wire at the same time. The money from that sale helped pay for his boldest idea yet.",
+        "In 1876 Edison sold his Newark businesses and moved his family and his team to Menlo Park, a quiet patch of New Jersey countryside about 25 miles (40 kilometres) southwest of New York City. The place was a failed housing development with a railway station and a few houses. There he built a white, two-storey wooden building that cost about 2,500 dollars and was finished on 25 March 1876. On the ground floor were a machine shop full of precision tools and an area for chemistry and scientific instruments. Upstairs was a long, bright laboratory lined with shelves of bottles and jars.",
+        "What made Menlo Park special was not one building but one idea: a place built specially for inventing, with tools, materials and skilled workers all ready for whatever project came next. It is often described as the first industrial research laboratory, a model for later research centres such as Bell Laboratories. Edison reportedly boasted that his team would turn out small inventions every few weeks and a big one every few months. People nicknamed it the 'invention factory'. By spring 1878 the staff had grown to about 25 men, including experimenters, laboratory assistants, machinists and a patternmaker who carved the wooden shapes used to cast metal parts.",
+        "The invention that made Edison world-famous was the phonograph. In early December 1877 his machinist John Kruesi built the first one from Edison's sketch: a metal cylinder wrapped in tinfoil, turned by a handle, with a needle that cut a groove as someone spoke into a horn. Turn the handle again, and the needle traced the groove and played the voice back. On 7 December 1877 Edison showed it at the office of the magazine Scientific American in New York, and in April 1878 he demonstrated it to President Rutherford B. Hayes. A machine that could capture a human voice seemed almost like magic, and the newspapers began calling Edison 'the Wizard of Menlo Park'. Later in life, Edison said he disliked being called a genius."
+      ]
+    },
+    {
+      "heading": "A Team, Not a Lone Genius",
+      "paragraphs": [
+        "Edison's name is on the patents, but the Menlo Park lab was a team, and the light bulb was team invention. Let's meet some of the people who worked in that long upstairs room.",
+        "Charles Batchelor was born on Christmas Day 1845 and grew up in Manchester, England, where he trained as a draftsman and machinist. He met Edison in Newark in 1870, and by 1873 Edison was calling him his 'chief experimental assistant'. Batchelor was patient, careful and good with his hands. He and Edison worked so closely that some of their notebooks were jointly signed 'E and B'. During the light bulb work, Batchelor carried out many of the delicate filament experiments himself, carbonising materials and mounting them in bulbs.",
+        "John Kruesi was born in Switzerland in 1843 and trained as a locksmith before moving to the United States in 1870. Edison hired him in 1872, and at Menlo Park he became head machinist. Edison would scribble a rough sketch, and Kruesi would turn it into a working machine. His work was so precise that historians say when a device failed, it was usually because the idea was wrong, not because it was badly built. Kruesi built the first phonograph and many parts of the lighting system, including generators.",
+        "Francis Upton was the team's mathematician. He had studied at Bowdoin College and Princeton University, where he earned a doctorate, and then spent a year in Berlin studying under the famous physicist Hermann von Helmholtz. Edison hired him in late 1878, first to search through all the earlier patents and scientific papers on electric lighting, and then as a mathematical and experimental assistant. Edison had brilliant instincts, but Upton could turn those instincts into equations, working out how thick the wires should be and how much power a system would need. Because of his university learning and his piano playing, Edison nicknamed him 'Culture'.",
+        "In 1879 the team gained a skilled German glassblower named Ludwig Boehm (also spelled Böhm). Every experimental bulb had to be shaped by hand from hot glass, with the filament's wire leads sealed tightly into it so no air could leak in. Boehm made bulbs and helped build better vacuum pumps, which, as you saw with Joseph Swan in Part 9, were essential to keeping a filament alive.",
+        "There were many others too, such as the machinist John Ott and his brother Fred Ott, who went on to work for Edison for fifty-seven years. Imagine the lab late at night: gas lamps hissing, a vacuum pump dripping mercury drop by drop, Batchelor peering at a glowing thread through a smoked glass, Upton scribbling sums, Kruesi's lathe whirring downstairs, and Edison wandering between benches asking questions. That noisy, crowded room is the real picture of how the light bulb was invented."
+      ]
+    },
+    {
+      "heading": "A Bold Promise and a Clever Idea",
+      "paragraphs": [
+        "Edison began serious electric light experiments in the late summer of 1878. On 8 September 1878 he travelled with Charles Batchelor, the physics professor George Barker and the chemist Charles Chandler to the workshop of William Wallace in Ansonia, Connecticut. Wallace and Moses Farmer had built a dynamo that powered a set of arc lights. Edison was fascinated. He came away convinced that he could do something better: divide that blazing arc light into many small, gentle lights for homes, the challenge called 'subdividing the light' that you met in Part 7.",
+        "Within days Edison announced to newspaper reporters that he had solved the problem of electric lighting. He had not, not yet. It was a bold, even reckless, promise, but it worked as publicity. On 16 October 1878 a group of wealthy investors, many connected with the Western Union telegraph company and the banking firm Drexel, Morgan and Company, founded the Edison Electric Light Company to pay for the research. Edison now had money, but he also had to deliver.",
+        "His first lamps used platinum, a metal that melts at a very high temperature, about 1,770 degrees Celsius. Platinum filaments could glow, but they tended to melt or fail if they got slightly too hot, and Edison's team built clever switches to cut the current when a filament overheated. Even more seriously, platinum was extremely expensive. A lighting system for a whole city made with platinum would have cost a fortune.",
+        "While the team struggled with materials, Edison and Upton thought hard about the system as a whole. Remember the problem Swan faced: low-resistance lamps need big currents, and big currents need thick, expensive copper wires. Edison wanted his lamps arranged in parallel, so that each lamp had its own path from the main wires and could be switched on and off by itself, just like a gas lamp. With lamps in parallel, every lamp you add draws extra current from the main wires.",
+        "Here is where Upton's maths mattered. The power used by a lamp equals voltage multiplied by current. If each lamp had a high resistance, it would take only a small current at a sensible voltage, around 100 volts. Small currents meant much less energy wasted as heat in the wires, so the copper cables could be far thinner and cheaper. The team's calculations showed that a high-resistance filament could cut the copper needed to a small fraction of what low-resistance lamps would require. Historians count this as one of Edison's key insights: he designed the lamp to fit the system, instead of designing the system to fit the lamp.",
+        "A high-resistance filament had to be long and very thin, like a hair. Making something that thin glow white-hot for hundreds of hours inside a glass bulb was the real problem. The team needed better vacuum pumps, better glass sealing, and the right material. They began to look closely at carbon again."
+      ]
+    },
+    {
+      "heading": "Thirteen Hours of Cotton Thread",
+      "paragraphs": [
+        "Carbon had been tried for decades, as you saw in Part 8, but now the Menlo Park team had something earlier inventors had lacked: excellent vacuum pumps, a skilled glassblower and a determination to test, test and test again. Batchelor carbonised all sorts of things: paper, card, wood shavings, fishing line, and plain cotton sewing thread. Carbonising thin thread was maddeningly difficult. The fragile black fibres snapped when someone breathed too hard, and many broke while being clamped to their wire leads.",
+        "On 22 October 1879 the team tried a lamp with a filament of carbonised cotton thread, sealed in a bulb pumped down to a very good vacuum. It began to glow. Hours passed, and it was still glowing. Lab records point to a life of roughly 13 to 15 hours; the US National Park Service, which looks after Edison's later laboratory, says it burned for about 13 and a half hours. That might not sound much, but every earlier attempt had lasted minutes or a few hours at most. It was the first successful experiment with a high-resistance carbon filament, and the team knew they had found the right path. You may read elsewhere that this first bulb burned for 40 hours, but the laboratory evidence supports the shorter figure.",
+        "Edison moved quickly to protect the idea. He signed his patent application on 1 November 1879, and it was filed at the US Patent Office on 4 November 1879. The patent, number 223,898, was granted on 27 January 1880. It described an electric lamp with a carbon filament of high resistance, made from materials such as cotton or paper, inside a glass bulb with a nearly perfect vacuum.",
+        "Over the next weeks the team improved the design. They found that carbonised paper and card could be cut into neat horseshoe-shaped filaments that were easier to make in large numbers. More lamps were blown, pumped and sealed. The lab began to prepare something Edison loved: a big public show."
+      ]
+    },
+    {
+      "heading": "New Year's Eve at Menlo Park",
+      "paragraphs": [
+        "News of the lamp leaked out. In late December 1879, newspaper stories about the new electric light sent waves of excitement across America. Edison decided to throw open the doors of Menlo Park and let the public see for themselves. The first public demonstration of his incandescent lighting system took place on 31 December 1879, New Year's Eve.",
+        "In the weeks before, John Kruesi oversaw the preparations, which were recorded carefully in an order book. Workers ran wires to the laboratory buildings and to nearby houses, and put up a line of poles carrying lamps along the road. When darkness fell, the little village glowed with dozens of steady electric lights, while the rest of rural New Jersey sat in the dark or lit by oil lamps.",
+        "Crowds came from New York, Newark and beyond, many of them arriving by train at the Menlo Park station. Imagine stepping off a cold train on a cold winter evening and seeing a row of glowing globes along a country road, then walking into a laboratory lit by lamps with no flame, no smoke and no smell. Visitors could watch lamps being switched on and off, one at a time, without affecting the others, which showed the power of the parallel system. Christie Street, the road beside the lab, became one of the first streets in the world lit by electric lamps.",
+        "Not everyone was convinced. Some experts, especially those connected to the gas industry, doubted that the lamps would last or that a whole city could ever be wired. They had a point: a lamp that lasted a few hundred hours, connected to a few generators in a village, was very different from a system lighting thousands of buildings. To win, Edison's team still needed a longer-lasting filament and a full set of machinery to make, measure and deliver electricity."
+      ]
+    },
+    {
+      "heading": "The Great Bamboo Hunt",
+      "paragraphs": [
+        "The hunt for a better filament became one of the most famous searches in the history of invention. Edison's team tested thousands of materials; by some counts, more than 6,000 different plant materials were tried, from grasses and wood fibres to cork and coconut hair. Each one had to be cut, carbonised, mounted in a bulb, pumped and lit, then timed until it failed. It was slow, patient, repetitive work, the opposite of the 'flash of genius' story people like to tell.",
+        "In the summer of 1880 the team found a winner. That summer they began testing lamps with bamboo filaments. The long, straight fibres of bamboo turned into tough, even carbon threads when carbonised, and a particular kind of bamboo from Japan proved best of all. Bamboo filaments could last more than 1,200 hours, enough to light a home for many months of evenings. Bamboo became the standard filament in Edison lamps for years, and Edison even sent people travelling to search for the best bamboo in different countries. Later, squirted cellulose filaments, made by a method similar to Joseph Swan's, took over.",
+        "Meanwhile, the lamps had found their first paying customer. Henry Villard, a businessman who had invested in Edison's company, owned a new steamship called the Columbia. In spring 1880 Edison's team installed a complete lighting plant on board, with dynamos and lamps, before the ship sailed around South America to Oregon. It was the first commercial use of Edison's incandescent lamps, and the first marine incandescent lighting plant. On a wooden ship full of passengers, a light without flames was a very welcome thing.",
+        "It is worth pausing on one famous saying. You may have seen Edison quoted as saying that he had not failed, he had just found thousands of ways that would not work. Versions of this saying are everywhere, but nobody has found a reliable record of Edison saying those exact words, so it is best treated as a popular saying rather than a true quote. What the laboratory notebooks do show is the spirit behind it: careful, stubborn testing, with every failure written down and learned from."
+      ]
+    },
+    {
+      "heading": "Rivals and the Remarkable Lewis Latimer",
+      "paragraphs": [
+        "Edison's team was not the only one in America chasing the electric lamp. One of the strongest rivals was Hiram Maxim, born in 1840 in Sangerville, Maine. In 1878 Maxim co-founded the United States Electric Lighting Company with the engineer Edward Weston. He installed what are described as the first electric lights in a New York City building, the Equitable Life Building on Broadway, and he held many patents on lamps and on ways of making carbon. Maxim argued bitterly with Edison over who deserved credit for the bulb, complaining that Edison simply understood patent law better. Another American inventor, William Sawyer, also claimed to have made carbon lamps first. In 1883 the US Patent Office ruled against part of Edison's patent because of Sawyer's earlier work, but in 1889 a judge upheld Edison's claim to the carbon filament. Maxim himself had moved to Britain in 1881, and he later became famous for a very different invention, an automatic machine gun.",
+        "Working at Maxim's company was one of the most remarkable people in this whole story. Lewis Howard Latimer was born in 1848 in Chelsea, Massachusetts. His parents, George and Rebecca Latimer, had escaped from slavery in Virginia in 1842, and George's capture in Boston became a famous court case that stirred the campaign against slavery in Massachusetts. Lewis grew up poor. At sixteen he joined the United States Navy and served in 1864 and 1865, near the end of the American Civil War.",
+        "After the war Latimer got a job as an office boy at a patent law firm in Boston. He watched the draftsmen making precise technical drawings for patents, taught himself to draw, and rose to become head draftsman. In 1876 he drew the patent drawings for Alexander Graham Bell's telephone. In 1879 he joined Maxim's United States Electric Lighting Company in Bridgeport, Connecticut.",
+        "There, Latimer tackled a nagging problem. Carbon filaments often cracked or warped while being baked, and many were wasted. Latimer developed a better way of heat-treating the filaments that reduced breakage and allowed them to be formed into neat shapes, such as the 'M'-shaped filaments used in Maxim lamps. His patent for a process of manufacturing carbons was granted on 17 January 1882. He also helped set up electric lighting systems in several cities, travelling to supervise installations.",
+        "In 1884 Latimer joined the Edison company as a draftsman and patent expert, helping to defend Edison's patents in court with his sharp eye for technical detail. In 1890 he published a book, Incandescent Electric Lighting, explaining how electric lighting systems worked. He stayed with the company after it became part of General Electric in 1892. In 1918 he became the first person of colour in the Edison Pioneers, a club of people who had worked with Edison in the early days. Latimer was also a poet and musician, taught English and drawing to immigrants, and worked for civil rights. He died in Flushing, New York, in 1928, and today he is honoured in the National Inventors Hall of Fame. His life is a reminder that the story of the light bulb includes many people whose names were left out of the textbooks for too long."
+      ]
+    },
+    {
+      "heading": "Edison's Real Genius: A Whole System",
+      "paragraphs": [
+        "If Edison did not invent the first incandescent lamp, why is he so famous for it? The best answer is that his team built not just a bulb, but everything a bulb needs to be useful. A lamp on its own is like a single tap with no pipes, reservoir or water meter. Edison's team designed the whole waterworks of electricity.",
+        "First, they needed generators. Kruesi and the team designed dynamos that gave a steady voltage, so lamps would not flicker or brighten as others were switched on and off. One early design, with two tall upright magnets, earned the funny nickname 'Long-Waisted Mary Ann' (it is also remembered as 'Long-Legged Mary Ann'). Second, they needed safe wiring. Overhead wires could be torn down by storms, so Edison planned underground cables in protective tubes, and in 1881 Kruesi was put in charge of the Edison Electric Tube Company to make them.",
+        "Third, they needed small parts that we now take for granted: screw-in lamp sockets, switches, and fuses, thin pieces of metal that melt and break the circuit if too much current flows, preventing fires. Fourth, a company selling electricity needed to know how much each customer used, so the team developed meters; Upton helped work on them. And finally, they needed central power stations to feed it all, which you will visit in Part 12.",
+        "In 1881 Edison left Menlo Park to set up factories and offices in New York, where he could build and install this system. Over the following years his electric lighting work led to many Edison electric lighting companies being set up across America and around the world. In 1887 he opened a much bigger laboratory complex in West Orange, New Jersey, and in 1892 his companies merged with a rival to form General Electric. By the end of his life, on 18 October 1931, Edison held 1,093 US patents, more than almost anyone in history.",
+        "Menlo Park itself did not survive. The buildings fell into ruin after Edison left. But the car maker Henry Ford, a great admirer of Edison, rebuilt the laboratory at his museum village, Greenfield Village in Dearborn, Michigan, using exact measurements of the original foundations and some of the original materials. It was dedicated on 21 October 1929, fifty years after the October 1879 lamp test, at a celebration called Light's Golden Jubilee. President Herbert Hoover came, and the elderly Edison himself took part, recreating the moment his team's lamp first glowed.",
+        "We have now met the inventors: Davy, de Moleyns, Swan, Edison, Batchelor, Upton, Kruesi, Boehm, Maxim, Latimer and more. But what actually happens inside that little glass ball when you flick the switch? What is the electricity doing, and why does a thin thread glow when a thick wire stays cool? To find out, we need to shrink down to the size of an atom."
+      ]
+    }
+  ],
+  "deepDive": "Historians of technology, especially Thomas P. Hughes, argue that Edison's most important contribution was not the lamp itself but a 'system' designed as a whole. The economic logic is worth following. In a parallel circuit every lamp sees the same voltage, and the total current is the sum of the lamp currents. Copper losses in the mains are I squared times R, so a district of low-resistance lamps drawing large currents would need enormous conductors. By choosing a filament with a hot resistance of very roughly 100 ohms or more, and a supply of about 100 to 110 volts, each lamp drew only around one ampere or less. Francis Upton's calculations, applying Ohm's law and Joule heating to street-length conductors, showed this could cut the weight of copper dramatically, making central-station lighting affordable against gas. That is why Edison's notes return again and again to 'high resistance'. The timeline is also debated. Edison announced success in September 1878, more than a year before he had it, partly to attract investors; the first successful high-resistance carbon test came on 22 October 1879, with lab records indicating roughly 13 to 15 hours of life, not the 40 hours sometimes claimed. Patent 223,898 was challenged for years: in 1883 the Patent Office favoured William Sawyer and Albon Man on certain claims, while in 1889 a federal court upheld Edison's carbon-filament claim. Meanwhile Britain's Ediswan merger reflected Joseph Swan's strong prior position. Another debate concerns credit inside the lab. Notebooks show that Charles Batchelor did many of the filament experiments, Upton the mathematics, John Kruesi the machines and Ludwig Boehm the glass and pumps, and Edison's company also benefited from outsiders such as Lewis Latimer, whose 1882 filament-making patent came from his time at Hiram Maxim's rival firm. Finally, there is a famous scientific side-effect: while studying why bulbs blackened, Edison's team noticed that current could flow through the vacuum from the hot filament to a separate metal plate. This 'Edison effect' was not understood until the electron was discovered, but it later became the basis of the vacuum tubes that powered radio and early computers.",
+  "funFact": "The machinist John Kruesi, who built Edison's first phonograph in 1877 from a rough sketch, later helped run General Electric's huge works in Schenectady, New York.",
+  "check": {
+    "q": "Why did Edison's team want a thin filament with high resistance?",
+    "a": "So many lamps could run side by side in parallel using small currents and thinner, cheaper copper wires",
+    "wrong": [
+      "So the bulb would glow blue instead of yellow",
+      "So the lamp would not need a glass bulb",
+      "So the lamp could run without any generator"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Chronology 1871–1880",
+      "publisher": "Thomas A. Edison Papers, Rutgers University",
+      "url": "https://edison.rutgers.edu/life-of-edison/chronology/1871-1880"
+    },
+    {
+      "title": "The Invention Factory",
+      "publisher": "Thomas A. Edison Papers, Rutgers University",
+      "url": "https://edison.rutgers.edu/life-of-edison/biographical-essays/the-invention-factory"
+    },
+    {
+      "title": "A Big Bonanza: Edison's Electric Lighting System",
+      "publisher": "Thomas A. Edison Papers, Rutgers University",
+      "url": "https://edison.rutgers.edu/life-of-edison/biographical-essays/a-big-bonanza-edison-s-electric-lighting-system"
+    },
+    {
+      "title": "Edison Biography",
+      "publisher": "US National Park Service, Thomas Edison National Historical Park",
+      "url": "https://www.nps.gov/edis/learn/historyculture/edison-biography.htm"
+    },
+    {
+      "title": "The Electric Light System, Phonograph and Motion Pictures",
+      "publisher": "US National Park Service",
+      "url": "https://www.nps.gov/edis/learn/kidsyouth/the-electric-light-system-phonograph-motion-pictures.htm"
+    },
+    {
+      "title": "Lewis Howard Latimer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lewis_Howard_Latimer"
+    },
+    {
+      "title": "Francis Robbins Upton",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Francis_Robbins_Upton"
+    },
+    {
+      "title": "Incandescent light bulb",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Incandescent_light_bulb"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Edison's Menlo Park laboratory building (the reconstruction at Greenfield Village or an 1880 engraving of the lab)",
+      "search": "Menlo Park laboratory Edison Greenfield Village"
+    },
+    {
+      "want": "An early Edison carbon-filament lamp from about 1879–1880, with its glass bulb and horseshoe-shaped filament",
+      "search": "Edison carbon filament lamp 1879"
+    },
+    {
+      "want": "Portrait photograph of Lewis Howard Latimer, inventor and draftsman",
+      "search": "Lewis Howard Latimer portrait"
+    }
+  ]
+}

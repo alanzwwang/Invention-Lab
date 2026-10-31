@@ -1,0 +1,154 @@
+{
+  "n": 14,
+  "title": "How a Telescope Really Works",
+  "when": "The science",
+  "summary": "A telescope is really a light bucket: its big lens or mirror catches far more light than your tiny eye can. Then a small lens called the eyepiece makes the picture bigger. The wider the telescope, the fainter the things it can see and the sharper the details it can show.",
+  "sections": [
+    {
+      "heading": "Bending Light: The Trick Inside Every Lens",
+      "paragraphs": [
+        "Put a straw in a glass of water and look at it from the side. The straw seems to snap in two right at the water's surface. Nothing has happened to the straw, of course. What has changed is the path of the light coming from it. This bending of light as it passes from one material into another is called refraction, and it is the secret behind every lens ever made, from Galileo's spyglass to your reading glasses.",
+        "Why does light bend? Because it changes speed. In empty space, light travels at about 300,000 kilometers per second. In air it is only a tiny bit slower. But in ordinary glass it slows to about 200,000 kilometers per second, and in water to about 225,000. When a beam of light hits glass at a slant, one side of the beam enters the glass and slows down a moment before the other side does. The beam swings around, like a marching band turning a corner where the players on the inside of the turn take shorter steps. Coming out of the glass the opposite happens, and the beam bends again.",
+        "Now shape the glass cleverly. A convex lens is thicker in the middle than at the edges. Light passing near the edge hits the glass at a steeper slant and gets bent more, while light going straight through the center is not bent at all. The result is that a whole bundle of parallel rays, such as the light from a distant star, gets bent inward and comes together at one point behind the lens. That point is called the focus. The distance from the lens to the focus is called the focal length. A strongly curved lens has a short focal length; a gently curved lens has a long one. That is why the old astronomers in Part 6 had to build such ridiculously long telescopes when they used very gently curved lenses.",
+        "If you have ever used a magnifying glass to make a tiny bright dot of sunlight on a leaf, you have seen a focus. (Never look at the Sun through the lens while doing this!) That bright dot is actually a tiny picture of the Sun. A convex lens does the same for anything: it makes a small, upside-down picture, called an image, of whatever it is pointed at, hanging in the air at the focus. Hold a magnifying glass between a window and a white sheet of paper, move the paper back and forth, and at the right distance you will see a little upside-down picture of the window and the trees outside. That floating picture is the heart of a telescope.",
+        "There is one catch. Visible light is made of many colors, with wavelengths from about 400 nanometers (violet) to about 700 nanometers (red). A nanometer is a billionth of a meter, so these waves are tiny: roughly 150 to 200 of them would fit across the thickness of a sheet of paper. Glass slows violet light a little more than red light, so violet bends a little more. That is exactly how a prism spreads white light into a rainbow, and it is also why a simple lens gives colored fringes around bright objects. This is the chromatic aberration you met in Parts 6 to 8, and it is why astronomers worked so hard on achromatic lenses and mirrors."
+      ]
+    },
+    {
+      "heading": "Two Jobs: Catch the Light, Then Enlarge It",
+      "paragraphs": [
+        "Every telescope, from a 20-dollar toy to a giant on a mountaintop, does two separate jobs. The first job belongs to the objective, the big lens or mirror at the front or bottom of the telescope. Its job is to collect as much light as possible and bring it to a focus, making that small image in the air. The second job belongs to the eyepiece, the little lens you put your eye to. Its job is to act like a magnifying glass and let you look closely at that image.",
+        "Instead of a lens, the objective can be a curved mirror. A mirror shaped like a shallow bowl, curved in a special shape called a paraboloid, sends every ray of starlight that hits it to the same single point. Because the light bounces off the front surface instead of passing through glass, every color is treated exactly the same, so there are no rainbow fringes. A mirror can also be held up from behind across its whole back, so it can be made enormous without sagging. That is why every large research telescope in the world today uses a mirror.",
+        "Many big modern telescopes do not even have an eyepiece. Instead, a camera or another scientific instrument sits at the focus and records the image directly. The objective is still doing the most important job; the camera simply takes the place of your eye.",
+        "Here is something surprising: with the same objective, you can change how much the telescope magnifies just by swapping eyepieces. That is because magnification is set by a simple formula. Magnification equals the focal length of the objective divided by the focal length of the eyepiece.",
+        "Let's try it. Suppose your telescope's objective has a focal length of 1,000 millimeters. Put in an eyepiece with a focal length of 10 millimeters. 1,000 divided by 10 is 100, so the telescope magnifies 100 times, written 100x. The Moon, which looks a little smaller than a pea held at arm's length, now looks 100 times wider. Swap in a 25-millimeter eyepiece: 1,000 divided by 25 is 40, so now you have 40x, a lower power with a wider view. Swap in a 5-millimeter eyepiece and you get 200x.",
+        "Notice what this means. Short-focal-length eyepieces give high power; long ones give low power. And a telescope with a longer focal length gives more magnification with the same eyepiece. Eyepieces are usually labeled with their focal length in millimeters, so you can work out the power of any combination in your head.",
+        "Telescope owners have one more trick for changing power, called a Barlow lens. It is a small concave lens, like the one in Galileo's eyepiece, placed in the tube just before the eyepiece. It spreads the light cone out a little so that the objective acts as if its focal length were two or three times longer. A 2x Barlow turns a 25-millimeter eyepiece that gave 40x into one that gives 80x, which saves buying a whole extra set of eyepieces. It is named after the English mathematician Peter Barlow, who worked on this kind of lens in the 1800s.",
+        "But wait. If magnification is that easy to change, why don't telescope makers just sell tiny eyepieces and claim 1,000x? Because, as we will see, magnification is the least important thing a telescope does. The real powers of a telescope are hidden in one number: its aperture."
+      ]
+    },
+    {
+      "heading": "A Bucket for Catching Light",
+      "paragraphs": [
+        "Aperture is just the width of the objective, the main lens or mirror. A small backyard telescope might have an aperture of 70 or 100 millimeters. A popular amateur telescope has 200 millimeters, about 8 inches. The Hooker telescope from Part 13 has 2.5 meters, and the Hale Telescope 5.1 meters. Astronomers care about this number more than any other, for two reasons. The first is light.",
+        "Think of a telescope as a bucket standing out in the rain, except the rain is made of light. Light from a faint galaxy is falling on Earth all the time, spread thinly over everything. Your eye catches only the light that happens to drop into your pupil, the black opening in the middle of your eye. Even in total darkness, after your eyes have adjusted for half an hour, your pupil opens only about 7 millimeters wide. That is a very small bucket.",
+        "A telescope is a much bigger bucket. It gathers all the light falling on its objective and squeezes it down into a beam narrow enough to fit through your pupil. Because the light caught depends on the area of the objective, not just its width, the advantage grows very quickly. Double the width and the area becomes four times bigger, so you collect four times the light. Triple the width and you get nine times the light. The rule is: light grows with the width multiplied by itself, the width squared.",
+        "Let's compare an 8-inch telescope with your eye. Its aperture is 200 millimeters, and your pupil is 7 millimeters. 200 divided by 7 is about 28.6. Multiply that by itself and you get about 816. So an 8-inch telescope gathers roughly 800 times more light than your naked eye. Stars and galaxies that were 800 times too faint to see suddenly become visible.",
+        "Now try the giants. The Hooker's 2,540-millimeter mirror, divided by 7 and then squared, gathers about 130,000 times as much light as an eye. The Hale Telescope's 5,080-millimeter mirror gathers more than half a million times as much. Put a camera behind it and let the light pile up on the sensor for an hour, and the advantage grows even larger. That is how astronomers photograph galaxies billions of light-years away.",
+        "Astronomers describe how bright a star looks using magnitudes, an old scale that goes back to ancient Greek star catalogs. Strangely, bigger numbers mean fainter stars. The brightest stars are around magnitude 0 or 1, and under a truly dark country sky the faintest stars you can see with your eyes alone are around magnitude 6. Every 5 magnitudes means 100 times fainter. An 8-inch telescope, gathering about 800 times more light than your eye, lets an observer see stars down to roughly magnitude 13 or 14, which is hundreds of times fainter than anything visible without it. Within that range lie thousands of galaxies, nebulae and star clusters that no one before the telescope could ever have known existed.",
+        "This is the real reason astronomers kept building bigger telescopes. Not to make things look bigger, but to catch more of the faint trickle of light from things that are very far away or very dim. In astronomy, the size of your bucket decides how deep into the universe you can see."
+      ]
+    },
+    {
+      "heading": "Seeing Fine Detail, and Why Stars Twinkle",
+      "paragraphs": [
+        "The second power of aperture is resolution, the ability to show fine detail. Imagine two stars very close together in the sky. Through a small telescope they blend into one blob. Through a bigger telescope they split into two separate points. The bigger telescope has better resolution.",
+        "Why should width matter for sharpness? Because light travels as waves. When waves pass through an opening, they spread out a little at the edges, an effect called diffraction. Even a perfect telescope cannot focus a star into a perfect point; it makes a tiny disk surrounded by faint rings. The wider the aperture, the smaller that disk, so the finer the detail that can be separated.",
+        "Astronomers measure tiny angles in the sky in arcseconds. There are 60 arcminutes in a degree and 60 arcseconds in an arcminute. The full Moon is about 30 arcminutes, or about 1,800 arcseconds, wide. A person with good eyesight can separate details about 1 arcminute apart, which is about the accuracy Tycho Brahe reached without a telescope in Part 1.",
+        "A handy rule used by observers of double stars, called the Dawes limit, says that a telescope can split two equal stars about 116 divided by its aperture in millimeters arcseconds apart. For a 100-millimeter telescope that is about 1.2 arcseconds. For an 8-inch, 200-millimeter telescope it is about 0.6 arcseconds, around a hundred times finer than your eye. In theory, the 5-meter Hale Telescope could split stars just a few hundredths of an arcsecond apart.",
+        "In practice, it cannot, at least not without help. The problem is the air above us. Earth's atmosphere is always churning, with pockets of warmer and cooler air sliding past each other. Each pocket bends light slightly differently, because light travels at slightly different speeds through air of different temperatures. As starlight passes through these moving pockets, it gets jiggled this way and that, many times a second. Astronomers call the steadiness of the air the seeing.",
+        "You have seen this yourself. Stars twinkle because their light is being jostled by turbulent air. A star is so far away that it is basically a single point of light, so the jostling makes it flicker and dance. Planets usually twinkle less, because they appear as tiny disks rather than points, and the flickering from different parts of the disk tends to average out. Twinkling is lovely to look at, but it is the enemy of sharp telescope images. It is the same shimmering you see over a hot road in summer, just much fainter.",
+        "On an ordinary night at an ordinary place, the seeing blurs star images to about 1 to 3 arcseconds. At the best mountaintop sites, like Maunakea in Hawaii or La Palma in the Canary Islands, it can sometimes be as good as 0.4 arcseconds. That means that on most nights any telescope wider than roughly 10 to 20 centimeters cannot show finer detail than a smaller telescope would, because the air is the limit. Big telescopes still win at collecting light, but for sharpness, the air sets the rules. That is why astronomers moved telescopes to high mountains, and, as later parts show, eventually above the air altogether, or learned to cancel the twinkle with bending mirrors."
+      ]
+    },
+    {
+      "heading": "Four Designs Side by Side",
+      "paragraphs": [
+        "Over 400 years, telescope makers have invented many ways to arrange lenses and mirrors. Four classic designs explain almost everything you will see in a telescope shop or an observatory.",
+        "The Galilean telescope, the original Dutch spyglass that Galileo improved, has a convex objective at the front and a concave eyepiece near your eye. The concave eyepiece catches the light before it reaches the focus. Its big advantage is that the image is right side up, which made it perfect for looking at ships and soldiers. Its big weakness is a tiny field of view: at higher powers you see only a small patch of sky, as if looking through a keyhole. That is part of why Galileo's work was so hard. Simple opera glasses still use this design today.",
+        "The Keplerian telescope, which Kepler described in 1611, uses a convex lens for the eyepiece too. The light comes to a focus first, making a real image inside the tube, and the eyepiece then magnifies it. The image is upside down, but the field of view is much wider, and there is a real image where crosshairs or measuring scales can be placed, as William Gascoigne discovered. Almost all lens telescopes since the 1600s, including the giant Yerkes refractor, use this basic design. For stars, upside down does not matter at all; there is no 'up' in space.",
+        "The Newtonian telescope, Isaac Newton's 1668 invention, uses a curved main mirror at the bottom of an open tube. Light comes in the top, travels down, bounces off the main mirror, and heads back up toward the focus. Before it gets there, a small flat mirror tilted at 45 degrees sends it out the side of the tube, where the eyepiece sits. Newtonians are simple, cheap to make in large sizes, and free of color fringes, which is why so many amateur astronomers own one. The eyepiece is near the top of the tube, which on a big telescope can mean climbing a ladder.",
+        "The Cassegrain telescope, based on Laurent Cassegrain's 1672 design, also uses a concave main mirror, but with a hole in its center. A small convex mirror near the top sends the light back down through the hole, and the eyepiece or camera sits behind the main mirror. Because the light path is folded back on itself, a long focal length fits inside a short, stubby tube. That makes Cassegrain-type telescopes compact and easy to mount, and it lets heavy instruments hang at the bottom, where they are easy to balance. The Hubble Space Telescope, the Keck telescopes, and most big research telescopes use versions of the Cassegrain design. Many popular amateur telescopes, called Schmidt-Cassegrains, add a thin correcting lens across the front.",
+        "So which is best? It depends on the job. A small refractor is rugged and gives crisp, steady views. A Newtonian gives the most aperture for your money. A Cassegrain packs a long focal length into a portable package. For the very biggest telescopes, there is no contest: mirrors win, because only mirrors can be made many meters wide."
+      ]
+    },
+    {
+      "heading": "Mounts: Keeping Up With a Spinning Earth",
+      "paragraphs": [
+        "A telescope is useless if it shakes or cannot point steadily. At 100x magnification, every tiny wobble is also magnified 100 times. That is why the mount, the stand that holds and steers the telescope, is just as important as the optics.",
+        "There is another problem. The Earth spins, so the stars seem to drift across the sky, rising in the east and setting in the west. At high magnification, a star can drift right out of your view in less than a minute. A good mount must let you follow it.",
+        "The simplest kind is the altazimuth mount. It moves in two directions, just like a camera tripod: up and down (altitude) and left and right (azimuth). It is easy to understand and use. The popular Dobsonian telescope, which John Dobson made famous (Part 10), is a Newtonian sitting in a simple altazimuth box that swivels on the ground. To follow a star, though, you must nudge it both up and sideways at the same time, at rates that keep changing as the star moves across the sky.",
+        "The equatorial mount solves this with a clever tilt. One axis, called the polar axis, is lined up parallel to the Earth's own axis, pointing at the celestial pole, which in the Northern Hemisphere is very close to the North Star, Polaris. The angle of that tilt matches your latitude. Because this axis is lined up with the Earth's spin, you can follow any star by turning just this one axis at a steady speed, one full turn every 23 hours 56 minutes, the time it takes Earth to spin once relative to the stars. Add a motor or clockwork drive, and the telescope tracks the sky automatically. Joseph von Fraunhofer built a famous version, the German equatorial mount, for the Dorpat refractor in 1824, and it is still the most common type for amateur astrophotography. The Hale Telescope rides on a giant horseshoe-shaped equatorial mount.",
+        "Today, the very largest telescopes have gone back to altazimuth mounts. An altazimuth mount is much more compact and stronger for its weight, and it holds the mirror with gravity always pulling in a simpler way. The tricky part, moving both axes at changing speeds and slowly turning the instrument to stop the image from rotating, is now done by computers, many times a second. Even small amateur telescopes often have computerized 'go-to' mounts that find and follow thousands of objects at the push of a button."
+      ]
+    },
+    {
+      "heading": "Why More Power Just Makes a Bigger Blur",
+      "paragraphs": [
+        "Walk into a toy store and you may see a small telescope in a box covered with pictures of colorful galaxies and the words '675x power!' This is one of the oldest tricks in telescope selling, and now you know enough to see through it.",
+        "Magnification does not create detail. It only enlarges what the objective has already captured. If a small lens can only resolve detail down to about 2 arcseconds, then blowing the image up more and more is like zooming in on a small, low-quality photo on a computer. At first, things get easier to see. But beyond a certain point you just see bigger, fuzzier blobs. Astronomers call this empty magnification.",
+        "A popular rule of thumb among amateur astronomers is that the most useful magnification for a telescope is about 2 times its aperture in millimeters, or about 50 times per inch. For a 60-millimeter toy telescope, that is about 120x, not 675x. And on most nights, the seeing will limit even large telescopes to a few hundred times at most, no matter how big they are.",
+        "Too much magnification causes other problems too. The image gets dimmer, because the same amount of light is spread over a bigger picture. The field of view shrinks, so objects are harder to find and drift out of view faster. Every shake of the mount and every shimmer of the air becomes huge. Most experienced observers spend most of their time at low or medium power, where the view is bright, wide and steady, and only push to high power on calm nights for small, bright objects like planets, the Moon or close double stars.",
+        "So the next time someone asks you how powerful your telescope is, you can give the expert answer: what matters most is not how much it magnifies, but how wide it is. Aperture gathers light. Aperture shows detail. Magnification just lets your eye see what the aperture caught.",
+        "Everything in this part has been about visible light, the colors from violet to red that our eyes evolved to see. But visible light is only a tiny slice of the light in the universe, and the first person to 'see' outside that slice was not an astronomer at all. He was a phone engineer chasing static."
+      ]
+    }
+  ],
+  "deepDive": "The resolution limit of a telescope comes from the wave nature of light. A circular aperture of diameter D focuses a point of light into a pattern called the Airy disk: a bright central spot surrounded by faint rings. Lord Rayleigh's criterion says two points are just resolved when the center of one Airy disk falls on the first dark ring of the other, at an angle of about 1.22 times the wavelength divided by D (in radians). For green-yellow light at 550 nanometers, that works out to about 138 divided by D in millimeters, in arcseconds. The Dawes limit, about 116/D, came from the 19th-century English observer William Rutter Dawes, who found by experience that skilled observers could split equal double stars slightly closer than Rayleigh's formula. Notice the wavelength in the formula: at longer wavelengths, resolution gets worse for the same aperture. That is why radio telescopes, working with waves centimeters to meters long, must be huge or linked together, and why an infrared telescope needs a bigger mirror than a visible-light one to match its sharpness. The atmosphere's blurring is described by the Fried parameter, r0, roughly the width of a patch of air that behaves as one steady piece of glass. It is typically about 10 to 20 centimeters at a good site in visible light, and only about 5 centimeters at many sea-level locations. A telescope larger than r0 is 'seeing-limited': its sharpness is set by r0, not by its own aperture. Mirror quality matters too. A common standard is that the surface must be correct to about a quarter of a wavelength of light, which for a mirror used in visible light means errors of only about 0.1 to 0.15 micrometers across the whole surface, roughly a thousandth of a hair's width. Another useful number is the focal ratio, the focal length divided by the aperture. A 'fast' telescope like the f/3.3 Hale Telescope gives a bright, wide field good for photographing faint, spread-out objects, while a 'slow' f/10 or f/15 telescope gives higher magnification with a given eyepiece and suits planets and double stars. Finally, the exit pupil, the aperture divided by the magnification, explains the low-power limit: if the beam leaving the eyepiece is wider than about 7 millimeters, some of the collected light misses your pupil entirely.",
+  "funFact": "Even a perfect telescope cannot focus a star into a true point: because light is a wave, every star image is a tiny disk with faint rings around it, and only a wider telescope can make that disk smaller.",
+  "check": {
+    "q": "A telescope's objective has a focal length of 1,000 mm. What magnification do you get with a 10 mm eyepiece?",
+    "a": "100x",
+    "wrong": [
+      "10x",
+      "1,010x",
+      "10,000x"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Optical telescope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Optical_telescope"
+    },
+    {
+      "title": "Astronomical seeing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Astronomical_seeing"
+    },
+    {
+      "title": "How Do Telescopes Work?",
+      "publisher": "NASA Space Place",
+      "url": "https://spaceplace.nasa.gov/telescopes/en/"
+    },
+    {
+      "title": "Equatorial mount",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Equatorial_mount"
+    },
+    {
+      "title": "The Hale Telescope",
+      "publisher": "Caltech Palomar Observatory",
+      "url": "https://sites.astro.caltech.edu/palomar/about/telescopes/hale.html"
+    },
+    {
+      "title": "Dawes' limit",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dawes%27_limit"
+    },
+    {
+      "title": "Cassegrain reflector",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cassegrain_reflector"
+    },
+    {
+      "title": "Refractive index",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Refractive_index"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A diagram showing light rays bending through a convex lens and meeting at a focal point",
+      "search": "convex lens ray diagram focal point"
+    },
+    {
+      "want": "A labeled diagram of a Newtonian reflecting telescope showing the main mirror, the flat diagonal mirror and the eyepiece",
+      "search": "Newtonian telescope diagram"
+    },
+    {
+      "want": "A telescope on a German equatorial mount with counterweight, or a Dobsonian telescope on its swiveling base",
+      "search": "German equatorial mount telescope"
+    }
+  ]
+}

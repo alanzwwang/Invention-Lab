@@ -1,0 +1,160 @@
+{
+  "n": 1,
+  "title": "Eyes on the Sky",
+  "when": "Ancient times – 1601",
+  "summary": "Long before telescopes, people studied the sky with only their eyes. Babylonians wrote star notes on clay, a prince in Samarkand built a measuring track as long as a swimming pool, and a Danish nobleman with a metal nose measured the stars better than anyone before him. But human eyes can only see so much.",
+  "sections": [
+    {
+      "heading": "A Sky Full of Pinpricks",
+      "paragraphs": [
+        "Imagine it is a summer night four thousand years ago, long before anyone had a lens to look through. There are no streetlights, no glowing windows, no cars. When the Sun goes down, the dark is deep and complete. You lie on your back on a warm flat roof and look up, and the sky is crowded with stars, so many that it is hard to pick out the famous patterns. Across the middle runs a pale, misty river of light. That is the Milky Way, and on a night like this it is bright enough to cast a very faint glow on the ground.",
+        "So what can a naked eye actually see? First, the Sun and the Moon, of course, the two biggest and brightest objects in the sky. Then there are the planets. Five of them are easy to spot without help: Mercury, Venus, Mars, Jupiter and Saturn. To ancient people they looked like stars, but they behaved strangely. The ordinary stars kept the same patterns night after night, year after year, like dots painted on a giant turning bowl. The planets slowly wandered through those patterns. The word planet comes from an old Greek word meaning wanderer.",
+        "Then there are the stars themselves. Astronomers measure how bright a star looks using a scale called magnitude, where smaller numbers mean brighter stars. On a typical dark night, a person with good eyes can see stars down to about magnitude 6. Across the entire sky, both the half above you and the half below the horizon, there are roughly 5,600 stars that bright. Since only half the sky is above you at any moment, and stars near the horizon are dimmed by haze, a person on a dark night sees a few thousand stars at once.",
+        "Under very dark skies, a sharp-eyed person can also see a few faint smudges that are not stars at all. One, in the constellation Andromeda, is a dim oval patch of light. Nobody in ancient times could have guessed what it really was. Today we know it is the Andromeda Galaxy, a vast spiral of hundreds of billions of stars, so far away that its light has been travelling for about two and a half million years. To the naked eye, it is just a little cloud. Keep that little cloud in mind, because it will come back much later in this story."
+      ]
+    },
+    {
+      "heading": "Clay Tablets and Wandering Lights",
+      "paragraphs": [
+        "Some of the first people to keep careful written records of the sky lived in Mesopotamia, the land between the Tigris and Euphrates rivers in what is now Iraq. The Babylonians wrote by pressing a wedge-shaped reed into soft clay, making little triangle-shaped marks called cuneiform. Once the clay dried or was baked, the writing could last for thousands of years. Thousands of these tablets have been dug up, and many of them are about the sky.",
+        "Why did the Babylonians care so much? Partly for calendars. Their months followed the Moon, but twelve Moon-months add up to only about 354 days, which is about 11 days shorter than a year of seasons. To keep festivals and farming in step with the seasons, they had to add an extra thirteenth month every few years, and to know when, they had to watch the sky. They also believed that events in the sky were signs or messages about events on Earth, such as the fate of the king, the harvest or a war.",
+        "One famous tablet, known as the Venus Tablet of Ammisaduqa, records when the planet Venus first appeared and disappeared in the morning and evening sky over a period of about 21 years. Another text, called MUL.APIN, is like a star guide, listing constellations and the times of year when certain stars rise. Later, from roughly the 600s BCE onward, Babylonian scholars kept what historians now call the Astronomical Diaries: night-by-night notes on where the Moon and planets were, plus the weather, river levels and even the price of barley. These diaries were kept going for centuries.",
+        "All that patient record-keeping paid off. By comparing old notes, Babylonian astronomers discovered repeating cycles. One of them, now called the saros, is about 18 years long: after one saros, the Sun, Moon and Earth line up in nearly the same way again, so eclipses repeat in a pattern. That meant eclipses could be predicted. They also invented clever arithmetic methods to calculate where planets would be in the future.",
+        "The Babylonians also counted in sixties instead of tens. You still use their system every day without noticing. There are 60 seconds in a minute and 60 minutes in an hour, and a circle is divided into 360 degrees. Astronomers split each degree into 60 arcminutes, and each arcminute into 60 arcseconds. These tiny angle units will matter a lot in this story, because the whole history of the telescope is about measuring smaller and smaller angles in the sky."
+      ]
+    },
+    {
+      "heading": "The Greeks Build a Model Universe",
+      "paragraphs": [
+        "The ancient Greeks learned a lot from Babylonian records, but they also tried to build a geometric model of the sky. Many Greek thinkers already knew the Earth was round. They saw that its shadow on the Moon during a lunar eclipse is always curved, and that travellers going south saw new stars rise above the horizon. A few Greeks went further. Aristarchus of Samos, who lived in the 200s BCE, suggested that the Sun, not the Earth, was at the center of everything. Very few people agreed with him. After all, the ground does not feel as if it is moving, so surely the Earth must be standing still.",
+        "Another ancient idea was even more amazing. The philosopher Democritus is said to have suggested that the Milky Way might be made of a huge number of stars, too faint and too close together to see one by one. Nobody could check this. It would take a telescope, and Galileo, to prove it.",
+        "The greatest Greek astronomy book was written around 150 CE by Claudius Ptolemy, who worked in Alexandria in Egypt. Its Greek title means something like The Mathematical Collection, but it became famous under the name Arab scholars later gave it: the Almagest, from an Arabic phrase meaning the greatest. It has 13 books, or chapters, and it includes a catalog of 1,022 stars arranged in 48 constellations, many of which we still use today, like Orion and Ursa Major.",
+        "Ptolemy's universe put a motionless, round Earth in the center. The Moon, Sun, planets and stars all circled around it. But there was a problem. Planets do not move smoothly. Mars, for example, sometimes seems to stop, drift backward for a few weeks, and then turn forward again. To explain this, Ptolemy used circles on top of circles. Each planet moved on a small circle, called an epicycle, whose center travelled around a big circle around the Earth. He added another clever adjustment, a point called the equant, to make the speeds come out right. It was complicated, but it worked well enough to predict planet positions for many centuries.",
+        "Ptolemy's system was not silly. With naked-eye measurements, it matched what people saw, and for about 1,400 years it was the standard picture of the universe in Europe, North Africa and the Middle East."
+      ]
+    },
+    {
+      "heading": "Observatories of the Islamic World",
+      "paragraphs": [
+        "After the fall of the western Roman Empire, much of Europe lost touch with Greek science for a long time. But the knowledge did not vanish. From the 800s onward, scholars in Baghdad, Damascus, Cairo, Córdoba and other cities of the Islamic world translated Greek books like the Almagest into Arabic, checked them against the sky, and improved them. Astronomy had practical uses there too: Muslims needed to know the times of the five daily prayers, the direction of Mecca, and the start of each month of the Moon-based calendar.",
+        "One of these scholars was the Persian astronomer Abd al-Rahman al-Sufi. In 964 he published the Book of Fixed Stars, a beautifully illustrated guide that updated Ptolemy's star catalog with his own careful observations, including how bright each star looked. Many star names we still use, like Aldebaran, Betelgeuse and Rigel, come from Arabic. Al-Sufi also described a small cloudy patch in the constellation Andromeda. That is the earliest written description we have of the Andromeda Galaxy, the little cloud we met earlier.",
+        "The most spectacular observatory of all rose in Samarkand, in what is now Uzbekistan, in the 1420s. It was built by Ulugh Beg, a prince who was also a brilliant mathematician. He was a grandson of the conqueror Timur and ruled Samarkand, but his true love was the sky. Around 1417 to 1420 he built a school, or madrasa, in the city, and then an observatory on a hill outside it, where he gathered astronomers such as Jamshid al-Kashi, Qadi Zada al-Rumi and the young Ali Qushji.",
+        "The heart of the observatory was a gigantic instrument called the Fakhri sextant. It was a curved track, like a slice of a huge circle, with a radius of about 40 meters, as long as a big swimming pool. Part of it was dug into a trench in the hill, lined with marble and marked with careful scales. As the Sun or a star crossed the sky, its light fell on the track, and astronomers could read off its exact height. Why so big? With a bigger circle, each degree is spread over a longer stretch, so the markings can be finer and readings more precise. If you cannot make your eye sharper, you can make your ruler longer.",
+        "In 1437, Ulugh Beg's team finished a book of tables called the Zij-i Sultani. Its star catalog listed the positions of about 1,000 stars, measured fresh rather than copied from Ptolemy. It was the first major new star catalog since the Almagest. The team also measured the length of the year as 365 days, 5 hours, 49 minutes and 15 seconds, only about 25 seconds too long, which was more accurate than Copernicus's figure a century later.",
+        "The story ended sadly. In 1449 Ulugh Beg was killed in a power struggle that involved his own son, and his observatory was soon abandoned and ruined. Its location was lost for centuries until the Russian archaeologist Vassily Vyatkin found the remains of the great sextant in 1908. Visitors to Samarkand can still walk down into the curved stone trench today."
+      ]
+    },
+    {
+      "heading": "Copernicus Moves the Sun",
+      "paragraphs": [
+        "Nicolaus Copernicus was born on 19 February 1473 in the town of Toruń, in what is now Poland. He studied in Kraków and in Italy, learning mathematics, astronomy, law and medicine, and spent most of his working life as a canon, an official of the cathedral, in the small town of Frombork near the Baltic Sea. In his spare time, he thought about the planets.",
+        "Copernicus did not like the complicated machinery of Ptolemy's system, especially the equant. Sometime before 1514 he wrote a short handwritten summary, now called the Commentariolus, or Little Commentary, suggesting a startling idea. What if the Sun stood near the center, and the Earth was just one of the planets, spinning once a day and circling the Sun once a year? He shared copies with only a few friends.",
+        "His idea explained something beautifully. Remember how Mars sometimes seems to move backward? In Copernicus's system, that happens naturally. Earth moves faster on its inside track, so every couple of years it overtakes Mars, the way a fast car on a racetrack passes a slower car on an outer lane. From the fast car, the slow car seems to slide backward for a while. No extra loops are needed for that.",
+        "For decades Copernicus held back from publishing his full book. Then in 1539 a young mathematician named Georg Joachim Rheticus came to visit him and encouraged him to share it. The book, called De revolutionibus orbium coelestium, or On the Revolutions of the Heavenly Spheres, was printed in Nuremberg by Johannes Petreius in 1543. It had six books and was dedicated to Pope Paul III. A Lutheran minister named Andreas Osiander, who helped oversee the printing, added an unsigned preface saying the theory was only a handy tool for calculation, not necessarily the truth. Copernicus died on 24 May 1543 at the age of 70. A well-known story says he was handed a printed copy on his deathbed, but that tale is hard to prove.",
+        "Here is the surprising part: in 1543 nobody could really tell who was right. Copernicus still believed planets must move in perfect circles at steady speeds, so he still needed small circles on top of circles to make his predictions work. His tables were about as accurate as Ptolemy's, not much better.",
+        "There was also a very good argument against him. If the Earth swings around the Sun in a huge circle, then the nearby stars should seem to shift a little against the farther ones over the year, just as a nearby tree seems to shift against distant hills when you walk past. This shift is called parallax. Nobody could see it. Copernicus answered that the stars must be unimaginably far away, so the shift was too tiny to notice. He was right, but at the time that sounded like an excuse. The shift is real, but it is so small that it was not measured until 1838, using a telescope. With naked eyes alone, the debate was stuck."
+      ]
+    },
+    {
+      "heading": "Tycho Brahe's Island of the Stars",
+      "paragraphs": [
+        "To break the deadlock, someone needed to measure the sky far better than ever before. That person was Tycho Brahe, one of the most colorful characters in the history of science. He was born on 14 December 1546 at Knutstorp, a castle in Scania, which was then part of Denmark and is now in southern Sweden. He came from a rich noble family, and as a teenager he became fascinated by astronomy after an eclipse of the Sun in 1560 made him wonder how such events could be predicted, and how the predictions could be made better.",
+        "Tycho was also famously hot-tempered. In December 1566, at age 20, he quarreled with a cousin, reportedly over who was the better mathematician, and the argument ended in a sword duel. Tycho lost part of his nose. For the rest of his life he wore a metal replacement nose, held on with paste. People long said it was made of silver and gold, but after his grave was opened in 2010, a study published in 2012 found that it was most likely made of brass.",
+        "On 11 November 1572, Tycho stepped outside and saw something impossible: a brilliant new star in the constellation Cassiopeia, where no star had been before. For a while it was brighter than Venus. Most scholars believed the heavens beyond the Moon were perfect and never changed, so a new star had to be something close to Earth, in the air. Tycho tested this. If the new star were close, it would seem to shift against the background stars as Earth turned through the night. He measured it carefully and found no shift at all. It had to be far beyond the Moon. Today we know he saw a supernova, an exploding star. His little book about it, De nova stella (1573), made him famous.",
+        "King Frederick II of Denmark was so impressed that he gave Tycho a whole island, Hven, in the strait between Denmark and Sweden, plus money to build on it. On 8 August 1576 the cornerstone was laid for Uraniborg, the castle of Urania, named after the Greek muse of astronomy. It was a red-brick palace with towers and domes, a library, an alchemy laboratory in the basement, gardens, fishponds, a paper mill and even a printing workshop so Tycho could publish his own books. The building cost an enormous amount, by one estimate around one percent of the Danish state's budget during construction. Over the years, dozens of students and assistants lived and worked there.",
+        "Tycho soon found that wind shook the instruments in his tall towers. So in the mid-1580s he built a second observatory nearby called Stjerneborg, the castle of the stars, with its instruments set in pits below ground level, out of the wind and steady on solid foundations."
+      ]
+    },
+    {
+      "heading": "Giant Instruments and a Precious Handover",
+      "paragraphs": [
+        "Walk into Uraniborg in the 1580s and you would not find a single telescope. They had not been invented yet. Instead you would see huge instruments of brass, iron and wood: quadrants (quarter-circles marked with degrees), sextants (sixth-of-a-circle frames), and armillary spheres, which are skeleton globes made of rings that match the circles of the sky. Each one had sights, a bit like the sights on a rifle, a small slit or pinhole at one end and a pointer at the other. You lined the two up with a star, then read its angle off the scale.",
+        "The most famous was the great mural quadrant. Mural means wall: it was a giant brass quarter-circle, taller than a grown man, fixed to a wall that ran exactly north to south. A small opening in a different wall served as the sight. As a star crossed the north-south line, one observer called out the moment and its height on the scale while another noted the time on a clock and a third wrote everything down. Inside the arc of the quadrant, the wall was painted with a large picture of Tycho himself, pointing toward the sky, surrounded by his instruments and his assistants at work.",
+        "Tycho's instruments were not only big. They were clever. He used finely divided scales with diagonal lines, a trick that let observers read fractions of a degree between the main marks. He built his sights so they could be lined up precisely. He checked each instrument against the others to catch mistakes, and he measured the same stars again and again, night after night, year after year, and averaged the results. He even took into account the way Earth's air bends starlight near the horizon, which makes low stars look slightly higher than they really are.",
+        "The result was the most accurate set of sky measurements ever made with the naked eye. Tycho aimed to fix the position of a star or planet to within about 1 arcminute, which is one sixtieth of a degree. How small is that? The full Moon is about 30 arcminutes wide, so 1 arcminute is about one thirtieth of the Moon's width. It is like seeing a coin from the other end of a soccer field and measuring its position exactly. For the brightest stars, he mostly reached that goal. By one estimate, his positions were about five times as accurate as those of the best rival observatory of his day, run by Wilhelm of Hesse. Before he left Hven, he completed a catalog of 1,000 stars.",
+        "Tycho never accepted that the Earth moves, partly because he could not detect any star parallax and partly because he could not believe a heavy Earth could fly through space. So in 1588 he proposed his own compromise, now called the Tychonic system. In it, the Sun and Moon circle a still Earth, but all the other planets circle the Sun. It fit the observations of the time just as well as Copernicus's system. Now there were three competing models of the universe, and naked-eye observations could not clearly choose between them.",
+        "After King Frederick II died, Tycho fell out of favor with the new king, Christian IV, and his money was cut. In 1597 he left Hven, taking his portable instruments and his precious notebooks. By 1599 he had found a new patron, the Holy Roman Emperor Rudolf II, who made him imperial astronomer in Prague. Tycho worked for a while at a castle at Benátky, outside the city, then moved into Prague itself. Uraniborg was abandoned and later torn down; only its foundations and gardens remain on the island, which now belongs to Sweden.",
+        "In 1600 a young German mathematician joined Tycho in Prague. His name was Johannes Kepler. The two were very different. Tycho was a rich, proud nobleman with mountains of observations. Kepler was poor, brilliant and full of theories, but he had poor eyesight and few good measurements of his own. They argued often. Tycho guarded his data jealously and gave Kepler only pieces of it, especially the observations of Mars, the planet whose path was hardest to explain.",
+        "In October 1601, Tycho fell ill after a banquet and died on 24 October, about eleven days later, at the age of 54. The exact cause has been debated for centuries; a scientific study of his remains published in 2012 found no evidence that he had been poisoned with mercury, as some had suspected. As he lay dying, he is said to have asked Kepler to finish the great tables of planet positions he had been working on. Kepler inherited the job, and he got access to Tycho's data.",
+        "It turned out to be one of the most important handovers in science. Working through Tycho's Mars measurements, Kepler found that no combination of perfect circles fit them. A circle was off by about 8 arcminutes, a difference so small that it would have been ignored with older data. Because Kepler trusted Tycho's accuracy, he could not ignore it. He eventually discovered that planets move in ellipses, slightly squashed circles, with the Sun at one focus. Those discoveries, published from 1609 onward, belong to another part of this story. But they show the power of Tycho's life's work: patient, precise measurement, done entirely without a lens."
+      ]
+    },
+    {
+      "heading": "The Limits of the Human Eye",
+      "paragraphs": [
+        "Tycho had pushed the naked eye about as far as it could go. To understand why, think about your eye as a tiny camera. Light enters through the pupil, the black circle in the middle of the colored part of your eye. A lens behind the pupil focuses that light onto the retina at the back of the eye, a thin layer packed with millions of light-sensing cells. Those cells send signals to the brain, and the brain builds a picture.",
+        "The first limit is the size of the opening. The pupil gets smaller in bright light and wider in the dark, which is why your eyes need a while to adjust when you step outside at night. Even fully opened in darkness, a typical adult pupil is only about 7 millimeters across, roughly the width of a pencil. Only the light that fits through that tiny hole can reach the retina. A faint star sends very little light toward Earth, and an even smaller trickle of it lands in your eye. If too little arrives, the star is simply invisible to you.",
+        "The second limit is detail. The cells on your retina are packed closely, but not infinitely close, and the eye's own lens is not perfect. As a result, the human eye can usually separate two points only if they are at least about 1 arcminute apart. Notice that number? It is exactly the accuracy Tycho reached. He had hit the wall built into human biology. No matter how big his quadrants were, his eyes could not see finer than that.",
+        "These limits explain many ancient mysteries. The Milky Way looked like a glowing cloud because its stars are too faint and too close together for the eye to separate. Planets looked like points of light, so no one could see whether Jupiter had moons, whether Venus had phases like the Moon, or what the surface of Mars looked like. The Andromeda Galaxy was just a fuzzy smudge. And star parallax, the tiny shift that would prove the Earth moves, was far too small to detect.",
+        "To go further, people needed a way to give the eye a bigger opening, a way to collect more light than a 7-millimeter pupil could gather, and a way to spread fine details over more of the retina. Strangely, the tools to do it already existed. In shops across Europe, craftsmen were grinding curved pieces of glass every day, and many thousands of people were wearing them. The tools to see more were already sitting on people's noses, they just had to be put together in the right way."
+      ]
+    }
+  ],
+  "deepDive": "Why could naked-eye astronomy not settle the argument between Ptolemy, Copernicus and Tycho? The answer is that, as geometry, the three systems were nearly equivalent. Ptolemy's epicycles, Copernicus's moving Earth and Tycho's Sun-circling planets all describe the same apparent motions as seen from Earth; they differ mainly in which body is treated as standing still. Copernicus kept uniform circular motion, so his predictions were roughly as accurate as Ptolemy's, sometimes off by a degree or more for Mars. A heavier argument was physical: before Newton, no one had a theory of motion explaining why a spinning, orbiting Earth would not fling off its air, birds and oceans. Tycho's system kept a still Earth while borrowing the mathematical neatness of a Sun-centered arrangement, which is why it was popular with many astronomers for decades. The decisive missing observation was annual stellar parallax. Even the nearest bright stars shift by less than 1 arcsecond, roughly one sixtieth of the 1-arcminute limit of the human eye and of Tycho's instruments. Tycho reasoned that if stars were far enough away to hide their parallax, they would have to be enormous to look as wide as they seemed, because to the naked eye stars appear to have small disks. We now know those apparent disks are an illusion caused by the eye's optics and the blurring of the atmosphere, not the real size of the stars. Historians also point out how much Tycho's accuracy depended on method, not just big instruments: repeated observations, cross-checking instruments, correcting for atmospheric refraction and averaging. His catalog's median error has been estimated at around 1.5 arcminutes, with his best logged observations better still. Kepler's discovery that a circular orbit for Mars missed Tycho's data by about 8 arcminutes is a classic example of how improved data, not just new ideas, can force a scientific revolution. Ulugh Beg's earlier work shows the same principle: his 40-meter sextant was an attempt to beat the eye's limit by spreading the scale over a huge arc. Both men reached the ceiling of what could be done without optics. The next leap needed a new kind of instrument.",
+  "funFact": "Tycho Brahe's famous metal nose, long said to be silver and gold, was most likely made of brass, according to a study of his remains published in 2012.",
+  "check": {
+    "q": "About how accurately could Tycho Brahe measure the positions of stars and planets without a telescope?",
+    "a": "About 1 arcminute, roughly one thirtieth of the full Moon's width",
+    "wrong": [
+      "About 10 degrees, the width of a fist at arm's length",
+      "Exactly 1 arcsecond, as good as a modern telescope",
+      "About half the width of the full Moon"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tycho Brahe",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tycho_Brahe"
+    },
+    {
+      "title": "Uraniborg",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Uraniborg"
+    },
+    {
+      "title": "Ulugh Beg Observatory",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ulugh_Beg_Observatory"
+    },
+    {
+      "title": "Almagest",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Almagest"
+    },
+    {
+      "title": "Babylonian astronomy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Babylonian_astronomy"
+    },
+    {
+      "title": "De revolutionibus orbium coelestium",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/De_revolutionibus_orbium_coelestium"
+    },
+    {
+      "title": "Naked eye",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Naked_eye"
+    },
+    {
+      "title": "Pupil",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pupil"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The famous engraving of Tycho Brahe's great mural quadrant at Uraniborg, with Tycho painted on the wall inside the arc and assistants observing",
+      "search": "Tycho Brahe mural quadrant engraving"
+    },
+    {
+      "want": "The curved stone track of the Fakhri sextant at the Ulugh Beg Observatory in Samarkand, Uzbekistan",
+      "search": "Ulugh Beg observatory sextant Samarkand"
+    },
+    {
+      "want": "Copernicus's Sun-centered diagram of the planets from the 1543 book De revolutionibus",
+      "search": "Copernicus heliocentric diagram De revolutionibus"
+    }
+  ]
+}

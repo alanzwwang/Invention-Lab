@@ -1,0 +1,154 @@
+{
+  "n": 16,
+  "title": "A Computer on Every Desk",
+  "when": "1968 – 1985",
+  "summary": "In 1968 a man named Douglas Engelbart showed off a strange little gadget called a mouse. A few years later, young hobbyists were building computers from kits, and soon you could buy one in a shop and take it home. Kids all over the world started writing their own games.",
+  "sections": [
+    {
+      "heading": "The Mother of All Demos",
+      "paragraphs": [
+        "Picture a darkened hall in San Francisco on 9 December 1968. About a thousand computer experts have come to the Fall Joint Computer Conference. On stage sits a quiet engineer named Douglas Engelbart, wearing a headset with a microphone. In front of him is a keyboard, an odd five-key pad for his left hand, and, under his right hand, a small box on wheels with a cord trailing out of it like a tail. Above him, a huge screen shows exactly what his computer is showing him.",
+        "For the next 90 minutes, Engelbart does things that most of the audience have never seen. He types words and then moves them around the screen. He clicks on a word and jumps instantly to another document linked to it. He splits the screen into separate areas, a little like windows. He builds a shopping list, sorts it and reorganises it. Then, to gasps, a colleague's face appears on the screen, live from Engelbart's laboratory about 50 kilometres (30 miles) away in Menlo Park, and the two of them edit the same document together, each with their own pointer.",
+        "Engelbart was born in 1925 in Oregon. During the Second World War he served as a navy radar technician, and he was inspired by a 1945 essay by Vannevar Bush, the engineer you met in Part 6, which imagined a desk-sized machine for storing and linking all of a person's knowledge. Engelbart decided his life's mission would be to use computers to 'augment human intellect', helping people think and work together on hard problems. At the Stanford Research Institute (SRI) he founded the Augmentation Research Center and built a system called NLS, short for 'oN-Line System'.",
+        "The little box on wheels was the computer mouse. Engelbart had come up with the idea, and in 1964 the engineer Bill English built the first one. Underneath were two metal wheels set at right angles: one measured movement left and right, the other up and down. Nobody is quite sure who first called it a mouse, but the cord sticking out of the back looked like a tail, and the name stuck. Engelbart received a patent for it in 1970. In Germany, the company Telefunken developed a ball-based pointing device called the Rollkugel around the same time, and ball mice later became the common design.",
+        "Pulling off the demonstration was a technical stunt in itself. Homemade modems sent the computer signals back and forth to Menlo Park, and microwave links carried live video. The writer Stewart Brand operated one of the cameras at the lab. At the end, the audience stood and clapped. One observer later said Engelbart had been 'dealing lightning with both hands'. Today the event is nicknamed 'the Mother of All Demos', because in one afternoon it showed off the mouse, windows, hypertext (clickable links), video calls and real-time shared editing, ideas that would take decades to reach ordinary homes.",
+        "At the time, though, many people did not know what to make of it. Engelbart's system ran on an expensive computer and took a lot of training to use. Its immediate effect on the computer industry was small. Its real impact was on the young researchers who saw it, or heard about it, and set out to build the future it showed."
+      ]
+    },
+    {
+      "heading": "A Window into the Future: Xerox PARC and the Alto",
+      "paragraphs": [
+        "Xerox, the American company famous for photocopiers, was worried that one day offices might not need paper at all. So in 1970 it opened a research laboratory in Palo Alto, California, called Xerox PARC (Palo Alto Research Center), and filled it with some of the brightest computer scientists in the country, including several people influenced by Engelbart's work.",
+        "In 1973 the PARC team, with Chuck Thacker as lead engineer, finished a remarkable machine called the Alto. It was meant for one person to use at a desk, which was a radical idea when most computers were shared. Its screen was shaped like a sheet of paper standing upright, and instead of showing only letters it was a bitmapped display: every one of its hundreds of thousands of dots could be controlled separately, so it could show different fonts, drawings and pictures. Next to the keyboard sat a mouse with three buttons.",
+        "The Alto's software was just as new. Alan Kay, who dreamed of a portable computer for children, led a group with Adele Goldberg and others that created Smalltalk, a programming language and environment with overlapping windows on the screen. A program called Bravo let people see their document on screen looking just as it would when printed, an idea called WYSIWYG ('what you see is what you get'). Altos could be linked together by a new networking system called Ethernet, and send pages to PARC's laser printers. They could even send email.",
+        "Thacker later said the first Alto cost Xerox about 12,000 dollars to build, and as a product it might have needed to sell for about 40,000 dollars, far too much for most buyers then. About 2,000 Altos were made, mostly for Xerox's own labs and for universities, but the Alto was never sold to the public. Xerox did release a business computer based on these ideas, the Xerox Star, in 1981, but it was expensive and sold poorly.",
+        "In 1979 a group from a young company called Apple, including Steve Jobs, visited PARC and saw the Alto's graphical interface. They left buzzing with ideas that would shape their own computers. So when you see icons and windows on a screen today, remember that the mouse came from Engelbart's team and the windowed graphical interface from Xerox PARC, long before Apple or Microsoft made them popular."
+      ]
+    },
+    {
+      "heading": "A Kit on a Magazine Cover",
+      "paragraphs": [
+        "While big companies experimented, the real revolution came from hobbyists, people who built radios and gadgets at their kitchen tables. In Part 13 you saw the first microprocessors appear. By 1974 Intel had a powerful new one, the 8080. An engineer named Ed Roberts, who ran a small company called MITS in Albuquerque, New Mexico, saw a chance. MITS had sold electronic kits for model rockets and then calculator kits, but big companies had pushed calculator prices so low that MITS was in trouble. Roberts decided to build a computer kit around the 8080 cheap enough for hobbyists to buy.",
+        "The January 1975 issue of Popular Electronics magazine put the machine on its cover: the Altair 8800. The kit cost 439 dollars, or 621 dollars ready-built, which was cheap for a computer, though still a lot of money. According to one well-known story, the name came from the daughter of the magazine's editor, Les Solomon, who suggested Altair because that was where the starship in the television show Star Trek was heading that week. Other accounts differ, so it is best treated as a fun legend. Orders poured in, far more than MITS could build quickly.",
+        "Do not imagine the Altair looking like a modern computer. It was a metal box with no screen and no keyboard. On the front was a row of toggle switches and a row of little red lights. To enter a program you flipped switches up and down, one binary instruction at a time, then pressed a switch to store it. The answer appeared as a pattern of lights. The basic machine came with just 256 bytes of memory, enough for only a tiny program. Yet for the first time, an ordinary person could own a real, programmable computer, and the Altair's expansion slots, later called the S-100 bus, let people add more memory and other boards.",
+        "In Menlo Park, California, just a few kilometres from Engelbart's old lab, an Altair inspired a group of enthusiasts to meet in the garage of a man named Gordon French on 5 March 1975. They called themselves the Homebrew Computer Club. Before long the meetings moved to an auditorium at the Stanford Linear Accelerator Center, where Lee Felsenstein ran the sessions and members showed off their latest creations. Within two years, more than 1,500 people were on its mailing list. The club's spirit was to share ideas freely, and many of its members went on to start computer companies.",
+        "Far away, at Harvard University, a student named Bill Gates and his childhood friend Paul Allen saw the Popular Electronics cover. They had been programming since their school days in Seattle. Allen suggested writing a version of BASIC for the Altair, so that owners could type programs in words instead of flipping switches. They did not have an Altair, so Allen adapted a program that pretended to be the Altair's chip on a bigger computer, and Gates wrote much of the BASIC interpreter, with help from another student, Monte Davidoff. In March 1975 Allen flew to Albuquerque to demonstrate it, writing a last small piece of code, a loader, on the plane before it landed. It worked, and MITS agreed to sell it as Altair BASIC.",
+        "On 4 April 1975, Gates and Allen founded their own company in Albuquerque to write software for small computers. Allen suggested the name Micro-Soft, from 'microcomputer software'; the hyphen was later dropped. In 1976 Gates wrote an 'Open Letter to Hobbyists' complaining that many people were copying Altair BASIC without paying, which started a long argument about whether software should be free or sold. Microsoft moved to the Seattle area in 1979."
+      ]
+    },
+    {
+      "heading": "Two Steves and the 1977 Trinity",
+      "paragraphs": [
+        "Two young members of the Homebrew Computer Club were Steve Wozniak, a gifted engineer who designed calculators at Hewlett-Packard, and his friend Steve Jobs, who was full of energy and big plans. Wozniak later wrote that after his very first Homebrew meeting he started designing the computer that would become the Apple I. He found clever ways to use fewer chips than anyone thought possible, and he showed his design to the club in 1976.",
+        "Jobs saw that people would buy it. On 1 April 1976, Jobs, Wozniak and an older engineer, Ronald Wayne, founded Apple Computer. Wayne got nervous about the risks and sold his share back just 12 days later for 800 dollars, a share that would have become worth billions. To raise money, Jobs sold his Volkswagen van and Wozniak sold his HP-65 programmable calculator, giving them about 1,300 dollars. A local computer shop, the Byte Shop, ordered 50 assembled Apple I boards, and the founders worked in Jobs's parents' home in Los Altos, California, to build them. The famous family garage is part of the legend, but Wozniak has said the garage story is exaggerated and that much of the real work happened elsewhere. The Apple I sold for 666.66 dollars, and buyers still had to add their own keyboard, power supply, screen and case.",
+        "Wozniak's next design was a big leap. The Apple II, first shown at the West Coast Computer Faire in San Francisco in April 1977 and on sale from June, came in a neat plastic case with a built-in keyboard. It could show colour graphics on a television, it had BASIC ready to use and it had slots inside for adding new features. Its processor was a MOS Technology 6502 running at about 1 megahertz, and the basic model, with 4 kilobytes of memory, cost 1,298 dollars. To help Apple grow, an investor and businessman named Mike Markkula put in 250,000 dollars, and Apple became a proper company in January 1977. The Apple II family was made until 1993, and about six million were sold.",
+        "Apple was not alone. In 1977 two other ready-to-use computers appeared, and later the magazine Byte grouped all three together as the '1977 Trinity'. The Commodore PET, designed by a team led by Chuck Peddle, was shown in January 1977 and began shipping in October. It was an all-in-one machine with a built-in black-and-white screen, a keyboard and a cassette tape recorder for storing programs, for 795 dollars. Its tiny keys, nicknamed a 'chiclet' keyboard after a chewing gum, were not popular, but the PET sold well to schools.",
+        "The third member was the TRS-80, announced on 3 August 1977 by Tandy, which owned the Radio Shack chain of electronics shops. It used a Zilog Z80 processor and cost 399 dollars, or 599 dollars with a screen and a cassette recorder. Its big advantage was that Radio Shack had thousands of stores, so even people in small towns could walk in and buy one. Over 10,000 sold in the first six weeks. Fans and critics alike nicknamed it the 'Trash-80', a joke Tandy's managers disliked.",
+        "These machines were different from the Altair in one important way: you could take them out of the box, plug them in and start typing. You did not need a soldering iron. A computer had become a product that ordinary people could buy."
+      ]
+    },
+    {
+      "heading": "VisiCalc: the Program That Sold Computers",
+      "paragraphs": [
+        "Even so, many people asked a fair question: what would I actually do with one? Playing games and writing small BASIC programs were fun, but businesses wanted a reason to spend more than a thousand dollars.",
+        "The answer came from Dan Bricklin, a student at Harvard Business School. He watched a professor work out a business plan on a blackboard laid out as a grid of rows and columns. Each time the professor changed one number, he had to rub out and recalculate lots of others by hand. Bricklin imagined an electronic version, where changing one number would update everything that depended on it automatically. His friend Bob Frankston did much of the programming, and together they formed a company called Software Arts. Frankston described the result as a 'magic sheet of paper that can perform calculations and recalculations'.",
+        "Their program, VisiCalc, short for 'visible calculator', went on sale on 17 October 1979 for the Apple II, at under 100 dollars. It was the first spreadsheet program for personal computers. Business people who saw it realised that a planning job that took hours on paper could now be explored in minutes: what if sales go up 10 percent, what if costs rise, what if we hire two more staff? Some people bought an Apple II just to run VisiCalc. A program so useful that people buy the whole machine to use it became known as a 'killer app'. More than 700,000 copies were sold in six years, before a rival spreadsheet, Lotus 1-2-3, launched in 1983, overtook it."
+      ]
+    },
+    {
+      "heading": "Big Blue Joins In",
+      "paragraphs": [
+        "IBM, nicknamed 'Big Blue', was the giant of mainframe computing, and at first it paid little attention to small machines made by hobbyists. But by 1980 personal computers were clearly becoming a real business. IBM asked a team in Boca Raton, Florida, led by William Lowe and then Don Estridge, to produce a personal computer fast. To save time, the team did something unusual for IBM: instead of designing every part itself, it used standard parts bought from other companies, including an Intel 8088 processor running at 4.77 megahertz. IBM also published detailed technical information so that other companies could make add-on boards and software.",
+        "IBM needed an operating system, the master program you met in the last part, to manage the disks, keyboard and screen. In 1980 it gave the job to Microsoft. Microsoft did not have one ready, so it licensed, and later bought, an existing system called 86-DOS from a small company, Seattle Computer Products, and adapted it. IBM sold it as PC DOS, and Microsoft kept the right to sell its own version, MS-DOS, to other computer makers. That decision would make Microsoft enormously successful.",
+        "The IBM Personal Computer, model 5150, was launched on 12 August 1981. The cheapest version cost 1,565 dollars and came with 16 kilobytes of memory, but no disk drives; most buyers added more. Because the name IBM was trusted by businesses, offices bought PCs in huge numbers. Lotus 1-2-3, which ran very well on the IBM PC, became its killer app, just as VisiCalc had been for the Apple II.",
+        "There was one part IBM kept to itself: a small built-in program called the BIOS that started the machine and handled basic input and output. Other companies, including Compaq and Phoenix Technologies, studied what the BIOS did and wrote their own versions from scratch, using a careful 'clean room' method, where the programmers who wrote the new code never saw IBM's original code. Now anyone could build an 'IBM-compatible' computer that ran the same software, usually with MS-DOS. Cheaper clones flooded the market. In the end IBM lost control of the standard it had created, while the PC design itself became the most common kind of personal computer in the world, and its descendants are still on desks today."
+      ]
+    },
+    {
+      "heading": "Home Computers Around the World",
+      "paragraphs": [
+        "In the early 1980s, computers spilled out of offices and into living rooms and bedrooms, and not only in America. In Britain, the BBC planned a television series to teach the public about computers, called the Computer Literacy Project. It wanted a computer to go with the programmes and chose a design by Acorn Computers of Cambridge. The BBC Micro was launched on 1 December 1981, with the Model A and Model B priced at first at 235 and 335 pounds, though prices soon rose. It came with an excellent version of BASIC and many sockets for connecting things, which made it ideal for schools. About 1.5 million were sold, and by 1985 roughly 80 percent of British schools had one. Children called it 'the Beeb'. Two of the Acorn engineers behind it, Sophie Wilson and Steve Furber, would go on to design a famous chip you will meet in the next part.",
+        "Britain's other star was the Sinclair ZX Spectrum, launched on 23 April 1982 by Clive Sinclair's company, Sinclair Research. It was small, with squashy rubber keys, and it plugged into a family television. Programs were loaded from ordinary audio cassette tapes, which made screeching noises while they loaded and could take several minutes. It cost 125 pounds for the 16-kilobyte model or 175 pounds for 48 kilobytes, cheap enough for many families. About five million were sold. Teenagers wrote games in their bedrooms and sold them on cassette, helping to start Britain's video game industry. Unofficial copies of the Spectrum were even built in the Soviet Union and Eastern Europe.",
+        "In the United States and much of Europe, the giant of the home was the Commodore 64. First shown at the Consumer Electronics Show in Las Vegas in January 1982 and on sale that August for 595 dollars, it had 64 kilobytes of memory, which gave it its name, and a special sound chip called the SID that could play rich, synthesiser-like music. Commodore's boss, Jack Tramiel, pushed to make it cheap, and its price kept falling. Estimates of how many were sold range from about 12.5 to 17 million, and Guinness World Records lists it as the best-selling desktop computer model of all time. It was made until 1994.",
+        "Owning one of these computers often meant learning to program, because when you switched it on you were usually greeted by a blinking cursor waiting for BASIC commands. Magazines printed pages of program listings, and children spent hours typing them in line by line, then hunting for the typing mistakes when the game would not run. Without knowing it, they were debugging, just like Grace Hopper's team. Many of today's game designers, engineers and computer scientists first learned this way."
+      ]
+    },
+    {
+      "heading": "Machine of the Year and the Macintosh",
+      "paragraphs": [
+        "Every year Time magazine chooses a Man of the Year (now called Person of the Year), the person who has most influenced the news. For 1982 it surprised everyone. It did not choose a person at all. It named the computer as 'Machine of the Year', saying it marked the arrival of the Information Age. The same issue also told the story of Steve Jobs and Apple, one of the young companies leading the new industry.",
+        "Meanwhile Apple was working on bringing the graphical ideas Jobs had seen at Xerox PARC to ordinary people. Its first attempt, the Lisa (1983), was powerful but very expensive and did not sell well. The second attempt was smaller and cheaper. On 22 January 1984, during the Super Bowl, the biggest American football game, Apple showed a dramatic advertisement directed by the film-maker Ridley Scott, in which a young athlete hurls a hammer at a giant screen. Two days later, on 24 January 1984, the Apple Macintosh went on sale.",
+        "The Macintosh was a neat beige box with a 9-inch black-and-white screen built in, a slot for the new small 3.5-inch floppy disks, a keyboard, and a mouse with just one button. It used a Motorola 68000 processor running at about 8 megahertz and had 128 kilobytes of memory. It cost 2,495 dollars. When you switched it on, there was no blinking cursor waiting for commands. Instead you saw a desktop with little pictures called icons, folders you could open into windows, and menus you could pull down with the mouse. Programs such as MacPaint, for drawing, and MacWrite, for writing, came with it. By April 1984 about 50,000 had been sold.",
+        "Some reviewers called the first Macintosh a toy, and its small memory soon proved a limit. But it was the first mass-market computer to bring a mouse-driven, picture-based interface to the general public. It made the mouse familiar, and it helped turn computers into tools for artists, writers and designers as well as programmers and accountants. In 1985 Microsoft released Windows, its own graphical system for IBM-compatible PCs, which you will read about in the next part.",
+        "Look how far things had come. In 1968, Engelbart's mouse and windows were a wonder seen by about a thousand experts in one hall. By 1985, millions of families had a computer in the house, children were writing programs on the kitchen table, and offices were filling with PCs. And once computers had reached homes, they did not stop there. They were about to squeeze into pockets, cars, toys and almost everything else."
+      ]
+    }
+  ],
+  "deepDive": "Who 'invented' the personal computer is a question historians enjoy arguing about, because the answer depends on what you count. Some point to machines built for a single user long before the 1970s, such as the LINC (1962), a small laboratory computer designed for individual scientists. Others favour the Xerox Alto (1973), which had nearly every feature of a modern desktop but was never sold. Still others pick the Altair 8800 (1975), because it was the first cheap microcomputer to sell in large numbers, or the 1977 Trinity, because these were the first that ordinary people could use straight out of the box. A similar debate surrounds the graphical user interface. Engelbart's team showed the mouse, linked text and multiple screen areas in 1968; Xerox PARC added overlapping windows, icons, a bitmapped display and WYSIWYG editing in the 1970s; and Apple and later Microsoft refined and popularised these ideas. As part of the arrangement for Apple's 1979 visit, Xerox was allowed to buy Apple shares before they went on public sale, and in 1988 Apple sued Microsoft over the look of Windows, a case Apple largely lost. The economics matter as much as the inventions. The microprocessor cut the cost of a computer's brain from thousands of dollars to a few hundred, following the trend described by Moore's law. IBM's choice of off-the-shelf parts and a licensed operating system let it launch quickly, but meant that the real lasting value flowed to the chip maker, Intel, and the software maker, Microsoft, a pairing later nicknamed 'Wintel'. Finally, there is a cultural story. The Homebrew Computer Club grew partly out of a 1960s and 1970s belief that computers could give power to individuals rather than big institutions. Gates's 1976 letter, arguing that programmers should be paid, marks the start of a debate between proprietary software and free or open software that is still going on today.",
+  "funFact": "The original Altair 8800 had no keyboard or screen: you programmed it by flipping a row of switches on its front panel and read the answers from blinking red lights.",
+  "check": {
+    "q": "Which company's research lab built the Alto, a 1973 computer with windows, icons and a mouse?",
+    "a": "Xerox (at Xerox PARC)",
+    "wrong": [
+      "Apple",
+      "Microsoft",
+      "Commodore"
+    ]
+  },
+  "sources": [
+    {
+      "title": "The Mother of All Demos",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Mother_of_All_Demos"
+    },
+    {
+      "title": "Xerox Alto (Revolution exhibition)",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/revolution/input-output/14/347"
+    },
+    {
+      "title": "Homebrew Computer Club and early personal computers (Revolution exhibition)",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/revolution/personal-computers/17/312"
+    },
+    {
+      "title": "Altair 8800",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Altair_8800"
+    },
+    {
+      "title": "TRS-80",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/TRS-80"
+    },
+    {
+      "title": "VisiCalc",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/VisiCalc"
+    },
+    {
+      "title": "IBM Personal Computer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/IBM_Personal_Computer"
+    },
+    {
+      "title": "BBC Micro",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/BBC_Micro"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Douglas Engelbart's first computer mouse prototype from the 1960s, a small box with a cord and a red button",
+      "search": "Engelbart first computer mouse prototype"
+    },
+    {
+      "want": "An Altair 8800 computer showing its front panel of toggle switches and red indicator lights",
+      "search": "Altair 8800 computer front panel"
+    },
+    {
+      "want": "An original 1984 Apple Macintosh 128K with its built-in screen, keyboard and mouse",
+      "search": "Macintosh 128K 1984 computer"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "n": 4,
+  "title": "The Weight of the Air",
+  "when": "1640s – 1690s",
+  "summary": "Air feels like nothing, but it is actually pressing on you all the time. In the 1600s, scientists proved it with tubes of shiny mercury, a trip up a mountain, and teams of horses that could not pull two metal bowls apart. Then an inventor named Denis Papin had a brilliant idea: use steam to make an empty space, and let the air do the pushing.",
+  "sections": [
+    {
+      "heading": "The Pump That Would Not Pull",
+      "paragraphs": [
+        "Try this the next time you have a drink with a straw. When you suck, it feels as if you are pulling the drink up into your mouth. For most of history, that is exactly what people thought was happening. The suction seemed to grab the liquid and drag it upward.",
+        "Since the time of the ancient Greek thinker Aristotle, most learned people in Europe also believed that 'nature abhors a vacuum'. In other words, nature supposedly hates empty space so much that it will rush to fill any gap. When you pull the handle of a pump and make a space inside it, water was thought to leap up to fill that space because a true emptiness was impossible.",
+        "But practical people kept running into a puzzle that did not fit. As you read in Part 1, a suction pump on top of a well or mine shaft could only lift water so far. In Italy, pump makers and well diggers had found that no matter how well they built a suction pump, the water would not rise more than about 10 metres (roughly 33 feet). Pull harder, build the pump better, and still the water stopped at the same height, as if it had hit an invisible ceiling.",
+        "The great Italian scientist Galileo Galilei wrote about this limit in his last major book, published in 1638. He thought the column of water might be like a rope that snaps when it gets too long under its own weight. It was a clever guess, but it was wrong. The real answer would come from one of his students, and it would turn the whole idea of suction upside down.",
+        "The answer, in short, is this: suction does not pull at all. When you drink through a straw, you lower the air pressure inside the straw, and the air pressing down on the surface of your drink outside the straw pushes the liquid up. Air has weight. It is a vast invisible ocean, many kilometres deep, sitting on top of everything. That weight can push water up a pipe, but only so far: a column of water about 10 metres tall weighs as much as the whole column of air above it, and at that point the push runs out. That discovery would become the key to the first practical steam engines."
+      ]
+    },
+    {
+      "heading": "Torricelli's Shining Tube",
+      "paragraphs": [
+        "Evangelista Torricelli was born in 1608 and grew up in a poor family in Italy. He was a gifted mathematician, and in 1641 he went to help the elderly Galileo, who by then was blind and living under house arrest near Florence. After Galileo died in early 1642, Torricelli took his place as mathematician to the Grand Duke of Tuscany.",
+        "Torricelli thought hard about the pump puzzle. If the weight of the air was pushing water up to about 10 metres, then a heavier liquid should be pushed up a much shorter distance. Mercury, the silvery metal that is liquid at room temperature, is about 13.6 times heavier than the same amount of water. So the air should hold up a column of mercury roughly 13.6 times shorter than a column of water.",
+        "In 1643, Torricelli and his colleague Vincenzo Viviani tested this. They took a glass tube about a metre long, sealed at one end, and filled it to the brim with mercury. Then, holding a finger over the open end, they turned it upside down and dipped that end into a dish of mercury before letting go. The mercury in the tube began to sink, but it did not all pour out. It stopped when the column was about 76 centimetres (about 30 inches) tall.",
+        "Above the mercury, at the sealed top of the tube, was a gap. Nothing had been let in. No air could have got past the mercury. The space was, as nearly as anyone could tell, empty. It was a man-made vacuum, and it is still sometimes called a Torricellian vacuum. Torricelli had made the first barometer, an instrument for measuring air pressure.",
+        "He also noticed that the height of the mercury changed a little from day to day. The air itself was getting slightly heavier or lighter, which we now know is linked to the weather. In a famous letter written in 1644 to his friend Michelangelo Ricci, Torricelli summed up his view: 'We live submerged at the bottom of an ocean of air.'",
+        "Torricelli died young, in 1647, at just 39. But his tube spread quickly across Europe. In honour of his work, a small unit of pressure used in vacuum science is still called the torr. And weather forecasters still talk about air pressure in terms that trace back to his experiment: standard air pressure at sea level is often given as 760 millimetres of mercury, or about 29.92 inches of mercury."
+      ]
+    },
+    {
+      "heading": "A Barometer Climbs a Mountain",
+      "paragraphs": [
+        "Not everyone was convinced. Perhaps, some scholars argued, the space at the top of the tube was not really empty but filled with some invisible, airy substance. Perhaps the mercury was held up by nature's dislike of emptiness, not by the weight of the air. The famous French philosopher René Descartes, for example, believed that space was always filled with some kind of matter.",
+        "In France, a brilliant young mathematician named Blaise Pascal, born in 1623, came up with a way to settle the question. If the mercury really was held up by the weight of the air above it, then carrying the tube up a mountain should make a difference. At the top of a mountain there is less air above you, so it should weigh less and push less. The mercury column should get shorter.",
+        "Pascal was often ill and could not make the climb himself. So he asked his brother-in-law, Florin Périer, who lived in Clermont-Ferrand in central France, close to a tall old volcano called the Puy de Dôme. Its summit stands about 1,465 metres (around 4,800 feet) above sea level.",
+        "On 19 September 1648, Périer and a group of local witnesses carried out the experiment. First they set up mercury tubes in the garden of a monastery in the lower part of town, where the mercury stood at about 26 inches and 3.5 'lines' in the old French units (a line was a twelfth of an inch). One tube was left behind in the garden, with a monk to watch it all day and check that it did not change. Then the rest of the group climbed the mountain, about 500 fathoms (roughly 1,000 metres) higher.",
+        "At the summit, the mercury stood at only about 23 inches and 2 lines, more than 3 French inches lower, which is roughly 8 centimetres. They repeated the test several times, in different spots, and always got the same result. On the way down, the column grew taller again. Back at the monastery, the mercury in the watched tube had stayed the same all day.",
+        "Pascal then tried a smaller version in Paris, taking a barometer up the tall bell tower of the church of Saint-Jacques-de-la-Boucherie, about 50 metres high. Even there, the mercury dropped slightly. The conclusion was hard to argue with: the air really has weight, the weight gets smaller as you go higher, and the gap at the top of the tube is a vacuum. Today the official scientific unit of pressure, the pascal, is named after him."
+      ]
+    },
+    {
+      "heading": "The Mayor, the Bowls and the Horses",
+      "paragraphs": [
+        "Meanwhile, in Germany, a very different kind of scientist was at work. Otto von Guericke was born in 1602 in Magdeburg, a wealthy trading city on the River Elbe. As a young man he lived through one of the worst events of the Thirty Years' War: in 1631 an army stormed Magdeburg, and most of the city was burned and thousands of its people were killed. Guericke and his family survived. Afterwards he helped rebuild the city as an engineer and official, and from 1646 he served as its mayor for more than thirty years.",
+        "Guericke wanted to know whether a vacuum could really exist, and he decided to make one himself. His first attempts used a wooden barrel full of water. He tried to pump the water out with a pump like those used by fire brigades, hoping to leave emptiness behind. But air kept whistling in through the wood. Then he tried pumping the air directly out of a sealed copper globe. Around 1650 he built one of the first true vacuum pumps, or air pumps: a cylinder with a piston and valves that, stroke by stroke, removed a little air each time.",
+        "Once he could pump air out of containers, Guericke found that the outside air pressed on them with astonishing force. One copper vessel suddenly crumpled with a bang as the air was pumped out, crushed by the air outside. In another test, according to the reports, he fitted a large cylinder with a piston attached to a rope, and a number of strong men took hold of the rope. When the air was pumped out from under the piston, the outside air pushed it down into the cylinder, dragging the men along with it. Keep that picture in your mind: a piston in a cylinder, pushed by the air into a vacuum. It is exactly the idea that later steam engines would use.",
+        "Guericke's most famous show used two hollow copper half-spheres, each about 50 centimetres (20 inches) across. Their edges fitted together and were sealed with grease. When the two halves were just touching, they could be separated easily. But when Guericke pumped out the air inside, they held together as if welded.",
+        "On 8 May 1654, at the meeting of the Imperial Diet (a great assembly of German rulers) in Regensburg, Guericke showed this in front of Emperor Ferdinand III. Teams of horses were hitched to rings on each half and whipped to pull in opposite directions. According to the reports, thirty horses, fifteen on each side, could not drag the halves apart. He later repeated the show in Magdeburg with sixteen horses, and the demonstration became known around the world as the Magdeburg hemispheres. Yet when a small tap was opened to let air back in, the halves simply fell apart in a person's hands.",
+        "Why was it so strong? Air at sea level presses with a force of about 1 kilogram on every square centimetre of surface, about 14.7 pounds on every square inch. A circle 50 centimetres across has an area of nearly 2,000 square centimetres. If all the air inside had been removed, the outside air would have pressed the halves together with a force equal to the weight of about 2 tonnes, more than a large car. Guericke's pump could not make a perfect vacuum, so the real force was smaller, but still more than the horses could overcome. The original hemispheres can still be seen today at the Deutsches Museum in Munich.",
+        "The news first spread through a book by a Jesuit scholar named Gaspar Schott in 1657, and Guericke later described his experiments himself in a book of 1672. Across Europe, people who had never thought about air before were suddenly talking about its weight and power."
+      ]
+    },
+    {
+      "heading": "Boyle, Hooke and the Air Pump",
+      "paragraphs": [
+        "One of the people who read Schott's description was Robert Boyle, born in 1627 in Ireland, the fourteenth child of one of the richest men in the British Isles. Boyle was free to spend his life doing experiments, and he moved to Oxford in 1654, where he gathered a group of talented helpers.",
+        "Boyle thought Guericke's pump was clumsy. It needed, as Boyle put it, the hard work of two strong men for several hours. So he asked his young assistant, Robert Hooke, to build a better one. Hooke, born in 1635 on the Isle of Wight, was a mechanical genius who would later become famous for his microscope drawings and his studies of springs. By 1659 he had built Boyle an improved air pump. It had a large glass globe on top, which meant that experimenters could put objects inside and watch what happened as the air was pumped out.",
+        "And watch they did. They put a ticking watch inside the globe and found that, as the air was removed, the sound grew fainter, showing that sound needs air to travel through. They watched candle flames shrink and go out, and saw that burning coals faded as the air was taken away. They also placed small animals inside, which suffered as the air disappeared. Such experiments seem cruel to many people today, and they helped show that animals, like fire, need something in the air to stay alive.",
+        "In 1660 Boyle published a book describing these experiments, with a title that begins New Experiments Physico-Mechanical, Touching the Spring of the Air. By 'spring', Boyle meant that air behaves like a spring: squash it and it pushes back harder; let it expand and it pushes back more gently. In 1662 he described the rule we now call Boyle's law: if you keep the temperature the same and squeeze a gas into half the space, its pressure doubles. (Other researchers, including Henry Power and Richard Towneley, were working on the same idea, so credit is shared.)",
+        "Boyle's air pump became one of the most famous scientific instruments of its century, so famous that it was nicknamed the 'machina Boyleana', Boyle's machine. Air pumps became star attractions at the new Royal Society of London, founded in 1660, where scientists met to watch and argue about experiments. It all added up to a powerful new understanding: air has weight, air has springiness, and a vacuum can be made and used."
+      ]
+    },
+    {
+      "heading": "Huygens's Gunpowder Engine",
+      "paragraphs": [
+        "If the air can push so hard on an empty space, could that push be turned into useful work? One of the first scientists to try was the Dutch genius Christiaan Huygens, born in 1629. He had already invented the pendulum clock and discovered Saturn's largest moon, Titan. In the 1670s he was working in Paris at the new French Royal Academy of Sciences.",
+        "Huygens designed an engine that used gunpowder, of all things. It is often dated to 1673, though Huygens described it in detail in 1678, and a model seems to have been built around 1678 or 1679. Picture a tall metal tube, standing upright, with a piston inside that could slide up and down. A tiny charge of gunpowder was placed at the bottom and lit. The bang drove the hot gases outward and pushed the piston up. Near the top, the hot gases escaped through holes covered by leather flaps that worked like one-way valves: they flapped open to let gas out but fell shut again so air could not get back in.",
+        "Then came the clever part. The little bit of gas left inside the tube cooled down and shrank, leaving a partial vacuum under the piston. Now the air outside pushed the piston back down with great force. By tying a rope from the piston over a pulley to a weight, the downward push could lift a load. By 1682, according to one report, a dram of gunpowder, about one-sixteenth of an ounce, could raise seven or eight boys, a load of hundreds of kilograms.",
+        "The gunpowder engine never became practical. Each shot needed a fresh charge, loading it was slow and dangerous, the leather valves leaked, and the vacuum was never very good because some burnt gas always remained. Historians still debate how well it could ever have worked. But it pointed the way to a crucial idea: use the push of the air on a piston, once you have made an empty space underneath it. Huygens's young assistant in Paris had been watching closely. His name was Denis Papin."
+      ]
+    },
+    {
+      "heading": "Denis Papin's Bone Digester",
+      "paragraphs": [
+        "Denis Papin was born in 1647 near Blois in France, into a Protestant family. He trained as a doctor, but he was fascinated by machines and experiments. In 1673 he was in Paris, working with Huygens on air pumps and on experiments with gunpowder. Two years later, in 1675, he moved to London, where he became an assistant to Robert Boyle.",
+        "In London, Papin invented something that you might have in your kitchen today. He called it a 'digester', and it was the ancestor of the pressure cooker. It was a strong metal pot with a lid that could be clamped down tightly so that steam could not escape. Inside, water could be heated well above its usual boiling point. That was the secret: when steam is trapped, the pressure rises, and at higher pressure water does not boil until it is much hotter than 100 °C. Food cooked in that extra-hot water became tender much faster. Papin's digester could even soften bones until they could be crushed, and he showed how they could be turned into a nourishing jelly.",
+        "Of course, trapping steam in a sealed pot is risky. If the pressure gets too high, the pot can explode. Papin's solution was one of his most important inventions: the safety valve. A small hole in the lid was plugged by a valve held shut by a lever with a weight on it. If the steam pressure grew too strong, it lifted the weight and let some steam escape, then the valve dropped shut again. By sliding the weight along the lever, Papin could set the highest pressure he wanted. The same basic idea protected steam boilers for the next two centuries, and versions of it are still used today.",
+        "Papin presented his digester to the Royal Society in 1679. But his life was unsettled. He worked for a few years in Venice from 1681, then returned to London. In 1685, the French king Louis XIV withdrew the rights of Protestants in France, so Papin could not go home safely. In about 1687 he took a post teaching mathematics at the University of Marburg in Germany, and he also worked for the ruler of Hesse-Kassel, a German prince."
+      ]
+    },
+    {
+      "heading": "1690: A Piston, a Cylinder and a Drop of Water",
+      "paragraphs": [
+        "Papin had not forgotten the gunpowder engine. In Germany he kept thinking about how to make a good vacuum under a piston. Gunpowder left dirty gases behind. What else could fill a cylinder and then disappear almost completely? The answer was steam.",
+        "Here is the simple science behind his idea. When water boils at normal air pressure, it turns into steam that takes up roughly 1,600 to 1,700 times as much space as the water did. One small cup of water can become enough steam to fill a bathtub many times over. But if you cool that steam, it condenses, turning back into a few drops of water. All that space it was filling is suddenly almost empty. You have made a near-vacuum, without any pump at all.",
+        "In 1690 Papin published a description of a small engine using this trick, in a scientific journal printed in Leipzig called the Acta Eruditorum. He took a vertical metal cylinder, closed at the bottom and open at the top, with a piston that fitted snugly inside. He put a little water in the bottom and heated it with a fire underneath. As the water boiled, the steam pushed the piston gently up to the top, where a catch held it in place. Then he took away the fire and let the cylinder cool. The steam inside condensed back into water, leaving a near-vacuum below the piston. When the catch was released, the weight of the air outside, about 1 kilogram on every square centimetre, drove the piston down hard. A rope tied to the piston and run over a pulley could lift a weight on the other side.",
+        "Notice what Papin's engine did. The steam did not push the piston down. The steam was only a way to create an empty space. The real force came from the atmosphere, just as it had in Guericke's cylinder and Huygens's gunpowder tube. This is why later engines of this type are called 'atmospheric engines'. Papin's piston-and-cylinder layout is the basic arrangement that Thomas Newcomen and James Watt would later build on, which you will meet in Parts 6 and 7.",
+        "Papin's model was slow. For every single stroke, the fire had to be brought in and taken away again and the whole cylinder heated and cooled, so it moved only now and then, and it was nowhere near strong enough for a mine. He realised it might be used to pump water or even to drive a boat, and he worked on other designs, including a steam pump that used steam pressure, described in 1707. A story spread in the 1800s that he had built a steam-powered boat in Germany, but historians showed that his boat was actually driven by paddles turned by hand. That steam boat story is a legend.",
+        "Sadly, Papin never found the money and support to turn his ideas into big working engines. He returned to London in 1707 and struggled to earn a living, complaining that his work was used without credit. He died in poverty, probably in 1713; for a long time nobody even knew where he was buried, until a burial record at St Bride's Church in London was found in 2016. Yet the key ideas were now on the table: steam can be made in a boiler, it can fill a cylinder, it can be condensed to make a vacuum, the air will then push a piston with tremendous force, and a safety valve can keep the boiler from bursting.",
+        "All that was missing was someone who could put those ideas into a machine big enough, tough enough and simple enough to run all day at the bottom of a flooded mine. In England, mine owners were becoming desperate. Their shafts were getting deeper, the water kept pouring in, and horses could not keep up. In 1698, a military engineer named Thomas Savery would step forward with a patent for a fire-powered water pump, which he soon advertised under a very hopeful name: 'the Miner's Friend'."
+      ]
+    }
+  ],
+  "deepDive": "The scientific battle over the vacuum was not just about pumps. For about two thousand years, following Aristotle, most European scholars held that a true void was impossible. Torricelli's 1643 tube, Pascal's 1648 Puy de Dôme test and Guericke's pumps shifted the explanation from nature 'pulling' into a void to the surrounding air 'pushing'. Pascal's design is admired for including a control: a tube left at the bottom of the mountain and watched all day, so the drop at the summit could not be blamed on the weather. The numbers are easy to check. Standard sea-level pressure is 101,325 pascals, which is the weight of about 10.3 metres of water or 760 millimetres of mercury, and works out to about 1.03 kilograms-force per square centimetre or 14.7 pounds per square inch. That is why no suction pump can lift water more than about 10 metres, even in theory; in practice leaks and dissolved air keep it lower. For Guericke's 50-centimetre hemispheres, a perfect vacuum would give a holding force of roughly 20 kilonewtons, about the weight of 2 tonnes; modern estimates suggest his pump reached only a partial vacuum, so the real force was lower. The power of condensing steam comes from the huge change in volume. At 100 °C and normal pressure, one gram of liquid water becomes about 1.67 litres of steam, roughly 1,670 times its liquid volume. Condense it and the volume collapses, which in a closed cylinder means the pressure collapses too. In practice, early engines never reached a perfect vacuum: the hot cylinder walls kept re-boiling some of the condensed water, and air leaked in. Historians also debate the role of social factors. Robert Boyle's style of public, witnessed experiments, with detailed reports so others could repeat them, became a model for modern science, but it was challenged at the time by the philosopher Thomas Hobbes, who doubted that air pumps proved anything about the vacuum. Finally, a note on credit: Papin's 1690 piston-and-cylinder engine had every key element of the atmospheric engine except a practical boiler and automatic valves, but he lacked funding and skilled workshops, a reminder that inventions need money and makers as well as ideas.",
+  "funFact": "The original Magdeburg hemispheres, which in 1654 held together against teams of horses using nothing but air pressure, are still on display at the Deutsches Museum in Munich.",
+  "check": {
+    "q": "In Papin's 1690 idea, what actually pushed the piston down?",
+    "a": "The pressure of the outside air, after the steam under the piston condensed and left a near-vacuum",
+    "wrong": [
+      "High-pressure steam forced in from a boiler",
+      "An exploding charge of gunpowder",
+      "A team of horses pulling on a rope"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Evangelista Torricelli",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Evangelista_Torricelli"
+    },
+    {
+      "title": "Blaise Pascal",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Blaise_Pascal"
+    },
+    {
+      "title": "Magdeburg hemispheres",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Magdeburg_hemispheres"
+    },
+    {
+      "title": "Otto von Guericke",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Otto_von_Guericke"
+    },
+    {
+      "title": "Robert Boyle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robert_Boyle"
+    },
+    {
+      "title": "Gunpowder engine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gunpowder_engine"
+    },
+    {
+      "title": "Denis Papin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Denis_Papin"
+    },
+    {
+      "title": "Air Pressure",
+      "publisher": "NOAA (JetStream)",
+      "url": "https://www.noaa.gov/jetstream/atmosphere/air-pressure"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Gaspar Schott's 1657 engraving (or Guericke's 1672 engraving) of teams of horses trying to pull apart the Magdeburg hemispheres",
+      "search": "Magdeburg hemispheres horses engraving"
+    },
+    {
+      "want": "Robert Boyle's air pump as drawn by Robert Hooke for New Experiments Physico-Mechanical (1660)",
+      "search": "Boyle air pump 1660 engraving"
+    },
+    {
+      "want": "Denis Papin's steam digester with its weighted safety valve, or Papin's 1690 piston-and-cylinder diagram",
+      "search": "Denis Papin steam digester"
+    }
+  ]
+}

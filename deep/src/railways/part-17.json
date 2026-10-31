@@ -1,0 +1,165 @@
+{
+  "n": 17,
+  "title": "Diesel Power and the End of Steam",
+  "when": "1890s – 1970s",
+  "summary": "A German engineer named Rudolf Diesel invented an engine that lit its fuel just by squeezing air until it was super hot. Shiny new diesel trains raced across countries, and one by one the smoky steam engines were sent to museums. But then cars and planes stole many passengers, and railways had to find new ways to stay useful.",
+  "sections": [
+    {
+      "heading": "Rudolf Diesel's Red-Hot Air",
+      "paragraphs": [
+        "Imagine pumping up a bicycle tyre very fast. Put your hand on the pump afterwards and it feels warm. That warmth is a clue to one of the most important engines ever invented. When you squash air quickly into a smaller space, it gets hotter. Squash it hard enough and it becomes hot enough to set fuel on fire, with no flame and no spark at all.",
+        "The man who turned that simple clue into a world-changing machine was Rudolf Diesel. He was born in Paris on 18 March 1858 to parents from Bavaria in southern Germany, and he grew up to become a brilliant, stubborn engineer. As a student in Munich he learned a shocking fact from his teacher, the refrigeration expert Carl von Linde: steam engines, the mighty machines that powered factories, ships and trains, turned only about 6 to 10 percent of the heat in their fuel into useful work. All the rest drifted away as wasted heat. Diesel decided he would build something far better.",
+        "In 1892 he received a German patent (an official document saying an invention belongs to its inventor) for a new kind of 'heat engine', and in 1893 he published a book explaining his theory, with the grand title Theory and Construction of a Rational Heat Motor. A big machine-building company in Augsburg, the firm that later became MAN, agreed to help him build a test engine, along with the steelmaker Krupp.",
+        "It was not easy. During one high-pressure test a cylinder head burst, and Diesel was lucky not to be badly hurt. Earlier in his career another experimental engine, which used ammonia vapour, had exploded and nearly killed him. Year after year he and the Augsburg workers rebuilt, tested and improved. In 1895 one prototype reached an efficiency of about 16.6 percent. Then, in early 1897, a new single-cylinder engine was officially tested and turned about 26 percent of its fuel's energy into work. That was several times better than a typical steam engine, and the world took notice.",
+        "So how does a diesel engine work? Inside a metal cylinder there is a piston that slides up and down. First the piston moves down and sucks in plain air. Then it moves up and squeezes that air into a tiny space, often 15 to 23 times smaller than before. Engineers call this the compression ratio. Squeezed so hard, the air heats up to several hundred degrees Celsius. At exactly the right moment, a fine spray of fuel is squirted in. The fuel meets the scorching air and bursts into flame on its own. The hot gases expand with tremendous force, shoving the piston down. Finally the piston pushes the used gases out, and the four-step cycle starts again.",
+        "Because the fuel lights itself, a diesel engine needs no spark plug. Because it squeezes the air so hard, it gets far more work out of each drop of fuel than most other engines. Diesel engines could also burn heavy, cheap oils. Diesel himself experimented with many fuels, and at the Paris World's Fair of 1900 a small diesel engine was shown running on peanut oil.",
+        "Rudolf Diesel's own story ended in mystery. On 29 September 1913 he boarded the steamer Dresden in Antwerp, Belgium, to cross to England. During the night he vanished from the ship. Days later a body was found in the sea and identified from his belongings. Nobody knows for certain what happened, and people still argue about it today. He never saw his engine pull a main-line train, but within a few decades it would change railways everywhere."
+      ]
+    },
+    {
+      "heading": "Why a Diesel Train Is Secretly Electric",
+      "paragraphs": [
+        "Early diesel engines were huge and heavy, built for factories and ships, so at first nobody was sure they belonged on rails. People still tried. In 1912 the Prussian State Railways in Germany received a 95-tonne locomotive in which a diesel engine drove the wheels through gears and rods. Tests in 1913 showed lots of problems, and the First World War stopped the experiment.",
+        "The trouble was a basic fact about engines. A car engine, a lorry engine and a diesel engine all like to spin within a certain range of speeds. They cannot push hard while barely turning, and they cannot start a heavy load from a dead stop on their own. In a car, a clutch and gearbox solve the problem. But imagine building a gearbox and clutch strong enough to start a train weighing more than a thousand tonnes. It would have to be enormous, and it would wear out quickly.",
+        "The clever answer was to put electricity in the middle. In a diesel-electric locomotive, the diesel engine never touches the wheels at all. Instead, it spins a generator, a machine that turns spinning motion into electricity. Cables carry that electricity to traction motors, which are powerful electric motors mounted next to the axles. The traction motors turn the wheels. In other words, a diesel-electric locomotive is really a travelling power station joined to an electric train.",
+        "This trick has big advantages. Electric motors can push extremely hard when they are turning slowly, which is exactly what you need to get a long, heavy train rolling. The diesel engine can keep humming at its most comfortable speed while the electrical controls decide how much power the motors receive. In 1914 an engineer named Hermann Lemp, working for the American company General Electric, designed a control system that let a driver manage the whole thing with a single handle. His idea became the model for diesel-electric controls for decades.",
+        "The driver of a diesel-electric locomotive moves a throttle lever through a series of steps called notches. Each notch tells the engine to run a bit faster and the generator to send more power to the motors. Many diesel-electric locomotives can also use dynamic braking: when slowing down, the traction motors are switched to work as generators, which makes them resist the turning wheels. The electricity they produce is turned into heat in large grids of resistors and blown away by fans, saving wear on the ordinary brakes.",
+        "The first diesel-electric railcars ran in the German kingdom of Saxony in 1914. By 1925 small diesel-electric 'boxcab' locomotives were working in American freight yards. These were switchers, or shunters, the little engines that push wagons around yards to sort them into trains. Diesels were perfect for this job. A steam shunter had to keep its fire burning all day, even while waiting for its next small task. A diesel could simply idle, using very little fuel, and be ready the moment it was needed.",
+        "There was one more advantage that would matter enormously. Thanks to Frank Sprague's multiple-unit idea, which you met with electric trains, several diesel-electric locomotives could be coupled together and controlled by one crew in the front cab. Need more power for a heavy train or a steep hill? Just add another unit. With steam, every extra locomotive needed its own driver and fireman."
+      ]
+    },
+    {
+      "heading": "Silver Streaks: The Streamliners",
+      "paragraphs": [
+        "In the early 1930s the world was in the Great Depression, a time when many businesses failed and millions of people lost their jobs. Railways were losing passengers to cars and buses. They needed something exciting to win people back. Their answer was the streamliner: a sleek, smooth train shaped to slip through the air, often powered by diesel engines.",
+        "Germany struck first. In 1932 the national railway, the Deutsche Reichsbahn, ordered a two-car diesel train from a factory in Görlitz. It had two 12-cylinder Maybach diesel engines, each driving its own generator, together producing about 810 horsepower. Its rounded nose and smooth sides had been carefully shaped to cut air resistance. Regular service began on 15 May 1933 between Berlin and Hamburg, about 286 kilometres apart. The journey took 138 minutes, an average of about 124 km/h, with a top speed of 160 km/h. It was one of the fastest scheduled train services in the world, and people nicknamed it the Fliegender Hamburger, the 'Flying Hamburger'. Inside it carried 98 seated passengers plus a tiny four-seat buffet. Its success led to a whole fleet of similar fast diesel trains linking German cities.",
+        "Across the Atlantic, the Chicago, Burlington and Quincy Railroad, usually called the Burlington, had a president named Ralph Budd who loved new ideas. He worked with the Budd Company of Philadelphia (no relation, despite the matching name) to build a train unlike anything Americans had seen. It was made of stainless steel, so it gleamed silver and never needed painting. The pieces were joined by a special electric welding method called shotwelding. The three cars were linked together on shared sets of wheels, making the train light and low. Its diesel engine came from the Winton Engine Company, part of General Motors, and produced about 660 horsepower. The train was named Zephyr, after Zephyrus, the Greek god of the gentle west wind.",
+        "On 26 May 1934 the Zephyr set out to prove what it could do. The plan was audacious: run non-stop from Denver, Colorado, to Chicago, Illinois, a distance of about 1,015 miles (1,633 km), all in daylight. It would arrive on the opening day of the second season of Chicago's world's fair, the Century of Progress Exposition. Ordinary Burlington trains took about 25 hours for the same trip.",
+        "The Zephyr left Denver at just after 7 o'clock in the morning. Track workers guarded crossings along the route, and crowds gathered at stations to watch it flash past. On board were Ralph Budd, the train's builder Edward Budd, reporters, railway staff and a few lucky members of the public. There was even a mascot: a small donkey, called a burro, named Zeph, donated by a Denver newspaper. On one stretch the train touched about 112.5 mph (181 km/h).",
+        "At 8:09 that evening it arrived in Chicago, 13 hours and 5 minutes after leaving Denver, nearly two hours ahead of schedule. Its average speed over the whole journey was about 77 mph (124 km/h). It then glided onto the stage at the world's fair to cheering crowds. Newspapers across the country celebrated the 'Dawn-to-Dusk' run. A steam train could not have done it without stopping again and again for water and coal; the Zephyr's diesel just kept going.",
+        "The Zephyr went into regular service and became famous, even starring in a Hollywood film. Other railways rushed to build their own streamliners, and soon trains with names like the City of Salina and the Flying Yankee were zooming across America. The original Zephyr, later called the Pioneer Zephyr, is preserved today at the Museum of Science and Industry in Chicago, where visitors can walk through it."
+      ]
+    },
+    {
+      "heading": "Steam's Last Giants",
+      "paragraphs": [
+        "Steam engineers did not give up without a fight. In fact, some of the most amazing steam locomotives ever built appeared at the very moment diesels were starting to win. It was as if steam wanted to show off one last time.",
+        "In Britain the designer Nigel Gresley built streamlined express engines for the London and North Eastern Railway, with smooth, wedge-shaped casings. On 3 July 1938 one of them, Mallard, ran down a long slope called Stoke Bank near Grantham with driver Joseph Duddington and fireman Thomas Bray on the footplate. It reached 126 mph (203 km/h), a world speed record for steam that has never been beaten. Some experts think the speed it held steadily was a little lower, about 124 mph, but either way it was a stunning run, and Mallard now rests at the National Railway Museum in York.",
+        "In America, steam went big rather than fast. The Union Pacific Railroad had a problem: its freight trains had to climb the Wasatch Mountains between Ogden, Utah, and Green River, Wyoming. Ordinary locomotives needed help from extra 'helper' engines on the steep grades. So the railway asked the American Locomotive Company (ALCO) in Schenectady, New York, to build a monster. The first of these arrived in 1941. While No. 4000 was being built, a worker chalked the words 'Big Boy' on the front, and the nickname stuck.",
+        "Big Boy was so long that its frame had to bend in the middle. It was an articulated locomotive, meaning it had two sets of driving wheels, each with its own cylinders, so the engine could snake around curves. Its wheel arrangement was 4-8-8-4: four small wheels at the front, two groups of eight big driving wheels, and four small wheels under the cab. The engine alone weighed around 345 tonnes, and with its huge tender it stretched about 40 metres, longer than three buses parked end to end. A mechanical stoker, a kind of screw conveyor, fed coal into its huge firebox, because no human fireman could have shovelled fast enough.",
+        "Twenty-five Big Boys were built: twenty in 1941 and five more in 1944, during the Second World War, when railways were carrying enormous amounts of war supplies. They hauled long freight trains for nearly two decades. The last Big Boy run in regular service took place on 21 July 1959. Eight survive, and one of them, No. 4014, was restored to working order in 2019 for the 150th anniversary of the first transcontinental railroad. Today it still steams across the American West on special tours, drawing huge crowds.",
+        "Other countries built their own last great steam engines too. Britain's final steam locomotive built for British Railways, a heavy freight engine named Evening Star, was completed in 1960. But by then everyone could see where the future lay."
+      ]
+    },
+    {
+      "heading": "Why the Railways Switched",
+      "paragraphs": [
+        "If steam engines could be so fast and so strong, why did railways replace them? The answer comes down to money, time and hard work.",
+        "First, there was fuel. As you saw when we climbed inside a steam locomotive, a typical steam engine turned only about 5 to 10 percent of its coal's energy into pulling power. A diesel-electric locomotive typically turned roughly 30 to 40 percent of its fuel's energy into useful work, several times better. That meant far less fuel for the same job.",
+        "Second, there was water. Steam engines drank enormous amounts of it, so railways had to build water towers every few dozen miles. In the dry deserts of the American West, finding clean water was a real headache, and hard minerals in the water built up inside boilers like scale inside a kettle. Diesels needed no water for their boilers, because they had none.",
+        "Third, there was maintenance. A steam locomotive needed hours of preparation each day. Someone had to light the fire, sometimes many hours before departure, clean out ash, oil dozens of moving parts, and regularly wash out the boiler. Steam engines spent a large part of their lives in workshops. Diesels spent much more time actually out on the line earning money. They could be refuelled quickly from tanks and left idling for hours without anyone tending them.",
+        "Fourth, there were crews. With multiple-unit control, one driver could command three, four or more diesel units at the front of a heavy train. When steam railways needed more power, they added another locomotive with another crew. Over thousands of trains a year, that difference added up to huge savings.",
+        "Diesels were also cleaner to work around. Steam crews breathed smoke and coal dust, and steam trains blackened stations, tunnels and the clothes of passengers. Diesels still produced exhaust, but far less soot than a coal fire.",
+        "In the United States, the turning point came at the end of the 1930s. General Motors' Electro-Motive Division built a four-unit freight diesel called the FT and sent it on a demonstration tour of American railways beginning in 1939. It hauled heavy freight trains over mountain routes and impressed railway bosses everywhere. After the Second World War, orders poured in. In 1949 the same company launched a simple, practical locomotive called the GP7, a 'general purpose' engine that could do almost any job, and versions of it soon filled railway yards across the country.",
+        "The switch was astonishingly fast. According to railway records, steam's share of the US locomotive market fell from about 30 percent in 1945 to about 2 percent in 1948. By the mid-1950s American railways had retired around 90 percent of their steam engines."
+      ]
+    },
+    {
+      "heading": "The Fires Go Out",
+      "paragraphs": [
+        "On the big American railways, mainline steam had almost entirely disappeared by around 1960. The Norfolk and Western Railway, a coal-carrying line that built its own excellent steam engines and stayed loyal to them longer than most, finally gave in at the end of the 1950s. A few small railways kept old steam engines working a little longer, but the era was over.",
+        "Britain was slower. In 1955 British Railways announced a huge Modernisation Plan to bring in diesel and electric trains, yet it kept building some steam engines until 1960, and many early diesels were unreliable. Then the change sped up. Engine sheds closed one by one, and railway fans rushed around the country with cameras and notebooks to record the last steam trains in their area.",
+        "The final scheduled steam-hauled passenger trains on British Railways' standard-gauge network ran on 3 August 1968, in north-west England around Preston, Liverpool and Manchester. One week later, on 11 August 1968, British Railways ran a farewell special from Liverpool to Carlisle and back. Tickets cost 15 guineas, a lot of money at the time, so the train became known as the Fifteen Guinea Special. Four different locomotives took turns pulling it, including the famous express engine Oliver Cromwell. Thousands of people lined the tracks to watch it go by. The very next day, British Railways banned steam locomotives from its main lines.",
+        "Steam lasted much longer in some other parts of the world, where coal was cheap and workers' wages were low. India ran its last scheduled broad-gauge steam train in December 1995, though steam still climbs into the hills on the Darjeeling Himalayan Railway. China built new main-line steam locomotives until 1988, and its last mainline steam service ended in 2005.",
+        "Yet steam never completely died. Volunteers rescued hundreds of old locomotives from scrapyards. Today heritage railways in Britain, America, Australia and many other countries run steam trains for visitors, so a child in the 2020s can still smell coal smoke and hear the chuff of a working steam engine."
+      ]
+    },
+    {
+      "heading": "Hard Times: Cars, Planes and Cuts",
+      "paragraphs": [
+        "Diesels made trains cheaper to run, but railways faced an even bigger challenge: people were finding other ways to travel. After the Second World War, more and more families bought cars. Lorries (trucks) carried goods from door to door. In 1956 the United States began building the Interstate Highway System, a vast network of fast, multi-lane roads paid for mostly by the government. Two years later, big jet airliners such as the Boeing 707 began flying passengers across the country in a few hours.",
+        "Passenger trains could not keep up. In 1945 railways carried about 74 percent of America's commercial intercity passenger travel (counted in passenger-miles); by 1957 the figure had fallen to about 32 percent. The length of passenger routes shrank from about 107,000 miles in 1958 to about 49,000 miles in 1970. Private railway companies were losing money on almost every passenger train and wanted to stop running them.",
+        "To save America's passenger trains from disappearing completely, Congress passed the Rail Passenger Service Act, which President Richard Nixon signed on 30 October 1970. It created a new national company to run intercity passenger trains, called Amtrak. When Amtrak began operating on 1 May 1971, it kept only about half of the routes that had been running the day before: 184 out of 366. Amtrak still runs today, while freight companies own most of the tracks.",
+        "Britain faced the same crisis. By 1961 British Railways was losing about 300,000 pounds every day. The government asked a businessman and scientist named Richard Beeching to fix it. On 27 March 1963 he published a report called The Reshaping of British Railways. It found that many country branch lines and small stations carried very few passengers and freight, and it recommended closing 2,363 stations and roughly 5,000 miles of railway.",
+        "Most, though not all, of these closures went ahead, along with some lines that were not even on Beeching's list. The busiest year was 1964, when about 1,000 miles of route closed. Over the following years Britain lost thousands of miles of railway and well over 2,000 stations. Some towns were left without any train service at all. The 'Beeching cuts' are still argued about today. Some people say they saved the railway from bankruptcy; others say they went too far and that many lines would be useful now.",
+        "Interestingly, some of those lines have come back. In 2015 about 35 miles of the old Waverley Route south of Edinburgh reopened as the Borders Railway, and other stations have been reopened too. Many closed branch lines were rescued by volunteers and now run as heritage railways."
+      ]
+    },
+    {
+      "heading": "Boxes on Rails: Freight Fights Back",
+      "paragraphs": [
+        "Just when railways seemed old-fashioned, a humble metal box gave freight trains a brand-new purpose. On 26 April 1956 an American trucking businessman named Malcolm McLean sent the ship Ideal X from Newark, New Jersey, to Houston, Texas, carrying 58 big metal containers. The idea was simple: instead of loading thousands of separate sacks, barrels and crates by hand, pack goods into strong, standard-sized boxes that cranes could lift straight from a ship onto a lorry or a train.",
+        "In 1968 the International Organization for Standardization began publishing standard container sizes, so a box packed in China could fit on a ship, a train or a truck anywhere in the world. Railways loved it. In 1977 the first railway wagon designed to carry containers stacked two high was delivered in the United States, and in 1984 the first train made up entirely of 'double-stack' wagons set off from Los Angeles across the country towards New Jersey. One train could now carry hundreds of containers across a continent, pulled by a few diesel-electric locomotives working together with one crew.",
+        "Today, long container trains rumble across North America, Europe, India and China, and some run all the way from China to Europe. Freight railways became one of the cheapest ways to move goods over land, thanks to the same old secret: steel wheels rolling on steel rails need very little energy.",
+        "Still, by the early 1960s passenger trains in many countries looked tired and slow compared with shiny cars and jet planes. Many people thought the age of the passenger train was ending. Then, in October 1964, Japan unveiled a gleaming blue-and-white train with a rounded nose that looked as if it had come straight from the future."
+      ]
+    }
+  ],
+  "deepDive": "Why did diesel-electric traction beat steam so decisively, when steam engines could still be faster and, in the case of Big Boy, enormously strong? Historians of technology mostly point to economics rather than performance. A steam locomotive is an external combustion engine: fuel burns in a firebox, heats water in a boiler, and only then does the steam push pistons. Each stage leaks heat, and much of the energy leaves with the exhaust steam up the chimney, so overall thermal efficiency was usually only around 5 to 10 percent. A diesel is an internal combustion engine that burns its fuel inside the cylinder at very high compression (typically 15:1 to 23:1), and diesel-electric locomotives typically delivered roughly 30 to 40 percent of the fuel's energy as useful work. Yet fuel was not the whole story, because coal was often cheaper than oil. The bigger savings came from 'availability', the fraction of time a locomotive was ready to work. Steam engines needed daily fire-cleaning, frequent boiler wash-outs, and heavy overhauls, while diesels could run for long periods between servicing. Railways also closed hundreds of water towers, coaling stations and engine sheds, and shed large numbers of jobs, which made dieselisation a painful time for railway workers. Multiple-unit control meant one crew could run several units, a direct saving in wages. There are debates too. Some engineers argue that late steam designs, such as André Chapelon's rebuilt locomotives in France, showed steam's efficiency could have been improved much further, and that the change was partly driven by fashion and by diesel builders' heavy marketing, including General Motors' famous FT demonstration tour. In Britain, historians debate whether the 1955 Modernisation Plan was rushed, since it ordered many untested diesel designs that later proved unreliable. The Beeching report remains controversial: defenders note that many lines lost large sums and carried very few passengers, while critics argue that it judged branch lines in isolation, ignoring the passengers they fed onto main lines, and that cheaper ways of running them were never properly tried. Ironically, rising traffic and some reopened lines since the 1990s suggest that not every closure was wise.",
+  "funFact": "When the Burlington Zephyr made its record non-stop run from Denver to Chicago in 1934, it carried a mascot on board: a small burro (donkey) named Zeph.",
+  "check": {
+    "q": "In a diesel-electric locomotive, what actually turns the wheels?",
+    "a": "Electric traction motors, powered by a generator that the diesel engine spins",
+    "wrong": [
+      "The diesel engine's pistons, connected straight to the wheels by rods",
+      "Steam from a boiler heated by the diesel engine",
+      "A huge battery charged overnight at the station"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Rudolf Diesel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rudolf_Diesel"
+    },
+    {
+      "title": "Diesel engine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Diesel_engine"
+    },
+    {
+      "title": "Diesel locomotive",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Diesel_locomotive"
+    },
+    {
+      "title": "Pioneer Zephyr",
+      "publisher": "Griffin Museum of Science and Industry, Chicago",
+      "url": "https://www.griffinmsi.org/explore/whats-here/exhibits/pioneer-zephyr"
+    },
+    {
+      "title": "Pioneer Zephyr",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pioneer_Zephyr"
+    },
+    {
+      "title": "DRG Class SVT 877 (Flying Hamburger)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/DRG_Class_SVT_877"
+    },
+    {
+      "title": "Union Pacific Big Boy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Union_Pacific_Big_Boy"
+    },
+    {
+      "title": "Beeching cuts",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Beeching_cuts"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The stainless-steel Pioneer Zephyr diesel streamliner on display at the Museum of Science and Industry in Chicago",
+      "search": "Pioneer Zephyr Museum Science Industry"
+    },
+    {
+      "want": "Union Pacific Big Boy No. 4014, the giant articulated steam locomotive, in steam",
+      "search": "Union Pacific Big Boy 4014"
+    },
+    {
+      "want": "Portrait photograph of Rudolf Diesel, inventor of the diesel engine",
+      "search": "Rudolf Diesel portrait"
+    }
+  ]
+}

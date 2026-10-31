@@ -1,0 +1,146 @@
+{
+  "n": 11,
+  "title": "High Pressure!",
+  "when": "1800 – 1850",
+  "summary": "When James Watt's patent ended, bold engineers turned the steam up high. Richard Trevithick drove a puffing steam carriage up a Cornish hill on Christmas Eve, and smaller, stronger engines started to move. In the Netherlands, a giant steam engine even helped drain a whole lake!",
+  "sections": [
+    {
+      "heading": "Mr Watt's Big Worry",
+      "paragraphs": [
+        "Imagine you are James Watt in the 1790s. Your engines are famous. They pump water out of Cornish mines, turn the machines of mills and breweries, and earn you and Matthew Boulton a steady stream of royalties. And yet, whenever someone talks about using 'strong steam', you shake your head. Strong steam was the old name for steam kept at a pressure well above the push of the ordinary air around us. Watt thought it was a terrible idea.",
+        "His reasons were not silly. Watt's engines worked at a pressure only a little above the atmosphere. Most of the push on the piston came from the vacuum made in his separate condenser, with the air or low-pressure steam pressing on the other side. Boilers in his day were made of small plates of wrought iron or copper riveted together, often in the shape of a wagon or a haystack. They had no pressure gauges in the modern sense, the metal was uneven, and the seams could leak or tear. Pump up the pressure inside a boiler like that, and it might burst, throwing out scalding water, steam and chunks of metal. Watt had seen enough accidents with ordinary equipment to fear what strong steam could do.",
+        "There was also business. Boulton and Watt's patent on the separate condenser, extended by Parliament in 1775, lasted until 1800. Any engine that used a separate condenser had to pay them. Watt had no reason to encourage a completely different kind of engine that might compete with his own, and he and Boulton watched rival engine builders closely. When Watt's own assistant, William Murdoch, built a little model steam carriage in about 1784, Watt discouraged him from spending time on it. A road vehicle would need a small, light, powerful engine, and Watt believed that was simply not safe or practical.",
+        "So for the last quarter of the 1700s, British steam power mostly stayed low-pressure, slow and huge. A big Boulton and Watt pumping engine could fill a building three or four storeys tall. Its beam could weigh several tonnes. It was wonderful for a mine or a mill, but you could never put it on wheels.",
+        "Then the year 1800 arrived, and Watt's patent ran out. Watt himself retired soon afterwards. Almost at once, a group of bold engineers, many of them from the mining country of Cornwall, began to try the very thing Watt had warned against. They raised the pressure, made the engines smaller, and discovered that they could build machines that were light enough to move. This part of the story is about those daring people, the engines they built, and the clever ways they squeezed more work out of every lump of coal."
+      ]
+    },
+    {
+      "heading": "The Cornish Giant",
+      "paragraphs": [
+        "The most daring of them all was Richard Trevithick. He was born in 1771 in the parish of Illogan, near Camborne in Cornwall, a landscape of tin and copper mines, engine houses and spoil heaps. His father was a mine 'captain', which meant a manager in charge of a mine's work. Young Richard did badly at school. One teacher reportedly called him disobedient, slow and obstinate. But he was a natural with machines and numbers, and he was enormously strong. He grew to over six feet tall (about 1.88 metres), and stories from Cornwall describe him lifting heavy pieces of machinery and throwing a sledgehammer over the top of an engine house. Those stories may have grown a little in the telling, but everyone agreed he was a giant of a man.",
+        "Trevithick grew up surrounded by steam engines. The Cornish mines were deep and wet, and every one needed pumps. Cornwall had no coal of its own, so coal had to be shipped in from South Wales, which made it expensive. That is why Cornish mine owners cared so much about fuel efficiency, and why they had paid Boulton and Watt for their engines, sometimes grumbling bitterly about the royalties. Trevithick's father was among the Cornish mining men who argued with Boulton and Watt's agents. So from childhood, Richard heard about steam, money and patents at the dinner table.",
+        "As a young engineer in the 1790s, Trevithick worked on pumping engines at Cornish mines and became known for being able to fix almost anything. He began to think about strong steam. If you let steam at high pressure push the piston, he reasoned, you would not need a giant cylinder to get a big force. A small cylinder with a strong push could do as much work as a big cylinder with a gentle push. And if the pressure was high enough, you might not need a condenser at all. You could simply let the used steam blow out into the open air.",
+        "That second idea is very important. Watt's whole improvement had been the separate condenser, which made a vacuum. A high-pressure engine that just exhausted its steam into the air threw away the benefit of the vacuum, but it also got rid of the condenser, the cold-water tank, the air pump and much of the plumbing. What was left was a compact package: a boiler, a cylinder, a piston and a crank. Trevithick's engines made a loud 'puff' with every stroke as the spent steam escaped, so people called them 'puffers'.",
+        "Trevithick's boilers were also a new design. Instead of a separate furnace under a big boiler, he put the fire inside an iron tube that ran through the water, so the hot gases heated the water from within. He made the boiler cylindrical, a shape that is much better at holding pressure, like a can of fizzy drink. Around 1812 he developed this idea into what engineers came to call the 'Cornish boiler'. It was stronger and more efficient than the old wagon-shaped ones, and it is one of the reasons Trevithick could safely use more pressure than his rivals had dared."
+      ]
+    },
+    {
+      "heading": "Christmas Eve on Camborne Hill",
+      "paragraphs": [
+        "Picture Camborne on 24 December 1801. It is winter, dark early, and probably damp, because it is Cornwall. In a workshop near what is now Fore Street, Trevithick and his cousin and partner Andrew Vivian have built something strange: a steam engine on wheels, made not to pump water but to carry people. Local people later called it the 'Puffing Devil', because of the noise and smoke it made.",
+        "That evening, the machine set off up Fore Street and then up Camborne Hill, from Camborne Cross towards the village of Beacon. Accounts say it carried six passengers, with Vivian steering. For people who had only ever been pulled by horses, it must have been astonishing and a little frightening to feel a machine pull them uphill by itself, hissing and puffing in the dark. A Cornish folk song, 'Going up Camborne Hill, coming down', is often linked to the event, and the town still celebrates Trevithick Day every year.",
+        "The Puffing Devil was not built to last, though, and its career was short. A few days later, it broke down after crossing a gully in the road. The operators pushed it under a shelter and went off to a nearby pub to eat and warm up, but they left the fire burning in the firebox. With nobody adding water, the boiler boiled dry. The iron grew red hot, and the whole machine was destroyed by fire. Trevithick blamed the operators, not the design, and he was probably right: a boiler always needs water covering its hot surfaces.",
+        "That accident teaches an important lesson about steam. A boiler is safe only while its plates are kept cool by water on the other side. Once the water level falls below the hot parts, the metal can soften, weaken and fail. Engineers later added glass water gauges so drivers could see the level, and 'fusible plugs', little plugs of soft metal that melt if the metal gets too hot, letting steam into the fire to warn the crew and put it out. Trevithick himself began using such plugs.",
+        "Trevithick did not give up. In 1803 he built a second road vehicle, the London Steam Carriage, and drove it through the streets of London with passengers aboard. It looked like a large stagecoach perched on enormous wheels, with the engine at the back. It worked, but nobody wanted to buy one. The roads of the time were rough and muddy, horses were cheap and familiar, and a heavy, noisy steam carriage frightened people and horses alike. Trevithick sold the engine to power a mill instead. Road steam had to wait for better roads and better machines, a story told in a later part of this Deep Dive."
+      ]
+    },
+    {
+      "heading": "Puffers at Work, and a Bang at Greenwich",
+      "paragraphs": [
+        "Trevithick's real success was not road carriages but small stationary engines, meaning engines that stayed in one place. In 1802 he built an experimental high-pressure engine at the Coalbrookdale ironworks in Shropshire, the same valley where Abraham Darby had pioneered smelting iron with coke almost a century earlier. Reports say the boiler there worked at about 145 pounds per square inch, about ten times the pressure of the air around us. For comparison, a Watt engine's boiler usually ran at only a few pounds per square inch above the atmosphere. Trevithick was not just nudging the pressure up. He was multiplying it.",
+        "Why does more pressure give more power from a smaller engine? Think about the force on a piston. Force equals pressure times area. If you double the pressure, you get the same force from a piston with half the area. Raise the pressure tenfold, and a cylinder much narrower than Watt's can still deliver a powerful shove. A smaller cylinder means a smaller engine, less iron, less weight and less cost. That is the whole secret of the high-pressure engine: same power, much less bulk.",
+        "Puffer engines became popular for jobs where a big beam engine was too expensive or too awkward. They wound ropes up and down mine shafts, crushed ore, drove rolling mills, ran small factories and were even fitted to barges. Because they had no condenser, they did not need a big supply of cooling water, so they could work in places with little water. Some were mounted on wheeled frames and dragged from job to job, early versions of what were later called portable engines. Trevithick also sent engines abroad. In 1816 he sailed to Peru to work with high-pressure engines at the silver mines of Cerro de Pasco, high in the Andes, where thin mountain air made the old atmospheric engines much weaker. He spent about eleven adventurous years in South America and came home almost penniless.",
+        "High pressure had a dangerous side, just as Watt had feared. In 1803, one of Trevithick's engines, being used to pump water at Greenwich near London, exploded. Four men were killed. The boy left in charge had reportedly gone off to catch eels and asked a labourer to watch the engine; the safety valve had been fastened down, so pressure built up until the boiler burst. Boulton and Watt pointed to the disaster as proof that strong steam was reckless. Trevithick responded by adding a second safety valve that could not be tampered with easily, and a fusible plug. Over the following century, boiler explosions would remain a serious danger, a story told honestly in Part 15.",
+        "So who was right, Watt or Trevithick? In a way, both. Watt was right that high-pressure boilers needed better materials, better workmanship and careful rules. Trevithick was right that high pressure was the future. Almost every steam engine built after the middle of the 1800s, and every modern power-station turbine, uses steam at pressures far higher than anything either of them imagined."
+      ]
+    },
+    {
+      "heading": "Across the Ocean: Oliver Evans",
+      "paragraphs": [
+        "At almost the same time, on the other side of the Atlantic, an American inventor was reaching the same conclusions on his own. Oliver Evans was born in 1755 near Newport, Delaware, the son of a farmer. As a young apprentice to a wagon maker, he read every book on mechanics he could find, sometimes, it is said, by the light of burning wood shavings because candles cost money.",
+        "Evans first became famous for something that had nothing to do with steam. In the 1780s he designed an automatic flour mill. Grain was carried up by bucket elevators, moved sideways by screw conveyors, ground, cooled and sifted, with very little human lifting. It was one of the earliest continuous, automated production lines, and it saved millers a great deal of labour. George Washington had the mill on his Mount Vernon estate converted to Evans's system in 1791.",
+        "Evans had dreamed about strong steam since his youth. He argued that high pressure would give more power for less fuel and money, and around 1801 to 1804 he built working high-pressure engines in Philadelphia. Around 1806 he set up a factory there called the Mars Works, which built engines for mills, sawmills and, later, steamboats. In 1805 he published a book with a strange title, The Abortion of the Young Steam Engineer's Guide. The odd name was his way of complaining that he could not afford to publish the full guide he had planned. Even so, it spread his ideas.",
+        "His most eye-catching machine appeared on 13 July 1805. The Philadelphia Board of Health had asked him to build a steam dredge, a machine to scoop mud and sand from the city's docks. Evans built a flat-bottomed boat about 30 feet (9 metres) long and weighing roughly 17 tons, and he gave it a fancy Greek-sounding name: Oruktor Amphibolos, meaning roughly 'amphibious digger'. Because his workshop was some distance from the river, he fitted the boat with wheels and drove it through the streets, powered by its own engine. The first set of wheels collapsed under the weight and had to be replaced. At the Schuylkill River it was launched and, Evans said, paddled to the harbour.",
+        "Here we must be careful. Evans often described the Oruktor as a great success, and he is sometimes called the builder of America's first self-propelled road vehicle. But few eyewitness accounts survive, his own versions of the story changed over the years, and historians doubt it travelled far on land with its small engine. It was not much use as a dredge either, and the Board of Health had it broken up for parts in 1808. What is clear is that Evans proved high-pressure engines could work in America, and that idea took off. On the great rivers of the American West, such as the Mississippi and Ohio, steamboats came to rely on compact high-pressure engines, because they were light, cheap and did not need cold water for a condenser. Evans died in 1819, the same year as James Watt."
+      ]
+    },
+    {
+      "heading": "Using Steam Twice: Woolf's Compound Engine",
+      "paragraphs": [
+        "High-pressure engines that puffed their steam into the air had one big weakness. When the steam left the cylinder, it was still hot and still had plenty of pressure. All that leftover energy simply drifted away in a white cloud. A Cornish engineer named Arthur Woolf asked a clever question: why not use the steam a second time before throwing it away?",
+        "Woolf was born in Camborne in 1766, the same town as Trevithick. He went to London as a young man and worked as an engine builder, including in breweries, which used steam engines to pump water and grind malt. In 1804 he patented his idea, now called the compound engine. Steam from the boiler first entered a small high-pressure cylinder and pushed its piston. Then, instead of escaping, it passed into a second, much larger cylinder, where it expanded further and pushed a second piston. Finally it went to a Watt-style condenser, which made a vacuum and squeezed out the last bit of usefulness. In Woolf's design, both cylinders worked together on the same end of the engine's beam.",
+        "Why does the second cylinder need to be bigger? Because by the time the steam reaches it, the pressure has dropped. Lower pressure gives less push per square centimetre, so to get a useful force you need more area. That is why compound engines always have cylinders that grow in size, like a family of brothers and sisters lined up by height.",
+        "Woolf's engines were tricky to build well, and his early claims about how much coal they saved were too hopeful. But the principle was sound, and it became one of the most important ideas in steam engineering. Later in the 1800s, compound engines with two, three and even four stages, called triple- and quadruple-expansion engines, powered ocean liners and cargo ships across the world, saving huge amounts of coal on long voyages. Woolf himself went home to Cornwall in 1811 and became the chief engineer at Harvey and Company of Hayle, one of the great Cornish engine-building firms. That connection will matter in a moment, when we meet one of the biggest steam engines ever built."
+      ]
+    },
+    {
+      "heading": "The Cornish Engine and the Giant of Haarlemmermeer",
+      "paragraphs": [
+        "Back in Cornwall, the mines kept getting deeper, and mine owners kept wanting to burn less of that expensive Welsh coal. Out of their need grew the Cornish engine, a kind of beam pumping engine that combined Watt's ideas with Trevithick's strong steam. It used a Cornish boiler to make steam at higher pressure than Watt's engines. Its cleverest trick was called expansive working. A valve let steam into the cylinder for only the first part of the piston's stroke, then shut. The trapped steam kept expanding, like a spring uncoiling, and kept pushing the piston the rest of the way. Less steam was used for each stroke, but the work was almost as great. Finally a condenser created a vacuum on the other side.",
+        "Cornish engineers also wrapped their cylinders, pipes and boilers in thick layers of insulation, called lagging, and surrounded the cylinder with a jacket of hot steam, so that as little heat as possible leaked away. On a cold day, visitors were surprised to find a Cornish engine house warm and quiet, with the great beam nodding slowly.",
+        "How did people know which engine was best? From about 1810 a group of mine owners published monthly figures in a report known as Lean's Engine Reporter, after the engineer Joel Lean who compiled it. Engines were rated by their 'duty', the amount of water they could lift, counted in millions of pounds raised one foot, for every bushel of coal burned. A bushel was a measure of about 94 pounds (roughly 43 kilograms) of coal. Early Watt engines achieved a duty of around 20 million, and later ones over 30 million. Between 1810 and 1840, the average duty of Cornish engines rose from around 20 million to about 90 million, and a few record-setting engines claimed even more. Publishing the numbers created friendly rivalry between mines, and that competition drove engines to become better and better.",
+        "Cornish engines were sold all over the world, and the greatest of them all was built not for a mine but for a lake. In the Netherlands, much of the land lies below sea level. Near the cities of Haarlem, Amsterdam and Leiden lay the Haarlemmermeer, a large lake that had grown over centuries as storms ate away its peat shores. In 1836 storms drove its waters right up to the edges of Amsterdam and Leiden. The Dutch government decided the lake had to be drained, and instead of using hundreds of windmills, it chose steam.",
+        "Three huge pumping stations were built: the Leeghwater, the Cruquius and the Lynden. The Cruquius, named after an 18th-century surveyor, Nicolaas Kruik, who had promoted draining the lake, was built in 1849 and started regular work in 1850. Its engine was made by Harvey and Company of Hayle in Cornwall, Arthur Woolf's old firm. It was a compound engine with an unusual design: a high-pressure cylinder 2.1 metres (84 inches) across sat inside a ring-shaped low-pressure cylinder about 3.66 metres (144 inches, or 12 feet) across. That outer cylinder is one of the largest steam-engine cylinders ever made. A family could stand inside it. Around the engine, eight great iron beams stretched out like the spokes of a wheel, each one working its own pump.",
+        "Together, the three stations pumped the lake dry by 1852, creating a new stretch of farmland that is now home to towns, farms and part of Amsterdam's Schiphol Airport. The Cruquius engine kept pumping until 1933. Today it is a museum, and the giant engine can be seen moving again, driven gently by a hydraulic system rather than steam. It stands as a monument to what Cornish high-pressure steam could do.",
+        "High pressure also made something else possible. Because a high-pressure engine was small and light for its power, it could be placed on wheels and made to pull itself along iron rails. In 1804, in Wales, a Trevithick engine became the first railway locomotive to haul a train along rails, and others soon followed. That thrilling story belongs to the separate Railways Deep Dive, so we will leave the rails there. Instead, our story heads north, to the cotton towns of Lancashire, where turning steam engines were about to pull the factory away from the riverbank and plant it in the heart of the city."
+      ]
+    }
+  ],
+  "deepDive": "Why did high pressure matter so much? The work a steam engine can do depends on how much the steam expands and how big the pressure difference is across the piston. Force on a piston equals pressure times area, so raising boiler pressure from a few pounds per square inch above the atmosphere (typical of Watt engines) to around 50 to 150 psi (as in Trevithick's experiments) let engineers shrink cylinders dramatically for the same power. That made engines lighter, cheaper and movable, opening the way to portable engines, river steamboats and locomotives. But non-condensing 'puffers' threw away the vacuum that gave Watt engines their economy, so in fuel terms they were often wasteful. The really big efficiency gains came from combining both ideas: high-pressure steam admitted for only part of the stroke and allowed to expand (expansive working), followed by condensation. Thermodynamics, which had not yet been invented (see Part 16), later explained why: the efficiency of a heat engine depends on the difference between the temperature at which heat enters and the temperature at which it leaves, and higher-pressure steam is hotter steam. Cornish mine owners measured progress with 'duty', millions of pounds of water raised one foot per bushel of coal (about 94 pounds). Watt engines reached roughly 20 to 30 million; Cornish engines improved from around 20 million in 1810 to about 90 million by 1840, and a few record trials claimed even more. Historians treat such record figures cautiously, because engines were sometimes carefully tuned for tests, coal quality varied, and gains often faded in everyday use. Credit is also debated. Trevithick and Oliver Evans developed high-pressure engines independently and at almost the same time, and both drew on earlier ideas, including Watt's own patent descriptions of expansive working, which Watt rarely used. Arthur Woolf's compound engine was ahead of the materials of its day, and compounding only became widespread later in the century, especially at sea with triple-expansion engines. Finally, the safety argument was real: boiler explosions became a major hazard of the 1800s, and the push for inspection, stronger boiler designs and safety codes grew directly out of the high-pressure revolution.",
+  "funFact": "The outer cylinder of the Cruquius engine in the Netherlands is about 3.66 metres (12 feet) across, wide enough for several people to stand inside it.",
+  "check": {
+    "q": "What happened to Trevithick's Puffing Devil a few days after its Christmas Eve 1801 run?",
+    "a": "It was destroyed by fire when it was left with the fire burning and the boiler boiled dry",
+    "wrong": [
+      "It exploded while climbing Camborne Hill",
+      "It was sold to drive a London mill",
+      "It was shipped to Peru to work in a silver mine"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Puffing Devil",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Puffing_Devil"
+    },
+    {
+      "title": "Oruktor Amphibolos",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oruktor_Amphibolos"
+    },
+    {
+      "title": "Arthur Woolf",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Arthur_Woolf"
+    },
+    {
+      "title": "Cornish engine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cornish_engine"
+    },
+    {
+      "title": "Museum De Cruquius",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Museum_De_Cruquius"
+    },
+    {
+      "title": "Richard Trevithick",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Richard_Trevithick"
+    },
+    {
+      "title": "Oliver Evans",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oliver_Evans"
+    },
+    {
+      "title": "Haarlemmermeer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Haarlemmermeer"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Portrait of the Cornish engineer Richard Trevithick",
+      "search": "Richard Trevithick portrait"
+    },
+    {
+      "want": "Replica of Trevithick's Puffing Devil steam road carriage at Camborne",
+      "search": "Puffing Devil replica Trevithick Camborne"
+    },
+    {
+      "want": "The giant Cornish beam engine and cylinder inside the Cruquius pumping station museum, Netherlands",
+      "search": "Cruquius steam engine interior"
+    }
+  ]
+}

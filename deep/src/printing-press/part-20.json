@@ -1,0 +1,148 @@
+{
+  "n": 20,
+  "title": "The Future of Printing — and the Big Picture",
+  "when": "today and tomorrow",
+  "summary": "Today some printers do not print words at all: they build solid things, layer by layer, from toys to rocket parts. Scientists are even printing with living cells. And every page you read, on paper or on a screen, is the newest step in a 5,000-year adventure that started with marks in clay.",
+  "sections": [
+    {
+      "heading": "A Printer That Builds Things",
+      "paragraphs": [
+        "Picture a small workshop in California in 1983. An engineer named Chuck Hull works for a company called UVP that uses ultraviolet light, the invisible light that gives you sunburn, to harden special coatings on things like tabletops. These coatings are made of a liquid plastic called a photopolymer, which stays runny in the dark but turns solid in a fraction of a second when ultraviolet light hits it. Hull had a bold thought: if light can harden one thin layer of this liquid, why not harden another layer on top of it, and another, and another, until you have built a whole solid object?",
+        "Think about how a printing press works. It puts one thin layer of ink on a flat sheet. Hull's idea was to print thousands of thin layers on top of each other, each one shaped like a slice of the finished object. It is a bit like making a loaf of bread by stacking slices instead of baking it whole. That year Hull used his process to make his first printed part: a small eye wash cup, the kind used to rinse an eye. It was not glamorous, but it proved the idea worked.",
+        "Hull called his process stereolithography, from Greek words meaning roughly 'solid stone writing', a cousin of the word lithography that you met in Part 16. Here is how it works. A computer holds a 3D design of the object and slices it into very thin horizontal layers. A platform sits just below the surface of a vat of liquid photopolymer. An ultraviolet laser beam, steered by mirrors, traces the shape of the first slice on the liquid's surface, and wherever the beam touches, the liquid hardens. Then the platform moves down by the thickness of one layer, fresh liquid flows over the top, and the laser traces the next slice, which sticks to the one below. Layer by layer, the object grows out of the liquid like something rising out of a pond.",
+        "Hull filed for a patent on 8 August 1984, and it was granted on 11 March 1986. In 1986 he co-founded a company called 3D Systems to sell the machines, and soon afterward, around 1987 to 1988, it began selling the SLA-1, the first commercial 3D printer. Hull also helped create a computer file format called STL that describes the surface of a 3D object as lots of tiny triangles. STL is still used by most 3D printing software today, so in a way, almost every 3D print carries a trace of his work.",
+        "Fair credit matters, just as it did with Bi Sheng, Korea's metal type and Gutenberg. Hull was not the only person thinking about building objects in layers. In Japan, Hideo Kodama published a description of a similar light-hardening method in 1981. In France, three researchers, Alain Le Mehaute, Olivier de Witte and Jean Claude Andre, filed a patent for a stereolithography process on 16 July 1984, about three weeks before Hull, though their project was not developed into a business. Hull is widely honored as the inventor of stereolithography because he built a working system, patented it and launched an industry. He was inducted into the National Inventors Hall of Fame in 2014 and received the U.S. National Medal of Technology and Innovation in 2023.",
+        "People often call this whole family of methods additive manufacturing, which means making things by adding material rather than taking it away. Most traditional manufacturing is subtractive: you start with a block of metal or wood and cut, drill or carve away what you don't want, like the woodblock carvers of Part 5 cutting away everything except the letters. Additive manufacturing does the opposite and adds material only where it is needed, so it can waste much less."
+      ]
+    },
+    {
+      "heading": "How 3D Printers Work Today",
+      "paragraphs": [
+        "Since Hull's first machine, inventors have found many ways to print in layers. The most common kind in homes and schools is called fused deposition modeling, or FDM, developed by Scott Crump, who co-founded a company called Stratasys and developed the method in the late 1980s. An FDM printer works a bit like a very precise, robot-controlled hot glue gun. A thin plastic thread called filament is pushed into a heated nozzle, where it melts. Motors move the nozzle across the build plate, drawing one layer of melted plastic, which cools and hardens within moments. Then the nozzle rises a tiny bit, or the plate drops, and it draws the next layer on top.",
+        "Those layers are very thin. A typical home printer uses layers about 0.1 to 0.3 millimeters thick, and some machines can go below 0.05 millimeters. That means a toy only 3 centimeters tall can be made of a hundred or more layers. If you look closely at a 3D-printed object, you can often see the tiny ridges where one layer meets the next, like the rings on a tree or the lines of a page of text.",
+        "Before printing, a program called a slicer takes the 3D design and cuts it into layers, then works out the exact path the nozzle must follow for each one, writing out a long list of instructions. This is surprisingly similar to the work of the compositor from Part 11 arranging letters line by line, except the computer does it in seconds. Because a printer cannot put plastic on thin air, the slicer also adds temporary support structures under overhanging parts, which are snapped off afterward.",
+        "Other methods use powders. In powder bed fusion, a thin layer of fine plastic or metal powder is spread across a bed, and a powerful laser melts or fuses the powder only where the object should be. Then a fresh layer of powder is spread on top, and the process repeats. When it is finished, the solid part is dug out of the loose powder, which can be reused. This is how many strong metal parts are made. The U.S. National Institute of Standards and Technology groups additive manufacturing into several main families, including powder bed fusion, material extrusion such as FDM, and vat photopolymerization, the family that includes Hull's stereolithography.",
+        "The list of printable materials keeps growing. Besides everyday plastics such as PLA, which is made from plant starches like corn, printers can use nylon, rubbery plastics, resins, ceramics, sand, concrete, wax, and metals including steel, titanium, aluminum and copper. Some experimental printers even squeeze out chocolate or dough. Each material needs its own settings: the right temperature, the right speed and the right layer thickness. Getting those right is a bit like the old printers learning exactly how damp to make their paper and how much ink to put on the type.",
+        "For a long time 3D printers were expensive machines for factories and laboratories. That began to change in the mid-2000s, when Adrian Bowyer, an engineer at the University of Bath in England, started the RepRap project to design an open, low-cost printer that could print many of its own parts. A few years later, in 2009, key patents on FDM expired, and companies began selling printers cheap enough for schools, libraries and families. Today some public libraries lend time on 3D printers, much as they lend books.",
+        "The uses are amazingly varied. Designers print prototypes, early test versions of a product, to check how it looks and fits before making thousands. Dentists print models of teeth and the clear plastic trays used to straighten them. Doctors print models of a patient's heart or skull to plan tricky surgeries. Engineers have printed custom medical implants shaped to match a person's own bones, such as a replacement section of jawbone. Hobbyists print toy figures, chess sets, replacement knobs and cookie cutters. People have even built small houses by printing layers of concrete from giant nozzles. And charities and volunteers have printed low-cost prosthetic hands for children."
+      ]
+    },
+    {
+      "heading": "Printing Parts for Rockets",
+      "paragraphs": [
+        "Some of the most exciting 3D printing happens in space programs, where every part must survive extreme heat, pressure and shaking. A rocket engine is fiendishly complicated. Its combustion chamber, where fuel burns, must be cooled by liquid flowing through hundreds of tiny channels in its walls, or it would melt. Making those channels the old way meant machining and joining many separate pieces, sometimes more than a thousand, and every joint was a place where something could leak or crack.",
+        "With 3D printing, engineers can print the chamber wall and its cooling channels as a single piece. NASA's Marshall Space Flight Center in Huntsville, Alabama, leads a project called RAMPT, short for Rapid Analysis and Manufacturing Propulsion Technology, which develops 3D-printed rocket engine parts and the computer tools to test them. Since it began, the project has carried out about 500 test firings of 3D-printed injectors, nozzles and combustion chambers, adding up to more than 16,000 seconds of burning.",
+        "The materials are special too. NASA scientists developed copper alloys, such as one called GRCop-42, that can carry heat away quickly and be printed from metal powder. Some printed chambers are wrapped in carbon fiber, which makes them about 40 percent lighter than traditional designs. NASA says printing could cut the cost of some engine parts by up to 70 percent and make them in half the time, and that test parts can be delivered in weeks instead of years. Some printed engine components are now about 3 meters (10 feet) tall.",
+        "Printing metal parts that must never fail is not as simple as pressing a button. Tiny gaps or bubbles can hide inside a layer if the powder does not melt completely, and a hidden flaw in a rocket engine could be dangerous. So engineers inspect printed parts carefully, sometimes using X-ray scans that look right through the metal, and they fire test engines again and again on test stands before trusting a design. That is why projects like RAMPT spend so much time testing, and why they also build computer simulations to predict how printed metal will behave under extreme heat and pressure.",
+        "There is a lovely echo of history here. When Gutenberg combined punches, moulds, type metal, oil-based ink and a screw press, he did not just make printing faster; he made a whole new kind of production possible. Rocket engineers say something similar about 3D printing: it lets them design shapes that simply could not be made any other way, like curving internal channels inside solid metal. Astronauts have also tested 3D printers aboard the International Space Station, imagining a future where crews on long missions print spare parts and tools instead of carrying every possible piece from Earth."
+      ]
+    },
+    {
+      "heading": "Printing With Living Cells and Glowing Circuits",
+      "paragraphs": [
+        "If a printer can lay down plastic and metal, could it lay down living cells? Scientists around the world are trying exactly that. It is called bioprinting. Instead of ink, a bioprinter uses a bioink: a soft, jelly-like material called a hydrogel, mostly made of water, mixed with living cells. The hydrogel acts like scaffolding, holding the cells in place and giving them a comfortable, wet home while they grow.",
+        "Bioprinters use methods you have already met in this story, adapted for delicate living things. Extrusion bioprinters squeeze bioink out of a nozzle in thin threads, like the FDM printers in the last section but without heat, which would kill the cells. Droplet bioprinters work like the inkjet printers from Part 17, shooting tiny droplets of bioink. Laser-based bioprinters use light, some of them hardening bioink layer by layer much like Hull's stereolithography.",
+        "It is far harder than printing plastic. Cells are fragile. Being squeezed through a narrow nozzle puts them under stress, and some types, especially certain stem cells, often do not survive. The biggest challenge of all is blood supply. Every cell in your body needs oxygen and food, and most cells are close to a tiny blood vessel. A thick printed tissue has no blood vessels, so cells deep inside it starve. Scientists are working hard on ways to print networks of channels that could act like blood vessels, but it remains one of the field's toughest problems.",
+        "So what can bioprinting do today? Mostly, it helps research. Scientists print small pieces of tissue to test new medicines, which can tell them how real human cells might react and may reduce some animal testing. They print models of diseases to study how illnesses develop. Researchers have printed cartilage, the bendy tissue in your nose and ears, and scaffolds to help bone heal, and they have tested printed tissues such as a windpipe graft in animals. Relatively simple structures are the furthest along. Printing a whole working heart, kidney or liver that could be transplanted into a person is not yet possible. It is a long-term dream, and some researchers, including teams working with Chuck Hull's company, are pursuing it, but it may take many years.",
+        "Printers are also making electronics. In printed electronics, special inks containing tiny particles of metal or other conducting materials are printed onto plastic, paper or fabric to make wires, antennas and simple circuits. The thin antennas inside some shop security tags and contactless cards can be made this way, and researchers are printing flexible sensors and even thin solar cells. Because printing can cover large areas cheaply, it might one day let us print electronics the way we print newspapers.",
+        "Screens are becoming more paper-like too. The E Ink technology you met in Part 19 now comes in color versions and is used for electronic shelf labels in shops and signs at bus stops that change without using much power. Engineers have built bendable and foldable screens, and some phones now fold in half like a booklet. The line between a printed page and a screen is getting blurrier every year."
+      ]
+    },
+    {
+      "heading": "Will Paper Survive?",
+      "paragraphs": [
+        "With e-readers, phones, websites and computers that can write text by themselves, you might expect paper books to be fading away. Yet printed books are still sold in enormous numbers. In the United States alone, hundreds of millions of printed books are sold every year, and children's picture books, cookbooks and bestselling novels are still mostly bought on paper. Libraries remain busy, and many have added e-book lending, computers and even 3D printers without throwing out their shelves.",
+        "Why does paper hold on? Part of the answer is that a book is a very good piece of technology. It needs no battery, never crashes, can be read in sunshine, survives being dropped, and can be lent to a friend with no password. A well-made book on acid-free paper, as Part 18 explained, can last for centuries. Some research also suggests that many people find it easier to remember and understand long texts they read on paper, though scientists still debate how big that effect is and why it happens.",
+        "Packaging, labels, posters, money, tickets and medicine leaflets are printed too. The world's printing presses are still running, even if newspapers print fewer copies than they used to. What has changed is that paper is now one choice among many, rather than the only way to share words.",
+        "Then there is a brand-new twist: artificial intelligence, or AI, programs that can produce text, pictures and even whole articles in seconds. In a way, this is the next chapter of the oldest story in this Deep Dive. Woodblocks made copying faster; Gutenberg's type made it faster still; computers made copies almost free. AI tools can now make new text almost free as well. That is powerful and useful, but it also means there is more text in the world than ever, and not all of it is true. As in the age of pamphlets and the Great Moon Hoax, readers need to ask: who made this, how do they know, and can I check it?",
+        "So the honest answer to 'Will paper survive?' is: probably yes, but alongside screens, not instead of them. Just as scribes kept writing for decades after printing arrived, and handwriting is still taught today, old and new ways of sharing words tend to live side by side, each doing what it does best."
+      ]
+    },
+    {
+      "heading": "Big Lessons From a 5,000-Year Story",
+      "paragraphs": [
+        "Let's step back and look at the whole journey. One of the clearest lessons is that inventions are built on earlier inventions. Gutenberg did not appear out of nowhere. He needed paper, which came from China through the Islamic world and Spain and Italy. He needed the idea of pressing an image again and again, which goes back to cylinder seals in Mesopotamia and woodblocks in Asia. He adapted a screw press that winemakers and papermakers already used. Later, the steam press needed the steam engine, the laser printer needed lasers and static electricity, and the web needed computers, networks and the alphabet itself.",
+        "The second lesson is that credit is shared across many cultures. Sumerians gave us writing in clay, Egyptians papyrus and hieroglyphs, Phoenicians and Greeks the alphabet. China gave the world paper, woodblock printing and Bi Sheng's movable type. Korea cast the oldest surviving book printed with metal type, the Jikji of 1377, and King Sejong created Hangul. The Islamic world spread papermaking and built huge libraries. Europe combined these threads into Gutenberg's fast system and later the industrial press. America, Britain, France, Germany, Switzerland, Japan and many other places added the inventions of the last two centuries. No single country or person owns the story of printing.",
+        "The third lesson is that each big step made words cheaper and more plentiful, and that changed who could read and who could speak. When books cost as much as a house, only rulers, churches and the wealthy owned them. When printing made them cheaper, more people learned to read, argued about religion, checked scientific results, followed the news and even questioned their governments. Historians like Elizabeth Eisenstein argued that print was an 'agent of change'. Others point out that print was one powerful helper among many causes, not a magic switch. Both views remind us that technology and people shape each other.",
+        "That is why so many countries protect freedom of speech and freedom of the press. Being able to copy and share words freely lets people learn, share discoveries, remember the past and hold powerful people to account. But Part 18 showed the other side: print has also carried propaganda, hoaxes and hatred, and rulers have burned books to silence ideas. The power to publish comes with a responsibility to publish truthfully, to give fair credit, to check facts and to treat other people with respect. That responsibility now belongs to everyone, because today almost anyone can publish."
+      ]
+    },
+    {
+      "heading": "From Clay Tablets to Your Screen",
+      "paragraphs": [
+        "Let's take one last journey, very fast, through everything we have seen. More than 5,000 years ago, a scribe in Uruk pressed a reed into wet clay to record sacks of grain. Egyptians wrote on papyrus, Greeks and Romans used alphabets and scrolls, and the codex gave us pages we could turn. In China, paper made writing light and cheap, and the Diamond Sutra of 868 showed that whole books could be printed from carved wood. About 1,000 years ago Bi Sheng arranged clay characters into pages, and Korean printers cast metal type and printed Jikji in 1377.",
+        "Then, more than 570 years ago, in Mainz, Gutenberg's system of punches, moulds, type metal, oily ink and press began turning out Bibles, and printing spread to more than 230 European towns by 1500. Luther's pamphlets flew across Germany, Copernicus and Vesalius printed their discoveries, newspapers and dictionaries appeared, and printers set up shop from Mexico City to Goa. Steam, iron and wood-pulp paper made printing an industry. Linotypes, halftones, offset presses, photocopiers and laser printers followed. Then computers, PostScript, the web and e-readers carried words onto screens, and 3D printers began to print objects, and even living cells.",
+        "And now here you are, at the newest point in that 5,000-year line, reading these words. Whether you are holding paper or looking at a screen, you are using the work of thousands of people across many centuries and many lands: the papermakers of China and Baghdad, the punchcutters of Mainz, the compositors with ink on their fingers, the engineers at CERN and the volunteers of Project Gutenberg.",
+        "Here is the most exciting part. For almost all of history, publishing was something only a few people could do. Today, with a computer, a tablet, or even a pencil and a photocopier, you can be a publisher too. You can write a story, draw a comic, design a poster for a school event, start a club newsletter, record facts about your town or build a website about something you love. If you do, remember the lessons of this journey: check your facts, give credit to the people whose ideas you build on, and use the power of words to help others understand the world.",
+        "Every page you read, paper or screen, is the latest step in a 5,000-year story that began with marks in clay. The next page has not been written yet. Maybe you will be the one to write it."
+      ]
+    }
+  ],
+  "deepDive": "Two debates run underneath this chapter. The first concerns who invented 3D printing. Patent records show that Alain Le Mehaute, Olivier de Witte and Jean Claude Andre filed a French patent for stereolithography on 16 July 1984, about three weeks before Chuck Hull's U.S. filing on 8 August 1984, and Hideo Kodama in Japan had published a layer-by-layer photopolymer method in 1981. Hull's patent, granted in 1986, and his company 3D Systems turned the idea into a working industry, which is why he is usually honored as the inventor. Historians of technology see the same pattern as with printing itself: several people reach similar ideas when the enabling pieces, here ultraviolet-curing resins, lasers and computer-aided design, become available, and the person who builds a practical system gets most of the fame. The second debate is about how revolutionary printing really was. Elizabeth Eisenstein's 1979 book The Printing Press as an Agent of Change argued that print's ability to make standardized, permanent, widely shared copies transformed European thought. Critics such as Adrian Johns replied that early printed books were often full of errors and piracy, and that trust in print had to be built through social institutions, not just machines. Most historians now take a middle view: print was a powerful amplifier whose effects depended on religion, politics, trade and literacy. Bioprinting shows why careful language matters in science writing. Oxygen can only diffuse a short distance through living tissue, roughly 100 to 200 micrometers, so thick printed tissues without blood vessels cannot keep their inner cells alive. Researchers have printed small tissue models for drug testing, cartilage constructs and bone scaffolds, and have tested some printed grafts in animals, but no bioprinted solid organ is in routine use in human transplant patients. Claims of 'printed organs' in headlines usually refer to small, simplified models or early research. The same caution applies to AI-generated text, which can be fluent yet wrong: as with every earlier copying technology, making words cheaper puts more weight on checking where they came from.",
+  "funFact": "The first object Chuck Hull ever 3D printed, in 1983, was a small eye wash cup.",
+  "check": {
+    "q": "What did Chuck Hull's stereolithography use to harden each layer of liquid plastic?",
+    "a": "Ultraviolet light from a laser",
+    "wrong": [
+      "A hot iron press",
+      "Melted lead from a Linotype",
+      "Static electricity and toner"
+    ]
+  },
+  "sources": [
+    {
+      "title": "3D Systems Co-Founder and CTO Chuck Hull Awarded National Medal of Technology and Innovation",
+      "publisher": "3D Systems",
+      "url": "https://www.3dsystems.com/press-releases/3d-systems-co-founder-chief-technology-officer-chuck-hull-awarded-national-medal"
+    },
+    {
+      "title": "Charles W. Hull",
+      "publisher": "National Science and Technology Medals Foundation",
+      "url": "https://nationalmedals.org/laureate/charles-w-hull/"
+    },
+    {
+      "title": "What Is Additive Manufacturing?",
+      "publisher": "National Institute of Standards and Technology (NIST)",
+      "url": "https://www.nist.gov/additive-manufacturing/what-additive-manufacturing"
+    },
+    {
+      "title": "NASA Additive Manufacturing Project Shapes Future for Agency, Industry Rocket Makers",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/marshall/nasa-additive-manufacturing-project-shapes-future-for-agency-industry-rocket-makers/"
+    },
+    {
+      "title": "3D bioprinting of cells, tissues and organs",
+      "publisher": "NIH PubMed Central (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7434768"
+    },
+    {
+      "title": "Electronic paper turns a page",
+      "publisher": "Science News Explores",
+      "url": "https://www.snexplores.org/article/electronic-paper-turns-page"
+    },
+    {
+      "title": "3D printing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/3D_printing"
+    },
+    {
+      "title": "Chuck Hull",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chuck_Hull"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A stereolithography (SLA) 3D printer or a resin object rising out of a vat of liquid photopolymer",
+      "search": "stereolithography 3D printer resin"
+    },
+    {
+      "want": "A desktop FDM 3D printer with its nozzle printing a plastic object layer by layer",
+      "search": "FDM 3D printer printing plastic"
+    },
+    {
+      "want": "A NASA 3D-printed metal rocket engine injector or combustion chamber during or after a hot-fire test",
+      "search": "NASA 3D printed rocket engine injector"
+    }
+  ]
+}

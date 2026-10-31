@@ -1,0 +1,153 @@
+{
+  "n": 20,
+  "title": "From Scabs to Code: The Whole Story",
+  "when": "Ancient times – today",
+  "summary": "Vaccines were not invented by one genius in one day. Over hundreds of years, healers, farmers, doctors, nurses, volunteers and scientists all added a piece, and together they saved well over a hundred million lives.",
+  "sections": [
+    {
+      "heading": "One Clue, Many Centuries",
+      "paragraphs": [
+        "Imagine laying out every object from this story along one very long museum table. At one end sits a small dish of dried smallpox scabs, ground to powder, with a thin tube for blowing it into a nose. A little further along is a lancet, a tiny blade like the one Edward Jenner used in 1796. Then come glass flasks from Louis Pasteur's laboratory, a dried rabbit spinal cord in a jar, a vial of diphtheria toxoid, an iron lung, a sugar cube with a pink drop of polio vaccine, a two-pronged smallpox needle, and at the very end, a small glass vial of mRNA vaccine that had to be kept frozen. Thousands of years separate the two ends of that table. Yet they are connected by a single chain of ideas.",
+        "The chain begins with an observation that people made in many places, long before anyone knew what a germ was: if you survived smallpox, you almost never caught it again (part 1). The body, somehow, remembered. That simple clue is the root of everything else in this story. It is also a good reminder that science often starts with ordinary people noticing patterns in the world around them.",
+        "The next link was a brave, risky idea: if surviving smallpox protects you, why not catch a mild case on purpose? That was variolation, also called inoculation (part 2). Healers in China blew scab powder into the nose; written descriptions date from the mid-1500s, although stories of much earlier origins are legends. In India, Africa and the Ottoman Empire, people scratched smallpox material into the skin. Variolation killed roughly 1 or 2 people in every 100, and the people who had it could spread real smallpox, but that was far better than the roughly 30 in 100 who died of natural smallpox.",
+        "Knowledge of inoculation travelled to Europe and America through very different people (parts 3 and 4). Lady Mary Wortley Montagu, an English noblewoman scarred by smallpox, watched it in Constantinople and had her own children inoculated. Onesimus, an enslaved African man in Boston, explained to Cotton Mather how he had been inoculated as a child. Doctors such as Zabdiel Boylston kept careful records showing that inoculated people died far less often than those who caught smallpox naturally. Empresses, presidents and armies followed: Catherine the Great in 1768 and George Washington's Continental Army in 1777."
+      ]
+    },
+    {
+      "heading": "From Cowpox to Weakened Germs",
+      "paragraphs": [
+        "The third link was a safer substitute. Country people had noticed that milkmaids who caught cowpox seemed to escape smallpox. Benjamin Jesty, a Dorset farmer, tried cowpox on his own family in 1774 (part 5). Edward Jenner did not invent the idea, but on 14 May 1796 he took material from the cowpox sores of milkmaid Sarah Nelmes and put it into the arm of eight-year-old James Phipps. He tested it, recorded it, published it in 1798 and spent the rest of his life promoting it. The new method did not spread smallpox to others, and it was far safer than variolation. Because it came from a cow, it was called vaccination, from the Latin word vacca. (Jenner's test on a child, and his deliberate exposure of James to smallpox, would never be allowed today.)",
+        "Then came the problem of distance: how do you keep a living vaccine alive on a long journey with no refrigerators? The answer was arm-to-arm vaccination (part 6). On the Balmis Expedition, which left Spain in 1803, a chain of orphan boys, cared for by the nurse Isabel Zendal, carried cowpox across the ocean, one child passing it to the next. Later, vaccine was grown on the skin of calves and stored in glycerin. Along the way, opposition grew too, from cartoons of people sprouting cow heads to mass protests against compulsory vaccination laws. Debates about trust and choice are almost as old as vaccines themselves.",
+        "Nobody yet knew why any of this worked. The next link was germ theory (part 7). Ignaz Semmelweis showed that doctors washing their hands saved mothers' lives. Louis Pasteur showed that microbes come from other microbes. Robert Koch proved that a specific bacterium causes anthrax and identified the germ that causes tuberculosis in 1882. Then Dmitri Ivanovsky and Martinus Beijerinck found disease agents so small they slipped through filters that trapped bacteria: viruses.",
+        "Once people knew germs caused disease, Pasteur and his team asked whether a weakened germ could protect people the way cowpox did (part 8). They weakened the germs of chicken cholera and anthrax, and they made a rabies treatment from dried rabbit spinal cords, even though they could not see the rabies virus. In July 1885, nine-year-old Joseph Meister, bitten by a rabid dog, received a course of injections, given by doctors because Pasteur was a chemist, not a physician, and he survived. In Jenner's honour, Pasteur used the word 'vaccine' for all such preparations, not just cowpox.",
+        "Next came toxins and toxoids (part 9). Emil von Behring and Kitasato Shibasaburō discovered antitoxins, antibodies that neutralise bacterial poisons. Antitoxin was a treatment, the precious cargo carried by dog-sled teams to Nome, Alaska, in 1925. Gaston Ramon then learned to make toxins harmless with formaldehyde and heat, creating toxoid vaccines against diphtheria and tetanus. In the same era came vaccines for typhoid, cholera, plague, tuberculosis (BCG), yellow fever and whooping cough, each one the work of a dedicated team."
+      ]
+    },
+    {
+      "heading": "Opening the Body's Black Box",
+      "paragraphs": [
+        "For most of this history, the immune system was a mysterious black box. You put a vaccine in, protection came out, and nobody could see what happened in between. Slowly, the box was opened (parts 10 and 11). Élie Metchnikoff watched mobile cells swarm around a rose thorn stuck into a see-through starfish larva in 1882, and discovered phagocytes, the body's 'eating cells'. Paul Ehrlich imagined antibodies as molecules that fit their targets like keys in locks. Frank Macfarlane Burnet's clonal selection theory in 1957 explained how the one rare B cell or T cell that matches a germ gets chosen and copies itself thousands of times.",
+        "The most important discovery for vaccines was memory. After an infection, or a vaccine, some of those chosen cells become long-lived memory cells. The next time the same germ appears, they respond faster and more strongly, often stopping the germ before you even feel ill. That is the answer to the ancient puzzle of part 1. When smallpox survivors did not catch it again, it was their memory cells doing their job. A vaccine works by showing the immune system a harmless version or piece of a germ, like a wanted poster, so it can build that memory without the person having to suffer the disease.",
+        "Once scientists understood this, they could design vaccines on purpose, choosing which piece of a germ to show (part 12). Some vaccines use live weakened germs, some use killed germs, some use toxoids, and some use just a single protein. They also learned to test vaccines properly: first in the lab and in animals, then in clinical trials in three phases with more and more volunteers, with comparison groups and 'blinding' so that nobody's hopes could tip the results. Even after approval, safety monitoring continues. And they built the cold chain, the line of fridges and cool boxes that keeps vaccines at the right temperature from factory to faraway clinic."
+      ]
+    },
+    {
+      "heading": "Polio, Eradication and the Genetic Age",
+      "paragraphs": [
+        "A key that unlocked the modern era was cell culture, growing viruses in flasks of living cells instead of in animals. In 1949 John Enders, Thomas Weller and Frederick Robbins grew poliovirus in non-nerve tissue, which made a polio vaccine possible (part 13). Jonas Salk's injected, inactivated vaccine was tested in 1954 on about 1.8 million 'Polio Pioneers' and announced as safe and effective in April 1955. Albert Sabin's live, weakened oral vaccine followed, tested on millions of people in the Soviet Union with the help of Mikhail Chumakov (part 14). In the United States, polio cases fell from about 58,000 in 1952 to under 1,000 by 1962.",
+        "The polio story also taught hard lessons. In the Cutter incident of 1955, some batches from one company contained live virus and caused paralysis in about 200 children, which led to much stricter rules for checking every batch. Ever since, careful manufacturing and inspection have been as important to vaccines as clever science.",
+        "Then came the most ambitious idea of all: not just protecting people, but wiping a disease off the planet (part 15). After Soviet scientist Viktor Zhdanov proposed it in 1958, WHO's Intensified Smallpox Eradication Programme began in 1967, led by D.A. Henderson. With freeze-dried vaccine that survived heat, Benjamin Rubin's simple bifurcated needle, and William Foege's strategy of finding each case and vaccinating everyone around it, tens of thousands of health workers tracked smallpox into its final hiding places. Ali Maow Maalin, a hospital cook in Merca, Somalia, had the last natural case in October 1977. In May 1980 the World Health Assembly declared smallpox eradicated, the first and so far only human disease ever wiped out.",
+        "Meanwhile, a golden age of childhood vaccines arrived (part 16): measles in 1963, mumps, rubella, and the combined MMR vaccine developed by Maurice Hilleman's team, chickenpox in Japan, and the hepatitis B vaccine. In 1986 the hepatitis B vaccine became the first vaccine made by genetic engineering, produced by yeast cells given a single viral gene. It was also the first vaccine that helps prevent a cancer. WHO's Expanded Programme on Immunization, founded in 1974, and later Gavi, the Vaccine Alliance, worked to carry these vaccines to children in every country.",
+        "As diseases faded, fear of them faded too, and worries about vaccines grew (part 17). Some concerns were real and were caught by monitoring systems, which led to vaccines being changed or withdrawn. Others, such as Andrew Wakefield's fraudulent 1998 paper claiming a link between MMR and autism, were proven false by huge studies, yet still caused measles to return in places where vaccination fell.",
+        "The newest link in the chain was mRNA (part 18). For decades Katalin Karikó and Drew Weissman worked on a molecule most scientists had given up on. Their 2005 discovery that modified building blocks stop mRNA causing harmful inflammation, combined with lipid nanoparticles to carry it, and stabilised spike proteins designed by Barney Graham and Jason McLellan, allowed COVID-19 vaccines to be built and tested in record time in 2020, without skipping any trial phase. Over 13 billion doses of COVID-19 vaccines were given worldwide. And as part 19 showed, the chain is still growing, with vaccines against HPV, Ebola, malaria and RSV, and research into many more."
+      ]
+    },
+    {
+      "heading": "The People History Almost Forgot",
+      "paragraphs": [
+        "When people tell the history of vaccines, a few famous names usually take the spotlight: Jenner, Pasteur, Salk. They earned their fame. But this story would not exist without many people who were never famous, and some who were not even asked.",
+        "Onesimus, an enslaved man from West Africa, shared knowledge from his homeland that helped save lives in Boston in 1721, yet he was not free, and we do not even know the name he was born with. Lady Mary Wortley Montagu spoke up for inoculation at a time when women were rarely listened to in medicine. Benjamin Jesty, the Dorset farmer, protected his family with cowpox 22 years before Jenner's experiment, and only late in life received some recognition for it. Countless women healers in the Ottoman Empire, Africa and Asia, whose names no one wrote down, carried out inoculations for generations.",
+        "Isabel Zendal, the nurse of the Balmis Expedition, cared for the orphan boys whose arms carried the vaccine across oceans. In 1950 WHO recognised her as the first nurse known to take part in an international health mission, and in 2020, during the COVID-19 pandemic, a new emergency hospital in Madrid was named after her. And the boys themselves, about 22 at the start of the voyage, were living links in the chain, too young to choose that role.",
+        "Pearl Kendrick and Grace Eldering, working at a state laboratory in Michigan in the 1930s, often after their normal working hours, built a whooping cough vaccine and ran some of the most careful field trials of their time. Henrietta Lacks, an African American woman, had cells taken from her tumour in 1951 without her knowledge or consent; those HeLa cells were used to test polio vaccines and in a huge range of other research. Her family's long struggle for recognition helped change the rules about consent in medical research.",
+        "Then there are the people almost nobody can name. The hundreds of thousands of local vaccinators and searchers in the smallpox campaign, who walked from village to village with recognition cards and bifurcated needles. Rahima Banu, the little girl in Bangladesh who had the last natural case of the deadliest form of smallpox in 1975. Ali Maow Maalin, who after his own illness spent years helping to vaccinate children against polio in Somalia. The parents who signed up their children as Polio Pioneers. The tens of thousands of volunteers in every Phase 3 trial, including the trials of COVID-19, malaria and Ebola vaccines. Each one added a link to the chain."
+      ]
+    },
+    {
+      "heading": "How the World Changed",
+      "paragraphs": [
+        "What has all this effort achieved? Let us look at some numbers. In 2024, a WHO-led study published in The Lancet estimated that immunisation had saved at least 154 million lives over the previous 50 years, roughly six lives every minute for half a century. About 101 million of those lives were babies. The measles vaccine alone accounted for about 60% of the lives saved. The study also found that vaccination against 14 diseases accounted for about 40% of the worldwide drop in infant deaths, and more than half of the drop in Africa. On average, each life saved meant about 66 extra years of healthy life.",
+        "Smallpox, which killed an estimated 300 million people in the 20th century alone, is gone. It took about 180 years to get from James Phipps's arm in 1796 to the last natural case in 1977, but it happened. Children no longer have to be vaccinated against it, because there is nothing left to catch. The only remaining samples of the virus are kept under strict security in two laboratories, one in the United States and one in Russia.",
+        "Polio is close behind. Since 1988, cases of wild polio have fallen by more than 99%, from about 350,000 a year in more than 125 countries. Two of the three types of wild poliovirus have been eradicated, and wild polio now survives in only two countries, Pakistan and Afghanistan. It is not gone yet, and the last steps are the hardest, but most of the world's children now grow up without ever seeing anyone paralysed by polio.",
+        "Measles shows the change especially clearly. Before the measles vaccine became widely used, measles is estimated to have caused about 2.6 million deaths a year around the world, most of them young children. Measles is so contagious that about 95% of people need to be immune to stop it spreading, so reaching that level took decades of work by health services in every country. That single vaccine is the biggest reason the 154-million figure is so large.",
+        "Think about what that means for ordinary life. In the 1700s, parents often waited until their children had survived smallpox before counting them as safe. In the 1950s, many towns closed swimming pools each summer in fear of polio. Today, in much of the world, those fears have become history lessons, which is exactly why it can be hard to remember how frightening these diseases once were.",
+        "But the story is not finished. Millions of children each year still miss out on some or all of their routine vaccines, often because they live in poor, remote or war-torn places. Diseases like measles return wherever vaccination falls. And diseases such as tuberculosis, malaria and HIV still kill huge numbers of people. The work continues."
+      ]
+    },
+    {
+      "heading": "Lessons From Three Hundred Years",
+      "paragraphs": [
+        "What can we learn from this long story? The first lesson is careful testing. Lady Mary, Boylston, Jenner and Pasteur were all, in their own ways, trying to collect evidence. Over time that turned into the rigorous modern system of clinical trials, comparison groups, independent review and safety monitoring. Disasters like the Cutter incident taught that every batch must be checked. The point of all this testing is not to slow things down for no reason, but to find out what really works and what is truly safe.",
+        "The second lesson is honest science. Scientists are human, and they can make mistakes or, very rarely, cheat, as Andrew Wakefield did. Science corrects itself when other researchers check claims, repeat experiments and look at very large groups of people. The same honesty means admitting when something goes wrong, and fixing it, as happened with the 1976 swine flu vaccine and RotaShield.",
+        "The third lesson is ethics. Some famous experiments in this story, like Jenner's test on James Phipps or the inoculation of prisoners at Newgate in 1721, would never be allowed today. Henrietta Lacks's cells were taken without her consent. Modern rules exist because people in the past were harmed or not asked. Today, volunteers must understand what a trial involves and freely agree to it.",
+        "The fourth lesson is fairness. Vaccines only work if they reach people. The Balmis Expedition, the smallpox eradication campaign, the Expanded Programme on Immunization and Gavi were all attempts to share vaccines across the world. During COVID-19, wealthy countries received most of the first doses, while many poorer countries waited months. Many experts argue that building vaccine factories and expertise in every region, as is now happening with malaria vaccine production in Africa, is one of the best ways to make the next response fairer.",
+        "The fifth lesson is trust. Vaccines are given to healthy people, often to babies, so trust matters enormously. People have always asked questions about them, from the 1700s to today, and asking questions is reasonable. Trust is built when scientists explain their evidence clearly, admit uncertainty, listen to people's worries, and are honest about past mistakes."
+      ]
+    },
+    {
+      "heading": "Your Link in the Chain",
+      "paragraphs": [
+        "If there is one big idea to take from these 20 parts, it is this: science is a team effort that stretches across centuries and continents. No single person invented vaccines. A Chinese healer, a Turkish woman with a needle, an enslaved man in Boston, a Dorset farmer, an English country doctor, a French chemist, a Japanese bacteriologist, two Michigan scientists, an Australian lab, a Hungarian biochemist who refused to give up, and millions of volunteers and health workers each added a link. Many of them were told they were wrong before they were proved right.",
+        "That means the next link could be added by someone reading this right now. The challenges ahead are real: a vaccine for tuberculosis that protects adults, a flu vaccine that lasts, vaccines that never need a fridge, ways to finish off polio, and readiness for whatever Disease X turns out to be. Solving them will need biologists, chemists, engineers, computer scientists, nurses, data experts, writers who can explain science clearly, and people who are good at building trust in their communities. Curiosity is the starting point. Asking 'why?' and 'how do we know?' is exactly what every scientist in this story did.",
+        "One last important reminder. This story is about the science and history of vaccines. It is not medical advice. If you have questions about your own health, or about any vaccine for yourself or your family, the right people to ask are a doctor, a nurse and the trusted adults in your life.",
+        "Now picture one more scene. It is 14 May 1796, in the village of Berkeley in Gloucestershire, England. A boy named James Phipps holds out his arm, and a country doctor makes two small cuts. Nobody watching could have imagined where that moment would lead. Follow the chain forward: to orphan boys on a Spanish ship, to sheep in a field at Pouilly-le-Fort, to Joseph Meister in Paris, to Polio Pioneers lining up in school gyms, to a toddler in Bangladesh and a cook in Somalia, to Margaret Keenan rolling up her sleeve in Coventry in 2020. Today, every year, more than a hundred million babies receive vaccines. Billions of arms around the world, in cities, villages, deserts and mountains, are linked by an invisible thread to one small arm in an English country garden more than two centuries ago."
+      ]
+    }
+  ],
+  "deepDive": "Historians often warn against telling the vaccine story as a straight line of heroic discoveries, even though a 20-part recap inevitably makes it look that way. The real path was full of dead ends, rivalries and luck. Jenner's own explanation of why cowpox worked was mistaken (he thought cowpox and smallpox both came from a horse disease called 'grease'), and the vaccinia virus used in the 20th century turns out to be closer to horsepox than cowpox, with an uncertain origin. Pasteur kept parts of his methods private, and historians later found from his notebooks that the anthrax vaccine used at Pouilly-le-Fort was prepared with a chemical method similar to his rival Toussaint's. Credit is another live debate. Older textbooks credited Jenner with 'discovering vaccination', while recent historians emphasise Asian and African inoculation, women healers, enslaved knowledge-holders such as Onesimus, and the thousands of health workers in eradication campaigns. Measuring impact is also hard. The 154-million-lives estimate comes from mathematical models of 14 diseases across almost every country, comparing what happened with what would have happened without vaccines; it depends on assumptions about disease rates and treatment, so it is best read as an approximate lower bound rather than a precise count. Eradication is rarer than many people expect. Of all the human diseases targeted, only smallpox has been eradicated; a successful target usually needs no animal reservoir, an infection that is easy to recognise, and a vaccine giving long-lasting protection. Smallpox met all three, while polio's often-silent infections make it far harder to trace. Finally, equity remains the biggest unsolved problem. Global coverage of the third dose of the diphtheria-tetanus-pertussis vaccine (a standard measure) reached the mid-80s per cent by the 2010s but then stalled, and millions of so-called 'zero-dose' children receive no routine vaccines at all. Many specialists argue that the next great advance may come not from a new molecule but from delivering existing vaccines to every child.",
+  "funFact": "The hide of Blossom, the cow that gave milkmaid Sarah Nelmes the cowpox Jenner used in 1796, still hangs in the library of St George's medical school in London, and her horns are kept at Jenner's house museum in Berkeley.",
+  "check": {
+    "q": "According to a 2024 WHO-led study, about how many lives has immunisation saved over the previous 50 years?",
+    "a": "At least 154 million",
+    "wrong": [
+      "About 1.5 million",
+      "About 15 million",
+      "About 1.5 billion"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Global immunization efforts have saved at least 154 million lives over the past 50 years",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news/item/24-04-2024-global-immunization-efforts-have-saved-at-least-154-million-lives-over-the-past-50-years"
+    },
+    {
+      "title": "Smallpox",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/health-topics/smallpox"
+    },
+    {
+      "title": "Poliomyelitis fact sheet",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/poliomyelitis"
+    },
+    {
+      "title": "Edward Jenner",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Edward_Jenner"
+    },
+    {
+      "title": "James Phipps",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/James_Phipps"
+    },
+    {
+      "title": "Onesimus (Bostonian)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Onesimus_(Bostonian)"
+    },
+    {
+      "title": "Isabel Zendal",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Isabel_Zendal"
+    },
+    {
+      "title": "Polio eradication",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Polio_eradication"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Painting of Edward Jenner vaccinating young James Phipps in 1796",
+      "search": "Jenner vaccinating James Phipps painting"
+    },
+    {
+      "want": "Dr Jenner's House in Berkeley, Gloucestershire, now a museum",
+      "search": "Jenner House Berkeley Gloucestershire"
+    },
+    {
+      "want": "A bifurcated needle used in the smallpox eradication campaign",
+      "search": "bifurcated needle smallpox vaccination"
+    }
+  ]
+}

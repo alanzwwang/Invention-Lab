@@ -1,0 +1,155 @@
+{
+  "n": 18,
+  "title": "The mRNA Breakthrough",
+  "when": "1990s – 2021",
+  "summary": "mRNA is like a recipe card that a cell reads and then throws away. Katalin Karikó and Drew Weissman spent years learning how to send these recipe cards into the body without causing trouble. When COVID-19 arrived in 2020, their work helped scientists build vaccines faster than ever, after testing them on tens of thousands of volunteers.",
+  "sections": [
+    {
+      "heading": "A Recipe Card That Melts Away",
+      "paragraphs": [
+        "Every cell in your body contains a library of instructions written in DNA. That library is kept safe inside a locked room in the middle of the cell, called the nucleus. But the cell's protein-building machines, called ribosomes, work outside the nucleus, in the busy jelly-like space called the cytoplasm. So how do the instructions get out?",
+        "The answer is messenger RNA, or mRNA. When a cell needs a particular protein, it copies the right section of DNA into a strand of mRNA, like copying a single recipe from a precious cookbook onto a scrap of paper. The mRNA travels out into the cytoplasm, where ribosomes read it three letters at a time and link together building blocks called amino acids, in the right order, to make the protein. Then, a bit like a recipe card made of ice, the mRNA breaks apart. Cells are full of enzymes that chop up old mRNA, so most of it lasts only minutes to hours.",
+        "Scientists realised decades ago that this could become a new kind of vaccine. Remember from earlier parts that a vaccine works by showing the immune system a \"wanted poster\": a harmless version or piece of a germ, so the body can build memory without getting the disease. Instead of growing a germ in eggs or vats and then killing or weakening it, what if you simply delivered the recipe for one harmless piece of the germ, and let the body's own cells build the poster?",
+        "For the coronavirus that causes COVID-19, called SARS-CoV-2, the chosen piece was the spike protein: the knobbly protein that sticks out of the virus's surface and helps it grab onto our cells. On its own, a spike protein cannot cause an infection. It is just a shape. After an mRNA vaccine is injected into the arm muscle, some cells near the injection site and in nearby lymph nodes read the mRNA, make spike proteins and display them. The immune system spots these unfamiliar shapes, makes antibodies and trains T cells, and keeps memory cells ready for the real virus.",
+        "It is important to be clear about what an mRNA vaccine does NOT do. The mRNA never enters the nucleus, where DNA is kept, and it does not change a person's DNA. It is broken down by the body within a few days, like any other mRNA. The spike proteins are cleared away too. What stays behind is the immune system's memory, which is the whole point.",
+        "The first hints came early. In 1989 researchers reported delivering designed mRNA, packed in tiny fat bubbles, into cells in the laboratory. In 1990 a team led by Jon Wolff in Wisconsin injected plain mRNA into the leg muscles of mice and found that the muscle cells made the protein it described. In 1993 a French team showed that mRNA for a virus protein, wrapped in fat bubbles, could train T cells in mice. These were exciting results, but the mRNA was unstable, hard to deliver and set off unwanted inflammation, so most companies lost interest.",
+        "It sounds simple. In fact, turning this idea into a working vaccine took more than 30 years, and it nearly did not happen at all."
+      ]
+    },
+    {
+      "heading": "The Scientist Who Would Not Quit",
+      "paragraphs": [
+        "Katalin Karikó was born in 1955 in Szolnok, Hungary, and grew up in the small town of Kisújszállás, in a house with no running water, no refrigerator and no television. Her father was a butcher, and she later said that watching him work gave her an early fascination with how living things are put together. She studied biology and then biochemistry at the University of Szeged, earning her PhD in 1982, and began working on RNA at Hungary's Biological Research Centre.",
+        "In 1985 her lab ran out of funding. Karikó, her husband and their two-year-old daughter Susan left for the United States, where she had been offered a job at Temple University in Philadelphia. Money was strictly controlled in communist Hungary, so, according to her own account, the family sold their car and smuggled the savings out sewn inside the daughter's teddy bear: about 900 British pounds' worth.",
+        "In 1989 she moved to the University of Pennsylvania (often called Penn) to work on mRNA. Her dream was to use it as a medicine, for example to make cells produce proteins that could help heal damaged tissue. But mRNA was famously difficult. It was fragile, it broke down quickly, and when injected into animals it set off strong inflammation, the immune system's alarm response. Grant committees, which decide who gets money for research, turned her down again and again. In 1995 she was demoted, and she never got tenure, the permanent job security that university scientists hope for. She kept going anyway, often on low pay.",
+        "Then came a lucky meeting. In 1997 a new immunologist arrived at Penn: Drew Weissman, born in 1959 in Lexington, Massachusetts, who had trained at Boston University and in the laboratory of Anthony Fauci at the US National Institutes of Health. Weissman wanted to build vaccines, including an HIV vaccine. The two met, as both have told the story, at a shared photocopier where they were copying scientific articles. Karikó could make mRNA; Weissman knew the immune system. They decided to work together. Years later Weissman summed up their struggle simply: \"We had to fight the entire way.\""
+      ]
+    },
+    {
+      "heading": "The Inflammation Puzzle and the Pseudouridine Trick",
+      "paragraphs": [
+        "Karikó and Weissman's first big problem was that the mRNA they made in the lab, called in vitro transcribed mRNA (made \"in glass\", outside a cell), caused inflammation. When they added it to dendritic cells, the immune system's sentries, the cells reacted as if they had found an invader. In a living body that reaction would cause side effects and also block the cell from making much protein.",
+        "Curiously, the body's own mRNA does not set off this alarm. Why not? The two scientists knew that natural RNA in our cells contains small chemical changes to some of its building blocks, called modified nucleosides. RNA is spelled with four main letters, A, C, G and U, and the cell sometimes swaps in slightly altered versions. One of these is pseudouridine, a twisted-around cousin of U (uridine).",
+        "They tried making mRNA with modified building blocks. In a paper published in August 2005 in the journal Immunity, Karikó, Weissman and their colleagues Michael Buckstein and Houping Ni reported that ordinary lab-made RNA set off alarm sensors called Toll-like receptors, but RNA made with modified nucleosides such as pseudouridine did not. Dendritic cells exposed to the modified RNA stayed calm. The scientists suggested a beautiful explanation: the immune system may use the absence of these modifications as a clue that RNA came from bacteria or damaged cells rather than healthy human ones.",
+        "Follow-up studies in 2008 and 2010 showed something even better: mRNA containing pseudouridine produced much more protein, because the cell's machinery was not being slowed down by the alarm. The modified mRNA was quieter and more productive at the same time.",
+        "At the time, few people noticed. The paper was not a sensation. But a handful of companies did take an interest. One was BioNTech, in Mainz, Germany, which Karikó joined as a vice-president in 2013. Another was the American company Moderna, founded in 2010, whose very name comes from \"modified RNA\". In 2023, Karikó and Weissman were awarded the Nobel Prize in Physiology or Medicine for their discoveries about nucleoside base modifications. Karikó said during Nobel Week: \"I dreamt about doing research, not getting an award.\""
+      ]
+    },
+    {
+      "heading": "Tiny Bubbles of Fat",
+      "paragraphs": [
+        "Even calm mRNA has a big problem: it is fragile. Our skin and blood are full of enzymes called ribonucleases that shred loose RNA within moments, a defence against viruses. And an mRNA molecule is large and carries a negative electric charge, so it cannot easily slip through the oily outer skin, or membrane, of a cell. You cannot just inject naked mRNA and expect much of it to reach the inside of cells.",
+        "The solution was a delivery package called a lipid nanoparticle, or LNP. Lipids are fats and oily molecules, the same family as the material in cell membranes. A lipid nanoparticle is a tiny ball of these fats, roughly 100 nanometres across. That is about a thousandth of the width of a human hair. The mRNA is tucked safely inside. When a cell swallows the particle, special lipids help it open up and release the mRNA into the cytoplasm, where ribosomes can read it.",
+        "A leading pioneer of this technology was Pieter Cullis, a Canadian biochemist and physicist at the University of British Columbia in Vancouver, who has worked on lipid delivery systems since the 1980s. Cullis and his colleagues co-founded a string of small companies that improved the particles step by step, one of which, Acuitas Therapeutics, developed the lipid nanoparticle used in the Pfizer-BioNTech COVID-19 vaccine. Many other teams around the world worked on LNPs too.",
+        "The first big success of these particles was not a vaccine at all. In August 2018 the US Food and Drug Administration approved Onpattro, a medicine for a rare inherited nerve disease. It used lipid nanoparticles to carry a different kind of RNA, called siRNA, into liver cells. It was the first approved drug of its kind, and it proved that lipid nanoparticles could be made safely and at scale. When the COVID-19 pandemic began, the delivery truck was ready.",
+        "There was a price to pay. mRNA in lipid nanoparticles is delicate, which is why the first COVID-19 mRNA vaccines needed very cold storage. Pfizer-BioNTech's vaccine was shipped at about minus 80 to minus 60 degrees Celsius, about as cold as the coldest parts of Antarctica in midwinter, in special boxes packed with dry ice. Moderna's could be kept in an ordinary freezer and in a fridge for up to 30 days. This made the cold chain, described in part 12, more important than ever."
+      ]
+    },
+    {
+      "heading": "Freezing the Spike in Its Ready Pose",
+      "paragraphs": [
+        "There was one more piece of the puzzle, and it came from scientists who study the shapes of proteins. The spike protein on a coronavirus is a shape-shifter. Before it attacks a cell it sits in a \"prefusion\" shape, like a spring that is wound up. When it latches onto a cell, it snaps into a completely different \"postfusion\" shape that helps the virus's outer skin merge with the cell. The trouble is that a spike made on its own tends to flop into the postfusion shape, and antibodies trained on that shape are much less useful, because the dangerous version of the virus shows the prefusion shape.",
+        "Barney Graham, a doctor and virologist at the Vaccine Research Center of the US National Institutes of Health, had spent years on this problem with another virus, respiratory syncytial virus (RSV), which causes serious chest infections in babies and older people. Working with the structural biologist Jason McLellan and others, he helped show around 2013 that a protein locked in its prefusion shape made a far better vaccine target. That work later led to the first RSV vaccines, approved in 2023.",
+        "Graham, McLellan and colleagues then turned to coronaviruses, which had caused the SARS outbreak in 2002–2003 and MERS from 2012. They found that swapping just two of the spike protein's amino acids for one called proline, at a key hinge, acted like a doorstop, holding the spike in its prefusion shape. The design became known as \"2P\". Because they had worked this out for other coronaviruses before 2020, they were ready when a new one appeared.",
+        "In February 2020, McLellan's team at the University of Texas at Austin, working with the NIH Vaccine Research Center, used a powerful technique called cryo-electron microscopy, which takes images of frozen protein molecules, to reveal the first atomic-scale 3D structure of the new coronavirus's spike. It was published online in the journal Science on 19 February 2020. The stabilised 2P spike became the design used in the Moderna and Pfizer-BioNTech vaccines, and also in the Johnson & Johnson and Novavax vaccines."
+      ]
+    },
+    {
+      "heading": "The Race of 2020",
+      "paragraphs": [
+        "On 5 January 2020, a team led by Professor Zhang Yongzhen in Shanghai finished reading the genetic sequence of the new virus from a patient sample. On 11 January, with Zhang's permission, his collaborator Edward Holmes, a virologist in Sydney, posted the sequence on a public website called virological.org so that scientists anywhere could use it. It was a string of about 30,000 letters of RNA, and it contained the recipe for the spike protein.",
+        "That was all mRNA vaccine makers needed to begin. They did not need a sample of the virus itself. Moderna and the NIH Vaccine Research Center designed their vaccine, called mRNA-1273, within days, combining the 2P spike recipe with Moderna's mRNA and lipid nanoparticle system. On 16 March 2020, the first volunteer in a Phase 1 trial received a dose at the Kaiser Permanente Washington Health Research Institute in Seattle. The trial began with 45 healthy adults.",
+        "Why could mRNA move so fast? Because making mRNA is more like printing than farming. Older vaccines often need a germ to be grown in eggs or in huge tanks of cells, which can take many months to set up for each new disease. To make mRNA, workers start with a loop of DNA carrying the recipe, then use an enzyme in a tank to copy it into mRNA, in a chemical reaction that takes hours, not weeks. The mRNA is purified and mixed with lipids in tiny channels where the fats wrap around it to form nanoparticles. To make a vaccine against a different germ, you mostly change the recipe, not the factory. Scientists call this a \"platform\" technology.",
+        "In Mainz, Germany, BioNTech's founders, the husband-and-wife doctors and scientists Uğur Şahin and Özlem Türeci, had been working on mRNA treatments for cancer since founding the company in 2008. Şahin read about the outbreak in January 2020 and quickly redirected the company toward a coronavirus vaccine, a project they nicknamed \"Lightspeed\". In March 2020 BioNTech teamed up with the giant American drug company Pfizer, which brought experience with huge trials and factories. They tested several candidate designs side by side and chose the one called BNT162b2.",
+        "Other teams took different routes. At the University of Oxford's Jenner Institute, named after Edward Jenner from part 5, Sarah Gilbert's team put the spike gene into a harmless, weakened chimpanzee adenovirus called ChAdOx1. This kind of vaccine, called a viral vector, uses a disabled virus as a delivery van for the instructions. Partnered with AstraZeneca, the Oxford-AstraZeneca vaccine could be kept in an ordinary fridge, and over 3 billion doses were supplied around the world. Johnson & Johnson and Russia's Gamaleya Institute (Sputnik V) also made viral-vector vaccines. Chinese companies Sinovac and Sinopharm made inactivated vaccines, using the old method of growing the virus and killing it. Novavax made a protein vaccine using spike proteins grown in moth cells. By the end of 2022, about 50 COVID-19 vaccines had been authorised in at least one country."
+      ]
+    },
+    {
+      "heading": "Tens of Thousands of Volunteers",
+      "paragraphs": [
+        "Speed in the lab means nothing without proof from trials. In July 2020, Pfizer-BioNTech and Moderna both began Phase 3 trials. In the Pfizer-BioNTech trial, 43,548 people aged 16 and over were randomly divided into two groups: about half received the vaccine and half a placebo, an injection of salt water. Neither the volunteers nor the staff giving the injections knew who got which, which is called blinding. Volunteers came from the United States, Argentina, Brazil, Germany, South Africa and Turkey.",
+        "Then everyone went on with their lives during a pandemic, and the researchers waited for people to catch COVID-19. By November 2020 there were 170 cases of COVID-19 with symptoms that counted for the main result. Only 8 were in the vaccine group; 162 were in the placebo group. Because the two groups were about the same size, you can see the efficacy with simple arithmetic: 8 divided by 162 is about 0.05, so the vaccinated people had about 5 per cent of the risk, meaning the vaccine was about 95 per cent effective at preventing symptomatic illness in the trial. The results were published in the New England Journal of Medicine in December 2020.",
+        "Moderna's Phase 3 trial, with about 30,000 volunteers, gave similar results: 11 cases of COVID-19 in the vaccine group and 185 in the placebo group, an efficacy of about 94 per cent. Common side effects in both trials were the familiar ones from part 17: a sore arm, tiredness, headache, aches and sometimes a fever, usually gone within a day or two. As described in part 17, rarer effects such as myocarditis only became visible later, when millions of people had been vaccinated.",
+        "Before giving emergency permission, the US Food and Drug Administration asked the companies to follow at least half of their volunteers for a median of two months after the second dose, because historically most vaccine side effects have appeared within that time. Independent safety boards, groups of outside experts who can see the unblinded results, checked the data along the way, and regulators then examined the raw data themselves. In the UK, Europe, Canada and elsewhere, separate teams of regulators did their own reviews. Thousands of the volunteers were older adults or had conditions like diabetes or heart disease, since those were the people most at risk from COVID-19.",
+        "On 2 December 2020, the UK's Medicines and Healthcare products Regulatory Agency became the first regulator in the world to authorise the Pfizer-BioNTech vaccine, and the first to authorise any mRNA vaccine. Six days later, on 8 December 2020, at University Hospital Coventry, 90-year-old Margaret Keenan became the first person in the world to receive an authorised COVID-19 vaccine outside a trial. The second was an 81-year-old man whose name delighted reporters: William Shakespeare. The US FDA gave emergency authorisation to the Pfizer-BioNTech vaccine on 11 December and to Moderna's a week later, and in August 2021 Pfizer-BioNTech's became the first COVID-19 vaccine fully approved in the United States. The Oxford-AstraZeneca vaccine was authorised in the UK on 30 December 2020."
+      ]
+    },
+    {
+      "heading": "Fast, But Not Skipped",
+      "paragraphs": [
+        "Part 12 explained that making a vaccine traditionally took 10 years or more. So how did COVID-19 vaccines arrive in under a year? It was not by skipping trial phases. Every authorised vaccine went through Phase 1, 2 and 3 trials. The speed came from several other things happening at once.",
+        "First, decades of earlier research: Karikó and Weissman's modified mRNA, Cullis's lipid nanoparticles, Graham and McLellan's stabilised spikes, and years of work on SARS and MERS vaccines meant the hardest science was already done. Second, phases overlapped: instead of finishing one phase, writing it up, waiting for money and then starting the next, teams planned all three in advance and began later phases as soon as early safety data allowed. Third, enormous funding from governments, such as the US programme called Operation Warp Speed, and from organisations like CEPI, removed money as a bottleneck. Fourth, companies made millions of doses \"at risk\" before knowing whether the vaccines worked, accepting that they might have to throw them away. And fifth, regulators reviewed data as it arrived, in \"rolling reviews\", instead of waiting for one giant pile of paperwork at the end. A pandemic also made trials faster in a sad way: because the virus was everywhere, enough cases piled up quickly to give clear answers.",
+        "What followed was the largest vaccination campaign in history. More than 13 billion doses of COVID-19 vaccines were given around the world. A modelling study led by Oliver Watson at Imperial College London, published in The Lancet Infectious Diseases in 2022, estimated that in the first year of vaccination, from 8 December 2020 to 8 December 2021, COVID-19 vaccines prevented about 14.4 million deaths in 185 countries and territories, and about 19.8 million if you count all the extra deaths the pandemic caused rather than only officially reported ones. Like all models, these are estimates, not exact counts.",
+        "Not everything went smoothly. Rich countries bought most of the early doses, and many poorer countries waited months longer, despite efforts like COVAX, a global scheme set up to share vaccines more fairly. The virus kept changing, producing new variants such as Delta and Omicron, and protection against infection faded over time, although protection against severe illness lasted better. Vaccines were updated, much as flu vaccines are. Rare side effects had to be studied and explained honestly. These lessons are still being argued over and learned.",
+        "Still, something remarkable had happened. An idea that grant committees had turned down for years had become one of the fastest-built vaccines in history. The toolbox of vaccine science now held mRNA alongside Pasteur's weakened germs, Ramon's toxoids, Salk's killed viruses and yeast-made proteins. Scientists began asking an exciting question: what else could these tools, old and new, defeat next? Malaria? Cancer? The next pandemic before it even starts?"
+      ]
+    }
+  ],
+  "deepDive": "Three separate lines of research had to converge for mRNA vaccines to work. The first was chemistry. In vitro transcribed mRNA is detected by innate immune sensors, notably Toll-like receptors 3, 7 and 8 and cytoplasmic sensors such as RIG-I. Karikó and Weissman's 2005 paper in Immunity showed that incorporating modified nucleosides, including pseudouridine, largely abolished this activation; later work showed modified mRNA is also translated more efficiently. The licensed COVID-19 vaccines use N1-methylpseudouridine, a further refinement. Purification to remove double-stranded RNA contaminants and careful design of the untranslated regions and 5' cap also improved protein output.\n\nThe second was delivery. Modern lipid nanoparticles contain four components: an ionisable lipid that is nearly neutral at blood pH but becomes positively charged in the acidic interior of an endosome, helping release the mRNA; a helper phospholipid; cholesterol; and a PEG-lipid that controls particle size and stability. The ionisable lipid was the crucial advance, refined over two decades by groups including Pieter Cullis's at UBC and companies such as Acuitas. Ownership of LNP intellectual property has since been the subject of significant patent litigation, a reminder that many hands built the platform.\n\nThe third was antigen design. The \"2P\" substitutions (two prolines at positions 986 and 987 of the SARS-CoV-2 spike) hold the protein in its prefusion conformation, the form that displays the most important neutralising-antibody targets. Structure-based design of this kind grew from the RSV prefusion F work of Graham, McLellan and Peter Kwong.\n\nOn efficacy numbers: the 95 per cent figure means a 95 per cent reduction in the risk of symptomatic, laboratory-confirmed COVID-19 in the trial period compared with placebo, not that 5 per cent of vaccinated people fell ill. Real-world effectiveness against infection later declined as immunity waned and variants such as Delta and Omicron appeared, while protection against severe disease held up better, especially after boosters.\n\nDebates continue on several fronts: global equity (by late 2021 most low-income countries had vaccinated only a small fraction of their populations), how to weigh rare adverse events such as myocarditis in young males when designing dosing schedules, and whether the \"100 days\" speed of future vaccines can be achieved without eroding public trust. The death-averted estimates come from models and carry uncertainty, but independent groups have consistently found very large benefits in the first year of rollout.",
+  "funFact": "The Oxford team behind the Oxford-AstraZeneca COVID-19 vaccine worked at the Jenner Institute, named after Edward Jenner, who tested his cowpox vaccine in 1796.",
+  "check": {
+    "q": "What modified building block did Katalin Karikó and Drew Weissman put into mRNA to stop it from setting off harmful inflammation?",
+    "a": "Pseudouridine (a modified nucleoside)",
+    "wrong": [
+      "Extra DNA from the cell nucleus",
+      "Weakened rabies virus",
+      "Formaldehyde"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Suppression of RNA recognition by Toll-like receptors: the impact of nucleoside modification and the evolutionary origin of RNA (Karikó et al., 2005)",
+      "publisher": "Immunity via PubMed (US National Library of Medicine)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16111635/"
+    },
+    {
+      "title": "Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine (Polack et al., 2020)",
+      "publisher": "New England Journal of Medicine via PubMed (US National Library of Medicine)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33301246/"
+    },
+    {
+      "title": "Global impact of the first year of COVID-19 vaccination: a mathematical modelling study (Watson et al., 2022)",
+      "publisher": "The Lancet Infectious Diseases via PubMed (US National Library of Medicine)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35753318/"
+    },
+    {
+      "title": "Katalin Karikó",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Katalin_Karik%C3%B3"
+    },
+    {
+      "title": "mRNA vaccine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/MRNA_vaccine"
+    },
+    {
+      "title": "Pieter Cullis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pieter_Cullis"
+    },
+    {
+      "title": "Jason McLellan",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jason_McLellan"
+    },
+    {
+      "title": "Zhang Yongzhen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zhang_Yongzhen"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Portrait photograph of biochemist Katalin Karikó",
+      "search": "Katalin Karikó portrait"
+    },
+    {
+      "want": "3D molecular model of the SARS-CoV-2 coronavirus spike protein",
+      "search": "SARS-CoV-2 spike protein structure"
+    },
+    {
+      "want": "Diagram of a lipid nanoparticle carrying mRNA, or a diagram of how an mRNA vaccine works",
+      "search": "lipid nanoparticle mRNA vaccine diagram"
+    }
+  ]
+}

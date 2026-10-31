@@ -1,0 +1,471 @@
+{
+  "slug": "railways",
+  "title": "Railways",
+  "emoji": "🚂",
+  "tagline": "From horse-drawn coal carts to trains that float on magnets",
+  "intro": "Imagine a world where the fastest way to travel over land was the speed of a galloping horse, and a trip across a country took weeks. Then, in about one human lifetime, iron rails and puffing steam engines changed everything. In these 20 parts you will ride the whole story: wooden wagonways in coal mines, Richard Trevithick's first steam locomotive, George and Robert Stephenson's famous Rocket, and the world's first proper intercity railway. You will learn exactly how a steam engine pushes a train and why wheels stay on the track. Then we cross continents on the transcontinental railroads, discover how trains invented time zones, plunge underground on the first subways, and switch to electric and diesel power. We will look honestly at accidents, hard labour and harm railways caused, before boarding bullet trains, floating maglevs and the trains of the future. All aboard!",
+  "outline": [
+    {
+      "n": 1,
+      "title": "Before the Rails",
+      "when": "Ancient times – 1500s",
+      "covers": [
+        "How people and goods moved over land before railways: walking, pack animals, carts on muddy rutted roads, and boats on rivers",
+        "Why heavy loads like coal, stone and grain were so slow and expensive to move by road",
+        "The Diolkos in ancient Greece (around 600 BCE): a paved trackway with grooves used to drag ships and cargo across the Isthmus of Corinth — an early 'guided way', not a railway with engines",
+        "Wheel ruts and grooved roads in the ancient world, and why a smooth fixed path makes pulling easier (less friction, less sinking into mud)",
+        "Mining carts in central Europe in the 1500s that ran on wooden planks, shown in Georgius Agricola's book De re metallica (1556)",
+        "The big idea of the whole story: a smooth track lets one horse (and later one engine) pull far more weight"
+      ],
+      "keyFacts": [
+        "The Diolkos across the Isthmus of Corinth was about 6–8.5 km long and was used for centuries, starting around 600 BCE",
+        "Agricola's De re metallica was published in 1556, a year after his death, and includes pictures of mine carts guided along planks",
+        "On a good smooth track a horse can pull many times more weight than it can on a rough dirt road"
+      ],
+      "hook": "End in the coalfields of England, where miners were about to lay wooden rails above ground for the first time."
+    },
+    {
+      "n": 2,
+      "title": "Wooden Rails and Horse Power",
+      "when": "1600s – 1803",
+      "covers": [
+        "The Wollaton Wagonway in Nottinghamshire (around 1603–1604), built by Huntingdon Beaumont, often called the first overland wagonway in England",
+        "The wagonways of north-east England around Newcastle, carrying coal from mines to ships on the River Tyne; horses pulling wagons on wooden rails",
+        "The Tanfield Arch (built 1725–1727), thought to be the oldest surviving railway bridge in the world",
+        "The switch to iron: cast iron plates on rails at Coalbrookdale around 1767, then L-shaped 'plateways' and later edge rails with flanged wheels",
+        "The Surrey Iron Railway (opened 1803), a horse-drawn public railway that anyone could pay to use",
+        "The Swansea and Mumbles Railway, which began carrying fare-paying passengers in horse-drawn carriages in 1807"
+      ],
+      "keyFacts": [
+        "The Wollaton Wagonway was about 3 km (2 miles) long",
+        "The Surrey Iron Railway opened in 1803 between Wandsworth and Croydon, south of London",
+        "The Swansea and Mumbles Railway began the world's first known regular fare-paying passenger railway service in 1807, pulled by horses"
+      ],
+      "hook": "End by asking: what if something stronger than a horse — something that never got tired — could pull the wagons?"
+    },
+    {
+      "n": 3,
+      "title": "Taming Steam",
+      "when": "1712 – around 1800",
+      "covers": [
+        "Thomas Newcomen's atmospheric steam engine (1712), used to pump water out of mines; it was huge, slow and stood still",
+        "James Watt's separate condenser (patented 1769), which made steam engines far more efficient — but Watt preferred low-pressure engines and was wary of high-pressure steam",
+        "Nicolas-Joseph Cugnot's steam-powered road vehicle in France (around 1769–1770), built to pull cannons; it was slow and hard to steer",
+        "William Murdoch's small model steam carriage (1780s)",
+        "Why high-pressure steam was the key to a moving engine: a smaller, lighter engine could produce lots of power",
+        "Simple science: water boils into steam that takes up much more space, and that expanding steam can push a piston"
+      ],
+      "keyFacts": [
+        "Newcomen's first known working engine was installed in 1712 near Dudley in the English Midlands",
+        "Watt's patent for the separate condenser was granted in 1769",
+        "When water turns to steam at normal air pressure, it expands to about 1,600 times its volume"
+      ],
+      "hook": "End in Cornwall with a strong, daring young engineer who was not afraid of high-pressure steam: Richard Trevithick."
+    },
+    {
+      "n": 4,
+      "title": "Trevithick's Iron Horse",
+      "when": "1801 – 1808",
+      "covers": [
+        "Richard Trevithick, Cornish mining engineer, and his high-pressure 'puffer' engines",
+        "His 'Puffing Devil' road locomotive that climbed Camborne Hill on Christmas Eve 1801 — and was later destroyed by fire when left unattended",
+        "The Penydarren locomotive in South Wales, 21 February 1804: the first known steam locomotive to haul a load on rails, winning a bet for ironmaster Samuel Homfray",
+        "The problem: the heavy engine cracked the brittle cast-iron plate rails",
+        "'Catch Me Who Can' (1808), a locomotive running on a circular track in London where people paid to ride",
+        "Why Trevithick did not get rich: money troubles, broken rails, and moving on to other projects (he later went to South America)"
+      ],
+      "keyFacts": [
+        "On 21 February 1804 the Penydarren locomotive pulled about 10 tons of iron and around 70 men nearly 10 miles (about 16 km) from Penydarren to Abercynon",
+        "That journey took a little over 4 hours, including stops to clear the track",
+        "Catch Me Who Can ran in 1808 near Euston in London; a ride cost one shilling"
+      ],
+      "hook": "End by saying Trevithick had shown it could be done — now coal-mine engineers in northern England would make it work every day."
+    },
+    {
+      "n": 5,
+      "title": "The Colliery Engines",
+      "when": "1812 – 1824",
+      "covers": [
+        "Matthew Murray and John Blenkinsop's Salamanca (1812) on the Middleton Railway in Leeds, using a toothed rack rail and cog wheel — the first commercially successful steam locomotive",
+        "William Hedley, Timothy Hackworth and Jonathan Forster's Puffing Billy (built around 1813–1814) at Wylam Colliery, which proved smooth iron wheels on smooth rails had enough grip",
+        "George Stephenson: a self-taught engine-wright who could not read until his late teens; his first locomotive Blücher at Killingworth (1814)",
+        "Improving rails: wrought-iron rails (patented by John Birkinshaw in 1820) that were much less brittle than cast iron",
+        "Stephenson's safety lamp for miners (1815), invented around the same time as Humphry Davy's — a fair look at a rival claim",
+        "Why coal mines were the perfect place for early locomotives: short tracks, heavy loads and plenty of fuel"
+      ],
+      "keyFacts": [
+        "Salamanca began work in 1812 on the Middleton Railway, which still runs today as a heritage railway",
+        "Puffing Billy is the oldest surviving steam locomotive in the world and is displayed at the Science Museum in London",
+        "Stephenson's Blücher first ran on 25 July 1814"
+      ],
+      "hook": "End with a Quaker businessman in Darlington looking for a cheaper way to move coal to the river at Stockton."
+    },
+    {
+      "n": 6,
+      "title": "Stockton & Darlington: A Railway for the Public",
+      "when": "1821 – 1830",
+      "covers": [
+        "Edward Pease, the Quaker financier who backed the line, and Parliament's Act approving it (1821)",
+        "George Stephenson as engineer, and his choice of track gauge of 4 ft 8½ in (1,435 mm), taken from the colliery wagonways he knew",
+        "Robert Stephenson & Company, the world's first factory built to make locomotives, founded in Newcastle in 1823",
+        "Opening day, 27 September 1825: Locomotion No. 1, driven by George Stephenson, pulling coal wagons and hundreds of passengers",
+        "How the line really worked at first: steam engines pulled coal, but most passengers rode in horse-drawn coaches; stationary engines hauled wagons up slopes",
+        "Its importance: the first public railway to use steam locomotives"
+      ],
+      "keyFacts": [
+        "The Stockton and Darlington Railway opened on 27 September 1825 (its 200th anniversary was celebrated in 2025)",
+        "The main line was about 26 miles (about 40 km) long",
+        "4 ft 8½ in (1,435 mm) later became the 'standard gauge' used by about half the world's railways"
+      ],
+      "hook": "End with merchants in Liverpool and Manchester deciding to build something bigger — but first they needed to choose which engine was best."
+    },
+    {
+      "n": 7,
+      "title": "The Rainhill Trials and the Rocket",
+      "when": "October 1829",
+      "covers": [
+        "Why the Liverpool & Manchester directors held a competition: some wanted stationary engines and cables instead of locomotives",
+        "The rules and the £500 prize; the crowds of spectators at Rainhill near Liverpool",
+        "The contestants: Rocket (George and Robert Stephenson, with Henry Booth), Novelty (John Braithwaite and John Ericsson), Sans Pareil (Timothy Hackworth), Perseverance (Timothy Burstall) and Cycloped (powered by a horse on a treadmill!)",
+        "What happened: Novelty was fast and a crowd favourite but broke down; Sans Pareil cracked a cylinder; Rocket completed the trials",
+        "Rocket's clever design: a multi-tubular boiler (many copper fire-tubes), a separate firebox, and a blastpipe that blasted exhaust steam up the chimney to draw the fire",
+        "Fair credit: Robert Stephenson did much of Rocket's design; Henry Booth suggested the multi-tube boiler; the blastpipe idea had earlier users"
+      ],
+      "keyFacts": [
+        "The Rainhill Trials took place from 6 to 14 October 1829",
+        "Rocket reached a top speed of about 30 mph (about 48 km/h), astonishing for the time",
+        "Rocket's boiler had 25 copper fire-tubes; the original Rocket is preserved and displayed in Britain"
+      ],
+      "hook": "End with Rocket preparing for opening day of the new railway — a day of triumph that would also bring tragedy."
+    },
+    {
+      "n": 8,
+      "title": "The First Modern Railway",
+      "when": "1830 – 1840s",
+      "covers": [
+        "The Liverpool & Manchester Railway, opened 15 September 1830: the first intercity railway with double track, timetables, tickets, and only steam locomotives — for both passengers and freight",
+        "Engineering feats: crossing the boggy Chat Moss on a floating bed of brushwood and earth, the Olive Mount cutting and the Sankey Viaduct",
+        "Opening day: the Duke of Wellington attends; MP William Huskisson is struck by Rocket and dies that evening — one of the first widely reported railway passenger deaths",
+        "The surprise success: far more passengers than expected; travel time between the cities dropped dramatically",
+        "Railway Mania in 1840s Britain: hundreds of companies, investors getting rich and losing fortunes; George Hudson, the 'Railway King'",
+        "Isambard Kingdom Brunel's Great Western Railway with broad 7 ft ¼ in gauge, the 'Gauge War', and the Gauge Act of 1846"
+      ],
+      "keyFacts": [
+        "The Liverpool & Manchester Railway was about 35 miles (56 km) long and opened on 15 September 1830",
+        "In 1846 alone Parliament approved over 250 new railway Acts during Railway Mania",
+        "Brunel's broad gauge was finally converted to standard gauge in May 1892"
+      ],
+      "hook": "End by inviting the reader to climb onto the footplate and see how a steam locomotive actually works."
+    },
+    {
+      "n": 9,
+      "title": "Inside a Steam Locomotive",
+      "when": "How it works",
+      "covers": [
+        "The firebox: burning coal (or wood or oil) heats water; the fireman shovels coal while the driver controls the engine",
+        "The boiler and fire-tubes: hot gases pass through tubes surrounded by water, turning lots of water to steam quickly",
+        "The regulator (throttle), cylinders and pistons: steam pushes a piston back and forth; connecting rods turn the driving wheels",
+        "Valve gear: lets steam in on alternate sides of the piston and lets the driver go forward, backward, or use steam more efficiently",
+        "The blastpipe and chimney: exhaust steam makes the 'chuff' sound and pulls air through the fire; the safety valve stops the boiler bursting",
+        "Tenders and water: why steam engines needed frequent water stops, and water troughs that let trains scoop water at speed",
+        "Why a steam engine wastes most of its fuel's energy, and why that matters later in the story"
+      ],
+      "keyFacts": [
+        "Typical steam locomotives turned only around 5–10% of the energy in their coal into useful pulling work",
+        "Big steam locomotives could use thousands of litres of water per hour",
+        "The Mallard set the world speed record for steam of 126 mph (203 km/h) on 3 July 1938"
+      ],
+      "hook": "End with a question: the engine can push, but what keeps a heavy train on two thin rails, even around curves?"
+    },
+    {
+      "n": 10,
+      "title": "Rails, Wheels, Bridges and Tunnels",
+      "when": "How it works",
+      "covers": [
+        "Steel wheel on steel rail: very low rolling friction, so little energy is needed to keep a heavy load moving",
+        "Flanges and coned (slightly sloped) wheel treads: how wheelsets steer themselves and stay centred, and why flanges are a backup, not the main steering",
+        "Gauge, sleepers (ties), ballast, and points (switches) that move trains from one track to another",
+        "Why railways need gentle slopes and wide curves; cuttings, embankments and viaducts; rack (cog) railways for steep mountains",
+        "Famous engineering: Brunel's Box Tunnel (1841), the Forth Bridge (1890), the Gotthard Tunnel in Switzerland (1882)",
+        "Signals and the 'block' idea: only one train allowed in a section of track at a time"
+      ],
+      "keyFacts": [
+        "A steel wheel on a steel rail has much lower rolling resistance than a rubber tyre on a road — a key reason trains are so efficient",
+        "Most main-line railways keep slopes gentle, often less than about 2% (2 metres up for every 100 metres along)",
+        "The Forth Bridge in Scotland opened in 1890 and is a UNESCO World Heritage Site"
+      ],
+      "hook": "End by crossing the Atlantic, where a young country with vast distances was hungry for railways."
+    },
+    {
+      "n": 11,
+      "title": "Rails Across America",
+      "when": "1827 – 1865",
+      "covers": [
+        "The Baltimore & Ohio Railroad (chartered 1827), with the first stone laid on 4 July 1828 by Charles Carroll, the last living signer of the Declaration of Independence",
+        "Peter Cooper's Tom Thumb and its famous race with a horse-drawn car in 1830 — the horse won after a belt slipped, but the engine impressed everyone",
+        "The Best Friend of Charleston (1830), which ran the first regularly scheduled steam passenger service in the US, and its boiler explosion in 1831 after the safety valve was held down",
+        "American changes to British designs: the cowcatcher (pilot), big headlamps, bells, and swivelling front wheels (bogies) for sharp curves",
+        "Railroads and the US Civil War: the North had far more track, and trains moved troops and supplies; Abraham Lincoln signs the Pacific Railway Act (1862)",
+        "The Underground Railroad: explain clearly it was NOT a real railway but a secret network helping enslaved people escape, using railway code words"
+      ],
+      "keyFacts": [
+        "Tom Thumb's race with a horse took place in August 1830",
+        "In 1861 the Northern states had roughly 22,000 miles of railroad and the Southern states roughly 9,000",
+        "The Pacific Railway Act was signed by President Lincoln on 1 July 1862"
+      ],
+      "hook": "End with two companies, one starting in California and one on the Missouri River, racing to meet in the middle."
+    },
+    {
+      "n": 12,
+      "title": "Spanning Continents",
+      "when": "1863 – 1916",
+      "covers": [
+        "The first US transcontinental railroad: the Central Pacific building east from Sacramento and the Union Pacific building west from Omaha",
+        "The workers: thousands of Chinese immigrants (most of the Central Pacific's workforce) blasting tunnels through the Sierra Nevada for lower pay than white workers; Irish immigrants and Civil War veterans on the Union Pacific; many died",
+        "Key people: engineer Theodore Judah, the Central Pacific's 'Big Four' including Leland Stanford, and the Union Pacific's Thomas Durant and Grenville Dodge",
+        "The Golden Spike ceremony at Promontory Summit, Utah, on 10 May 1869, and the one-word telegraph message 'DONE'",
+        "The terrible cost for Native American nations: land taken, treaties broken, and the near-destruction of the bison herds",
+        "Other great lines: Canadian Pacific (last spike 7 November 1885), and the Trans-Siberian Railway in Russia (begun 1891, completed 1916)"
+      ],
+      "keyFacts": [
+        "The transcontinental line from Omaha/Council Bluffs to Sacramento was about 1,900 miles (about 3,000 km) long",
+        "A trip across the US fell from many weeks or months to about a week",
+        "The Trans-Siberian Railway from Moscow to Vladivostok is about 9,289 km long — the longest railway line in the world"
+      ],
+      "hook": "End with a puzzle: if a train leaves one town at 12 noon, what time is it in the next town? Nobody could agree — and trains were about to fix that."
+    },
+    {
+      "n": 13,
+      "title": "How Trains Invented Time Zones",
+      "when": "1840 – 1918",
+      "covers": [
+        "Local 'sun time': every town set its clocks by the Sun, so Bristol was about 10 minutes behind London",
+        "Confusing timetables and the danger of trains on the same track using different times",
+        "'Railway time' in Britain: the Great Western Railway used London (Greenwich) time from 1840, most railways followed by 1847, and it became the law in 1880; Bradshaw's railway guides",
+        "The 'Day of Two Noons', 18 November 1883, when US and Canadian railroads switched to standard time zones",
+        "Sandford Fleming, Canadian railway engineer who promoted worldwide standard time, and the International Meridian Conference of 1884 that chose Greenwich as the prime meridian",
+        "How the telegraph sent exact time signals along railway lines; US government made time zones law only in 1918"
+      ],
+      "keyFacts": [
+        "Bristol's local time was about 10 minutes behind London's",
+        "Before 1883, US railroads used dozens of different local times",
+        "The International Meridian Conference met in Washington, DC in October 1884 with delegates from 25 countries"
+      ],
+      "hook": "End by noting that faster, busier, more punctual trains also meant bigger dangers — and inventors raced to make railways safer."
+    },
+    {
+      "n": 14,
+      "title": "Danger, Brakes and Safety",
+      "when": "1830s – 1900s",
+      "covers": [
+        "Early dangers: boiler explosions, collisions, broken bridges, and railway workers losing fingers and lives coupling wagons by hand",
+        "Disasters that changed the rules: the Tay Bridge collapse in Scotland (28 December 1879) and the Armagh crash in Ireland (12 June 1889), which led to laws requiring continuous automatic brakes",
+        "George Westinghouse's air brake (first patent 1869; automatic version 1872): if the train splits apart, the brakes come on by themselves",
+        "Eli Janney's automatic knuckle coupler (patented 1873) and the US Safety Appliance Act of 1893",
+        "Telegraph and signal boxes, interlocking levers that stopped signalmen setting conflicting routes, and the block system",
+        "Railway workers' lives: long hours, unions and strikes such as the Pullman Strike of 1894"
+      ],
+      "keyFacts": [
+        "About 75 people died when the Tay Bridge collapsed under a train during a storm in 1879",
+        "The Armagh disaster of 1889 killed 80 people, many of them children on a Sunday school outing",
+        "The US Safety Appliance Act of 1893 required air brakes and automatic couplers on trains"
+      ],
+      "hook": "End by stepping off the dangerous footplate and into a passenger carriage, to see how ordinary life was changed by railways."
+    },
+    {
+      "n": 15,
+      "title": "How Railways Changed Everyday Life",
+      "when": "1840s – 1930s",
+      "covers": [
+        "Fresh food and milk reaching cities, newspapers and post delivered across the country overnight, and refrigerated wagons",
+        "Holidays and day trips: Thomas Cook's first railway excursion (1841) and seaside resorts; suburbs and commuting",
+        "Comfort on board: Pullman sleeping and dining cars; Pullman porters, who were Black men facing low pay and discrimination, and their union led by A. Philip Randolph (Brotherhood of Sleeping Car Porters, founded 1925)",
+        "Railways and empire: the first passenger train in India (Bombay to Thane, 16 April 1853), built mainly to serve British colonial interests, yet becoming part of Indian life",
+        "Railways in war: moving armies in the US Civil War and the First World War",
+        "Railways inspiring other inventions and ideas: big companies, standard parts, the telegraph network, and train-themed art, songs and stories"
+      ],
+      "keyFacts": [
+        "Thomas Cook's first excursion on 5 July 1841 took about 500 people from Leicester to Loughborough",
+        "India's first passenger train ran about 34 km (21 miles) from Bombay (Mumbai) to Thane on 16 April 1853",
+        "By 1900 the United States had roughly 190,000–200,000 miles of railroad track"
+      ],
+      "hook": "End underground, in the smoky tunnels beneath London, where a new problem needed a new kind of power."
+    },
+    {
+      "n": 16,
+      "title": "Going Underground and Going Electric",
+      "when": "1863 – 1935",
+      "covers": [
+        "London's Metropolitan Railway (opened 10 January 1863), the world's first underground railway — using steam locomotives in 'cut-and-cover' tunnels",
+        "Werner von Siemens's small electric train at the Berlin trade exhibition (1879), and early electric trams; Volk's Electric Railway in Brighton (1883), still running",
+        "The City & South London Railway (1890): the first deep-level 'tube' railway worked by electric trains",
+        "Frank Sprague's electric streetcars in Richmond, Virginia (1888) and his multiple-unit control (1897), letting many carriages each have motors controlled from one cab",
+        "How an electric train works: power from a third rail or overhead wire (via a pantograph), traction motors turning the wheels, no smoke at the train",
+        "Subways spread: Budapest (1896), Boston (1897), Paris Métro (1900), New York (1904), Moscow (1935)"
+      ],
+      "keyFacts": [
+        "About 38,000 passengers rode the Metropolitan Railway on its first day in 1863",
+        "The City & South London Railway opened to the public in December 1890",
+        "New York's first subway line opened on 27 October 1904"
+      ],
+      "hook": "End above ground, where an engine invented by a German engineer named Rudolf Diesel was about to challenge the mighty steam locomotive."
+    },
+    {
+      "n": 17,
+      "title": "Diesel Power and the End of Steam",
+      "when": "1890s – 1970s",
+      "covers": [
+        "Rudolf Diesel's engine (patent 1892, first working engine 1897), which ignites fuel using the heat of squeezed air",
+        "How a diesel-electric locomotive works: the diesel engine runs a generator, which powers electric motors on the axles",
+        "Streamliners: Germany's 'Flying Hamburger' (1933) and the Burlington Zephyr's dawn-to-dusk run from Denver to Chicago (26 May 1934)",
+        "Steam's last glory: Mallard's 126 mph record (1938) and giants like Union Pacific's Big Boy (1941); why railways still switched (less maintenance, no water stops, one crew could run several units)",
+        "The end of mainline steam: largely complete in the US by around 1960; British Rail's last mainline steam train ran in August 1968",
+        "Decline: cars, highways and airliners take passengers away; the Beeching cuts in Britain (1960s); Amtrak formed in the US (1971); and the rise of container freight trains"
+      ],
+      "keyFacts": [
+        "The Burlington Zephyr ran about 1,015 miles from Denver to Chicago in about 13 hours on 26 May 1934, averaging around 77 mph",
+        "Diesel-electric locomotives turn roughly 30–40% of their fuel's energy into useful work, several times better than steam",
+        "Following the 1963 Beeching report, Britain closed thousands of miles of lines and more than 2,000 stations"
+      ],
+      "hook": "End with trains seeming old-fashioned — until Japan unveiled something that looked like it came from the future."
+    },
+    {
+      "n": 18,
+      "title": "Bullet Trains",
+      "when": "1964 – today",
+      "covers": [
+        "Japan's Tōkaidō Shinkansen opening on 1 October 1964, just before the Tokyo Olympics; Shinji Sogō (head of Japanese National Railways) and chief engineer Hideo Shima",
+        "What makes high-speed rail possible: new dedicated tracks with gentle curves, overhead electric power, streamlined noses, signals shown inside the cab, and automatic train control",
+        "The Shinkansen's remarkable safety and punctuality record",
+        "France's TGV (1981) and its world wheel-on-rail speed record of 574.8 km/h in 2007; Germany's ICE (1991); Spain's AVE (1992)",
+        "The Channel Tunnel and Eurostar (1994), and other record tunnels: Seikan (1988) and Gotthard Base (2016)",
+        "China's high-speed rail boom from 2008, building the largest high-speed network in the world"
+      ],
+      "keyFacts": [
+        "The first Shinkansen trains ran at up to 210 km/h (130 mph) between Tokyo and Shin-Osaka, a distance of about 515 km",
+        "The TGV set the world speed record for a conventional (wheel-on-rail) train of 574.8 km/h on 3 April 2007",
+        "The Gotthard Base Tunnel in Switzerland, opened in 2016, is about 57 km long — the world's longest railway tunnel",
+        "China had more than 40,000 km of high-speed railway by the early 2020s, more than the rest of the world combined"
+      ],
+      "hook": "End by asking: if wheels have a speed limit, what if a train had no wheels touching the track at all?"
+    },
+    {
+      "n": 19,
+      "title": "Maglev and the Trains of Tomorrow",
+      "when": "1934 – the future",
+      "covers": [
+        "Maglev science: magnets that repel or attract lift the train a few centimetres, and a linear motor in the guideway pushes it along — no wheel friction",
+        "Pioneers: Hermann Kemper's German patent (1934) and Eric Laithwaite's work on linear motors in Britain; the small Birmingham Airport maglev (1984)",
+        "The Shanghai Maglev (opened 2002–2004), the first high-speed commercial maglev; Japan's superconducting SCMaglev and its 603 km/h record (2015); the delayed Chūō Shinkansen",
+        "Why maglev is rare: very expensive special guideways that can't connect to normal tracks",
+        "Hype versus reality: the Hyperloop idea (2013) and why companies like Hyperloop One shut down (2023)",
+        "Cleaner trains for a warming planet: electrification, battery trains, hydrogen trains (first passenger service in Germany, 2018), driverless metros, and smart signalling"
+      ],
+      "keyFacts": [
+        "Japan's L0 Series SCMaglev reached 603 km/h (375 mph) on 21 April 2015, the fastest speed ever by a train",
+        "The Shanghai Maglev runs about 30 km between the city and Pudong Airport in roughly 7–8 minutes",
+        "Per passenger, an electric train typically produces far less carbon dioxide than a car or a plane on the same trip"
+      ],
+      "hook": "End by looking back down the long line of track — from horses on wooden rails to floating trains — and getting ready for the final stop."
+    },
+    {
+      "n": 20,
+      "title": "End of the Line? The Big Picture",
+      "when": "Then, now and next",
+      "covers": [
+        "A quick timeline recap: wagonways, Trevithick, Rocket, Liverpool & Manchester, the transcontinentals, time zones, subways, diesel, Shinkansen, maglev",
+        "The big ideas that stayed the same for 400 years: a smooth guided track, low friction, and pulling lots of weight with little energy",
+        "How railways shaped the modern world: cities, time, trade, holidays, big business, and other inventions",
+        "Remembering the costs honestly: workers who died, peoples whose lands were taken, accidents, pollution — and the lessons learned about safety",
+        "Railways today: billions of passenger journeys each year, huge freight trains, and fans who keep heritage steam lines running",
+        "A closing challenge for young inventors: what would YOU design for the railways of 2100?"
+      ],
+      "keyFacts": [
+        "The world has roughly 1 million km of railway track in total",
+        "Standard gauge — 1,435 mm, chosen by George Stephenson from colliery wagonways — is used by about 55% of the world's railways",
+        "Railways went from about 5 mph in 1804 to over 600 km/h in 2015 — in a little over 200 years"
+      ],
+      "hook": "Finish with an inspiring final line about the next great journey being invented by someone reading this right now."
+    }
+  ],
+  "people": [
+    "Georgius Agricola (1494–1555) — German scholar whose book De re metallica (1556) showed mine carts guided on planks",
+    "Huntingdon Beaumont (around 1560–1624) — English coal entrepreneur who built the Wollaton Wagonway around 1603–1604",
+    "Thomas Newcomen (1664–1729) — English inventor of the first practical steam engine (1712), used to pump mines",
+    "James Watt (1736–1819) — Scottish engineer whose separate condenser made steam engines much more efficient",
+    "Nicolas-Joseph Cugnot (1725–1804) — French engineer who built an early steam-powered road vehicle around 1769–1770",
+    "William Murdoch (1754–1839) — Scottish engineer who built a model steam carriage in the 1780s",
+    "Richard Trevithick (1771–1833) — Cornish engineer who built the first working railway steam locomotive (Penydarren, 1804)",
+    "Samuel Homfray (1762–1822) — Welsh ironmaster who backed Trevithick's Penydarren locomotive and made a bet on it",
+    "Matthew Murray (1765–1826) — Leeds engineer who built Salamanca (1812), the first commercially successful steam locomotive",
+    "John Blenkinsop (1783–1831) — mine manager who designed the rack-rail system used with Salamanca",
+    "William Hedley (1779–1843) — engineer of Puffing Billy at Wylam Colliery",
+    "Timothy Hackworth (1786–1850) — locomotive engineer; helped build Puffing Billy and built Sans Pareil for Rainhill",
+    "George Stephenson (1781–1848) — self-taught engineer, builder of Blücher and Locomotion, engineer of the Stockton & Darlington and Liverpool & Manchester railways; often called the 'Father of Railways'",
+    "Robert Stephenson (1803–1859) — George's son, chief designer of Rocket and a great railway and bridge engineer",
+    "Edward Pease (1767–1858) — Quaker businessman who financed the Stockton & Darlington Railway",
+    "Henry Booth (1788–1869) — Liverpool & Manchester Railway treasurer who suggested Rocket's multi-tube boiler",
+    "John Braithwaite (1797–1870) and John Ericsson (1803–1889) — builders of Novelty at the Rainhill Trials; Ericsson later designed the warship USS Monitor",
+    "William Huskisson (1770–1830) — British politician killed by Rocket on the Liverpool & Manchester's opening day",
+    "Isambard Kingdom Brunel (1806–1859) — engineer of the Great Western Railway with its broad gauge, bridges and tunnels",
+    "George Hudson (1800–1871) — the 'Railway King' of 1840s Railway Mania whose fraud led to his downfall",
+    "Peter Cooper (1791–1883) — American industrialist who built the Tom Thumb locomotive (1830)",
+    "Abraham Lincoln (1809–1865) — US President who signed the Pacific Railway Act in 1862",
+    "Theodore Judah (1826–1863) — engineer who planned the Central Pacific route over the Sierra Nevada",
+    "Leland Stanford (1824–1893) — Central Pacific president and one of its 'Big Four'; later founded Stanford University",
+    "Thomas C. Durant (1820–1885) — Union Pacific executive, later tied to the Crédit Mobilier scandal",
+    "Grenville Dodge (1831–1916) — Civil War general and chief engineer of the Union Pacific",
+    "Sandford Fleming (1827–1915) — Scottish-born Canadian railway engineer who championed worldwide standard time zones",
+    "George Westinghouse (1846–1914) — American inventor of the railway air brake",
+    "Eli Janney (1831–1912) — American inventor of the automatic knuckle coupler",
+    "George Pullman (1831–1897) — maker of luxury sleeping cars; his company town saw the Pullman Strike of 1894",
+    "A. Philip Randolph (1889–1979) — leader of the Brotherhood of Sleeping Car Porters and civil-rights activist",
+    "Thomas Cook (1808–1892) — English organiser of railway excursions and founder of a famous travel company",
+    "Werner von Siemens (1816–1892) — German inventor who showed an electric railway in Berlin in 1879",
+    "Frank J. Sprague (1857–1934) — American engineer of electric streetcars and multiple-unit train control",
+    "Rudolf Diesel (1858–1913) — German engineer who invented the diesel engine",
+    "Shinji Sogō (1884–1981) — president of Japanese National Railways who pushed through the first Shinkansen",
+    "Hideo Shima (1901–1998) — chief engineer of the first Shinkansen bullet train",
+    "Hermann Kemper (1892–1977) — German engineer who patented magnetic levitation for trains in 1934",
+    "Eric Laithwaite (1921–1997) — British engineer who developed the linear induction motor used in early maglev ideas"
+  ],
+  "glossary": [
+    "wagonway — an early track of wooden (later iron) rails on which horses pulled wagons, mostly carrying coal",
+    "plateway — an early iron track made of L-shaped plates that guided plain wheels",
+    "locomotive — a vehicle with its own engine that pulls (or pushes) a train",
+    "gauge — the distance between the inner edges of the two rails; standard gauge is 4 ft 8½ in (1,435 mm)",
+    "flange — the raised lip on the inside edge of a train wheel that stops it slipping off the rail",
+    "boiler — the tank in a steam engine where water is heated into steam",
+    "firebox — the box where the fuel is burned in a steam locomotive",
+    "piston and cylinder — steam pushes a piston to and fro inside a cylinder, and rods turn this into wheels going round",
+    "blastpipe — a pipe that shoots used steam up the chimney, pulling air through the fire to make it burn hotter",
+    "tender — the wagon behind a steam locomotive that carries its coal and water",
+    "points (switches) — movable rails that steer a train from one track onto another",
+    "signal — a light or arm beside the track telling the driver whether it is safe to go",
+    "block system — a safety method that allows only one train in each section ('block') of track at a time",
+    "air brake — brakes worked by compressed air, which come on automatically if the train splits apart",
+    "standard time / time zone — a region where everyone uses the same clock time, instead of local Sun time",
+    "third rail / overhead line — ways of feeding electricity to an electric train, either from an extra rail or from wires above",
+    "pantograph — the folding arm on the roof of an electric train that touches the overhead wire",
+    "diesel-electric — a locomotive whose diesel engine powers a generator, which runs electric motors that turn the wheels",
+    "high-speed rail — trains running at about 250 km/h or more, usually on specially built tracks",
+    "maglev — short for 'magnetic levitation': a train lifted and pushed along by magnets instead of rolling on wheels"
+  ],
+  "doNotSay": [
+    "Do NOT say George Stephenson invented the steam locomotive or that Rocket was the first locomotive — Trevithick's locomotive ran in 1804, and Salamanca and Puffing Billy came before Rocket",
+    "Do NOT say Stephenson's Rocket was designed by George alone — Robert Stephenson led much of the design and Henry Booth suggested the multi-tube boiler",
+    "Do NOT say the standard gauge comes directly from the width of Roman chariots — that is a popular myth; it came from the gauge of north-east England colliery wagonways that Stephenson used",
+    "Do NOT say Huskisson was the first person ever killed by a railway — say he was one of the first widely reported railway passenger deaths",
+    "Do NOT say doctors 'proved' people would suffocate or their bodies would melt at 30 mph — claims like this are mostly unsupported legends; if mentioned, label them as stories",
+    "Do NOT say Tom Thumb beat the horse — the horse won the 1830 race after the engine's belt slipped",
+    "Do NOT say the Golden Spike is still in the track — it was removed right after the ceremony and is kept at Stanford University's Cantor Arts Center",
+    "Do NOT say the transcontinental railroad was built mostly by white American workers or ignore Chinese workers — Chinese immigrants were the majority of the Central Pacific's workforce, and they were paid less",
+    "Do NOT say the Underground Railroad was a real railway or tunnel system",
+    "Do NOT say governments invented time zones — railways created standard time first; US law followed in 1918",
+    "Do NOT say Mussolini 'made the trains run on time' as fact — it was propaganda",
+    "Do NOT say the Shinkansen has never had an accident — say it has had no passenger deaths from derailments or collisions in normal service (a 2004 earthquake derailment caused no injuries)",
+    "Do NOT say maglev trains float with no power using ordinary fridge-style magnets — they need powerful electromagnets or superconducting magnets and a powered guideway",
+    "Do NOT say Hyperloop is a working form of transport — no passenger hyperloop has ever entered service",
+    "Do NOT give exact numbers of workers who died building the transcontinental or other railways as if certain — records are incomplete; say 'many' or 'hundreds or more'"
+  ]
+}

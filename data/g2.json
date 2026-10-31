@@ -1,0 +1,912 @@
+[
+  {
+    "id": "wheel",
+    "name": "Wheel",
+    "emoji": "🛞",
+    "year": -3500,
+    "when": "around 3500 BCE",
+    "where": "Mesopotamia (modern Iraq) and Europe — possibly several places",
+    "who": "Unknown — ancient peoples of Mesopotamia, the Caucasus and Europe",
+    "category": "Transportation",
+    "kid": "A wheel is a circle that rolls, and it makes moving heavy things much easier. Long ago, people put wheels on carts so animals could pull big loads. Almost every vehicle you see today still uses wheels!",
+    "explorer": "Wheeled carts and wagons appear in the archaeological record around 3500 to 3300 BCE, in Mesopotamia, around the Black Sea and in central Europe, at roughly the same time. Potters were also using spinning wheels to shape clay around then. The first cart wheels were solid wooden discs made from planks joined together. Spoked wheels, which are much lighter, came later and made fast chariots possible.",
+    "expert": "The wheel spread so quickly across Eurasia that archaeologists still debate whether it was invented once or several times. The truly hard part was not the round disc but the wheel-and-axle: the axle and hole must fit closely while still turning freely, which demands careful woodworking. One of the oldest surviving wooden wheels, found in the Ljubljana Marshes in Slovenia, is over 5,000 years old. Spoked wheels appeared around 2000 BCE and powered the chariot warfare of the Bronze Age. In the Americas, wheels show up on small clay figures in Mesoamerica but were not used for transport, probably partly because there were no large draft animals to pull carts. The wheel also became the basis of countless machines, from pulleys and gears to water wheels and turbines.",
+    "how": "A wheel turns around an axle, so instead of dragging a load along the ground you roll it. Rolling creates much less friction than sliding, so far less force is needed to move the same weight.",
+    "before": "People carried loads on their backs, used pack animals, or dragged heavy objects on sledges, sometimes over logs used as rollers.",
+    "impact": "Wheels made trade, farming and travel over land far faster and easier, and the wheel-and-axle idea is found in nearly every machine today.",
+    "facts": [
+      "A wooden wheel found in the Ljubljana Marshes in Slovenia is more than 5,000 years old.",
+      "The earliest cart wheels were solid wooden discs, not spoked wheels.",
+      "Ancient Mesoamerican peoples made toy-like clay figures with wheels but did not use wheels for carts.",
+      "Gears, pulleys and steering wheels are all relatives of the wheel and axle."
+    ],
+    "ledTo": [
+      "bicycle",
+      "automobile",
+      "steam-locomotive",
+      "water-wheel"
+    ],
+    "quiz": [
+      {
+        "q": "About how long ago were wheeled carts first used?",
+        "a": "About 5,500 years ago",
+        "wrong": [
+          "About 500 years ago",
+          "About 50,000 years ago",
+          "About 1,000 years ago"
+        ]
+      },
+      {
+        "q": "What were the earliest cart wheels made of?",
+        "a": "Solid wooden discs",
+        "wrong": [
+          "Rubber tires",
+          "Steel spokes",
+          "Woven grass"
+        ]
+      }
+    ],
+    "wiki": "Wheel"
+  },
+  {
+    "id": "sailing-ship",
+    "name": "Sailing Ship",
+    "emoji": "⛵",
+    "year": -3200,
+    "when": "around 3200 BCE (possibly earlier)",
+    "where": "Ancient Egypt and Mesopotamia",
+    "who": "Unknown — ancient Egyptians, Mesopotamians and other early sailors",
+    "category": "Transportation",
+    "kid": "A sailing ship uses a big sheet of cloth called a sail to catch the wind. The wind pushes the ship across the water without anyone rowing. Sailing ships let people explore oceans and visit faraway lands!",
+    "explorer": "Some of the oldest pictures of boats with sails come from ancient Egypt, where boats sailed up the Nile using the wind and floated back down with the current. Over thousands of years, sailors around the world developed many kinds of sailing craft, from Polynesian double-hulled canoes to Viking longships and Chinese junks. Clever sail shapes let ships sail at an angle to the wind and even zigzag toward it. Sailing ships carried explorers, traders and settlers across every ocean.",
+    "expert": "Images of sails appear on Egyptian pottery and rock art from the late 4th millennium BCE, and evidence from the Persian Gulf suggests sailing boats may be even older. Early square sails worked best with the wind behind them; later designs such as the triangular lateen sail, and fore-and-aft rigs, let ships sail much closer to the wind. A sail working across the wind acts somewhat like an airplane wing, producing a sideways force that the keel or hull turns into forward motion. Austronesian sailors used outrigger and double-hulled canoes to settle islands across the Pacific and Indian Oceans, including Hawaii, New Zealand and Madagascar. From the 1400s, European ocean-going ships enabled global trade and exploration, but also colonial conquest and the transatlantic slave trade. Sail dominated long-distance shipping until steamships took over in the late 1800s.",
+    "how": "A sail catches moving air and turns its push into force on the ship. With the wind behind, the sail is simply pushed; sailing across the wind, the curved sail works like a wing, while the keel and rudder keep the ship on course.",
+    "before": "People paddled or rowed boats and rafts, or let rivers and currents carry them.",
+    "impact": "Sailing ships connected continents for thousands of years, spreading trade goods, people, foods, ideas and, sadly, diseases and conflict around the world.",
+    "facts": [
+      "Egyptian boats could sail upstream on the Nile using the wind, then drift back downstream with the current.",
+      "Polynesian navigators reached Hawaii, New Zealand and Easter Island by reading stars, waves and birds.",
+      "Ships cannot sail straight into the wind, so sailors zigzag toward it in a move called tacking.",
+      "Only one of the five ships on Magellan's expedition, the Victoria, made it all the way around the world in 1522."
+    ],
+    "ledTo": [
+      "steamboat"
+    ],
+    "quiz": [
+      {
+        "q": "What moves a sailing ship forward?",
+        "a": "Wind pushing on the sails",
+        "wrong": [
+          "A steam engine",
+          "A propeller",
+          "Ocean tides only"
+        ]
+      },
+      {
+        "q": "What is zigzagging toward the wind called?",
+        "a": "Tacking",
+        "wrong": [
+          "Anchoring",
+          "Docking",
+          "Drifting"
+        ]
+      }
+    ],
+    "wiki": "Sailing ship"
+  },
+  {
+    "id": "magnetic-compass",
+    "name": "Magnetic Compass",
+    "emoji": "🧭",
+    "year": 1088,
+    "when": "by 1088 (Song dynasty)",
+    "where": "China",
+    "who": "Unknown Chinese inventors; first clearly described by the scientist Shen Kuo",
+    "category": "Transportation",
+    "kid": "A compass has a tiny magnet needle that always swings to point north. That means you can find your way even when you can't see the Sun or stars. Sailors used compasses to cross the sea without getting lost!",
+    "explorer": "Chinese scholars noticed that lodestone, a naturally magnetic rock, lines up north to south. In 1088 the scientist Shen Kuo described a magnetized needle used to find direction, and by the early 1100s Chinese sailors were using compasses at sea. About a century later, compasses were being described in Europe too. The compass made it possible to navigate in fog, clouds and darkness.",
+    "expert": "Ancient Chinese texts mention lodestone 'south-pointers', but how early these were used for direction-finding is debated. The first clear description of a magnetized needle compass comes from Shen Kuo's Dream Pool Essays (1088), which also notes that the needle does not point exactly north — the first known description of magnetic declination. Zhu Yu recorded its use on ships in the early 1100s, and Alexander Neckam described it in Europe around 1190; whether Europeans learned of it from China or invented it separately is not settled. Traditional Chinese compasses were thought of as pointing south. A compass aligns with Earth's magnetic field, so it points to magnetic north, which differs from true north and slowly moves over time. Navigators had to correct for this difference and for the pull of iron on their own ships.",
+    "how": "Earth acts like a giant, weak magnet. A light magnetized needle that can turn freely lines itself up with Earth's magnetic field, so one end points roughly toward magnetic north.",
+    "before": "Navigators used the Sun, the stars, landmarks, wind directions and ocean swells, which was hard or impossible in cloudy weather.",
+    "impact": "The compass made long sea voyages much safer and more reliable, helping trade and exploration spread across the world's oceans.",
+    "facts": [
+      "Shen Kuo noticed in 1088 that a compass needle does not point exactly to true north.",
+      "Earth's north magnetic pole is not fixed — it slowly wanders over the years.",
+      "Traditional Chinese compasses were described as pointing south rather than north.",
+      "Over Earth's long history, its magnetic field has flipped direction many times."
+    ],
+    "ledTo": [
+      "telegraph"
+    ],
+    "quiz": [
+      {
+        "q": "Where was the magnetic compass first developed?",
+        "a": "China",
+        "wrong": [
+          "Ancient Greece",
+          "Portugal",
+          "Egypt"
+        ]
+      },
+      {
+        "q": "What does a compass needle line up with?",
+        "a": "Earth's magnetic field",
+        "wrong": [
+          "The Moon's gravity",
+          "The wind direction",
+          "The Sun's light"
+        ]
+      }
+    ],
+    "wiki": "Compass"
+  },
+  {
+    "id": "hot-air-balloon",
+    "name": "Hot Air Balloon",
+    "emoji": "🎈",
+    "year": 1783,
+    "when": "1783",
+    "where": "Annonay and Paris, France",
+    "who": "Joseph-Michel and Jacques-Étienne Montgolfier",
+    "category": "Transportation",
+    "kid": "Two French brothers found that a giant bag filled with hot air floats up into the sky. First they sent up a sheep, a duck and a rooster. Then, in November 1783, two men floated freely over Paris — the first people ever to fly away in a balloon!",
+    "explorer": "The Montgolfier brothers were paper makers who noticed that hot air could lift a bag. In June 1783 they flew an uncrewed balloon in their hometown of Annonay. In September a balloon carried a sheep, a duck and a rooster at Versailles, in front of the king. On 21 November 1783, Jean-François Pilâtre de Rozier and the Marquis d'Arlandes made the first free flight carrying people, over Paris.",
+    "expert": "The Montgolfiers did not fully understand why their balloons rose; they believed the smoke itself produced a special lifting gas. In fact, heated air expands and becomes less dense than the cooler air around it, so it floats, just as Archimedes' principle predicts. Only days after the first crewed hot-air flight, on 1 December 1783, Jacques Charles and Nicolas-Louis Robert flew a hydrogen balloon, a rival technology that gave longer flights. Small hot-air lanterns had been made much earlier in China, but they could not carry people. Balloons were soon used for science, weather research and even military observation. Modern hot-air balloons use propane burners and nylon envelopes rather than straw fires and paper-lined cloth.",
+    "how": "A burner heats the air inside a large envelope. Hot air is lighter than the same amount of cold air, so the balloon rises; when the air cools, the balloon sinks. Pilots go up or down by heating or venting air, and steer by finding winds blowing different ways at different heights.",
+    "before": "Humans had never flown. People could only dream of flight, jump with homemade wings, or fly kites.",
+    "impact": "Balloons were the first way people ever left the ground, opening up the sky for science, weather study and, later, the dream of powered flight.",
+    "facts": [
+      "The first passengers on a Montgolfier balloon were a sheep, a duck and a rooster.",
+      "Benjamin Franklin was in Paris in 1783 and watched early balloon flights.",
+      "The first human balloon flight in Paris lasted about 25 minutes.",
+      "Modern hot-air balloons are heated by propane gas burners."
+    ],
+    "ledTo": [
+      "parachute"
+    ],
+    "quiz": [
+      {
+        "q": "Which animals rode the 1783 balloon at Versailles?",
+        "a": "A sheep, a duck and a rooster",
+        "wrong": [
+          "Two dogs and a cat",
+          "A horse and a pig",
+          "Three monkeys"
+        ]
+      },
+      {
+        "q": "Why does a hot-air balloon rise?",
+        "a": "Hot air is lighter than cool air",
+        "wrong": [
+          "Magnets pull it up",
+          "Smoke is a magic gas",
+          "The basket has springs"
+        ]
+      }
+    ],
+    "wiki": "Hot air balloon"
+  },
+  {
+    "id": "parachute",
+    "name": "Parachute",
+    "emoji": "🪂",
+    "year": 1797,
+    "when": "1797",
+    "where": "Paris, France",
+    "who": "André-Jacques Garnerin (first jumps from a balloon); earlier ideas by Leonardo da Vinci, Louis-Sébastien Lenormand and others",
+    "category": "Transportation",
+    "kid": "A parachute is a big cloth canopy that slows you down when you fall. It catches lots of air, so you float gently down instead of dropping fast. In 1797 a Frenchman jumped from a balloon high in the sky and landed safely!",
+    "explorer": "Leonardo da Vinci sketched a pyramid-shaped parachute in the late 1400s, but there is no record that he built it. In 1783 Louis-Sébastien Lenormand jumped from a tower with a parachute and gave the device its name. On 22 October 1797, André-Jacques Garnerin jumped from a hydrogen balloon over Paris and landed safely under a parachute about 7 meters wide. Today parachutes help skydivers, rescue workers and even spacecraft landing on other planets.",
+    "expert": "The parachute had a long history of sketches and claims before reliable use: Leonardo's design, Faust Vrančić's 'Homo Volans' drawing published around 1615, and Lenormand's tower jump in 1783. Garnerin's 1797 jump is usually counted as the first parachute descent from a great height; his early canopies lacked a vent, so he swung wildly on the way down. A central vent hole, which lets air escape steadily, was later adopted to reduce swinging. Early aviators often flew without parachutes, and practical packed, ripcord-operated parachutes only became standard in the 1920s. Parachutes work by creating drag, so the falling person reaches a much lower terminal velocity. Modern ram-air 'square' parachutes act more like wings and can be steered precisely.",
+    "how": "The large canopy pushes against lots of air as it falls, creating drag. Drag grows with speed until it balances gravity, so the person falls at a slow, steady speed.",
+    "before": "There was no safe way to survive a fall from a great height, and early balloonists had no escape if something went wrong.",
+    "impact": "Parachutes have saved countless pilots and crews, created the sport of skydiving, and help land supplies and spacecraft, including rovers on Mars.",
+    "facts": [
+      "In 2000, a skydiver rode a parachute built to Leonardo da Vinci's 500-year-old design for thousands of feet before switching to a modern one to land.",
+      "Garnerin's wife, Jeanne Geneviève Labrosse, became one of the first women to make a parachute jump, in 1799.",
+      "Louis-Sébastien Lenormand gave the parachute its name in the 1780s.",
+      "NASA used a giant parachute to help land the Perseverance rover on Mars in 2021."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "In 1797, Garnerin jumped with a parachute from what?",
+        "a": "A hydrogen balloon",
+        "wrong": [
+          "An airplane",
+          "A helicopter",
+          "A church bell tower"
+        ]
+      },
+      {
+        "q": "What force does a parachute use to slow a fall?",
+        "a": "Air drag",
+        "wrong": [
+          "Magnetism",
+          "Electricity",
+          "Steam pressure"
+        ]
+      }
+    ],
+    "wiki": "Parachute"
+  },
+  {
+    "id": "steamboat",
+    "name": "Steamboat",
+    "emoji": "🚢",
+    "year": 1807,
+    "when": "1807 (earlier experiments from 1783)",
+    "where": "Hudson River, New York, USA",
+    "who": "Robert Fulton (first commercial success), after earlier boats by Claude de Jouffroy, John Fitch and William Symington",
+    "category": "Transportation",
+    "kid": "A steamboat is a boat pushed along by a steam engine instead of wind or oars. It could travel up rivers against the current, even when there was no wind. Steamboats made river trips faster and more reliable!",
+    "explorer": "Several inventors built steam-powered boats in the late 1700s, including Claude de Jouffroy in France and John Fitch in the United States. In 1807 Robert Fulton's North River Steamboat traveled up the Hudson River from New York City to Albany, about 150 miles, in about 32 hours. It became the first commercially successful steamboat service. Soon steamboats were busy on rivers like the Mississippi, carrying people and goods.",
+    "expert": "Fulton is often called the inventor of the steamboat, but that is a simplification: Jouffroy's Pyroscaphe ran on the Saône in 1783, Fitch ran a short-lived passenger service on the Delaware River in 1790, and Symington's Charlotte Dundas towed barges in Scotland in 1803. Fulton's achievement was combining a reliable Boulton and Watt engine, a good hull and a profitable route, protected by a monopoly from New York State. Paddle wheels were later largely replaced by screw propellers, and wooden hulls by iron and steel. In 1819 the SS Savannah crossed the Atlantic using steam for only part of the trip; fully steam-powered ocean crossings followed in the 1830s. River steamboats transformed the economy of the American interior, though boiler explosions made early steamboats dangerous.",
+    "how": "Burning wood or coal boils water into steam, which pushes pistons in an engine. The engine turns paddle wheels or, later, a propeller that pushes against the water to drive the boat.",
+    "before": "Boats relied on wind, oars, poles, river currents, or animals walking along the bank pulling them with ropes.",
+    "impact": "Steamboats made travel and shipping on rivers and seas faster and predictable, opening inland regions to trade and settlement.",
+    "facts": [
+      "Fulton's first trip up the Hudson covered about 150 miles in about 32 hours.",
+      "A French steamboat called the Pyroscaphe ran on a river in 1783, more than 20 years before Fulton.",
+      "John Fitch ran a steamboat passenger service in 1790, but it lost money.",
+      "The SS Savannah crossed the Atlantic in 1819 but used its engine for only part of the voyage."
+    ],
+    "ledTo": [
+      "shipping-container"
+    ],
+    "quiz": [
+      {
+        "q": "Whose steamboat was the first commercial success, in 1807?",
+        "a": "Robert Fulton",
+        "wrong": [
+          "James Watt",
+          "Henry Ford",
+          "Thomas Edison"
+        ]
+      },
+      {
+        "q": "What pushed most early steamboats through the water?",
+        "a": "Paddle wheels",
+        "wrong": [
+          "Jet engines",
+          "Sails only",
+          "Rowing teams"
+        ]
+      }
+    ],
+    "wiki": "Steamboat"
+  },
+  {
+    "id": "steam-locomotive",
+    "name": "Steam Locomotive",
+    "emoji": "🚂",
+    "year": 1804,
+    "when": "1804",
+    "where": "Merthyr Tydfil, Wales (UK)",
+    "who": "Richard Trevithick (first railway locomotive); later improved by George and Robert Stephenson",
+    "category": "Transportation",
+    "kid": "A steam locomotive is a train engine that runs on steam made by boiling water over a fire. In 1804 the very first one pulled wagons full of iron and people in Wales. Soon trains were zooming across countries, faster than any horse!",
+    "explorer": "On 21 February 1804, Richard Trevithick's locomotive pulled about 10 tons of iron and 70 men along a tramway near Merthyr Tydfil in Wales. In 1825 George Stephenson's Locomotion No. 1 ran on the Stockton and Darlington Railway, the first public railway to use steam locomotives. In 1829 the Stephensons' Rocket won the Rainhill Trials, and the Liverpool and Manchester Railway opened in 1830 with regular steam passenger trains. Railways then spread rapidly around the world.",
+    "expert": "Trevithick's breakthrough was using high-pressure steam, which made engines small and powerful enough to move themselves, unlike the huge low-pressure engines of the day. His early locomotives were too heavy for the brittle cast-iron rails, so the idea took years to become practical. The Rocket combined a multi-tube boiler with a blast pipe that used exhaust steam to draw the fire, a design that shaped steam locomotives for over a century. Railways cut travel times dramatically, created national markets, and led to standardized time zones because trains needed consistent timetables. They also required huge amounts of coal and labor, and building them often displaced communities. Steam was gradually replaced by diesel and electric trains from the mid-1900s.",
+    "how": "A fire heats water in a boiler to make high-pressure steam. The steam pushes pistons back and forth, and rods connect the pistons to the driving wheels, turning them so the engine rolls along the rails.",
+    "before": "Goods and people moved overland by horse, wagon, stagecoach or on foot, or by canal boats pulled by horses.",
+    "impact": "Railways made land travel fast and cheap, powered the Industrial Revolution, linked cities and countries, and even led to standard time zones.",
+    "facts": [
+      "Trevithick's 1804 locomotive pulled about 10 tons of iron and 70 men.",
+      "The Rocket won the Rainhill Trials in 1829 and reached about 30 miles per hour.",
+      "The steam locomotive Mallard set a world speed record for steam of 126 mph in 1938.",
+      "Railway timetables were a major reason countries adopted standard time zones."
+    ],
+    "ledTo": [
+      "traffic-light"
+    ],
+    "quiz": [
+      {
+        "q": "Who built the first working railway steam locomotive?",
+        "a": "Richard Trevithick",
+        "wrong": [
+          "George Washington",
+          "Karl Benz",
+          "Robert Fulton"
+        ]
+      },
+      {
+        "q": "Which famous locomotive won the 1829 Rainhill Trials?",
+        "a": "Rocket",
+        "wrong": [
+          "Mallard",
+          "Titanic",
+          "Flying Scotsman"
+        ]
+      }
+    ],
+    "wiki": "Steam locomotive"
+  },
+  {
+    "id": "bicycle",
+    "name": "Bicycle",
+    "emoji": "🚲",
+    "year": 1817,
+    "when": "1817 (modern safety bicycle 1885)",
+    "where": "Mannheim, Germany; later France and England",
+    "who": "Karl Drais (first two-wheeler); later John Kemp Starley (safety bicycle) and many others",
+    "category": "Transportation",
+    "kid": "The very first bicycle had no pedals — riders pushed along the ground with their feet! Later, people added pedals, a chain and air-filled tires. Now bikes are one of the most popular ways to get around in the world.",
+    "explorer": "In 1817 Karl Drais of Germany built a 'running machine' with two wheels in a line and a steerable front wheel, which riders pushed with their feet. In the 1860s, French makers added pedals to the front wheel. The penny-farthing, with its giant front wheel, was fast but easy to fall off. In 1885 John Kemp Starley's Rover 'safety bicycle' introduced equal-sized wheels and a chain drive to the back wheel — the basic design we still ride.",
+    "expert": "Who first put pedals on a bicycle is disputed, with claims for Pierre Michaux, Pierre Lallement and others in 1860s France. Penny-farthings used a huge front wheel because the pedals were attached directly to it, so a bigger wheel meant more distance per turn. The chain-driven safety bicycle, combined with John Boyd Dunlop's pneumatic tire (1888), set off a bicycle boom in the 1890s. Bicycles gave many people, including women, new personal freedom and also influenced fashion. Bicycle engineering — ball bearings, chains, tubular frames and pneumatic tires — fed directly into early cars and aircraft; the Wright brothers were bicycle makers. A bicycle stays upright through a combination of steering geometry and the rider's constant small steering corrections, a topic scientists still study.",
+    "how": "Pushing the pedals turns a front gear, and a chain carries that motion to a smaller gear on the back wheel, which turns faster. The rider balances by steering slightly into any lean.",
+    "before": "People walked, rode horses, or used horse-drawn carriages, which were expensive to own.",
+    "impact": "Bicycles gave ordinary people cheap, fast personal transport, and their parts and engineering helped make cars and airplanes possible.",
+    "facts": [
+      "Karl Drais's 1817 'running machine' had no pedals at all.",
+      "The Wright brothers ran a bicycle shop before they built their airplane.",
+      "The penny-farthing's huge front wheel let riders go farther with each turn of the pedals.",
+      "John Boyd Dunlop developed an air-filled tire in 1888, first for his son's tricycle."
+    ],
+    "ledTo": [
+      "airplane",
+      "automobile"
+    ],
+    "quiz": [
+      {
+        "q": "What was missing from Karl Drais's first bicycle?",
+        "a": "Pedals",
+        "wrong": [
+          "A seat",
+          "Wheels",
+          "Handlebars"
+        ]
+      },
+      {
+        "q": "Which bicycle had one giant front wheel?",
+        "a": "The penny-farthing",
+        "wrong": [
+          "The Rover",
+          "The tandem",
+          "The BMX"
+        ]
+      }
+    ],
+    "wiki": "Bicycle"
+  },
+  {
+    "id": "safety-elevator",
+    "name": "Safety Elevator",
+    "emoji": "🛗",
+    "year": 1852,
+    "when": "1852 (public demonstration 1854)",
+    "where": "Yonkers and New York City, USA",
+    "who": "Elisha Otis",
+    "category": "Transportation",
+    "kid": "Long ago, people were scared to ride elevators because the rope might snap. Elisha Otis invented a safety brake that grabs the rails if the rope breaks. Thanks to him, people could safely ride elevators up very tall buildings!",
+    "explorer": "Hoists for lifting goods had existed for a long time, but if the rope broke, the platform crashed down. In 1852 Elisha Otis designed a safety device that stopped a falling elevator. At the 1854 New York exhibition he stood on a raised platform and had the rope cut — the brake caught it and he was safe. In 1857 the first passenger safety elevator was installed in a store in New York City.",
+    "expert": "Otis did not invent the elevator itself: rope hoists date back to ancient times, and steam-powered lifts were in use in factories. His contribution was a reliable safety brake that made the public trust elevators with people. The device used a spring that, if the rope lost tension, pushed catches into toothed guide rails on each side of the shaft. The first passenger installation was in the E. V. Haughwout Building in New York in 1857. Electric elevators followed in the 1880s, and together with steel-frame construction they made skyscrapers practical, since people would not climb dozens of flights of stairs. Modern elevators use multiple steel cables, counterweights and several independent safety systems.",
+    "how": "The elevator car hangs from cables and runs between guide rails. If the cable goes slack, a spring forces metal catches to grip the rails, stopping the car from falling.",
+    "before": "People climbed stairs, and goods were lifted with rope hoists that could drop if the rope failed, so buildings rarely went above a few floors.",
+    "impact": "Safe elevators made tall buildings practical and changed city skylines, letting more people live and work in the same space.",
+    "facts": [
+      "Otis showed off his brake by having the rope of his own platform cut while he stood on it.",
+      "The first passenger safety elevator was installed in a New York store in 1857.",
+      "Elevators use heavy counterweights so the motor does not have to lift the car's whole weight.",
+      "Before elevators, the top floors of buildings were often the cheapest because of all the stairs."
+    ],
+    "ledTo": [
+      "skyscraper",
+      "escalator"
+    ],
+    "quiz": [
+      {
+        "q": "What did Elisha Otis invent?",
+        "a": "A safety brake for elevators",
+        "wrong": [
+          "The first staircase",
+          "The steam engine",
+          "The escalator"
+        ]
+      },
+      {
+        "q": "What happened at Otis's famous demonstration?",
+        "a": "The rope was cut",
+        "wrong": [
+          "The building burned down",
+          "The car flew upward",
+          "A horse pulled it"
+        ]
+      }
+    ],
+    "wiki": "Elevator"
+  },
+  {
+    "id": "automobile",
+    "name": "Automobile",
+    "emoji": "🚗",
+    "year": 1886,
+    "when": "1886",
+    "where": "Mannheim, Germany",
+    "who": "Karl Benz (first practical gasoline car), with Gottlieb Daimler and Wilhelm Maybach working separately; earlier steam vehicles by Nicolas-Joseph Cugnot",
+    "category": "Transportation",
+    "kid": "In 1886, Karl Benz built a three-wheeled car with a gasoline engine. His wife Bertha took it on a long trip to show everyone it really worked. Today there are cars all over the world!",
+    "explorer": "Karl Benz patented his Motorwagen in January 1886, and it is widely considered the first practical automobile powered by an internal combustion engine. In 1888 Bertha Benz drove it with her two sons on a trip of about 106 km (65 miles), the first long-distance car journey. Henry Ford's Model T (1908) and his moving assembly line (1913) made cars cheap enough for many families. Cars changed how cities were built and how people lived.",
+    "expert": "Self-propelled road vehicles existed before Benz: Nicolas-Joseph Cugnot built a steam-powered vehicle in France in 1769, and electric and steam carriages appeared in the 1800s. In 1886 Gottlieb Daimler and Wilhelm Maybach also built a gasoline-powered vehicle independently, and their companies later merged with Benz's to form Daimler-Benz. Ford's Model T did not introduce the car, but mass production lowered its price dramatically, and more than 15 million were built. Cars brought enormous freedom and economic growth, but also traffic deaths, air pollution, oil dependence, and a big share of the world's carbon dioxide emissions. Modern safety features like seat belts and airbags, and cleaner engines and electric cars, aim to reduce these harms.",
+    "how": "In a gasoline car, small amounts of fuel and air are burned inside cylinders, pushing pistons up and down. A crankshaft turns this motion into spinning, and the gears and axles send it to the wheels.",
+    "before": "People traveled by horse, carriage, bicycle, train or on foot.",
+    "impact": "Cars gave people door-to-door travel, reshaped cities with roads and suburbs, and created huge industries, while also bringing traffic, crashes and pollution.",
+    "facts": [
+      "Karl Benz's first car had three wheels.",
+      "Bertha Benz's 1888 drive is the first known long-distance car trip; she bought fuel at a pharmacy along the way.",
+      "Nicolas-Joseph Cugnot built a steam-powered road vehicle in 1769.",
+      "More than 15 million Ford Model Ts were built."
+    ],
+    "ledTo": [
+      "tractor",
+      "shipping-container"
+    ],
+    "quiz": [
+      {
+        "q": "Who patented the first practical gasoline car in 1886?",
+        "a": "Karl Benz",
+        "wrong": [
+          "Henry Ford",
+          "Thomas Edison",
+          "Elon Musk"
+        ]
+      },
+      {
+        "q": "How many wheels did Benz's first car have?",
+        "a": "Three",
+        "wrong": [
+          "Two",
+          "Four",
+          "Six"
+        ]
+      }
+    ],
+    "wiki": "Benz Patent-Motorwagen"
+  },
+  {
+    "id": "airplane",
+    "name": "Airplane",
+    "emoji": "✈️",
+    "year": 1903,
+    "when": "1903",
+    "where": "Kitty Hawk (Kill Devil Hills), North Carolina, USA",
+    "who": "Wilbur and Orville Wright, building on work by George Cayley, Otto Lilienthal and others",
+    "category": "Transportation",
+    "kid": "On 17 December 1903, the Wright brothers flew the first powered, controlled airplane. The first flight lasted just 12 seconds! Today, airplanes carry millions of people around the world every day.",
+    "explorer": "Wilbur and Orville Wright were bicycle makers from Dayton, Ohio, who carefully studied gliders and built their own wind tunnel. At Kitty Hawk, North Carolina, Orville flew their Wright Flyer for 12 seconds and about 120 feet. They made four flights that day, and the longest, by Wilbur, lasted 59 seconds. Their big breakthrough was a way to control the plane in three directions, so the pilot could balance and steer.",
+    "expert": "Many pioneers came before the Wrights: George Cayley worked out the basic layout of a fixed-wing aircraft around 1800, and Otto Lilienthal made thousands of glider flights in the 1890s. The Wrights' key contribution was three-axis control (pitch, roll and yaw), along with efficient propellers and data from their own wind-tunnel tests. Other claims exist — Gustave Whitehead's supporters claim a 1901 flight, and in Brazil Alberto Santos-Dumont is celebrated for his public 1906 flight in Paris — but these are disputed or came later, and most historians credit the Wrights. Airplanes developed rapidly during the two world wars, and jet airliners from the 1950s made air travel common. Aviation connects the world but also contributes a growing share of carbon emissions.",
+    "how": "Wings are shaped and angled so air flowing past them creates lift, an upward force. Engines push or pull the plane forward to keep air flowing, and movable surfaces on the wings and tail let the pilot steer and balance.",
+    "before": "People could only fly in balloons or gliders, which could not be fully controlled or powered.",
+    "impact": "Airplanes shrank the world, making trips that took weeks take hours, and changed travel, trade, war and how countries connect.",
+    "facts": [
+      "The Wright brothers' first flight, 120 feet, was shorter than the wingspan of a Boeing 747.",
+      "Neil Armstrong carried a piece of the Wright Flyer's fabric to the Moon in 1969.",
+      "The Wrights built their own wind tunnel to test wing shapes.",
+      "The Wrights flipped a coin to decide who would try first; Wilbur won, but his first attempt days earlier failed."
+    ],
+    "ledTo": [
+      "jet-engine",
+      "helicopter"
+    ],
+    "quiz": [
+      {
+        "q": "How long did the very first Wright Flyer flight last?",
+        "a": "About 12 seconds",
+        "wrong": [
+          "About 12 minutes",
+          "About 2 hours",
+          "About 1 second"
+        ]
+      },
+      {
+        "q": "What business did the Wright brothers run?",
+        "a": "A bicycle shop",
+        "wrong": [
+          "A bakery",
+          "A shipyard",
+          "A car factory"
+        ]
+      }
+    ],
+    "wiki": "Wright Flyer"
+  },
+  {
+    "id": "submarine",
+    "name": "Submarine",
+    "emoji": "🤿",
+    "year": 1620,
+    "when": "around 1620 (modern submarines around 1900)",
+    "where": "London, England (River Thames)",
+    "who": "Cornelis Drebbel (first known navigable submarine); later designs by David Bushnell, Narcís Monturiol, Isaac Peral, John Philip Holland and others",
+    "category": "Transportation",
+    "kid": "A submarine is a ship that can dive under the water and come back up. The first one was a wooden rowing boat covered in leather, tested in a river in England about 400 years ago. Today submarines explore the deep sea and can stay underwater for months!",
+    "explorer": "Around 1620, the Dutch inventor Cornelis Drebbel built a leather-covered rowing boat that reportedly traveled underwater in the River Thames. David Bushnell's one-person Turtle, built in 1775, was used in the American Revolution in 1776. Practical submarines arrived around 1900, when John Philip Holland combined a gasoline engine for the surface with electric motors underwater. In 1954 the USS Nautilus became the first nuclear-powered submarine, and in 1958 it traveled under the North Pole.",
+    "expert": "Details of Drebbel's submarine come from accounts of the time and are not fully certain, but it is usually considered the first navigable submarine. Early submarines were dangerous: the Confederate H. L. Hunley sank the USS Housatonic in 1864, the first submarine to sink a warship, but was itself lost with its crew. The key engineering problems were controlling buoyancy, providing air, and finding an engine that did not need oxygen underwater; batteries and later nuclear reactors solved that last problem. Spanish inventors Narcís Monturiol and Isaac Peral built pioneering designs in the 1860s and 1880s. Submarines played major and deadly roles in both world wars. Today small submarines and submersibles are also used for science and deep-sea exploration.",
+    "how": "Submarines have ballast tanks that fill with water to make them heavier so they sink, and are blown full of air to make them lighter so they rise. Small fins called hydroplanes and a rudder steer them up, down and sideways.",
+    "before": "People could only explore underwater by holding their breath, or briefly using diving bells.",
+    "impact": "Submarines opened the deep ocean to exploration and science, and also changed naval warfare dramatically.",
+    "facts": [
+      "Cornelis Drebbel's submarine around 1620 was a rowing boat covered in greased leather.",
+      "In 1958 the USS Nautilus became the first vessel to travel under the North Pole.",
+      "Nuclear submarines can stay underwater for months at a time.",
+      "The H. L. Hunley was raised from the seabed in 2000, 136 years after it sank."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "How does a submarine sink?",
+        "a": "It fills ballast tanks with water",
+        "wrong": [
+          "It turns off its lights",
+          "It drops its anchor",
+          "It folds its wings"
+        ]
+      },
+      {
+        "q": "Which submarine first traveled under the North Pole?",
+        "a": "USS Nautilus",
+        "wrong": [
+          "The Turtle",
+          "Titanic",
+          "H. L. Hunley"
+        ]
+      }
+    ],
+    "wiki": "Submarine"
+  },
+  {
+    "id": "traffic-light",
+    "name": "Traffic Light",
+    "emoji": "🚦",
+    "year": 1868,
+    "when": "1868 (electric signals 1910s)",
+    "where": "London, England; later Salt Lake City, Cleveland and Detroit, USA",
+    "who": "John Peake Knight (first, gas-lit); electric signals by Lester Wire, James Hoge, William Potts and others",
+    "category": "Transportation",
+    "kid": "Traffic lights tell cars when to stop and when to go, so everyone takes turns safely. The first one was in London in 1868 and used gas lamps — before cars were even invented! Red means stop, green means go.",
+    "explorer": "The first traffic signal was installed outside the Houses of Parliament in London in December 1868 to control horse-drawn traffic. It was designed by railway engineer John Peake Knight and used arms like a railway signal by day and gas lamps at night. A few weeks later it exploded, injuring the policeman operating it. Electric traffic lights appeared in the United States in the 1910s, and three-color lights were introduced in Detroit in 1920.",
+    "expert": "Traffic lights borrowed directly from railway signaling, which already used semaphore arms and red and green lamps. After the London gas signal's explosion in 1869, the idea was abandoned there for decades. In the US, Lester Wire built an electric signal in Salt Lake City around 1912, and James Hoge's electric signal was installed in Cleveland in 1914; William Potts, a Detroit police officer, introduced three-color (red, amber, green) lights in 1920. Garrett Morgan patented a traffic signal design in 1923 and is sometimes wrongly called the inventor of the traffic light — he was an important inventor, but not the first. Automatic timers, and later sensors and computer-coordinated signals, replaced police officers operating lights by hand.",
+    "how": "Lights of different colors switch on in a set order controlled by a timer or computer. Many modern lights also use sensors in the road or cameras to detect waiting cars and adjust the timing.",
+    "before": "Police officers stood in intersections directing traffic with their arms, or drivers simply took their chances.",
+    "impact": "Traffic lights let huge numbers of cars, bikes and pedestrians share busy roads safely and efficiently.",
+    "facts": [
+      "The first traffic light in 1868 came before gasoline cars existed — it controlled horse-drawn traffic.",
+      "The London gas-lit signal exploded only weeks after it was installed.",
+      "Three-color traffic lights were introduced in Detroit in 1920.",
+      "The first traffic light was designed by a railway engineer, based on train signals."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Where was the first traffic light installed?",
+        "a": "London, England",
+        "wrong": [
+          "New York, USA",
+          "Tokyo, Japan",
+          "Paris, France"
+        ]
+      },
+      {
+        "q": "What lit the first traffic light at night?",
+        "a": "Gas",
+        "wrong": [
+          "Electricity",
+          "Candles",
+          "Fireflies"
+        ]
+      }
+    ],
+    "wiki": "Traffic light"
+  },
+  {
+    "id": "helicopter",
+    "name": "Helicopter",
+    "emoji": "🚁",
+    "year": 1939,
+    "when": "1930s (Sikorsky VS-300, 1939)",
+    "where": "Germany and Stratford, Connecticut, USA",
+    "who": "Igor Sikorsky (first practical single-rotor design), after Henrich Focke and many earlier pioneers",
+    "category": "Transportation",
+    "kid": "A helicopter has spinning blades on top that lift it straight up into the air. It can hover in one spot, fly sideways and even go backward! Helicopters are great for rescues because they can land almost anywhere.",
+    "explorer": "People dreamed of helicopters for centuries — children in ancient China played with flying bamboo-copter toys, and Leonardo da Vinci sketched an 'aerial screw'. In 1907 Paul Cornu lifted off briefly in France, but control was the hard part. Germany's Focke-Wulf Fw 61 flew in 1936, and in 1939 Igor Sikorsky flew his VS-300 with one main rotor and a small tail rotor. That layout became the design most helicopters use today.",
+    "expert": "Helicopters were much harder to build than airplanes because a rotor must provide lift, thrust and control at once, and early engines were too heavy for their power. Several machines left the ground in the 1900s–1920s, but the Focke-Wulf Fw 61 (1936), with two side-by-side rotors, is often called the first practical helicopter. Sikorsky's VS-300 established the single main rotor and anti-torque tail rotor layout, and his R-4 became the first mass-produced helicopter in the early 1940s. The tail rotor is needed because spinning the main rotor would otherwise spin the body the opposite way (Newton's third law). Pilots change the angle of the blades as they rotate, using a part called a swashplate, to tilt the lift and steer. Helicopters became vital for rescue, medical transport and firefighting.",
+    "how": "The spinning rotor blades act like rotating wings, pushing air down to create lift. By changing the angle of the blades, the pilot tilts the lift to move forward, backward or sideways, while a tail rotor stops the body from spinning.",
+    "before": "Aircraft needed long runways, and rescuers could not easily reach people on mountains, at sea or in disaster zones.",
+    "impact": "Helicopters made it possible to reach places with no runway, saving many lives through air ambulances, sea rescues and firefighting.",
+    "facts": [
+      "Leonardo da Vinci sketched a spiral 'aerial screw' flying machine in the late 1400s.",
+      "In 2021, NASA's Ingenuity became the first aircraft to make a powered, controlled flight on another planet, Mars.",
+      "Ingenuity carried a tiny piece of fabric from the Wright brothers' 1903 airplane.",
+      "Helicopters can hover in place and fly backward, which airplanes cannot do."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "What does a helicopter's tail rotor do?",
+        "a": "Stops the body from spinning",
+        "wrong": [
+          "Makes the engine louder",
+          "Pumps fuel",
+          "Lowers the wheels"
+        ]
+      },
+      {
+        "q": "Which helicopter flew on Mars in 2021?",
+        "a": "Ingenuity",
+        "wrong": [
+          "Apollo",
+          "Curiosity",
+          "Voyager"
+        ]
+      }
+    ],
+    "wiki": "Helicopter"
+  },
+  {
+    "id": "jet-engine",
+    "name": "Jet Engine",
+    "emoji": "🛫",
+    "year": 1937,
+    "when": "1937 (first jet flight 1939)",
+    "where": "England and Germany (independently)",
+    "who": "Frank Whittle and Hans von Ohain, working separately",
+    "category": "Transportation",
+    "kid": "A jet engine sucks in air, squeezes it, mixes it with fuel and burns it. The hot gas blasts out the back very fast and pushes the plane forward. Jet engines let big planes fly high and fast all over the world!",
+    "explorer": "In England, Frank Whittle applied for a patent on a jet engine design in 1930, and his first engine ran in 1937. In Germany, Hans von Ohain built his own jet engine at about the same time, without knowing about Whittle's work. On 27 August 1939, von Ohain's engine powered the Heinkel He 178, the first jet-powered airplane flight. The first jet airliner, the de Havilland Comet, entered service in 1952.",
+    "expert": "The jet engine is a classic case of simultaneous independent invention: Whittle and von Ohain each developed a working turbojet in the late 1930s. Earlier claims, such as Henri Coandă's 1910 aircraft, are disputed. Whittle struggled for funding for years, while von Ohain had backing from aircraft maker Ernst Heinkel. Jets first saw combat in the last years of World War II. Turbojets were thirsty and noisy; modern airliners use turbofans, in which most of the air bypasses the core and is pushed by a large fan, making them much quieter and more fuel efficient. Jets made fast, long-distance air travel affordable, but aviation's carbon emissions are now a major environmental concern.",
+    "how": "A jet engine follows four steps: a compressor sucks in and squeezes air, fuel is burned in it, the hot gas spins a turbine that drives the compressor, and the gas rushes out the back. Pushing gas backward pushes the engine forward — Newton's third law.",
+    "before": "Airplanes used piston engines turning propellers, which could not fly as fast or as high.",
+    "impact": "Jet engines made air travel fast, high and affordable, turning long-distance flights into an everyday part of life.",
+    "facts": [
+      "Frank Whittle and Hans von Ohain invented jet engines separately, at about the same time.",
+      "The first jet-powered flight, by the Heinkel He 178, took place on 27 August 1939.",
+      "Most of the air moving through a modern airliner's engine goes around the core, not through it.",
+      "Concorde's jet engines carried it at about twice the speed of sound."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Which two inventors developed the jet engine separately?",
+        "a": "Frank Whittle and Hans von Ohain",
+        "wrong": [
+          "The Wright brothers",
+          "Benz and Daimler",
+          "Edison and Tesla"
+        ]
+      },
+      {
+        "q": "In what year was the first jet-powered flight?",
+        "a": "1939",
+        "wrong": [
+          "1903",
+          "1969",
+          "1889"
+        ]
+      }
+    ],
+    "wiki": "Jet engine"
+  },
+  {
+    "id": "liquid-fuel-rocket",
+    "name": "Liquid-Fuel Rocket",
+    "emoji": "🚀",
+    "year": 1926,
+    "when": "1926",
+    "where": "Auburn, Massachusetts, USA",
+    "who": "Robert H. Goddard; theory by Konstantin Tsiolkovsky and Hermann Oberth",
+    "category": "Transportation",
+    "kid": "In 1926, Robert Goddard launched the first rocket powered by liquid fuel from a farm field. It only flew for about 2.5 seconds, but it was a giant first step. Rockets like it later carried astronauts to the Moon!",
+    "explorer": "Gunpowder rockets had been used in China for centuries, but they burned solid fuel and were hard to control. Robert Goddard believed liquid fuels could be more powerful and controllable. On 16 March 1926, his rocket, burning gasoline and liquid oxygen, rose about 41 feet and landed about 184 feet away. Later, bigger liquid-fuel rockets launched satellites and the Saturn V carried astronauts to the Moon.",
+    "expert": "Konstantin Tsiolkovsky in Russia had shown mathematically around 1903 that rockets could reach space and that liquid propellants would be best, and Hermann Oberth published similar ideas in Germany in the 1920s. Goddard turned the theory into hardware, and also patented key ideas such as multi-stage rockets. In 1920 The New York Times mocked his claim that rockets could work in space; in 1969, as Apollo 11 flew to the Moon, the paper printed a correction. Liquid rockets mix a fuel with an oxidizer, so they can burn in the vacuum of space and can be throttled or shut down, unlike most solid rockets. Germany's V-2 missile of World War II, built using forced labor, was the first large liquid rocket and a direct ancestor of later space rockets. Today, liquid-fuel rockets launch most satellites, and some can land and be reused.",
+    "how": "Liquid fuel and an oxidizer such as liquid oxygen are pumped into a combustion chamber and burned. The hot gas shoots out of a nozzle at high speed, and because the gas is pushed one way, the rocket is pushed the other way — it works even in space where there is no air.",
+    "before": "Rockets used solid gunpowder-like fuels, which were weak and hard to control, and reaching space was only an idea.",
+    "impact": "Liquid-fuel rockets made spaceflight possible, leading to satellites, Moon landings, space stations and probes exploring the solar system.",
+    "facts": [
+      "Goddard's first liquid-fuel rocket flew for only about 2.5 seconds.",
+      "The rocket was launched from his aunt Effie's farm in Auburn, Massachusetts.",
+      "In 1969 The New York Times corrected a 1920 editorial that had mocked Goddard's ideas.",
+      "Rockets carry their own oxygen, which is why they can work in space."
+    ],
+    "ledTo": [
+      "communications-satellite",
+      "gps"
+    ],
+    "quiz": [
+      {
+        "q": "Who launched the first liquid-fuel rocket in 1926?",
+        "a": "Robert Goddard",
+        "wrong": [
+          "Neil Armstrong",
+          "Isaac Newton",
+          "Orville Wright"
+        ]
+      },
+      {
+        "q": "Why can rockets work in space?",
+        "a": "They carry their own oxidizer",
+        "wrong": [
+          "They use propellers",
+          "Space has lots of air",
+          "They are pulled by magnets"
+        ]
+      }
+    ],
+    "wiki": "Liquid-propellant rocket"
+  },
+  {
+    "id": "escalator",
+    "name": "Escalator",
+    "emoji": "🪜",
+    "year": 1896,
+    "when": "1890s",
+    "where": "New York, USA (Coney Island)",
+    "who": "Jesse Reno (first working version); Charles Seeberger and the Otis Elevator Company; earlier idea patented by Nathan Ames",
+    "category": "Transportation",
+    "kid": "An escalator is a moving staircase that carries you up or down while you stand still. The first one was built as a fun ride at Coney Island in New York in the 1890s. Now you can find escalators in malls, airports and train stations!",
+    "explorer": "In 1859 Nathan Ames patented an idea for a moving staircase, but it was never built. Jesse Reno patented an 'inclined elevator' in 1892 and installed one at Coney Island in 1896 as an amusement ride. Charles Seeberger developed a step-style design and, working with the Otis Elevator Company, showed it at the 1900 Paris Exposition. The name 'escalator' was a trademark, but it became so common that Otis lost the right to it in 1950.",
+    "expert": "Early 'escalators' came in two styles: Reno's design was more like a sloped conveyor with ridges, while Seeberger's had flat steps. Modern escalators combine features of both. Seeberger coined the name 'escalator', and Otis bought his patents; in 1950 the US Patent Office ruled the word had become generic, a famous example of a trademark lost through everyday use. Escalators can move far more people per hour than elevators, which is why they are used in busy stations and stores. Their design includes comb plates at the top and bottom, handrails that move with the steps, and safety brushes along the sides.",
+    "how": "The steps are linked into a loop driven by a chain and an electric motor at the top. Wheels on each step run along tracks shaped so the steps form flat stairs on the slope and flatten out at the ends; at the bottom they fold under and travel back.",
+    "before": "People climbed stairs or waited for elevators.",
+    "impact": "Escalators move huge crowds between floors quickly, making big stores, airports and underground train stations work.",
+    "facts": [
+      "The first working escalator was an amusement ride at Coney Island in 1896.",
+      "'Escalator' was once a trademark of the Otis company but became an ordinary word.",
+      "Nathan Ames patented a moving staircase in 1859, but it was never built.",
+      "An escalator's steps travel in a loop, flipping underneath to go back to the start."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Where was the first working escalator installed?",
+        "a": "Coney Island, New York",
+        "wrong": [
+          "The Eiffel Tower",
+          "Buckingham Palace",
+          "The Great Wall of China"
+        ]
+      },
+      {
+        "q": "What powers an escalator's moving steps?",
+        "a": "An electric motor and chain",
+        "wrong": [
+          "A water wheel",
+          "Wind sails",
+          "Gravity alone"
+        ]
+      }
+    ],
+    "wiki": "Escalator"
+  },
+  {
+    "id": "shipping-container",
+    "name": "Shipping Container",
+    "emoji": "📦",
+    "year": 1956,
+    "when": "1956",
+    "where": "Newark, New Jersey, USA",
+    "who": "Malcom McLean, with engineer Keith Tantlinger",
+    "category": "Transportation",
+    "kid": "A shipping container is a giant metal box that can ride on a ship, a train or a truck. Cranes can lift whole boxes at once, instead of workers carrying every sack and crate by hand. Many of the things in your home probably traveled in one!",
+    "explorer": "On 26 April 1956, trucking businessman Malcom McLean sent 58 containers on a converted tanker called the Ideal X from Newark to Houston. Before this, dockworkers loaded ships one crate, barrel and sack at a time, which took days. With standard boxes, cranes could load and unload ships in hours. In the 1960s, international standard sizes were agreed so any container could fit any ship, train or truck.",
+    "expert": "Containers had been tried before, but McLean's system — standardized boxes, specially adapted ships, cranes and trucks working together — made it work at scale. Engineer Keith Tantlinger designed key parts, including corner fittings and twist locks that let containers be stacked and locked together, and McLean's company released those patents so they could become a standard. International (ISO) standards in the 1960s fixed common sizes, and capacity is still measured in TEU, or twenty-foot equivalent units. Containerization slashed shipping costs and theft and made global supply chains possible, which economists consider a major driver of globalization. It also cut many dockworker jobs and shifted ports to new, deeper locations. The largest modern container ships carry more than 20,000 TEU.",
+    "how": "Goods are packed into strong steel boxes of standard sizes. Special corner fittings let cranes lift the boxes and lock them onto ships, trains and trucks, so cargo moves from factory to store without being unpacked.",
+    "before": "Dockworkers loaded and unloaded every item by hand or with nets — called break-bulk shipping — which was slow, expensive and caused lots of theft and damage.",
+    "impact": "Containers made shipping goods around the world cheap and fast, helping create the global economy and the huge variety of products in stores.",
+    "facts": [
+      "The Ideal X, which launched modern container shipping, was a converted World War II oil tanker.",
+      "The Ideal X carried 58 containers on its first voyage in 1956.",
+      "The biggest container ships today can carry more than 20,000 twenty-foot containers.",
+      "Old shipping containers are sometimes turned into homes, shops and offices."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Who started container shipping in 1956?",
+        "a": "Malcom McLean",
+        "wrong": [
+          "Henry Ford",
+          "Robert Fulton",
+          "Elisha Otis"
+        ]
+      },
+      {
+        "q": "How many containers did the Ideal X carry first?",
+        "a": "58",
+        "wrong": [
+          "5",
+          "5,800",
+          "1"
+        ]
+      }
+    ],
+    "wiki": "Intermodal container"
+  },
+  {
+    "id": "gps",
+    "name": "GPS (Global Positioning System)",
+    "emoji": "🛰️",
+    "year": 1978,
+    "when": "1978 (fully working 1995)",
+    "where": "USA",
+    "who": "US Department of Defense team, with key roles by Bradford Parkinson, Roger Easton and Ivan Getting",
+    "category": "Transportation",
+    "kid": "GPS uses satellites high above Earth to tell you exactly where you are. Your phone or car listens to signals from several satellites to work out your spot on the map. It helps people, ships and planes find their way anywhere on Earth!",
+    "explorer": "GPS was developed by the US military starting in 1973, and the first test satellite was launched in 1978. The system became fully working in 1995 with a full set of satellites. Each satellite carries a super-accurate atomic clock and constantly broadcasts the time and its position. A receiver compares signals from at least four satellites to calculate where it is.",
+    "expert": "GPS grew out of earlier satellite navigation, such as the US Navy's Transit system of the 1960s, which itself came from scientists tracking Sputnik's radio signal in 1957. Bradford Parkinson led the program, while Roger Easton and Ivan Getting are credited with key ideas, but GPS was the work of large teams. After a Korean airliner strayed off course and was shot down in 1983, the US announced that GPS would be made available for civilian use; in 2000 the deliberate degradation of civilian signals, called Selective Availability, was switched off. GPS must account for Einstein's relativity: the satellites' clocks run fast by about 38 microseconds a day compared with clocks on the ground, which would otherwise cause errors of kilometers per day. Other countries now run similar systems, including Europe's Galileo, Russia's GLONASS and China's BeiDou.",
+    "how": "Each satellite broadcasts its position and the exact time. A receiver measures how long the signals took to arrive from at least four satellites, works out its distance to each, and calculates its position, a method called trilateration.",
+    "before": "People navigated with maps, compasses, the stars, landmarks and radio beacons, and it was easy to get lost.",
+    "impact": "GPS made precise navigation available to everyone and quietly runs much of modern life, from maps on phones to shipping, farming, airplanes and the timing of banking and phone networks.",
+    "facts": [
+      "GPS satellites orbit about 20,200 km (12,550 miles) above Earth.",
+      "Without corrections for Einstein's relativity, GPS would drift off by kilometers every day.",
+      "Each GPS satellite carries extremely accurate atomic clocks.",
+      "Your receiver needs signals from at least four satellites to find your position."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "What does each GPS satellite carry to keep exact time?",
+        "a": "Atomic clocks",
+        "wrong": [
+          "Sundials",
+          "Hourglasses",
+          "Wind-up watches"
+        ]
+      },
+      {
+        "q": "How many satellites does a receiver need for a position?",
+        "a": "At least four",
+        "wrong": [
+          "Just one",
+          "Exactly 100",
+          "None"
+        ]
+      }
+    ],
+    "wiki": "Global Positioning System"
+  },
+  {
+    "id": "electric-car",
+    "name": "Electric Car",
+    "emoji": "🔌",
+    "year": 1881,
+    "when": "1880s (big comeback in the 2000s–2010s)",
+    "where": "France, England and USA",
+    "who": "Many inventors — including Gustave Trouvé, Thomas Parker and William Morrison; modern revival by GM, Tesla, Nissan and others",
+    "category": "Transportation",
+    "kid": "Electric cars run on batteries instead of gasoline, so they don't puff out exhaust. Surprise — electric cars were around more than 100 years ago, even before most gas cars! Now they are making a big comeback.",
+    "explorer": "In 1881 Gustave Trouvé drove an electric tricycle in Paris, and in the 1880s and 1890s inventors in England and the United States built electric cars. Around 1900, electric cars were popular because they were quiet, clean and easy to start. But gasoline cars won because they could go farther, gasoline was cheap, and the electric starter (1912) removed the need to hand-crank engines. Better lithium-ion batteries brought electric cars back in the 2000s and 2010s.",
+    "expert": "Electric vehicles predate the Benz gasoline car, and around 1900 they made up roughly a third of the cars in the United States. Their decline came from limited battery range, the expansion of roads between cities, cheap Texas oil, Henry Ford's low-cost Model T, and Charles Kettering's electric starter for gasoline engines. Interest returned in the 1990s with cars like GM's EV1, but the modern revival came from lithium-ion batteries, starting with the Tesla Roadster in 2008 and mass-market cars like the Nissan Leaf in 2010. Electric cars produce no tailpipe emissions, and their total climate impact depends on how the electricity and batteries are produced. Battery mining for lithium, cobalt and nickel raises environmental and human-rights concerns that the industry is working to address through recycling and new chemistries.",
+    "how": "A large rechargeable battery stores electrical energy. It powers an electric motor that turns the wheels, and when the car slows down, the motor can work as a generator to put some energy back into the battery, called regenerative braking.",
+    "before": "Cars mainly used gasoline or diesel engines that burn fuel and release exhaust.",
+    "impact": "Electric cars are helping cut air pollution in cities and greenhouse gas emissions from transport, and they have driven huge improvements in batteries.",
+    "facts": [
+      "Around 1900, about a third of the cars in the United States were electric.",
+      "In 1899, an electric car called La Jamais Contente became the first road vehicle to go faster than 100 km/h.",
+      "The Lunar Roving Vehicle that astronauts drove on the Moon was electric.",
+      "Electric cars can recharge their batteries a little when they brake."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Which came first?",
+        "a": "Early electric cars",
+        "wrong": [
+          "Smartphones",
+          "Jet airliners",
+          "GPS navigation"
+        ]
+      },
+      {
+        "q": "What powers an electric car's motor?",
+        "a": "A rechargeable battery",
+        "wrong": [
+          "A steam boiler",
+          "A sail",
+          "Burning coal on board"
+        ]
+      }
+    ],
+    "wiki": "Electric car"
+  }
+]

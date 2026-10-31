@@ -1,0 +1,141 @@
+{
+  "n": 16,
+  "title": "There's an App for That",
+  "when": "2008 – today",
+  "summary": "In 2008 a shop opened that you could visit right on your phone, full of games and tools called apps. Soon there were millions of them, made by everyone from giant companies to teenagers. Apps turned one phone into a camera, a map, a game console and even a bank!",
+  "sections": [
+    {
+      "heading": "July 10, 2008: The Store Opens",
+      "paragraphs": [
+        "Imagine owning a phone that can only ever do the jobs it came with. It can call, text, maybe play a couple of built-in games and take a blurry photo, and that is it, forever. For most people before 2008, that was normal. Some phones could download extra games or ringtones, but usually through the phone company's own menu, with a short list chosen by the company, and it was often confusing and expensive. Making software for phones was hard, too: a programmer often had to make deals with phone companies one by one.",
+        "When the first iPhone arrived in June 2007 (Part 8), it had no way to add new programs from other companies at all. Steve Jobs at first told outside programmers to build web apps, websites designed to look and work a bit like programs, instead. Programmers were not satisfied, and some people even found ways to 'jailbreak' their iPhones, breaking Apple's software locks so they could install unofficial programs. Apple changed course. In March 2008 it released a software development kit, or SDK: a set of tools and instructions that let outside programmers write real programs for the iPhone.",
+        "On July 10, 2008, the App Store opened, just before the iPhone 3G went on sale the next day. It started with about 500 apps, and about 125 of them were free. The word app is short for application, meaning a program that does a particular job. Suddenly, you could tap an icon, browse a shop full of games, tools and toys, and download one in a minute or two, straight over the air, without plugging the phone into a computer. Every new app made the phone you already owned more useful.",
+        "People went wild for it. By April 2009, less than a year later, people had downloaded one billion apps. Apple even made a television advertising slogan out of the idea: 'There's an app for that.' Whether you wanted to find a restaurant, check the weather, learn the stars in the night sky, or pop virtual bubble wrap, someone had probably already made an app to do it.",
+        "Google was not far behind. Its phone software, Android (Part 9), got its own store, called Android Market. Google announced it in August 2008, and it became available to users on October 22, 2008, when the first Android phone, the T-Mobile G1, went on sale. In March 2012, Google combined Android Market with its online stores for music, books and films and renamed the whole thing Google Play. One difference between the two worlds became important later: on Android, people can also install apps from other places, such as a developer's own website or a different app store, if they change a setting. On the iPhone, for most of its history, Apple's App Store was the only official door.",
+        "Today, the main app stores each hold millions of apps. Apple reported close to 2 million apps in its store in 2024, and Google Play has held well over 2 million for most recent years, with the numbers rising and falling as the stores remove old or broken apps. That is more apps than one person could look at in a lifetime of browsing."
+      ]
+    },
+    {
+      "heading": "Anyone Can Make an App",
+      "paragraphs": [
+        "The App Store did something unusual: it let almost anyone become a software seller to the whole world. In the past, to sell a computer program, you usually needed a company, a box, a disc, a printed manual and a deal with shops. Now a single programmer at a kitchen table could write a game, send it to Apple or Google, and if it was approved, people on the other side of the planet could buy it the very next week.",
+        "How does the money work? When someone buys an app or pays for something inside an app, the store keeps a share and passes the rest to the developer, the person or company that made the app. For many years the standard deal was 70/30: the developer kept 70 percent and the store kept 30 percent. That 30 percent pays for running the store, handling payments, checking apps and reaching customers, although many developers argued it was too much. Over time the rules softened. Both Apple and Google started taking only 15 percent on subscriptions after the first year, and from 2021 Apple charged 15 percent to small developers earning under 1 million dollars a year. Google made similar changes. Developers also pay to join: Apple charges a yearly membership fee, and Google charges a one-time registration fee.",
+        "Many apps do not cost anything to download. Instead, they make money in other ways: by showing advertisements, by selling extra items or levels inside the app (called in-app purchases), or by asking for a monthly subscription. This 'freemium' idea, free to start but pay for extras, became the most common way to earn money from apps, especially games.",
+        "The amounts are enormous. Apple says the App Store helped developers earn hundreds of billions of dollars in sales since 2008. It also created many new kinds of jobs: app designers, programmers, testers, people who write the words in apps, and people who study which apps are popular. Universities and online courses began teaching app-making, and young people around the world, including teenagers, learned to code and publish their own apps. Apple even runs a student challenge as part of its yearly developer conference, and Google, Apple and others offer free coding tools that run right on a laptop.",
+        "Of course, publishing an app is not the same as being successful. With millions of apps in the stores, most apps are downloaded only a small number of times, and only a small share of developers earn a living from them. Being noticed is hard. Getting featured on the store's front page, or going viral as friends tell friends, can make the difference between a few downloads and many millions."
+      ]
+    },
+    {
+      "heading": "Apps That Changed Our Habits",
+      "paragraphs": [
+        "Some apps became so popular that they changed how people live, play and talk. Here are a few of the most famous, though there are many more.",
+        "It is worth remembering how many everyday jobs quietly moved into apps too. Little tools that once needed their own gadgets, such as a calculator, an alarm clock, a voice recorder, a flashlight, a dictionary or a bus timetable, became free icons on a home screen. Banks put their branches into apps, airlines turned paper boarding passes into codes on a screen, and schools began sending homework and messages to families through apps. None of these were as famous as the hits below, but together they explain why many people now reach for their phones dozens of times a day.",
+        "Angry Birds came from Rovio, a small game studio in Finland that had made 51 games for other companies before it created a hit of its own. Designer Jaakko Iisalo sketched some round, grumpy-looking birds with angry eyebrows, and the team built a game around them: you pull back a slingshot with your finger and fling birds at wobbly towers built by green pigs. It came out for the iPhone in December 2009 for 99 cents. It was perfect for a touchscreen, simple to learn but hard to master, with realistic physics as the towers tumbled. Within about a year it had been downloaded over 50 million times, and the Angry Birds series later passed billions of downloads, plus toys, cartoons and movies.",
+        "WhatsApp was started in 2009 by Jan Koum and Brian Acton, two former workers at the internet company Yahoo. At first it was meant to be a simple status app, showing friends whether you were busy or on a call. It turned into a messaging app that sent texts over the internet instead of the phone network's SMS system, which saved people a lot of money, especially when messaging friends and family in other countries. In 2014 Facebook bought WhatsApp for about 19 billion dollars, one of the biggest technology deals ever at the time. By 2020 it had more than 2 billion users, and in many countries it became the main way people talk, from family chats to doctors sending appointment reminders.",
+        "Instagram began as a different app called Burbn, a check-in app for sharing where you were. Its creators, Kevin Systrom and Mike Krieger, noticed that people mostly liked its photo features, so they stripped it down to just photos. Instagram launched on the App Store on October 6, 2010, with square pictures and filters that made phone photos look like old film snapshots. It gained 1 million users within two months. In 2012 Facebook agreed to buy it for about 1 billion dollars, even though the company had only about a dozen employees.",
+        "Maps and navigation changed even more lives. The first iPhone came with a Google Maps app, and in 2009 Google launched free turn-by-turn spoken directions for Android phones. Combined with GPS (Part 15), phone maps replaced folded paper maps and expensive car navigation gadgets for millions of drivers, walkers and cyclists. Maps also made possible another huge change: ride-hailing. Uber, founded in San Francisco in 2009, launched an app that let you tap a button, see a car approaching on a map, and pay automatically. Similar services, such as Lyft in the United States, Didi in China and Grab in Southeast Asia, spread the idea around the world, along with food-delivery apps that work the same way.",
+        "Then, in July 2016, came Pokémon Go, made by Niantic with Nintendo and The Pokémon Company. It used GPS to place Pokémon in the real world, so players had to walk to parks, streets and landmarks to catch them, and it used the camera and gyroscope to show the creatures as if they were standing right in front of you. It set records: in its first month it became the most-downloaded mobile game ever in a first month, at about 130 million downloads, and it reached 500 million downloads within a few months. Suddenly crowds of people were walking around cities staring at their phones and cheering. Studies found that many players walked noticeably more than before, at least for the first weeks, which led one journalist to call it an accidental health craze."
+      ]
+    },
+    {
+      "heading": "Money in a Text Message: M-Pesa",
+      "paragraphs": [
+        "Not every world-changing phone service needed a smartphone or an app store. One of the most important ones ran on simple, cheap phones with tiny screens and number keys, and it started in Kenya.",
+        "In the early 2000s, millions of Kenyans had mobile phones, but most did not have bank accounts. Banks were far away, especially in the countryside, and opening an account could be costly. Yet people constantly needed to move money: a son working in Nairobi wanted to send part of his wages to his parents in a village hundreds of kilometres away. Often the only way was to hand cash to a bus driver or a friend and hope it arrived. Researchers studying phones in Africa had noticed something clever: people were already sending each other phone airtime, the prepaid credit used to make calls, as a kind of money.",
+        "The British phone company Vodafone and its Kenyan partner Safaricom decided to build a proper service. Part of the early money for the project came from a fund run by the UK government's Department for International Development. After a trial starting in 2005, the service launched to the public in March 2007. It was called M-Pesa: M for mobile, and pesa, the Swahili word for money.",
+        "Here is how it works. You visit an M-Pesa agent, often a small shop that also sells phone airtime, and hand over cash. The agent adds that amount to the M-Pesa account linked to your phone number. To send money, you use a menu on your phone, type in the person's phone number, the amount and your secret PIN, and the money moves by a secure text message. The person receives a message saying the money has arrived, and they can walk to an agent near them and turn it back into cash, or keep it on their phone and pay for something else. No bank branch, no smartphone and no internet connection needed.",
+        "M-Pesa spread incredibly fast. By the end of 2011, Kenya had about 17 million M-Pesa users, and today it operates in several African countries and has tens of millions of customers. People used it to pay school fees, electricity bills and shopkeepers, and to receive wages. A widely cited 2016 study by economists Tavneet Suri and William Jack estimated that access to M-Pesa helped lift about 2 percent of Kenyan households out of extreme poverty, partly by helping women move from farming into business. Other researchers have questioned how big that effect really was, so it is fair to say economists still discuss the exact numbers. But nearly everyone agrees M-Pesa showed the world that a phone could be a bank.",
+        "Richer countries came to phone payments later, and in a different way. On October 20, 2014, Apple launched Apple Pay, which lets you pay in shops by holding your phone near a card reader. It uses NFC, near-field communication, a radio link that only works over a few centimetres. Clever security is built in: the phone does not send your real card number to the shop. Instead it sends a stand-in number called a token, plus a one-time code, and you approve the payment with your fingerprint or face (Part 15). Google, Samsung and others offer similar wallets. In many countries, tapping a phone or watch to pay for a bus ride or a sandwich is now ordinary.",
+        "China took yet another path. There, many shops skipped card readers almost completely and jumped straight to paying with phones through QR codes, the square black-and-white patterns a camera can read. With apps such as Alipay, from the shopping company Alibaba, and WeChat Pay, built into the hugely popular WeChat messaging app, a customer scans a code printed on a sign at the counter, or the shopkeeper scans a code on the customer's screen, and the money moves instantly. Because a printed QR code costs almost nothing, even street-food sellers and market stalls could accept phone payments. Three very different routes, but the same idea: the phone in your pocket became your wallet."
+      ]
+    },
+    {
+      "heading": "Who Decides? Store Rules and the Fortnite Fight",
+      "paragraphs": [
+        "An app store is a bit like a giant shopping mall where the mall owner decides which shops may open. Before an app appears in Apple's App Store, it is checked by Apple's review process against a long list of rules, called the App Store Review Guidelines. Apps can be rejected if they crash, collect data in sneaky ways, contain harmful content, copy other apps, or try to trick people. Google also checks apps for Google Play, using a mix of automatic scanning and human review.",
+        "Supporters say these rules protect users. Because Apple controls what goes in, iPhone owners can download apps without worrying as much about viruses or scams, and parents can trust the store a bit more. Critics say the store owners have too much power: they make the rules, they compete with some of the apps in their own stores, and they take a cut of the money. Developers have complained that rejections can be confusing, and that they were not allowed to tell customers about cheaper ways to pay outside the app.",
+        "That argument exploded on August 13, 2020. Epic Games, maker of the hugely popular game Fortnite, secretly switched on its own payment system inside the Fortnite app, offering players the game's V-Bucks currency at a 20 percent discount if they paid Epic directly instead of going through Apple or Google. This broke both stores' rules, and within hours both Apple and Google removed Fortnite. Epic was ready: the same day, it filed lawsuits against both companies and released a video that made fun of Apple's own famous 1984 advertisement.",
+        "The court case against Apple was decided by Judge Yvonne Gonzalez Rogers in California. In September 2021, she ruled that Apple was not an illegal monopoly under US federal law, which was mostly a win for Apple. But she also ruled that Apple must allow apps to tell users about other ways to pay and to link to them, a win for developers. Apple's attempts to follow the order while still charging fees led to more arguments, and in 2025 the judge found that Apple had not properly obeyed her order and told it to stop charging fees on those outside payments. Apple appealed. In the separate case against Google, a jury in December 2023 found that Google had illegally protected a monopoly over its Android app store and payments. Fortnite eventually returned to the iPhone in the United States in 2025.",
+        "Governments got involved too. The European Union's Digital Markets Act, which started applying in 2024, requires the biggest technology companies to open up more, and Apple began allowing alternative app stores on iPhones in the EU. Other countries, including Japan and South Korea, passed their own app store rules. The fight is not over, and people still disagree about the right balance between safety and freedom. It is a good example of how a new invention can raise questions that inventors never imagined, questions that end up in courts and parliaments."
+      ]
+    },
+    {
+      "heading": "What Is an App, Really?",
+      "paragraphs": [
+        "So what actually is an app? At heart, it is a list of instructions called code, written by programmers in a programming language. On iPhones, many apps are written in a language called Swift, which Apple introduced in 2014; on Android, many are written in Kotlin or Java. The programmer's code is turned into the simple instructions the phone's chip understands (Part 11), packed together with pictures, sounds and other files, and uploaded to the store. When you tap Install, your phone downloads that package and stores it.",
+        "Apps do not have to build everything themselves. The phone's operating system offers ready-made building blocks, a bit like a toolbox, called APIs (application programming interfaces). An app that wants to know your location does not need to understand satellite clocks; it simply asks the operating system, which asks the GPS chip and hands back the answer. The same goes for the camera, the accelerometer, the speaker and the internet connection. This is why a small team can make an amazing app: they stand on the shoulders of everything the phone already knows how to do.",
+        "But you would not want any app to grab your photos, listen through your microphone or track where you go without asking. So modern phones keep each app in its own sandbox, a fenced-off area where it can only touch its own files. To reach beyond the fence, an app must ask permission, and you see a pop-up message such as 'Allow this app to use your location?' You can say yes, no, or only while using the app, and you can change your mind later in the settings. A good habit is to ask: does this app really need that? A flashlight app has no good reason to read your contacts.",
+        "Apps also keep changing after you install them. Developers fix bugs, close security holes and add new features, then send out updates through the store. Many phones install these automatically overnight. Some apps also fetch fresh information from the internet every time you open them, from computers called servers, which is why a weather app or a chat app shows new things each day even if the app itself has not changed. In a way, an app on your phone is often just the front door, and much of the work happens in giant data centers far away.",
+        "Put it all together and you can see why apps changed the smartphone so much. The hardware we explored in Parts 10 to 15 is like a powerful, beautifully made instrument. Apps are the music. Millions of different people, from huge companies to teenagers in their bedrooms, can write new music for the same instrument. A single phone can become a game console on the bus, a bank in a Kenyan village, a camera studio, a map of the whole world, or a way to say goodnight to a grandparent on another continent.",
+        "And that is the bigger story. Each app on its own might seem small: one game, one chat service, one map. But billions of phones running millions of apps added up to something far larger than any single invention. It changed how people shop, work, travel, learn, make friends and even protest. In Part 17, we zoom out from single apps to the whole planet, and ask how billions of smartphones changed the way humanity lives."
+      ]
+    }
+  ],
+  "deepDive": "Economists describe app stores as 'two-sided platforms': they bring together users on one side and developers on the other, and each side becomes more valuable as the other grows. More users attract more developers, more apps attract more users, and this feedback loop, called a network effect, helps explain why the market settled on just two big ecosystems, Apple's iOS and Google's Android, while rivals such as BlackBerry World and Microsoft's Windows Phone Store struggled to attract enough apps. The commission debate centres on whether the store's cut (traditionally 30 percent, now often 15 percent for small developers and long-running subscriptions) reflects fair payment for services such as security review, payment processing and distribution, or is a 'tax' that only a gatekeeper could charge. In Epic Games v. Apple, Judge Yvonne Gonzalez Rogers defined the relevant market as mobile gaming transactions and found that Apple was not an illegal monopolist under federal law, but she ordered an end to 'anti-steering' rules under California law; in 2025 she found Apple in contempt of that order, and appeals continued. A parallel jury found against Google in December 2023. Regulators have moved too: the EU's Digital Markets Act (applying from 2024) forces 'gatekeepers' to allow alternative app stores and payment options, and Japan and South Korea have passed their own laws. Security experts warn that opening up phones can make scams and malware easier, while competition advocates argue the benefits outweigh the risks; there is no simple consensus. M-Pesa is studied for a different reason. It showed that a mobile network's existing agent shops and SMS menus could act as a cheap substitute for bank branches. Tavneet Suri and William Jack's 2016 study in Science estimated that access to M-Pesa lifted about 194,000 Kenyan households (about 2 percent) out of extreme poverty, with especially strong effects for households headed by women. A 2019 critique by Milford Bateman and colleagues argued the study's methods overstated the effect, and the debate continues, a reminder that measuring the impact of technology on poverty is genuinely hard.",
+  "funFact": "Instagram began as a check-in app called Burbn, and it reached 1 million users within two months of launching as a photo app in October 2010.",
+  "check": {
+    "q": "What did M-Pesa, launched in Kenya in 2007, let people do with simple mobile phones?",
+    "a": "Send and receive money using text messages",
+    "wrong": [
+      "Watch live television",
+      "Download games from the App Store",
+      "Find their location using GPS"
+    ]
+  },
+  "sources": [
+    {
+      "title": "App Store (Apple)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/App_Store_(Apple)"
+    },
+    {
+      "title": "Google Play",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Play"
+    },
+    {
+      "title": "M-Pesa",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/M-Pesa"
+    },
+    {
+      "title": "Epic Games v. Apple",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Epic_Games_v._Apple"
+    },
+    {
+      "title": "Angry Birds (video game)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Angry_Birds_(video_game)"
+    },
+    {
+      "title": "WhatsApp",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/WhatsApp"
+    },
+    {
+      "title": "Instagram",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Instagram"
+    },
+    {
+      "title": "Pokémon Go",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Photo of an M-Pesa agent shop or sign in Kenya, where people turn cash into mobile money",
+      "search": "M-Pesa agent shop Kenya"
+    },
+    {
+      "want": "Photo of a crowd of people playing Pokémon Go on their phones in a city park or street in 2016",
+      "search": "Pokemon Go players crowd 2016"
+    },
+    {
+      "want": "Screenshot or photo of a smartphone home screen full of app icons, or the App Store on an iPhone 3G",
+      "search": "iPhone 3G App Store screen"
+    }
+  ]
+}

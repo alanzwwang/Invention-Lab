@@ -1,0 +1,156 @@
+{
+  "n": 17,
+  "title": "Parsons and the Spinning Turbine",
+  "when": "1880s – 1910s",
+  "summary": "A clever engineer named Charles Parsons found a way to make steam spin a wheel directly, with no piston thumping back and forth. His turbine whirled thousands of times a minute, perfect for making electricity. Then he built a tiny boat called Turbinia that zoomed past the whole Royal Navy and amazed the world.",
+  "sections": [
+    {
+      "heading": "The Trouble With Pistons",
+      "paragraphs": [
+        "By the 1880s, steam engines were everywhere: in mills, mines, ships and factories. They were bigger, safer and far more efficient than Newcomen's nodding giant had ever been. But almost all of them still worked in the same basic way. A piston slid one way inside a cylinder, stopped, then slid back the other way. Engineers call this reciprocating motion, which simply means moving back and forth. A crank and a heavy flywheel then turned that back-and-forth shove into a turning motion.",
+        "This worked, but it had problems. Imagine a heavy metal piston, perhaps as wide as a dinner table, racing to one end of a cylinder, slamming to a stop, then racing back again, many times every minute. Every stroke shook the engine, the floor and the building around it. Big engines needed massive stone or brick foundations to stop them from rattling themselves to pieces. The faster you tried to run them, the worse the shaking became, and the more the moving parts wore out.",
+        "Then a brand-new customer for steam power appeared: electricity. In 1882 Thomas Edison opened his Pearl Street Station in Lower Manhattan, New York, one of the first central power stations in the world. It lit about 400 lamps for 82 customers when it opened on 4 September 1882, and within two years it was serving more than 500 customers and over 10,000 lamps. The power came from coal-fired boilers and piston steam engines driving dynamos (early generators). Edison's team even had to swap out their first engines, because the speed regulators on them were not steady enough for the dynamos.",
+        "Here was the difficulty. A generator works best when it spins fast and very smoothly. Inside, a coil of wire and a magnet move past each other, and the faster they move, the more electricity you get from a machine of a given size. Piston engines, though, liked to run at a few hundred turns per minute at most. To speed things up, engineers used belts and gears, which wasted energy and needed constant care. Any wobble in the engine's speed made electric lights flicker.",
+        "So engineers had a puzzle. Could you make steam produce a smooth, fast, steady spin directly, with no piston at all? Remember Hero of Alexandria's aeolipile from Part 2, the hollow ball that whirled around as jets of steam shot out of it. That ancient toy showed that steam could make something spin. The challenge, nearly 1,800 years later, was to turn that idea into a powerful, efficient machine that could run day and night. Two engineers, one in Sweden and one in England, were about to crack it in two different ways."
+      ]
+    },
+    {
+      "heading": "A Boy From a Castle Full of Science",
+      "paragraphs": [
+        "Charles Algernon Parsons was born in London on 13 June 1854, but he grew up mostly at Birr Castle in central Ireland. That was no ordinary home. His father, William Parsons, the 3rd Earl of Rosse, was a famous astronomer who had built a gigantic telescope in the castle grounds, nicknamed the Leviathan of Parsonstown. For decades it was the largest telescope in the world, and with it Lord Rosse saw the spiral shapes of distant galaxies (then called nebulae) more clearly than anyone before him.",
+        "Charles was the youngest son, and the Parsons children were taught at home by private tutors, some of them serious scientists. The castle had workshops where the boys could tinker with tools, lathes and metal, and they built all sorts of contraptions. It was the perfect training ground for a future engineer. Growing up surrounded by giant machines, careful measurements and the idea that you could build something no one else had built must have shaped how he thought.",
+        "Parsons went on to study mathematics at Trinity College Dublin and then at St John's College, Cambridge, graduating in 1877. At that time it was unusual for a wealthy young man with a university degree to go and get his hands dirty in a factory. But that is exactly what he did. He became an apprentice at the huge Elswick engineering works of William Armstrong in Newcastle upon Tyne, in the north-east of England, a place that built cranes, bridges, ships and guns.",
+        "After a few years working on other engine ideas, in 1884 Parsons joined the Newcastle firm of Clarke, Chapman and Company as a junior partner, in charge of a new department making electrical equipment for ships. The firm wanted a way to light ships with electricity, and that meant needing a compact, fast-spinning engine to drive a generator. This was exactly the problem Parsons had been thinking about. Newcastle, by the way, was a great place to be an engineer: it was surrounded by coal mines, shipyards and ironworks, and the River Tyne was full of ships.",
+        "Parsons was quiet, stubborn and extremely practical. He liked to test ideas by building them, measuring them and building them again. Colleagues remembered him as shy in company but fearless in the workshop. Those qualities would matter, because the machine he was about to build would have to spin faster than almost anything engineers had ever tried."
+      ]
+    },
+    {
+      "heading": "Two Ways to Push a Wheel: Impulse and Reaction",
+      "paragraphs": [
+        "Before we look at Parsons's machine, let's understand the two main ways steam can spin a turbine. A turbine is a machine where a moving fluid, like steam, water or air, pushes on rows of blades to spin a shaft directly. A windmill and a waterwheel are simple relatives. In a steam turbine, the blades are small, curved and set around the rim of a wheel, a bit like the teeth of a comb bent into a circle.",
+        "The first way is called impulse. Picture a garden hose spraying a strong jet of water at the paddles of a toy waterwheel. The jet hits each paddle, pushes it, and the wheel spins. In an impulse turbine, steam is first squirted through a fixed nozzle, a specially shaped narrow opening. As it squeezes through, its pressure drops and it speeds up enormously, becoming a fast jet. That jet then slams into curved blades on a wheel, which turn the steam around and are pushed in return. All the speeding-up happens in the nozzle; the moving blades just catch the jet.",
+        "The second way is called reaction. Think of letting go of a balloon that is not tied: air rushes out the back, and the balloon shoots forward. Hero's aeolipile worked like this, and so does a spinning lawn sprinkler. In a reaction turbine, the moving blades themselves are shaped so that the steam speeds up as it passes between them, a bit like a nozzle. As the steam rushes out of the gaps, it pushes back on the blades, just as escaping air pushes a balloon. In Parsons's design, the pressure drops a little in the fixed blades and a little in the moving blades, so each moving row gets both a push from the incoming flow and a kick from the steam leaving it.",
+        "The Swedish engineer Gustaf de Laval, born in 1845 in Orsa, Sweden, chose the impulse route. De Laval was already well known for building a centrifugal machine that separated cream from milk by spinning it very fast, and he was an expert at making things whirl at high speeds. He worked out his impulse turbine idea in the early 1880s and built a small working model in 1887. His turbines had a single wheel of blades hit by steam jets, and they could reach astonishing speeds, up to about 30,000 revolutions per minute (rpm) in small versions.",
+        "To get the most out of the steam, de Laval designed a nozzle that first narrows and then widens again. This shape lets steam speed up beyond the speed of sound. It is still called the de Laval nozzle, and remarkably, the same basic shape is used today on the exhaust nozzles of rocket engines. De Laval's turbines were simple and could work with steam at many different pressures, but because all the steam's energy was used in one fast jet, the wheel had to spin incredibly quickly, and he had to invent special reduction gears to slow the motion down for useful machines."
+      ]
+    },
+    {
+      "heading": "Inside Parsons's Turbine: Many Small Steps",
+      "paragraphs": [
+        "Parsons had a different insight. If you let high-pressure steam expand all at once, it rushes out so fast that the wheel would have to spin at a frightening speed to keep up, and a lot of energy is wasted. So why not let the steam drop its pressure in many small steps instead of one big one? Each step would take only a little energy from the steam, so each row of blades could move at a sensible speed, yet all the steps added together would capture most of the energy.",
+        "His turbine was a long shaft, called the rotor, covered in ring after ring of small blades sticking outwards. Around it was a tube-shaped casing with rings of fixed blades sticking inwards, fitting neatly between the moving rows. Steam entered at one end. First it passed through a ring of fixed blades, which steered it at just the right angle. Then it rushed through a ring of moving blades, pushing them round. Then another fixed ring, then another moving ring, and so on, along the whole length of the machine.",
+        "At each step, the steam lost a little pressure and spread out a little more. Because steam takes up more space as its pressure falls, Parsons made the blades and the passages slightly bigger towards the exhaust end, so there was room for the swelling steam. Engineers call this arrangement multi-stage or compounding, and it is the reason modern turbines look like a long cone or a series of drums that grow fatter towards one end. Parsons also made the steam flow along the shaft, parallel to it, which engineers call axial flow.",
+        "His first turbine, built at Clarke Chapman in 1884, was small. It drove a dynamo that Parsons had also designed himself, and together they produced about 7.5 kilowatts of electricity, roughly enough today to run a few electric kettles at once. But the speed was the real headline: about 18,000 revolutions per minute, which is about 300 turns every single second. Most steam engines of the day turned fewer than 200 times a minute. Running at that speed meant every part had to be balanced perfectly, and Parsons had to design new kinds of bearings that could cope with a little wobble without shaking themselves apart.",
+        "This historic machine survives. It is kept in the collection of the Science Museum in London, a small, plain-looking engine that started an enormous family. What made it special was not raw power, but the fact that it turned smoothly, without any back-and-forth thumping, and could be connected straight to a generator without belts. There was no heavy piston to stop and start. The steam simply flowed through and the shaft spun. It was, in a way, Hero's spinning dream made practical, but with dozens of carefully shaped steps instead of two bent nozzles."
+      ]
+    },
+    {
+      "heading": "Lighting Up Newcastle",
+      "paragraphs": [
+        "A brilliant invention still has to find customers. In 1889 Parsons left Clarke Chapman to set up his own business, C. A. Parsons and Company, at Heaton in Newcastle, to build turbines joined to generators, a combination called a turbo-generator. There was a catch. His old firm kept the rights to his original patents for the axial design, where steam flows along the shaft. Rather than give up, Parsons designed a different kind of turbine in which the steam flowed outwards from the centre, called a radial-flow turbine, and sold those instead. A few years later, in 1894, he managed to buy back his original patents and returned to the axial design he preferred. It is a good example of how inventors sometimes have to invent around their own earlier inventions.",
+        "His first big break came in his home city. In 1890 the Newcastle and District Electric Lighting Company opened Forth Banks Power Station, and it was the first power station in the world to make its electricity using turbo-generators. Instead of rows of thumping engines and slapping belts, the engine room held compact machines humming at high speed. Visitors noticed how much less space they needed and how little they shook.",
+        "Parsons kept improving his machines. One important step was adding a condenser, a chamber where the used steam is cooled back into water. You met the idea in Part 7: James Watt's separate condenser. Condensing the exhaust steam creates a partial vacuum at the end of the turbine, so the steam rushes through all the blades faster and gives up more of its energy before it leaves. For a turbine, which can let steam expand all the way down to very low pressure, a good condenser made a big difference to efficiency. Parsons turbines soon used noticeably less steam for each unit of electricity than the best piston engines.",
+        "Sizes grew quickly. His first turbine produced about 7.5 kilowatts. In 1899 his company built a turbo-generator of about 1,000 kilowatts (one megawatt) for a power station in Elberfeld, Germany. That is more than a hundred times as much power in about fifteen years. Within a few more years, turbines of several thousand kilowatts were being built, and other companies in Europe and America were making their own versions, often under licence from Parsons. In the United States, Westinghouse built Parsons-type turbines, while Charles Curtis developed an impulse design that the General Electric Company built in large numbers. In France, Auguste Rateau developed a multi-stage impulse turbine from the late 1890s.",
+        "Why did turbines win the race to drive generators? Imagine you are a power-station manager in 1905. For the same power, a turbine was much smaller and lighter than a piston engine, so your building could be smaller. It had far fewer rubbing parts, so it needed less oil and fewer repairs. It ran smoothly, so it did not need huge foundations, and it could spin a generator directly at high speed. And as turbines got bigger, they got more efficient, while giant piston engines got clumsier. By the 1910s, most new large power stations were choosing turbines."
+      ]
+    },
+    {
+      "heading": "Turbinia Crashes the Party",
+      "paragraphs": [
+        "Parsons believed his turbine could do something even more exciting: drive ships. Ships of the time were powered by enormous piston engines that filled their insides with clanking metal and shook the whole hull. To prove his point, he and a group of friends formed a company and built an experimental vessel. They called her Turbinia. She was built at Wallsend on the River Tyne and launched on 2 August 1894. She was long and narrow, about 32 metres (105 feet) long but only about 2.7 metres (9 feet) wide, shaped like an arrow for speed.",
+        "At first, Turbinia was a disappointment. With a single turbine driving a single propeller, she was nowhere near as fast as Parsons hoped. The propeller was spinning so fast that it churned the water into a froth of bubbles. Engineers now call this cavitation: when a propeller spins very fast, the water pressure behind its blades drops so low that little pockets of vapour form, and the propeller loses its grip on the water. Parsons was one of the first people to study this properly. He even built a small water tunnel with a glass side, where he could watch model propellers spinning and see the bubbles form.",
+        "Parsons rebuilt Turbinia's machinery. He fitted three turbines, the steam passing from one to the next, each driving its own propeller shaft. Each shaft carried three propellers, so the little boat had nine propellers in total. Now her engines produced about 2,000 horsepower, a huge amount for a boat that weighed only about 44 tonnes. On trials she reached about 34.5 knots, roughly 64 kilometres per hour. That made her the fastest ship in the world.",
+        "Then came the most famous stunt in engineering history. On 26 June 1897, the Royal Navy held a grand review of its fleet at Spithead, the stretch of sea near Portsmouth, to celebrate Queen Victoria's Diamond Jubilee (60 years on the throne). Picture it: line after line of mighty battleships and cruisers, flags flying, dignitaries watching, including the Prince of Wales, along with foreign admirals and crowds of spectators. Turbinia had not been invited.",
+        "Suddenly the slim little boat appeared and raced up and down between the lines of warships, trailing smoke and spray, faster than anything else afloat. A Navy patrol boat set off to stop her, but it could not catch her. Whether the Navy chiefs were annoyed or impressed, everybody had seen what a turbine could do. Newspapers reported it around the world. It was a daring piece of showmanship, but it was backed by careful science: Parsons had done the tests and knew his boat could outrun anything in the review."
+      ]
+    },
+    {
+      "heading": "Turbines Rule the Waves",
+      "paragraphs": [
+        "The Royal Navy did not take long to be convinced. Parsons's company built turbine engines for two experimental destroyers, HMS Viper and HMS Cobra, launched in 1899. Sadly, both ships were lost in separate accidents in 1901, one running onto rocks and one breaking apart in heavy seas, but neither loss was blamed on the turbines. Turbine-powered passenger ferries also appeared, starting with the Clyde steamer King Edward in 1901, and passengers loved how smooth and quiet they were compared with the shuddering old steamers.",
+        "The big moment for navies came with HMS Dreadnought. In January 1905 a design committee decided she would use turbines rather than piston engines, which saved about 1,100 tonnes of weight. Dreadnought was built astonishingly quickly: laid down in October 1905, launched in February 1906 and completed by the end of that year. Her Parsons turbines produced about 23,000 horsepower and drove four propeller shafts, giving a top speed of about 21 knots. She was so fast and so heavily armed that she made every older battleship look out of date overnight. Soon navies spoke of 'dreadnoughts' as a whole new class of ship, and nearly all of them used turbines.",
+        "Ocean liners followed. The British Cunard Line built two huge, fast liners, Lusitania and Mauretania. Mauretania was launched in 1906 at the Swan Hunter yard in Wallsend, just down the Tyne from where Turbinia had been built, and made her first voyage in November 1907. She had four Parsons turbines, driving four propellers, with a total of about 68,000 horsepower, and could steam at about 25 knots. Feeding her boilers was hard work: she burned about 1,000 tonnes of coal a day, shovelled by hundreds of stokers in hot boiler rooms deep inside the ship.",
+        "Mauretania became famous for speed. In those days, the ship with the fastest Atlantic crossing held an honour called the Blue Riband. Mauretania won the eastbound record in 1907 and the westbound record in 1909, and she kept the Blue Riband until 1929, when the German liner Bremen finally beat her. Twenty years at the top made her one of the best-loved ships ever built.",
+        "Not every ship went all-turbine. The Titanic, launched in 1911, used a clever mix. Her two outer propellers were driven by two huge four-cylinder triple-expansion piston engines producing about 30,000 horsepower together. But instead of throwing away the steam that came out of those engines, it was fed into a low-pressure Parsons turbine in the middle of the ship, which drove the centre propeller and added about 16,000 horsepower more. This combination squeezed extra work out of the same coal. It shows that, around 1910, engineers were still choosing the best tool for each job, mixing old and new.",
+        "One problem remained. Turbines like to spin fast, but big ship propellers work best spinning slowly, often below a few hundred turns a minute, or they cavitate. Early turbine ships drove their propellers directly and accepted the compromise. In the 1900s and 1910s, Parsons and others developed strong reduction gears that let a fast turbine turn a slow propeller, and geared turbines became standard in many large ships for decades."
+      ]
+    },
+    {
+      "heading": "From a Small Machine to Giant Turbines",
+      "paragraphs": [
+        "It is worth pausing to see how fast the turbine grew. In 1884 Parsons's first machine made about 7.5 kilowatts. Around 1899 his company built a one-megawatt set. By the 1910s, single turbo-generators of many thousands of kilowatts were running in power stations in Britain, Germany and the United States, and the biggest ships had turbines producing tens of thousands of horsepower. In just about thirty years the turbine went from a curious experiment to the main way of turning heat into large amounts of electricity.",
+        "Parsons himself became one of the most honoured engineers of his time. He was elected a Fellow of the Royal Society in 1898, was knighted in 1911, and received the Order of Merit in 1927, one of Britain's highest honours. He never stopped tinkering. His company also made searchlight mirrors and large telescope mirrors and optical glass, a nice link back to his father's giant telescope at Birr Castle. He died in 1931 while on a cruise, aboard the ship Duchess of Richmond.",
+        "He was not a lone genius, though. De Laval, Curtis, Rateau and many engineers at Westinghouse, General Electric, Brown Boveri and other companies all helped shape the turbine. Metallurgists developed steels that could cope with heat and the huge forces at high speed. Mathematicians and engineers worked out better blade shapes. And the science of thermodynamics from Part 16 told them why squeezing more energy from steam needed higher temperatures and lower exhaust pressures. Turbines were a team effort spread across several countries.",
+        "Today Turbinia herself is on display at the Discovery Museum in Newcastle upon Tyne, while her original engines are at the Science Museum in London. If you ever stand next to her, notice how small she is: a slim boat that changed the navies and power stations of the world. The engineering society ASME has named her a historic engineering landmark, noting that her success helped turbines replace piston engines both in ships and in power stations.",
+        "And here is the surprise. The great-great-grandchildren of Parsons's turbine have not gone away. They are spinning right now, in huge halls all over the world, many times larger than anything Parsons imagined, turning generators that make much of the electricity flowing into the reader's home. The lamp you are reading by, or the screen in front of you, may well be powered by steam. In the next part, we will step inside one of these modern power stations and follow the steam on its journey."
+      ]
+    }
+  ],
+  "deepDive": "Why did the multi-stage turbine beat both the piston engine and the single-wheel impulse turbine? The answer lies in blade speed. When steam expands from high pressure to a near-vacuum in one go, it can reach speeds well over 1,000 metres per second. For a single row of blades to capture that energy efficiently, the blade tips need to move at roughly half the jet speed. That is why de Laval's single-stage machines had to spin at tens of thousands of rpm and needed heavy reduction gearing, and why their efficiency was limited. Parsons's solution, pressure compounding, divides the total pressure drop among many stages, so the steam velocity in each stage is modest and the blades can run at practical speeds. Later designs mixed approaches: Curtis used velocity compounding (several rows of moving blades catching one jet in turn), Rateau used a series of impulse stages, and modern turbines often have an impulse-type control stage at the high-pressure end followed by many reaction-type stages. Engineers describe a stage by its degree of reaction: 0 percent means a pure impulse stage, where all the pressure drop happens in the fixed nozzles, while Parsons's classic design is about 50 percent reaction, with fixed and moving blades of mirror-image shape sharing the drop. Turbines also exploited thermodynamics better than pistons. A piston engine's cylinder is alternately filled with hot and cooler steam, so heat is lost to the walls each cycle, and expanding steam to very low pressure needs an impractically huge cylinder. A turbine has steady flow: each part of the machine always sees the same temperature, and the low-pressure end can simply be made wider, letting steam expand all the way down to the condenser vacuum. That extra expansion is where much of the gain comes from. Historians debate how much credit to give each pioneer. De Laval's nozzle and high-speed work were important and his nozzle lives on in rockets, but Parsons's multi-stage reaction design, combined with his direct-drive generator and condenser, became the template for large power stations. Both men also showed something typical of this era: engineering moved from craft knowledge toward careful testing, with Parsons building one of the first cavitation tunnels to study propellers scientifically.",
+  "funFact": "Charles Parsons's father, the Earl of Rosse, built a telescope so large it was nicknamed the Leviathan, and for decades it was the biggest telescope in the world.",
+  "check": {
+    "q": "What did Turbinia do at the Spithead naval review in 1897?",
+    "a": "She appeared uninvited and raced between the lines of warships at about 34 knots, faster than any ship there",
+    "wrong": [
+      "She towed Queen Victoria's royal yacht into harbour",
+      "She sank after her boiler exploded",
+      "She won a sailing race using only wind power"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Charles Algernon Parsons",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charles_Algernon_Parsons"
+    },
+    {
+      "title": "Turbinia",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Turbinia"
+    },
+    {
+      "title": "#73 Turbinia (Historic Mechanical Engineering Landmark)",
+      "publisher": "ASME",
+      "url": "https://www.asme.org/about-asme/engineering-history/landmarks/73-turbinia"
+    },
+    {
+      "title": "Steam turbine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Steam_turbine"
+    },
+    {
+      "title": "Gustaf de Laval",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gustaf_de_Laval"
+    },
+    {
+      "title": "Pearl Street Station",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pearl_Street_Station"
+    },
+    {
+      "title": "HMS Dreadnought (1906)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/HMS_Dreadnought_(1906)"
+    },
+    {
+      "title": "RMS Mauretania (1906)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/RMS_Mauretania_(1906)"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Photograph of the narrow steam yacht Turbinia racing at full speed with spray, about 1897",
+      "search": "Turbinia ship 1897 full speed"
+    },
+    {
+      "want": "Portrait photograph of Sir Charles Algernon Parsons, inventor of the steam turbine",
+      "search": "Charles Algernon Parsons portrait"
+    },
+    {
+      "want": "Parsons's early steam turbo-generator or an opened steam turbine rotor showing rows of blades",
+      "search": "Parsons steam turbine rotor blades"
+    }
+  ]
+}

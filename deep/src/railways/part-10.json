@@ -1,0 +1,152 @@
+{
+  "n": 10,
+  "title": "Rails, Wheels, Bridges and Tunnels",
+  "when": "How it works",
+  "summary": "Train wheels are not flat like a toy car's. They are shaped like slightly sloping cones, and that clever shape keeps the train steering itself along the rails. Railway builders also dug giant tunnels and built amazing bridges so trains could travel on gentle, smooth paths.",
+  "sections": [
+    {
+      "heading": "Steel on Steel: The Secret of Easy Rolling",
+      "paragraphs": [
+        "Try this experiment in your head. Push a heavy shopping trolley across a thick carpet, then across a smooth shop floor. On the carpet it feels sluggish, as if something is holding it back. On the smooth floor it glides. The difference is called rolling resistance: the force that tries to slow down anything that rolls. Railways are, above all, a way of making rolling resistance as small as possible.",
+        "When a rubber car tyre rolls along a road, it squashes flat where it touches the ground and then springs back as it rolls on. Rubber is not a perfect spring. Each time it squashes and recovers, a little energy is lost as heat. That is one reason tyres get warm on a long drive. A steel wheel on a steel rail behaves very differently. Steel is extremely hard and stiff, so the wheel and rail squash only a tiny amount where they meet. The patch where a train wheel touches the rail is only about the size of a small coin, even though it may be carrying ten tonnes or more.",
+        "Engineers measure rolling resistance with a number called the coefficient of rolling resistance. For a car tyre on asphalt it is roughly 0.01, which means that for every 100 kilograms of weight, about 1 kilogram's worth of force is needed just to keep it rolling on the level. For a steel railway wheel on a steel rail it is commonly about 0.001 to 0.002, and in ideal conditions even lower. In other words, a train wheel rolls roughly five to ten times more easily than a car tyre. That is the same big idea from the very beginning of our story, when miners found that a horse could pull far more on a smooth wooden track than on a muddy road.",
+        "This is why a single locomotive can haul a freight train weighing several thousand tonnes, something no lorry could ever do. It is also why railways are so energy-efficient for moving heavy things a long way. But low friction has a downside too. The same smoothness that lets a train roll easily also means its wheels have less grip than tyres on a road. A train needs a long distance to stop, and it struggles to climb steep hills, because the driving wheels simply slip. Keep that in mind, because it shapes almost everything about how railways are built."
+      ]
+    },
+    {
+      "heading": "The Clever Cone: How Wheels Steer Themselves",
+      "paragraphs": [
+        "Most people think train wheels stay on the rails because of the flanges, the raised lips on the inside edge of each wheel. Flanges are important, but they are not the main thing doing the steering. The real secret is much more elegant, and you can see it if you look closely at a train wheel. The part that rests on the rail, called the tread, is not flat like a cylinder. It is very slightly sloped, like a slice from a cone, getting a little narrower toward the outside edge. A common slope is about 1 in 20. The rails themselves are usually tilted slightly inward to match.",
+        "The second part of the secret is that a pair of train wheels is fixed solidly to one axle. Together they make a single unit called a wheelset. The two wheels cannot turn at different speeds, the way the wheels of a car can. Whatever one wheel does, the other must do exactly the same.",
+        "Now imagine the wheelset drifts a little to the left. The left wheel now rests on its wider part, nearer the flange, so it has a bigger rolling circle. The right wheel rests on its narrower part, with a smaller rolling circle. Because both turn at the same rate, the bigger left wheel travels a bit further with each turn than the smaller right one. That makes the wheelset curve back toward the right, toward the middle of the track. If it drifts right, the same thing happens in reverse. The wheelset keeps gently steering itself back to the centre, without the flanges ever needing to touch the rail.",
+        "The cone shape works even better on curves. Going round a bend, the outer rail is longer than the inner rail, so the outer wheel has further to go. As the train enters the curve, the wheelset naturally slides a little toward the outside. The outer wheel then rolls on its larger diameter and the inner wheel on its smaller one, so the outer wheel covers more ground with each turn, exactly what is needed. On gentle curves, a well-shaped wheelset steers round almost entirely by itself.",
+        "So what are flanges for? They are the safety backup. On sharp curves, at points where trains change track, or if something knocks the train sideways, the flange presses against the side of the rail and stops the wheel from climbing off. When flanges do grind against the rail, you often hear it as a loud, high squeal on tight curves. The BART metro system around San Francisco was built with flat, cylinder-shaped wheel treads, and after years of passenger complaints about squealing it began reshaping its wheels into cones in 2016.",
+        "The self-steering cone has one quirk. Because the wheelset always overshoots the centre a little, it gently swings from side to side in a long, smooth wave as it travels. At normal speeds this is harmless. But above a certain speed, the swaying can grow instead of dying away, making the vehicle shake violently from side to side. Engineers call this hunting. It was first noticed in the late nineteenth century as trains got faster, and taming it with better suspension and carefully chosen wheel shapes was one of the keys to the high-speed trains you will meet in Part 18."
+      ]
+    },
+    {
+      "heading": "Building the Track: Gauge, Sleepers, Ballast and Points",
+      "paragraphs": [
+        "A railway track looks simple: two steel rails, a row of crossbeams and a bed of stones. But every piece has a job. The distance between the inner edges of the two rails is called the gauge. As you saw in Part 6, George Stephenson used 4 feet 8 and a half inches, or 1,435 millimetres, the width of the colliery wagonways he knew, and this standard gauge spread to much of the world. Other countries chose broader or narrower gauges, which is why some borders still have stations where passengers change trains or where special equipment changes the wheels.",
+        "The rails rest on crossbeams called sleepers in Britain and ties in North America. Sleepers hold the two rails exactly the right distance apart and spread the weight of passing trains over a wider area. The very first railways often used separate stone blocks under each rail, which left a clear path for horses to walk between them. But heavy locomotives pushed the blocks apart, so wooden sleepers took over. Wood, usually soaked in a tar-like preservative called creosote to stop it rotting, is still the most common material in North America. Many modern main lines, especially in Europe and Asia, use heavy sleepers of prestressed concrete, which hold the track very steady. On a North American main line there can be about 2,000 wooden ties in every kilometre.",
+        "Under and around the sleepers is the ballast: a deep bed of crushed stone with sharp, jagged edges. The edges lock together, holding the sleepers firmly so the track cannot shift sideways or lengthways. The gaps between the stones let rainwater drain away quickly, so the ground underneath does not turn to mud, and the stony bed makes it hard for plants to grow. Ballast is usually at least 15 centimetres deep, and on high-speed lines it can be up to about half a metre. The word comes from the stones once used in the bottom of ships to keep them steady.",
+        "To move a train from one track to another, railways use points, called switches in North America. A set of points has two movable, tapered rails called switch blades lying against the fixed outer rails. Move the blades one way and the wheel flanges are guided onto the straight track. Move them the other way and the wheels are steered onto the branching track. Further along, where one rail of the new route has to cross a rail of the old one, there is a V-shaped piece called the frog, with short guard rails beside it to keep the wheels on the right path through the gap.",
+        "Points have a long history. A mining engineer named John Curr described a simple single-blade design in 1797, and Charles Fox patented an improved sprung design in 1838. Early points were thrown by hand with a lever beside the track. Today most are moved by electric, air-powered or hydraulic motors controlled from a distant signalling centre. The motors have built-in electrical checks: if the blades are not fully moved and locked, the signal for that route stays at red. In snowy countries, points are fitted with gas or electric heaters so that ice cannot jam them."
+      ]
+    },
+    {
+      "heading": "Gentle Slopes, Wide Curves and Cog Wheels",
+      "paragraphs": [
+        "Remember that steel wheels on steel rails have little grip. On level track that does not matter much, but on a slope, a heavy train is constantly trying to roll backwards. Even a gentle hill makes a huge difference. At a slow speed, pulling a heavy train up a slope of just 1 percent, meaning 1 metre up for every 100 metres along, can take roughly five to ten times as much force as pulling it on the flat. Railway engineers often write slopes as ratios: 1 in 100 is the same as 1 percent.",
+        "So railway builders worked very hard to keep their lines nearly level. Most main lines keep their slopes below about 2 percent, and many are far gentler. Brunel laid much of the Great Western Railway's main line from London so flat that some stretches climbed only 1 in 1,320, which earned it the nickname Brunel's billiard table. The steepest slope on a line, which decides how heavy a train each engine can pull, is called the ruling gradient. Curves are a problem too. A sharp curve slows trains down and wears out wheels and rails, so main lines use wide, sweeping curves wherever they can.",
+        "To keep a railway level across hilly country, engineers moved mountains of earth and rock. Where the land rose, they dug cuttings, deep trenches with the track running along the bottom. Where it fell, they built embankments, long raised banks of earth, often using the very rock and soil dug out of the nearby cuttings. To cross deep valleys and rivers they built viaducts, long bridges on rows of arches, like the Sankey Viaduct with its nine arches that you met in Part 8. Where a hill was too high to cut through, they built tunnels. In high mountains, some lines even loop round in complete circles inside the mountainside, in spiral tunnels, climbing a little with every lap.",
+        "What about really steep mountains? A normal train held only by friction cannot climb much more than about 10 percent. A few city tramways do better, such as a famous tram line in Lisbon that climbs nearly 14 percent, but that is close to the limit. For steeper climbs, engineers went back to an idea from the very first commercial steam engine, Salamanca of 1812: the rack, or cog, railway. A toothed rail called a rack is laid between the running rails, and a cogwheel under the train meshes with it, so the train climbs like a gear climbing a ladder and cannot slip back.",
+        "The Mount Washington Cog Railway in New Hampshire, USA, built by Sylvester Marsh, opened to the public in 1868 and still climbs one of the highest peaks in the north-eastern United States. In Switzerland, Niklaus Riggenbach opened the Vitznau to Rigi railway in 1871, the first mountain rack railway in mainland Europe. Later inventors improved the rack. Carl Roman Abt designed a cheaper version in 1882, and Eduard Locher created a rack with teeth on its sides for the Pilatus Railway near Lucerne, opened in 1889. Pilatus is still the steepest rack railway in the world, climbing slopes of up to 48 percent. Rack trains are slow, usually 9 to 25 km/h, but they can reach places no ordinary train ever could."
+      ]
+    },
+    {
+      "heading": "Brunel's Box Tunnel: Digging by Candlelight",
+      "paragraphs": [
+        "One of the boldest tunnels of the early railway age lies between Bath and Chippenham in the west of England. Isambard Kingdom Brunel wanted his Great Western Railway from London to Bristol to be as straight and level as possible, and a large hill called Box Hill stood in the way. Instead of going round it, he decided to go straight through.",
+        "Work began in December 1838. Shafts were sunk down from the hilltop so that teams of workers could dig outward in several directions at once, as well as inward from both ends. The workers, called navvies, broke the rock with picks, shovels and gunpowder. The only light deep underground came from candles, and the job was said to burn through about a tonne of candles every week, and about the same weight of gunpowder. Water constantly poured in through cracks in the rock and had to be pumped out. Parts of the tunnel were lined with more than 30 million bricks, while some sections through solid stone were left as bare rock.",
+        "The work was dangerous. About 100 navvies are thought to have died building the tunnel, many in blasting accidents and floods. When the Box Tunnel opened on 30 June 1841, it was about 2.95 km long and was then the longest railway tunnel in the world. It is perfectly straight and slopes down at a steady 1 in 100. Some people at the time feared that passengers would be harmed by rushing through such a long, dark tunnel, but trains have used it safely ever since.",
+        "There is a famous story that Brunel lined the tunnel up so that the rising sun shines straight through it on his birthday, 9 April. It is a lovely legend, but it is probably not true. Calculations suggest the sun lines up best a few days earlier, around 6 or 7 April, and checks in recent years found that on 9 April it does not shine fully through."
+      ]
+    },
+    {
+      "heading": "The Forth Bridge: A Red Steel Giant",
+      "paragraphs": [
+        "In the east of Scotland, a wide sea inlet called the Firth of Forth cut off Edinburgh from the lands to the north. Trains had to stop and passengers crossed by ferry. A bridge was planned, but the plan was dropped after another Scottish railway bridge, over the River Tay, collapsed in a storm in 1879, a disaster you will read about in Part 14. Whatever was built across the Forth now had to be, and look, completely safe.",
+        "The engineers Sir John Fowler and Sir Benjamin Baker chose a design called a cantilever. Three huge diamond-shaped towers of steel tubes stand in the water, each with arms reaching out on both sides. Shorter girders hang between the tips of the arms, joining them together. To show the public how it worked, they staged a famous demonstration in 1887. Two men sat on chairs with their arms stretched out, gripping poles that pushed against their chairs, and a third man, the Japanese engineer Kaichi Watanabe, sat on a plank hanging between them. The two outer men were the towers, their arms were the cantilevers, and bricks piled behind them acted as anchors. When weight was put in the middle, everyone could see which parts were being pulled and which were being squashed.",
+        "The numbers are enormous. The bridge is about 2.5 km long, and each of its two main spans stretches about 520 metres, which made them the longest bridge spans in the world when it opened. It used around 55,000 tonnes of steel, one of the first great structures built mainly of steel instead of iron, and about 6.5 million rivets. Thousands of people worked on it, and many died in falls and accidents. Records are incomplete, but modern research has found that at least 78 workers lost their lives.",
+        "The bridge was opened on 4 March 1890 by the Prince of Wales, the future King Edward VII, who drove in the last rivet. Over 130 years later it still carries up to about 200 trains a day. Its red paint is so famous that painting the Forth Bridge became a British saying for a job that never ends. In 2015 it was named a UNESCO World Heritage Site."
+      ]
+    },
+    {
+      "heading": "Under the Alps: The Gotthard Tunnel",
+      "paragraphs": [
+        "The Alps, the great mountain wall of Switzerland, stood between northern Europe and Italy. In the 1870s, engineers set out to drive a railway tunnel right under the Gotthard Pass, from the village of Göschenen in the north to Airolo in the south, a distance of about 15 km. No railway tunnel anywhere was so long.",
+        "The project was led by the Swiss engineer Louis Favre. Two teams dug toward each other from opposite ends, guided by careful surveying over the mountains. It was one of the first projects to use dynamite on a huge scale, invented by Alfred Nobel only a few years earlier. Drills driven by compressed air bored holes in the rock face, the holes were packed with dynamite, and after each blast the broken rock was carted away. The compressed air also helped to ventilate the tunnel, but conditions deep inside were terrible: hot, wet, dusty and full of fumes.",
+        "The human cost was very high. Around 200 workers, most of them from Italy, are thought to have been killed, mostly in accidents, and many more fell ill, including from a hookworm infection that spread in the filthy tunnel. In 1875 workers went on strike over their conditions, and the strike was put down by force, leaving four of them dead. Favre himself died of a heart attack inside the tunnel in July 1879, months before his teams met. On 29 February 1880 the two bores broke through to each other, lined up with great accuracy.",
+        "The tunnel opened to trains in 1882. To reach its entrances, the line climbs the steep valleys on both sides using looping spiral tunnels, so that passengers see the same church on the hillside from three different heights as the train climbs. The Gotthard became one of the most important railway links in Europe, and the even longer Gotthard Base Tunnel you will meet in Part 18 now runs far below it."
+      ]
+    },
+    {
+      "heading": "Signals and the Block: One Train at a Time",
+      "paragraphs": [
+        "A train is very heavy and has little grip, so it cannot stop quickly. A driver who sees another train ahead may not be able to stop in time. Keeping trains apart is therefore the most important safety job on any railway. On the earliest lines, men called railway policemen stood beside the track and used hand signals and flags. They used a method called time-interval working: once a train passed, they waited a set number of minutes before letting the next one go. But if the first train broke down or slowed, the second could run straight into it.",
+        "The answer came with the electric telegraph. In 1842, William Fothergill Cooke described a better way in his book Telegraphic Railways: divide the line into sections, called blocks, and allow only one train in each block at a time. Each block has a signal box at its entrance, linked to the next box by telegraph wire. Before a train can enter, the signalman must ask the box ahead whether the line is clear, using a code of rings on a bell. Only when the box ahead replies that the line is clear can the signal be cleared, and only when the train has passed out of the section can the next one be sent. This is called the absolute block system.",
+        "Railways adopted the block system gradually through the 1850s and 1860s. By 1872 it covered almost half of Britain's lines, and in 1889, after a terrible accident at Armagh in Ireland, a new law made it compulsory on passenger lines. Signal boxes were also fitted with interlocking, a frame of levers mechanically linked so that a signalman could not clear a signal unless the points were set correctly for that route, an idea you will learn more about in Part 14.",
+        "The signals themselves changed over time too. Early signals were boards, discs or flags. The most common type became the semaphore, a pivoting arm on a tall post: arm straight out meant stop, arm angled meant go. At night, lamps behind coloured glass showed the same message. At first white light meant clear and red meant danger, but a white light could be confused with an ordinary lamp, so green took over for clear. Today, most main lines use coloured light signals and electrical track circuits that detect where every train is automatically, but the basic rule is the same as in 1842: one train, one block.",
+        "So now you know the secret of the railway. Smooth steel, cone-shaped wheels, gentle slopes and clever signals let one engine pull an enormous load safely over long distances. In crowded Britain, these ideas were squeezed into a small island. But across the Atlantic was a young country with vast open spaces, huge distances and almost no good roads, and it was hungry for railways."
+      ]
+    }
+  ],
+  "deepDive": "Why does a coned wheelset steer itself, and why can it go wrong? Suppose the tread slopes with a conicity k, the wheel radius is r and the distance between the two rolling contact points is d. If the wheelset shifts sideways by a distance y, one wheel's rolling radius grows by about ky and the other's shrinks by the same amount. Because both wheels are locked to one axle, the wheelset must yaw toward the centre, and the geometry gives a curving path whose wavelength, worked out by the German engineer Klingel in 1883, is about 2 pi times the square root of rd divided by 2k. For a standard-gauge wheelset with a 1-in-20 cone, that wavelength is around 15 to 20 metres: the axle wanders gently from side to side every few lengths of a carriage. Klingel's simple model ignores forces. In reality, the wheel and rail meet at a tiny elastic contact patch where they slightly creep against each other, and the wheelset has mass and inertia. Below a critical speed the side-to-side wandering dies away; above it, inertia makes the motion overshoot more each time and it grows into hunting, which can hammer the flanges into the rails and even cause derailment. Engineers raise the critical speed with stiffer yaw restraint, yaw dampers, longer wheelbases and gentler cones; Japanese Shinkansen engineers chose less conical wheels to run above 200 km/h. There is a trade-off: a gentle cone is stable at speed but steers less well round tight curves, which is why metro trains and high-speed trains use different wheel profiles, and why worn wheels are regularly re-turned on lathes to restore their shape. Rolling resistance is another field with careful numbers. Commonly quoted coefficients are about 0.001 to 0.002 for a loaded rail wagon, versus roughly 0.006 to 0.015 for car tyres on asphalt. Yet trains do not win on every measure: an old, heavy passenger train with few riders can use more energy per passenger than a full car, while a modern lightweight high-speed train carrying hundreds of people is far more efficient. Historians also debate engineering safety culture. The Box Tunnel, the Forth Bridge and the Gotthard all show that nineteenth-century construction deaths were treated as a normal cost of progress, and death tolls were poorly recorded. Recent research on the Forth Bridge has raised its known toll from 57 in early accounts to at least 78, a reminder that the heroic engineering stories leave out many of the people who did the work.",
+  "funFact": "In 1887, to explain how the Forth Bridge would work, its engineers sat a Japanese engineer, Kaichi Watanabe, on a plank hung between two men who acted as human cantilevers.",
+  "check": {
+    "q": "What mainly keeps a train's wheelset centred on the rails on straight track?",
+    "a": "The cone-shaped (sloped) wheel treads on a solid axle",
+    "wrong": [
+      "The flanges rubbing against the rails all the time",
+      "Magnets in the rails",
+      "The driver steering with a wheel in the cab"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Wheelset (rail transport)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wheelset_(rail_transport)"
+    },
+    {
+      "title": "Hunting oscillation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hunting_oscillation"
+    },
+    {
+      "title": "Rolling resistance",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rolling_resistance"
+    },
+    {
+      "title": "Rack railway",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rack_railway"
+    },
+    {
+      "title": "Box Tunnel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Box_Tunnel"
+    },
+    {
+      "title": "Forth Bridge",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Forth_Bridge"
+    },
+    {
+      "title": "Gotthard Rail Tunnel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gotthard_Rail_Tunnel"
+    },
+    {
+      "title": "Absolute block signalling",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Absolute_block_signalling"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The red cantilever Forth Bridge in Scotland spanning the Firth of Forth",
+      "search": "Forth Bridge cantilever Firth of Forth"
+    },
+    {
+      "want": "Historic 1887 photograph of the human cantilever demonstration, with engineer Kaichi Watanabe seated on a plank between two men acting as cantilevers",
+      "search": "Forth Bridge human cantilever Watanabe"
+    },
+    {
+      "want": "A railway wheelset showing the flanges and sloped wheel treads on a solid axle",
+      "search": "railway wheelset axle flange"
+    }
+  ]
+}

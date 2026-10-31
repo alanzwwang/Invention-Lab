@@ -1,0 +1,158 @@
+{
+  "n": 2,
+  "title": "Gears That Do Sums",
+  "when": "1614 – 1820s",
+  "summary": "In the 1600s, clever inventors found ways to make hard sums easy: magic number tables, sliding rulers and boxes full of gears. A teenager named Blaise Pascal built a machine that could add for his tired dad. Later, Leibniz showed that you can write every number using only 0 and 1!",
+  "sections": [
+    {
+      "heading": "A Scottish Laird and His Magic Numbers",
+      "paragraphs": [
+        "Picture a stone tower house on the edge of Edinburgh, Scotland, around the year 1600. This is Merchiston Castle, home of John Napier, a wealthy landowner, or laird. His neighbours whispered that he was a wizard. One famous story, which is a legend rather than proven history, says he caught a thieving servant by making all his servants stroke a black rooster in a dark room, telling them the bird would crow when the guilty person touched it. In fact he had dusted the bird with soot, and the one servant with clean hands was the thief, because he had been too frightened to touch it.",
+        "Napier was no wizard, but he was a brilliant mathematician, and he was bothered by a real problem. In his time astronomers, navigators and surveyors had to multiply and divide huge numbers, often with many digits, over and over again. A single astronomical calculation might take days, and one slip could ruin all the work. Napier spent many years looking for a shortcut.",
+        "His answer, published in 1614 in a Latin book with the grand title Mirifici Logarithmorum Canonis Descriptio, meaning 'A Description of the Wonderful Table of Logarithms', was the logarithm. The idea behind it is beautiful. Think about the numbers 10, 100, 1,000 and 10,000. Each one is 10 multiplied by itself a certain number of times: 1, 2, 3 and 4 times. Call those counts the logarithms. Now notice that 100 times 1,000 is 100,000, and the logarithms 2 plus 3 make 5, which is the logarithm of 100,000. Multiplying the numbers is the same as adding their logarithms.",
+        "That is the magic trick. Adding is much easier and safer than multiplying. With a book of logarithm tables, you look up the logarithms of your two numbers, add them together, and then look up which number has that sum as its logarithm. A nasty multiplication becomes two look-ups and an addition. Division becomes subtraction. Roots become simple division.",
+        "Napier's original tables were built a little differently from the ones used later. In 1615 the English mathematician Henry Briggs travelled all the way to Edinburgh to meet him, and the two discussed rescaling the tables so that they were based on 10, which would be more convenient. Napier died in 1617, and Briggs went on to calculate base-10 logarithms by hand to 14 decimal places, a gigantic labour. The astronomer Johannes Kepler soon used logarithms in his work on the orbits of the planets. A later writer is said to have remarked that logarithms, by shortening the work, doubled the life of the astronomer. Napier also helped make the decimal point popular, so that we write 3.25 rather than some more awkward form."
+      ]
+    },
+    {
+      "heading": "Napier's Bones",
+      "paragraphs": [
+        "Logarithms were for experts, but Napier also invented a calculating tool that almost anyone could use. In 1617, the year he died, he published a little book called Rabdologia, describing a set of rods for multiplication. Because the best sets were carved from ivory or bone, they became known as Napier's bones. Cheaper sets were made of wood, and later of cardboard.",
+        "Each rod is a long strip divided into nine squares. At the top is a digit, from 0 to 9. The squares below show that digit multiplied by 1, 2, 3 and so on up to 9. Each square is split by a diagonal line, with the tens digit above the line and the ones digit below. For example, the rod for 7 shows 07, 14, 21, 28, 35, 42, 49, 56 and 63.",
+        "Suppose you want to multiply 425 by 6. You lay the rods for 4, 2 and 5 side by side, and look along the sixth row. You will see three squares: 2/4 (from 4 times 6 equals 24), 1/2 (from 2 times 6 equals 12) and 3/0 (from 5 times 6 equals 30). Now add the numbers in each diagonal strip, working from the right. The rightmost digit is 0. Next comes 3 plus 2, which is 5. Next comes 1 plus 4, which is 5. Finally there is 2. Reading from left to right, the answer is 2,550.",
+        "Napier's bones turned multiplication into reading and adding, so you did not need to know your times tables by heart. To multiply by a bigger number, you did each row separately and added the results, just like long multiplication. The rods were popular across Europe for more than a century, and as you will see, they found their way inside one of the first calculating machines ever designed."
+      ]
+    },
+    {
+      "heading": "The Slide Rule: Logarithms You Can Hold",
+      "paragraphs": [
+        "Looking things up in tables is slow. Very quickly, people realised that logarithms could be turned into lengths on a ruler. In 1620 the English mathematician Edmund Gunter of Oxford made a ruler with a logarithmic scale on it, called Gunter's rule. Users measured off lengths with a pair of dividers and added them, which was the same as multiplying.",
+        "Around 1622, the English clergyman and mathematician William Oughtred had a simpler idea: put two of these logarithmic scales side by side and slide one along the other. Sliding one scale adds a length to the other, and because the lengths are logarithms, the result is multiplication. Oughtred also designed a circular version with scales arranged around a disc. His inventions became widely known through books published in 1632 by his student William Forster. There was a bitter quarrel when another former student, Richard Delamain, published a circular slide rule of his own and claimed it as his invention. Today Oughtred is generally credited as the inventor of the slide rule.",
+        "Here is how you multiply 2 by 3 on a slide rule. Slide the 1 on the moving scale until it lines up with 2 on the fixed scale. Then find 3 on the moving scale. Directly opposite it, on the fixed scale, you read 6. The rule has added the length for 2 to the length for 3, and the result is the length for 6.",
+        "A slide rule usually gives answers to about three significant figures, for example 6.28 rather than 6.2831853. You also have to keep track of where the decimal point goes yourself. But for engineers, that was usually accurate enough, and the slide rule was quick, cheap and needed no batteries. For about 350 years it was the engineer's constant companion. Bridges, aeroplanes, power stations and skyscrapers were designed with slide rules. Astronauts on the Apollo missions to the Moon carried small aluminium slide rules as a backup.",
+        "Then, in 1972, the company Hewlett-Packard released the HP-35, an electronic pocket calculator that could do scientific calculations. It cost 395 US dollars, a lot of money at the time, but within a few years cheap calculators were everywhere. By the late 1970s, slide rules had almost vanished from desks and schoolbags. A tool from the 1620s had lasted until the age of the microchip."
+      ]
+    },
+    {
+      "heading": "Schickard's Calculating Clock",
+      "paragraphs": [
+        "In the German university town of Tübingen lived a man who seemed able to do everything. Wilhelm Schickard, born in 1592, was a Lutheran minister, a professor of Hebrew and later of astronomy, a mapmaker, an engraver and a gifted mechanic. He was also a friend of Johannes Kepler, the great astronomer who worked out the laws of how planets move around the Sun. Kepler did mountains of calculations, and Schickard wanted to help.",
+        "In 1623, Schickard wrote to Kepler to say that he had built a machine that could calculate automatically. In a second letter, in 1624, he included sketches. He called it a calculating clock, because it was built with gear wheels like a clock. It had two main parts. In the upper part, six of Napier's rods were turned into cylinders that could be rotated to show any digit, helping with multiplication. In the lower part was an adding mechanism with six toothed wheels, one for each digit. When a wheel turned past 9 to 0, a single tooth nudged the next wheel along by one, carrying the one automatically. If a result grew too large for six digits, a little bell rang to warn the user.",
+        "This was the earliest known design for a mechanical calculator that could help with all four kinds of arithmetic: adding, subtracting, multiplying and dividing. Schickard had a craftsman named Johann Pfister build a copy for Kepler, but before it could be delivered it was destroyed in a fire. Then came disaster on a much larger scale. Germany was being torn apart by the Thirty Years' War, and in 1635 Schickard died of plague in Tübingen, along with members of his family. No machine of his survives.",
+        "For a long time, Schickard's machine was almost forgotten. His sketches survived among Kepler's papers, and in the 20th century historians drew attention to them again, showing that his design came about twenty years before the more famous calculator of Blaise Pascal. In 1960 a German professor, Bruno von Freytag-Löringhoff, built a working replica from the drawings. He found that the carry mechanism needed improvement: carrying a one through several wheels at once, as in 999 plus 1, needs a lot of force, and the single-tooth design struggles with it. Still, Schickard deserves to be remembered as the first known designer of a calculating machine."
+      ]
+    },
+    {
+      "heading": "A Teenager, a Tired Father and the Pascaline",
+      "paragraphs": [
+        "Blaise Pascal was born in 1623 in Clermont, in central France. His mother died when he was young, and his father, Étienne Pascal, a lawyer and keen mathematician, taught him at home. Blaise was astonishingly gifted. By his teens he was writing mathematics that impressed the leading scholars of Paris.",
+        "In 1639, Étienne was sent to the city of Rouen in Normandy as a royal tax official. His job involved endless sums: adding up taxes owed and paid, in a currency that was itself complicated. Night after night he sat working through columns of figures. In 1642, when Blaise was 18 or 19, he began designing a machine to take over some of this drudgery.",
+        "Pascal's calculator, which came to be called the Pascaline, was a brass box about the length of a shoebox. Along the top was a row of toothed dials, a little like an old telephone dial. To enter a number, you placed a metal stylus between the spokes of a wheel and turned it clockwise until the stylus hit a stop. Behind small windows, numbers on drums showed the running total.",
+        "The hard part was carrying. When the ones wheel goes from 9 to 0, the tens wheel must move forward by one. When you add 1 to 99,999, five carries must happen one after another, very quickly. If each wheel pushes the next directly, the effort adds up and the gears can jam. Pascal's clever solution was a part called the sautoir, a small weighted lever. As a wheel turned towards 9, it slowly lifted its sautoir. When the wheel passed from 9 to 0, the sautoir dropped under gravity and kicked the next wheel forward by one step. Because each sautoir was lifted gradually and then fell on its own, a long chain of carries could ripple along the machine without needing great force.",
+        "There was a catch: the wheels could only turn one way. So how do you subtract? Pascal used a trick called the nines' complement. For every digit d, its nines' complement is 9 minus d, so the complement of 3 is 6 and the complement of 0 is 9. By showing complements in a second row of windows, and adding, the machine could produce subtraction results. Users had to learn the trick, but it worked.",
+        "Pascal made versions for different jobs. For accounting, the wheels followed the French money of the time: 12 deniers made a sol, and 20 sols made a livre, so some wheels carried at 12 and others at 20 instead of 10. Other versions were made for surveying and science. He went through about 50 prototypes, struggling with craftsmen who could not easily make such precise parts. In 1649 King Louis XIV granted Pascal a royal privilege, an early kind of patent, giving him the sole right to make calculating machines in France.",
+        "The Pascaline was admired, but it was not a business success. It was expensive, delicate and hard to repair, and most people who needed to calculate could not afford one. Only about 20 were ever made, and about 9 survive today, most of them in museums in France. Pascal turned to other things: he did famous experiments on air pressure and the vacuum, helped found the mathematics of probability, and wrote deep works on philosophy and religion. He died in 1662, aged just 39. Today the unit of pressure, the pascal, is named after him, and in 1970 a computer programming language was named Pascal in his honour.",
+        "It is important to give fair credit. Pascal did not build the very first mechanical calculator, because Schickard had designed one earlier. But the Pascaline was the first calculator to be made in more than a single copy and offered for sale, and its carry mechanism was a real step forward. Its surviving machines let us see, and even touch, the beginning of mechanical calculation."
+      ]
+    },
+    {
+      "heading": "Leibniz and His Stepped Drum",
+      "paragraphs": [
+        "Gottfried Wilhelm Leibniz, born in Leipzig in 1646, was one of the great thinkers of all time. He was a philosopher, lawyer, diplomat, historian and mathematician. He invented calculus, the mathematics of change, at around the same time as Isaac Newton in England, working independently, and much of the notation used in calculus today is his. Leibniz also had firm views about doing sums by hand. He wrote, in effect, that it was unworthy of excellent people to waste hours like slaves on calculations that could safely be left to anyone, if a machine were used.",
+        "The Pascaline could add, but multiplying with it meant adding the same number again and again by hand. In 1672, while living in Paris, Leibniz began designing a machine that could multiply and divide properly. In 1673 he showed a wooden model to the Royal Society in London, the famous scientific club, and he was soon elected a member. He kept improving the design for decades, with the help of skilled mechanics. The surviving machine was finished in 1694.",
+        "The heart of the machine was a clever part now called the Leibniz wheel, or stepped drum. Picture a metal cylinder with nine ridges, or teeth, running along its length, each a different length. The first tooth runs along only a short part of the drum, the next a bit further, and so on, like a staircase. A small gear sits beside the drum and can slide along it. If you slide the small gear to the place where only 3 teeth reach it, then one full turn of the drum moves the small gear on by exactly 3 steps. Slide it to where 7 teeth reach, and one turn moves it 7 steps. In this way a single turn of a crank could add any digit from 0 to 9.",
+        "To multiply, the stepped reckoner used repeated addition, but much faster than doing it by hand. To multiply 365 by 24, you set 365 on the input, turned the crank 4 times to add 365 four times, then shifted the moving carriage one place to the left, so the input lined up with the tens, and turned the crank 2 more times. Six turns of a crank instead of a long multiplication. This is exactly how long multiplication works on paper, done by gears. Division worked in the same way, by repeated subtraction. The surviving machine could multiply two 8-digit numbers to get a result of up to 16 digits.",
+        "Sadly, the stepped reckoner never worked perfectly. The gearwork needed more precision than craftsmen of the time could achieve, and there was a flaw in the way it carried across many digits at once. The surviving machine was sent to the University of Göttingen for repair in 1775, forgotten, and found again by workmen in an attic in 1876. It is now kept in a library in Hanover, Germany.",
+        "Yet the Leibniz wheel was a triumph of ideas. Inventors copied the stepped drum for about two centuries. It was used in mechanical calculators right up to the 1970s, including the tiny hand-cranked Curta calculator, which looked like a pepper mill and fitted in a pocket."
+      ]
+    },
+    {
+      "heading": "Only Two Digits: Leibniz and Binary",
+      "paragraphs": [
+        "Leibniz had another idea that would turn out to be even more important for the future of computers, though nobody in his time could have guessed it. He studied how to write all numbers using only two digits, 0 and 1. This is called binary, or base 2.",
+        "In base 10, each column is worth ten times the one to its right: ones, tens, hundreds. In base 2, each column is worth twice the one to its right: ones, twos, fours, eights, sixteens and so on. So in binary, 1 is 1, 10 means one two and no ones, which is 2, 11 means 3, 100 means 4, and 101 means 4 plus 1, which is 5. Every number can be written with just 0s and 1s. Binary numbers get long (the number 100 is 1100100 in binary), but the rules for adding and multiplying become wonderfully simple. In binary, 1 plus 1 makes 10, and that is almost the whole addition table.",
+        "Leibniz was not the first person to think about two-valued systems. The ancient Indian scholar Pingala used patterns of short and long syllables in poetry that work like binary, and the English mathematician Thomas Harriot experimented with binary numbers in unpublished notes around 1600. What Leibniz did was work out binary arithmetic carefully and publish it. He wrote a manuscript on it in 1679, and in 1703 he published a paper in French called Explication de l'Arithmétique Binaire, an explanation of binary arithmetic using only the characters 1 and 0.",
+        "Leibniz had been writing to Joachim Bouvet, a French Jesuit missionary living in China. Bouvet sent him a diagram of the 64 hexagrams of the I Ching, an ancient Chinese book of divination. Each hexagram is a stack of six lines, each line either solid or broken. Leibniz was delighted to see that if you read a solid line as 1 and a broken line as 0, the hexagrams in one traditional arrangement count upwards in binary from 0 to 63. He mentioned this similarity in his 1703 paper.",
+        "Leibniz also saw a religious meaning in binary: creating every number out of only 1 and nothing seemed to him like a picture of creation itself. He even imagined, in a manuscript, a calculating machine in which marbles would fall through holes, open for 1 and closed for 0. He never built it. More than two hundred years later, engineers would discover that binary was perfect for machines made of switches that can only be on or off. Every computer, phone and game console today works in binary."
+      ]
+    },
+    {
+      "heading": "The Arithmometer: A Calculator for the Office",
+      "paragraphs": [
+        "For more than a century after Leibniz, calculating machines remained rare, fragile curiosities for wealthy collectors and scholars. Several inventors in Germany and elsewhere built improved versions, but none was made in large numbers. The breakthrough came from a Frenchman, Charles Xavier Thomas de Colmar, born in 1785 in Colmar, in Alsace.",
+        "Thomas had served as a supply officer in Napoleon's armies, where he saw how much calculating was needed to feed and pay huge forces. Later he became a businessman in the insurance industry, where calculations of premiums, interest and payments filled whole offices. He began working on a calculating machine in 1818, and in 1820 he received a French patent for what he called the arithmometer.",
+        "The arithmometer used Leibniz's stepped drum, but it was designed to be sturdy and reliable. It was a long wooden box with a brass top. You set a number with sliders, turned a crank to add it into the result register, and could shift a carriage for multiplication, just like the stepped reckoner. A reset mechanism cleared the dials, and a lever switched between adding and subtracting. Crucially, its carry mechanism worked reliably, so people could trust its answers.",
+        "Thomas spent years improving the design, and from 1851, when he showed it at the Great Exhibition in London, the arithmometer was manufactured in steady numbers. Models handled 10, 12, 16 or even 20 digits. In 1853 a 12-digit model cost 300 francs, a significant sum but affordable for a business. Banks, insurance companies, government offices, railways and observatories bought them. By the time production ended around 1915, about 5,500 had been built, and for decades it was the only mechanical calculator in commercial production anywhere. It is often described as the first calculator made and sold in large numbers, and the first strong and reliable enough for daily use in an office.",
+        "Its success inspired copies. In Germany, Arthur Burkhardt began building arithmometers in 1878, and in Britain a firm run by Charles Layton made them from 1883. Around twenty companies eventually made similar machines. Office calculation had begun to change.",
+        "And yet, the great calculating needs of the age were far bigger than any one machine. Navigators needed tables of the Moon's position for every few hours of every day. Engineers needed tables of logarithms and trigonometry. Banks and insurers needed tables of interest. These tables filled thick books, and each of their millions of numbers still had to be worked out by hand, line by line, by teams of tired clerks with pens and paper. Machines could now add. But the people who made the great number tables were still called by a job title you might not expect. They were called computers."
+      ]
+    }
+  ],
+  "deepDive": "Why was carrying such a headache for early calculator builders? Consider adding 1 to 999,999 on a six-wheel machine. Every wheel must roll over from 9 to 0 and push its neighbour, so the force needed to turn the first wheel must ultimately move every wheel in the chain. In Schickard's design each wheel had a single extra tooth that engaged the next wheel directly, so a long chain of carries could require too much force and jam; the 1960 replica builder had to improve it. Pascal's sautoir avoided this by storing energy: each wheel slowly lifted a weighted arm as it approached 9, and the arm fell when the carry was needed, so each carry was driven by gravity rather than by the user's push. The cost was that the wheels could turn only forward, forcing Pascal to use nines' complements for subtraction. For example, to work out 52 minus 17, you could add 52 to 82 (the nines' complement of 17, since 99 minus 17 is 82), giving 134; dropping the leading 1 and adding it back to the end gives 34 plus 1, which is 35, the right answer. Leibniz's stepped drum solved a different problem: entering any digit with a single turn. Its staggered teeth act like a mechanical lookup of the digit, and the shifting carriage maps neatly onto place value, which is why the design survived into the 1970s. Logarithms and slide rules work on another principle entirely, the rule that the logarithm of a times b equals the logarithm of a plus the logarithm of b. A slide rule is an analog device: it represents numbers as continuous lengths, so its accuracy is limited by how finely you can read the scale, usually three significant figures. The calculators of Schickard, Pascal, Leibniz and Thomas are digital: each wheel rests at one of ten exact positions, so, if built well, they give exact answers to as many digits as they have wheels. Historians still debate how to rank these pioneers. Schickard's design is earliest, but no original machine survives and his sketches had little influence; Pascal's machines survive and were sold, though in tiny numbers; Leibniz's ideas shaped calculator design for two centuries; and Thomas de Colmar turned the calculator into a dependable product.",
+  "funFact": "Leibniz's stepped reckoner was forgotten in an attic at the University of Göttingen for about a century until workmen came across it in 1876.",
+  "check": {
+    "q": "Why did Blaise Pascal begin building his calculating machine in 1642?",
+    "a": "To help his father, a tax official in Rouen, with his calculations",
+    "wrong": [
+      "To win a prize from the king of England",
+      "To calculate the orbits of the planets for Kepler",
+      "To break secret codes in a war"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pascal's calculator",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pascal%27s_calculator"
+    },
+    {
+      "title": "Wilhelm Schickard",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wilhelm_Schickard"
+    },
+    {
+      "title": "Stepped reckoner",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stepped_reckoner"
+    },
+    {
+      "title": "Arithmometer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Arithmometer"
+    },
+    {
+      "title": "John Napier",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Napier"
+    },
+    {
+      "title": "Slide rule",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Slide_rule"
+    },
+    {
+      "title": "Binary number",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Binary_number"
+    },
+    {
+      "title": "Revolution: Calculators – Schickard's Calculator and the Pascaline",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/revolution/calculators/1/47"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A surviving brass Pascaline calculating machine by Blaise Pascal, with its row of toothed dials",
+      "search": "Pascaline Pascal calculator museum"
+    },
+    {
+      "want": "A set of Napier's bones multiplication rods in a wooden box",
+      "search": "Napier's bones rods set"
+    },
+    {
+      "want": "A Thomas de Colmar arithmometer, a wooden box with brass top, sliders and a crank",
+      "search": "Thomas arithmometer calculator"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "n": 18,
+  "title": "Steam in Power Stations Today",
+  "when": "1950s – today",
+  "summary": "Steam engines did not disappear. Inside most big power stations, a fire, a nuclear reactor or even the hot rocks of the Earth boil water into steam, and that steam spins giant turbines to make electricity. When you switch on a light, there is a good chance a steam turbine somewhere is helping.",
+  "sections": [
+    {
+      "heading": "Follow the Steam: A Tour of a Power Station",
+      "paragraphs": [
+        "Imagine putting on a hard hat, ear defenders and safety boots and walking into a large thermal power station. A thermal power station is any power plant that makes electricity from heat. From the outside you might see a tall chimney, huge grey cooling towers and a tangle of pipes. Inside, it is like a giant version of the machines you have met in this story, all connected in one big loop of water and steam. Let's follow a single drop of water around that loop.",
+        "Our drop starts as very pure water. Power stations clean their water carefully, because even tiny amounts of minerals could leave crusty deposits inside the pipes, just like the scale that forms inside a kettle in a hard-water area. Powerful feed pumps push the water into the boiler at enormous pressure, often more than a hundred times the pressure of the air around us.",
+        "In the boiler, the water flows through thousands of metres of steel tubes lining the walls of a tall furnace. In a coal or gas plant, fuel burns in the middle of that furnace. In a big coal plant the boiler can be as tall as a large office building. Our drop heats up, turns into steam, and then passes through more tubes called the superheater, which heat the steam far beyond its boiling point, often to well over 500 °C. Superheated steam is completely dry and invisible, carrying a huge amount of energy.",
+        "Now the steam rushes along thick pipes to the turbine. It first enters the high-pressure turbine, where it pushes through rows of small blades and loses some of its pressure and temperature. In many plants it is then sent back to the boiler to be reheated before entering the intermediate-pressure turbine, and finally it flows into one or more low-pressure turbines with much bigger blades. All of these sit on one long shaft, which can be tens of metres long. As the steam pushes the blades, the whole shaft spins, exactly as in Parsons's design from Part 17, only far bigger.",
+        "At the end of the shaft is the generator. Inside it, a rotating electromagnet called the rotor spins inside fixed coils of copper wire called the stator. As the magnet's field sweeps past the wires, it pushes electric current through them, which is the principle Michael Faraday discovered in 1831. The electricity goes to a transformer, which raises its voltage so it can travel long distances along power lines with less waste, and then out into the electricity grid.",
+        "Meanwhile our drop, now as low-pressure steam that has given up most of its energy, leaves the last turbine and enters the condenser. This is a big chamber filled with thousands of tubes carrying cold water from a river, the sea or a cooling tower. The steam touches the cold tubes, condenses back into liquid water, and shrinks enormously, which creates a partial vacuum that helps pull steam through the turbine. That is James Watt's separate condenser idea, still at work. The drop is now water again, and the feed pumps send it back to the boiler to begin the loop once more. The same water goes round and round, again and again."
+      ]
+    },
+    {
+      "heading": "Giants That Spin in Step",
+      "paragraphs": [
+        "Modern turbines are enormous. Parsons's first turbine in 1884 produced about 7.5 kilowatts. A single large modern turbine-generator can produce more than 1,000 megawatts, which is over a hundred thousand times as much. Among the biggest are the two turbine-generators planned for the Hinkley Point C nuclear station being built in England, each rated at about 1,600 megawatts. A single machine like that can supply as much electricity as a few million homes use on average.",
+        "The blades change size along the shaft. At the high-pressure end, where the steam is dense and squeezed, the blades are short, only a few centimetres long. By the low-pressure end, the steam has spread out hugely, so it needs much more room. The last row of blades in the biggest turbines can be well over a metre long, and in some machines about as long as a tall adult. Imagine a ring of steel blades as long as your teacher is tall, whirling around many times a second. The tips of these blades can move faster than the speed of sound, so they have to be made from very strong steel or titanium alloys.",
+        "Why do these machines spin at such exact speeds? Electricity from the grid is alternating current (AC), which means it rapidly changes direction back and forth. In Britain, Europe, most of Asia and Africa and Australia, it does this 50 times a second, called 50 hertz. In North America and some other places, it is 60 hertz. A typical large generator makes one complete AC cycle for each turn of its two-pole magnet. So in a 50-hertz country, the turbine shaft spins at exactly 3,000 revolutions per minute (50 turns per second), and in a 60-hertz country it spins at 3,600 rpm. Some nuclear plants use generators with four magnetic poles, so their turbines spin at half those speeds, 1,500 or 1,800 rpm, which lets the huge low-pressure blades be even longer.",
+        "Every generator connected to a grid spins in step with all the others, like a giant team of rowers keeping the same beat. If lots of people suddenly switch on kettles, for example during the break in a big televised football match, the extra demand tries to slow all the generators down a tiny bit. Control systems open the steam valves a little wider to keep the speed steady. This is a modern great-grandchild of Watt's flyball governor from Part 9, now run by computers and sensors.",
+        "These machines are built to run for decades. A large turbine-generator might be overhauled every few years, when engineers open the casing, inspect every blade for cracks or erosion, and rebalance the rotor. A steel rotor weighing many tonnes must be balanced so precisely that it spins smoothly at thousands of rpm, just as Parsons had to balance his small rotor at 18,000 rpm."
+      ]
+    },
+    {
+      "heading": "Many Fires, One Big Kettle",
+      "paragraphs": [
+        "Here is a surprising idea: a power station is, in a way, a gigantic kettle. What changes from one type of plant to another is mostly the heat source, the thing that boils the water. After that, the steam, turbine, generator and condenser work in much the same way. Engineers call this a steam cycle, or the Rankine cycle, after the Scottish engineer William Rankine who described it in the 1850s.",
+        "Coal was for a long time the biggest heat source. Coal is ground into a fine powder, almost like flour, and blown into the furnace with air, where it burns in a huge fireball. Coal still made about a third of the world's electricity in 2024, more than any other single source. Oil-fired steam plants work in a similar way, though they are less common today.",
+        "Natural gas is used in a clever way. The most efficient gas power plants are called combined-cycle plants. First, the gas is burned in a gas turbine, a machine much like a jet engine bolted to the ground, which spins its own generator. But the hot exhaust coming out of the gas turbine is still very hot, roughly 450 to 650 °C. Instead of wasting it up a chimney, it passes through a heat recovery steam generator, a boiler that uses that leftover heat to make steam. The steam then spins a steam turbine and a second generator. Typically about one third of the plant's electricity comes from the steam part. By using the same fuel twice, the best combined-cycle plants turn more than 60 percent of the fuel's energy into electricity, and one has been officially certified at just over 62 percent, while makers claim up to about 64 percent for their newest designs.",
+        "Biomass power stations burn wood pellets, crop waste or other plant material instead of coal, and some old coal plants have been converted to do this. Waste-to-energy plants burn rubbish that cannot be recycled and use the heat to make steam. Concentrated solar power plants use huge fields of mirrors to focus sunlight and heat a fluid, which then makes steam for a turbine; you will hear more about them in Part 19. And some industrial factories, like paper mills and sugar refineries, burn their own leftovers to make steam both for electricity and for their manufacturing processes.",
+        "Because so many kinds of power plant rely on steam turbines in the end, steam still plays a starring role in the world's electricity. In 2024, coal and gas together made over half of the world's electricity, and most of that, plus nearly all nuclear power, came from generators turned by steam turbines. So roughly half or more of all the world's electricity still comes from steam. In the United States alone, power-plant steam turbines made about 42 percent of the country's electricity in 2022, not counting the steam part of combined-cycle plants. Hero's spinning ball, Newcomen's pump and Watt's condenser all have descendants in this story."
+      ]
+    },
+    {
+      "heading": "Splitting Atoms to Boil Water",
+      "paragraphs": [
+        "Nuclear power sounds like science fiction, but at its heart a nuclear power station is another way of boiling water. Inside the reactor, atoms of uranium are split apart in a process called nuclear fission. Each split releases a burst of energy, mostly as heat, and also sends out tiny particles called neutrons that can split more atoms, keeping a controlled chain reaction going. Control rods, made of materials that soak up neutrons, are moved in and out to keep that reaction steady. A small amount of uranium fuel can release an enormous amount of heat, far more than the same weight of coal.",
+        "That heat has to be carried away by a coolant. In many reactors, ordinary water flows around the fuel. In a boiling water reactor, the water boils right inside the reactor and the steam goes straight to the turbine. In a pressurised water reactor, the most common type in the world, the water around the fuel is kept at such high pressure that it cannot boil even at around 300 °C. It flows to a steam generator, a big heat exchanger, where it heats a separate loop of water that does boil. That second loop's steam spins the turbine. Keeping two loops means the water that touches the fuel never goes into the turbine hall.",
+        "The first nuclear power station to send electricity into a public grid was at Obninsk, a science town south-west of Moscow in what was then the Soviet Union. It was connected in June 1954. Its single reactor, called AM-1, produced about 30 megawatts of heat and around 5 megawatts of electricity, a tiny amount by today's standards, but it showed the idea worked. Obninsk kept making electricity until 2002.",
+        "In Britain, Calder Hall in Cumbria, on the site now called Sellafield, was opened by Queen Elizabeth II on 17 October 1956. It is often described as the world's first full-scale nuclear power station. Its four reactors were cooled by carbon dioxide gas rather than water. The hot gas flowed through heat exchangers that boiled water into steam, and that steam drove turbines. Calder Hall's main job was actually to make plutonium for Britain's nuclear weapons programme, and electricity was treated as a useful by-product. It ran until 2003, and its four cooling towers were demolished in 2007.",
+        "Since then, hundreds of nuclear reactors have been built around the world, and almost all of them do the same final job: they make steam to spin a turbine. That is why nuclear stations need the same big turbine halls, condensers and often the same giant cooling towers as coal plants. The reactor is simply a very powerful and very carefully controlled heat source for an old idea."
+      ]
+    },
+    {
+      "heading": "Steam From the Earth: Larderello",
+      "paragraphs": [
+        "Sometimes nature makes the steam for us. Deep underground, the rocks are hot, and in some places, especially near volcanoes and where the Earth's crust is thin, rainwater seeps down, gets heated and bubbles back up as hot water or steam. This is called geothermal energy, from Greek words meaning 'earth heat'.",
+        "One of the most famous places for it is Larderello, in Tuscany in central Italy. The area is full of steaming vents and bubbling pools, and the Romans used its hot springs for bathing. In the 1800s a businessman named François Jacques de Larderel found a way to use the natural steam to help extract boric acid, a useful chemical, from the mud, and the village was named after him.",
+        "On 4 July 1904, Prince Piero Ginori Conti tried something new at Larderello. He used natural steam to drive a small engine connected to a dynamo, and it lit four light bulbs. That modest glow was the first electricity ever made from geothermal steam. A small commercial geothermal power station followed in the area in the early 1910s. Today Larderello's power plants produce about 10 percent of all the geothermal electricity in the world, nearly 5,000 gigawatt-hours a year.",
+        "Other places followed. In 1960, The Geysers in northern California began producing geothermal electricity, and it grew into one of the largest geothermal fields on Earth. Some countries rely on Earth heat a lot. In 2021, geothermal power made about 29 percent of Iceland's electricity and about 43 percent of Kenya's, where power stations tap the hot rocks of the Great Rift Valley.",
+        "There are a few kinds of geothermal plant. The simplest, used at Larderello and The Geysers, is a dry steam plant, where natural steam from wells goes straight into a turbine. Flash steam plants take very hot water under pressure and let its pressure drop suddenly so some of it flashes into steam. Binary plants use cooler water to boil a different liquid with a lower boiling point, which then spins the turbine. In every case, the turning still comes from a hot gas pushing turbine blades."
+      ]
+    },
+    {
+      "heading": "Hotter, Harder, Better: Supercritical Steam",
+      "paragraphs": [
+        "Remember Sadi Carnot from Part 16? He showed that a heat engine works better the bigger the difference between its hot side and its cold side. Power-station engineers take that lesson very seriously. The hotter they can make the steam going into the turbine, and the colder the condenser at the end, the more of the fuel's energy can become electricity.",
+        "But making steam hotter means raising its pressure too, and something strange happens to water at extreme conditions. Above about 374 °C and about 22 megapascals of pressure (roughly 220 times the pressure of the air around us), water reaches what scientists call its critical point. Beyond it, water no longer boils at all. There are no bubbles and no clear difference between liquid and gas; the water simply gets thinner and thinner as it heats up, smoothly becoming a hot, dense fluid. This is called supercritical water.",
+        "Supercritical boilers do not need the big steam drum that older boilers used to separate steam from water, so engineers call them once-through boilers. The idea was patented by Mark Benson in 1922, and the first commercial supercritical power-station unit started running at the Philo plant in Ohio in 1957. Today, ultra-supercritical plants push steam to around 600 °C or more, and researchers are testing materials for even hotter conditions, above 700 °C. The challenge is metal: at such temperatures and pressures, ordinary steel slowly creeps and weakens, so engineers use special alloys containing chromium, nickel and other metals.",
+        "How much difference does this make? Compare the numbers from Part 16: Newcomen's engines managed around 1 percent efficiency. Modern coal plants turn roughly 33 to 45 percent of their fuel's energy into electricity, with older, subcritical plants at the lower end and the best ultra-supercritical plants near the top. Gas combined-cycle plants can pass 60 percent. Each extra percentage point means less fuel burned for the same electricity, which saves money and cuts pollution and carbon dioxide.",
+        "Nuclear plants usually run their steam at lower temperatures, around 280 to 300 °C, partly for safety and because of what the reactor materials can cope with. That is why a typical nuclear plant's efficiency is only about 33 percent, and why its low-pressure turbines are so huge: they have to handle enormous volumes of cooler steam."
+      ]
+    },
+    {
+      "heading": "Clouds That Are Not Smoke",
+      "paragraphs": [
+        "Because no engine can turn all its heat into work, as the second law of thermodynamics says, every thermal power station has to get rid of a lot of leftover heat. In a typical plant, more heat is thrown away than becomes electricity. This waste heat is removed by the condenser's cooling water. Plants beside the sea or a large river may use that water directly and return it slightly warmer. Many inland plants use cooling towers.",
+        "The giant curved cooling towers you see near many power stations are called natural-draft hyperboloid towers, from the smooth hourglass-like curve of their shape. Large ones can be up to about 200 metres tall and about 100 metres wide at the base. The design was patented by two Dutch engineers, Frederik van Iterson and Gerard Kuypers, in 1916, and the first reinforced-concrete one was built at a coal mine in Heerlen in the Netherlands in 1917–1918. The curved shape is strong and stable while using relatively little concrete.",
+        "Inside, warm water from the condenser is sprayed or trickled over packing near the bottom of the tower. Air flows in through openings around the base. As some of the water evaporates into the air, it takes heat with it and cools the rest of the water, the same way sweat cools your skin. The warm, damp air rises up the tower like the hot air in a chimney, pulling in fresh cool air from below, no fans needed. The cooled water is collected and reused, while fresh water is added to replace what evaporated.",
+        "Now look at the top of the tower. That big white plume is not smoke, and it is not true steam either. Remember from Part 10 that real steam is invisible. The plume is warm, moist air that has hit the cooler outside air, and its water vapour has condensed into billions of tiny droplets, making a cloud. It is mostly just water, the same thing you see when you breathe out on a cold day. The smoke and gases from burning fuel, if any, leave through a separate tall chimney, and nuclear plants have no smoke at all, even though their cooling towers make clouds."
+      ]
+    },
+    {
+      "heading": "Steam All Around Us",
+      "paragraphs": [
+        "Power stations are steam's biggest job today, but they are far from its only one. Walk into any hospital and somewhere there will be an autoclave, a strong steel chamber that uses high-pressure steam to sterilise surgical instruments and equipment. It was invented by Charles Chamberland, who worked with Louis Pasteur, in 1879, and it is a direct descendant of Denis Papin's steam digester from Part 4. A typical autoclave holds instruments in saturated steam at 121 °C, at about one atmosphere above normal pressure, for 15 minutes or more, which kills bacteria and even their tough spores. Steam works better than dry hot air because, as it condenses on cool objects, it releases its latent heat straight into them.",
+        "In kitchens, steam cooks vegetables, puffs up bread and powers pressure cookers. Restaurant espresso machines use hot water and steam under pressure, and their steam wands froth milk. Factories use steam to heat chemicals, dry paper, cook food in huge batches, and clean equipment. Some cities, including New York, even have networks of underground pipes that carry steam to heat buildings; New York's steam system dates back to the 1880s. Steam cleaners blast dirt and germs off floors and tiles without harsh chemicals.",
+        "And then there are the old engines themselves. Across the world, volunteers and museums keep historic steam engines working. At places like the Cruquius pumping station in the Netherlands, mill engines in England, and steam fairs where traction engines and steam rollers chug across the fields, you can still see pistons slide, beams rock and flywheels turn. Heritage railways run steam locomotives (their story is told in the Railways Deep Dive). These volunteers clean, oil, repair and inspect the machines, and boilers must still pass strict safety tests, a lesson learned from the explosions you read about in Part 15.",
+        "So steam is not a museum piece. It is quietly at work in hospitals, factories and kitchens, and above all in the turbine halls that light up cities. The water cycle inside a modern power station, from pump to boiler to turbine to condenser and back, links directly to every inventor in this story.",
+        "But there is a big question hanging over that picture. Much of the world's steam is still made by burning coal and gas, which release carbon dioxide and warm the planet. Countries are now trying hard to cut those emissions, building wind turbines and solar panels that make electricity with no steam at all. So what will happen to steam as the world tries to stop burning fossil fuels? Will the great turbines fall silent, or will they find new sources of heat? That is the story of the next part."
+      ]
+    }
+  ],
+  "deepDive": "Engineers describe a power station's steam loop as the Rankine cycle: water is pumped to high pressure, heated into steam, expanded through a turbine, and condensed back to water. Carnot's work sets the ceiling. The best possible efficiency of any heat engine is 1 minus the ratio of the cold temperature to the hot temperature, measured in kelvin. With steam at about 600 °C (873 K) and a condenser near 30 °C (303 K), the Carnot limit is roughly 65 percent. Real coal plants reach about 40 to 45 percent at best, because heat must pass through boiler walls, steam is not heated at a single temperature, turbines have friction and leakage, and the boiler's flue gases carry heat away up the chimney. Engineers attack each loss in turn. Reheating steam partway through the turbine raises the average temperature at which heat is added. Feedwater heaters use small amounts of steam bled from the turbine to preheat the water going back to the boiler. Going supercritical removes the boiling stage, where a lot of heat is added at a relatively low temperature. The combined-cycle gas plant is a neat way around the materials limit. A gas turbine can take in combustion gases at well over 1,300 °C, far hotter than any steam boiler tube could stand, but it throws out exhaust at around 450 to 650 °C. Adding a steam cycle underneath uses that exhaust, so the combination captures heat over a very wide temperature range, which is why such plants can exceed 60 percent. Nuclear plants are limited differently: water-cooled reactors produce steam at only around 280 to 300 °C, so their efficiency is about a third. There is a real debate about how to count steam's share of world electricity. Coal and gas together made over half of the world's electricity in 2024, but not all gas power uses steam (simple gas turbines and engines do not), while nuclear, most biomass, geothermal and concentrated solar do. Most estimates therefore land at roughly half to two thirds of global electricity passing through a steam turbine, which is why sources disagree and why the careful phrase is roughly half or more. Grid frequency adds another twist: because large turbine-generators spin in synchrony, their heavy rotors store energy that naturally steadies the grid for a few seconds when demand jumps, a service called inertia that grid operators now have to replace in other ways as fewer big spinning machines run.",
+  "funFact": "The very first electricity made from Earth's natural steam, at Larderello in Italy on 4 July 1904, lit just four light bulbs.",
+  "check": {
+    "q": "In a typical nuclear power station, what does the heat from the reactor actually do?",
+    "a": "It boils water into steam, which spins a turbine connected to a generator",
+    "wrong": [
+      "It turns directly into electricity with no moving parts",
+      "It is used to burn coal more quickly",
+      "It melts ice to make a waterfall that spins a waterwheel"
+    ]
+  },
+  "sources": [
+    {
+      "title": "How electricity is generated",
+      "publisher": "U.S. Energy Information Administration",
+      "url": "https://www.eia.gov/energyexplained/electricity/how-electricity-is-generated.php"
+    },
+    {
+      "title": "Electricity generation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electricity_generation"
+    },
+    {
+      "title": "Combined cycle power plant",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Combined_cycle_power_plant"
+    },
+    {
+      "title": "Supercritical steam generator",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Supercritical_steam_generator"
+    },
+    {
+      "title": "Obninsk Nuclear Power Plant",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant"
+    },
+    {
+      "title": "Calder Hall nuclear power station",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Calder_Hall_nuclear_power_station"
+    },
+    {
+      "title": "Geothermal power",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Geothermal_power"
+    },
+    {
+      "title": "Autoclave",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Autoclave"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Modern steam turbine rotor in a power station during maintenance, with large low-pressure blades visible",
+      "search": "steam turbine rotor power plant maintenance"
+    },
+    {
+      "want": "Geothermal power station pipes and cooling towers at Larderello, Tuscany, Italy",
+      "search": "Larderello geothermal power plant"
+    },
+    {
+      "want": "Calder Hall nuclear power station with its four cooling towers, Cumbria, before 2007 demolition",
+      "search": "Calder Hall cooling towers"
+    }
+  ]
+}

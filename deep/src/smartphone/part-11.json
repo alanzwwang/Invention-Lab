@@ -1,0 +1,155 @@
+{
+  "n": 11,
+  "title": "How It Works: The Chip — A Brain Made of Sand",
+  "when": "1947 – today",
+  "summary": "Inside every phone is a chip smaller than a postage stamp, made from silicon, the same stuff found in sand. It holds billions of tiny switches that flick on and off billions of times every second. That is how your phone thinks!",
+  "sections": [
+    {
+      "heading": "What Happens When You Tap?",
+      "paragraphs": [
+        "Tap the camera icon on a phone. In less time than it takes to blink, the screen wakes up the camera, the lens focuses, a picture of the world appears and little buttons slide into place around it. It feels like magic. But somewhere under the glass, a thin, flat square of silicon about the size of a fingernail has just done billions of tiny jobs, one after another and side by side, to make all of that happen.",
+        "That square is the phone's main chip. People often call it the phone's brain, and that is a fair nickname, although it works very differently from the soft, wet brain inside your head. Your brain uses about 86 billion nerve cells that send chemical and electrical signals to each other. A phone chip uses billions of transistors: microscopic switches that can only do one thing, which is turn on or turn off.",
+        "That sounds far too simple to run a video game or recognize a face. The trick is that an on-or-off switch can stand for a number. Engineers call 'on' a 1 and 'off' a 0. A single 1 or 0 is called a bit. Put eight bits in a row and you get a byte, which can stand for any whole number from 0 to 255. Line up enough bytes and you can describe a letter, the color of one pixel on the screen, a note in a song, or the position of your finger. Everything your phone stores or shows, from a text message to a movie, is really a gigantic pattern of 1s and 0s.",
+        "Switches can also make decisions. Wire two switches one after the other, and current gets through only if the first AND the second are on. Wire them side by side, and current gets through if the first OR the second is on. These little arrangements are called logic gates. Clever combinations of logic gates can add two numbers, compare them, remember them, or choose what to do next. Stack up millions of these combinations and you have a processor: a machine that follows a list of instructions, called a program, one step at a time and astonishingly fast.",
+        "So when you tap the camera icon, the touchscreen (from Part 10) reports a pair of numbers, the place where your finger landed. The processor compares those numbers with the positions of the icons, works out that you meant the camera, loads the camera program from storage and starts following its instructions. Every one of those steps is just transistors switching on and off in the right order. The rest of this part explains how humans learned to build such tiny switches, why they keep getting smaller, and why a phone chip has to be not only clever but also careful with energy."
+      ]
+    },
+    {
+      "heading": "From Sand to Switches",
+      "paragraphs": [
+        "Pick up a handful of beach sand and you are holding a lot of silicon. Most sand is made of quartz, which is silicon dioxide: silicon atoms joined to oxygen atoms. Silicon is the second most common element in Earth's crust, after oxygen. It is also a semiconductor, which means it is not a great conductor of electricity like copper, and not a good insulator like glass or rubber, but something in between. Even better, engineers can change how well it conducts by adding tiny traces of other elements such as boron or phosphorus. That process is called doping, and it is what lets silicon be turned into switches.",
+        "The story of the transistor begins at Bell Telephone Laboratories in Murray Hill, New Jersey. In December 1947, John Bardeen and Walter Brattain, working in a group led by William Shockley, built the first working transistor. It was a clumsy-looking thing made from a slab of germanium, a strip of gold foil and a bent paper clip of a spring, and it was about as big as your thumb. But it could do what the glowing vacuum tubes in old radios did, switching and boosting electrical signals, while being much smaller, cooler and tougher. The three men shared the 1956 Nobel Prize in Physics.",
+        "The next big leap was to stop building transistors one at a time. In September 1958, Jack Kilby at Texas Instruments demonstrated the first integrated circuit: several components made together on a single piece of germanium, joined with fine gold wires. About six months later, Robert Noyce at Fairchild Semiconductor worked out a far more practical way to make a whole circuit on one flat piece of silicon, with the connections printed on top. Kilby later received the 2000 Nobel Prize in Physics, and Noyce, who had died in 1990, is usually given equal credit as a co-inventor of the chip. Today's chips also depend on a type of transistor called the MOSFET, demonstrated by Mohamed Atalla and Dawon Kahng at Bell Labs in 1960. The MOSFET is now the most manufactured object in human history: by one estimate, more than 13 sextillion (13 followed by 21 zeros) had been made by 2018.",
+        "Here is roughly how a MOSFET works as a switch. It has three connections, called the source, the drain and the gate. The source and drain are like two ends of a road. The gate sits above the road, separated from it by an incredibly thin layer of insulating material. When there is no voltage on the gate, the road is closed and no current flows. Put a small voltage on the gate, and its electric field pulls charges into the silicon underneath, opening a narrow channel. Current flows. Off, on, off, on: that is a bit flipping from 0 to 1 and back.",
+        "Turning sand into a chip is one of the most precise jobs humans have ever attempted. First, quartz is heated with carbon in furnaces to free the silicon, and the silicon is purified again and again until it is about 99.9999999 percent pure. That is often called nine nines, meaning that only about one atom in a billion is something other than silicon. The pure silicon is melted, and a small seed crystal is dipped in and slowly pulled upward while turning. Silicon atoms freeze onto the seed in perfect rows, growing a single, shiny crystal cylinder called a boule. A diamond saw slices the boule into wafers, which are polished until they are mirror-smooth. A modern wafer is 300 millimeters (about 12 inches) across and less than a millimeter thick, about 0.775 mm.",
+        "Then comes the printing. Chip factories, called fabs, coat the wafer with light-sensitive chemicals and shine light through a patterned mask, a bit like a slide projector, so that the pattern is copied onto the wafer. This is called photolithography, which means 'writing on stone with light'. Chemicals then etch away some areas, other materials are added, and the whole process is repeated dozens of times to build up many layers of transistors and the metal wires that connect them. The most advanced fabs use extreme ultraviolet light with a wavelength of just 13.5 nanometers. Only one company, ASML in the Netherlands, makes these machines for chip production. Each one costs around 180 million US dollars, weighs nearly 200 tonnes, more than a hundred family cars put together, and makes its light by blasting tiny droplets of molten tin with a laser, tens of thousands of times a second.",
+        "Fabs are among the cleanest places on Earth, because a single speck of dust landing on a wafer can ruin the chips underneath it. Workers wear full-body suits, sometimes nicknamed bunny suits, and the air is filtered constantly. When the printing is finished, each wafer holds hundreds of identical chips. They are tested, cut apart, and sealed into small packages with connections underneath. One of those little packages is what sits inside your phone."
+      ]
+    },
+    {
+      "heading": "Moore's Law: Double, Double, Double",
+      "paragraphs": [
+        "In April 1965, a chemist named Gordon Moore wrote a short magazine article that would become one of the most famous predictions in technology. Moore worked at Fairchild Semiconductor, the company where Robert Noyce had built the silicon chip. Electronics magazine asked him to guess what would happen to chips over the next ten years. His article had a very plain title: 'Cramming more components onto integrated circuits'.",
+        "Moore had noticed something remarkable. Each year, engineers were managing to fit roughly twice as many components onto a chip as the year before, while the cost of each component kept falling. He predicted that this doubling would keep going for at least ten years, and he guessed that by 1975 a single chip might hold about 65,000 components. At the time, the best chips held only around 50 or 60. It sounded wild.",
+        "He turned out to be close. In 1975 Moore updated his prediction, saying the doubling would now happen about every two years instead of every year. Other people began calling this pattern Moore's Law. It is important to understand that it is not a law of nature, like gravity. Nothing in physics forces chips to double. It is an observation about how quickly engineers, factories and companies could improve, and it worked partly because the whole chip industry used it as a target and planned around it.",
+        "Doubling is more powerful than it sounds. Imagine putting one grain of rice on the first square of a chessboard, two on the second, four on the third, and so on. By the last square you would need more rice than the whole world grows. Chips doubled in a similar way for decades. Intel's 4004, sold in 1971 and often called the first commercial microprocessor, had about 2,300 transistors. Apple's A17 Pro chip, released in September 2023 in the iPhone 15 Pro, has about 19 billion. That is roughly eight million times more, packed into a chip you could cover with your thumbnail.",
+        "Doubling the number of transistors does not only mean more of them. Because they are smaller, they can switch faster and use less energy each. For a long time, every new generation of chips was faster, cheaper and less power-hungry all at once. That is the main reason a phone in your pocket can now beat the giant supercomputers of the 1980s and 1990s at many tasks.",
+        "Today the pace has slowed. Experts have noticed since about 2010 that progress is coming more slowly than Moore's original rhythm, and in 2023 Intel's boss Pat Gelsinger said the doubling is now closer to every three years. Some industry leaders have declared Moore's Law dead, and others insist it is still alive. Either way, the most advanced chips still hold more transistors every few years, but each step is now harder and enormously more expensive."
+      ]
+    },
+    {
+      "heading": "ARM: The British Chip Inside Almost Every Phone",
+      "paragraphs": [
+        "If you could peel open almost any smartphone in the world, whether it is an iPhone, a Samsung Galaxy or a cheap Android phone, you would find a processor built on designs that began in a small company in Cambridge, England, in the 1980s. That company was Acorn Computers, famous in Britain for the BBC Micro, a home computer used in thousands of schools.",
+        "In October 1983, Acorn decided to design its own processor for its next computers. Sophie Wilson, a brilliant young programmer who had already written the BBC Micro's built-in programming language, designed the instruction set: the list of basic commands the chip would understand. Steve Furber, a hardware engineer who had earned a PhD studying fluid dynamics, designed how the chip itself would be built. The team was tiny compared with the giant teams at American chip companies, and they had very little money for the project, so they kept the design simple on purpose.",
+        "Their idea was called RISC, short for reduced instruction set computer. Many processors of the time understood hundreds of complicated instructions, some of which took many steps to finish. A RISC chip understands a smaller set of simple instructions, each of which can be carried out quickly. Think of a cook who has fewer, simpler recipe steps but does each one very fast. Simplicity meant fewer transistors, and fewer transistors meant a chip that was cheaper, cooler and easier to design.",
+        "Acorn's partner, VLSI Technology, manufactured the first chips. On 26 April 1985 the first ARM processor, later called ARM1, was tested, and it worked the very first time, which is extremely rare for a brand-new chip. It ran at 6 megahertz, meaning its internal clock ticked six million times a second. The team later told a famous story: the chip used so little power that it once kept running even though its main power supply had not been properly connected, apparently powered by the small trickle of electricity leaking in from its signal wires. Whether or not every detail is remembered exactly, the point was clear. This chip was extraordinarily frugal with energy.",
+        "At first, low power was almost a happy accident; Acorn mainly wanted a cheap chip for desktop computers, and the first Archimedes computers using ARM went on sale in 1987. But a frugal chip is exactly what a battery-powered gadget needs. In 1990, Acorn's chip team became a separate company, Advanced RISC Machines, set up as a joint venture with Apple and VLSI Technology. Apple wanted an efficient processor for its Newton handheld (Part 4), which used an ARM chip.",
+        "The new company had an unusual plan. Instead of making and selling chips itself, ARM sells licenses to its designs. Other companies pay to use ARM's designs or its instruction set, then build their own chips around them. This is why Apple, Qualcomm, Samsung, MediaTek and many others can each make their own phone chips while all of them speak the same basic ARM language. By 2005 about 98 percent of mobile phones sold contained at least one ARM processor, and by 2010 ARM-based processors were inside about 95 percent of smartphones. More than 230 billion ARM-based chips have been made in total. Sophie Wilson and Steve Furber have received many honors for their work, including Fellowships of the Royal Society and a shared 2022 Charles Stark Draper Prize, one of engineering's top awards."
+      ]
+    },
+    {
+      "heading": "A Whole Computer on One Chip",
+      "paragraphs": [
+        "An old desktop computer was a box full of separate parts: a processor in one place, a graphics card in a slot, sound chips, a network card and more, all joined by wires and circuit boards. A phone has no room for that. Instead, its main chip is a system-on-a-chip, usually shortened to SoC. It puts most of the important parts of a computer onto one piece of silicon, a bit like squeezing a whole town's worth of workshops into one tall building.",
+        "The CPU, or central processing unit, is the general manager. It runs the operating system and the apps, following their instructions step by step. Modern phone CPUs have several cores, which are complete processors working side by side. Many of them mix two kinds of cores: big, fast performance cores for hard work, such as loading a game, and small efficiency cores that handle easy jobs, like checking for new messages, while using much less energy. ARM introduced this mix-and-match idea, called big.LITTLE, in 2011.",
+        "The GPU, or graphics processing unit, is the artist. It is built to do thousands of simple calculations at the same time, which is exactly what you need to work out the color of millions of pixels many times every second for games, animations and video.",
+        "The NPU, or neural processing unit, is a newer addition, built for artificial intelligence. Apple calls its version the Neural Engine. AI jobs such as recognizing a face, understanding speech, translating words or guessing the next word you will type involve enormous numbers of multiplications. An NPU is designed to do just those calculations quickly and cheaply in energy.",
+        "The image signal processor, or ISP, works with the camera. It takes the raw signals from the camera sensor and turns them into a finished photo, fixing colors, reducing graininess and combining several shots into one (you will learn more in Part 14). Other parts of the chip handle video, sound, security keys and fingerprints, and controllers that move data to and from memory. Many phone SoCs also include the modem, the part that talks to the mobile network by radio, which is the subject of Part 12. On some phones the modem is a separate chip right next door.",
+        "Let us take a real example. Apple's A17 Pro, which appeared in the iPhone 15 Pro and 15 Pro Max in September 2023, holds about 19 billion transistors. Its CPU has six cores: two performance cores that can tick about 3.78 billion times a second, and four efficiency cores. Its GPU has six cores, and its Neural Engine has 16 cores that Apple says can perform about 35 trillion operations every second. It was described as the first widely available chip built on a so-called 3-nanometer process.",
+        "What does 3 nanometers mean? A nanometer is one billionth of a meter. A human hair is roughly 50,000 to 100,000 nanometers thick. The '3 nanometer' name today is really a label for a generation of manufacturing rather than a measurement of one exact part of the transistor, but the smallest features on these chips really are only a few nanometers across, sometimes just a few dozen atoms thick. That means thousands of the tiniest structures could be lined up across the width of a single hair. Squeezing billions of switches into such a tiny space, and making nearly all of them work, is one of the greatest engineering achievements in history."
+      ]
+    },
+    {
+      "heading": "Apollo Guidance Computer vs the Phone in Your Pocket",
+      "paragraphs": [
+        "In July 1969, the Apollo 11 astronauts landed on the Moon with the help of a computer. The Apollo Guidance Computer, or AGC, was designed at the MIT Instrumentation Laboratory and built by the company Raytheon. Its software was written by a team that included Margaret Hamilton, who led the work on the spacecraft's flight software and later received the Presidential Medal of Freedom in 2016. The AGC was one of the first computers built from integrated circuits, and its orders for chips helped the young chip industry grow.",
+        "It is tempting to say a phone is 'a million times smarter' than the Apollo computer, but that kind of vague claim does not tell you much. It is far more interesting to compare real numbers.",
+        "Size and weight first. The AGC was a box about 61 by 32 by 17 centimeters, roughly the size of a large suitcase lying flat, and it weighed about 32 kilograms (70 pounds). It used about 55 watts of power. An iPhone 15 Pro weighs about 190 grams, roughly a sixth of a kilogram, and its whole chip uses just a few watts even when working hard.",
+        "Memory next. The AGC's changeable working memory, called erasable memory, held 2,048 words, which works out to about 4 kilobytes. Its programs were stored in 'core rope memory', where wires were literally woven by hand through or around tiny magnetic rings to store 1s and 0s. It held 36,864 words, roughly 72 kilobytes, and once woven it could not be changed. A modern phone has around 8 gigabytes of working memory: that is about 8 billion bytes, or roughly two million times the AGC's erasable memory. Its storage, often 128 gigabytes or more, could hold the AGC's entire rope memory well over a million times over.",
+        "Speed. The AGC's main clock ran at about 2 megahertz, and each basic memory step took about 12 microseconds, so it could carry out tens of thousands of simple operations every second. The A17 Pro's performance cores tick almost 4 billion times a second, and each core can do several things per tick. Its Neural Engine alone is rated at about 35 trillion operations per second.",
+        "Chips. The final version of the AGC used about 2,800 integrated circuits, and each one held just two simple logic gates. The A17 Pro has about 19 billion transistors on one chip.",
+        "But numbers are not the whole story. The AGC was built for one job, and it did that job brilliantly. During the Apollo 11 landing, it flashed a '1202' alarm because it was being swamped with extra work from a radar. Instead of crashing, it restarted and dropped less important tasks so that the most important ones, the ones steering the landing, kept running. That clever design, by people working with tiny resources, helped Neil Armstrong and Buzz Aldrin land safely. Your phone is vastly more powerful, but it stands on the shoulders of engineers who did amazing things with very little."
+      ]
+    },
+    {
+      "heading": "Hot Chips: Why Fast Is Not Enough",
+      "paragraphs": [
+        "Here is a problem that desktop computers mostly do not have to worry about. Every time a transistor switches, it uses a tiny bit of energy, and nearly all of that energy ends up as heat. One switch makes an almost unmeasurably small amount of heat. But billions of switches flipping billions of times a second add up quickly. A desktop computer deals with this using big metal heat sinks, whirring fans and sometimes even liquid cooling. A phone has no fan at all. It has to get rid of its heat through its own case and screen, and it is held in your hand or pressed against your face, so it cannot get very hot.",
+        "Phones also run on a battery that must last all day. A battery stores only a limited amount of energy (Part 13 explains how), so every watt the chip uses is drained from it. If a phone chip were designed just to be as fast as possible, the battery would run flat in an hour or two and the phone would become uncomfortably warm.",
+        "That is why phone chip designers care about efficiency, meaning how much useful work the chip does for each bit of energy. Engineers use many tricks. Efficiency cores take over the easy jobs. Parts of the chip that are not needed are switched off completely, so the GPU sleeps while you read a text message and the camera processor sleeps until you open the camera. The chip constantly changes its speed and voltage: it races when you open an app and slows to a crawl when the screen is off. Lower voltage saves a lot of energy, because the power a switching circuit uses rises steeply as the voltage goes up.",
+        "Special-purpose blocks also save energy. A general CPU can play a video or recognize a face, but a dedicated video block or NPU can do the same job using far less power, the same way a tool made for one job, like a pencil sharpener, does it better than a pocketknife. This is a big reason modern SoCs have so many specialized parts.",
+        "Even so, if you play a demanding game for a long time, you may notice your phone getting warm, and sometimes the game gets slightly less smooth. That is the phone protecting itself: when sensors inside detect too much heat, the chip deliberately slows down to cool off. Engineers call this thermal throttling. It is not a fault. It is a safety feature that keeps the chip and battery in a healthy temperature range.",
+        "Smaller transistors helped for decades, because each switch needed less energy. But as transistors shrank to just a few nanometers, new problems appeared. Tiny amounts of current started leaking through switches even when they were supposed to be off, a bit like a tap that never quite stops dripping. Chip designers now spend as much effort fighting leaks and heat as they do chasing raw speed. The champion phone chip is not simply the fastest one. It is the one that gives you the most speed for the least energy.",
+        "Still, even the cleverest, coolest brain is useless if it is trapped in a sealed box. To send a message, load a web page or make a call, the chip has to talk to the rest of the world, and it does that with something you cannot see, hear or feel at all: invisible radio waves racing out to towers and networks, which is where we are heading next."
+      ]
+    }
+  ],
+  "deepDive": "Why did chips keep getting better for so long, and why is it getting harder? For about three decades, chipmakers enjoyed what engineers call Dennard scaling, named after IBM's Robert Dennard, who described it in 1974. As transistors shrank, their voltage and current could shrink too, so the power used per square millimeter stayed roughly the same. Each new generation gave you more transistors, running faster, without a hotter chip. Around the mid-2000s this broke down. Voltages could not be lowered much further without transistors becoming unreliable, and leakage current, electricity sneaking through switches that are supposed to be off, grew as insulating layers became only a few atoms thick. That is why desktop processor clock speeds stopped climbing quickly at a few gigahertz around 2005, and why the industry turned to multiple cores and specialized accelerators like GPUs and NPUs instead. Transistor shapes have also changed. Flat transistors gave way to FinFETs, where the channel rises up like a fin so the gate can grip it from three sides, and the newest chips are moving to gate-all-around designs where the gate wraps the channel completely. The names of manufacturing generations, such as 5 nm or 3 nm, no longer match any single physical dimension; they are marketing labels for steps of improvement in density. Debate continues over whether Moore's Law is over. Nvidia's Jensen Huang declared it dead in 2022, while Intel argued it continues at a slower pace of roughly every three years. Some engineers prefer to talk about improvements in performance per watt or per dollar, which also come from better chip packaging, stacking chips on top of one another, and smarter software. There are also hard physical limits ahead: a silicon atom is about 0.2 nanometers across, so features cannot shrink forever. Meanwhile the cost of a cutting-edge fab has soared into tens of billions of dollars, and only a handful of companies, such as TSMC, Samsung and Intel, can make the most advanced logic chips. That concentration has turned chipmaking into a matter of national strategy for many governments.",
+  "funFact": "The Apollo Guidance Computer's programs were stored in core rope memory that was woven by hand, with workers threading wires through or around tiny magnetic rings to record each 1 or 0.",
+  "check": {
+    "q": "Which British company designed the first ARM processor, which first worked in April 1985?",
+    "a": "Acorn Computers",
+    "wrong": [
+      "Intel",
+      "Texas Instruments",
+      "Nokia"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Moore's law",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Moore%27s_law"
+    },
+    {
+      "title": "ARM architecture family",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ARM_architecture_family"
+    },
+    {
+      "title": "Sophie Wilson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sophie_Wilson"
+    },
+    {
+      "title": "Apollo Guidance Computer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Apollo_Guidance_Computer"
+    },
+    {
+      "title": "Apple A17",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Apple_A17"
+    },
+    {
+      "title": "Integrated circuit",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Integrated_circuit"
+    },
+    {
+      "title": "Transistor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Transistor"
+    },
+    {
+      "title": "System on a chip",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/System_on_a_chip"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A replica or photo of the first point-contact transistor made at Bell Labs in 1947",
+      "search": "first transistor Bell Labs 1947 replica"
+    },
+    {
+      "want": "A large polished silicon wafer covered in rows of printed chips, shining with rainbow colors",
+      "search": "silicon wafer chips 300 mm"
+    },
+    {
+      "want": "The Apollo Guidance Computer with its DSKY display and keyboard, as shown in a museum",
+      "search": "Apollo Guidance Computer DSKY"
+    }
+  ]
+}

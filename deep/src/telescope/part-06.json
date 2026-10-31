@@ -1,0 +1,156 @@
+{
+  "n": 6,
+  "title": "Kepler's Design and the Super-Long Telescopes",
+  "when": "1611 – 1690s",
+  "summary": "Kepler figured out a better telescope using two bulging lenses, but it turned everything upside down. To get sharp pictures, astronomers built telescopes longer than a ship, some with no tube at all, and used them to find new moons of Saturn, explain its rings, and even measure the speed of light.",
+  "sections": [
+    {
+      "heading": "Kepler's Telescope on Paper",
+      "paragraphs": [
+        "In the summer of 1610, Johannes Kepler was in Prague, still excited about Galileo's discoveries. He had just peered through a borrowed telescope and seen Jupiter's moons for himself. But Kepler was not mainly an observer. His eyesight had been weak since a childhood illness, and his real talent was thinking. So instead of polishing lenses, he sat down to work out, with geometry, exactly how lenses bend light and why a telescope works at all.",
+        "By September 1610 he had finished a manuscript, and it was printed in 1611 under the title Dioptrice, from a Greek word for seeing through. It was one of the first books to explain the optics of lenses in a scientific way. Kepler described how a convex lens, one that bulges outward, brings light rays together, and how a concave lens, one that dips inward, spreads them apart. He explained the difference between a real image, which is formed where light rays actually meet and can be caught on a screen, and a virtual image, which only seems to be there when you look through the glass. And he showed how the focal length of each lens, the distance at which it brings light to a focus, controls how much a telescope magnifies.",
+        "Then Kepler proposed something new. Galileo's telescope, like the original Dutch spyglass, used a convex lens at the front and a concave lens at the eye. That arrangement gives an upright image, which is perfect for looking at ships or soldiers. But the concave eyepiece has a big drawback. Light from the edges of the view spreads out and misses your pupil, so you see only a small circle in the middle. Looking through one of Galileo's best telescopes, at about 20 times magnification, the view was only about half as wide as the full Moon, so you could never see the whole Moon at once. Finding anything was frustrating, and following a moving planet was worse.",
+        "Kepler's idea was to use two convex lenses. The front lens, the objective, brings light from a distant object to a focus and forms a small real image inside the tube. The second convex lens, the eyepiece, is placed just beyond that focus and acts like a magnifying glass for looking at the image. Because the eyepiece gathers the rays and sends them neatly into your eye, the field of view is much wider and you can see much more of the sky at once. Crucially, because the image inside the tube really exists at one spot, anything placed at that spot, such as a thin wire, appears sharp and in focus against the stars. That fact would turn out to be extremely important.",
+        "There was a catch. When light rays cross over at the focus, the picture flips. A Keplerian telescope shows everything upside down and reversed left to right. If you are a sailor trying to read a flag on a distant ship, that is annoying. But a star or a planet has no right way up, so for astronomers it barely mattered. Kepler himself does not seem to have built one. His design waited a few years for craftsmen to try it."
+      ]
+    },
+    {
+      "heading": "Scheiner's Experiments and Gascoigne's Spider",
+      "paragraphs": [
+        "One of the first people to put Kepler's design to work was Christoph Scheiner, the Jesuit sunspot observer who had quarreled with Galileo. In the 1610s and 1620s Scheiner experimented with telescopes made of two convex lenses and described them in his giant sunspot book, Rosa Ursina. The wide field of view made it much easier to project and trace the whole disk of the Sun. Scheiner also realized that adding a third convex lens could flip the image back the right way up, an idea that led to later spyglasses for use on land. In Naples, a lawyer turned lens maker named Francesco Fontana was building Keplerian telescopes in the 1630s and 1640s and used them to draw the Moon and planets. By the middle of the 1600s, most serious astronomers had switched to Kepler's design.",
+        "The most important trick of the Keplerian telescope was discovered almost by accident, and it involved a spider. Around 1638 to 1640, a young astronomer named William Gascoigne was observing at his home at Middleton, near Leeds in the north of England. While he was using a Keplerian telescope, a spider spun a thread inside it. To Gascoigne's surprise, the strand was sharp and clear, laid perfectly across the image of the sky. It happened to sit exactly at the focus, where the real image forms.",
+        "Gascoigne understood what this meant. If a thread at the focus looks sharp, you can put crossed threads there on purpose, a crosshair, and use it to aim the telescope at a star with great precision. Until then, astronomers measuring star positions used open sights, a bit like the notch and post on an old rifle, just as Tycho Brahe had done. With a telescopic sight, an instrument's pointer could now be as accurate as the telescope's sharp vision.",
+        "He went further. By placing two pointers at the focus that could be moved closer together or farther apart with a finely threaded screw, he could measure the width of a planet or the Moon's disk. Each turn of the screw moved the pointers a known tiny amount, so counting the turns gave the size. This invention is called the micrometer, from Greek words meaning small measure. Gascoigne used it to measure the apparent sizes of the Moon and planets more accurately than anyone before him.",
+        "Sadly, Gascoigne did not live to make his work famous. He fought for the king in the English Civil War and was killed at the Battle of Marston Moor in 1644, at about 32 years old. Many of his papers were lost. But his friend the astronomer William Crabtree had seen his instruments and written excitedly about them to Jeremiah Horrocks, and later scientists such as Richard Towneley and Robert Hooke improved the micrometer. Within a few decades, telescopic sights and micrometers were standard on the measuring instruments in the great observatories. A surprising number of later discoveries, from planet sizes to the speed of light, depended on being able to measure tiny angles with a crosshair."
+      ]
+    },
+    {
+      "heading": "Two Kinds of Blur",
+      "paragraphs": [
+        "Even with Kepler's better layout, telescopes in the 1600s had a big problem: the images were blurry, and the more you magnified, the worse it got. There were two separate reasons, and both came from the lenses themselves.",
+        "The first is called spherical aberration. Lens makers ground their lenses by rubbing glass against a curved metal or stone tool, which naturally produces a surface shaped like part of a sphere, a perfect ball. A sphere is easy to make, but it is not quite the right shape to bring all the light to one point. Rays passing through the outer edge of the lens bend a little too much and come to a focus slightly closer to the lens than rays passing through the middle. Instead of a sharp point, a star becomes a small smudge. Kepler and the French philosopher René Descartes both worked out that other curves, such as a hyperbola, would focus perfectly, but nobody in the 1600s could grind glass into those shapes accurately.",
+        "The second problem is called chromatic aberration, and it is even trickier. White light is really a mixture of all the colors of the rainbow. When light passes from air into glass, it bends, which is called refraction. But glass bends each color by a slightly different amount: violet and blue light bend the most, red light bends the least. So a simple lens does not have one focus. It has a whole row of them, blue closest to the lens and red farthest away. When you focus on the yellow-green middle, which our eyes are most sensitive to, the other colors are slightly out of focus and spread into colored halos. A bright planet or the edge of the Moon ends up surrounded by fringes of purple and orange, and fine details melt away.",
+        "Nobody in the early 1600s fully understood why the colors appeared. That explanation would come later in the century from a young English scientist and a glass prism. But telescope makers did discover by trial and error something very useful: both kinds of blur get much less serious when the lens is curved only very gently. A gently curved lens bends light only a little, so its focus is far away, which means it has a very long focal length. The spread between the colors stays roughly the same size, but compared with the large image made by a long lens, it becomes a much smaller fraction of the picture. Christiaan Huygens worked out that to keep the blur under control while magnifying more, the length of the telescope had to grow much faster than its magnification.",
+        "The result was one of the strangest chapters in the history of science. To see more sharply, astronomers began building telescopes that were absurdly, comically long."
+      ]
+    },
+    {
+      "heading": "The Brewer's Giant in Danzig",
+      "paragraphs": [
+        "Picture the Baltic port city of Danzig, today called Gdańsk in Poland, in the 1640s. Among its tall merchant houses lives Johannes Hevelius, a wealthy brewer and city councillor who spends his nights on the roof. Above several joined houses he has built a private observatory, one of the finest in Europe, with platforms, instruments and a little rotating hut. In 1647 he publishes Selenographia, a beautiful atlas of the Moon with maps he engraved himself, which earned him the title of founder of lunar mapping. Most of his names for the Moon's features were later replaced, but his idea of naming lunar mountain ranges after mountains on Earth lives on in names like the lunar Alps and Apennines.",
+        "Hevelius chased sharper images the same way everyone else did, by making telescopes longer and longer. His most famous one had a lens about 20 centimeters (8 inches) across and a focal length of about 46 meters, or 150 feet. That is longer than an Olympic swimming pool is wide, and about the length of four school buses parked end to end. A solid tube that long would have been impossibly heavy, so the tube was an open framework of wooden planks and wire, more like a long ladder than a pipe, with a series of round screens inside to block stray light.",
+        "The whole thing hung from a tall mast set up outside the city, held by a web of ropes and pulleys. Engravings in his book Machina Coelestis, from 1673, show teams of assistants hauling on ropes to raise or swing it while the astronomer peers in at the bottom. It must have looked more like rigging a sailing ship than doing astronomy. The slightest breeze set the long frame swaying and shivering, and the wood bent and twisted as the temperature and humidity changed. Honestly, the giant was more impressive to look at than useful to look through.",
+        "Hevelius is also remembered for something stubborn. For measuring star positions, he refused to use telescopic sights, insisting his naked-eye instruments were just as good. When the young English astronomer Edmond Halley visited Danzig in May 1679 on behalf of the Royal Society to test that claim, he was surprised to find that Hevelius's measurements really were impressively accurate. Hevelius was one of the last great astronomers to work that way. His wife, Elisabeth Koopman Hevelius, was an expert observer who worked beside him for years and, after his death in 1687, prepared his unfinished books for publication. Some historians call her one of the first women astronomers whose work we know in detail. Tragically, in September 1679 a fire destroyed the rooftop observatory, its instruments and many of his books."
+      ]
+    },
+    {
+      "heading": "Huygens: A New Moon and the Secret of the Rings",
+      "paragraphs": [
+        "In the Netherlands, the country where the telescope had been born, two brothers were grinding lenses. Christiaan Huygens and his older brother Constantijn came from a famous, wealthy family in The Hague. Their father was a poet and diplomat, and the boys received a superb education. In 1655 the brothers began making their own lenses, which were among the best in Europe. A few years later, Christiaan also invented a better eyepiece, made from two lenses, that reduced some of the color blur. It is still called the Huygens eyepiece.",
+        "On 25 March 1655, Christiaan pointed one of the brothers' new telescopes at Saturn. Close to the planet he noticed a faint star. Over the following nights the star moved along with Saturn and swung from one side of it to the other, returning to the same spot about every 16 days (15 days and 22 hours, to be exact). It was a moon, the first moon of Saturn ever found, and only the second set of moons ever found around another planet after Jupiter's. Huygens called it simply Saturni Luna, Latin for Saturn's moon. We now call it Titan. It is Saturn's largest moon and the second-largest in the solar system, even bigger than the planet Mercury, and it is the only moon known to have an atmosphere thicker than Earth's. The name Titan was suggested almost two centuries later, in 1847, by the astronomer John Herschel.",
+        "With his sharper telescope, Huygens also tackled the puzzle that had defeated Galileo: Saturn's ears. Over several years he watched them carefully and realized that one simple shape explained everything. Saturn, he proposed, is surrounded by a thin, flat ring that does not touch the planet anywhere and is tilted compared with the path of the planets. When we see the ring tilted toward us, it looks like two handles. When Earth lines up with the flat edge of the ring, the ring is so thin that it seems to vanish, just as Galileo had seen in 1612. Huygens even predicted when the next disappearance would happen.",
+        "Like Galileo, he first announced his idea as a scrambled anagram, to claim credit while he gathered more evidence. In 1659 he published the full explanation in a book called Systema Saturnium, The Saturn System, together with his discovery of Titan. Not everyone agreed at first; some astronomers proposed other shapes. But the ring explained the observations so neatly that within a few decades it was widely accepted. Huygens thought the ring was solid. Much later, in 1859, James Clerk Maxwell showed mathematically that a solid ring would break apart, and that it must be made of countless separate pieces, which spacecraft have confirmed.",
+        "Huygens was one of the greatest scientists of his century. In 1657 he patented the first accurate pendulum clock, which made clocks many times more accurate and became vital for astronomy. In 1666 he moved to Paris to become a leading member of the new French Academy of Sciences, and later he developed a wave theory of light. But his telescopes were about to get even stranger."
+      ]
+    },
+    {
+      "heading": "Telescopes With No Tubes",
+      "paragraphs": [
+        "If a 150-foot frame flexes in the wind, why have a tube at all? The tube's only real jobs are to hold the two lenses in line and block stray light, and at night the sky is dark anyway. So astronomers, especially the Huygens brothers, came up with the aerial telescope.",
+        "Here is how it worked. The objective lens was mounted in a short metal holder at the top of a tall pole, a tree trunk or a tower, on a swiveling ball joint so it could point in any direction. Far below, on the ground, the observer held the eyepiece in a small frame, sometimes resting on a stand for support. A long, tight cord connected the two. By pulling the cord, the astronomer turned the distant lens to line it up with the eyepiece and the target. Some versions used a lantern to help find the lens in the dark. The Huygens brothers described their method in a short book, Astroscopia Compendiaria, in 1684.",
+        "The numbers are astonishing. In 1686 the Huygens brothers made objective lenses about 8 inches across with focal lengths of 170 and 210 feet, about 52 and 64 meters. In 1690 Constantijn Huygens gave the Royal Society in London a lens with a focal length of 123 feet, about 37 meters, and decades later James Bradley used a 212-foot lens to measure the size of Venus. The French astronomer Adrien Auzout and others reportedly made lenses of 300 to 600 feet, and Auzout even proposed one with a focal length of 1,000 feet, about 300 meters, which was never practical.",
+        "Imagine trying to use one. You stand in a dark field, holding a tiny eyepiece, staring up at a lens you can barely see on top of a very tall pole, while the Earth's rotation slowly carries your target away. Every few minutes you have to re-aim. The faintest wind makes the cord quiver. Yet with great patience, skilled observers made real discoveries this way.",
+        "Aerial telescopes only lasted a few decades. By the 1720s, a new kind of telescope that used mirrors instead of lenses, made practical by John Hadley in 1721, could do the same job in a short tube. A few decades later, lenses made of two types of glass solved the color problem. Today a working replica of an aerial telescope, with a 4-meter focal length, unveiled in 2014, can be seen at the Old Observatory in Leiden in the Netherlands."
+      ]
+    },
+    {
+      "heading": "Cassini and the King's Observatory",
+      "paragraphs": [
+        "In the 1660s, kings and governments began to realize that astronomy was useful. Better star maps meant better maps of countries and safer navigation for ships, which meant more trade and stronger navies. So they began to build official observatories, buildings paid for by the state with salaried astronomers.",
+        "In Paris, King Louis XIV and his powerful minister Jean-Baptiste Colbert founded the Royal Academy of Sciences in 1666 and, the next year, the Paris Observatory. On Midsummer's Day 1667, academy members marked out the building's outline on the ground, with its center line running exactly north and south along what became the Paris meridian. Designed by the architect Claude Perrault, the grand stone building was finished in 1671. It is the oldest observatory in the world still working today. In England, King Charles II founded the Royal Observatory at Greenwich in 1675, with John Flamsteed as the first Astronomer Royal, given the job of making the star tables needed to find a ship's position at sea.",
+        "To run his new observatory, Louis XIV lured a star from Italy: Giovanni Domenico Cassini, born in 1625 in the village of Perinaldo and professor of astronomy at the University of Bologna. Cassini was a superb observer who had already measured how fast Jupiter and Mars spin and published very accurate tables predicting the motions of Jupiter's moons. He arrived in Paris in 1669, and although he was supposed to stay only a short time, he never went back. He became a French citizen and directed the observatory until his death in 1712. Three more generations of his family, his son, grandson and great-grandson, ran it after him.",
+        "Cassini used the best long telescopes in the world, many with lenses made by the master Italian lens grinder Giuseppe Campani, and some later hung from a tall wooden tower moved to the observatory grounds from the royal estate at Marly. With them he found four more moons of Saturn: Iapetus in 1671, Rhea in 1672, and Tethys and Dione in 1684. Iapetus came with a mystery. Cassini noticed he could see it easily when it was on one side of Saturn but not on the other. He correctly guessed that one half of the moon is much darker than the other and that the moon always keeps the same face toward Saturn, the way our Moon does toward Earth. Spacecraft images centuries later confirmed that Iapetus really is two-toned, one side as dark as coal and the other bright as snow.",
+        "In 1675 Cassini made one more famous discovery. Looking at Saturn's ring, he saw that it was not one smooth band but two, with a dark gap between them. This gap, about 4,800 kilometers wide, is still called the Cassini Division. It was a hint that the ring was not one solid object. Centuries later, NASA and the European Space Agency named their great Saturn mission after him: the Cassini spacecraft, which carried a probe named Huygens that parachuted onto Titan in 2005."
+      ]
+    },
+    {
+      "heading": "Rømer and the Speed of Light",
+      "paragraphs": [
+        "Jupiter's moons, Galileo's great discovery, had one more surprise in store, and it was perhaps the most important of all. It came from a young Danish astronomer named Ole Rømer, who came to work at the Paris Observatory in 1672.",
+        "Jupiter's innermost large moon, Io, circles the planet every 42 and a half hours. Each time around, it passes into Jupiter's shadow and suddenly disappears, an eclipse that can be timed to the minute with a good telescope and a pendulum clock. Because Io's orbit is so regular, astronomers like Cassini could publish tables predicting these eclipses months in advance. Such tables were valuable, because comparing the predicted time with the local time an eclipse was actually seen could help mapmakers work out positions on land.",
+        "But Rømer, studying years of observations, noticed something odd. The eclipses did not keep perfect time. When the Earth, traveling around the Sun, was moving toward Jupiter, the eclipses came a little early. When the Earth was moving away from Jupiter, they came a little late. Over half a year, the difference added up to many minutes.",
+        "Rømer realized that Io was not misbehaving. The difference was caused by the light. When the Earth is on the far side of its orbit from Jupiter, the light showing the eclipse has to travel an extra distance, the whole width of Earth's orbit, to reach us. If light takes time to travel, the news of the eclipse arrives late. Cassini had briefly suggested the same idea in August 1676 but then dropped it. Rømer did not. In 1676 he predicted that a reappearance of Io due in mid-November would be seen about 10 minutes later than the old tables said. When the night came, the observers in Paris saw that it was indeed about 10 minutes late.",
+        "Until then, many scientists, following Descartes, believed light traveled instantly. Rømer showed it does not: light has a finite speed. His estimate was that light needs about 22 minutes to cross the full width of Earth's orbit. The true figure is closer to 16 and a half minutes, so his estimate was too large, partly because the timings were hard to measure precisely. Nobody knew the exact size of Earth's orbit either, so he could not give a speed in kilometers per second. Christiaan Huygens used Rømer's timing to calculate a speed of a little over 200,000 kilometers per second. The modern value is about 299,792 kilometers per second, fast enough to circle the Earth about seven and a half times in one second, and light from the Sun takes about 8 minutes and 20 seconds to reach us. Rømer's idea was right, even though his numbers were rough. It was not fully accepted until 1729, when James Bradley found a completely different effect of light's speed, called the aberration of starlight, that confirmed it.",
+        "Rømer later returned to Denmark in 1681, where he became a professor in Copenhagen, introduced a national system of weights and measures, and even served as the city's chief of police, bringing in its first oil street lamps. He also designed a temperature scale that inspired Daniel Fahrenheit. But his greatest legacy came from staring at a tiny moon through a long telescope and realizing that the light reaching us is always a message from the past.",
+        "By the 1670s, though, many astronomers were tired of fighting rainbow fringes with ever-longer telescopes. One young scientist in England decided that lenses would never beat the rainbow problem. So he threw away the big lens altogether and used a mirror instead."
+      ]
+    }
+  ],
+  "deepDive": "Why did length help? For a simple lens, chromatic aberration produces a blur whose size depends mainly on the lens's aperture and on how much the glass's bending power changes from blue to red light, which opticians measure with a quantity now called the Abbe number. For ordinary crown glass, the red and blue focal points are separated by roughly 1.5 to 2 percent of the focal length. The blur circle a star makes at the best focus is therefore roughly proportional to the aperture, not to the focal length. A longer focal length makes the image of a planet larger while the color blur stays about the same, so the fringes become a smaller fraction of the image and the eyepiece can magnify more before detail disappears. Huygens worked out an empirical rule: to double the useful magnification, the focal length had to grow about four times, which is why lengths exploded from a few feet to more than 200 feet. Spherical aberration also shrinks dramatically with gentler curves; for a fixed aperture it falls off very steeply as the focal ratio grows. A 17th-century objective working at f/150 or slower was far more forgiving than one at f/10. The cost was mechanical: long tubes sagged, vibrated and were hard to point. Keplerian telescopes also introduced the real focal plane, which made possible crosshairs, micrometers, and eventually measuring instruments called filar micrometers and transit circles, the backbone of precision astrometry for three centuries. Rømer's result shows how good measurement turns into deep physics. His 22 minutes compares with the modern 16.6 minutes for light to cross Earth's orbit; historians suggest errors in timing eclipse start and end, and the slowly changing geometry of Jupiter's orbit, inflated it. Some historians also point out that Cassini later doubted the finite-speed explanation, and that the debate in Paris continued for decades. The modern speed of light is defined exactly as 299,792,458 meters per second, and since 1983 the meter itself has been defined by how far light travels in a fraction of a second.",
+  "funFact": "Johannes Hevelius's famous long telescope had a focal length of about 150 feet (46 meters), so long that it had to hang from a mast with ropes and pulleys like the rigging of a ship.",
+  "check": {
+    "q": "How did Ole Rømer show in 1676 that light takes time to travel?",
+    "a": "By noticing that eclipses of Jupiter's moon Io came later when Earth was farther from Jupiter",
+    "wrong": [
+      "By timing a lantern flashed between two hilltops",
+      "By measuring how long sunlight took to heat a thermometer",
+      "By watching the phases of Venus through a Galilean telescope"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Refracting telescope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Refracting_telescope"
+    },
+    {
+      "title": "William Gascoigne (scientist)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Gascoigne_(scientist)"
+    },
+    {
+      "title": "Aerial telescope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aerial_telescope"
+    },
+    {
+      "title": "Johannes Hevelius",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Johannes_Hevelius"
+    },
+    {
+      "title": "Christiaan Huygens",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Christiaan_Huygens"
+    },
+    {
+      "title": "Giovanni Domenico Cassini",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Giovanni_Domenico_Cassini"
+    },
+    {
+      "title": "Rømer's determination of the speed of light",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/R%C3%B8mer%27s_determination_of_the_speed_of_light"
+    },
+    {
+      "title": "Iapetus",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/saturn/moons/iapetus/"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Engraving from Hevelius's Machina Coelestis (1673) showing his 150-foot open-frame telescope hanging from a tall mast with ropes",
+      "search": "Hevelius 150 foot telescope engraving"
+    },
+    {
+      "want": "Diagram of an aerial telescope from Huygens's Astroscopia Compendiaria (1684), with the lens on a tall pole and the observer on the ground",
+      "search": "Huygens aerial telescope 1684"
+    },
+    {
+      "want": "Huygens's illustration from Systema Saturnium (1659) explaining Saturn's changing ring appearances around its orbit",
+      "search": "Systema Saturnium Huygens Saturn ring"
+    }
+  ]
+}

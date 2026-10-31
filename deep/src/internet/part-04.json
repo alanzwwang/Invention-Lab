@@ -1,0 +1,167 @@
+{
+  "n": 4,
+  "title": "LO! The ARPANET Is Born",
+  "when": "1966 – 1970",
+  "summary": "In 1969 a team of engineers and students connected faraway computers for the very first time. Their first message was meant to say LOGIN, but the computer crashed after just two letters: L and O!",
+  "sections": [
+    {
+      "heading": "Three Keyboards in One Office",
+      "paragraphs": [
+        "Picture an office in the Pentagon, the enormous five-sided headquarters of the US Department of Defense near Washington, D.C. It is 1966. Inside sits Bob Taylor, the new head of ARPA's computer research office, the Information Processing Techniques Office that J.C.R. Licklider had led a few years earlier (you met him in Part 2).",
+        "Taylor was an unusual person to be in charge of computers. Born in Texas in 1932, he had studied psychology and mathematics, not engineering, and was fascinated by how people think and how machines might help them. He had worked at NASA, where he funded research into new ways of interacting with computers, before Ivan Sutherland, then head of the ARPA computer office, invited him to join in 1965. When Sutherland left in 1966, Taylor took over as the office's third director. He did not write programs himself, but he had a rare talent for spotting brilliant people and getting them to work together, a talent he would later use again when he led a famous computer lab at Xerox in California.",
+        "Taylor's office is cluttered with three computer terminals, each a kind of electric typewriter. Each one is connected, by its own long-distance telephone line, to a different computer in a different part of the country. One reaches a computer called the Q-32 at the System Development Corporation in Santa Monica, California. Another reaches Project Genie at the University of California, Berkeley. The third reaches a time-sharing system at MIT in Cambridge, Massachusetts.",
+        "All three were research projects that ARPA was paying for, and Taylor wanted to keep in touch with them. But every machine had its own way of logging in, its own commands and its own rules. To use a different computer, Taylor had to slide his chair over to a different terminal. If he learned something useful on one machine, he could not easily pass it to the others.",
+        "Taylor thought this was silly. It would be far better, he reasoned, to have one terminal that could connect to any computer, and to link the computers themselves so that researchers could share programs and data. There was a money reason too. ARPA was funding research computers at many universities, and each group kept asking for its own expensive machine, often duplicating what others already had. A network could let a scientist in Utah use a special program running in California, instead of ARPA buying another computer.",
+        "Taylor walked down the corridor to see the director of ARPA, a physicist named Charles Herzfeld, and explained his idea. Herzfeld liked it. According to the stories both men told later, the meeting was remarkably short, and Taylor left with about one million dollars for the project, money moved from another part of ARPA's budget. For a big government agency, that was lightning speed."
+      ]
+    },
+    {
+      "heading": "Larry Roberts Draws the Map",
+      "paragraphs": [
+        "Now Taylor needed someone to design and run the project. He wanted Larry Roberts, a brilliant young computer scientist at MIT's Lincoln Laboratory. Roberts was born in 1937 in Westport, Connecticut, and had earned all three of his degrees at MIT. He had also already done a small networking experiment.",
+        "In 1965, Roberts and a colleague named Thomas Marill linked the TX-2 computer at Lincoln Laboratory in Massachusetts with the Q-32 computer in Santa Monica, on the other side of the continent, using a telephone line. The two machines could exchange messages and run programs on each other. It worked, but it was slow and clumsy, and it convinced Roberts that a dialled phone circuit was a poor way to connect computers.",
+        "At first Roberts did not want the ARPA job. He enjoyed doing research, and running a project from an office in Washington sounded like paperwork. Taylor kept persuading him, and in early 1967 Roberts finally agreed to join ARPA as the network's program manager.",
+        "Roberts got to work drawing up a plan. In April 1967 he gathered the leaders of ARPA-funded computer projects at a meeting in Ann Arbor, Michigan. Not everyone was keen. Some of the researchers worried that strangers from other universities would use up precious time on their computers, and they did not want to spend effort writing complicated networking programs for their own busy machines.",
+        "The answer came from Wesley Clark, a computer pioneer from Washington University in St. Louis who had helped build some of the earliest small interactive computers. His suggestion was simple and very wise. Do not make the big research computers handle the network at all, he said. Instead, put a separate small computer next to each big one. These small computers would be joined to each other by the long-distance lines, and they would do all the work of packets, routing and checking. Each big computer, called a 'host', would only need to talk to its own little neighbour.",
+        "Roberts loved it. The little computers were given the name Interface Message Processors, or IMPs. That split made the job much easier. Every IMP could be the same kind of machine running the same program, built by one team, while each university only had to connect its own host to its own IMP. If you look at a router in a school or office today, you are looking at a distant descendant of the IMP.",
+        "Then, in October 1967, came the conference in Gatlinburg, Tennessee, that you read about in Part 3. There Roberts presented his plan and learned about Donald Davies' packet switching and Paul Baran's reports. He adopted packets and raised the planned line speed to 50 kilobits per second. The ARPANET had its design. Now someone had to build it."
+      ]
+    },
+    {
+      "heading": "The IMP Guys of Cambridge",
+      "paragraphs": [
+        "In the summer of 1968, ARPA sent out a 'request for quotation', a document describing what it wanted and inviting companies to offer to build it. It went to about 140 possible bidders. Many big computer companies did not even bother to reply; some thought the idea would never work. In the end only about a dozen sent proposals.",
+        "The winner, announced at the end of 1968, was a fairly small company in Cambridge, Massachusetts, called Bolt Beranek and Newman, or BBN. BBN had started as a firm of experts in acoustics, the science of sound, and had designed the sound for concert halls. Over the years it had hired many clever computer people. Licklider himself had worked there before joining ARPA.",
+        "The BBN team was led by Frank Heart, a careful, demanding engineer who had worked on real-time computer systems at Lincoln Laboratory. His group was small, only a handful of people at first, and they later became known as 'the IMP Guys'. Will Crowther, Dave Walden and Bernie Cosell wrote much of the software. Severo Ornstein and Ben Barker designed the hardware. Bob Kahn, a mathematician and engineer, worked on how the whole network should behave; you will meet him again as one of the inventors of TCP/IP in Part 6.",
+        "When news of the contract spread, Senator Edward Kennedy of Massachusetts sent BBN a congratulations telegram. He thanked them for winning the contract to build an 'Interfaith Message Processor'. It was a muddle, but the engineers loved it, and the joke has been retold ever since.",
+        "For the IMPs, BBN chose a minicomputer called the Honeywell DDP-516. 'Mini' is a funny word for it: it was about the size of a large refrigerator. BBN picked a 'ruggedised' version built for military use, with a heavy steel cabinet that could survive knocks and rough handling. That was handy, because these machines would sit in university computer rooms full of curious graduate students who might be tempted to fiddle with them.",
+        "Inside, each IMP had about 12,000 'words' of memory, roughly 24 kilobytes. A modern phone has hundreds of thousands of times more. Into that tiny space the team squeezed a program of about 6,000 words, written in assembly language, the low-level code that tells a processor exactly which steps to take. The IMP had to receive data from its host, cut it into packets, add headers, send packets along the lines to other IMPs, check every packet for errors, resend any that went missing, choose routes, and keep running for weeks without crashing.",
+        "The deadline was tight. BBN signed its contract around the start of 1969 and had to deliver the first IMP to UCLA by the beginning of September, about eight months later, with three more following quickly. The team worked long hours, built a test version, and even wrote programs to pretend to be a network so that they could test the IMP before any real lines existed."
+      ]
+    },
+    {
+      "heading": "Inside the Little Box",
+      "paragraphs": [
+        "What exactly did an IMP do all day? Let's follow a message from UCLA to SRI and watch.",
+        "First, the host computer at UCLA hands its IMP a message, such as a line a user has just typed. The host does not need to know anything about telephone lines or routes. It simply says to its IMP: please deliver this to the host at SRI.",
+        "The IMP looks at the message. If it is long, the IMP cuts it into packets of up to about 1,000 bits each, roughly the size of a short paragraph of text. To each packet it adds a header saying where the packet is going, where it came from and which piece of the message it is.",
+        "Next the IMP checks its routing table, a small list in its memory that estimates how long it would take to reach each destination through each of its neighbours. It sends the packet down the line that looks fastest. Along with the packet goes a checksum, a special number calculated from all the bits in the packet. If even one bit is flipped by electrical noise on the line, the checksum will no longer match.",
+        "When the next IMP receives the packet, it recalculates the checksum. If everything matches, it sends back a short reply called an acknowledgement, which means 'got it, thanks'. Only then does the first IMP throw away its copy. If the packet arrived damaged, the receiving IMP simply ignores it and sends no acknowledgement. After a short wait the first IMP notices the silence and sends the packet again. This is store and forward in action: hold on to a packet until you are sure it is safely in the next hands.",
+        "Finally, the IMP at SRI collects all the packets of the message, puts them back together in the right order and passes the complete message to SRI's host computer. To the people at the keyboards, all this happens in a fraction of a second, and they never see the packets at all.",
+        "Every few moments, each IMP also chats with its neighbours, swapping its estimates of how long it takes to reach different places. That way, if a line breaks or gets busy, the tables change and packets start flowing another way. The IMPs even reported on their own health to a control centre at BBN, so engineers in Cambridge could often spot a problem at a faraway site before anyone there had noticed it."
+      ]
+    },
+    {
+      "heading": "Graduate Students Write the Rules",
+      "paragraphs": [
+        "While BBN built the IMPs, someone had to decide how the host computers would actually talk to each other across the network. Nobody had done this before, and ARPA did not hand down any instructions. Instead, the job fell to a group of graduate students and young researchers at the first four sites.",
+        "They started meeting in the summer of 1968, travelling between the universities. They called themselves the Network Working Group. One of them was Steve Crocker, a graduate student in Kleinrock's group at UCLA, born in 1944. Crocker later remembered that they had no official instructions and half expected that some senior, grown-up experts would arrive at any moment and take the job away from them. Nobody did.",
+        "After one meeting in Utah in early 1969, the group decided they should write down their ideas and questions so everyone could see them. Crocker took on the task. He worried that if the notes sounded too bossy, they might annoy the official people in charge. He later described spending a sleepless night choosing humble words. He decided to call each note a 'Request for Comments'. The name said: this is not a final rule, it is an idea, please tell us what you think. As Crocker put it, the ground rules were that anyone could say anything and nothing was official.",
+        "The first Request for Comments, RFC 1, is dated 7 April 1969 and titled 'Host Software'. It describes how hosts and IMPs might exchange messages and lists many questions the group still had. It even warns that a response from a faraway host might take about half a second, slow enough that they had to think carefully about typing over it.",
+        "That friendly tradition turned out to be one of the most important inventions of the whole Internet story. RFCs are still written today. They are open, free documents that anyone can read, and they describe how almost every part of the Internet works, from email to web addresses. Thousands have been published. Instead of one company or government deciding the rules in secret, the Internet grew from people openly proposing ideas, testing them and improving them together. The group's first big creation was a set of rules for host-to-host connections called the Network Control Program, or NCP, which ran the ARPANET for more than a decade."
+      ]
+    },
+    {
+      "heading": "A Refrigerator Arrives at UCLA",
+      "paragraphs": [
+        "On Saturday 30 August 1969, a few days earlier than the deadline, BBN's first IMP arrived by air at UCLA, in Los Angeles. It was wheeled into Leonard Kleinrock's lab in Boelter Hall, a concrete engineering building on the campus, and set up in room 3420.",
+        "Kleinrock's lab had been chosen as the first site because ARPA had asked his group to run the Network Measurement Center. Their job was to watch the new network closely, measure delays and traffic, and test whether it behaved the way the mathematics predicted. Who better to host the first IMP than the people whose job was to measure it?",
+        "The team at UCLA had been preparing frantically. They had to build their own connection between the IMP and their host computer, a Scientific Data Systems Sigma 7, and write software for it. With the IMP turning up a little early, the last days of preparation were a scramble. They need not have worried. Within a day or so, the IMP and the Sigma 7 were talking to each other.",
+        "Of course, one IMP on its own is not a network. A network needs at least two ends. The second IMP was delivered in early October 1969 to the Stanford Research Institute, known as SRI, in Menlo Park, near San Francisco, about 500 kilometres up the coast. SRI was home to Douglas Engelbart's team, who were inventing new ways for people to work with computers, including the computer mouse. Their host was an SDS 940 computer. AT&T provided a leased line running at 50 kilobits per second to link the two IMPs.",
+        "Everything was in place for the very first conversation between computers on the ARPANET."
+      ]
+    },
+    {
+      "heading": "The Night of L and O",
+      "paragraphs": [
+        "It is the evening of Wednesday 29 October 1969. In room 3420 at UCLA, a student programmer called Charley Kline sits at a terminal connected to the Sigma 7. Professor Kleinrock is supervising. About 500 kilometres away at SRI, a programmer named Bill Duvall sits at the SDS 940. The two young men are also talking on an ordinary telephone, so that each can tell the other what is happening on his screen. Ironically, the old circuit-switched telephone is helping to test the new packet network.",
+        "The plan is for Kline to log in to the SRI computer from UCLA, as if he were sitting right there in Menlo Park. To do that he needs to type the command LOGIN. The SRI computer is set up to recognise commands and help complete them.",
+        "Kline types the letter L. Over the phone, he asks if it arrived. Duvall says yes, he got the L. Kline types O. Duvall confirms: he got the O. Kline types G, and the SRI system crashes.",
+        "So, at about 10:30 in the evening, the first message ever sent across the ARPANET from one host computer to another was two letters: L and O. Nobody chose 'LO' on purpose. They were trying to type LOGIN, and the system fell over halfway. Accounts from the people involved suggest the trouble was on the SRI side, where a buffer, a small holding area in memory, overflowed while the system was trying to handle the incoming characters.",
+        "Duvall found and fixed the problem. About an hour later, Kline tried again, and this time the whole login worked. A computer user in Los Angeles was now working on a computer in Menlo Park through a packet-switching network.",
+        "In UCLA's logbook for the IMP, which you can see in photographs today, there is a short handwritten entry for that night. It records the time, 22:30, notes that UCLA 'talked to SRI host to host', and is signed with Kline's initials, CSK. It is one of the most famous scraps of paper in computing history, and it is wonderfully ordinary: just a few words in a notebook.",
+        "Years later, Kleinrock liked to point out that 'lo' is an old English word, as in 'lo and behold', meaning 'look!' He joked that the network's first word could hardly have been better if they had planned it. They had not planned it, though. It was a happy accident, and in a way that makes it even better: the Internet began, like many great inventions, with something going slightly wrong."
+      ]
+    },
+    {
+      "heading": "Four Nodes Make a Network",
+      "paragraphs": [
+        "Two connected computers were exciting, but a network needs more. Two more IMPs followed before the end of 1969.",
+        "The third went to the University of California, Santa Barbara (UCSB), on the coast north of Los Angeles. Its host was a large IBM 360/75, and researchers there, including Glen Culler and Burton Fried, were working on ways to display mathematics interactively on screens. The fourth went to the University of Utah in Salt Lake City, far inland among the mountains. Its host was a DEC PDP-10, and the Utah team, led by David Evans with Ivan Sutherland and others, was a world leader in computer graphics.",
+        "Look at those four hosts: a Sigma 7, an SDS 940, an IBM 360 and a PDP-10. They were made by three different companies, used different operating systems and stored data in different ways. Getting them to cooperate was exactly the kind of problem Wesley Clark's IMP idea and the Network Working Group's rules were designed to solve. Each host only had to talk to its own IMP, and the IMPs all spoke the same language.",
+        "The first permanent link between UCLA and SRI was set up on 21 November 1969. By 5 December 1969 all four sites were connected. If you drew it on a map, it looked like a small, lopsided diamond in the American West: three sites in California and one in Utah. UCLA was linked to SRI and to UCSB, SRI and UCSB were linked to each other, and Utah was joined to SRI. The three California sites formed a little triangle, so there was more than one path between them, just as Baran had recommended.",
+        "Meanwhile, Kleinrock's Network Measurement Center at UCLA did exactly what its name promised. The team sent streams of test traffic through the network, sometimes deliberately pushing it hard, to see where it would slow down or get stuck. They found real problems, including situations where IMPs filled up their small memories while waiting for each other, so that traffic froze. Each discovery went back to BBN, and the IMP software was improved. Testing a network by trying to break it on purpose is still an important part of engineering today.",
+        "Then the network began to grow. In March 1970 it reached the East Coast, when BBN itself in Cambridge, Massachusetts, joined. By the end of 1970 there were about 13 IMPs. By late 1972 there were about 30, including places such as MIT, Harvard, Carnegie Mellon, the RAND Corporation and NASA's Ames Research Center. Across the country, lines that once carried only telephone calls now also carried streams of packets.",
+        "Remember the myth from Part 3? Here is the reality. The ARPANET grew because researchers found it useful for sharing computers, programs and ideas, not because it was a military bunker system. Its distributed design did make it tough, and that was a pleasant bonus.",
+        "Yet the builders had a nagging question. They had made a marvellous machine for sharing computers. But what would people actually do with it, day after day? Would professors really log in to faraway computers to run programs? The answer turned out to be a surprise. The thing people loved most was not running programs at all. It was sending each other messages."
+      ]
+    }
+  ],
+  "deepDive": "The ARPANET's design split work between two layers of machines. The IMPs formed the 'subnet': they were connected by leased 50 kilobit-per-second telephone lines and handled packets, routing, error detection and retransmission between themselves. The hosts sat outside the subnet and exchanged larger 'messages' with their local IMP. In BBN's design, a host could hand its IMP a message of up to about 8,000 bits; the IMP broke it into packets of roughly 1,000 bits, each with a header, and sent them through the subnet, where the destination IMP reassembled the message before delivering it. Each IMP stored a packet until the next IMP acknowledged receiving it correctly. Errors were detected with a 24-bit checksum calculated in hardware; a damaged packet was simply discarded and not acknowledged, so the sending IMP would time out and transmit it again. This hop-by-hop reliability is different from the later Internet, where TCP at the end computers takes most of the responsibility, an important shift you will see in Part 6. Routing was adaptive and distributed, in the spirit of Baran's ideas. Each IMP kept a table estimating the delay to every destination via each of its neighbours, shared its estimates with neighbours frequently, and sent each packet along the line with the lowest estimated delay. This early 'distance-vector' method could be slow to react to some failures and sometimes produced loops, problems that led to new routing methods later in the 1970s and 1980s. Historians often stress how much was invented under deadline pressure. The BBN team had about eight months to deliver working IMPs; the host-to-host rules came from volunteers in the Network Working Group; and Kleinrock's Network Measurement Center ran experiments that deliberately loaded the network to find weak spots, uncovering problems such as deadlocks where IMPs ran out of buffer space while waiting for each other. Today the UCLA room where the first IMP was installed has been restored as the Kleinrock Internet Heritage Site, and SRI holds an IEEE Milestone plaque marking the birth of the ARPANET.",
+  "funFact": "When BBN won the contract to build the IMPs, Senator Edward Kennedy sent a congratulations telegram that mixed up the name and called the machine an 'Interfaith Message Processor'.",
+  "check": {
+    "q": "What letters arrived at SRI before the system crashed during the first ARPANET message on 29 October 1969?",
+    "a": "L and O (from the word LOGIN)",
+    "wrong": [
+      "H and I",
+      "The whole word LOGIN",
+      "S and OS"
+    ]
+  },
+  "sources": [
+    {
+      "title": "The Day the Infant Internet Uttered its First Words",
+      "publisher": "Leonard Kleinrock, UCLA",
+      "url": "https://www.lk.cs.ucla.edu/internet_first_words.html"
+    },
+    {
+      "title": "RFC 1: Host Software",
+      "publisher": "RFC Editor",
+      "url": "https://www.rfc-editor.org/rfc/rfc1"
+    },
+    {
+      "title": "RFC 1000: The Request for Comments Reference Guide",
+      "publisher": "RFC Editor",
+      "url": "https://www.rfc-editor.org/rfc/rfc1000"
+    },
+    {
+      "title": "ARPANET",
+      "publisher": "SRI International",
+      "url": "https://www.sri.com/hoi/arpanet/"
+    },
+    {
+      "title": "Internet History of 1960s",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/internethistory/1960s/"
+    },
+    {
+      "title": "Brief History of the Internet",
+      "publisher": "Internet Society",
+      "url": "https://www.internetsociety.org/internet/history-internet/brief-history-internet/"
+    },
+    {
+      "title": "ARPANET",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ARPANET"
+    },
+    {
+      "title": "Interface Message Processor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Interface_Message_Processor"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A Honeywell DDP-516 Interface Message Processor (IMP) cabinet, such as the one preserved at UCLA or in a computer museum",
+      "search": "Interface Message Processor IMP Honeywell DDP-516"
+    },
+    {
+      "want": "The handwritten UCLA IMP logbook page recording the first ARPANET message on 29 October 1969",
+      "search": "first ARPANET message IMP log UCLA"
+    },
+    {
+      "want": "Hand-drawn map or diagram of the four-node ARPANET of December 1969 linking UCLA, SRI, UCSB and Utah",
+      "search": "ARPANET 1969 four node map"
+    }
+  ]
+}

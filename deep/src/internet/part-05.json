@@ -1,0 +1,167 @@
+{
+  "n": 5,
+  "title": "You've Got Mail (and Other Networks Too)",
+  "when": "1965 – 1982",
+  "summary": "The ARPANET was built so scientists could share big computers, but people quickly found a better use: sending each other messages. Ray Tomlinson picked the @ sign, and soon email was everywhere. Meanwhile, other inventors built networks that used radio in Hawaii, cables in an office, and phone lines in France and Britain.",
+  "sections": [
+    {
+      "heading": "Mail Inside One Giant Computer",
+      "paragraphs": [
+        "Before email could travel between computers, it had to be invented inside one. To see how, we need to visit MIT in Cambridge, Massachusetts, in the early 1960s. There, a large IBM computer ran a system called CTSS, the Compatible Time-Sharing System. Time-sharing, as you met in Part 2, meant that dozens of people could sit at their own typewriter-like terminals and use the same big machine at once. The computer switched between them so quickly that each person felt as if it belonged to them alone.",
+        "Once lots of people share one computer, something interesting happens: they start to feel like neighbours in the same building. They leave files for each other. They want to say 'the printer is fixed' or 'please do not delete my program'. And the people running the machine need a way to tell users things, too.",
+        "In the summer of 1965, two young MIT programmers, Tom Van Vleck and Noel Morris, wrote a command for CTSS called MAIL. It was added to the system in August 1965. The idea started with a practical problem. Sometimes a user lost a file and asked the operators to restore it from a backup tape. When the job was done, how should the operators tell them? Van Vleck and Morris argued that a general messaging tool would be useful for far more than that, and they were right.",
+        "Their MAIL command was simple and clever. When you sent someone a message, the computer added your text to the end of a special file called MAIL BOX in that person's own storage area. The next time they logged in, the system checked whether that file existed. If it did, a notice popped up on their terminal saying YOU HAVE MAIL BOX. It was the great-great-grandparent of every 'You've got mail!' alert and every red badge on a phone app.",
+        "It was not perfect. You could not type a friendly name like 'Tom'. Instead you had to know the person's 'problem number' and 'programmer number', the codes CTSS used to identify each user. A message also had to be short enough to fit into a single record on the disk. But it worked, and people used it.",
+        "Historians have found other early message programs on other time-sharing computers around the same time, so it is fairer to say that 'computer mail' grew up in several places than to name one single inventor. What all of these systems shared was a limit: a message could only reach people who used the same computer. If your friend's account lived on a different machine across the country, your MAIL command could not help. Remember that limit, because the ARPANET was about to break it."
+      ]
+    },
+    {
+      "heading": "Ray Tomlinson and the Little @ Sign",
+      "paragraphs": [
+        "Ray Tomlinson was born on 23 April 1941 in Amsterdam, a small town in New York State. He studied electrical engineering at Rensselaer Polytechnic Institute and then at MIT, and in 1967 he joined Bolt Beranek and Newman, the Cambridge company you met in Part 4 that built the ARPANET's Interface Message Processors.",
+        "At BBN, Tomlinson worked on an operating system called TENEX, which ran on DEC PDP-10 computers used at many ARPANET sites. He also helped write the software that let those computers use the network. So in 1971 he knew two programs very well.",
+        "The first was SNDMSG (say it 'send message'). Like the old CTSS MAIL command, it let a user leave a message for another user on the same computer. The second was CPYNET, an experimental program Tomlinson had written to copy files from one ARPANET computer to another.",
+        "Tomlinson had a neat thought: a message is really just a small file. If CPYNET could carry a file across the network, and SNDMSG could add a message to someone's mailbox, why not join the two? He added code from CPYNET into SNDMSG, so that instead of only adding text to a mailbox on the same machine, the program could send it over the ARPANET and add it to a mailbox on a different machine.",
+        "Picture the scene one day in 1971. In a room at BBN stood two computers, side by side. They were physically close, but they were not wired straight to each other. Each was connected to the ARPANET, so a message from one had to go out into the network and come back in to the other. Tomlinson typed a test message on one machine, walked over to the second, and checked. There it was: the first email sent between two computers over a network.",
+        "What did it say? Nobody knows for sure. Many books claim it was QWERTYUIOP, the top row of letters on a keyboard. Tomlinson himself said he might have typed something like that, but he could not remember. As he put it later, 'The test messages were entirely forgettable and I have, therefore, forgotten them.' So the honest answer is that history's first network email was probably a jumble of letters, and its exact words are lost.",
+        "Now for the famous little symbol. Tomlinson needed a way to write an address that said both who the message was for and which computer they used. He looked at his keyboard, a Model 33 Teletype, for a character that would not be confused with anything else. He chose @. It already meant 'at', as in '5 apples @ 10 cents', so an address like tomlinson@bbn-tenexa read naturally as 'Tomlinson at the BBN computer'. Just as important, the @ sign did not appear in anyone's name and was not used for anything else in the TENEX system, so programs would never get confused.",
+        "Tomlinson's improved SNDMSG spread to other TENEX computers on the ARPANET in early 1972. Users suddenly found they could write to colleagues hundreds or thousands of kilometres away and get an answer the same day, sometimes the same minute. Tomlinson later received many honours, including a place in the Internet Hall of Fame in 2012. When he died in March 2016, people around the world remembered him every time they typed an email address, because that @ sign sits in billions of them."
+      ]
+    },
+    {
+      "heading": "The Surprise Hit",
+      "paragraphs": [
+        "Here is something that should make any inventor smile. The ARPANET was not built for email. As you saw in Parts 2 to 4, its planners wanted researchers to share expensive computers: to log in to a faraway machine, to run its programs, and to move files and data around. Messages between people were not part of the main plan at all.",
+        "Yet within a couple of years, email had become the most popular thing people did on the network. The Internet Society's history of the Internet says email became the largest network application for more than a decade. People who had never cared much about logging in to a distant computer suddenly cared a great deal about reading their messages.",
+        "The tools improved quickly. In July 1972, Larry Roberts, the ARPA manager who had led the building of the ARPANET, wrote the first program for managing email. It could list your messages, let you pick which ones to read, file them away, forward them and reply. Before that, reading your mail was a bit like reading one long scroll of paper from top to bottom. Roberts's program made it feel more like a tidy in-tray.",
+        "Soon people agreed on how an email should be laid out. In September 1973, a group including Ray Tomlinson wrote RFC 561, one of the Request for Comments documents you met in Part 4. It described the top part of a message, called the header, with labelled lines such as From, Subject and Date. Look at any email today and you will still find those same labels, half a century later. For years, email was carried using the ARPANET's file transfer rules, until a dedicated set of rules called SMTP, the Simple Mail Transfer Protocol, took over in 1982. SMTP, much updated, still moves email today.",
+        "Why was email such a hit? Think about the alternatives in the 1970s. A phone call needed both people to be free at the same moment, which was hard when one lived in California and the other in Massachusetts, three time zones away. A letter could take days. A telegram was expensive and short. Email was fast like a phone call but patient like a letter: you could write when you were ready, and your friend could read when they were ready.",
+        "It also made new kinds of groups possible. People began sending the same message to many readers at once using mailing lists. One of the most famous early lists, called SF-LOVERS, was not about work at all: it was for fans of science fiction to discuss books and films. Some officials grumbled that this was not what the network was paid for, but the lesson was clear. Give people a way to talk, and they will use it to talk about everything they care about. That lesson would be learned again and again, all the way to the social media of Part 16."
+      ]
+    },
+    {
+      "heading": "Showtime in Washington, 1972",
+      "paragraphs": [
+        "By 1972 the ARPANET worked, but most people had never heard of it. Many experts in the telephone business still doubted that chopping messages into packets could ever be practical. Bob Kahn, an engineer who had helped design the IMPs at BBN, decided the best way to change minds was to let people try it for themselves.",
+        "With Larry Roberts, Kahn spent about a year preparing a giant public demonstration at the International Conference on Computer Communication, known as the ICCC, held in Washington, D.C., in October 1972. It was the first time the ARPANET was shown off to the public in a big way.",
+        "Imagine walking into a hotel exhibition hall packed with terminals, cables snaking across the floor and engineers looking slightly nervous. A special BBN machine called a TIP, a Terminal Interface Processor that let lots of terminals plug straight into the network, was installed at the conference. From those terminals, visitors could log in to computers in other cities and use them as if they were in the room.",
+        "There was plenty to try. Visitors played chess against a computer, answered geography quizzes and watched an air traffic control simulation. Most famous of all, two computer programs 'talked' to each other across the network. One was ELIZA, a program that pretended to be a therapist by turning your words back into questions. The other was PARRY, a program written to imitate a very suspicious, anxious person. Watching two programs on different machines have a strange, grumpy chat with each other was a crowd favourite.",
+        "The demonstration was a big success. According to the Computer History Museum, it convinced many people that packet switching really worked. A group of visitors from AT&T, the giant American telephone company, attended too, and reportedly left puzzled. To people who had spent their careers building circuits for phone calls, the idea of a network made of tiny independent packets still seemed odd.",
+        "The ICCC meeting also brought together network researchers from many countries. At the conference they formed the International Network Working Group, a club for sharing ideas about how different networks might one day be joined. A young researcher named Vint Cerf was invited to chair it. Keep his name in mind: in the next part, he and Bob Kahn will take centre stage."
+      ]
+    },
+    {
+      "heading": "Networks by Radio, by Wire and in Other Countries",
+      "paragraphs": [
+        "The ARPANET was the most famous network of the early 1970s, but it was far from the only one. In several places, inventors were trying their own ideas, and each one added something important.",
+        "Start in Hawaii. At the University of Hawaii, professor Norman Abramson and his colleague Franklin Kuo had a problem. Their university had campuses and users on several islands, separated by ocean. Telephone lines between islands were costly and not very reliable. So in 1968 they started building a network that used radio instead. They called it ALOHAnet, after the Hawaiian greeting, and it began working in June 1971.",
+        "ALOHAnet connected terminals around the islands to a central computer on the main campus on Oahu. It used two radio channels: one for terminals to send to the central computer, and one for the computer to send back to everybody. Data travelled at 9,600 bits per second. That sounds slow today, but it was quick enough for people typing.",
+        "The really clever part was how ALOHAnet shared one radio channel among many users. There was no traffic controller deciding whose turn it was. Each terminal simply sent its packet whenever it had something to say. If two terminals happened to transmit at the same moment, their signals crashed into each other, which engineers call a collision, and both packets were garbled. How would anyone know? The central computer sent back an acknowledgement, a short 'got it' message, for every packet it received correctly. If a terminal did not hear 'got it', it waited a random amount of time and tried again. Because the waits were random, the two unlucky terminals were unlikely to crash into each other a second time.",
+        "This rule, often called 'pure ALOHA', is wonderfully simple. Its weakness is that when lots of users are busy, collisions waste much of the channel. Mathematicians worked out that at best only about 18 percent of the channel's time carried useful data. A smarter version, called slotted ALOHA, made terminals start sending only at the beginning of fixed time slots, which roughly doubled that. ALOHAnet was one of the first wireless packet networks, and its ideas about sharing a channel and retrying after a random wait were about to inspire something much bigger.",
+        "Now fly east to Britain. In Part 3 you met Donald Davies at the National Physical Laboratory, or NPL, in Teddington, near London, who invented packet switching independently and named the 'packet'. Davies did not just write about it. His team, including Roger Scantlebury and Keith Bartlett, built a real packet network across the NPL site. The first version began operating in early 1969 and was fully working by January 1970. It linked computers and terminals around the laboratory, and an improved Mark II version ran from 1973 until 1986. It was a local network rather than a national one, because Davies never got the money for the countrywide network he had dreamed of, but it proved his ideas in daily use.",
+        "Next, cross the Channel to France. There, the government research institute IRIA, today called Inria, asked an engineer named Louis Pouzin to build a research network. Pouzin had worked at MIT on CTSS, the same time-sharing system where the MAIL command was born, so he knew shared computers well. His network was called CYCLADES, after a group of Greek islands, perhaps because its computers were scattered like islands that needed linking. Planning began in 1971, the first demonstration came in November 1973, and it eventually grew to about 20 nodes, with links reaching NPL in London and a European space agency centre in Rome.",
+        "CYCLADES had a bold design. It made the network itself as simple as possible, and gave the job of checking that data had arrived correctly to the computers at the ends of each conversation. Its packets were called datagrams. You will see in the next part why this idea turned out to be so important. Sadly, CYCLADES did not survive. France's national telephone authority preferred its own network, called Transpac, and government money for CYCLADES dried up. It was shut down by around 1981. Its ideas, however, lived on inside the Internet we use today."
+      ]
+    },
+    {
+      "heading": "Ethernet: A Network Inside the Building",
+      "paragraphs": [
+        "Our last stop on the network tour is a hillside in Palo Alto, California, at the Xerox Palo Alto Research Center, called PARC for short. In the early 1970s, the photocopier company Xerox gave PARC an exciting mission: invent the office of the future. The computer lab there was led by Bob Taylor, the same man who had started the ARPANET project at ARPA, as you saw in Part 4.",
+        "PARC's researchers built a small personal computer called the Alto, with a screen, a keyboard and a mouse, long before most people had ever seen any of those together. They also built one of the first laser printers. But a building full of personal computers and one amazing printer raises an obvious problem: how do you connect them all?",
+        "The job went to Bob Metcalfe, a young engineer who had worked on connecting MIT to the ARPANET and had studied ALOHAnet in detail. With David Boggs, a Stanford graduate student who knew a lot about radio, he designed a network that worked like ALOHAnet, but with a cable instead of the open air.",
+        "On 22 May 1973, Metcalfe wrote a memo describing what he called the Ether Network. The name was a joke with a history. In the 1800s, scientists believed that light travelled through an invisible substance called the luminiferous aether, or ether, that filled all of space. Experiments later showed the ether did not exist. Metcalfe borrowed the name for a cable that would carry messages to every computer attached to it, the way the imaginary ether was supposed to carry light everywhere. The name stuck, shortened to Ethernet. The first Ethernet ran in November 1973, at about 2.94 megabits per second, hundreds of times faster than ALOHAnet's radio.",
+        "Ethernet improved ALOHAnet's rules in two ways. First, a computer listened before it talked: if the cable was busy, it waited. Second, it kept listening while it sent. If it heard that another computer had started at the same moment, it stopped at once, waited a random short time and tried again. Think of polite people at a dinner table. You wait for a pause before speaking, and if you and someone else both start at once, you both say 'sorry, you go', and one of you tries again a moment later.",
+        "Ethernet was what engineers call a local area network, or LAN: a fast network inside one building or campus, rather than across a country. Metcalfe and Boggs published their design in July 1976. In 1979 Metcalfe left Xerox and founded a company called 3Com to sell Ethernet equipment, and he persuaded three big companies, DEC, Intel and Xerox, to agree on a shared 10-megabit Ethernet standard, published in 1980. In 1983 the IEEE, an international engineering organisation, published its own Ethernet standard, called 802.3.",
+        "Ethernet is one of the great survivors of computing history. The plugs and cables have changed, and speeds have climbed from about 3 megabits per second to 100 gigabits per second and beyond in big data centres, but the name and many of the ideas live on. If a computer, games console or router near you has a wide, clicky network socket, it is an Ethernet port. In 2023, Metcalfe was announced as the winner of the 2022 Turing Award, often called the Nobel Prize of computing, for inventing Ethernet."
+      ]
+    },
+    {
+      "heading": "Spam and Smiles",
+      "paragraphs": [
+        "Whenever a new way to communicate appears, people soon find both annoying and delightful ways to use it. Email was no exception, and two famous firsts show both sides.",
+        "First, the annoying one. On 3 May 1978, Gary Thuerk, a marketing manager at Digital Equipment Corporation, the company that made the popular PDP and DECSYSTEM computers, wanted to tell people about two upcoming presentations of a new computer, the DECSYSTEM-20, which could connect to the ARPANET. Instead of sending messages one by one, he sent a single advertisement to a long list of ARPANET users. Accounts say it went to about 400 addresses.",
+        "The reaction was 'swift and highly negative', as the Computer History Museum puts it. The ARPANET was meant for government-funded research, not for selling things, and many users were furious to find an advert in their inbox. One recipient even claimed the message had shut down his system. The people responsible for running the network sent a stern reminder that this kind of use was not allowed. Even so, some accounts claim the advert helped DEC sell a number of computers.",
+        "At the time nobody called it spam. That name came later, in the 1980s and 1990s, borrowed from a 1970 comedy sketch by the British group Monty Python, in which a cafe's menu has the canned meat Spam in almost every dish and a group of Vikings drowns out every conversation by singing 'Spam, Spam, Spam'. Unwanted messages that repeat endlessly and drown out real conversation seemed like a perfect match. Today, spam filters block enormous numbers of junk messages every day, using some of the same pattern-spotting ideas you will meet when we talk about security in Part 17.",
+        "Now for the delightful one. In September 1982, people at Carnegie Mellon University in Pittsburgh used an online bulletin board, or bboard, where anyone in the computer science department could post messages for everyone else to read. One week, a thread began with a fun physics puzzle: if an elevator's cable snapped, what would happen to a helium balloon, a pigeon or a candle inside it? Someone then posted a joke 'warning' about a mercury spill in an elevator. Some readers took it seriously, and confusion followed.",
+        "Computer scientist Scott Fahlman realised the problem. In plain text, without a smile, a wink or a tone of voice, people could not tell when someone was joking. So at 11:44 in the morning on 19 September 1982, he posted a suggestion: 'I propose that the following character sequence for joke markers: :-)'. He told readers to 'Read it sideways.' He added that, given how things were going, it might be more useful to mark posts that were not jokes, using :-(",
+        "Tilt your head to the left and you will see it: a colon for eyes, a hyphen for a nose and a bracket for a smiling mouth. The idea spread from Carnegie Mellon to other universities and on to the wider world, and the sad face :-( soon came to mean unhappy or annoyed, rather than 'serious'. For years nobody had a copy of the original post. Then, in 2002, a team searched through old backup tapes and found it, which is why we can now give its exact date and time.",
+        "Fahlman has said he believes he came up with the sideways smiley on his own, while agreeing that someone, somewhere, may have typed something similar earlier. Either way, his post started a whole new way of showing feelings in text, which led to the little picture characters called emoji that appeared on Japanese mobile phones in the late 1990s and now fill messages all over the world."
+      ]
+    },
+    {
+      "heading": "Too Many Networks, Not Enough Talking",
+      "paragraphs": [
+        "Step back and look at the world of networks by the late 1970s. In the United States, the ARPANET linked dozens of research centres. ARPA was also experimenting with packet radio networks, inspired by ALOHAnet, and with networks that sent packets via satellites. In Hawaii, ALOHAnet carried data by radio. In offices, Ethernet was linking computers inside buildings. In Britain, the NPL network was running, and in France, CYCLADES. Companies and telephone authorities were building their own networks too.",
+        "Each network was a small triumph. But each one had its own rules about how packets were shaped, how big they could be, how they were addressed, how fast they moved and what to do if something went wrong. A packet from ALOHAnet made no sense to the ARPANET. An Ethernet in an office could not simply hand its messages to a satellite. It was as if every town had built a wonderful railway, each with tracks of a different width, so no train could ever leave home.",
+        "There were now many different networks, and they could not talk to each other. Somebody needed to invent a way to join networks together into one great network of networks, without forcing every network to rebuild itself. As you will see in the next part, two engineers were already working on exactly that."
+      ]
+    }
+  ],
+  "deepDive": "Who invented email? It depends on what you count. If 'email' means sending a message to another user's mailbox on a shared computer, then the MAIL command on MIT's CTSS (August 1965) is one of the earliest well-documented examples, and similar tools appeared on other time-sharing systems in the mid-1960s. If it means sending messages between different computers across a network using user@host addresses, then Ray Tomlinson's work at BBN in 1971 is the usual starting point. Even that date is slightly fuzzy: Tomlinson's tests happened in 1971, often said to be late in the year, while the improved SNDMSG spread to other sites in early 1972, so some histories, such as the Internet Society's, date his email software to March 1972. Email then grew in layers rather than in one leap: Larry Roberts's mail-reading program (1972), the RFC 561 header format with From, Subject and Date (1973), and SMTP (1982). That is why historians and early network engineers reject claims that email was invented by one person in 1978; by then it was already the ARPANET's most popular application. The technical story of ALOHAnet shows how mathematics shaped networking. In pure ALOHA, a packet survives only if nobody else transmits during a window twice as long as the packet itself. Modelling arrivals as random gives a best possible throughput of 1/(2e), about 18.4 percent of the channel's capacity. Slotted ALOHA halves the vulnerable window and doubles the best throughput to 1/e, about 36.8 percent. Ethernet's carrier sensing (listen before talking) and collision detection (stop as soon as a clash is heard), known together as CSMA/CD, did much better on a short cable, because collisions were spotted within microseconds. A further trick, binary exponential backoff, made computers wait for a random time drawn from a range that doubles after each failed try, so a busy network calms itself down automatically. Modern switched Ethernet gives each device its own link to a switch, so collisions have largely disappeared, but Wi-Fi still uses close relatives of these listen-and-retry ideas. Finally, the CYCLADES story is a reminder that technical success does not guarantee survival. It was shut down for budget and political reasons, yet its idea of simple datagrams with reliability handled by the end computers became central to the Internet.",
+  "funFact": "Scott Fahlman's original :-) post was lost for about 20 years until a team recovered it from old Carnegie Mellon backup tapes in 2002, confirming it was posted at 11:44 am on 19 September 1982.",
+  "check": {
+    "q": "Why did Ray Tomlinson choose the @ sign for email addresses?",
+    "a": "It meant 'at' and did not appear in people's names",
+    "wrong": [
+      "It was the only symbol on his keyboard",
+      "It stood for 'ARPANET'",
+      "It looked like a little envelope"
+    ]
+  },
+  "sources": [
+    {
+      "title": "The History of Electronic Mail",
+      "publisher": "Tom Van Vleck, Multicians.org",
+      "url": "https://multicians.org/thvv/mail-history.html"
+    },
+    {
+      "title": "Brief History of the Internet",
+      "publisher": "Internet Society",
+      "url": "https://www.internetsociety.org/internet/history-internet/brief-history-internet/"
+    },
+    {
+      "title": "Internet History of 1970s",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/internethistory/1970s/"
+    },
+    {
+      "title": "Raymond Tomlinson",
+      "publisher": "Internet Hall of Fame",
+      "url": "https://www.internethalloffame.org/inductee/raymond-tomlinson/"
+    },
+    {
+      "title": "Smiley Lore :-)",
+      "publisher": "Scott Fahlman, Carnegie Mellon University",
+      "url": "https://www.cs.cmu.edu/~sef/sefSmiley.htm"
+    },
+    {
+      "title": "Original Bboard Thread in which :-) was proposed",
+      "publisher": "Carnegie Mellon University",
+      "url": "https://www.cs.cmu.edu/~sef/Orig-Smiley.htm"
+    },
+    {
+      "title": "Ethernet links personal computers",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/revolution/networking/19/381"
+    },
+    {
+      "title": "What Happened on May 3rd",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/tdih/may/3/"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Photograph of Ray Tomlinson, the BBN engineer who sent the first network email and chose the @ sign",
+      "search": "Ray Tomlinson email inventor"
+    },
+    {
+      "want": "A Xerox Alto personal computer from Xerox PARC, the machine Ethernet was first built to connect",
+      "search": "Xerox Alto computer museum"
+    },
+    {
+      "want": "Robert Metcalfe's 1973 hand-drawn sketch of the Ethernet network",
+      "search": "Metcalfe Ethernet sketch 1973"
+    }
+  ]
+}

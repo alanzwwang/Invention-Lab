@@ -1,0 +1,159 @@
+{
+  "n": 19,
+  "title": "Pictures Made of Numbers",
+  "when": "1957 – 2012",
+  "summary": "What if a picture was not made of silver at all, but of numbers? In this part, scientists teach computers to see by chopping pictures into tiny squares called pixels. A camera with no film is born, and the mighty Kodak company faces the biggest change in its history.",
+  "sections": [
+    {
+      "heading": "A Baby Photo Inside a Giant Computer",
+      "paragraphs": [
+        "Imagine walking into a laboratory in Washington, D.C., in 1957. The room hums and clicks. Rows of cabinets as tall as grown-ups hold glowing vacuum tubes and tangles of wire. This is SEAC, the Standards Eastern Automatic Computer at the National Bureau of Standards, the United States government lab that is known today as NIST. SEAC was one of the first computers in America that could store its own program, and it filled a whole room. Yet a scientist named Russell Kirsch had a wonderful, slightly crazy idea: he wanted to show this machine a photograph.",
+        "The photo Kirsch picked was a small black-and-white snapshot of his son Walden, who was about three months old. It was only about 5 centimeters on each side, roughly the size of a large postage stamp. Kirsch and his team built a scanner around a rotating drum. The photo was wrapped around the drum, and as the drum turned, a light sensor looked at one tiny spot at a time and measured whether that spot was light or dark. Step by step, line by line, the scanner swept across the whole picture.",
+        "Each spot became a number that the computer could store. The scan was a grid 176 spots wide and 176 spots tall, which adds up to 30,976 little squares. Today we call those squares pixels, short for 'picture elements'. Each pixel in Kirsch's first scan could only be pure black or pure white, nothing in between, because SEAC stored one bit, a single 0 or 1, for each square. To get shades of gray, the team scanned the picture several times using different settings for what counted as 'dark', and then combined the results.",
+        "The finished image looks rough to our eyes. Baby Walden appears as a blocky pattern of squares, a little like a picture made out of square tiles in a bathroom. But it was a giant step. For the first time, a photograph had been turned into pure numbers that a machine could store, copy, change and send. Kirsch's group wanted to know whether computers could someday read and recognize pictures, the way people do. That question led, decades later, to everything from medical scans to the face-unlock on a phone.",
+        "In 2003, Life magazine put the little scan of Walden on its list of 100 photographs that changed the world. Late in life, Kirsch said he wished he had not made pixels square, and he experimented with pixels of different shapes that could follow curves more smoothly. Whether or not square was the best choice, the idea stuck. Almost every digital picture you have ever seen is built from a grid of tiny squares, all descended from a baby photo spinning on a drum in 1957."
+      ]
+    },
+    {
+      "heading": "Two Scientists, One Blackboard and the CCD",
+      "paragraphs": [
+        "Kirsch's scanner could turn an existing photo into numbers, but it could not take a new picture of the world by itself. For that, you needed a chip that could catch light directly, the way film does, and turn it into electricity. The chip that did this came out of Bell Labs, the famous research center of the American telephone company, in New Jersey.",
+        "In 1969, two physicists there, Willard Boyle and George E. Smith, were thinking about a new kind of computer memory. Other researchers at Bell Labs were excited about 'magnetic bubble' memory, which stored information as tiny magnetic spots that could be pushed along a material. Boyle and Smith wondered whether they could do the same thing with little packets of electric charge on a silicon chip. According to the story they later told, they sketched the basic idea on a blackboard in a short meeting, in about an hour. Their notebook called it 'Charge Bubble Devices'. Soon it got the name it still has today: the charge-coupled device, or CCD.",
+        "Here is the clever trick. A CCD is a row, or a grid, of tiny metal squares sitting on a thin insulating layer on top of silicon. Each square acts like a little bucket that can hold electric charge. By changing voltages in a careful rhythm, the chip can make each bucket pass its charge to the next bucket, like a line of firefighters handing buckets of water along a line. At the end of the line, the charge in each bucket is measured, one after another.",
+        "The physicists soon realized something important. Silicon is sensitive to light. When light hits it, the energy knocks electrons loose. If you let light fall on a grid of CCD buckets, the brightest spots fill their buckets with the most electrons, and dark spots collect only a few. Then you shift the charges out, measure them, and you have a picture. Their first paper, published in 1970, already listed imaging as one possible use, alongside memory.",
+        "Within months, Bell Labs researchers including Gil Amelio and Michael Tompsett were building working devices, and by 1971 they were capturing simple images. The electronics company Fairchild produced the first commercial CCD chips, and by 1974 it made a sensor 100 pixels by 100 pixels. Astronomers fell in love with CCDs almost immediately. A photographic plate turns only a small fraction of the light that hits it into an image, but a good CCD catches a far larger share, so faint stars and galaxies suddenly became easier to record. Within about twenty years, CCDs had replaced photographic plates at most big telescopes.",
+        "In 2009, Willard Boyle and George E. Smith shared half of the Nobel Prize in Physics for inventing the CCD. The other half went to Charles Kao for his work on sending light through glass fibers, the technology behind fast internet cables. In a way, that prize celebrated two halves of modern photography: catching light as numbers, and sending those numbers around the world."
+      ]
+    },
+    {
+      "heading": "How a Sensor Turns Light into Numbers",
+      "paragraphs": [
+        "Let's open up a digital camera and see what happens in the tiny fraction of a second when you take a picture. Some parts will sound familiar from the earlier science chapters. Light still enters through a lens, which bends it to make a sharp image. An aperture still controls how wide the opening is, and a shutter, which may be a real moving curtain or simply an electronic timer, still decides how long the light is collected. The big change is what sits where the film used to be: an image sensor.",
+        "An image sensor is a flat chip covered in millions of tiny light-catching spots called photosites. Each one becomes one pixel. While the shutter is open, light knocks electrons loose inside each photosite, and those electrons are collected and stored. A photosite in a bright part of the scene, such as a sunny sky, gathers lots of electrons. One in a deep shadow gathers very few. When the exposure ends, the camera measures the charge in every photosite and turns each measurement into a number. A common camera might store each pixel's brightness as a number from 0 to 4,095, or even larger, before simplifying it into the 0 to 255 range used in many picture files.",
+        "Notice how similar this is to film. In film, light knocks loose tiny specks of silver inside silver halide crystals to make a hidden latent image. In a sensor, light knocks loose electrons inside silicon. Both are about light carrying energy that changes a material. The difference is that the sensor's 'latent image' is read out as electricity right away, with no developer, fixer or darkroom needed.",
+        "Photographers measure sensors in megapixels. One megapixel means one million pixels. A camera with a grid of 4,000 pixels across and 3,000 pixels down has 12 million pixels, or 12 megapixels. More pixels can capture finer detail, but they are not the only thing that matters. Bigger photosites catch more light, which means less 'noise', the grainy speckles you see in dim photos. That is why a large professional camera with fewer, bigger pixels can sometimes beat a phone with more, smaller ones.",
+        "There are two main families of sensor chips. The CCD, which you just met, passes charges along like buckets. The other family, called CMOS, was developed into a practical camera sensor in the early 1990s by a team led by engineer Eric Fossum at NASA's Jet Propulsion Laboratory in California, which wanted small, low-power cameras for spacecraft. In a CMOS 'active-pixel' sensor, every pixel has its own tiny amplifier, so its signal can be read directly instead of being handed down a long line. CMOS chips can be made in the same factories as ordinary computer chips, use much less battery power, and can carry image-processing circuits on the same piece of silicon. Those advantages made them perfect for small gadgets, and today nearly every phone camera uses a CMOS sensor.",
+        "There is a puzzle hiding here. A photosite measures how much light hits it, but not what color the light is. On its own, a sensor would only make black-and-white pictures, just like Kirsch's scan. So how do digital cameras see color? The answer came from a quiet scientist at the very company that would later struggle most with the digital age: Kodak."
+      ]
+    },
+    {
+      "heading": "Bryce Bayer's Checkerboard of Color",
+      "paragraphs": [
+        "Bryce Bayer worked at Eastman Kodak's research labs in Rochester, New York, the same city where George Eastman had once coated glass plates in his mother's kitchen. In the 1970s, Bayer was thinking about how a single electronic chip could record color. One idea was to use three separate sensors, one each for red, green and blue light, with a prism to split the light, a little like Technicolor's three-strip movie camera. But that would be big, heavy and expensive. Bayer wanted something simpler.",
+        "His solution was to lay a tiny mosaic of colored filters directly on top of the sensor, one filter over each photosite. Some photosites would sit under a red filter, so they only measured red light. Others sat under blue filters. And the rest sat under green. Bayer's patent, called simply 'Color imaging array', was issued on 20 July 1976. The pattern he chose repeats in little blocks of four: one red, one blue and two green. Half of all the pixels on the chip are green.",
+        "Why so much green? Because of your eyes. As you learned in the chapter on color, your retina has three kinds of cone cells, roughly tuned to red, green and blue light. Our sense of brightness and fine detail depends most heavily on the green-sensitive part of our vision, so in daylight we notice sharpness in green far more than in blue. By giving green twice as many pixels, Bayer made sure the camera captured detail where our eyes care about it most. It was engineering designed around human biology.",
+        "But wait. If each pixel only measures one color, where do the other two colors come from? The camera works them out by looking at the neighbors. A green pixel knows its own green value, but it borrows red and blue values from the red and blue pixels beside it and makes a smart estimate. This guessing game is called demosaicing, because it turns the mosaic of single colors back into a full-color picture. Early methods sometimes produced odd colored fringes along sharp edges, like the edge of a black letter on white paper. Better methods learned to estimate along edges rather than across them, which reduced those errors.",
+        "Today, the Bayer pattern, or something closely based on it, sits on top of the sensors in most digital cameras and phones on Earth. Billions of devices use the checkerboard that one Kodak scientist designed. Bryce Bayer died in 2012, the same year his old company filed for bankruptcy, a sad coincidence that shows how strangely the story of Kodak and digital photography is tangled together."
+      ]
+    },
+    {
+      "heading": "The Toaster-Sized Camera of 1975",
+      "paragraphs": [
+        "In 1975, a young engineer in his mid-twenties named Steven Sasson had recently joined Kodak. His supervisor, Gareth Lloyd, gave him what seemed like a small side project: see whether you can build a camera using one of those new CCD chips from Fairchild. Nobody had a design to copy. Sasson had to gather parts and figure it out himself.",
+        "He built a strange-looking machine. It used a lens taken from a Super 8 home-movie camera, the 100-by-100-pixel Fairchild CCD, a bundle of circuit boards, a battery pack, and a portable digital cassette recorder. Altogether it weighed about 3.6 kilograms, roughly 8 pounds, about as much as a house cat. Its pictures were black and white and had 10,000 pixels in total. That is 0.01 megapixels. A modern phone camera might have more than a thousand times as many.",
+        "Taking a picture was slow. When you pressed the button, the CCD captured the image almost instantly, and the camera held it briefly in electronic memory. Then it took about 23 seconds to write that one picture onto the cassette tape as a long string of numbers. To see the picture, Sasson and his colleague took the tape out and put it into a special playback machine they had built, which read the numbers and turned them back into an image on a television screen. In tests, they photographed people in the lab. The first results were blurry, blocky and gray, but they were real photographs with no film and no chemicals.",
+        "Sasson later described showing the camera to Kodak managers in meeting after meeting. As he remembered it, they were interested but puzzled. Who would want to look at their photos on a television? How would people store them? When would the pictures be good enough to compete with film? Sasson himself estimated that it might take 15 to 20 years before digital cameras could compete with film for ordinary customers. That guess turned out to be roughly right.",
+        "Kodak filed a patent for the 'electronic still camera' in 1977, naming Sasson and Lloyd as inventors, and it was granted as US patent 4,131,919. One clever part of the design was that the image was read off the sensor quickly into temporary memory, then saved more slowly to storage, an approach that many cameras still use. Kodak did not show the prototype to the public until 2000. In 2009, President Barack Obama awarded Sasson the National Medal of Technology and Innovation.",
+        "It is worth being careful about the word 'first'. Sasson's camera is often called the first digital camera, and it was an early self-contained camera that saved digital pictures. But Kirsch had made digital images back in 1957, scientists had been capturing CCD images since the early 1970s, and engineers at other companies and labs were exploring similar ideas. Like almost every invention in this Deep Dive, the digital camera grew from many people's work."
+      ]
+    },
+    {
+      "heading": "Floppy Disks, Fotoman and a Format Called JPEG",
+      "paragraphs": [
+        "In August 1981, Sony surprised the photo world by unveiling the Mavica, short for Magnetic Video Camera. It used a CCD sensor and recorded pictures on a small 2-inch floppy disk that held about 50 frames, which you could view on a television through a playback unit. But the Mavica was not truly digital. It stored each picture as an analog video signal, the same kind of wavy signal a TV used, rather than as numbers. Engineers call this 'still video'. The original prototype was never sold, though still video cameras from Sony, Canon and others went on sale in the late 1980s, and news photographers sometimes used them to send pictures quickly over telephone lines.",
+        "The race to a camera that saved real numbers was on. At the Photokina trade fair in Germany in 1988, Fujifilm showed the DS-1P, which saved pictures as digital data on a removable memory card holding about ten photos, though it was not sold in shops. Around 1990, a small American company called Dycam made one of the first digital cameras you could actually buy and connect to a personal computer. It was sold as the Dycam Model 1 and also under the name Logitech Fotoman. It took grainy black-and-white pictures, stored a few dozen of them in its built-in memory, and cost about a thousand dollars. It was not a big hit, partly because of its grainy, colorless pictures and high price, but it showed that a digital camera could talk straight to a computer.",
+        "Professionals needed much better quality. In 1991 Kodak released the DCS 100, which looked like a normal Nikon F3 film camera, a favorite of photojournalists, but with a 1.3-megapixel digital sensor fitted where the film would go. The camera was connected by a cable to a separate Digital Storage Unit carried over the shoulder, which held the batteries, a small screen and a 200-megabyte hard drive. That drive could hold about 156 uncompressed images. The whole kit cost about $20,000, and only 987 were sold. But for a newspaper photographer racing a deadline, sending a picture straight from a laptop instead of waiting to develop film was a huge advantage.",
+        "Digital pictures had a size problem, though. A full-color image contains three numbers for every pixel, so a one-megapixel photo is about three million numbers. In the early 1990s that was a lot for a computer's memory and far too much to send quickly over a phone line. Experts from many countries had formed the Joint Photographic Experts Group in 1986 to solve this. In 1992 they released their standard, named after the group: JPEG.",
+        "JPEG works by throwing away details your eyes are unlikely to miss. First it separates brightness from color, and it often stores color at lower detail, because our eyes notice fine changes in brightness far more than fine changes in color. Then it chops the picture into blocks of 8 by 8 pixels and uses a mathematical tool to describe each block as a mix of smooth patterns and fine patterns. The finest, least noticeable patterns are rounded off or dropped. A typical JPEG is about ten times smaller than the original, and most people cannot spot the difference. Squeeze it too hard, though, and you see blocky squares and smudges, the telltale 'JPEG artifacts'.",
+        "Through the 1990s, digital cameras got cheaper and better. Apple's QuickTake 100 of 1994, designed for Apple by Kodak, was one of the first color digital cameras aimed at ordinary consumers. Casio's QV-10 of 1995 had a small color screen on the back so you could see your photo the moment you took it, which became one of the most loved features of digital cameras. Sony's digital Mavica of 1997 saved JPEG pictures straight onto ordinary computer floppy disks. And the big advantage of digital became clear: a digital photo can be copied endlessly with no loss. The ten-thousandth copy of a JPEG is exactly the same as the first, while every copy of a film print loses a little sharpness."
+      ]
+    },
+    {
+      "heading": "Movies Without Film",
+      "paragraphs": [
+        "Hollywood was watching. On 18 June 1999, two theaters, one in Los Angeles and one in New York, showed Star Wars: Episode I, The Phantom Menace using digital projectors built with technology from Texas Instruments. Inside these projectors were chips covered with hundreds of thousands of microscopic mirrors, each able to tilt back and forth thousands of times a second to send light toward the screen or away from it. Each mirror controlled one pixel of light on the screen.",
+        "The director George Lucas wanted to go further and shoot an entire big-budget movie digitally. For Star Wars: Episode II, Attack of the Clones, filmed in 2000 mostly in Sydney, Australia, his team used the Sony HDW-F900, a high-definition video camera developed with the camera company Panavision. It recorded 24 frames per second, the same rate as film, so the footage would feel like cinema rather than television. When the film was released in May 2002, it was one of the first major movies shot entirely with a high-definition digital 24-frame system. Lucas hoped theaters would buy digital projectors for it, but at the time only a few did.",
+        "Why did theaters eventually change? Money, mostly. A single 35mm film print of a feature cost roughly $1,500 to make and ship. A big release on 4,000 screens needed 4,000 heavy reels of film, costing millions of dollars, and the prints got scratched and dusty as they were used. A digital movie, by contrast, could be delivered on a hard drive or over a network and copied with no loss. In 2005 the big studios published a shared technical standard for digital cinema, so any approved movie file would play on any approved projector.",
+        "The switch happened fast. By early 2011, there were about 36,000 digital screens around the world. By March 2015, about 38,700 of roughly 39,800 movie screens in the United States had gone digital. Projectionists who had once spliced reels and watched for film breaks found their jobs changed or gone. For the first time in more than a century, most cinemas no longer had any film running through them at all. The strip of perforated 35mm film that Dickson's team had standardized in the 1890s was now, in most theaters, a museum piece."
+      ]
+    },
+    {
+      "heading": "What Really Happened to Kodak",
+      "paragraphs": [
+        "For most of the 20th century, Kodak was one of the most famous companies on Earth. It sold cameras cheaply and made much of its money on film, chemicals and processing, the things people had to keep buying. In 1996, Kodak's yearly revenue reached about $16 billion. Then, on 19 January 2012, the company filed for bankruptcy protection in the United States. How did the company that built an early digital camera end up there?",
+        "A popular version of the story says Kodak invented digital photography, hid it in a drawer and ignored it until it was too late. That version is too simple, and in important ways it is wrong. Kodak spent large amounts on digital research. It invented the Bayer filter, made professional digital cameras like the DCS series, built cameras for Apple, and sold its own EasyShare digital cameras. In 2005, Kodak was the number one seller of digital cameras in the United States.",
+        "The real trouble was that the money worked differently in the digital world. With film, every photo a family took meant buying film and paying for prints. With digital, once you owned the camera, taking a thousand pictures cost almost nothing. Digital cameras themselves earned only thin profits, because many companies, especially in Japan, Korea and China, made good ones and kept cutting prices. Kodak's share of the digital camera market fell to about 7 percent by 2010. Meanwhile, film sales, which had kept the company rich, began falling in 2001 and then collapsed.",
+        "Kodak had other problems, too. Its rival Fujifilm had been winning film customers since the 1990s, which started a price war. Earlier, Kodak had tried to grow by buying a drug company, which lost money and was sold. In the 2000s it closed 13 film factories and about 130 photo-processing labs, and around 50,000 workers lost their jobs. Then, just as Kodak was fighting for the digital camera market, a new rival arrived that made many stand-alone cameras less necessary: the mobile phone.",
+        "During bankruptcy, Kodak sold many of its digital imaging patents for about $525 million. It came out of bankruptcy in September 2013 as a smaller company focused on business printing and imaging, while its film and consumer photo business became a separate company called Kodak Alaris. Kodak still makes motion picture film today. Historians and business experts still argue about what Kodak should have done differently. The lesson most agree on is that even an excellent invention cannot save a company if the way it earns money disappears.",
+        "And that brings us to a scene on the other side of the world. In November 2000, in Japan, shoppers began buying a new mobile phone from the company J-Phone. It looked like any other phone of its time, with buttons and a small screen. It rang like any other phone. But on its back was a tiny lens, smaller than a pea, sitting in front of a CMOS sensor. This phone could take a picture and send it to a friend in seconds. Nobody could have guessed it then, but that little lens would change photography more than anything since George Eastman's first Kodak."
+      ]
+    }
+  ],
+  "deepDive": "Why did digital imaging take nearly 50 years to beat film, when the key ideas existed by the early 1970s? Part of the answer is raw numbers. A good 35mm color negative records detail roughly comparable to somewhere between about 10 and 20 megapixels, depending on the film and how you measure it. Sasson's 1975 sensor had 0.01 megapixels, about a thousand times too few. Moore's law, the observation that the number of transistors on a chip doubled roughly every two years, slowly closed the gap, along with cheaper memory and storage. A second part of the answer is the sensor itself. CCDs produce very clean images, but they need special manufacturing and fairly high voltages, and they read out charges one bucket at a time. In the early 1990s, Eric Fossum's team at NASA's Jet Propulsion Laboratory developed the CMOS active-pixel sensor, where every pixel has its own tiny amplifier and the sensor can be built with the same factories used for ordinary computer chips. Fossum's 1993 paper was provocatively titled 'Active Pixel Sensors: Are CCD's Dinosaurs?' CMOS sensors used less power, cost less and could hold image-processing circuits on the same chip. They were first adopted for webcams through Fossum's spin-off company Photobit, and by around 2007 CMOS sales passed CCD sales; by 2017 CMOS had close to 90 percent of the market. That low-power, single-chip design is exactly what made phone cameras practical. Historians of technology also debate Kodak's choices. The 'Kodak ignored digital' story is a myth, but scholars point out that a company's existing business can make it cautious: in the 1990s, film produced enormous profits with little competition, while digital promised thin margins and fierce rivals. Some business researchers call this the innovator's dilemma. Others argue Kodak's timing was simply unlucky, because just as it reached the top of the US digital camera market, smartphones began to swallow that market whole.",
+  "funFact": "The first digital scan of a photo, made in 1957, showed a three-month-old baby, and it was so small that its 30,976 pixels would fit nearly 390 times into a single 12-megapixel phone photo.",
+  "check": {
+    "q": "Why does the Bayer color filter pattern have twice as many green filters as red or blue?",
+    "a": "Because human eyes are most sensitive to green light and detail",
+    "wrong": [
+      "Because green filters were the cheapest to make",
+      "Because Kodak's company color was green",
+      "Because green light passes through lenses faster"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Fiftieth Anniversary of First Digital Image Marked",
+      "publisher": "National Institute of Standards and Technology (NIST)",
+      "url": "https://www.nist.gov/news-events/news/2007/05/fiftieth-anniversary-first-digital-image-marked"
+    },
+    {
+      "title": "Charge-coupled device",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charge-coupled_device"
+    },
+    {
+      "title": "Bayer filter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bayer_filter"
+    },
+    {
+      "title": "Steven Sasson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Steven_Sasson"
+    },
+    {
+      "title": "Active-pixel sensor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Active-pixel_sensor"
+    },
+    {
+      "title": "Kodak DCS 100",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kodak_DCS_100"
+    },
+    {
+      "title": "Digital cinema",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Digital_cinema"
+    },
+    {
+      "title": "Kodak",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kodak"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Russell Kirsch's 1957 digital scan of his baby son Walden, a blocky black-and-white 176 x 176 pixel image",
+      "search": "Russell Kirsch first digital image Walden"
+    },
+    {
+      "want": "Close-up diagram of the Bayer color filter array showing red, green and blue squares over a sensor",
+      "search": "Bayer pattern filter diagram"
+    },
+    {
+      "want": "Kodak DCS 100 professional digital camera built on a Nikon F3 body",
+      "search": "Kodak DCS 100 camera"
+    }
+  ]
+}

@@ -1,0 +1,507 @@
+{
+  "slug": "photography",
+  "title": "Photography & Movies",
+  "emoji": "📸",
+  "tagline": "How people learned to catch light and make it move",
+  "intro": "Have you ever wondered how a picture gets trapped inside a camera? For most of human history, a moment you saw was gone forever unless someone painted it. Then, about 200 years ago, inventors in France and England discovered how to make light draw by itself. In these 20 parts you will travel from a tiny hole in a dark room to the camera in your pocket. You will meet Niépce, who waited hours for the sun to make the first surviving camera photograph; Daguerre and Talbot, who raced to share their secrets in 1839; George Eastman, who put cameras into ordinary hands; and the dreamers who made pictures move, talk, sing and turn into cartoons. You will learn the real science of lenses, silver crystals, frames and pixels, see how photos changed news, families and history, and face the tricky question of whether a picture can lie. Grab your popcorn. The lights are going down.",
+  "outline": [
+    {
+      "n": 1,
+      "title": "Light Through a Tiny Hole",
+      "when": "about 400s BCE – 1600s",
+      "covers": [
+        "What a camera obscura ('dark room' in Latin) is: light from a bright scene passes through a small hole and makes an upside-down image on the opposite wall",
+        "The Chinese Mohist writings (attributed to Mozi and his followers, around the 4th century BCE) describing an inverted image through a pinhole, and Aristotle's notes on light through gaps during an eclipse",
+        "Ibn al-Haytham (Alhazen) of Basra and Cairo, around 1000 CE, and his Book of Optics that studied how light travels in straight lines using dark rooms",
+        "Renaissance Europe: Leonardo da Vinci describing the camera obscura, Gerolamo Cardano adding a convex lens (around 1550) and Daniele Barbaro adding a smaller opening for sharper images (1568)",
+        "Giambattista della Porta's book Natural Magic (1558) popularizing it as entertainment, and portable box versions artists later used to trace scenes",
+        "The big problem: the image was beautiful but vanished the moment the light changed; nobody could keep it"
+      ],
+      "keyFacts": [
+        "The camera obscura was understood for over 2,000 years before anyone could save its image",
+        "Light travels in straight lines, which is why the image through a pinhole is flipped upside down and left-to-right",
+        "Scientists, including Johannes Kepler in the early 1600s, used camera obscuras to safely observe solar eclipses"
+      ],
+      "hook": "End with the question every artist tracing in a camera obscura must have wondered: what if the picture could draw itself and stay?"
+    },
+    {
+      "n": 2,
+      "title": "Silver That Darkens in the Sun",
+      "when": "1600s – 1820s",
+      "covers": [
+        "Johann Heinrich Schulze's experiment (1717, published 1727): he proved that silver salts darken because of light, not heat, by placing stencils on a bottle of chalk and silver solution",
+        "Carl Wilhelm Scheele (1777) showing that violet light darkens silver chloride faster than red light",
+        "Thomas Wedgwood and Humphry Davy's 1802 paper: they made shadow pictures of leaves on paper soaked in silver nitrate but could only look at them by candlelight because they kept darkening",
+        "The 'fixing problem' explained simply: unused silver salts keep reacting to light, so an image must be made permanent by washing them away",
+        "Drawing aids of the time, like William Hyde Wollaston's camera lucida (patented 1806), showing how badly people wanted accurate pictures",
+        "Introduce Joseph Nicéphore Niépce as a French inventor experimenting from about 1816, including his early paper negatives that faded"
+      ],
+      "keyFacts": [
+        "Wedgwood and Davy published in 1802 that their images could not be made permanent",
+        "Niépce and his brother Claude also invented the Pyréolophore, an early internal combustion engine that pushed a boat, patented in 1807",
+        "Niépce's earliest camera images on paper (around 1816) were negatives that could not be fixed"
+      ],
+      "hook": "Close with Niépce deciding to try something completely different from silver: a sticky black tar that hardens in sunlight."
+    },
+    {
+      "n": 3,
+      "title": "Niépce and the View from the Window",
+      "when": "1816 – 1833",
+      "covers": [
+        "Niépce's process, which he called heliography ('sun writing'), using bitumen of Judea, a natural asphalt that hardens where light hits it",
+        "How it worked: coat a plate, expose it, then wash with lavender oil and white petroleum to dissolve the unhardened bitumen, leaving a picture",
+        "View from the Window at Le Gras (around 1826–1827), taken from his upstairs window at Saint-Loup-de-Varennes, the oldest surviving camera photograph",
+        "The very long exposure: estimates range from about 8 hours to several days, which is why sunlight hits buildings on both sides",
+        "Niépce's trip to England in 1827 and his failure to interest the Royal Society, partly because he would not reveal his full method",
+        "The rediscovery of the plate by historian Helmut Gernsheim in 1952 and its home today at the Harry Ransom Center, University of Texas at Austin",
+        "Niépce's partnership with Louis Daguerre (signed 1829) and his death in 1833 before photography became famous"
+      ],
+      "keyFacts": [
+        "The Le Gras plate is pewter, about 16.2 x 20.2 cm",
+        "Niépce also made a heliographic copy of an engraving in 1822 (later destroyed) and others in the 1820s",
+        "Niépce died in 1833, six years before photography was announced to the world"
+      ],
+      "hook": "End with Daguerre alone in his Paris workshop, holding Niépce's notes and determined to make pictures in minutes, not hours."
+    },
+    {
+      "n": 4,
+      "title": "Daguerre's Mirror with a Memory",
+      "when": "1822 – 1840s",
+      "covers": [
+        "Louis Daguerre as a showman and painter whose Diorama theater (opened in Paris in 1822) used giant painted scenes and changing light",
+        "The daguerreotype process: a silver-plated copper sheet polished like a mirror, made light-sensitive with iodine fumes, developed over heated mercury, then fixed with salt water (later hypo)",
+        "The breakthrough of developing a hidden (latent) image, which cut exposures from hours to minutes; label the 'broken thermometer' discovery story as a legend",
+        "François Arago announcing the invention at the French Academy of Sciences on 7 January 1839, the full method published on 19 August 1839, and France giving it 'free to the world' in exchange for pensions to Daguerre and Isidore Niépce",
+        "Boulevard du Temple (1838): the busy street looks empty because moving traffic did not register, but a man having his boots shined stood still long enough, often called the first photo of a person",
+        "Robert Cornelius's self-portrait in Philadelphia (1839), often called one of the first photographic portraits and a very early 'selfie'",
+        "Daguerreotype mania: portrait studios, head braces to keep sitters still, and each picture being a one-of-a-kind mirror-like image that could not be copied"
+      ],
+      "keyFacts": [
+        "The French government gave Daguerre a yearly pension of 6,000 francs and Isidore Niépce 4,000 francs",
+        "Mercury vapor used in developing was poisonous, which harmed some early photographers",
+        "By the early 1840s, better lenses and chemicals cut portrait exposures to well under a minute in good light"
+      ],
+      "hook": "Finish by revealing that across the English Channel, a gentleman scientist had been secretly making a totally different kind of photograph, and the news from Paris had just alarmed him."
+    },
+    {
+      "n": 5,
+      "title": "Talbot, Negatives and the Race of 1839",
+      "when": "1833 – 1850",
+      "covers": [
+        "William Henry Fox Talbot's frustration sketching with a camera lucida at Lake Como in 1833 and his 'photogenic drawing' experiments on salted silver paper",
+        "The Latticed Window at Lacock Abbey (August 1835), the oldest surviving camera negative, about the size of a postage stamp",
+        "The calotype (from Greek 'kalos', beautiful), discovered in 1840 and patented in 1841, using a developed latent image and a paper negative from which many positive prints could be made",
+        "John Herschel's contributions: using sodium thiosulfate ('hypo') as a fixer in 1839, popularizing the words 'photography', 'negative' and 'positive', and inventing the cyanotype (1842)",
+        "Other claimants: Hippolyte Bayard in Paris (direct positive prints, shown in 1839) and his staged Self Portrait as a Drowned Man (1840) protesting his lack of credit; Hercules Florence in Brazil, who used the word 'photographie' in the 1830s",
+        "Anna Atkins and Photographs of British Algae: Cyanotype Impressions (first part 1843), often called the first book illustrated with photographs",
+        "Talbot's The Pencil of Nature (1844–1846), the first commercially published book illustrated with photographs, and the downside of his strict patents"
+      ],
+      "keyFacts": [
+        "Talbot hurried to show his work to the Royal Institution on 25 January 1839, less than three weeks after Arago's announcement",
+        "Daguerreotypes were sharper; calotypes could be copied many times. The negative-positive idea won in the long run",
+        "Herschel's hypo is still used as a photographic fixer today"
+      ],
+      "hook": "End by asking: how does light actually change silver and glass into a picture? The next part opens up the camera to find out."
+    },
+    {
+      "n": 6,
+      "title": "Inside the Camera: Lenses, Light and Silver",
+      "when": "The science (explained with 1800s examples)",
+      "covers": [
+        "How a convex lens bends (refracts) light to focus a sharp image, and why moving the lens closer or farther focuses near or far things",
+        "The aperture (the opening) and the shutter (how long it stays open), and how together they control exposure; brighter light means shorter exposure",
+        "What silver halide crystals are and how light knocks loose tiny specks of silver to form an invisible latent image",
+        "Developer (turns exposed crystals into black metallic silver), fixer (removes unexposed crystals) and washing, step by step",
+        "Why film gives a negative (bright sky becomes dark) and how printing the negative onto paper flips it back to a positive",
+        "Simple at-home connection: make a pinhole viewer or a sun print on light-sensitive paper (with adult supervision and no chemicals that need special handling)"
+      ],
+      "keyFacts": [
+        "A smaller pinhole gives a sharper but dimmer image; a lens gives both brightness and sharpness",
+        "Photographers measure apertures in f-numbers; each full f-stop step halves or doubles the light",
+        "Grains in photographic film are microscopic crystals of silver halide such as silver bromide"
+      ],
+      "hook": "End with the remaining problem of the 1840s: paper was blurry and metal plates couldn't be copied. What if you used glass?"
+    },
+    {
+      "n": 7,
+      "title": "Glass Plates and a World on Camera",
+      "when": "1851 – 1880",
+      "covers": [
+        "Frederick Scott Archer's wet collodion process (1851), shared without a patent: glass plates coated, exposed and developed while still wet, with exposures of a few seconds",
+        "Cheaper relatives: ambrotypes and tintypes, and the craze for small cartes de visite (patented by André-Adolphe-Eugène Disdéri in 1854) traded and collected in albums",
+        "Traveling darkroom wagons and war photography: Roger Fenton in the Crimean War (1855) and Mathew Brady's team, including Alexander Gardner and Timothy O'Sullivan, in the American Civil War",
+        "The 1862 exhibition 'The Dead of Antietam' in New York, the first time many civilians saw photographs of a battlefield's dead (describe gently)",
+        "Nadar's portraits of famous Parisians and his balloon photographs (from 1858); the oldest surviving aerial photo of Boston by James Wallace Black (1860)",
+        "Art photography: Julia Margaret Cameron's soft, dramatic portraits, and stereoscope 3D viewers in many Victorian homes",
+        "Expeditions and landscapes, e.g. Carleton Watkins's Yosemite photos helping persuade the US to protect Yosemite in 1864"
+      ],
+      "keyFacts": [
+        "Wet collodion plates had to be coated, exposed and developed within roughly 10–15 minutes before drying",
+        "Because early plates were not sensitive to red or green well, skies often came out blank white and lips looked dark",
+        "Fenton could not photograph actual fighting because exposures were too slow and equipment too heavy"
+      ],
+      "hook": "Close with the dream nobody could yet reach: photographing something moving fast, like a galloping horse, without a blur."
+    },
+    {
+      "n": 8,
+      "title": "Freezing Motion",
+      "when": "1825 – 1888",
+      "covers": [
+        "Optical toys that tricked the eye into seeing movement: the thaumatrope (1825), Joseph Plateau's phenakistiscope (1832), the zoetrope (William Horner, 1834) and Émile Reynaud's praxinoscope (1877)",
+        "Gelatin dry plates (Richard Leach Maddox, 1871), sold ready-made by the late 1870s, fast enough for exposures of a fraction of a second",
+        "Eadweard Muybridge's 1878 photos at Leland Stanford's farm in Palo Alto using a row of 12 cameras triggered as the horse ran past",
+        "What the photos showed: all four hooves leave the ground, but tucked under the body, not stretched out as painters had shown",
+        "Muybridge's zoopraxiscope (1879), which projected moving pictures drawn from his photos, and his huge study Animal Locomotion (1887)",
+        "Étienne-Jules Marey's chronophotographic gun (1882) that took 12 pictures per second on one plate to study birds in flight"
+      ],
+      "keyFacts": [
+        "Muybridge's horse was named Sallie Gardner, photographed on 15 June 1878",
+        "Marey's work helped scientists study motion and influenced early filmmakers",
+        "Dry plates meant photographers no longer needed to carry a darkroom everywhere"
+      ],
+      "hook": "End with a young bank clerk in Rochester, New York, coating dry plates in his mother's kitchen at night and dreaming of making photography easy for everyone."
+    },
+    {
+      "n": 9,
+      "title": "You Press the Button: Eastman and Kodak",
+      "when": "1878 – 1910s",
+      "covers": [
+        "George Eastman's start making dry plates (company founded 1881) and his switch to flexible roll film",
+        "The first Kodak camera (1888): $25, pre-loaded with film for 100 round pictures, mailed back to the factory for developing and reloading; slogan 'You press the button, we do the rest'",
+        "Transparent celluloid roll film (1889) and the patent fight with clergyman Hannibal Goodwin, whose 1887 application led to a court win against Kodak and a settlement of about $5 million in 1914",
+        "The Brownie camera (1900) for $1, marketed to children, and the birth of the 'snapshot' and family photo album",
+        "How snapshots changed daily life: holidays, birthdays, ordinary people keeping their own memories",
+        "New worries: the 1890 article 'The Right to Privacy' by Samuel Warren and Louis Brandeis, partly prompted by instant photographs and newspapers"
+      ],
+      "keyFacts": [
+        "Eastman invented the word 'Kodak' himself; he liked that it started and ended with the strong letter K",
+        "Developing and reloading the first Kodak cost $10",
+        "Roll film became the base for motion picture film, too"
+      ],
+      "hook": "Finish by pointing out that a long strip of flexible film was exactly what inventors needed to capture not one moment but thousands in a row."
+    },
+    {
+      "n": 10,
+      "title": "The Race to Make Pictures Move",
+      "when": "1888 – 1896",
+      "covers": [
+        "Louis Le Prince's Roundhay Garden Scene (October 1888, Leeds), a couple of seconds long, and his unsolved disappearance from a train in 1890 (no conspiracy as fact)",
+        "Thomas Edison's lab and William Kennedy Laurie Dickson, who did much of the hands-on work: the Kinetograph camera and the Kinetoscope peephole viewer",
+        "35mm film with sprocket holes, developed by Dickson's team using Eastman film, still the basis of the film standard for over a century",
+        "The Black Maria studio (1893) and the first Kinetoscope parlor in New York (14 April 1894)",
+        "Max and Emil Skladanowsky's Bioscop show in Berlin (1 November 1895)",
+        "Auguste and Louis Lumière's Cinématographe, a camera, printer and projector in one, and their first public paid screening at the Grand Café in Paris on 28 December 1895",
+        "Edison catching up with projection: the Vitascope (designed by Thomas Armat and C. Francis Jenkins) shown in New York in April 1896"
+      ],
+      "keyFacts": [
+        "The Lumière program of 28 December 1895 had about ten short films, each under a minute",
+        "Kinetoscopes showed films to one viewer at a time; projectors let a whole audience watch together",
+        "Many inventors in several countries contributed; no single person invented the movies"
+      ],
+      "hook": "End by asking how a strip of still pictures can fool your brain into seeing smooth motion, setting up the science part."
+    },
+    {
+      "n": 11,
+      "title": "How Movies Trick Your Eyes",
+      "when": "The science (explained with 1890s–1920s examples)",
+      "covers": [
+        "Frames: a movie is a long row of still photographs; explain frames per second",
+        "Why we see motion: the brain fills in movement between quickly changing images (apparent motion, sometimes called the beta movement or phi phenomenon); explain that the old 'persistence of vision' explanation is too simple",
+        "Intermittent movement: the claw or Maltese cross (Geneva drive) mechanism that pulls film down one frame, holds it still, then pulls again",
+        "The rotating shutter that blocks light while the film moves and flashes each frame two or three times to reduce flicker",
+        "Frame rates: silent films ran at varying speeds (often around 16–20 frames per second, hand-cranked), and 24 frames per second became the standard with sound",
+        "Nitrate film: bright and clear but highly flammable, and why projection booths were made fireproof"
+      ],
+      "keyFacts": [
+        "At 24 frames per second, a 90-minute movie has about 129,600 frames",
+        "A two-blade shutter shows each frame twice, so the screen flashes 48 times a second",
+        "Silent films projected at the wrong speed look jerky or too fast, which is why old films sometimes seem comical"
+      ],
+      "hook": "End with early audiences who were amazed just to see a train or a wave, and a magician who realized movies could show things that never happened."
+    },
+    {
+      "n": 12,
+      "title": "Magic, Stories and the Silent Era",
+      "when": "1896 – 1927",
+      "covers": [
+        "Georges Méliès, a stage magician, inventing trick effects (the stop trick; label his 'jammed camera' story as a tale he told) and A Trip to the Moon (1902)",
+        "Alice Guy-Blaché, one of the first directors to tell fictional stories on film (La Fée aux Choux, around 1896) and later founder of Solax Studios in the US",
+        "Edwin S. Porter's The Great Train Robbery (1903) and new editing ideas; nickelodeons (first in Pittsburgh, 1905) costing a nickel",
+        "Filmmaking moving to Hollywood in the 1910s for sunshine and varied scenery; D. W. Griffith's influential techniques and the deeply racist The Birth of a Nation (1915), which caused protests",
+        "Stars like Charlie Chaplin, Buster Keaton and Mary Pickford; intertitles; and 'silent' films shown with live piano, organ or orchestra music",
+        "Lost films: nitrate fires and decay mean most American silent features no longer survive"
+      ],
+      "keyFacts": [
+        "A 2013 Library of Congress study found about 75% of American silent feature films are lost",
+        "A rare hand-colored print of A Trip to the Moon was restored and shown again in 2011",
+        "Nickelodeons spread to thousands of US theaters within a few years of 1905"
+      ],
+      "hook": "Close with audiences watching a black-and-white world and wishing to see the red of a rose and the blue of the sky."
+    },
+    {
+      "n": 13,
+      "title": "Painting with Light: Color",
+      "when": "1861 – 1950s",
+      "covers": [
+        "Additive color explained: mixing red, green and blue light; link to the three types of cone cells in our eyes",
+        "James Clerk Maxwell's 1861 demonstration of a tartan ribbon using three filtered photographs (taken by Thomas Sutton) projected together",
+        "Hand-painted and stencil-colored films, and the Lumière brothers' Autochrome plates (sold from 1907) made with dyed potato starch grains",
+        "Kinemacolor (1908, G. A. Smith and Charles Urban), the first successful commercial color motion-picture process, using two colors",
+        "Subtractive color explained: dyes of cyan, magenta and yellow absorbing parts of white light; Technicolor's three-strip camera with a prism splitting light onto three films (from 1932)",
+        "Disney's Flowers and Trees (1932), Becky Sharp (1935, first full-length three-strip Technicolor feature), and The Wizard of Oz (1939) switching from sepia to color",
+        "Kodachrome (1935), invented by musicians Leopold Mannes and Leopold Godowsky Jr., and Eastmancolor (1950) making color cheaper"
+      ],
+      "keyFacts": [
+        "Technicolor's three-strip camera was huge and needed lots of light, so sets were very hot",
+        "The last Kodachrome roll was processed at Dwayne's Photo in Parsons, Kansas, in December 2010",
+        "Color film did not fully replace black-and-white in Hollywood until the 1960s"
+      ],
+      "hook": "End by noting color was arriving at the same moment as an even bigger shock: the movies were about to start talking."
+    },
+    {
+      "n": 14,
+      "title": "The Talkies Arrive",
+      "when": "1890s – 1931",
+      "covers": [
+        "Early attempts to join pictures and sound, from Edison's lab to Lee de Forest's Phonofilm (1920s)",
+        "Sound-on-disc: Warner Bros.' Vitaphone with big records synchronized to the projector; Don Juan (1926) with music and sound effects",
+        "The Jazz Singer (6 October 1927): mostly silent with a few synchronized songs and spoken lines, including Al Jolson's 'You ain't heard nothin' yet!'; note honestly that Jolson performed in blackface, which is recognized today as racist",
+        "Sound-on-film explained: the optical soundtrack, a wavy strip beside the pictures that changes how much light reaches a photoelectric cell, turning light back into sound (Fox Movietone, RCA Photophone)",
+        "Lights of New York (1928), the first all-talking feature, and the rapid switch: by around 1930 most Hollywood films had sound",
+        "Problems of the change: noisy cameras locked in soundproof booths, hidden microphones, actors whose voices didn't suit, and musicians in theaters losing jobs; Chaplin resisting dialogue in City Lights (1931)"
+      ],
+      "keyFacts": [
+        "Sound made 24 frames per second the fixed standard because sound must play at a steady speed",
+        "The first Academy Awards ceremony was held in May 1929",
+        "Vitaphone records played at 33 1/3 rpm, a speed later used for LP records"
+      ],
+      "hook": "End with a small studio in Los Angeles that saw sound not just for actors, but for drawings, and a cheerful mouse about to whistle."
+    },
+    {
+      "n": 15,
+      "title": "Drawings That Move: Animation",
+      "when": "1892 – 1940",
+      "covers": [
+        "Émile Reynaud's Théâtre Optique (1892) projecting hand-painted moving pictures in Paris",
+        "Early cartoons: J. Stuart Blackton (1906), Émile Cohl's Fantasmagorie (1908), Winsor McCay's Gertie the Dinosaur (1914)",
+        "Cel animation explained: characters drawn on clear celluloid sheets over painted backgrounds (Earl Hurd patent, 1914), and drawing 12 or 24 pictures per second",
+        "Steamboat Willie (18 November 1928), created by Walt Disney and Ub Iwerks, famous for synchronized sound (not the first sound cartoon and not the first Mickey film made)",
+        "Lotte Reiniger's silhouette film The Adventures of Prince Achmed (1926), the oldest surviving animated feature, and Snow White and the Seven Dwarfs (1937), the first full-length cel-animated feature in color with sound in the US",
+        "Stop-motion: moving models one frame at a time, as in Willis O'Brien's King Kong (1933); and Disney's multiplane camera for depth"
+      ],
+      "keyFacts": [
+        "Fantasmagorie used about 700 drawings for roughly two minutes",
+        "Quirino Cristiani's El Apóstol (Argentina, 1917) was an earlier animated feature, but no copy survives",
+        "Snow White premiered on 21 December 1937"
+      ],
+      "hook": "Close by turning from the cinema back to ordinary people, who in the 20th century were about to carry cameras everywhere."
+    },
+    {
+      "n": 16,
+      "title": "Cameras for Everyone, Everywhere",
+      "when": "1913 – 1990s",
+      "covers": [
+        "Oskar Barnack's small Leica camera (sold from 1925) using 35mm movie film, making cameras pocket-sized and candid",
+        "Flash: dangerous magnesium flash powder (from the 1880s), safer flashbulbs (around 1930), and Harold Edgerton's electronic strobe photos at MIT freezing milk drops and bullets",
+        "Photojournalism: Life magazine (1936) and Dorothea Lange's Migrant Mother (1936); Jacob Riis and Lewis Hine using photos to fight slum conditions and child labor",
+        "Edwin Land's instant Polaroid camera (first sold in 1948), inspired by his 3-year-old daughter Jennifer asking why she couldn't see a picture right away",
+        "Home movies: 16mm (1923), 8mm (1932) and Super 8 (1965), plus easy cartridge cameras like the Kodak Instamatic (1963)",
+        "Photos from space: Earthrise taken by astronaut Bill Anders on Apollo 8 (24 December 1968) and The Blue Marble (1972)"
+      ],
+      "keyFacts": [
+        "The first Polaroid camera, the Model 95, went on sale in Boston in November 1948",
+        "Lewis Hine photographed working children for the National Child Labor Committee from about 1908, helping support child labor laws",
+        "Earthrise is often credited with inspiring the environmental movement, including the first Earth Day in 1970"
+      ],
+      "hook": "End with a warning: as photos became everywhere and trusted, people also discovered how easily a photo could fool you."
+    },
+    {
+      "n": 17,
+      "title": "Truth, Tricks and Trouble",
+      "when": "1840 – today",
+      "covers": [
+        "Faked photos: William Mumler's 'spirit photographs' (1860s), the Cottingley Fairies (1917), made by two girls and admitted as faked in 1983, which fooled Arthur Conan Doyle",
+        "Political editing: officials removed from photos in Stalin's Soviet Union (for example Nikolai Yezhov), and propaganda films",
+        "Privacy and permission: paparazzi, surveillance cameras, and who owns a picture of you",
+        "Danger and waste: nitrate film fires such as the 1929 Glen Cinema disaster in Paisley, Scotland (71 children died in a panic caused by smoke), and chemical pollution from film factories and labs",
+        "Bias built into technology: color film long calibrated using light-skinned 'Shirley card' models, so darker skin was often shown poorly until improvements from the 1970s onward",
+        "Censorship and stereotypes in movies, such as the Hollywood Production Code (strictly enforced from 1934) and racist portrayals, and how this has been challenged",
+        "Photos as a force for good: evidence of injustice, science, and memory"
+      ],
+      "keyFacts": [
+        "The Cottingley cousins were Elsie Wright and Frances Griffiths",
+        "The Production Code was replaced by the movie rating system in 1968",
+        "Photo manipulation existed long before computers; it was done with scissors, paint and double exposures"
+      ],
+      "hook": "Close by noting that, meanwhile, the movie theater faced a new rival: a box in the living room."
+    },
+    {
+      "n": 18,
+      "title": "Screens at Home and Spectacles in Theaters",
+      "when": "1950 – 2000",
+      "covers": [
+        "Television pulling audiences from cinemas, and theaters fighting back with widescreen (Cinerama 1952, CinemaScope with The Robe in 1953) and 1950s 3D movies",
+        "Videotape: Ampex's recorder (1956) for TV, then home VHS and Betamax (mid-1970s) and the first consumer camcorders (1980s)",
+        "IMAX: first shown at Expo '70 in Osaka, Japan, using huge 70mm film frames running sideways",
+        "Special effects: Star Wars (1977) and Industrial Light & Magic's computer-controlled motion-control camera",
+        "Computer graphics in films: Tron (1982), the first fully computer-generated character in Young Sherlock Holmes (1985), dinosaurs in Jurassic Park (1993)",
+        "Toy Story (1995) by Pixar, the first fully computer-animated feature film"
+      ],
+      "keyFacts": [
+        "Sony's Betamax launched in 1975 and JVC's VHS in 1976; VHS eventually won the format war",
+        "Toy Story was released in November 1995",
+        "An IMAX film frame is about ten times larger than a standard 35mm frame"
+      ],
+      "hook": "End by hinting that while Hollywood used computers for effects, a Kodak engineer had already built a camera with no film at all."
+    },
+    {
+      "n": 19,
+      "title": "Pictures Made of Numbers",
+      "when": "1957 – 2012",
+      "covers": [
+        "Russell Kirsch's 1957 scan of a photo of his baby son Walden, one of the first digital images (176 x 176 pixels)",
+        "The CCD image sensor invented at Bell Labs in 1969 by Willard Boyle and George E. Smith (Nobel Prize in Physics 2009), and later CMOS sensors developed by Eric Fossum's team at NASA's Jet Propulsion Laboratory in the 1990s",
+        "How a sensor works: millions of pixels turn light into electric charge, counted as numbers; Bryce Bayer's color filter pattern (Kodak, 1976) with twice as many green filters because our eyes are most sensitive to green",
+        "Steven Sasson's prototype at Kodak (1975): about 3.6 kg, 0.01 megapixels, 23 seconds to record one black-and-white image to a cassette tape",
+        "From analog still video (Sony Mavica, announced 1981) to the first consumer digital cameras (Dycam Model 1 / Logitech Fotoman, 1990), the Kodak DCS 100 for professionals (1991) and the JPEG standard (1992)",
+        "Digital cinema: Star Wars: Episode II (2002) shot on digital video, and theaters mostly switching to digital projectors by the early 2010s",
+        "Kodak's struggle and bankruptcy filing in January 2012, and why the story is more complicated than 'they ignored digital'"
+      ],
+      "keyFacts": [
+        "1 megapixel = 1 million pixels; Sasson's camera had 10,000",
+        "Digital photos can be copied endlessly with no loss, unlike film",
+        "Kodak sold many digital cameras in the 2000s but profits from film disappeared fast"
+      ],
+      "hook": "Finish with a phone ringing in 2000 in Japan, a phone that could also take a picture."
+    },
+    {
+      "n": 20,
+      "title": "Every Pocket a Studio, and Tomorrow's Pictures",
+      "when": "1997 – today and the future",
+      "covers": [
+        "Camera phones: Philippe Kahn sharing a photo of his newborn daughter from his phone (1997), the Sharp J-SH04 in Japan (2000), and the iPhone (2007) with a 2-megapixel camera",
+        "Sharing: YouTube's first video 'Me at the zoo' (23 April 2005), Instagram (2010), selfies, and video making everyone a filmmaker; the film Tangerine (2015) shot on iPhones",
+        "Computational photography: phones combining many quick shots for night mode, HDR and portrait blur",
+        "Pictures beyond human eyes: Hubble (1990), the first image of a black hole (Event Horizon Telescope, 2019) and the James Webb Space Telescope's first images (2022)",
+        "The future, labeled as possibilities: AI-generated images and video, deepfakes, 'content credentials' that record where a photo came from, LED-wall virtual sets, VR and 3D capture; some directors and artists still choose real film",
+        "Tie everything together: from the pinhole to the pixel, the same idea of catching light, plus a final thought about using photos honestly and kindly"
+      ],
+      "keyFacts": [
+        "Researchers estimate more than a trillion photos are now taken each year, most on phones",
+        "The Event Horizon Telescope image of the black hole M87* was released on 10 April 2019",
+        "Every phone camera still uses a lens, an aperture and a light-sensitive surface, ideas that go back to the camera obscura"
+      ],
+      "hook": "End the whole Deep Dive by inviting the reader to go take a picture and remember they're holding 2,000 years of invention."
+    }
+  ],
+  "people": [
+    "Mozi (about 470 – about 391 BCE) — Chinese philosopher whose followers' writings describe the pinhole image",
+    "Ibn al-Haytham / Alhazen (about 965 – about 1040) — Arab scientist whose Book of Optics studied light with dark rooms",
+    "Giambattista della Porta (about 1535 – 1615) — Italian scholar who popularized the camera obscura in Natural Magic (1558)",
+    "Johann Heinrich Schulze (1687 – 1744) — German professor who showed light darkens silver salts",
+    "Thomas Wedgwood (1771 – 1805) — English experimenter who made unfixable silver images with Humphry Davy",
+    "Humphry Davy (1778 – 1829) — English chemist who co-published the 1802 paper with Wedgwood",
+    "Joseph Nicéphore Niépce (1765 – 1833) — French inventor who made the oldest surviving camera photograph",
+    "Louis Daguerre (1787 – 1851) — French artist and showman who created the daguerreotype",
+    "François Arago (1786 – 1853) — French scientist and politician who announced the daguerreotype in 1839",
+    "William Henry Fox Talbot (1800 – 1877) — English scientist who invented the negative-positive calotype process",
+    "John Herschel (1792 – 1871) — English astronomer who introduced hypo fixer and popularized photo terms",
+    "Hippolyte Bayard (1801 – 1887) — French photographer who invented a direct positive process and felt overlooked",
+    "Hercules Florence (1804 – 1879) — French-Brazilian inventor who experimented with photography in Brazil in the 1830s",
+    "Anna Atkins (1799 – 1871) — English botanist who made a book of cyanotype algae photographs",
+    "Robert Cornelius (1809 – 1893) — American who made one of the earliest photographic self-portraits",
+    "Frederick Scott Archer (1813 – 1857) — English sculptor who invented the wet collodion process",
+    "Roger Fenton (1819 – 1869) — British photographer of the Crimean War",
+    "Mathew Brady (about 1822 – 1896) — American portrait photographer whose teams photographed the Civil War",
+    "Alexander Gardner (1821 – 1882) — Scottish-American Civil War photographer",
+    "Nadar (Gaspard-Félix Tournachon, 1820 – 1910) — French portrait photographer and balloon photography pioneer",
+    "Julia Margaret Cameron (1815 – 1879) — British portrait photographer and artist",
+    "James Clerk Maxwell (1831 – 1879) — Scottish physicist who demonstrated three-color photography in 1861",
+    "Richard Leach Maddox (1816 – 1902) — English doctor who proposed the gelatin dry plate",
+    "Eadweard Muybridge (1830 – 1904) — English-American photographer of motion sequences",
+    "Leland Stanford (1824 – 1893) — American businessman who funded Muybridge's horse photographs",
+    "Étienne-Jules Marey (1830 – 1904) — French scientist who invented chronophotography",
+    "Joseph Plateau (1801 – 1883) — Belgian physicist who invented the phenakistiscope",
+    "Émile Reynaud (1844 – 1918) — French inventor of the praxinoscope and Théâtre Optique",
+    "George Eastman (1854 – 1932) — American founder of Kodak who made photography easy and cheap",
+    "Hannibal Goodwin (1822 – 1900) — American clergyman who patented celluloid photographic film",
+    "Louis Le Prince (1841 – disappeared 1890) — French inventor who filmed moving pictures in Leeds in 1888",
+    "Thomas Edison (1847 – 1931) — American inventor whose lab produced the Kinetograph and Kinetoscope",
+    "William Kennedy Laurie Dickson (1860 – 1935) — Edison's engineer who did much of the early film camera work",
+    "Max Skladanowsky (1863 – 1939) — German pioneer who, with brother Emil, projected films in Berlin in 1895",
+    "Auguste Lumière (1862 – 1954) and Louis Lumière (1864 – 1948) — French brothers behind the Cinématographe and Autochrome",
+    "Georges Méliès (1861 – 1938) — French magician and filmmaker famous for special effects",
+    "Alice Guy-Blaché (1873 – 1968) — French pioneering director and studio founder",
+    "Edwin S. Porter (1870 – 1941) — American director of The Great Train Robbery",
+    "D. W. Griffith (1875 – 1948) — American director whose techniques were influential but whose The Birth of a Nation was racist",
+    "Charlie Chaplin (1889 – 1977) — British comedian, actor and director of silent films",
+    "Buster Keaton (1895 – 1966) — American silent comedy star and director",
+    "Herbert Kalmus (1881 – 1963) — co-founder and leader of Technicolor",
+    "Leopold Mannes (1899 – 1964) and Leopold Godowsky Jr. (1900 – 1983) — musicians who co-invented Kodachrome",
+    "Lee de Forest (1873 – 1961) — American inventor who worked on sound-on-film (Phonofilm)",
+    "Al Jolson (1886 – 1950) — singer and star of The Jazz Singer",
+    "Émile Cohl (1857 – 1938) — French animator of Fantasmagorie",
+    "Winsor McCay (about 1867 – 1934) — American cartoonist who made Gertie the Dinosaur",
+    "Walt Disney (1901 – 1966) — American animation producer and studio founder",
+    "Ub Iwerks (1901 – 1971) — American animator who co-created Mickey Mouse",
+    "Lotte Reiniger (1899 – 1981) — German silhouette animator of The Adventures of Prince Achmed",
+    "Willis O'Brien (1886 – 1962) — American stop-motion pioneer behind King Kong",
+    "Oskar Barnack (1879 – 1936) — German engineer who designed the Leica",
+    "Harold Edgerton (1903 – 1990) — MIT engineer who pioneered high-speed strobe photography",
+    "Dorothea Lange (1895 – 1965) — American documentary photographer",
+    "Jacob Riis (1849 – 1914) — Danish-American journalist who photographed New York slums",
+    "Lewis Hine (1874 – 1940) — American photographer who documented child labor",
+    "Edwin Land (1909 – 1991) — American scientist who invented Polaroid instant photography",
+    "Bill Anders (1933 – 2024) — Apollo 8 astronaut who took Earthrise",
+    "Russell Kirsch (1929 – 2020) — American computer scientist who made one of the first digital images",
+    "Willard Boyle (1924 – 2011) and George E. Smith (born 1930) — Bell Labs scientists who invented the CCD",
+    "Bryce Bayer (1929 – 2012) — Kodak scientist who invented the Bayer color filter pattern",
+    "Steven Sasson (born 1950) — Kodak engineer who built an early digital camera prototype in 1975",
+    "Eric Fossum (born 1957) — engineer who led development of the CMOS active pixel image sensor",
+    "Philippe Kahn (born 1952) — inventor who shared one of the first instant phone photos in 1997"
+  ],
+  "glossary": [
+    "camera obscura — a dark room or box where light through a small hole projects an upside-down image",
+    "lens — a curved piece of glass that bends light to make a sharp, bright image",
+    "aperture — the opening that controls how much light enters a camera",
+    "shutter — the part that opens and closes to let light in for a set time",
+    "exposure — the total amount of light that reaches the film or sensor",
+    "silver halide — light-sensitive crystals of silver combined with chlorine, bromine or iodine, used in film",
+    "latent image — an invisible picture formed by light that appears only after developing",
+    "developer — a chemical that turns the latent image into a visible one",
+    "fixer (hypo) — a chemical that removes unused light-sensitive silver so the picture stops changing",
+    "negative — an image with light and dark reversed, used to print many positive copies",
+    "daguerreotype — a one-of-a-kind photograph on a polished silver-coated copper plate",
+    "calotype — Talbot's paper negative process that allowed many prints",
+    "wet collodion — a process using glass plates coated with sticky collodion that had to stay wet",
+    "frames per second (fps) — how many still pictures (frames) are shown each second",
+    "sprocket holes — the small holes along film edges that let gears move it precisely",
+    "optical soundtrack — a strip beside movie frames that stores sound as patterns of light",
+    "additive color — making colors by mixing red, green and blue light",
+    "subtractive color — making colors with cyan, magenta and yellow dyes that absorb parts of white light",
+    "pixel — one tiny square of a digital picture that records a single color and brightness",
+    "image sensor (CCD/CMOS) — the chip in a digital camera that turns light into electrical signals"
+  ],
+  "doNotSay": [
+    "Do not say Daguerre invented the first photograph; Niépce's Le Gras image (around 1826–1827) is older",
+    "Do not say one person 'invented photography' or 'invented the movies'; many people in several countries contributed",
+    "Do not say Leonardo da Vinci invented the camera obscura; it was known for many centuries before him",
+    "Do not give the Le Gras exposure as exactly 8 hours; say 'hours, possibly days'",
+    "Do not say people in old photos never smiled only because exposures were long; customs and portrait traditions also mattered, and by the 1840s exposures were often under a minute",
+    "Do not say Edison single-handedly invented motion pictures; Dickson did much of the work and others worked in parallel",
+    "Do not state as fact that audiences ran screaming from the Lumière train film; it is a popular legend with little evidence",
+    "Do not state as fact that Leland Stanford made a $25,000 bet about the horse; that story is a legend",
+    "Do not state as fact that Edison or anyone else murdered Louis Le Prince; his disappearance is unsolved",
+    "Do not say movies work only because of 'persistence of vision'; the brain's perception of apparent motion is the better explanation",
+    "Do not say The Jazz Singer was the first sound film or was fully talking; it was mostly silent with some synchronized sequences",
+    "Do not say Steamboat Willie was the first sound cartoon or the first Mickey Mouse cartoon made",
+    "Do not say Snow White was the first animated feature ever; earlier ones existed, e.g. El Apóstol (1917, lost) and Prince Achmed (1926)",
+    "Do not say The Wizard of Oz was the first color film",
+    "Do not say silent films were watched in silence; they usually had live music",
+    "Do not say Kodak invented digital photography and simply hid it; the real story of Kodak's decline is more complicated",
+    "Do not say the name 'Kodak' has a hidden meaning or comes from a camera sound; Eastman made it up",
+    "Do not say photographs always show the truth; photos have been staged and edited since the 1800s",
+    "Do not say Vermeer definitely used a camera obscura; historians still debate it",
+    "Do not present future technologies as certain; label them as possibilities"
+  ]
+}

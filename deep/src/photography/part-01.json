@@ -1,0 +1,149 @@
+{
+  "n": 1,
+  "title": "Light Through a Tiny Hole",
+  "when": "about 400s BCE – 1600s",
+  "summary": "Long before anyone had a camera, people noticed something magical: if you make a room completely dark and poke a tiny hole in one wall, a picture of the outside world appears on the opposite wall, upside down! For over 2,000 years, thinkers in China, Greece, the Middle East and Europe played with this trick. There was just one problem: nobody could keep the picture.",
+  "sections": [
+    {
+      "heading": "A Room That Paints Itself",
+      "paragraphs": [
+        "Imagine it is a bright summer afternoon. You walk into a bedroom, pull thick curtains over the window, stuff towels into every crack and close the door. For a minute you see nothing at all. Then someone pokes a hole, about the size of a pencil, through a piece of cardboard taped over the window. As your eyes adjust, something wonderful happens. On the wall opposite the hole, a faint, glowing picture appears: the trees outside, the blue sky, a car driving down the street. Everything is in full color and everything is moving. But the sky is at the bottom, the trees hang down like icicles, and the car drives the wrong way.",
+        "You have just built a camera obscura. The name is Latin and simply means \"dark room\". It is the oldest ancestor of every camera that has ever existed, from the wooden boxes of the 1800s to the tiny lens in a smartphone. In fact, the word \"camera\" itself comes from it. When people later shortened \"camera obscura\" to just \"camera\", they were really saying \"room\".",
+        "Why does this happen? The secret is one simple rule: light travels in straight lines. Every point on a sunlit tree outside is bouncing light in all directions. Most of that light hits the wall of your house and never gets in. But a tiny bundle of rays from each point slips through the hole and keeps going in a perfectly straight line until it hits the opposite wall.",
+        "Now think about the very top of the tree. Light from up there has to travel downward at a slant to get through the hole, so it keeps going downward and lands low on the wall. Light from the bottom of the trunk travels upward through the hole and lands high on the wall. The rays cross over each other right at the hole, like an X. That is why the picture is upside down. The same crossing happens from side to side, so the left side of the scene ends up on the right side of the wall. The image is flipped both top-to-bottom and left-to-right, which is the same as turning it halfway round, like spinning a photo on a table by 180 degrees.",
+        "The size of the hole matters a lot. A big hole lets in light from each point of the scene through a wide gap, so every point becomes a blurry blob that overlaps its neighbors. The picture is bright but fuzzy. A tiny hole lets in only a thin pencil of light from each point, so the picture is sharp but very dim. Make the hole far too small and a new problem appears: light waves start to spread out as they squeeze through, a wave effect called diffraction, and the picture gets blurry again. Builders of pinhole cameras today use rules of thumb, such as keeping the hole no wider than about one hundredth of the distance to the screen, to find a happy middle.",
+        "The distance matters too. Move the screen closer to the hole and the picture shrinks and grows brighter. Move it farther away and the picture grows bigger but dimmer, because the same amount of light is being spread over a larger area. These trade-offs between brightness, sharpness and size would puzzle and fascinate people for more than two thousand years. They still matter to every photographer today."
+      ]
+    },
+    {
+      "heading": "Clues from Ancient China and Greece",
+      "paragraphs": [
+        "Nobody knows who first noticed a pinhole picture. It probably happened many times, all over the world, by accident. Sunlight slipping through a gap in a tent, a crack in a shutter or a hole in a roof would have painted a dim, upside-down scene on a dark wall. The earliest written descriptions we have come from two very different places at about the same time: China and Greece, roughly 2,400 years ago.",
+        "In China, a philosopher named Mozi lived from about 470 to about 391 BCE. He taught that people should care for everyone equally, avoid wasteful luxury and oppose wars of conquest. His followers, the Mohists, were also skilled craftsmen and engineers. They were famous experts at defending cities against sieges, and they were curious about geometry, mechanics and light. The collection of writings linked to Mozi and his school, put together over many years, contains short, puzzle-like statements about how light behaves.",
+        "One of these passages describes an image formed when light passes through a small opening into a dark place. The writer explains that the picture is upside down, and gives a clever reason. Light coming from a person's feet travels upward and passes the hole low, so it ends up forming the top of the image, while light from the head ends up at the bottom. In other words, the Mohist writer understood that the rays cross at the opening. The text calls the place where the image forms by a word that has been translated as a \"collecting point\" or \"treasure house\". Scholars still argue about exactly what that word meant, and one later Chinese scholar suggested it might be an old copying mistake for \"screen\".",
+        "Around the same time, in ancient Greece, the great thinker Aristotle (384 to 322 BCE) and his students were collecting questions about nature in a work known as the Problems. Not all of it was written by Aristotle himself, so historians often say \"Aristotle or his followers\". One puzzle in it asks something you can test yourself: why does sunlight shining through a square hole, or through the gaps in woven wicker, make a round spot of light on the ground instead of a square one? And why, during an eclipse of the Sun, do those spots turn into little crescents, like bites taken out of a cookie?",
+        "You may have seen this yourself. During a partial solar eclipse, the shade under a leafy tree fills with hundreds of tiny glowing crescents. Each gap between the leaves acts like a pinhole and projects its own little picture of the Sun. When the Moon covers part of the Sun, every one of those pictures becomes a crescent. Today, space agencies such as NASA suggest a safe way to see this: hold a kitchen colander or a card with a pinhole in it, stand with your back to the Sun, and look at the shadow on the ground. Never look at the Sun itself, through a pinhole or any other way, without proper eclipse protection.",
+        "The Greek writer did not fully solve the puzzle. He talked about cones of light and suggested that the corners of the square hole were too weak to show. But the important thing is that he noticed it, wrote it down and asked why. That habit of asking why is where science begins."
+      ]
+    },
+    {
+      "heading": "Ibn al-Haytham and the Candles in the Dark",
+      "paragraphs": [
+        "The person who did more than anyone else in the ancient and medieval world to explain the camera obscura was born in about 965 CE in Basra, a busy trading city in what is now Iraq. His full name was Abu Ali al-Hasan ibn al-Haytham. Later European scholars, who found his name hard to pronounce, called him Alhazen.",
+        "Ibn al-Haytham lived during what is often called the Islamic Golden Age, when scholars in cities like Baghdad, Basra and Cairo translated, studied and improved on Greek, Persian and Indian learning. He became known as a gifted mathematician. Later he moved to Cairo, the capital of the Fatimid caliphs in Egypt. Old stories say that he boasted he could control the floods of the Nile, then realized the plan was impossible and was afraid of the powerful and unpredictable caliph al-Hakim. A famous tale claims he pretended to be mad to escape punishment and was kept shut up in his house until the caliph died in 1021. Historians treat this as a legend, but it is true that he spent many years in Cairo writing, and he lived there until his death around 1040.",
+        "His greatest work was the Book of Optics, in Arabic Kitab al-Manazir, a huge study in seven volumes written roughly between 1011 and 1021. Before him, many thinkers believed that our eyes send out invisible rays that touch the things we look at, a bit like feeling objects with a long, invisible finger. Ibn al-Haytham argued the opposite: light comes from objects into the eye. That is how we actually see, and modern science agrees with him.",
+        "What made his work special was the way he tested ideas. He did not just argue. He set up experiments, and the dark room was one of his favorite tools. In one famous experiment, he placed several candles in different spots outside a small opening that led into a darkened space with a pale wall. Inside, each candle made its own separate spot of light on the wall. Each spot sat exactly opposite its candle, in a straight line through the opening. When he covered one candle, only its matching spot vanished. The others stayed. This showed two important things: light travels in straight lines, and the light from different sources passes through the same small hole without getting mixed up.",
+        "Ibn al-Haytham also used a dark chamber to study the Sun during a partial eclipse, watching its crescent shape projected through a small hole. In a separate treatise, On the Shape of the Eclipse, he worked out mathematically how the size and shape of the opening change the image. Some historians call this the first truly experimental study of the camera obscura.",
+        "His Book of Optics was translated into Latin, probably in the late 1100s or early 1200s, with the title De aspectibus. In 1572 a printed edition appeared in Europe. It became one of the most important science books in the medieval and Renaissance world. Scholars such as Roger Bacon in England, and centuries later Johannes Kepler, built on his ideas. Some writers call Ibn al-Haytham the father of modern optics. Other historians warn that he should not be seen as a lone genius, since he built on earlier Greek and Arabic scholars. Both points are fair: he stood on the shoulders of others, but he climbed a long way higher.",
+        "Meanwhile, in China, the idea had not been forgotten. In 1088 the scientist and statesman Shen Kuo wrote about the pinhole image in his Dream Pool Essays. He compared the way the image flips to an oar moving in a rowlock: when the handle goes up, the blade goes down, because the oar pivots on a fixed point. The hole works like that pivot. It is a lovely comparison, and it shows that people on opposite sides of the world kept rediscovering the same simple truth about light."
+      ]
+    },
+    {
+      "heading": "Renaissance Notebooks and Better Holes",
+      "paragraphs": [
+        "Jump forward to Italy around the year 1500. Cities like Florence, Milan and Venice were bursting with artists, engineers and scholars, all hungry to understand how the world really looked. Painters were learning the rules of perspective, the geometry that makes a flat picture seem to have depth. To them, a device that drew the world in perfect perspective all by itself was very exciting.",
+        "Leonardo da Vinci, the painter of the Mona Lisa and a tireless note-taker, filled his notebooks with thoughts about the camera obscura. In pages from around 1502, now part of a giant collection called the Codex Atlanticus, he gave a very clear description: when sunlit buildings or people are seen through a small round hole into a very dark room, their images appear on a white paper or wall inside, smaller and upside down. He drew around 270 diagrams about it. Leonardo also compared the dark room to the human eye, which was a brilliant insight, even though he got one detail wrong. He thought something inside the eye must flip the image back the right way up. In fact, the picture on the back of your eye really is upside down, and your brain sorts it out.",
+        "It is important not to say Leonardo invented the camera obscura. As you have seen, it had been known for many centuries before him. And his notes stayed private. They were not published until 1797, almost 300 years after he wrote them, so they did not spread the idea in his own time.",
+        "Others did spread it. In 1545 a Dutch scholar named Gemma Frisius published a book that includes the oldest known printed picture of a camera obscura. The woodcut shows a room with a hole in one wall and the crescent Sun projected on the far wall, because Frisius had used the device to watch a solar eclipse on 24 January 1544. Astronomers loved the dark room for exactly this reason. Looking straight at the Sun can badly damage your eyes, but looking at its projected image on a wall is safe.",
+        "Next came an upgrade that changed everything: the lens. A convex lens is a piece of glass that bulges outward in the middle, like a magnifying glass. When light passes through it, the glass bends the rays inward so that light from each point of the scene comes back together at a single point. That means you can use a big opening, which lets in plenty of light, and still get a sharp image, as long as the screen is at the right distance. In 1550 the Italian doctor, mathematician and gambler Gerolamo Cardano described putting a glass disc, probably a convex lens, into the hole of a camera obscura. Suddenly the picture was much brighter.",
+        "A few years later the Venetian nobleman Daniele Barbaro, in a book on perspective published in the late 1560s (often dated 1568), described a camera obscura with a lens and gave a smart tip. If you cover part of the lens to make the opening smaller, the picture becomes sharper. Barbaro had discovered something every photographer still uses: the aperture, an adjustable opening that controls how much light gets in and how sharp the picture looks. Barbaro also recommended the device to artists, explaining that they could trace the outlines of buildings and get the perspective perfectly right. With a lens and a smaller opening, the camera obscura had quietly gained two of the three main parts of a modern camera. The third part, something to record the picture, was still missing."
+      ]
+    },
+    {
+      "heading": "Della Porta's Book of Wonders",
+      "paragraphs": [
+        "If the camera obscura had a publicity agent in the 1500s, it was Giambattista della Porta. Born around 1535 near Naples into a noble family, della Porta grew up in a household so full of learning that it was said to be like an academy. He wrote plays, studied plants, codes, mathematics and magnets, and was endlessly curious about what he called the secrets of nature.",
+        "In 1558, when he was only in his early twenties, he published Magia Naturalis, which means Natural Magic. It was a bit like a giant book of science tricks and experiments mixed with old beliefs about alchemy and astrology. The book was hugely popular and was translated into several languages. In 1589 he released a much bigger version, expanded to twenty books. In it, he described the camera obscura in detail and explained how adding a convex lens made the image clearer, and how it could help someone who could not draw well to trace a scene.",
+        "Della Porta did not invent the camera obscura either, but his book made it famous across Europe. He also thought of using it as a show. In the 1589 edition he described entertainments in which guests sat in a darkened room while, outside in the sunshine, actors performed on a little stage. Through the lens, the guests saw hunting scenes, banquets, battles and plays glowing on a white sheet, complete with tiny trees, animals and people. He wrote that his friends could hardly believe it was an optical trick. In a way, this was a kind of live cinema, more than 300 years before real movies.",
+        "Della Porta's interest in strange and secret things sometimes got him into trouble. He founded a group of curious thinkers that studied nature, but it was shut down after its members were suspected of dabbling in magic, and he was questioned by the Inquisition, the Church court of the time. His books were banned for several years in the 1590s. Still, he remained respected, and in 1610 he joined the Accademia dei Lincei, the Academy of the Lynxes, one of the first scientific societies in the world, which the astronomer Galileo also joined."
+      ]
+    },
+    {
+      "heading": "Kepler, Tents and Boxes",
+      "paragraphs": [
+        "The name \"camera obscura\" was first used in print by the German astronomer Johannes Kepler. In 1604 he published a book on optics, written as an add-on to the work of the medieval optics writer Witelo, and in it he used the term camera obscura. Kepler wanted to understand exactly how pinhole images form because astronomers used them to measure the Sun and Moon during eclipses, and the measurements did not always make sense. In July 1600, in the Austrian town of Graz, he had set up a pinhole device to observe a partial eclipse of the Sun. To work out the geometry, he even modeled the light rays with threads stretched from a book through an opening, tracing the paths one by one.",
+        "Kepler also explained how the eye works, building on Ibn al-Haytham's ideas. He showed that the lens of the eye focuses an upside-down image onto the retina at the back. In other words, your eye is a tiny camera obscura with a lens. In 1607 he spotted a dark speck on the projected Sun and thought it was the planet Mercury passing in front. It was almost certainly a sunspot. By about 1620 he was carrying a portable tent camera obscura with a lens, turning around inside it to draw the countryside.",
+        "Tents were just the beginning. Inventors realized you did not need a whole room, only a dark box. In 1676 the German mathematician Johann Christoph Sturm described a portable box with a mirror tilted at 45 degrees inside. The mirror bounced the image upward onto a sheet of oiled paper on top of the box, so the artist could see it the right way up and trace it. In 1685 a German churchman and scholar named Johann Zahn published a book describing several small box cameras, including handheld designs with a lens at the front and a mirror inside. Looked at today, Zahn's box designs look astonishingly like the wooden cameras of the 1800s. In 1694 the English scientist Robert Hooke showed the Royal Society a cone-shaped version that fitted over the user's head and shoulders.",
+        "By the 1700s, portable camera obscuras were sold as drawing aids to artists, architects and wealthy travelers. English painters such as Paul Sandby and Joshua Reynolds are known to have used them. Some boxes folded up like books. Others were built into sedan chairs or small huts in gardens and parks.",
+        "Did great painters secretly use the camera obscura to make their pictures so lifelike? This is one of art history's longest arguments. The Dutch painter Johannes Vermeer, who painted Girl with a Pearl Earring in the 1660s, is the most famous example. Some researchers think the soft glowing highlights and the exact perspective in his paintings show he used one. Others strongly disagree, and there is no written record proving it. Historians still debate it, so it is fairest to say he might have, not that he definitely did."
+      ]
+    },
+    {
+      "heading": "The Picture That Would Not Stay",
+      "paragraphs": [
+        "By the 1600s and 1700s, the camera obscura was everywhere: in astronomers' observatories, in artists' studios, in scholars' cabinets of curiosities and in the gardens of the rich. People understood its optics very well. They knew light travels in straight lines. They had lenses to brighten the image, small openings to sharpen it and mirrors to flip it the right way up. It could show colors, movement and perfect perspective far better than any human hand.",
+        "And yet every picture it made was a ghost. The moment a cloud covered the Sun, the image dimmed. When evening came, it faded to nothing. If the artist stepped away from the box, the scene on the paper did not wait. The picture was made of light alone, and light does not stay still. The only way to keep it was to trace it by hand with a pencil or pen, which took skill, patience and many hours, and which could never capture every leaf and brick and ripple.",
+        "Think about how strange that is. For more than 2,000 years, since the Mohist writers and Aristotle's followers, people had known how to make a perfect, living picture of the world appear on a wall. Generations of scientists studied it, artists traced it and showmen used it to amaze audiences. But not a single one of those images survived. Everything people saw in a camera obscura before the 1800s is gone forever.",
+        "The missing piece was not optical. It was chemical. Somebody needed to find a material that would change when light fell on it, so that bright parts of the picture became one shade and dark parts another, and then stop changing so the picture would last. Nobody in Leonardo's, della Porta's or Kepler's time even knew that such materials existed.",
+        "So imagine an artist in the 1700s, bent over a wooden camera obscura in a sunny garden, carefully tracing the outline of a church tower while the trees around it shimmer in the breeze on the glass. Her pencil can never keep up with the light. She must have wondered, just as you might now: what if the picture could draw itself, and stay?"
+      ]
+    }
+  ],
+  "deepDive": "Why does a pinhole image get blurrier when the hole is made too small? Two effects fight each other. With a large hole, each point of the scene projects a disc of light roughly the size of the hole, so geometric blur grows with hole diameter. With a very small hole, light behaves as a wave and spreads out by diffraction, and that blur grows as the hole shrinks. The sharpest image comes from balancing the two. In 1857 the mathematician Joseph Petzval proposed an optimum diameter of about the square root of twice the screen distance times the wavelength of light; Lord Rayleigh in 1891 suggested a hole roughly 40 percent larger. For a pinhole box 10 centimeters deep and green light, the answer is only about a third of a millimeter, which is why pinhole images are so dim and why early dark rooms were used mainly for bright subjects like the Sun. Adding a convex lens breaks this trade-off: a lens collects light over a wide area and brings it back to a focus, so the image can be both bright and sharp, though only objects at one distance are perfectly sharp at a time. Historians also debate credit. The Mohist and Aristotelian texts are short and difficult, and scholars disagree about how well their authors understood what they described. Ibn al-Haytham is widely seen as the first to treat the camera obscura experimentally and mathematically, though some historians, such as G. J. Toomer, caution against crediting him with the whole modern scientific method. Leonardo's descriptions are vivid but were unpublished until 1797, so their influence was small at first. Finally, the long-running Vermeer debate, revived in the 2000s by the artist David Hockney and the physicist Charles Falco, who argued that many old masters used optical aids, remains unresolved. Their critics point out that skilled painters could achieve the same effects by eye, and that period documents describing such use are scarce.",
+  "funFact": "The word \"camera\" simply means \"room\" in Latin, so every time you say you are taking a picture with your camera, you are really talking about a tiny dark room.",
+  "check": {
+    "q": "Why is the picture in a camera obscura upside down?",
+    "a": "Because light travels in straight lines, so rays from the top and bottom of the scene cross at the hole",
+    "wrong": [
+      "Because the wall acts like a mirror and reflects the scene",
+      "Because the glass lens always turns pictures over",
+      "Because light from the sky is heavier and falls downward"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Camera obscura",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Camera_obscura"
+    },
+    {
+      "title": "Ibn al-Haytham",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ibn_al-Haytham"
+    },
+    {
+      "title": "Pinhole camera",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pinhole_camera"
+    },
+    {
+      "title": "Giambattista della Porta",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Giambattista_della_Porta"
+    },
+    {
+      "title": "Mozi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mozi"
+    },
+    {
+      "title": "Eclipse Safety",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/eclipses/safety/"
+    },
+    {
+      "title": "History of photography",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_photography"
+    },
+    {
+      "title": "Hockney–Falco thesis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hockney%E2%80%93Falco_thesis"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The 1545 woodcut by Gemma Frisius showing a room-sized camera obscura projecting the eclipsed Sun on the wall, the oldest printed picture of a camera obscura",
+      "search": "Gemma Frisius camera obscura 1545 eclipse"
+    },
+    {
+      "want": "An 18th- or 19th-century engraving or museum photo of a portable box camera obscura with a mirror and tracing glass on top",
+      "search": "portable box camera obscura 18th century"
+    },
+    {
+      "want": "Title page of the 1572 Latin printed edition of Ibn al-Haytham's optics (Opticae Thesaurus), with its engraved scenes of light and mirrors",
+      "search": "Opticae Thesaurus 1572 Alhazen title page"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "n": 4,
+  "title": "Frog Legs and the First Battery",
+  "when": "1780 – 1801",
+  "summary": "An Italian doctor named Luigi Galvani saw dead frog legs kick when they were touched by metal, and he thought animals were full of electricity. His friend and rival Alessandro Volta thought the metals were the real secret, and to prove it he stacked up coins of zinc and copper with salty cardboard in between. That stack was the world's first battery, and it made electricity flow steadily for the very first time.",
+  "sections": [
+    {
+      "heading": "A Twitch in Bologna",
+      "paragraphs": [
+        "Bologna, in northern Italy, is home to one of the oldest universities in the world, founded in the 1000s. In the 1700s its medical students learned anatomy, the study of how bodies are built, in a beautiful wooden lecture theatre where professors cut open bodies in front of rows of watching students. One of the people who taught there was a quiet, serious doctor named Luigi Galvani.",
+        "Galvani was born in Bologna in 1737 and spent almost his whole life there. He studied medicine and philosophy at the university, graduating in 1759, and later became a lecturer and then a professor. In 1782 he was made Professor of Obstetrics, the medicine of helping babies be born. In 1762 he married Lucia Galeazzi, the daughter of one of his teachers, and she was a scientist in her own right who helped him in the laboratory. Some historians think she may have been the first person to notice the strange effect that made her husband famous, although nobody can be sure.",
+        "Galvani was especially interested in how muscles and nerves work. How does a thought in your brain make your leg kick? In the 1700s nobody knew. Some scientists thought nerves were hollow tubes that carried a special fluid, a bit like water pipes. Others wondered whether electricity, the exciting new force of the century, had something to do with it. Galvani decided to find out using frogs, which were easy to catch in the marshes and canals around Bologna and whose leg muscles keep twitching for a while after the frog has died.",
+        "From around 1780 Galvani spent years doing experiments with frog legs, often working on his lab bench near an electrical friction machine like the ones described in Part 3. In his own account, one of his assistants touched the nerve inside a frog's leg with the tip of a metal scalpel, just as a spark was being drawn from the electrical machine across the room. Suddenly, the leg muscles jerked violently, as if the frog had come back to life. Another person in the room noticed that the twitches happened exactly when the machine sparked.",
+        "This was very strange. The frog was not connected to the machine by any wire. Yet the spark somewhere else in the room seemed to reach out and make the dead leg move. Galvani was fascinated. He repeated the experiment again and again, changing one thing at a time, which is exactly what a careful scientist should do."
+      ]
+    },
+    {
+      "heading": "Thunderstorms, Brass Hooks and Animal Electricity",
+      "paragraphs": [
+        "If a spark from a machine could make a frog leg twitch, Galvani wondered, could lightning do it too? He had read about Franklin's experiments with lightning rods. So he set up an iron wire on the roof of his house, like a lightning rod, and ran it down to some frog legs, with another wire leading to the water of a well. When storms came, the legs twitched each time lightning flashed in the sky. Electricity from the atmosphere seemed to have the same effect as electricity from his machine.",
+        "Then came the most puzzling result of all. Galvani had hung some prepared frog legs on brass hooks, pushed through the spinal cord, and hung the hooks on an iron railing outside, probably to wait for a storm. He noticed that the legs sometimes twitched even when the sky was perfectly calm and there was no lightning anywhere. He tried it indoors too. If he laid a frog on an iron plate and pressed the brass hook against the iron, the legs kicked. No machine, no storm, no Leyden jar. Just a dead frog, a piece of brass and a piece of iron.",
+        "Galvani went further. He made a curved bridge out of two different metals joined together, for example copper and zinc, or iron and silver. When he touched one end of this metal arc to the frog's nerve and the other end to its leg muscle, the leg twitched every single time. With an arc made of only one kind of metal, the twitching was much weaker or did not happen at all.",
+        "Where was this electricity coming from? Galvani came to a bold conclusion. He believed it came from inside the frog itself. Living animals, he suggested, produced their own special electricity in their brains, which was carried along the nerves and stored in the muscles, a bit like a tiny Leyden jar inside every muscle with charge on the inside and the outside. The metal arc, he thought, simply gave that stored animal electricity a path to flow along, and when it flowed, the muscle contracted. He called it animal electricity.",
+        "After about eleven years of work, in 1791 Galvani published his findings in Latin in a long essay whose title means Commentary on the Effects of Electricity on Muscular Motion. It caused a sensation. Scientists all over Europe started catching frogs and connecting their legs to pieces of metal. Some people even hoped that animal electricity might one day be used to cure paralysis or bring the dead back to life. Over the next few years, Galvani's name became so famous that the word galvanism was used for this kind of electricity, and today we still say a crowd is galvanised when it is suddenly jolted into action."
+      ]
+    },
+    {
+      "heading": "Volta Has Doubts",
+      "paragraphs": [
+        "One of the scientists who read Galvani's essay with great excitement was Alessandro Volta, professor of physics at the University of Pavia, about 200 kilometres away from Bologna. Volta was born in 1745 in Como, a lakeside town near the Alps, into a noble but not very wealthy family. As a boy he was slow to start talking, and his family reportedly worried about him. But he grew into a brilliant, lively and curious man who loved electricity from his teenage years and wrote to famous scientists about it before he was twenty.",
+        "By 1791 Volta was already well known. In 1775 he had improved a device called the electrophorus, a simple tool for making and transferring static charge over and over again. In 1776, while boating on the marshy edge of Lake Maggiore, he noticed bubbles rising from the mud, collected them and found the gas would burn. It was what we now call methane, and by 1778 he had isolated it. He became professor at Pavia in 1779 and was a popular teacher. He also built extremely sensitive instruments for detecting tiny amounts of electric charge, which would turn out to be very important.",
+        "At first Volta was a fan of Galvani's animal electricity. He repeated the frog experiments and got the same twitches. But as he went on, something bothered him. Why did the experiment work so much better when the arc was made of two different metals? If the electricity was coming from the frog, the type of metal should not matter much. Yet it mattered a great deal.",
+        "Volta tried something clever and a little odd. He put a piece of one metal, such as tin foil, on the tip of his tongue, and a piece of a different metal, such as a silver coin, further back on his tongue, and touched the two metals together. He tasted a sour, sharp taste, which you might notice if you ever accidentally bite on foil with a metal filling. When he touched two metals to his eye in a similar way, he saw a flash of light. No frog was involved at all. To Volta this suggested that the electricity was being made where the two different metals met, and that the frog's leg was simply acting as a very sensitive detector, like a living electricity meter, twitching whenever even a tiny current passed through it.",
+        "From 1792 Volta began writing papers arguing that the important thing was the difference between the metals, not some special electricity inside animals. As he put it, it was the diversity of the metals that did it. He even ranked metals in order, finding that some pairs, like zinc and silver, gave a much stronger effect than others. This list was an early form of what chemists now call the electrochemical series."
+      ]
+    },
+    {
+      "heading": "A Friendly but Serious Argument",
+      "paragraphs": [
+        "Volta and Galvani disagreed, but it was not a nasty fight. Volta respected Galvani, and it was Volta who named the effect galvanism in his honour. Both men were trying to find the truth, and each new experiment from one side pushed the other side to think harder. This is how science is supposed to work: an idea is tested, someone challenges it, and better experiments are designed to settle the question.",
+        "Galvani and his supporters did not give up. His nephew Giovanni Aldini, also a scientist, and another researcher named Eusebio Valli carried out new experiments to defend animal electricity. In the 1790s they showed that a frog leg could twitch even with no metal at all, for example when the cut end of a nerve was made to touch the frog's own muscle. If there was no metal, then the electricity must be coming from the animal. Volta replied that even different types of wet tissue might act like different conductors. The two sides wrote papers, letters and replies, and by 1798 their positions were too far apart to agree.",
+        "Sadly, Galvani's last years were unhappy. His wife Lucia died in 1790. Then, after the French army under Napoleon Bonaparte swept into northern Italy, Bologna became part of a new state called the Cisalpine Republic. All university professors were ordered to swear an oath of loyalty to it. Galvani refused, because he felt it went against his beliefs. As a result he lost his post as professor and his income. He went to live in his brother's house, and died in Bologna on 4 December 1798, while his nephew Giovanni Aldini and other friends were still trying to win back his post for him. He never saw the invention that his frogs had inspired.",
+        "So who was right? The surprising answer is: both of them, in different ways. Volta was right that two different metals touching a wet material create an electric current, and that this current was what made the frog legs kick in most of Galvani's metal experiments. But Galvani was right that living things use electricity too. We now know that every nerve in your body sends messages as tiny electrical pulses, made by charged particles moving in and out of the nerve cells. Your heart beats because of electrical signals, which is why doctors can record them with a machine called an electrocardiogram, or ECG. Some fish, such as electric eels and torpedo rays, can even produce shocks strong enough to stun prey. Galvani is often called the father of electrophysiology, the science of electricity in living bodies."
+      ]
+    },
+    {
+      "heading": "Building the Pile",
+      "paragraphs": [
+        "To prove his point beyond doubt, Volta needed to show that two metals and something wet could make electricity with no animal anywhere in sight. And if one pair of metals made a little electricity, he reasoned, maybe many pairs connected together would make a lot more.",
+        "Volta tried several designs. In one, he set up a row of cups or wine glasses filled with salty water. In each glass he dipped a strip of zinc and a strip of copper or silver. Then he connected the zinc of the first glass to the copper of the next glass with a bent metal strip, and so on all the way along the row. Arranged in a circle, this was later called a crown of cups. The more cups he added, the stronger the effect.",
+        "His most famous design was even simpler. He took small round discs of zinc and discs of copper or silver, each about the size of a coin, and discs of cardboard or cloth that had been soaked in salt water or brine. He stacked them in a pattern: zinc, copper, wet cardboard, then zinc, copper, wet cardboard, again and again, until he had a column of twenty, forty or even sixty pairs. Glass rods on the sides held the pile upright. In Italian and French this stack was called a pila, meaning a pile or heap, and so it became known in English as the voltaic pile.",
+        "When Volta touched one wire to the top of the pile and another to the bottom, he felt a shock, saw a spark and could make a frog leg twitch, just like a weak Leyden jar. But there was an enormous difference. A Leyden jar gave a single snap and was empty. The pile kept on giving. Touch it again a moment later and the shock came again. Connect the two ends with a wire and electricity flowed through it continuously, minute after minute, until the metal was eaten away or the cardboard dried out. For the first time in history, a human being had made a steady electric current.",
+        "Volta compared his invention to the electric organ of the torpedo ray, a fish whose body contains stacks of special cells that let it give shocks. In fact he called his pile an artificial electric organ. It is a lovely irony: an animal helped inspire the very device that Volta used to argue against animal electricity."
+      ]
+    },
+    {
+      "heading": "What Was Really Happening Inside",
+      "paragraphs": [
+        "Volta believed that the electricity was made simply by the two different metals touching each other, and that the wet cardboard just helped connect each pair to the next. He was a superb experimenter, but on this point he was mistaken. Over the next few years other scientists, especially the English chemist Humphry Davy, whom you will meet in Part 5, showed that the real source of the energy was a chemical reaction.",
+        "Here is what happens, in simple terms. Every material is made of atoms, and atoms contain tiny negatively charged particles called electrons. Zinc is a metal that gives up electrons fairly easily. When zinc touches salty water, some zinc atoms dissolve into the water, and each one leaves two electrons behind in the zinc metal. Those extra electrons build up on the zinc and push to get away. If you connect the zinc to the copper with a wire, the electrons rush along the wire toward the copper. At the copper surface they are picked up by particles in the salty water, and tiny bubbles of hydrogen gas form. As long as there is zinc left to dissolve and water to react, the flow keeps going. That flow of electrons through the wire is an electric current.",
+        "One zinc, copper and brine sandwich, called a cell, gives a push of a little less than one volt. That is not much; you would hardly feel it. But when cells are stacked one on top of another, their pushes add together. Forty cells give roughly thirty volts, enough to feel a definite tingle. This is exactly what happens in many devices today when several batteries are lined up end to end inside a toy or a torch. In fact the word battery, which Franklin first used for a row of Leyden jars, soon moved over to mean Volta's kind of chemical electricity maker, and has meant that ever since.",
+        "Notice that the battery does not make electric charge out of nothing, and the electricity is not used up as it flows around a circuit. The battery acts like a pump, using the energy stored in the chemicals to push charge around and around the loop of wire. When the zinc is mostly eaten away, the pump stops. That is why batteries go flat."
+      ]
+    },
+    {
+      "heading": "A Letter to London and Bubbles in a Tube",
+      "paragraphs": [
+        "Volta wanted the most important scientists in the world to hear about his invention. On 20 March 1800 he wrote a letter in French to Sir Joseph Banks, the President of the Royal Society in London, describing the pile and the crown of cups in detail. It was a difficult time to send mail: Britain and France were at war, and much of Italy was a battleground. Volta sent the first part of the letter ahead, and the rest followed later. Banks read it with interest and showed it to friends before it was officially read to the Society and published later that year in the Society's journal, Philosophical Transactions, under a title meaning On the Electricity Excited by the Mere Contact of Conducting Substances of Different Kinds.",
+        "One of the people who heard about the letter early was Anthony Carlisle, a surgeon at Westminster Hospital in London. Carlisle was friends with William Nicholson, a remarkable man who had been a sailor, a writer, a translator, an inventor and a teacher, and who ran a monthly science magazine known as Nicholson's Journal. In late April and May 1800, the two men built their own pile at Nicholson's home in Soho, London. According to their report, it was made of 17 silver half-crown coins, an equal number of zinc discs and pieces of pasteboard soaked in salt water.",
+        "To make a good connection to the top of the pile, they put a drop of water on the metal plate and dipped a wire into it. To their surprise, little bubbles of gas began to form around the wire. Curious, they set up a proper test. They filled a small glass tube with water, closed both ends with corks, and pushed a brass wire through each cork so that the ends of the wires were close together inside the water but not touching. Then they connected the wires to the two ends of the pile.",
+        "Streams of tiny bubbles rose from one of the wires. When they tested the gas, it was hydrogen, the lightest gas of all. The other brass wire did not bubble much; instead it turned dark and tarnished, because the oxygen being produced was combining with the brass. When the experiment was later repeated with wires of platinum, a metal that does not easily react, both gases appeared as bubbles: hydrogen at one wire and oxygen at the other. And there was always about twice as much hydrogen as oxygen, which matches the recipe of water, H2O: two hydrogen atoms for every oxygen atom.",
+        "Nicholson and Carlisle had used electricity to split water into its two elements. This process is called electrolysis, from Greek words meaning breaking apart with electricity. It happened within weeks of the pile being described, and they published their results in Nicholson's Journal in the summer of 1800. Around the same time, a young German scientist, Johann Wilhelm Ritter, was doing similar experiments. Earlier, in 1789, two Dutch scientists, Adriaan Paets van Troostwijk and Jan Rudolph Deiman, had managed to split water using sparks from an electrical machine, but that method was slow and difficult. The voltaic pile made it easy. Suddenly chemists had a powerful new tool for pulling substances apart, and they rushed to use it on everything they could find."
+      ]
+    },
+    {
+      "heading": "Volta Meets Napoleon",
+      "paragraphs": [
+        "News of the pile spread across Europe at astonishing speed. In September 1801 Volta travelled to Paris with his fellow scientist Luigi Brugnatelli. Paris was then the capital of science in Europe, and France was ruled by a young general who had made himself First Consul: Napoleon Bonaparte. Napoleon was fascinated by science and liked to be seen as its champion.",
+        "On 7 November 1801, Volta demonstrated his pile at a meeting of the Institut de France, the country's great scientific academy, with Napoleon himself in the audience. Volta showed how the pile produced shocks and sparks and argued that the electricity of his pile was the same as ordinary electricity from a friction machine. Napoleon was so impressed that he proposed a special gold medal for Volta, which was awarded the following month, along with a gift of money and a pension for life. Napoleon also set up a prize to reward future discoveries in electricity and galvanism.",
+        "The honours kept coming. In 1810 Napoleon made Volta a count, a noble title. Volta continued teaching at the University of Pavia until 1819, then retired to his home near Como. He died there on 5 March 1827 at the age of 82. In 1881, at an International Electrical Congress held in Paris, scientists from around the world agreed on official names for the units of electricity, and the unit of electrical push was named the volt in his honour. Every time you read 1.5 V on a battery or 230 V on a plug, you are reading Volta's name. In Como, a beautiful round museum on the lakeshore called the Tempio Voltiano displays his instruments today.",
+        "Why does all this matter so much? Before 1800, electricity came only in quick sparks and shocks. It was a curiosity, a party trick, a dangerous force pulled from the sky. After 1800, scientists could make electricity flow steadily for hours through a wire, and they could control how much flowed by adding or removing cells. This steady flow, the electric current, is the kind of electricity that would later run telegraphs, motors, light bulbs, phones and computers. Without a source of steady current, none of the inventions in the rest of this Deep Dive could have happened.",
+        "In the months after Volta's letter, laboratories all over Europe built piles of their own, some with hundreds of pairs of plates. And in London, at a new scientific institution on Albemarle Street, a brilliant young chemist was planning to build the biggest battery anyone had ever seen, with thousands of plates, to see just what this new current could do."
+      ]
+    }
+  ],
+  "deepDive": "The voltaic pile is an electrochemical cell repeated many times in series. In a zinc and copper cell with salt water as the electrolyte, zinc is oxidised at the negative electrode (Zn → Zn²⁺ + 2e⁻), releasing electrons into the external circuit. At the copper, those electrons reduce hydrogen ions or water, producing hydrogen gas. The copper does not get used up; it acts mainly as a conductor and a surface where the reaction happens. Each cell produces somewhere around 0.7 to 1 volt depending on the exact conditions, and cells in series add their voltages, so a 60-pair pile might give roughly 40 to 50 volts. Early piles had serious practical problems. Hydrogen bubbles coating the copper reduced the current (a problem called polarisation), the brine-soaked cardboard dried out, and the weight of the stack squeezed liquid out of the lower discs. Later designs, such as the trough battery and John Frederic Daniell's cell of 1836, were invented to give steadier, longer-lasting current. Historians of science find the Galvani and Volta debate a classic example of how two partly correct theories can drive progress. Volta's 'contact theory' held that electromotive force arises at the junction of dissimilar metals, and he defended it for the rest of his life. The 'chemical theory', supported by Davy and later by Michael Faraday, held that chemical reactions supply the energy; it won, because contact alone would amount to a perpetual-motion machine, getting energy for free. Volta was nonetheless correct that dissimilar conductors are needed and that animals were not required. Galvani, meanwhile, was vindicated in the 1800s when Carlo Matteucci and Emil du Bois-Reymond measured real electrical currents in muscles and nerves. Volta's pile also gives a useful lesson in naming: his device was not named after its function but after its shape, and the French word for battery is still 'pile' today.",
+  "funFact": "Alessandro Volta discovered methane, the gas that makes up most of natural gas, by stirring up bubbles from the muddy edge of Lake Maggiore in 1776, years before he invented the battery.",
+  "check": {
+    "q": "What did Volta stack up to make the first battery, the voltaic pile?",
+    "a": "Discs of zinc and copper (or silver) separated by cardboard or cloth soaked in salt water",
+    "wrong": [
+      "Leyden jars filled with mercury",
+      "Frog legs hung on brass hooks",
+      "Spinning balls of sulfur and glass"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Luigi Galvani",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Luigi_Galvani"
+    },
+    {
+      "title": "Galvanism",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Galvanism"
+    },
+    {
+      "title": "Alessandro Volta",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alessandro_Volta"
+    },
+    {
+      "title": "Alessandro Volta",
+      "publisher": "Wikipedia (Italian)",
+      "url": "https://it.wikipedia.org/wiki/Alessandro_Volta"
+    },
+    {
+      "title": "Voltaic pile",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Voltaic_pile"
+    },
+    {
+      "title": "William Nicholson (chemist)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Nicholson_(chemist)"
+    },
+    {
+      "title": "Electrolysis of water",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electrolysis_of_water"
+    },
+    {
+      "title": "Volt",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Volt"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The engraved plate from Galvani's 1791 book De viribus electricitatis showing frog legs, metal arcs and an electrical machine on a lab bench",
+      "search": "Galvani De viribus frog legs plate"
+    },
+    {
+      "want": "An original or replica voltaic pile: a column of zinc and copper discs held between glass rods, as displayed in a museum such as the Tempio Voltiano in Como",
+      "search": "voltaic pile museum Volta"
+    },
+    {
+      "want": "A painting or engraving of Alessandro Volta demonstrating his pile to Napoleon Bonaparte in Paris in 1801",
+      "search": "Volta Napoleon pile demonstration"
+    }
+  ]
+}

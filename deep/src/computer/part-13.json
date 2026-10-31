@@ -1,0 +1,158 @@
+{
+  "n": 13,
+  "title": "Chips and the Computer on a Chip",
+  "when": "1958 – 1974",
+  "summary": "In 1958 and 1959, two inventors found ways to build a whole electric circuit on one tiny piece of material, and the computer chip was born. Chips flew to the Moon inside Apollo spacecraft. By 1971, engineers squeezed the brain of a whole computer onto a chip smaller than a fingernail.",
+  "sections": [
+    {
+      "heading": "The Tyranny of Numbers",
+      "paragraphs": [
+        "At the end of Part 12, engineers were drowning in wires. Transistors had replaced hot, fragile vacuum tubes, and that was wonderful. But a transistor on its own does almost nothing. To make it useful you have to connect it to resistors, which hold back electric current, capacitors, which store a little charge, diodes, which let current flow only one way, and, of course, to other transistors. A single computer in the late 1950s could need tens of thousands of these separate parts, and every one of them had at least two or three wire legs that had to be soldered by hand to a circuit board.",
+        "Engineers gave this problem a gloomy name: the tyranny of numbers. The more powerful you wanted a machine to be, the more parts it needed. The more parts it had, the more joints there were, and every joint was a chance for a bad connection. A rocket guidance system or a fighter plane's computer with 100,000 hand-soldered joints was almost guaranteed to have a few faulty ones. Long wires also slowed signals down and took up space. The better the ideas got, the closer the designs came to being impossible to build.",
+        "Some people had already dreamed of a way out. In a public talk on 7 May 1952, a British radar engineer named Geoffrey Dummer, who worked at the Telecommunications Research Establishment in England, described his vision of electronic equipment made as a single solid block, with no connecting wires at all. The layers of the block, he imagined, could be made of different materials that did the jobs of the separate parts. Dummer even tried to build a model in 1956, but the British military did not think it was practical and did not support the work. A German engineer, Werner Jacobi, had filed a patent as early as 1949 for an amplifier with five transistors on one shared base. The idea was floating in the air. What nobody had done was make one that really worked and could be built in a factory.",
+        "The real breakthrough came from two young engineers working about 2,300 kilometres apart, in Dallas, Texas, and in Mountain View, California, who did not know what the other was doing."
+      ]
+    },
+    {
+      "heading": "Jack Kilby's Summer Alone",
+      "paragraphs": [
+        "Jack St. Clair Kilby was a tall, quiet engineer, about 198 centimetres tall, who had grown up in Great Bend, Kansas. His father ran a small electric power company there. When Jack was a boy, a terrible ice storm tore down the power and telephone lines across the area, and he watched amateur radio operators keep people in touch when every other kind of communication had failed. That moment made him fall in love with electronics. He studied electrical engineering at the University of Illinois, and after working at a company in Milwaukee that made parts for radios and hearing aids, he moved to Texas Instruments (TI) in Dallas in the summer of 1958.",
+        "TI was the company that had made the first commercial silicon transistors in 1954, so it was a great place for a curious engineer. But there was a small problem with Kilby's timing. In July, most of TI's staff went on their summer holiday together, and Kilby was so new that he had not earned any holiday yet. Imagine walking through an almost empty laboratory in the Texas heat, with nobody to report to and a big problem in your head. That is exactly what Kilby had. He spent those quiet weeks thinking about the tyranny of numbers.",
+        "His idea was simple and daring. TI was very good at working with semiconductors, the special materials such as germanium and silicon that you met in Part 12. Transistors were already made from semiconductors. But Kilby realised that resistors and capacitors could be made from semiconductor material too. They would not be quite as good as the usual ones, but they would work. And if every part of a circuit could be made from the same material, then why not make all of them together in one single piece? He called this the monolithic idea, from Greek words meaning one stone.",
+        "On 24 July 1958 he wrote the idea in his lab notebook. His managers were doubtful, so he agreed to prove it. First he built a test circuit from separate semiconductor pieces to show that semiconductor resistors and capacitors could really work. Then he set out to build a circuit in one piece.",
+        "On 12 September 1958, Kilby invited a small group of TI managers, including Mark Shepherd, to his bench. In front of them was a tiny sliver of germanium, roughly 10 millimetres long and less than 2 millimetres wide, cut from a larger piece that TI used to make transistors. Kilby had etched it so that different regions acted as a transistor, resistors and a capacitor. Thin gold wires, so fine they were nicknamed flying wires, looped through the air to join the regions together. The whole thing was wired to an oscilloscope, an instrument that draws electrical signals as a glowing line on a screen.",
+        "Kilby switched on the power. On the screen appeared a smooth, endless wave, rising and falling over and over. The little sliver was working as an oscillator, a circuit that makes a steady repeating signal, like the one that keeps time in a radio or a clock. A whole working circuit was living inside one piece of material. About a week later he showed a second circuit, a kind of switch called a trigger or flip-flop.",
+        "It looked messy, almost like a science-fair project. The flying wires were delicate, and they were not a practical way to build millions of chips. But it proved the most important point: a complete circuit could be made from one piece of semiconductor. TI applied for a patent in early 1959 and revealed its new solid circuit to the public in March 1959. In March 1960 TI introduced its first product of this kind, the Type 502 binary flip-flop, priced at about 450 US dollars each, though only a few dozen were ever shipped. That was very expensive, but a door had opened."
+      ]
+    },
+    {
+      "heading": "Noyce, Hoerni and the Flat Chip",
+      "paragraphs": [
+        "Now travel west to California, to the young company called Fairchild Semiconductor. You met its founders in Part 12: the so-called traitorous eight who left William Shockley's lab in 1957. One of them, Robert Noyce, was a friendly, confident physicist from Iowa, born in 1927, who had earned his PhD at the Massachusetts Institute of Technology (MIT). Another was Jean Hoerni, a Swiss-born physicist with a brilliant, unusual mind.",
+        "Fairchild had a problem with its transistors. They were made in a shape called a mesa, named after the flat-topped hills of the American desert. Each transistor stuck up from the surface like a tiny table-shaped hill, and the delicate boundaries inside it, called junctions, where differently treated layers of silicon met, were left open to the air. Specks of dust or moisture could land on them and make the transistor leak current or fail.",
+        "Hoerni's solution was clever. When silicon is heated in oxygen, it grows a thin skin of silicon dioxide, which is basically the same material as glass and quartz. Chipmakers already used this oxide layer as a stencil while they were making transistors, but they normally stripped it off afterwards because they thought it might trap dirt. Hoerni asked: what if we leave the glassy skin on? He had first noted the idea in December 1957, wrote it up properly in January 1959, and showed a working transistor made this way in March 1959. His transistors were flat instead of hill-shaped, so the method was called the planar process, from the word plane, meaning flat. The oxide layer protected the junctions like a sheet of glass over a painting, and the transistors leaked far less current, which made them much more reliable.",
+        "The planar process had one more amazing advantage. Because everything was flat, every part could be made by working on just one face of the silicon wafer. Fairchild's patent lawyer, John Ralls, challenged Noyce to think of other ways the new process could be used. On 23 January 1959, Noyce wrote down his answer. Make the transistors, resistors, capacitors and diodes all inside one flat piece of silicon. Keep the protective glass layer on top. Then, instead of looping gold wires through the air, lay thin stripes of aluminium metal on top of the glass, dipping down through small windows in the oxide to touch each part exactly where needed. The connections would be printed, like the roads on a map, rather than added by hand.",
+        "This was the key to making chips in huge numbers. Noyce filed his patent in July 1959 and it was granted in April 1961. To stop the different parts on the same piece of silicon from interfering with each other, Fairchild used a way of electrically separating them that had been invented by Kurt Lehovec of the Sprague Electric Company, who had applied for a patent on it in 1959. A Fairchild team led by Jay Last made the first working planar integrated circuits in 1960. In 1961 Fairchild began selling a family of logic chips called Micrologic.",
+        "So who invented the chip? Today historians, and the Computer History Museum, say both men did, in different ways. Kilby was first to show a working circuit made entirely from semiconductor material. Noyce found the practical way to build it: a flat, monolithic chip of silicon with metal connections printed on top, which is how chips are still made today. Lehovec and Hoerni deserve credit too. Texas Instruments and Fairchild argued in court over the patents for most of the 1960s, but in 1966 they agreed to share them through a cross-licensing deal, so both companies could build chips freely. Kilby and Noyce were later both honoured as co-inventors.",
+        "In 2000, Jack Kilby received the Nobel Prize in Physics for his part in the invention of the integrated circuit, sharing it with two scientists, Zhores Alferov and Herbert Kroemer, who were honoured for other work on semiconductors. Robert Noyce could not share it. He had died in 1990, and Nobel Prizes are not given to people after their death. Many people believe Noyce would have shared it if he had lived."
+      ]
+    },
+    {
+      "heading": "Chips Fly to the Moon",
+      "paragraphs": [
+        "Early chips were expensive and nobody was sure they could be trusted, so who would buy them? The answer was customers who cared more about size, weight and reliability than about price: rockets, missiles and spacecraft. Every extra kilogram launched into space costs a fortune in fuel, and a computer that fails halfway to the Moon cannot be fixed with a screwdriver.",
+        "In 1961 President John F. Kennedy announced that the United States would try to land astronauts on the Moon before the end of the decade. The spacecraft would need a computer of its own to help steer, because radio signals from Earth take more than a second to reach the Moon and astronauts would need help at moments when every second mattered. NASA gave the job of designing the Apollo Guidance Computer to the MIT Instrumentation Laboratory in Cambridge, Massachusetts, led by Charles Stark Draper. Eldon Hall led the hardware design, and the company Raytheon built the flight computers.",
+        "Hall made a bold decision. Instead of using thousands of separate transistors, the computer would be built from integrated circuits, at a time when chips were still new and almost untested. To keep things simple and reliable, he chose to use almost only one kind of chip. Each was a very simple logic circuit called a NOR gate, which you will meet properly in Part 14. A NOR gate gives a 1 as its answer only when all its inputs are 0. It sounds too simple to be useful, but mathematicians had shown that any logical operation at all can be built from NOR gates alone, just as any Lego model can in principle be built from one kind of brick if you have enough of them.",
+        "The first version of the computer used about 4,100 chips, each containing a single three-input NOR gate. The improved version that flew with astronauts, called Block II, used about 2,800 chips, each holding two NOR gates. The chips were based on a Fairchild design, and many of them were made by another company, Philco-Ford. NASA bought around 200,000 integrated circuits for the program, at roughly 20 to 30 US dollars each, and the Computer History Museum says Apollo was the largest single user of integrated circuits up to 1965. That huge order helped chip companies learn to make chips more reliably and more cheaply. It was a bit like a giant first customer teaching a whole new industry how to grow up.",
+        "The finished computer weighed about 32 kilograms, about as much as a large dog. It had a timing crystal ticking at 2.048 megahertz, which means about two million pulses per second. Its working memory held just 2,048 words, and its permanent program memory held 36,864 words. That permanent memory was made of core rope: copper wires woven by hand through and around tiny magnetic rings. A wire that went through a ring stood for a 1, and a wire that went around it stood for a 0. Many of the weavers were women who had worked in local textile and watch factories, and their careful work had to be perfect, because the program was literally sewn into the hardware.",
+        "Astronauts talked to the computer using a box with a keypad and glowing number displays called the DSKY, short for display and keyboard. To give an instruction, they typed a two-digit Verb number, saying what to do, and a two-digit Noun number, saying what to do it to. For example, one verb meant display, and a noun picked which data to show. It was a little like speaking a very strict language made only of numbers.",
+        "In July 1969 Apollo 11 landed on the Moon with this computer helping to guide it. You will hear more about the remarkable software that ran on it, and the people who wrote it, in Part 15. For this story, the important point is that tiny chips had proved themselves in one of the most demanding jobs ever attempted. Meanwhile, by 1965 the US Air Force's Minuteman II missile guidance system had become an even bigger buyer of chips. Military and space money helped push the young chip industry forward, and before long chips were moving into ordinary computers and products too."
+      ]
+    },
+    {
+      "heading": "Moore's Bold Graph",
+      "paragraphs": [
+        "In 1964 Gordon Moore was head of research and development at Fairchild Semiconductor. Moore was a chemist from California who had grown up in the small coastal town of Pescadero, and he was famous for being calm and thoughtful. Electronics magazine asked him to write an article predicting what would happen in the chip industry over the next ten years.",
+        "Moore looked at the chips that had been made so far, and he did something very simple. He made a graph with just a handful of points, from 1959 to 1964, showing the number of components that could be put on one chip at the lowest cost per component. The first planar transistor in 1959 counted as one component. By the mid-1960s the most complex chips held a few dozen. When he plotted these points on special graph paper, they made a nearly straight line, which meant the number had been roughly doubling every year.",
+        "His article, called Cramming More Components onto Integrated Circuits, was published on 19 April 1965. In it he guessed that if the doubling carried on, a single chip in 1975 could hold about 65,000 components. That was an astonishing prediction, a thousandfold jump in ten years, and he made it from only a few dots on a graph. He also suggested that chips would one day lead to wonders such as home computers, automatic controls for cars and personal portable communications equipment. In 1965 that sounded like science fiction.",
+        "In 1975, speaking at a big meeting of electronics engineers, Moore looked back. His forecast had turned out to be remarkably close. But he also revised it: from then on, he said, the doubling would probably take about two years rather than one. That two-year version is what most people mean today by Moore's law. Around the same time, a Caltech professor named Carver Mead started calling it Moore's law, and the name stuck. (You may also hear that computers double in speed every 18 months. That figure came from another Intel executive, David House, and Moore said he never claimed it.)",
+        "It is important to understand that Moore's law is not a law of nature like gravity. It is an observation about how fast a whole industry was improving, and it became a goal. Chip companies planned their research, factories and products around keeping up with it, which made it something of a self-fulfilling prophecy: it stayed true for decades partly because thousands of engineers worked very hard to make it true. By the time Moore spoke again in 1995, an Intel Pentium chip held nearly 5 million transistors. Today some chips hold more than 100 billion. You will see in Part 20 why the doubling is now getting harder."
+      ]
+    },
+    {
+      "heading": "Two Friends Start Intel",
+      "paragraphs": [
+        "By 1968 Fairchild Semiconductor had grown big, but Noyce and Moore felt that its owners on the East Coast did not understand the fast-moving chip business. So they left and started their own company. Intel was founded on 18 July 1968 in Mountain View, California, with money raised by the investor Arthur Rock. Their third employee was Andy Grove, a chemical engineer who had escaped from Hungary as a young man and who later led Intel for many years.",
+        "The company was first registered as NM Electronics, after Noyce and Moore. They thought about calling it Moore Noyce, but they decided it sounded too much like more noise, which is the last thing you want in electronics, where unwanted electrical noise ruins signals. Instead they chose Intel, short for integrated electronics. A hotel chain already used the name, so they had to buy the rights.",
+        "Intel's first big plan was to make memory chips. At the time, most computers stored their working data in magnetic-core memory, the woven grids of tiny magnetic rings you met in Part 12. Noyce and Moore bet that silicon chips could do the job better and cheaper. Their first product, the 3101 in 1969, stored just 64 bits. In 1970 came the 1103, a chip that stored 1,024 bits, which by 1972 had become the best-selling memory chip in the world. Core memory soon began to disappear. But Intel's most famous invention came from an unexpected request from a calculator company in Japan."
+      ]
+    },
+    {
+      "heading": "A Calculator Company Asks for Help",
+      "paragraphs": [
+        "In the late 1960s, electronic calculators were a hot new product. A Japanese company called Busicom wanted to build a range of desk calculators, and in 1969 it asked Intel to make the chips. Busicom's plan needed about a dozen different custom chips, each one wired to do a fixed job. Busicom sent a team of engineers to Intel, including a young man named Masatoshi Shima.",
+        "Intel was small and busy, and Ted Hoff, the Intel engineer assigned to help, thought the plan was too complicated. He had an idea. Instead of designing many special chips that could each do only one thing, why not make one general-purpose processor chip that could follow a program, plus memory chips to hold the program and the numbers? Then a calculator's features would come from its program, not from its wiring. If you wanted a different calculator, you would change the program instead of designing new chips. In other words, the calculator would really be a tiny computer. Stanley Mazor, another Intel engineer, worked with Hoff on the design and on the instructions the chip would understand. Busicom agreed to the new plan.",
+        "Turning the idea into real silicon was extremely hard, and for months little progress was made. Then in April 1970, Intel hired Federico Faggin, a physicist from Italy. At Fairchild, Faggin had led the development of a new way of making chips called silicon-gate technology, which allowed transistors to be smaller, faster and packed more tightly. Faggin took charge of designing the chips, working long days and nights with Masatoshi Shima, who checked the logic and helped with the detailed design. Faggin even marked his initials, F.F., on the chip design.",
+        "The result was a family of four chips called the MCS-4. The 4001 held the program in permanent memory, the 4002 was a small working memory, the 4003 handled input and output signals, and the star of the set was the 4004, the processor itself. All the parts of a computer's central processing unit, or CPU, the part that actually carries out instructions, were now on one chip. Today we call this a microprocessor."
+      ]
+    },
+    {
+      "heading": "The 4004: A Computer Brain Smaller Than a Fingernail",
+      "paragraphs": [
+        "Hold up your little fingernail. The Intel 4004 chip was smaller than that. Its piece of silicon measured only about 3 by 4 millimetres, yet it contained about 2,300 transistors. The smallest lines on it were about 10 micrometres wide, roughly a tenth of the thickness of a human hair. It was packed inside a small plastic-and-ceramic case with 16 metal legs, called pins. It worked on numbers 4 bits at a time, which is just enough to handle one decimal digit from 0 to 9, perfect for a calculator. Its clock ticked about 740,000 times a second, or about 740 kilohertz, and it could carry out tens of thousands of instructions per second.",
+        "Think back to ENIAC in Part 10, which filled a large room, weighed about 27 tonnes and used about 150 kilowatts of electricity. The 4004 is often compared with ENIAC: it could do about as much calculating each second, yet the silicon itself weighed far less than a paper clip and needed only a tiny trickle of electricity. Twenty-five years had shrunk a room-sized computer to a speck of silicon.",
+        "There was one catch. Busicom owned the rights to the design. But Busicom was having money troubles, and it wanted cheaper chips. Intel offered a lower price, and in return, in 1971, Busicom agreed to let Intel sell the 4004 to other customers for uses other than calculators. Intel's leaders realised they had something special. On 15 November 1971, Intel placed an advertisement in the magazine Electronic News announcing a new era of integrated electronics, and the 4004 went on sale to anyone for about 60 US dollars.",
+        "As with so many inventions in this story, the 4004 was not the only contender. The Four-Phase Systems company in California, led by Lee Boysel, had built an 8-bit processor chip called the AL1 in 1969, which it used inside its own computer terminals rather than selling it on its own. A team at Garrett AiResearch, including Steve Geller and Ray Holt, designed a set of chips for the computer of the F-14 fighter jet around 1970, but it was kept secret by the US Navy for decades. Texas Instruments built a processor chip for the company that became Datapoint and, in September 1971, announced a calculator on a chip, the TMS0100 family, which combined a processor, memory and input-output on a single chip. Historians generally say the 4004 was the first microprocessor sold commercially as a general-purpose part that anyone could buy and program, while other teams reached similar ideas at almost the same time.",
+        "Intel kept going fast. In 1972 it released the 8008, an 8-bit processor first designed for the terminal company CTC, later called Datapoint. Then, in 1974, came the Intel 8080, designed by Faggin and Shima with Mazor. It had about 4,500 to 6,000 transistors (sources count them differently), ran at 2 megahertz, could handle 8 bits at a time and could reach 64 kilobytes of memory. It was roughly ten times as powerful as the 4004. The same year Motorola, led by Tom Bennett's team, introduced its own 8-bit processor, the 6800, and soon a cheaper relative called the 6502 would power some of the most famous home computers and game machines. The 8080 became the brain of a famous kit computer that you will meet in Part 16, and it helped start the personal computer revolution.",
+        "In only sixteen years, from Kilby's wobbly flying wires in 1958 to the 8080 in 1974, the computer had gone from a room full of cabinets to a single chip that could sit on the tip of your finger. And that is a good moment to stop and ask: what actually happens inside one of these tiny chips? Imagine shrinking down, smaller than an ant, smaller than a speck of dust, until a single transistor looks as big as a house. In the next part, we will step inside a chip and watch, step by step, what really happens when a computer seems to think."
+      ]
+    }
+  ],
+  "deepDive": "Who invented the integrated circuit is one of the classic debates in the history of technology, and the honest answer is that the invention was spread across several people and several steps. Geoffrey Dummer described the idea in 1952 but could not get support to build it. Jack Kilby built the first working circuit made entirely of semiconductor material in September 1958, but his germanium devices were hybrid in an important sense: the parts were separated by etching and joined with hand-attached gold wires, which could not be mass-produced. Jean Hoerni's planar process, which kept a protective silicon dioxide layer on a flat wafer, made it possible to build every component from one face of the silicon. Robert Noyce's January 1959 idea added aluminium interconnections laid over that oxide, giving a true monolithic chip. Kurt Lehovec's junction isolation, patented separately, kept neighbouring components from interfering. Texas Instruments and Fairchild fought over patents until a 1966 cross-licensing agreement; TI still earned hundreds of millions of dollars in royalties from its chip patents decades later. Moore's law has a similar subtlety. Moore's 1965 article was based on very few data points and measured components per chip at minimum cost, an economic idea, not simply the largest chip possible. His 1975 revision to a doubling every two years matched the industry for decades, partly because companies coordinated their plans around it. It is an empirical trend and business target, not a law of physics. The microprocessor debate is also about definitions. If 'first' means a CPU on one chip sold to the public as a general component, the Intel 4004 (1971) usually wins. If it means a processor chip used inside a product, Four-Phase's AL1 (1969) has a strong claim. Garrett AiResearch's F-14 chip set (about 1970) was a multi-chip design hidden by military secrecy until 1998, and TI's single-chip calculator chips (1971) are often seen as the first microcontrollers. Finally, a design-credit debate surrounds the 4004 itself: Hoff and Mazor defined the architecture, Faggin made it physically possible with silicon-gate design, and Shima did much of the detailed logic. Historians now generally prefer to share the credit among them.",
+  "funFact": "Gordon Moore and Robert Noyce decided not to call their company 'Moore Noyce' because it sounded like 'more noise', the last thing an electronics company wants, so they chose Intel instead.",
+  "check": {
+    "q": "Which Intel chip, released in 1971 with about 2,300 transistors, is generally called the first commercially available microprocessor?",
+    "a": "The Intel 4004",
+    "wrong": [
+      "The Intel 8080",
+      "The Type 502 flip-flop",
+      "The Apollo Guidance Computer"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Invention of the integrated circuit",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Invention_of_the_integrated_circuit"
+    },
+    {
+      "title": "1958: All Semiconductor 'Solid Circuit' is Demonstrated",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/siliconengine/all-semiconductor-solid-circuit-is-demonstrated/"
+    },
+    {
+      "title": "1959: Practical Monolithic Integrated Circuit Concept Patented",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/siliconengine/practical-monolithic-integrated-circuit-concept-patented/"
+    },
+    {
+      "title": "1959: Invention of the 'Planar' Manufacturing Process",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/siliconengine/invention-of-the-planar-manufacturing-process/"
+    },
+    {
+      "title": "1962: Aerospace systems are the first applications for ICs in computers",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/siliconengine/aerospace-systems-are-first-the-applications-for-ics-in-computers/"
+    },
+    {
+      "title": "1965: 'Moore's Law' Predicts the Future of Integrated Circuits",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/siliconengine/moores-law-predicts-the-future-of-integrated-circuits/"
+    },
+    {
+      "title": "1971: Microprocessor Integrates CPU Function onto a Single Chip",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/siliconengine/microprocessor-integrates-cpu-function-onto-a-single-chip/"
+    },
+    {
+      "title": "Intel 4004",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Intel_4004"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Jack Kilby's original 1958 germanium integrated circuit with its fine gold wires",
+      "search": "Kilby first integrated circuit 1958"
+    },
+    {
+      "want": "The Apollo Guidance Computer and its DSKY display and keyboard unit",
+      "search": "Apollo Guidance Computer DSKY"
+    },
+    {
+      "want": "Close-up photo of the Intel 4004 microprocessor chip in its white and gold package",
+      "search": "Intel 4004 microprocessor chip"
+    }
+  ]
+}

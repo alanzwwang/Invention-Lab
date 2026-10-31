@@ -1,0 +1,158 @@
+{
+  "n": 18,
+  "title": "Beyond the Filament: From Neon to LED",
+  "when": "1907 – today",
+  "summary": "Old light bulbs were really tiny heaters that happened to glow. In this part, inventors find new ways to make light: glowing gases in neon signs, buzzing tubes on ceilings, curly bulbs, and finally the LED, a crystal smaller than a grain of rice that shines without getting hot. The last piece of the puzzle was a bright blue light that took scientists nearly thirty years to make.",
+  "sections": [
+    {
+      "heading": "A Heater That Happens to Glow",
+      "paragraphs": [
+        "Hold your hand near an old-fashioned incandescent bulb that has been on for a few minutes, and you will feel the problem straight away. It is hot. As Part 11 explained, the bulb makes light by heating a thin tungsten filament to around 2,500 °C, and most of the energy comes out as invisible heat rather than visible light. Roughly nine-tenths of the electricity going into a classic bulb is wasted as heat.",
+        "Lighting engineers measure how good a lamp is with a unit called the lumen, which is the amount of visible light it gives out. Divide the lumens by the watts of electricity it uses, and you get its efficacy. A typical household incandescent bulb manages only about 15 or 16 lumens per watt. In Part 17 we saw that every watt wasted at home means more coal, oil or gas burned at a power station somewhere. So for more than a hundred years, inventors searched for a way to make light without making a red-hot wire first.",
+        "There turned out to be another way. Instead of heating something until it glows, you can give energy directly to atoms or electrons and let them release it as light. When an electron in an atom is given extra energy, it jumps to a higher 'energy level', a bit like a ball kicked up onto a higher step. When it drops back down, it gives out the extra energy as a tiny packet of light called a photon. The size of the drop decides the colour of the light: small drops make red light, bigger drops make green, and bigger ones still make blue or violet.",
+        "This kind of light is sometimes called 'cold light', because the thing that glows does not have to be hot. You have seen it in nature. Fireflies make it with chemicals, and the northern lights glow when fast particles from the Sun crash into oxygen and nitrogen high in the sky. In this part we follow three families of 'cold light' that humans learned to make with electricity: glowing gases, glowing powders and glowing crystals."
+      ]
+    },
+    {
+      "heading": "Georges Claude and the Red Glow of Paris",
+      "paragraphs": [
+        "Scientists had been making gases glow since the 1850s. Glassblowers such as Heinrich Geissler in Germany sealed a little gas inside a glass tube, pumped out most of the air, and fixed a metal electrode at each end. When a high voltage was connected, the gas inside lit up with an eerie glow. These Geissler tubes were beautiful toys for laboratories and lecture halls, but they were too dim and short-lived for real lighting.",
+        "In 1898, the British chemists William Ramsay and Morris Travers discovered a new gas hiding in the air. They separated it by cooling air until it turned liquid and then letting the different parts boil off one at a time. When they put a sample in a glowing tube, it blazed a brilliant red-orange. They named it neon, from the Greek word for 'new'.",
+        "Neon was rare and expensive, until a French engineer named Georges Claude came along. In 1902 Claude invented an improved way of turning air into liquid on an industrial scale, so that oxygen and nitrogen could be sold to factories and hospitals. He and his partner Paul Delorme founded a company called Air Liquide, which still exists today. Separating huge amounts of air left Claude with a by-product: small amounts of neon. What could he do with it?",
+        "Claude found the answer by building long glass tubes filled with neon at low pressure, with specially designed electrodes that would last a long time. At the Paris Motor Show in December 1910, he showed two huge neon tubes glowing red. Visitors had never seen light like it: bright, colourful and strangely calm, with no flame and no hot filament. Claude soon realised the best use was not lighting rooms but advertising. A glass tube could be heated and bent into letters, words and pictures.",
+        "How does a neon tube work? The high voltage pulls electrons from the electrodes and speeds them along the tube. They crash into neon atoms, kicking the atoms' own electrons up to higher energy levels. When those electrons fall back down, they release photons of red-orange light, because that is the colour of neon's particular energy steps. Other gases have different steps and so different colours. Mercury vapour glows blue, helium a pinkish yellow, and argon a pale lavender. Sign makers also learned to coat the inside of tubes with glowing powders to make even more colours, although people still call almost all such signs 'neon'.",
+        "Claude patented his design, and his company, Claude Neon, sold signs around the world. In 1923 a car dealer named Earle C. Anthony bought two neon signs from Claude for his Packard showroom in Los Angeles. People said they literally stopped traffic, as drivers slowed down to stare. Within a few years, neon spread across American cities, and later it became the trademark of places such as Las Vegas, with its giant glowing cowboys and flashing arrows. Claude's main patent ran out in 1932, and then many companies could make neon signs.",
+        "Claude's own later life was less happy. He was a brilliant inventor who also tried to make electricity from the temperature difference in the ocean, but during the Second World War he publicly supported France's collaboration with Nazi Germany, and afterwards he was sent to prison. Like several people in this story, he is remembered for both his inventions and his mistakes."
+      ]
+    },
+    {
+      "heading": "The Buzzing Tube on the Ceiling",
+      "paragraphs": [
+        "Neon signs are wonderful for shouting 'OPEN' or 'HOTEL', but red light is no good for reading a book. To light offices, schools and kitchens, engineers needed a glowing gas that made white light. The answer came from a gas you might not expect: mercury, the silvery liquid metal once used in thermometers.",
+        "In 1901, the American inventor Peter Cooper Hewitt patented a lamp that sent current through mercury vapour. It was bright and efficient, but its light was a ghostly blue-green that made people's faces look ill. The reason is that mercury vapour gives off much of its energy as ultraviolet light, which our eyes cannot see, and only a little as visible blue and green.",
+        "The clever trick was to use that invisible ultraviolet. Certain powders, called phosphors, absorb ultraviolet light and glow with visible light of their own, a process called fluorescence. You may have seen it under a 'black light' at a party, where white shirts glow bright blue. Way back in 1859, Edmond Becquerel had experimented with coating gas tubes with glowing materials. In 1926 the Frenchman Jacques Risler patented fluorescent coatings on neon tubes. Then, in 1927, three German inventors, Friedrich Meyer, Hans Spanner and Edmund Germer, invented a low-pressure metal-vapour lamp along these lines, although their own design was never made in factories.",
+        "General Electric in the United States, which already owned other key patents, put all the pieces together. A fluorescent tube is a long glass tube coated on the inside with phosphor powder and filled with a little mercury vapour and argon gas. Electrons flowing along the tube excite the mercury atoms, which give off ultraviolet light; the phosphor coating turns that ultraviolet into white light. GE began selling fluorescent lamps in 1938, and the next year it paid 180,000 dollars for the Meyer, Spanner and Germer patent application, to protect its position.",
+        "A fluorescent tube needs a helper called a ballast. Once the gas inside starts conducting, it lets more and more current through, and without something to limit it the lamp would destroy itself in a moment. Old ballasts were heavy coils of wire on iron, which is why older fluorescent lights often buzzed and flickered as they started up.",
+        "Even with their buzz, fluorescent tubes were a giant improvement. They gave about 50 to 100 lumens per watt, several times better than an incandescent bulb, and lasted many thousands of hours. During and after the Second World War they spread through factories, offices, schools, hospitals and shops. If you have ever sat in a classroom under long white light panels, you have probably studied by fluorescent light."
+      ]
+    },
+    {
+      "heading": "Twisting the Tube: The Curly Bulb",
+      "paragraphs": [
+        "There was one place fluorescent tubes did not fit: the ordinary lamp socket at home. A tube more than a metre long will not go into a bedside lamp. In 1973, an oil crisis made energy suddenly expensive in many countries, and engineers began asking whether a fluorescent lamp could be squeezed down to the size of a normal bulb.",
+        "At General Electric's lighting laboratory in Ohio, an engineer named Edward Hammer had a neat idea. Instead of folding a tube, why not twist it into a spiral, like a curly pasta shape or a soft-serve ice cream? In 1976 he built a spiral compact fluorescent lamp, or CFL, that could screw into a normal socket. It worked. But GE decided not to sell it: building new factories to make it would have cost about 25 million dollars, and coating the inside of a twisted tube evenly with phosphor was difficult. Hammer's original prototype is now kept by the Smithsonian Institution in Washington, D.C.",
+        "Other companies chased the same goal. In 1980, Philips sold a compact fluorescent lamp that screwed into an ordinary socket, but it was big, heavy, flickered noticeably and took about three minutes to warm up to full brightness. In 1985 Osram brought out a CFL with an electronic ballast, which removed much of the flicker and slow starting. From about 1995, companies started making and selling spiral CFLs very like Hammer's design.",
+        "A CFL used about one-quarter to one-third of the electricity of an incandescent bulb giving the same light, and lasted roughly 6,000 to 15,000 hours instead of about 1,000. Over its life, it could save its owner far more in electricity than it cost to buy. Millions of homes switched over in the 1990s and 2000s.",
+        "CFLs had drawbacks, though. Many took a while to reach full brightness, some could not be dimmed, and their light could look harsh. Each one also contained a few milligrams of mercury, a poisonous metal, so broken or old CFLs had to be handled and recycled carefully. Even so, where electricity came from coal, which also releases mercury, a CFL could lead to less mercury pollution overall by saving so much power. CFLs turned out to be a bridge: an important improvement that would soon be overtaken by something much better."
+      ]
+    },
+    {
+      "heading": "A Crystal That Shines: How an LED Works",
+      "paragraphs": [
+        "The 'something much better' is the LED, short for light-emitting diode. To understand it, we need a special kind of material called a semiconductor. Copper is a conductor: its electrons move easily. Rubber is an insulator: its electrons stay put. A semiconductor, such as silicon or gallium arsenide, sits in between, and scientists can control exactly how well it conducts by adding tiny traces of other elements, a process called doping.",
+        "Doping can make two different kinds of semiconductor. One kind, called n-type, has a few spare electrons that are free to wander (n for negative). The other kind, called p-type, is missing some electrons. Each missing electron leaves a gap called a 'hole', and holes behave as if they were little positive charges that can move around too (p for positive). A diode is made by joining a p-type layer to an n-type layer. The boundary between them is called the junction.",
+        "Connect a battery the right way round, and electrons are pushed from the n-side toward the junction while holes are pushed from the p-side toward it. At the junction, an electron meets a hole and drops into it. Remember the ball falling down a step? The electron falls from a higher energy level to a lower one, and in the right materials it releases the energy it loses as a photon of light. Millions upon millions of these tiny drops every second make a steady glow.",
+        "The height of the step is called the band gap, and it is fixed by the material the crystal is made from. That is why each LED shines in one particular colour: gallium arsenide gives invisible infrared, gallium arsenide phosphide gives red, and gallium nitride, as we will see, gives blue. There is no filament to heat up and burn out, nothing to break except a tiny chip, and very little energy is wasted as heat. An LED chip is often smaller than a grain of rice, and it lights up instantly when switched on."
+      ]
+    },
+    {
+      "heading": "From Carborundum to Little Red Dots",
+      "paragraphs": [
+        "The first person known to have seen this effect was an English radio engineer named Henry Joseph Round. In 1907, while working for Guglielmo Marconi's wireless company, he was testing crystals of carborundum (silicon carbide) used to detect radio signals. When he passed current through one, he noticed it gave off a faint yellowish glow. He wrote a short note about it in the magazine Electrical World. It is the first known report of light from what we would now call a light-emitting diode, but Round was busy with radio and never followed it up.",
+        "In the 1920s, a young, largely self-taught Russian technician named Oleg Losev, working at a radio laboratory in Nizhny Novgorod, studied the same glow much more carefully. Around 1924 he saw light coming from carborundum crystal contacts and published his results from 1927 onwards. He argued that the glow was not caused by heat, and he even linked it to the new science of quantum physics. Losev's work was largely forgotten for decades. Sadly, he died of starvation in January 1942, aged 38, during the siege of Leningrad in the Second World War.",
+        "The modern LED was born in the early 1960s, when companies were exploring new semiconductors. In 1962, engineers at Texas Instruments patented a gallium arsenide diode that gave off strong infrared light, the invisible kind used today in television remote controls.",
+        "The same year, on 9 October 1962, Nick Holonyak Jr., a 33-year-old scientist at General Electric's laboratory near Syracuse, New York, showed a device made of gallium arsenide phosphide that glowed visibly red. At very low temperatures it worked as a laser; at room temperature it shone as a red LED, the first practical visible one. Holonyak had been the very first graduate student of John Bardeen, one of the inventors of the transistor. In 1963 he told the magazine Reader's Digest that his kind of light would one day replace the ordinary light bulb. Many people found that hard to believe. It took about fifty years, but he was right.",
+        "Early red LEDs were dim and very expensive. In the 1970s, companies such as Monsanto and Hewlett-Packard found ways to make them cheaply, for less than five cents each. Soon little red dots and glowing red numbers appeared everywhere: on pocket calculators, digital watches, clock radios, and the 'on' lights of televisions and stereos. Scientists soon made yellow, orange and green LEDs too. But one colour stubbornly refused to appear brightly, and without it, LEDs could never make white light."
+      ]
+    },
+    {
+      "heading": "The Great Blue Puzzle",
+      "paragraphs": [
+        "Why did blue matter so much? Our eyes see white when red, green and blue light are mixed together. Without a bright blue LED, there could be no white LED lamps and no full-colour LED screens. But blue light needs a big energy drop, a wide band gap, and the materials that had one were extremely hard to make into good crystals. Through the 1970s and 1980s, many big companies tried and gave up.",
+        "The most promising material was gallium nitride. It was so difficult to grow as a smooth, perfect crystal that most researchers abandoned it. Isamu Akasaki, a Japanese scientist, did not. He began working on gallium nitride in the late 1960s at the Matsushita research institute in Tokyo and carried on after moving to Nagoya University in 1981. There, with his young student Hiroshi Amano, he spent years growing crystals on slices of sapphire. In 1985 they found the trick of first laying down a thin 'buffer layer' grown at a lower temperature, which let a high-quality gallium nitride crystal form on top.",
+        "Next came an even harder problem. Gallium nitride naturally behaved as n-type, but an LED also needs a p-type layer. In 1989, Akasaki and Amano managed to make p-type gallium nitride by adding magnesium and then treating the crystal with a beam of electrons. They had made the first gallium nitride LED with a proper p-n junction, glowing in blue and ultraviolet.",
+        "Meanwhile, in the small city of Tokushima on the island of Shikoku, another researcher was attacking the same problem almost alone. Shuji Nakamura worked for Nichia, a modest chemical company that made phosphors. With a small budget, he built and modified his own crystal-growing equipment. He found a simpler way to make p-type gallium nitride, by heating the crystals, that was suitable for mass production, and he made layers containing indium to tune the colour. In 1993 Nichia began producing the first commercial high-brightness blue LEDs, and the world's lighting companies were astonished.",
+        "Nakamura later said his company had paid him a bonus of only 20,000 yen, about 180 dollars, for his key patent. He sued Nichia, and in 2005 the two sides settled for about 840 million yen, then the largest payment a Japanese company had made to an employee for an invention. By then Nakamura had moved to the University of California, Santa Barbara, where he still works. His blue-violet semiconductor lasers, developed from the same materials, later made Blu-ray discs possible.",
+        "In 2014, Akasaki, Amano and Nakamura shared the Nobel Prize in Physics 'for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources'. It was unusual for a Nobel Prize to honour something so practical, sitting in billions of homes, but the committee felt it was a gift to the whole world.",
+        "How does a blue LED make white light? Most white LED bulbs contain blue LED chips covered with a layer of yellow phosphor, the same kind of glowing powder used in fluorescent tubes. Some of the blue light passes straight through, and the rest is turned into yellow. Blue mixed with yellow looks white to our eyes. Changing the phosphor recipe makes the light 'warm white' like an old bulb or 'cool white' like daylight. Screens on phones and televisions use red, green and blue in tiny dots instead."
+      ]
+    },
+    {
+      "heading": "Goodbye, Old Bulb",
+      "paragraphs": [
+        "Once efficient white LEDs existed, the old incandescent bulb's days were numbered. Governments saw a way to save enormous amounts of electricity. Cuba replaced its bulbs and banned their sale in 2006 and 2007. Australia stopped shops selling ordinary incandescent bulbs from November 2009. The European Union began phasing them out in September 2009, starting with frosted bulbs and the brightest 100-watt clear bulbs, then lower wattages over the next three years. China began restricting them in 2012, Brazil fully banned them by 2016, and in the United States the sale of most ordinary incandescent bulbs ended on 1 August 2023.",
+        "The numbers explain why. Good LED lamps today can produce well over 100 lumens per watt, with some reaching 150 or more, compared with about 15 for an incandescent bulb. That means an LED needs roughly a fifth or less of the electricity to give the same light, using around 75 to 85 percent less energy. A good white LED can be expected to last 30,000 to 50,000 hours, compared with about 1,000 hours for an old bulb. Leave one on for eight hours every day, and it could keep going for more than ten years.",
+        "LEDs changed far more than bedside lamps. Traffic lights, car headlights, bicycle lights, torches, stadium floodlights, Christmas lights, aquarium lights and the screens of phones, laptops and giant stadium scoreboards all use them. Because they are tiny and work well from batteries, LEDs combined with small solar panels can now bring safe, smokeless light to homes far from any power line, replacing kerosene lamps, just as Part 17 described.",
+        "There is a twist, though. Because LED light is so cheap to run, some places simply use more of it, lighting buildings, signs and car parks all night that were once dark. And the bluish-white light of some LED streetlights scatters strongly in the sky, which can make skyglow worse. Many towns now choose warmer-coloured LEDs, shield them so the light points down, and dim them late at night. A better bulb is a powerful tool, but people still have to decide how to use it.",
+        "Look back over this part and you can see a hundred-year journey: from Geissler's flickering tubes to Claude's red signs, from Hewitt's ghostly mercury lamp to fluorescent tubes and Hammer's curly bulb, from Round's faint yellow glow to Holonyak's red dot and the blue LEDs of Akasaki, Amano and Nakamura. Each step gave more light for less energy. Yet even the most efficient lamp in the world still needs electricity from somewhere. A better bulb is only half the answer. The other half is where the electricity comes from, and that is where we go next: to the power of falling water, blowing wind and shining sunlight."
+      ]
+    }
+  ],
+  "deepDive": "The colour of an LED comes straight from quantum physics. The energy of a photon (E) is linked to its wavelength (λ) by E = hc/λ, where h is Planck's constant and c the speed of light. In convenient units, the wavelength in nanometres is about 1,240 divided by the energy in electronvolts. Gallium arsenide has a band gap of about 1.4 eV, giving infrared light near 870 nm. Gallium nitride's gap is about 3.4 eV, which corresponds to ultraviolet near 365 nm; mixing in indium narrows the gap so that indium gallium nitride emits blue around 450 nm, the colour used in most white LEDs. That wide gap is exactly why blue was hard. Gallium nitride crystals grown on sapphire were full of defects, because the two materials' atoms are spaced differently, and making the material p-type was blocked by hydrogen atoms that bonded to the magnesium dopant. Akasaki and Amano's low-temperature buffer layer and electron-beam treatment, and Nakamura's discovery that simple heating (annealing) drives out the hydrogen, solved these problems. Remarkably, gallium nitride LEDs shine brightly even though their crystals still contain huge numbers of defects, which would ruin many other semiconductors; scientists still debate exactly why, with one leading explanation involving tiny indium-rich regions that trap electrons and holes before they can reach the defects. Efficiency figures need care. 'Efficacy' in lumens per watt depends on the human eye, which is most sensitive to green-yellow light, so the theoretical maximum for good-quality white light is roughly 250 to 350 lm/W, not infinite. The US Department of Energy has set long-term targets in this range for LED packages. Economists also debate the 'rebound effect' (sometimes called Jevons' paradox): when light becomes cheaper, people may use more of it, so total energy savings can be smaller than the efficiency gain suggests. Historical studies show that the price of a given amount of light has fallen enormously since the days of candles, and the amount of light people use has risen dramatically alongside it. Even so, most studies find that switching to LEDs still produces large overall savings in electricity used for lighting.",
+  "funFact": "Shuji Nakamura said his employer originally paid him a bonus of only 20,000 yen, about 180 US dollars, for the blue LED patent that later helped win him a Nobel Prize.",
+  "check": {
+    "q": "Why was the bright blue LED so important for lighting?",
+    "a": "Blue light mixed with a yellow phosphor (or with red and green) makes white light, so it made white LED lamps possible",
+    "wrong": [
+      "Blue light is the only colour that does not produce any heat",
+      "Blue LEDs were needed to make neon signs glow red",
+      "Blue light lets electricity travel along wires without resistance"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Neon lighting",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Neon_lighting"
+    },
+    {
+      "title": "Fluorescent lamp",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fluorescent_lamp"
+    },
+    {
+      "title": "Compact fluorescent lamp",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Compact_fluorescent_lamp"
+    },
+    {
+      "title": "Light-emitting diode",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Light-emitting_diode"
+    },
+    {
+      "title": "Nick Holonyak",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nick_Holonyak"
+    },
+    {
+      "title": "Isamu Akasaki",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Isamu_Akasaki"
+    },
+    {
+      "title": "Shuji Nakamura",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shuji_Nakamura"
+    },
+    {
+      "title": "LED Basics",
+      "publisher": "US Department of Energy",
+      "url": "https://www.energy.gov/eere/ssl/led-basics"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Photograph of colourful glowing neon signs, for example on the Las Vegas Strip or a vintage neon sign",
+      "search": "vintage neon sign Las Vegas"
+    },
+    {
+      "want": "Photograph of a spiral compact fluorescent lamp (CFL) bulb",
+      "search": "spiral compact fluorescent lamp"
+    },
+    {
+      "want": "Close-up photograph of red, green and blue light-emitting diodes (LEDs) glowing",
+      "search": "RGB LED light emitting diodes"
+    }
+  ]
+}

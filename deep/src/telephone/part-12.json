@@ -1,0 +1,152 @@
+{
+  "n": 12,
+  "title": "Spinning Dials and Automatic Switches",
+  "when": "1889 – 1960s",
+  "summary": "An undertaker in Kansas City invented a machine that could connect telephone calls with no human operator at all. Soon people were spinning dials, click-click-click, to call their friends, and later they pressed buttons that played little musical notes. Step by step, machines took over the job of connecting the world's calls.",
+  "sections": [
+    {
+      "heading": "The Undertaker Who Wanted No Operators",
+      "paragraphs": [
+        "Almon Brown Strowger was not the sort of person you would expect to change the telephone forever. He was born on February 11, 1839, in Penfield, a village near Rochester in New York State. As a boy he reportedly liked trying to build machines that would do his farm chores for him. When the American Civil War began, he joined the 8th New York Cavalry in October 1861 as a musician, playing the bugle calls that told soldiers when to wake, march and charge. He rose to become chief trumpeter and finished the war as a second lieutenant, after being wounded at the Third Battle of Winchester in 1864.",
+        "After the war, Strowger worked as a country schoolteacher and then, rather surprisingly, became an undertaker, the person who runs funerals. He moved west to Kansas and eventually to Kansas City, Missouri, where he ran a funeral business in the late 1880s. In those days, when someone died, a family member would often call the undertaker on the telephone. And every telephone call in Kansas City went through human operators at the exchange.",
+        "This is where one of the most famous stories in telephone history begins, and it is important to know that it is a legend, not a proven fact. According to the story, a rival undertaker in Kansas City had a wife who worked as a telephone operator. Whenever a grieving family asked the operator to connect them to \"the undertaker\", she supposedly sent the call to her husband instead of to Strowger. Strowger, the story goes, found out when a friend of his died and the funeral was handled by his rival. Furious, he decided to build a machine that would connect calls automatically, so that no operator could ever steer his customers away again.",
+        "Nobody has been able to prove the details of this tale. It may be partly true, entirely true or simply a good story that grew in the retelling, which is exactly how legends work. Other versions say he simply blamed busy or careless operators for his lost calls. What we do know for sure is that Strowger was frustrated with manual switching and wanted to replace the operator with a machine, and that he actually succeeded.",
+        "Strowger was not an electrical engineer, but he had a clear idea. According to an often-repeated account, he built his first model using a round cardboard collar box (the kind that men's detachable shirt collars were sold in) and a bunch of straight pins stuck through it to act as electrical contacts. A small arm inside could move to touch any one of the pins, connecting the caller to that line. It was the same kind of homemade ingenuity George Coy had shown with his teapot-lid switchboard, but this time the goal was to take the human out of the middle altogether.",
+        "He is usually said to have worked out the idea around 1888 or 1889, and on March 10, 1891, he was granted US Patent No. 447,918 for an \"Automatic Telephone Exchange\". Strowger was by then in his fifties, and he knew he needed help to turn his idea into a working business. He enlisted his nephew William and a group of partners who understood electricity and money, and in 1891 they founded the Strowger Automatic Telephone Exchange Company."
+      ]
+    },
+    {
+      "heading": "La Porte, 1892: The First Automatic Exchange",
+      "paragraphs": [
+        "The new company needed a town willing to try something completely untested. They found it in La Porte, a small city in northern Indiana. On November 3, 1892, the first commercial automatic telephone exchange opened there. It started with about 75 subscribers and had room for 99. For the first time anywhere, ordinary customers could connect their own calls without speaking to an operator at all.",
+        "The very first La Porte telephones did not have dials. Strowger's original design used push keys instead. A customer pressed buttons a set number of times to send each digit of the number they wanted, and every press sent a pulse of electricity to the exchange. If you wanted line 34, you would tap one key three times for the tens and another key four times for the units. It worked, but it was fiddly, and if you lost count you reached the wrong person. Customers also needed extra wires from their home to the exchange to carry the signals from the separate keys.",
+        "The company's advertisements were cheerful and very proud of getting rid of the operator. They described their system as the \"girl-less, cuss-less, out-of-order-less, wait-less telephone\". The joke tells you a lot about the time: in 1892, an automatic exchange meant no operator, no rudeness and no waiting.",
+        "Engineers at the company kept improving the design. In 1896 they replaced the push keys with a much neater calling device: a finger wheel that you turned and let go, which sent the right number of pulses all by itself. This was the ancestor of the rotary dial that would sit on billions of telephones in the twentieth century. The company was later renamed the Automatic Electric Company, and it became one of the most important makers of telephone equipment in the world.",
+        "Strowger himself did not stay long. In 1896 he sold his patents to his business partners for about 1,800 dollars, and in 1898 he sold his share in the Automatic Electric Company for 10,000 dollars. He moved to St. Petersburg, Florida, and died there on May 26, 1902, at the age of 63. It turned out he had sold early: in 1916, the rights to his patents were sold to the Bell System for 2.5 million dollars. Still, his name lived on. Engineers all over the world called his kind of equipment the Strowger switch, and Strowger exchanges were still connecting calls in some places a hundred years after La Porte."
+      ]
+    },
+    {
+      "heading": "How a Rotary Dial Talks to a Machine",
+      "paragraphs": [
+        "If you have ever seen an old rotary telephone, you may have wondered how spinning a wheel could possibly tell a machine miles away what number you want. The answer is wonderfully simple. The dial does exactly what Strowger's push keys did, but automatically: it switches the electric current in your line off and on a precise number of times. Engineers call these quick off-on interruptions pulses, and the whole method is called pulse dialing.",
+        "Here is what happens. You lift the receiver, and a steady electric current starts flowing from the exchange, down the wire, through your telephone and back again. You put your finger in the hole for the number 3 and turn the dial clockwise until your finger hits a curved metal piece called the finger stop. Then you let go. A spring pulls the dial back to its starting position, and as it turns back, a small switch inside opens and closes the circuit once for each number it passes. Dial 3 and the current is broken 3 times: click, click, click. Dial 7 and it is broken 7 times. Dial 0 and, in North America and many other countries, it is broken 10 times, which is why 0 sits at the far end of the dial, after 9.",
+        "Notice that nothing happens while you wind the dial up. The pulses are only sent on the way back. That is important, because people wind dials at different speeds, but the machine needs the pulses at a steady rate. Inside the dial is a tiny speed controller called a governor, a little spinning brake that stops the dial returning too fast or too slow. On a standard home telephone the dial sends about 10 pulses every second. A long gap between groups of pulses tells the exchange that one digit is finished and the next is about to start.",
+        "Pulse dialing has some funny side effects. Because a pulse is just a quick break in the current, you could actually dial a number without the dial, by tapping the hook switch (the button the receiver rests on) very fast the right number of times. Telephone engineers knew that clumsy handling of the hook, or a jiggling receiver, could accidentally send a single pulse, which looks to the exchange exactly like dialing a 1. That is one reason why, in North America, local exchange codes were not allowed to begin with 1 or 0 for many years: a number starting with 1 could be triggered by accident, and 0 was saved for calling the operator."
+      ]
+    },
+    {
+      "heading": "Up and Around: The Step-by-Step Switch",
+      "paragraphs": [
+        "At the other end of the wire, in the exchange, the pulses arrive at Strowger's real invention: the stepping switch. Picture a small metal arm, called a wiper, sitting at the bottom of a curved bank of electrical contacts. The bank has 10 levels stacked one above another, like the floors of a building, and each level has 10 contacts arranged in a half-circle, like the rooms along a curved corridor. That makes 100 contacts in all, and each contact is the end of one customer's line.",
+        "When you dial the first digit, say 3, the three pulses flow into an electromagnet. Each pulse makes the magnet tug once, and each tug lifts the wiper up exactly one level. Click, click, click: the arm rises to the third floor. Then you dial the second digit, say 4. Now the pulses go to a different magnet, which turns the wiper sideways one step per pulse. Click, click, click, click: it rotates to the fourth contact on the third level. The wiper is now touching line 34, and the switch rings that telephone. No person has touched anything. Because the switch moves one step for each pulse, engineers called this system step-by-step.",
+        "One switch can only reach 100 lines, so how could a city with 10,000 or 100,000 telephones work? The trick was to chain switches together. The first digit you dial moves a switch called a selector, which picks one group of lines out of ten and hands your call on to another switch serving just that group. The next digit moves that switch, and so on, until the last two digits move the final switch, called a connector, to your friend's exact line. Each extra digit multiplies the number of lines you can reach by ten. With five digits you could reach 100,000 lines; with seven digits, ten million.",
+        "If you had walked into a step-by-step exchange, you would have heard it before you saw it. Rows of tall metal frames held thousands of switches, and every call made them rattle and chatter: wipers leaping up, swinging around, and snapping back home with a clunk when the call ended. In a busy exchange at the start of the working day, the room sounded like a giant room full of typewriters. Maintenance workers walked the aisles with tools, cleaning contacts and adjusting springs, because all those moving parts wore out."
+      ]
+    },
+    {
+      "heading": "The Bell System Picks Up the Dial",
+      "paragraphs": [
+        "You might expect that the biggest telephone company in America would have rushed to use automatic switching. In fact the Bell System was cautious for years. Independent telephone companies in smaller cities installed Strowger equipment quickly in the early 1900s, but Bell's engineers worried that step-by-step switches would not cope with the enormous number of calls in huge cities such as New York and Chicago, where a single exchange might serve tens of thousands of lines.",
+        "Instead, Bell's engineers at Western Electric spent years developing their own system for big cities, called the panel switch, in which motor-driven rods moved selectors up and down tall panels of contacts. They tested it carefully. On January 16, 1915, a partly automatic panel exchange called Mulberry opened in Newark, New Jersey, serving 3,640 subscribers. Operators still answered every call there, but instead of plugging in cords they typed the wanted number on keys and let the machine finish the job.",
+        "Around 1919 the Bell System committed to switching its customers over to dial service, using step-by-step equipment in smaller cities and panel equipment in the biggest ones. Telephone traffic was growing so fast that the company would have needed an impossibly large army of operators to keep up. In December 1921 the Douglas and Tyler exchanges in Omaha, Nebraska, became the first fully machine-switched panel exchanges, and their customers received dial telephones. Rotary dials did not become common across the Bell System until the 1920s, and the changeover took decades. Some towns did not lose their last manual switchboard until the 1970s and 1980s.",
+        "Switching technology kept improving. From the late 1930s, the Bell System began installing crossbar switches, which used a grid of crossing metal bars and small relays to make connections faster and more reliably than step-by-step or panel switches, with fewer parts that wore out. From the 1960s, the first electronic switching systems arrived, which used computers rather than clanking mechanical parts to decide where each call should go. Each new generation could handle more calls with less noise, less maintenance and fewer people."
+      ]
+    },
+    {
+      "heading": "PEnnsylvania 6-5000: Names, Numbers and Area Codes",
+      "paragraphs": [
+        "Once people dialed their own calls, telephone numbers became really important. In a big city, there were many exchanges, each serving a different neighbourhood, and each exchange had a name. To call someone, you dialed the first letters of the exchange name and then the number. That is why old dials have letters beside the numbers. In North America, an AT&T engineer named William G. Blauvelt worked out the standard pattern in 1917: 2 for ABC, 3 for DEF, 4 for GHI, 5 for JKL, 6 for MNO, 7 for PRS, 8 for TUV and 9 for WXY. There was no Q, and usually no Z.",
+        "So a number written as REgent 7-3456 meant dialing R and E, which are 7 and 3, followed by 7-3456. People remembered the names more easily than strings of digits, and exchange names became part of everyday life and popular culture. In 1940 the bandleader Glenn Miller had a hit song called \"PEnnsylvania 6-5000\", named after the real telephone number of the Hotel Pennsylvania in New York City. From the late 1950s and 1960s, telephone companies gradually switched to all-number calling, and the old exchange names faded away, though the letters stayed on the dial and still sit on phone keypads today.",
+        "Calling a nearby number was one thing, but how could a machine connect you to someone on the other side of the continent? In October 1947, AT&T and the other telephone companies drew up a plan that divided the United States and Canada into 86 numbered areas. Each area got a three-digit area code. This system grew into what is now called the North American Numbering Plan. The original codes followed a clever rule: the middle digit was always 0 or 1. Areas that covered a whole state or province got a 0 in the middle, while states split into several areas got a 1. Because ordinary local exchange codes never had 0 or 1 as their second digit back then, the switching machines could tell instantly whether you had dialed an area code or a local number.",
+        "New Jersey was given area code 201, the first in the list. The busiest cities received codes that were quick to dial on a rotary phone, with few pulses: New York City got 212, Los Angeles 213 and Chicago 312. Spinning 2-1-2 sends just five pulses in total, while a code such as 907 would take 26. For a person dialing many times a day, those saved seconds added up.",
+        "At first, area codes were used only by operators. Then, on November 10, 1951, the mayor of Englewood, New Jersey, M. Leslie Denning, dialed ten digits on his own telephone and reached Frank Osborne, the mayor of Alameda, California, more than 4,000 kilometres away, without speaking to a single operator. It was the first customer-dialed long-distance call in the United States, a service called direct distance dialing. At first only customers in Englewood and neighbouring Teaneck could use it, and only to reach eleven big cities. The service spread slowly in the 1950s and much faster in the 1960s. Britain began its own version, called subscriber trunk dialling, on December 5, 1958, when Queen Elizabeth II dialed a call from Bristol to Edinburgh. From March 1970, Americans could begin dialing some international calls directly too."
+      ]
+    },
+    {
+      "heading": "Touch-Tone: Music in Every Button",
+      "paragraphs": [
+        "Rotary dials were reliable, but they were slow. Dialing a long number like 0 or 9 meant waiting for the dial to crawl all the way back, and a ten-digit long-distance number could take many seconds to spin. Engineers at Bell Labs started looking for something faster, and they found it in music. On November 18, 1963, the Bell System began offering Touch-Tone service to customers in two Pennsylvania towns, Carnegie and Greensburg. Instead of a dial, the new Western Electric telephone had ten push buttons.",
+        "Each button on a Touch-Tone phone plays not one musical note, but two at the same time. The buttons are laid out in a grid of rows and columns. Each row has its own low tone and each column has its own high tone. The top row plays 697 hertz, the next 770, then 852, then 941. The left column plays 1,209 hertz, the middle 1,336 and the right 1,477. So when you press 1, top row and left column, the phone plays 697 and 1,209 hertz together. Press 9, third row and right column, and you get 852 and 1,477. Engineers call this system dual-tone multi-frequency signalling, or DTMF for short.",
+        "Why two tones instead of one? Because a single tone could easily be imitated by accident by a person's voice, music on a radio in the room or noise on the line, which might fool the exchange into thinking a button had been pressed. A precise pair of notes from two separate groups almost never happens by chance in normal speech. The frequencies were also carefully chosen so they would not clash with the special tones the telephone network already used to send signals between its own exchanges. And because the tones are ordinary sounds, they travel happily through the whole network, including amplifiers and radio links, so you can use them in the middle of a call too.",
+        "Around 1968, a twelve-button version of the phone arrived with two new keys: the star (*) and the square sign (#), which people in North America often call the pound key. Engineers added them because they imagined people one day using their phones to talk to computers. They were right. Every time you hear \"Press 1 for opening hours, press 2 to speak to someone\", you are using DTMF tones invented in the early 1960s. There is even a hidden fourth column of tones, for keys labelled A, B, C and D, which the US military used for special priority calls but which never appeared on ordinary home phones.",
+        "For years many telephone companies charged extra each month for Touch-Tone service, even long after it cost them nothing more to provide. Still, push buttons gradually replaced dials in homes and offices, and the rotary phone slowly became a museum piece."
+      ]
+    },
+    {
+      "heading": "What Happened to the Operators?",
+      "paragraphs": [
+        "Each step in this story, the stepping switch, the dial, area codes, direct dialing and Touch-Tone, meant fewer calls needed a human being to connect them. Operators did not vanish overnight. For decades people still dialed 0 for the operator to make collect calls, person-to-person calls, calls from pay phones and calls in emergencies, and operators still handled most long-distance calls until direct distance dialing spread in the 1960s. But the huge rooms full of switchboards slowly emptied, and one of the biggest sources of jobs for women shrank.",
+        "Historians who have studied this change found that it was hard for the operators who lost their jobs, many of whom had spent years at the board. Yet young women entering work in later years generally found jobs elsewhere, in offices and other growing kinds of work. Automation also brought something many customers wanted: privacy. With a machine connecting the call, no operator could listen in.",
+        "In some places the old ways lasted a surprisingly long time. In the small town of Bryant Pond, Maine, customers were still using hand-cranked telephones connected by an operator until October 1983, and it is believed to have been the last such exchange in the United States to switch to dialing. By then, the clatter of step-by-step switches was itself giving way to the silent hum of computers.",
+        "Automatic switching solved the problem of connecting calls without operators. But there was another, even older problem it could not solve. A voice sent down a wire becomes weaker and weaker the farther it goes. A switch can connect New York to San Francisco in a flash, but that does not help if the voice arrives too faint to hear. To make a phone call across a whole continent, engineers would need to find ways to keep a voice strong over thousands of kilometres of wire."
+      ]
+    }
+  ],
+  "deepDive": "The move from manual to automatic switching is a classic case study in how technology, economics and labour interact. A step-by-step exchange is a beautiful example of distributed control: each switch responds directly to the pulses of one digit and then passes the call on, with no central brain. That makes it simple and robust, but also rigid. The number you dial is literally the physical route through the machinery, so changing numbering plans or rerouting traffic around a busy part of the exchange is hard. The Bell System's panel and crossbar switches introduced common control: the dialed digits were first stored in a register, and a shared control unit then chose a free path through the switches. That separation of 'deciding' from 'connecting' was a key idea that led directly to computer-controlled electronic switching from the 1960s. Pulse dialing has a hard speed limit. At about 10 pulses per second plus gaps between digits, a ten-digit number full of 8s, 9s and 0s can take well over ten seconds to dial. DTMF removed that limit and also allowed signalling during a call, which made automated menus and later voicemail possible. Its two-of-eight tone scheme is a simple form of error resistance: real speech rarely produces exactly one frequency from the low group and one from the high group at the same time and strong enough to count. Historians still debate the Strowger origin story. The idea of a rival's wife diverting calls appears in many popular accounts, but there is little firm evidence for it, so it is best treated as a legend that captures a real frustration with manual switching. Economists have also studied the effect of automation on operators. A 2024 study found that mechanization hurt the operators already in the job but did not reduce overall employment for young women, who moved into other growing occupations. Finally, the 1947 area-code plan, with its 0-or-1 middle digit rule, is a good example of designing a numbering system around the limits of the hardware; that rule was eventually dropped in the mid-1990s, when the supply of codes ran short.",
+  "funFact": "When Touch-Tone phones arrived, engineers added the star and pound keys because they predicted people would one day use their phones to talk to computers, decades before automated phone menus became common.",
+  "check": {
+    "q": "Where did the first commercial automatic telephone exchange, using Almon Strowger's system, open in 1892?",
+    "a": "La Porte, Indiana",
+    "wrong": [
+      "New Haven, Connecticut",
+      "Kansas City, Missouri",
+      "Englewood, New Jersey"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Almon Brown Strowger",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Almon_Brown_Strowger"
+    },
+    {
+      "title": "Strowger switch",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Strowger_switch"
+    },
+    {
+      "title": "Rotary dial",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rotary_dial"
+    },
+    {
+      "title": "Panel switch",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Panel_switch"
+    },
+    {
+      "title": "Direct distance dialing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Direct_distance_dialing"
+    },
+    {
+      "title": "North American Numbering Plan",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/North_American_Numbering_Plan"
+    },
+    {
+      "title": "Dual-tone multi-frequency signaling",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling"
+    },
+    {
+      "title": "Push-button telephone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Push-button_telephone"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Portrait photograph of Almon Brown Strowger, inventor of the automatic telephone exchange",
+      "search": "Almon Strowger portrait"
+    },
+    {
+      "want": "Close-up of a Strowger step-by-step switch showing the wiper arm and the curved bank of contacts",
+      "search": "Strowger switch stepping selector"
+    },
+    {
+      "want": "A black rotary dial telephone with letters beside the numbers, such as a Western Electric Model 500",
+      "search": "Western Electric 500 rotary dial telephone"
+    }
+  ]
+}

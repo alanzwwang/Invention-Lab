@@ -1,0 +1,153 @@
+{
+  "n": 4,
+  "title": "Galileo Turns It Upward",
+  "when": "1609 – 1610",
+  "summary": "Galileo, a math teacher in Italy, heard about the Dutch spyglass and built a much stronger one himself. He pointed it at the night sky and saw mountains on the Moon, thousands of new stars, and four moons going around Jupiter. He wrote a little book about it that made him famous almost overnight.",
+  "sections": [
+    {
+      "heading": "A Professor in Padua",
+      "paragraphs": [
+        "In the summer of 1609 Galileo Galilei was 45 years old and, by the standards of the day, a successful but not famous man. He had been born in Pisa in 1564, the son of a musician, and he had studied at the University of Pisa before becoming a mathematics teacher. Since 1592 he had been professor of mathematics at the University of Padua, a famous old university about 40 km from Venice. Padua belonged to the Republic of Venice, a rich trading state with a powerful navy and a government run by the Doge and the Senate.",
+        "Galileo was a brilliant teacher and an energetic experimenter. He studied falling objects, swinging pendulums and the strength of materials. He also needed money. His salary was modest, he had to help support his family, and he had three children. To earn extra, he took in students who lived in his house, gave private lessons, and ran a small workshop with a skilled craftsman who built instruments to sell, including a calculating device called a geometric and military compass, useful to soldiers and engineers. So Galileo already knew how to design an instrument, get it made, and sell it to people with money.",
+        "He was also part of a lively circle of thinkers in Venice. One of his friends was Paolo Sarpi, the scholarly monk we met in the last part, who had been hearing about the Dutch spyglass since November 1608. Sarpi advised the Venetian government on technical matters, and in 1609 a foreigner reportedly came to Venice hoping to sell the Republic a spyglass for a high price. The government asked Sarpi's opinion, and the purchase did not go ahead. Venice, it seemed, was waiting for something better."
+      ]
+    },
+    {
+      "heading": "Cracking the Secret in One Night",
+      "paragraphs": [
+        "Galileo later told the story himself. While he was in Venice in the summer of 1609, he heard reports that a Dutchman had made an instrument that showed distant things as if they were close. Returning to Padua, he thought about how such a thing could work, using what he knew about refraction, the way glass bends light. According to his own account, he worked out the arrangement in a single night, and the next day he built one: a tube, made of lead, with a convex lens at the far end and a concave lens near the eye. It magnified about three times, just like the Dutch instruments.",
+        "Many people could make a three-times spyglass by then. What made Galileo different was what he did next. He understood that to get a stronger instrument, the front lens needed a longer focal length, meaning it should be very gently curved, while the eyepiece needed a shorter focal length, meaning it should be strongly curved. The lenses sold in spectacle shops were not right for this. So Galileo learned to grind and polish his own lenses, rubbing glass against curved metal dishes with finer and finer abrasive powders, hour after hour, then testing each one. Many of his lenses turned out badly, and only a few were good enough to keep.",
+        "The numbers show why this was so hard. For a magnification of about 20 times, the front lens of a Galilean telescope needs a focal length of roughly a meter, while the concave eyepiece needs a focal length of only about 5 cm. A lens with a focal length of a meter is so gently curved that it looks almost flat, and every tiny error in its shape shows up as blur. A strongly curved little eyepiece is just as fussy. Galileo had to make both kinds, line them up exactly in a long tube, and then test them on distant objects, again and again, until the image came out sharp.",
+        "His progress was fast. Within weeks he had an instrument magnifying about 8 or 9 times. By late autumn of 1609 he had one magnifying about 20 times, nearly a meter long, and later he made instruments reaching about 30 times. Two of Galileo's telescopes survive today in the Museo Galileo in Florence. One is a tube of wooden strips covered in leather, once red and decorated with gold, which magnifies about 21 times. The other is made of two wooden half-shells held together with wire and covered in paper, with a note by Galileo himself about its focal length; it magnifies about 14 times. Their front lenses are only a few centimeters across.",
+        "Galileo also learned the hard limits of his instrument. Its glass often had bubbles and a greenish tint. To reduce blurring he covered the edges of the front lens so that only the best central part was used, finding the right opening by trial and error. And the field of view, the patch of sky you could see at once, was tiny. With a typical Galilean telescope of 15 to 20 times, you could see only a small part of the full Moon at once, by some estimates about a quarter of it. Aiming it was tricky, and holding it steady was harder still, so he mounted it on a stand. Seeing through it well took skill and practice, which is one reason Galileo stayed ahead of his rivals for months."
+      ]
+    },
+    {
+      "heading": "Senators on the Bell Tower",
+      "paragraphs": [
+        "Galileo knew he had something valuable, and he knew who would want it most: the government of Venice. A city of sailors, merchants and warships cares a great deal about seeing ships approach. In August 1609 he brought his telescope, then magnifying about 8 or 9 times, to Venice to show it off.",
+        "Picture the scene. A group of Venice's important men, some of them old and dressed in long official robes, climb high up to look out over the lagoon and the sea beyond, by tradition from the top of the great bell tower of St Mark's Square. Galileo hands them the tube. One after another they put it to their eyes and gasp. Distant boats that look like specks become ships with sails, rigging and crews. People on islands far across the water can be seen going about their business. Galileo wrote that ships could be seen about two hours before they could be spotted with the naked eye.",
+        "On 25 August 1609 Galileo formally presented a telescope to the Doge and the Venetian government as a gift. The gift paid off. The Senate gave him a job at Padua for life and roughly doubled his salary, to about 1,000 florins a year. For a professor who had struggled with money, it was a huge reward.",
+        "There was a catch, though. Soon after, ordinary spyglasses began appearing in Venetian shops at low prices, and some senators grumbled that they had paid a great deal for something anyone could buy. Galileo's answer, in practice, was to keep improving. The spyglasses on sale were weak toys. His were far better, and he was about to use them for something no merchant or senator had imagined."
+      ]
+    },
+    {
+      "heading": "The Moon Has Mountains",
+      "paragraphs": [
+        "For about two thousand years, many educated Europeans had followed the ideas of the ancient Greek thinker Aristotle about the heavens. Everything above the Moon, he taught, was made of a perfect, unchanging substance, and heavenly bodies were perfect smooth spheres. The dark patches on the Moon, which you can see with your own eyes, were explained in various ways, but the Moon itself was supposed to be a flawless ball.",
+        "On 30 November 1609 Galileo turned his 20-power telescope toward the Moon, which was then a crescent a few days old. Over the next few weeks, until about 18 December, he watched it again and again as its phase changed. What he saw did not look like a flawless ball at all. The line between the lit part and the dark part of the Moon, called the terminator, was not a smooth curve. It was ragged and broken. Small bright points of light appeared in the dark part, separated from the lit area, and over a few hours they grew and joined up with it.",
+        "Galileo realized what these bright points must be. Think about sunrise in a mountain valley on Earth. The first rays of the Sun light up the tops of the highest peaks while the valley below is still in darkness. Then, as the Sun climbs, the light creeps down the slopes until the whole landscape is lit. The bright points in the Moon's dark side were mountain tops catching the sunrise before the land around them. He also saw dark shadows on the lit side that pointed away from the Sun and grew shorter as the Sun rose higher over them, just as shadows of hills do on Earth. And he saw round hollows with bright rims, which we now call craters.",
+        "Galileo did not stop at describing. He used geometry to estimate how tall the mountains were. By measuring how far from the terminator a lit peak sat, compared to the width of the whole Moon, he worked out how high it must stand to catch sunlight that early. His answer was that some lunar mountains were more than four Italian miles high, taller than any mountain he knew in Europe. Modern measurements show that the Moon's highest peaks really do rise several kilometers above the plains around them, so his method worked well.",
+        "There was something else. When the Moon is a thin crescent, you can often see the rest of its disk glowing faintly, a ghostly grey shape cradled in the bright curve. This is called earthshine. Galileo explained that it is sunlight reflected off the Earth onto the Moon, the same way moonlight is sunlight reflected off the Moon onto the Earth. (Leonardo da Vinci had written down the same explanation about a century earlier, in notebooks that were not published.) To Galileo it meant that the Earth shone in space just like the planets, which fitted nicely with the idea that Earth was itself a planet.",
+        "Galileo had trained in drawing as a young man, and it showed. He made beautiful ink-wash paintings of the Moon at different phases, with soft shading that captures craters and shadows. Compare them with Harriot's simple sketch from a few months earlier and you can see the difference: Harriot recorded what he saw, but Galileo understood it and explained it, turning shapes into a landscape."
+      ]
+    },
+    {
+      "heading": "Stars Beyond Counting",
+      "paragraphs": [
+        "Next Galileo pointed his telescope at the stars, and here too the sky changed before his eyes. Everywhere he looked, there were far more stars than anyone had ever counted. In the small cluster called the Pleiades, sometimes called the Seven Sisters, where sharp eyes see six or seven stars, he found about three dozen. Around the belt and sword of Orion, where the naked eye sees a handful, he counted roughly 80 more. Huge numbers of stars, he realized, were simply too faint for human eyes alone.",
+        "He also noticed a curious difference between stars and planets. Through his telescope the planets looked like tiny round disks, little moons. The stars, however, still looked like sharp points of light, only brighter. This hinted that the stars were incredibly far away, much farther than the planets, a clue that the universe might be enormously bigger than people imagined.",
+        "Then he turned to the Milky Way, the pale band of light that stretches across a dark sky. People had argued for centuries about what it was. Some thought it was a glow in the air, others some kind of heavenly mist. Galileo settled the question: through his telescope, the Milky Way broke up into countless faint stars packed together, too dim and close to see one by one with the eye. Other small fuzzy patches in the sky, which astronomers called nebulas, from the Latin word for cloud, also split into clusters of stars. Not every nebula would turn out to be made of stars, as later parts of this story show, but on the question of the Milky Way, Galileo was right."
+      ]
+    },
+    {
+      "heading": "Four New Worlds Around Jupiter",
+      "paragraphs": [
+        "On the evening of 7 January 1610, Galileo aimed his telescope at the planet Jupiter, which was shining brightly in the sky. Next to it he noticed three small, bright points of light lying in a straight line with the planet, two on the east side and one on the west. He assumed they were ordinary background stars that happened to be nearby, though he was curious that they lay in such a neat line. (Today we know that one of the three was actually two moons, Io and Europa, so close together that his telescope could not separate them.)",
+        "The next night, 8 January, he looked again, perhaps by chance. Now all three points were on the west side of Jupiter, closer together. That was puzzling. If they were fixed stars, then Jupiter must have moved, but in the wrong direction compared with the predictions in astronomers' tables. He waited eagerly for the next night, but clouds covered the sky. On 10 January he saw only two of the points, both to the east. Where had the third gone? Galileo guessed it was hidden behind Jupiter.",
+        "Night after night he kept watching and drawing little diagrams in his notebook: a circle for Jupiter and stars beside it, with notes on their positions. On 13 January he saw four small points at once for the first time. By 15 January he had worked it out. These were not background stars at all. They were moving with Jupiter across the sky, and moving back and forth around it. They were moons circling Jupiter, just as our Moon circles the Earth. He kept observing them until 2 March 1610.",
+        "It is hard to overstate how surprising this was. For all of human history, people had known of exactly one moon, our own. Now there were four more, circling another world. And this mattered in a huge argument about the universe. Many people who rejected Copernicus's Sun-centered idea asked: if the Earth really moved around the Sun, wouldn't it leave the Moon behind? But here was Jupiter, which everyone agreed moved, carrying four moons along with it. Jupiter's moons did not prove that the Earth went around the Sun, but they showed that not everything in the heavens circled the Earth, and they knocked down one of the objections to Copernicus.",
+        "Galileo was not the only person to see these moons that winter. The German astronomer Simon Marius later said he had seen them first, in late 1609. When historians match up the different calendars then in use, Marius's first clear record turns out to be from 8 January 1610, one day after Galileo, and he very likely discovered them independently. But Galileo published first, and publishing is what put his name on the discovery.",
+        "Today we know a great deal about these four moons. Io, the closest to Jupiter, races around it in less than two days and is covered in erupting volcanoes. Europa, a little smaller than our Moon, has an icy crust that probably hides an ocean of salty water. Ganymede, which takes about a week per orbit, is the largest moon in the whole Solar System, bigger than the planet Mercury. Callisto, the outermost, takes about 16.7 days and is covered with ancient craters. Galileo simply numbered them I, II, III and IV from the inside out. The names we use now came from Marius, who took a suggestion from Johannes Kepler to name them after figures from Greek myths linked to Zeus, the Greek version of Jupiter. Kepler also gave us another word from this discovery: he was the one who started calling such moons 'satellites.'"
+      ]
+    },
+    {
+      "heading": "Why Galileo, and Not Someone Else?",
+      "paragraphs": [
+        "Galileo did not invent the telescope, and he was not the first person to point one at the sky. Thomas Harriot drew the Moon months earlier, Simon Marius was watching Jupiter at almost the same time, and others with spyglasses surely glanced upward too. So why is it Galileo whose name is tied to these discoveries? Historians usually point to a handful of reasons, and together they tell us a lot about how science works.",
+        "First, he had better tools. Most spyglasses of 1609 magnified three to six times. Galileo's best magnified about 20 times or more, because he had taught himself to grind special lenses instead of using spectacle lenses from a shop. At six times, Jupiter's moons are very hard to pick out, and the Moon's mountains look like vague smudges. At 20 times, the moons appear as clear points and the Moon's terminator shows sharp, jagged detail. Other astronomers needed about six months to get instruments good enough to see what he had seen.",
+        "Second, he observed patiently and systematically. He did not just look once and say 'how interesting.' He returned to the Moon night after night as its phase changed, and he tracked Jupiter's little points of light through January, February and into March, writing down their positions and drawing them each time. It was the pattern over many nights, not any single glance, that proved the points were moons.",
+        "Third, he explained what he saw. Harriot drew the Moon's ragged edge, but Galileo worked out that it was caused by mountains and shadows and even measured their height with geometry. Seeing is only half of discovery; understanding is the other half.",
+        "Fourth, and very importantly, he published, quickly and clearly, in a language every scholar could read. A discovery locked in a private notebook, like Harriot's, cannot change what anyone else thinks. A printed book can travel across a continent in weeks. Finally, Galileo was a gifted writer and a skilled self-promoter who knew how to win powerful supporters. That talent helped him greatly in 1610. As the next part shows, it would also help to land him in serious trouble."
+      ]
+    },
+    {
+      "heading": "The Starry Messenger",
+      "paragraphs": [
+        "Galileo knew he had to announce his discoveries quickly, before someone else did. He wrote a short book in Latin, the language that scholars all over Europe could read, and rushed it into print in Venice. It was published on 13 March 1610, just about two months after he first saw Jupiter's moons. Its title was Sidereus Nuncius, which can be translated as 'The Starry Messenger' or 'The Starry Message.' It was the first published scientific book based on observations made with a telescope.",
+        "The book is short, only a few dozen pages, but it is packed. It describes how Galileo built his instrument and how others could check his work. It shows his pictures of the Moon's mountains and craters, his maps of the extra stars in the Pleiades and Orion, and his explanation of the Milky Way. And it includes many little diagrams of Jupiter with its moons in different positions, night by night, so readers could follow the discovery as he made it. Around 550 copies were printed, and they are said to have sold out within days.",
+        "Galileo was also thinking carefully about his career. He dedicated the book to Cosimo II de' Medici, the young Grand Duke of Tuscany, who had once been his pupil. At first he wanted to call the moons the 'Cosmian Stars' after Cosimo himself, but he changed it to the 'Medicean Stars,' in honor of Cosimo and his three brothers, four brothers for four moons. He sent telescopes to important rulers so they could see the moons for themselves. The plan worked. In the summer of 1610 he was named chief mathematician and philosopher to the Grand Duke of Tuscany and soon moved to Florence, with a good salary and no teaching duties, free to spend his time on research.",
+        "Not everyone was convinced. Some scholars claimed the new moons were just tricks of the lenses, flaws in the glass rather than real objects. A few refused to look at all. Others could not see the moons with the poor spyglasses they owned. But Johannes Kepler, the great German astronomer, wrote a public letter in support of Galileo in April 1610, and as better telescopes spread, more and more astronomers saw the moons for themselves. The arguments that followed belong to the next part of this story.",
+        "By now the instrument needed a proper name. Galileo called it a perspicillum, a Latin word, and Italians called it an occhiale, an eyeglass. On 14 April 1611, Prince Federico Cesi held a banquet in Rome to welcome Galileo as a member of his scientific society, the Accademia dei Lincei, or Academy of the Lynxes, named after the sharp-eyed wild cat. At that banquet a Greek scholar named Giovanni Demisiani suggested a new word built from two Greek parts: tele, meaning far, and skopein, meaning to look. The word was telescope, and it stuck.",
+        "In less than a year, a spyglass made for spotting ships had shown mountains on the Moon, uncounted stars in the Milky Way and four moons circling Jupiter. Moons around Jupiter showed that not everything circles the Earth. And the next discoveries would put Galileo on a collision course with powerful people."
+      ]
+    }
+  ],
+  "deepDive": "How did Galileo measure a mountain he could never visit? His method in Sidereus Nuncius is a lovely piece of geometry. Imagine the Moon as a ball, with the terminator marking where sunlight just skims the surface. A peak standing in the dark part beyond the terminator lights up when its top pokes high enough to catch a sunbeam that grazes the surface at the terminator. That grazing sunbeam, the Moon's radius from the center to the terminator, and the line from the center up to the peak's summit form a right-angled triangle. Galileo judged that some bright points sat about one-twentieth of the Moon's diameter away from the terminator. Taking the Moon's diameter as about 2,000 Italian miles, a figure based on the size estimates of his day, the Pythagorean theorem gives a height of a few miles, and Galileo announced that some lunar mountains were more than four miles high. The method is sound; the main uncertainties are judging tiny distances by eye through a wobbly 20-power telescope and the old estimate of the Moon's size. Modern measurements show the Moon's tallest peaks rise roughly 5 km above their surroundings, so Galileo was in the right range. His telescope's design limits are just as interesting. A Galilean telescope's field of view shrinks as magnification rises, because the concave eyepiece cannot gather the outer rays coming from the objective. At about 20 times, Galileo could see only part of the Moon at once, and to find Jupiter he had to aim along the tube with great care. The glass, full of bubbles and streaks, forced him to stop down the objective, so the working opening was noticeably smaller than the lens itself, which made faint objects even harder to see. Historians also discuss the calendar puzzle in the Jupiter story. Catholic Italy used the new Gregorian calendar, while Protestant parts of Germany, where Marius lived, still used the older Julian calendar, ten days behind. Once dates are converted, Marius's first record falls on 8 January 1610, one day after Galileo's. Most scholars accept that Marius saw the moons independently, while Galileo deserves credit for the first publication and for proving the objects were orbiting Jupiter.",
+  "funFact": "Ganymede, one of the four moons Galileo discovered around Jupiter, is the largest moon in the Solar System and is even bigger than the planet Mercury.",
+  "check": {
+    "q": "What name did Galileo give to the four moons he discovered circling Jupiter in January 1610?",
+    "a": "The Medicean Stars",
+    "wrong": [
+      "The Lincei Lights",
+      "The Dutch Stars",
+      "The Venetian Moons"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Galileo Galilei",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+    },
+    {
+      "title": "Sidereus Nuncius",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sidereus_Nuncius"
+    },
+    {
+      "title": "Galilean moons",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Galilean_moons"
+    },
+    {
+      "title": "Telescope",
+      "publisher": "The Galileo Project, Rice University",
+      "url": "https://galileo.library.rice.edu/sci/instruments/telescope.html"
+    },
+    {
+      "title": "Satellites of Jupiter",
+      "publisher": "The Galileo Project, Rice University",
+      "url": "https://galileo.library.rice.edu/sci/observations/jupiter_satellites.html"
+    },
+    {
+      "title": "The Moon",
+      "publisher": "The Galileo Project, Rice University",
+      "url": "https://galileo.library.rice.edu/sci/observations/moon.html"
+    },
+    {
+      "title": "Galileo's instruments",
+      "publisher": "Museo Galileo, Florence",
+      "url": "https://www.museogalileo.it/en/galileo/instruments-en.html"
+    },
+    {
+      "title": "Jupiter Moons",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/jupiter/jupiter-moons/"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Galileo's ink-wash drawings of the Moon showing craters and the ragged terminator, made in 1609",
+      "search": "Galileo Moon drawings 1609 wash"
+    },
+    {
+      "want": "Page of Sidereus Nuncius (1610) with Galileo's sketches of Jupiter and its moons night by night",
+      "search": "Sidereus Nuncius Medicean stars Jupiter sketches"
+    },
+    {
+      "want": "Galileo's two surviving telescopes displayed at the Museo Galileo in Florence",
+      "search": "Galileo telescopes Museo Galileo Florence"
+    }
+  ]
+}

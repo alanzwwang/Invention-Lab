@@ -1,0 +1,158 @@
+{
+  "n": 16,
+  "title": "Everyone's a Publisher: Social Media",
+  "when": "1997 – today",
+  "summary": "For hundreds of years, only newspapers, TV stations and book publishers could share news and stories with millions of people. Then the Internet let anyone make a homepage, write a blog, post a video or share a photo with the whole world. That brought families closer and helped people learn and help each other, but it also brought new problems, like fake news and apps designed to keep you scrolling.",
+  "sections": [
+    {
+      "heading": "A Little Home on the Web",
+      "paragraphs": [
+        "Think about how news travelled in 1990. If you wanted thousands of people to read your story, you needed a newspaper, a magazine, a radio station or a TV channel to agree to publish it. Printing presses and broadcast towers were expensive, so a small number of editors decided what most people saw and heard. Ordinary people could write letters to the editor, and hope.",
+        "The World Wide Web changed that. As you saw in Part 10, Tim Berners-Lee designed the Web so that anyone with a server could publish pages. But in the early 1990s, running your own web server was difficult. What ordinary people needed was a free place to put a page.",
+        "In 1994 David Bohnett and John Rezner started a company in California called Beverly Hills Internet, which soon became GeoCities. It gave people free space to build their own web pages, called 'homepages'. GeoCities organised them like a city. Pages were grouped into themed 'neighbourhoods': one for science fiction fans, one for computer topics, one for families, and so on. Each page had an address, almost like a house number on a street, and users were called 'homesteaders', the old American word for settlers who claimed land.",
+        "Visiting a GeoCities page in the late 1990s was an adventure. People wrote in bright colours on starry backgrounds, added spinning animated pictures, flashing 'Under Construction' signs, music that started playing automatically, and little counters showing how many visitors had come. Some pages were about a pet hamster, others were detailed fan guides to video games, or family histories carefully typed out by grandparents. There were millions of them. In 1999 the search company Yahoo! bought GeoCities for about 3.6 billion dollars in shares.",
+        "Around that time GeoCities taught an early lesson about privacy. The US Federal Trade Commission found that the company had told members their personal information would be used in one way, while actually sharing it in other ways, and ordered it to stop. Later, when Yahoo! changed the rules to claim rights over what users had written, homesteaders protested loudly and Yahoo! backed down. Even in the 1990s, people cared about who controlled what they had made.",
+        "Yahoo! closed GeoCities in the United States on 26 October 2009. Volunteers from the Internet Archive and a group called Archive Team raced to copy as many pages as they could before the deadline, and Archive Team later shared about 641 gigabytes of rescued pages. That is why you can still visit some of those sparkling, chaotic homepages today. It is a reminder that what we put online is not automatically kept forever, and not automatically deleted either."
+      ]
+    },
+    {
+      "heading": "From Weblogs to Blogs",
+      "paragraphs": [
+        "A homepage was a bit like a poster: you made it and then mostly left it alone. Some people wanted something more like a diary, updated every day with new thoughts and links. In 1994 a college student named Justin Hall started a website called links.net, where he wrote about his life and pointed to interesting things he had found on the Web. It is often called one of the very first blogs, though, as with many 'firsts', other people were doing similar things around the same time.",
+        "In 1997 a writer named Jorn Barger called this kind of site a 'weblog', a log, or record, of the web. In 1999 a designer named Peter Merholz jokingly split the word as 'we blog', and the short word 'blog' stuck. A person who writes one is a blogger, and each entry is a post. Posts appear with the newest at the top, and readers can usually leave comments underneath.",
+        "At first you needed to know some HTML to keep a blog. Then, in 1999, a small company called Pyra Labs, founded by Evan Williams and Meg Hourihan, launched Blogger, which let anyone start a blog by filling in a simple form. The same year LiveJournal appeared, and in 2003 the free blogging software WordPress was released. WordPress is open source, like the Linux and Apache software in Part 15, and today it powers a very large share of all websites.",
+        "Blogs gave a voice to people who had never had one. A teacher could share lesson ideas with teachers on other continents. Someone with a rare illness could find others with the same condition. Hobbyists who knew more about old trains, knitting or beetles than any newspaper reporter could write about them in detail. Some bloggers became journalists, uncovering stories that big news organisations had missed, while others simply wrote about their cats.",
+        "There was a catch that would become important later. A newspaper has editors who check facts before printing, and it can be sued if it publishes lies about people. A blog might have no editor at all. Readers suddenly had to do more of the checking themselves: who wrote this, how do they know, and do other trustworthy sources agree? Those questions, which we will come back to in Part 18, became far more urgent as social media grew."
+      ]
+    },
+    {
+      "heading": "The First Social Networks",
+      "paragraphs": [
+        "Blogs were about publishing. Social networks added something new: a map of who knows whom. You may have heard of the idea of 'six degrees of separation', the claim that any two people on Earth are linked by a short chain of friends of friends, perhaps about six steps long. In 1997 an entrepreneur in New York named Andrew Weinreich launched a website named after that idea: SixDegrees.com.",
+        "SixDegrees let you create a profile and list your friends, family and acquaintances, and even invite people who were not members yet. You could then send messages and post on bulletin boards that reached people up to three steps away from you in the network. At its height it had about 3.5 million registered members, and in December 1999 a company called YouthStream Media Networks bought it for 125 million dollars. But most people were still using slow dial-up connections, few of their friends were online, and digital cameras were rare, so there was not much to do there. SixDegrees shut down around the end of 2000.",
+        "The next attempt came from a Canadian programmer in California called Jonathan Abrams. He founded Friendster in 2002 and launched it in 2003. Friendster let you see your friends' friends and was meant partly to help people meet new people. It grew to about 3 million users within months, and in 2003 Google offered to buy it for 30 million dollars, an offer Friendster turned down. In the United States it was soon overtaken by rivals, but it became hugely popular in Southeast Asia, where most of its later visitors came from, before finally closing in 2015.",
+        "Myspace launched on 1 August 2003. It was built in about ten days by a team at a Los Angeles internet company, and its early leaders included Chris DeWolfe and Tom Anderson. When you joined Myspace, Tom was automatically your first friend, so millions of people knew his smiling profile picture. Myspace let users decorate their profile pages with their own colours, backgrounds and songs, a little like GeoCities pages, and it became especially important for musicians, who could upload songs and gather fans without a record deal.",
+        "Myspace exploded. In July 2005 the media company News Corporation bought it for 580 million dollars. In June 2006 it became the most visited website in the United States, ahead even of Yahoo! Mail and Google Search, and by 2008 it had over 100 million visitors a month. Then, just as quickly, people began leaving for a newer network with a plainer blue design. The lesson for social networks was clear: people go where their friends are, and if their friends move, they move too."
+      ]
+    },
+    {
+      "heading": "The Facebook, the Feed and the Little Blue Bird",
+      "paragraphs": [
+        "In February 2004, a 19-year-old Harvard University student named Mark Zuckerberg launched a website called TheFacebook from his dormitory room, together with fellow students Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes. Many American colleges printed 'face books', directories with a photo and a few details about each student. TheFacebook put that idea online, and let students connect as friends and see each other's profiles.",
+        "At first only people with a Harvard email address could join. That made it feel exclusive and trustworthy, because everyone was a real student using their real name. Within a month it opened to Stanford, Columbia and Yale, then to hundreds of other universities. In 2005 the company dropped 'The' from its name and opened a version for high schools. In September 2006 it opened to anyone aged 13 or over with an email address. The same year it introduced the News Feed, a constantly updated list of what your friends were doing. Some users protested that it felt like spying, but the feed became the heart of Facebook, and of almost every social app since.",
+        "Facebook kept growing at an almost unbelievable speed. It passed Myspace in worldwide visitors around 2007 or 2008, reached 500 million users in 2010 and one billion monthly users in October 2012, the same year it sold shares to the public. In 2021 the company renamed itself Meta, though the Facebook website and app kept their names.",
+        "Meanwhile in San Francisco, a podcasting company called Odeo was struggling. In 2006 a small team there, including Jack Dorsey, Noah Glass, Biz Stone and Evan Williams (the same Evan Williams who had helped create Blogger), built a service first spelled 'twttr'. The idea was to share short status updates, like a text message sent to everyone who followed you. Posts were limited to 140 characters, short enough to fit in a mobile phone text message with room left for a username. Twitter launched publicly in July 2006. Its big breakthrough came at a technology festival in Austin, Texas, in March 2007, when the number of messages per day jumped from about 20,000 to about 60,000 as people used it to tell each other which talks and parties to go to.",
+        "Twitter users invented many of its rules themselves. In 2007 a user named Chris Messina suggested putting the # symbol in front of a word, like #science, to group posts on the same topic. The 'hashtag' spread to almost every other social network. Twitter doubled its post limit to 280 characters in 2017 and was renamed X in 2023.",
+        "Photos became the next big thing once phones had good cameras. Kevin Systrom and Mike Krieger had built a check-in app called Burbn, but noticed that people mostly liked its photo features. They stripped everything else away and on 6 October 2010 released Instagram for the iPhone, with filters that made phone snapshots look like old-fashioned prints. It gained a million users in about two months. Facebook bought Instagram in 2012 for about 1 billion dollars, when the company had only around a dozen employees.",
+        "Later apps kept changing the shape of social media. Snapchat, launched in 2011, made photos that disappeared after being viewed. TikTok, launched internationally in 2017 by the Chinese company ByteDance, built its whole design around short videos chosen for you by a computer program called a recommendation algorithm, rather than mainly by who your friends are. Each new app borrowed ideas from the last and added a twist."
+      ]
+    },
+    {
+      "heading": "Nineteen Seconds at the Zoo",
+      "paragraphs": [
+        "Sharing videos was much harder than sharing words or pictures. Video files were huge, and different computers needed different programs to play them. In early 2005 three former employees of PayPal, the payment company you met in Part 15, decided to fix that. Chad Hurley, Steve Chen and Jawed Karim registered the name youtube.com in February 2005. Their website would convert any uploaded video into a format that played straight away in a web browser, and let anyone copy a bit of code to show the video on their own blog or Myspace page.",
+        "On 23 April 2005, Jawed Karim uploaded the very first YouTube video. It is called 'Me at the zoo'. His high school friend Yakov Lapitsky filmed him standing in front of two elephants at the San Diego Zoo in California. Karim, wearing a dark jacket, turns to the camera and explains that the cool thing about these animals is that they have really, really, really long trunks. That is pretty much it. The whole video lasts 19 seconds.",
+        "It does not sound like a historic moment, but in a way it was perfect. It was not made by a film studio or a TV channel. It was made by an ordinary person, with an ordinary camera, about whatever he felt like. That is exactly the kind of video YouTube would soon be full of. 'Me at the zoo' is still online, and it has been watched hundreds of millions of times.",
+        "YouTube grew so quickly that by October 2006 Google bought it for 1.65 billion dollars. Since then it has become one of the most visited websites in the world. People upload cooking lessons, science experiments, music, video-game walkthroughs, lectures from top universities and videos explaining how to fix almost anything, from a bicycle chain to a leaking tap. In the United States, about 84 percent of adults say they use YouTube, more than any other social platform, according to the Pew Research Center.",
+        "Something else quietly happened too. YouTube and similar sites let creators earn money by sharing in the income from adverts shown alongside their videos. A teenager filming in a bedroom could build an audience bigger than some TV channels. 'YouTuber' and 'content creator' became real jobs, and many children today name them as their dream careers. Remember those dark fibres from the dot-com crash? The huge amounts of cheap bandwidth they provided helped make streaming billions of videos possible."
+      ]
+    },
+    {
+      "heading": "The Bright Side: Connection, Creativity and Help",
+      "paragraphs": [
+        "Social media has done a great deal of good. For families spread across countries, it means grandparents can see new baby photos minutes after they are taken, and cousins on different continents can grow up knowing each other. People who feel alone because of an unusual illness, a disability, or simply an unusual hobby can find others who understand them.",
+        "It has become a giant classroom. You can learn to play the guitar, solve a Rubik's cube, draw comics or understand black holes from people who are passionate about those things. Museums, space agencies and scientists post their discoveries directly. When NASA lands a rover on Mars, millions of people watch it live online and ask questions in the comments.",
+        "Creativity has exploded. Musicians who once needed a record company can release songs directly to fans. Young animators, writers, game designers and filmmakers can show their work to the world, get feedback and improve. Many famous singers, comedians and authors today were first noticed online.",
+        "Social media can also help in emergencies. After the earthquake in Haiti in January 2010, people in the United States gave millions of dollars to the Red Cross simply by sending a text message, setting a record for mobile donations, with the appeal spread widely through social networks. In 2014 the 'Ice Bucket Challenge', in which people filmed themselves being drenched in icy water and challenged friends to do the same, raised about 115 million dollars for research into the disease ALS in about two months, passing 100 million dollars in its first month. Facebook added a 'Safety Check' feature in 2014 so that people near a disaster could tell their friends and family with one tap that they were safe. Volunteers use online maps and posts to organise rescues, share where shelters are, and find missing pets.",
+        "Social media also gives people a way to speak up. Communities can draw attention to problems that newspapers ignore, and citizens can film events as they happen. That power to organise is one of the most debated parts of the story, as the next section shows."
+      ]
+    },
+    {
+      "heading": "The Hard Side: Hooks, Comparisons and Fake News",
+      "paragraphs": [
+        "Most social media apps are free to use. That raises a fair question: how do the companies make billions of dollars? The main answer is advertising. The longer you spend in an app, the more adverts you see and the more the company learns about what you like, so it can show you adverts you are more likely to click. This creates a strong reason for companies to design apps that are very hard to put down.",
+        "Some of these designs are easy to spot once you know about them. A feed that never ends, so there is no natural place to stop, is called 'infinite scroll'. Its inventor, the designer Aza Raskin, has said he regrets how it is used. Videos that start playing automatically, red notification badges, streaks you lose if you skip a day, and counts of likes all work on the same part of the brain that enjoys surprises and rewards. You never know whether the next refresh will bring something exciting, which is a bit like a slot machine.",
+        "Comparing yourself to others is another problem. People usually post their best moments: the holiday, the perfect photo, the prize. Scrolling through everyone else's highlights can make your normal day feel dull, even though their normal days are just as ordinary. Filters can change faces and bodies so that photos are not even real. In 2023 the US Surgeon General, America's top public health official, issued an advisory warning that heavy social media use can carry real risks for young people's mental health and sleep, while also noting benefits such as finding friends and support. Taking breaks, turning off notifications and talking about how apps make you feel are all sensible habits.",
+        "Then there is misinformation, false information spread as if it were true. In 2018 researchers at MIT studied over a decade of stories shared on Twitter and found that false news spread faster and reached more people than true news, often because false stories were more surprising and emotional. A lie can travel around the world before anyone has checked it. Fake news has spread about elections, about health and vaccines, and about disasters while they were still happening.",
+        "Social media's role in big political events is debated too. The 'Arab Spring' was a wave of protests across North Africa and the Middle East from late 2010 to 2012. In Tunisia, videos filmed on phones and shared online helped spread news of the protests. In Egypt, a Facebook page called 'We Are All Khaled Said' helped call people to demonstrations in January 2011, and the government shut down most Internet access for several days, which did not stop the protests. Some reporters called these 'Facebook revolutions' or 'Twitter revolutions'. Many historians and political scientists think that goes too far. People protested because of deep problems such as unemployment, high prices and unfair governments. Social media helped spread information and organise faster, but it did not cause the protests, and in some countries where few people used it, it played only a small part. Governments, too, learned to use the same tools to watch and track protesters."
+      ]
+    },
+    {
+      "heading": "Why Thirteen? A Law About Children's Data",
+      "paragraphs": [
+        "If you have ever tried to sign up for a social media app, you have probably been asked your age, and told you must be at least 13. Why 13, and not 10 or 16? The answer is a US law passed in 1998, the Children's Online Privacy Protection Act, usually shortened to COPPA.",
+        "In the late 1990s, people noticed that some websites aimed at children were asking them for names, home addresses, email addresses and other personal details, sometimes in exchange for games or prizes, and then using that information for marketing. Congress passed COPPA in 1998 and asked the Federal Trade Commission, the government agency that protects consumers, to write detailed rules. The rules came into force on 21 April 2000 and were updated in 2013 and again in 2025.",
+        "COPPA says that websites and apps aimed at children under 13, or that know a user is under 13, must tell parents what information they collect and get a parent's verifiable permission before collecting personal information from that child. Getting reliable parental permission for millions of users is complicated and expensive. So most social media companies decided simply not to allow users under 13 at all. That is why 13 became the common minimum age around the world, even in countries with their own laws. Some countries now set higher ages for some services; under Europe's data rules, for example, the age can be as high as 16 depending on the country.",
+        "It is worth being clear about what the rule means. The age limit is mainly about protecting children's personal data, not a promise that apps are perfectly safe for everyone over 13. Lying about your age to get in removes the extra protections the law was meant to give. Some companies have built special versions for younger users, such as YouTube Kids, launched in 2015, with stricter controls and parents involved.",
+        "Social media turned the Internet from a library into a giant town square, where billions of people talk, share, argue, joke and help each other at once. It made everyone a publisher. But town squares attract more than friendly neighbours. Where lots of people gather, so do tricksters and thieves, looking for passwords, money and personal information. And the Internet, designed by researchers who mostly trusted each other, was not built with security in mind."
+      ]
+    }
+  ],
+  "deepDive": "Researchers who study social media often describe a shift from 'Web 1.0', where a relatively small number of organisations published and most people only read, to 'Web 2.0', a term popularised around 2004 by the publisher Tim O'Reilly, where the users themselves supply most of the content. The economics behind that shift matter. Social platforms are 'two-sided markets': users get the service free, and advertisers pay to reach them. Revenue grows with attention, so platforms measure and optimise engagement, the time and interactions users give them. Recommendation algorithms rank posts by predicted engagement, and critics argue that this tends to reward content that provokes strong emotions, including anger. A widely cited 2018 study in the journal Science by Soroush Vosoughi, Deb Roy and Sinan Aral analysed about 126,000 story cascades on Twitter between 2006 and 2017 and found that false stories spread farther, faster and more broadly than true ones, and that humans, not automated bots, were mainly responsible. Network effects explain both the rapid rise and the sudden fall of networks such as Friendster and Myspace: a network's value to each member grows with the number of their friends on it, so once people start leaving, the decline can speed up. Scholars disagree about how much social media affects mental health. Many studies find small average links between heavy use and lower well-being, while noting that it is hard to prove cause and effect and that effects differ greatly between individuals; this is why the 2023 US Surgeon General's advisory called for more research while urging caution. The Arab Spring debate is similar. Writers such as Evgeny Morozov warned against 'cyber-utopianism', the belief that technology by itself spreads freedom, and pointed out that authoritarian governments also use social media for surveillance and propaganda. Most researchers now see platforms as amplifiers and accelerators of movements whose causes lie offline. Finally, COPPA's under-13 threshold was a policy compromise of the 1990s; legislators have since debated raising protections for older teenagers, and several countries have introduced or proposed higher minimum ages for social media.",
+  "funFact": "The first video ever uploaded to YouTube, 'Me at the zoo', is just 19 seconds long and shows co-founder Jawed Karim talking about elephants' long trunks at the San Diego Zoo.",
+  "check": {
+    "q": "Why do most social media apps require users to be at least 13?",
+    "a": "Because of the US COPPA law (1998), which requires parental permission to collect personal data from children under 13",
+    "wrong": [
+      "Because the Internet was invented 13 years after the telephone",
+      "Because computers cannot recognise faces of children under 13",
+      "Because a United Nations treaty bans children under 13 from using phones"
+    ]
+  },
+  "sources": [
+    {
+      "title": "GeoCities",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/GeoCities"
+    },
+    {
+      "title": "Myspace",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Myspace"
+    },
+    {
+      "title": "History of Facebook",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Facebook"
+    },
+    {
+      "title": "Twitter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Twitter"
+    },
+    {
+      "title": "Me at the zoo",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Me_at_the_zoo"
+    },
+    {
+      "title": "Social media's role in the Arab Spring",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Social_media%27s_role_in_the_Arab_Spring"
+    },
+    {
+      "title": "Complying with COPPA: Frequently Asked Questions",
+      "publisher": "US Federal Trade Commission",
+      "url": "https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions"
+    },
+    {
+      "title": "Social Media Fact Sheet",
+      "publisher": "Pew Research Center",
+      "url": "https://www.pewresearch.org/internet/fact-sheet/social-media/"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A photograph of YouTube co-founder Jawed Karim",
+      "search": "Jawed Karim YouTube co-founder"
+    },
+    {
+      "want": "Crowds of protesters in Tahrir Square, Cairo, during the Egyptian protests of early 2011",
+      "search": "Tahrir Square protest 2011 Cairo"
+    },
+    {
+      "want": "A screenshot of an old GeoCities homepage from the late 1990s, with bright backgrounds and animated graphics",
+      "search": "GeoCities homepage screenshot 1990s"
+    }
+  ]
+}

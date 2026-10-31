@@ -1,0 +1,162 @@
+{
+  "n": 13,
+  "title": "How Trains Invented Time Zones",
+  "when": "1840 – 1918",
+  "summary": "Long ago, every town set its clocks by the Sun, so noon in one town was a few minutes different from noon in the next. That was fine for horses, but fast trains got hopelessly muddled. So the railways got everyone to share one time, and that is why the world has time zones today!",
+  "sections": [
+    {
+      "heading": "A World Full of Different Noons",
+      "paragraphs": [
+        "Imagine it is the year 1835 and you are standing in the market square of Bristol, in the west of England. The church clock strikes twelve. A traveller who has just ridden in from London pulls out his pocket watch and frowns. His watch, set in London that morning, says it is already about ten minutes past twelve. Neither clock is broken. Both are perfectly right for their own town. Welcome to the world of local 'sun time'.",
+        "For thousands of years, people told the time by the Sun. When the Sun reached its highest point in the sky, it was noon. Sundials showed it, and town clockmakers set their clocks to match. This worked beautifully as long as nobody travelled very fast. But the Earth is a spinning ball, and the Sun does not reach its highest point everywhere at the same moment. It sweeps across the sky from east to west, so towns further east get their noon a little earlier, and towns further west get it a little later.",
+        "Here is the simple maths behind it. The Earth turns all the way round, 360 degrees, in 24 hours. Divide 360 by 24 and you get 15 degrees every hour. That means each degree of longitude (the imaginary north–south lines that measure how far east or west you are) is worth 4 minutes of time. Bristol lies roughly two and a half degrees west of London, so its noon arrives about 10 minutes after London's. Plymouth, further west still, was around 16 minutes behind London. Norwich, in the east, was a little ahead.",
+        "Astronomers had a name for this kind of time: local mean time. 'Mean' means average. The real Sun runs slightly fast or slow at different times of year, because Earth's orbit is not a perfect circle and its axis is tilted. So astronomers worked out an average, smoothed-out version of sun time that ticked at a steady rate. Every town that cared about accuracy used its own local mean time, worked out from its own position on the globe.",
+        "For a farmer, a shopkeeper or someone travelling by stagecoach at perhaps 10 miles an hour, a difference of 10 minutes between towns hardly mattered. The journey from London to Bristol by coach took the best part of a day, and the coach guard could simply nudge his watch along as he went. Nobody noticed a few minutes slipping away among the bumps and horse changes.",
+        "Then the railways arrived. Suddenly a train could cover in a couple of hours what a coach covered in a day. Trains ran to printed timetables, set off at exact minutes and had to fit together with other trains on the same lines. A world with hundreds of slightly different noons was about to become a serious problem.",
+        "Think about what a timetable actually is. It is a promise: this train will leave this station at this time, and reach that station at that time. But whose time? If a train left London at 10:00 London time and the timetable said it reached Bristol at 12:30, did that mean 12:30 by the Bristol church clock, or 12:30 by London time? A passenger who guessed wrong could arrive on the platform to watch their train disappearing, or wait for ages on a cold bench.",
+        "Confusion for passengers was annoying. Confusion for the railway staff was dangerous. In the early days, many lines had only one or two tracks, and trains running in opposite directions or following one another had to be kept safely apart. Much of this safety depended on timing. A station might be told that one train must pass before another set off, or that trains should run a set number of minutes apart. If two workers on the same stretch of line were counting time from different clocks, a gap that should have been 10 minutes might really be zero. On a line where a heavy train took a long way to stop, that could mean a collision.",
+        "The railway guards carried special watches, and the companies needed every watch along a route to show exactly the same time. That meant the railways needed one single time, shared by everyone working on the line, all the way from one end to the other. The question was which time to choose, and how to get the same exact time to dozens of stations spread across hundreds of miles, in an age without radio, phones or the internet."
+      ]
+    },
+    {
+      "heading": "Railway Time Comes to Britain",
+      "paragraphs": [
+        "The first railway to tackle the problem head-on was the Great Western Railway, the line engineered by Isambard Kingdom Brunel to link London with Bristol. In November 1840 the Great Western began running all its trains by London time, which was the same as Greenwich Mean Time, the time kept by the Royal Observatory at Greenwich on the edge of London. Historians describe this as the first recorded example of separate local times being replaced by one standard time across a whole system.",
+        "How did the guards on a Great Western train know London time when they were far away in the west? At first they carried chronometers, extra-accurate portable clocks. A chronometer would be set to London time before the journey, carried on the train, and used to check the clocks at stations along the line. It was a little like passing a precious message down the line by hand.",
+        "Other railways soon saw how sensible this was. In 1842 the British railway companies had set up the Railway Clearing House, an organisation that sorted out how to share fares when a passenger travelled over several companies' lines. On 22 September 1847, the Clearing House recommended that every railway station should adopt Greenwich time as soon as the General Post Office allowed it. Two big companies, the London and North Western Railway and the Caledonian Railway in Scotland, switched on 1 December 1847, and by the end of that year almost all of Britain's railways were running on what people began to call 'railway time'.",
+        "One of the best places to see this change happening is in the pages of Bradshaw's. George Bradshaw, a Manchester printer and engraver, published his first railway timetable in 1839, and his guides grew into thick monthly books listing the trains of almost every company in Britain. They became so famous that 'Bradshaw' was simply the word people used for a railway guide. In January 1848 Bradshaw's listed which railways had switched to London time. Imagine trying to plan a long journey through all those companies without one shared time. Bradshaw's could only work because the railways now spoke the same language of hours and minutes.",
+        "Towns did not all follow happily. Some people thought it was wrong for a railway company to tell a town that its own Sun was 'wrong'. In Bristol, the clock on the Exchange building in Corn Street was given a second minute hand. One hand showed Bristol time and the other showed London, or railway, time, about 10 minutes ahead. You can still see that clock with its two minute hands today. Bristol finally accepted railway time as its main time in September 1852. Other cities made similar compromises: clocks at Exeter Cathedral and at Tom Tower in Oxford also showed two times for a while.",
+        "Bit by bit, convenience won. By 1855 about 98 per cent of public clocks in Great Britain were set to Greenwich Mean Time. Yet for decades this was simply custom, not law. Strangely, a court could still decide that a legal deadline meant local sun time. That gap was finally closed by an Act of Parliament, the Statutes (Definition of Time) Act, which received royal assent on 2 August 1880. From then on, 'time' in British law meant Greenwich Mean Time. The railways had led the way; the law followed about 40 years later."
+      ]
+    },
+    {
+      "heading": "Sending Time Down a Wire",
+      "paragraphs": [
+        "Choosing one time was only half the job. Every station needed to know exactly what that time was, to the second if possible. Clocks of the 1840s were good, but even good clocks slowly drift. A clock that gained a few seconds a day would be minutes out within a few weeks. The railways needed a way to check and correct their clocks often, from one trusted source.",
+        "The perfect tool appeared right alongside the tracks. The electric telegraph sends messages as pulses of electricity along a wire. Railways were among the very first users of the telegraph, because a wire could be strung on poles beside the line and used to warn stations that a train was coming. Part of the Great Western was fitted with a telegraph in 1839, one of the earliest working telegraphs in the world. Since electricity races along a wire almost instantly, a signal sent from London would arrive at a distant station at practically the same moment it was sent. That made the telegraph ideal for sharing the exact time.",
+        "The source of 'true' time in Britain was the Royal Observatory at Greenwich, founded in 1675 to help sailors find their longitude at sea. Astronomers there timed the stars as they crossed an exact line in the sky, and used those observations to keep their master clocks precisely right. Since 1833 a large red ball on a mast on top of the observatory had been dropped every day at exactly 1 p.m., so ships on the River Thames could check their chronometers by watching it fall.",
+        "In 1852 the Observatory installed a new electric master clock, made by the clockmaker Charles Shepherd, which could send electrical time signals down telegraph wires. From around August 1852, Greenwich time signals were travelling to London Bridge station and beyond. By 1855 time signals from Greenwich were being sent along railway telegraph wires across much of Britain. Every day, at a fixed hour, a signal would click into telegraph offices, and station staff would check and adjust their clocks. The railway network had become a giant clock-setting machine for the whole country.",
+        "The same idea spread in North America. In 1869 the Allegheny Observatory near Pittsburgh, directed by the astronomer Samuel Langley, began sending regular time signals by telegraph to railroads and cities. Historians call it one of the first systematic time-distribution services, and by 1870 its time service stretched over more than 2,500 miles of telegraph lines, reaching about 300 telegraph offices. Observatories at Harvard, Yale and the US Naval Observatory in Washington also sent out time signals. A railroad that bought this service could set every clock along its line from the same exact tick."
+      ]
+    },
+    {
+      "heading": "America's Tangle of Times",
+      "paragraphs": [
+        "Britain is a fairly narrow island, so a single time worked well: even its westernmost places were at most about half an hour behind Greenwich by the Sun. The United States was a completely different puzzle. From the Atlantic coast to the Pacific, the country stretches across about 58 degrees of longitude. At 4 minutes per degree, the Sun reached noon in San Francisco about three and a half hours after it did in Boston. One single time for the whole country would have meant clocks saying noon in the middle of the night or at dawn in some places.",
+        "So, by the middle of the 1800s, American towns kept their own local times, and there were well over 300 of them. Each railroad company, meanwhile, chose its own standard time, usually the local time of its headquarters or of a big city on its line. Railroads running out of the same city could use different times. Historians often say there were dozens of different railroad times in use before 1883, with figures of around 50 commonly quoted.",
+        "Picture a busy junction station where several railroads met, such as in Pittsburgh or Buffalo. Some stations hung up a row of clocks, one for each railroad, all showing slightly different times. A traveller had to know which clock belonged to which company before deciding whether they were early or late. Timetables printed long tables of conversions. Mistakes were common, and on single-track lines, where trains coming from opposite directions had to wait for each other in passing places, a misunderstanding about time could cause a collision.",
+        "People had been suggesting a fix for years. In 1870 Charles F. Dowd, the head of a girls' school in Saratoga Springs, New York, proposed dividing the country into time zones, each an hour apart. His first plan was based on the meridian through Washington, DC; in 1872 he changed it to count from Greenwich instead. The railroads did not take up his exact scheme, but the idea of hour-wide zones was now in the air. The scientist Cleveland Abbe, who worked on weather forecasting, also pushed hard for standard time, partly because weather reports from different cities needed to be compared at the same moment.",
+        "The man who finally made it happen was William F. Allen, an engineer who edited the Official Railway Guide, America's equivalent of Bradshaw's, and served as secretary of the General Time Convention, a group of railroad managers who met to agree on timetables. Allen knew the tangle better than anyone, because his guide had to print it all. He also worried that if the railroads did not sort themselves out, the government might step in and force a system on them. Allen drew up a plan using hour-wide zones based on meridians measured from Greenwich, with the boundaries bent to follow places where railroads already changed crews or companies, so that the change would cause as little disruption as possible.",
+        "On 11 October 1883, railroad leaders meeting at the Grand Pacific Hotel in Chicago voted to accept Allen's system. They set a date for the switch only about five weeks away. It was a bold decision, made not by Congress or the President but by private railroad companies."
+      ]
+    },
+    {
+      "heading": "The Day of Two Noons",
+      "paragraphs": [
+        "The big day was Sunday, 18 November 1883. A Sunday was chosen because fewer trains were running. The plan used four main zones across the United States and Canada, which we still know today: Eastern, Central, Mountain and Pacific. Each zone's time was based on a meridian a whole number of hours from Greenwich: 75, 90, 105 and 120 degrees west. A planned fifth zone for the far east of Canada was not used that year, because the Intercolonial Railway there chose to use Eastern time instead.",
+        "Here is how the switch worked. In each town, the clocks would be reset at noon to the new standard time. The signal came by telegraph from the Allegheny Observatory near Pittsburgh, marking the exact moment of noon by the new Eastern time, and railroads in the other zones set their clocks exactly one, two or three hours behind it. Across the continent, telegraph operators, jewellers and railway clerks waited at their clocks for the click.",
+        "Now think about what that meant for a town that lay east of its zone's central meridian. Its own sun time was ahead of the new standard time. So when the Sun said noon, the people stopped their clocks, or moved the hands back, by however many minutes they needed, and then let noon arrive a second time by the new standard time. In those places, the church bells could ring for noon twice on the same day. That is why 18 November 1883 became known as 'the Day of Two Noons'. In towns west of their zone's central meridian, it went the other way: the clocks jumped forward and a few minutes simply vanished.",
+        "Newspapers loved the story. Some people grumbled that the railroads were meddling with God's time or the Sun's time, and a few cities refused to switch for years. Detroit, which sits near the border between the Eastern and Central zones, kept its own local time for a long time and argued about it for decades, only settling firmly on Eastern time by a city decision in 1915 that was confirmed by voters in 1916. But most people quickly found the new system easier. Within about a year, around 85 per cent of American cities with more than 10,000 people had adopted standard time.",
+        "Remember that none of this was the law. There was no national government rule saying what time it was. The whole system was a private agreement among railroad companies, which towns and businesses decided to follow because it made life simpler. This is one of the most important points in the whole story of time zones: the railways created standard time first, and governments caught up later."
+      ]
+    },
+    {
+      "heading": "Sandford Fleming and the Clock for the Whole World",
+      "paragraphs": [
+        "While American railroads were sorting out their own continent, a Canadian railway engineer was thinking even bigger: one system of time for the entire planet.",
+        "Sandford Fleming was born on 7 January 1827 in Kirkcaldy, Scotland, and moved to Canada as a teenager. He became a surveyor and engineer and helped plan some of Canada's great railways. He was chief engineer for the surveys of the Canadian Pacific Railway's route across the country in the 1870s and explored the Yellowhead Pass through the Rocky Mountains. He was there, as a director of the Canadian Pacific, when the railway's last spike was driven on 7 November 1885. He even designed Canada's very first postage stamp in 1851, the Threepenny Beaver.",
+        "According to a story Fleming's biographers like to tell, his interest in time began with a missed train. In 1876, while travelling in Ireland, he turned up at a station only to find his train had gone: the printed timetable had muddled 'a.m.' and 'p.m.' Whether or not that annoyed evening was the true spark, in that same year he wrote a paper called 'Terrestrial Time', proposing a single 24-hour clock for the whole world.",
+        "Fleming's idea had two parts. First, there would be one universal time, the same everywhere on Earth at the same instant, which he called 'Cosmopolitan Time' and later 'Cosmic Time'. It would run on a 24-hour dial, so there would be no more confusing a.m. and p.m. Second, for everyday life, the world would be divided into 24 time zones, each 15 degrees of longitude wide and exactly one hour apart. He even gave the zones letters of the alphabet, from A to Y, leaving out J.",
+        "In February 1879, Fleming presented papers on his plan to the Canadian Institute in Toronto, now suggesting that the world's starting line be linked to Greenwich. The British government sent copies to governments in eighteen other countries. Fleming wrote letters, gave talks and argued tirelessly with scientists and officials. He was not the only person with such ideas. An Italian mathematician, Quirico Filopanti, had described hourly zones in a book in 1858, but almost nobody noticed. Fleming's great contribution was his energy in persuading people that standard time was a practical, worldwide need.",
+        "For his many services, Queen Victoria knighted him in 1897, and he became Sir Sandford Fleming. He died in Halifax, Nova Scotia, on 22 July 1915, aged 88. He is often called 'the father of standard time', although, as we have seen, the honour really belongs to many people, from the Great Western Railway's managers to William Allen."
+      ]
+    },
+    {
+      "heading": "Choosing the Starting Line: Washington, 1884",
+      "paragraphs": [
+        "Time zones need a starting line. Before you can say a zone is five hours behind, you have to say behind what. Mapmakers face the same problem with longitude: the lines of latitude have a natural starting point at the Equator, but there is no natural zero line running from pole to pole. In the 1800s, many countries measured longitude from their own capital or observatory: the French from Paris, others from places such as Cadiz, Naples, Washington or Berlin. Sailors had to convert between them.",
+        "To settle this, the United States invited the nations of the world to a meeting in Washington, DC, known as the International Meridian Conference. It opened on 1 October 1884. Forty-one delegates attended, representing 26 countries. Sandford Fleming was there, representing Canada as part of the British delegation.",
+        "The big vote came on 13 October 1884. The conference proposed that the meridian passing through the Transit Instrument at the Royal Observatory in Greenwich should be the world's prime meridian, longitude zero. Twenty-two countries voted yes. One, San Domingo (today's Dominican Republic), voted no. Two, France and Brazil, abstained, meaning they chose not to vote either way. France had hoped for a more neutral line that did not pass through any great nation's capital.",
+        "Why Greenwich? A practical reason was that most of the world's ships were already using sea charts based on Greenwich, because Britain had the largest merchant fleet and the Admiralty published excellent charts. The United States had also already based its new railroad zones on Greenwich. Choosing Greenwich meant the least change for the most people.",
+        "The conference also agreed on a 'universal day', a mean solar day beginning at midnight at Greenwich, to be used for science and other purposes where it was helpful. Fleming hoped for more: he and another delegate proposed that every nation adopt standard time based on the new meridian. Other delegates argued that how each country set its own clocks was outside the conference's job, so no vote was taken. The conference did not create the world's time zones. It gave the world a shared zero line, and countries then adopted time zones based on it, one by one, over the following decades.",
+        "Not everyone hurried. France kept Paris as its starting point for many years, and only switched its legal time to one based on Greenwich in 1911. Even then, rather than mentioning Greenwich by name, the French law described it as Paris time slowed by 9 minutes and 21 seconds, which comes to exactly the same thing."
+      ]
+    },
+    {
+      "heading": "From Railway Rule to the Law of the Land",
+      "paragraphs": [
+        "In the United States, the railroads' zones worked well for more than 30 years without any national law at all. Then, in the middle of the First World War, Congress finally acted. The Standard Time Act, also called the Calder Act after Senator William Calder of New York, was signed by President Woodrow Wilson on 19 March 1918. It was the first federal law to set up standard time in the United States. It created five time zones (the four railroad zones plus one for Alaska) and gave the Interstate Commerce Commission, the government body that already regulated railroads, the job of deciding exactly where the zone boundaries ran.",
+        "The same law also introduced daylight saving time, moving clocks forward an hour in summer to save fuel during the war. That part was so unpopular with farmers that it was repealed in 1919, even though President Wilson tried to veto the repeal. Daylight saving came back nationally during the Second World War and has been argued about ever since.",
+        "Around the world, other countries joined the system at different speeds. New Zealand was actually ahead of everyone: it had adopted a single standard time for the whole colony back on 2 November 1868, set 11 and a half hours ahead of Greenwich. By about 1900 almost every inhabited place had some kind of standard time, though many still used the time of a local observatory rather than a neat number of hours from Greenwich. By 1929 most countries used whole-hour zones, with a few, such as India, choosing half-hour offsets. Nepal was the very last country to settle on a standard offset, in 1986, choosing 5 hours and 45 minutes ahead of Greenwich.",
+        "There was another side to all this precision, though. Trains were now running faster, more often and to tighter timetables than ever before. A busy main line might have dozens of trains a day thundering along the same pair of rails, all relying on clocks, signals and human judgement to keep them apart. When something went wrong, at high speed and with heavy trains full of people, the results could be terrible. As the timetables grew tighter, inventors, engineers and lawmakers began a long race to make the railways safer. That race, and the disasters that drove it, is the next stop on our journey."
+      ]
+    }
+  ],
+  "deepDive": "Historians sometimes describe standard time as one of the first great acts of global 'synchronisation', and the railways sit at its centre. But it is worth separating three different things that are often blurred together. First, standard time within a region: a railway or country choosing one clock time for all its places. The Great Western Railway did this in 1840, British railways mostly by the end of 1847, and North American railroads on 18 November 1883. Second, a shared prime meridian: the 1884 International Meridian Conference chose Greenwich by 22 votes to 1, with France and Brazil abstaining, but it deliberately did not order countries to adopt time zones. Third, legal time: Britain defined Greenwich Mean Time in law in 1880, while the United States waited until the Standard Time Act of 19 March 1918. In each case the private, practical system came first and the law came later. Who deserves credit is debated. Charles Dowd, Quirico Filopanti and Sandford Fleming all proposed hourly zones; Cleveland Abbe pushed scientific bodies to support standard time; William F. Allen designed the zone boundaries that railroads actually used. Fleming's worldwide 24-zone scheme, with lettered zones, was never adopted in the exact form he proposed, yet his campaigning helped make standard time seem normal rather than eccentric. There is also a fascinating technical story. Local mean time differs by 4 minutes for each degree of longitude, because the Earth turns 15 degrees per hour. To share one time, you need a trusted master clock and a fast way to send its ticks. Observatories provided the first, timing star transits to keep their clocks right, and the telegraph provided the second. Observatories such as Allegheny turned this into a service, and time signals became a product that railroads and cities paid for. Later, radio time signals replaced telegraph ticks, and today atomic clocks and satellite signals keep phones accurate to tiny fractions of a second. Finally, notice the resistance. People in Bristol, Detroit and elsewhere felt that local sun time was natural and that railway time was imposed by distant companies. Debates about who controls time continue today in arguments over daylight saving time and in countries that change time zones for political reasons.",
+  "funFact": "The clock on the Exchange building in Bristol, England, still has two minute hands, one showing Bristol's own sun time and one showing Greenwich time, a reminder of the days when the city was about 10 minutes behind London.",
+  "check": {
+    "q": "Why was 18 November 1883 called 'the Day of Two Noons' in parts of North America?",
+    "a": "Railroads switched to standard time zones, so in some towns clocks were set back and noon happened twice",
+    "wrong": [
+      "The Sun was seen in the sky twice because of an eclipse",
+      "Congress passed a law making every day have two lunch breaks",
+      "Trains ran on both British and American time that day"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Railway time",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Railway_time"
+    },
+    {
+      "title": "Standard time",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Standard_time"
+    },
+    {
+      "title": "Time zone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Time_zone"
+    },
+    {
+      "title": "International Meridian Conference",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/International_Meridian_Conference"
+    },
+    {
+      "title": "Sandford Fleming",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sandford_Fleming"
+    },
+    {
+      "title": "Standard Time Act",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Standard_Time_Act"
+    },
+    {
+      "title": "Time in the United States",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Time_in_the_United_States"
+    },
+    {
+      "title": "Allegheny Observatory",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Allegheny_Observatory"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The clock on the Corn Exchange in Bristol, England, with two minute hands showing Bristol time and London time",
+      "search": "Bristol Corn Exchange clock two minute hands"
+    },
+    {
+      "want": "Portrait photograph of Sir Sandford Fleming, the Canadian engineer who promoted worldwide standard time",
+      "search": "Sandford Fleming portrait"
+    },
+    {
+      "want": "Historic map of the North American railroad standard time zones adopted in 1883",
+      "search": "1883 railroad time zones map United States"
+    }
+  ]
+}

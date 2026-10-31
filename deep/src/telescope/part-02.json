@@ -1,0 +1,157 @@
+{
+  "n": 2,
+  "title": "Magic Glass: Lenses and Spectacles",
+  "when": "About 750 BCE – 1500s",
+  "summary": "Curved pieces of crystal and glass can bend light and make things look bigger. Over thousands of years, people went from a mystery crystal in an Assyrian palace to the first eyeglasses in Italy. By 1600, lens shops all over Europe held every piece needed for a telescope.",
+  "sections": [
+    {
+      "heading": "The Trick of Bending Light",
+      "paragraphs": [
+        "Fill a clear glass with water and drop a pencil into it. Look from the side, and the pencil seems to snap in two at the water's surface. Of course, the pencil is fine. What has bent is the light. When light passes from one clear material into another, such as from water into air, it changes direction a little. This bending is called refraction, and it is the secret behind every lens, every pair of glasses and every refracting telescope ever made.",
+        "A lens is a piece of clear material, usually glass, shaped with curved surfaces so that it bends light in a useful way. The word lens comes from the Latin word for lentil, because the most common kind of lens, fat in the middle and thin at the edges, looks a lot like a lentil seed.",
+        "That fat-in-the-middle kind is called a convex lens. Light rays passing through the outer parts of a convex lens are bent inward, toward the middle, so the rays come together at a point. Hold a convex lens over a page and the letters look bigger. Hold it in sunlight and it can gather the Sun's rays into one tiny, very hot spot. The distance from the lens to that spot is called the focal length. A strongly curved lens bends light sharply and has a short focal length; a gently curved lens bends it only a little and has a long focal length.",
+        "The opposite shape is a concave lens, thin in the middle and thick at the edges, like a shallow dish. A concave lens spreads light rays outward instead of gathering them. Look through one and things appear smaller.",
+        "These two shapes explain how eyeglasses help people. A farsighted person, or an older person whose eyes can no longer focus on close-up things, needs extra help bending light inward, so a convex lens does the job. A nearsighted person's eye bends light too strongly, bringing distant objects to a focus in front of the retina instead of on it, so a concave lens spreads the light out a little first and fixes the blur. Keep these two shapes in mind. The very first telescope, as you will see in the next part, used one of each.",
+        "People discovered the magic of curved, clear materials long before anyone understood why it worked. The story of that discovery stretches over almost 2,500 years, from a palace in ancient Iraq to the glass furnaces of Venice."
+      ]
+    },
+    {
+      "heading": "The Mystery Crystal of Nimrud",
+      "paragraphs": [
+        "In 1850, the British explorer Austen Henry Layard was digging in the ruins of Nimrud, an ancient capital of the Assyrian Empire on the Tigris River in what is now northern Iraq. Layard and his workers uncovered huge stone sculptures of winged bulls and palace walls covered with carved scenes. In one room of the great Northwest Palace, among piles of broken objects, he found something much smaller: an oval piece of rock crystal, a clear form of the mineral quartz, carefully ground and polished.",
+        "The object, now called the Nimrud lens or the Layard lens, dates from about 750 to 710 BCE, when Assyrian kings ruled much of the Middle East. It is about 38 millimeters across, a little wider than a large coin, and about 23 millimeters thick. One side is flat. The other side was ground into a gentle curve. When you hold it up, it really does act like a weak magnifying glass, making things look about three times bigger, with a focal length of roughly 12 centimeters.",
+        "But here is the puzzle: the focus is far from perfect. The surface is not a smooth, regular curve, and as it was ground, twelve tiny pockets opened up in the crystal, places where bubbles of liquid or gas had been trapped inside the stone when it formed millions of years ago. Was it made to be a magnifier? Or is it simply a decorative piece of polished crystal that happens to magnify a bit?",
+        "Experts still argue about it. Some think it could have helped craftsmen see fine details when carving tiny seals and jewelry, or that it might have been used as a burning glass to start fires by focusing sunlight. Others, including curators at the British Museum in London, where the lens is kept today, have suggested it was probably an inlay, a shiny piece set into furniture or decoration, with no clear evidence that anyone used it to see better. Later, an Italian professor named Giovanni Pettinato went much further and suggested it might have been part of an ancient Assyrian telescope. Most specialists in Assyrian history are not convinced. No surviving Assyrian text, even among the many astronomy tablets, mentions anything like a telescope.",
+        "So the honest answer is: we do not know what the Nimrud lens was for. That is a good lesson for this whole story. Sometimes an object from the past looks like an invention we recognize, but we cannot be sure the people who made it used it the way we would. What the lens does prove is that, nearly 2,800 years ago, craftsmen could grind and polish clear crystal into smooth curved shapes."
+      ]
+    },
+    {
+      "heading": "Burning Glasses and Water Globes",
+      "paragraphs": [
+        "The ancient Greeks and Romans definitely knew that clear, curved objects could do strange things with light. The clearest early written example comes from a comedy. In 423 BCE, the Athenian playwright Aristophanes staged a play called The Clouds. In one scene, a foolish character named Strepsiades, who is drowning in debt, comes up with a scheme. He will buy a beautiful transparent stone from a shop, the kind people used for lighting fires, stand in the sunshine, and focus the Sun's rays onto the wax tablet where his debt is written down, melting the record away. The audience was expected to know what such a stone was, which tells us burning glasses were familiar in Athens.",
+        "Around 400 years later, the Roman writer and thinker Seneca noticed something about letters. In his book Natural Questions, written in the first century CE, he remarked that writing, however small and faint, looks larger and clearer when seen through a glass globe filled with water. It is one of the earliest written descriptions of magnification. Seneca did not take the next step of making a proper magnifying lens, and he did not fully understand why it happened, but he had spotted the effect.",
+        "Another Roman writer, Pliny the Elder, wrote in his huge encyclopedia, the Natural History, that balls of crystal held in the sunlight could become hot enough to burn. He also told a famous little story about the emperor Nero, who was said to watch gladiators fighting through a polished emerald. Some people later claimed this made Nero the first person to wear glasses. Historians are not sure what the emerald did. It may have worked as a mirror, or Nero may simply have liked its soothing green color. It is a fun tale, but not good evidence of a vision aid.",
+        "The Romans were also skilled glassmakers. Around the first century BCE, craftsmen in the eastern Mediterranean discovered glassblowing, and glass bottles, cups and windows spread across the Roman Empire. But Roman glass was usually tinted green or blue, and full of bubbles and streaks. It was fine for a drinking cup. For lenses, it was not nearly good enough. Making truly clear glass would take more than a thousand more years."
+      ]
+    },
+    {
+      "heading": "Ibn al-Haytham: Light Comes Into the Eye",
+      "paragraphs": [
+        "For a long time, many of the smartest people in the world believed something strange about seeing. Several Greek thinkers, including the mathematician Euclid and later Ptolemy, worked with the idea that the eye sends out invisible rays, like a flashlight, which travel out and touch the things we look at. It sounds odd now, but it helped them do geometry: you could draw straight lines from the eye to an object and work out angles and sizes.",
+        "The person who did the most to overturn this idea was Abu Ali al-Hasan ibn al-Haytham, known in Europe by the Latin name Alhazen. He was born around 965 in Basra, in what is now Iraq, and spent most of his working life in Cairo, Egypt, which was then the capital of the Fatimid caliphs. He died around 1040.",
+        "There is a famous story about how he came to Cairo. According to this tale, he boasted that he could control the flooding of the Nile River with a dam. The ruler, Caliph al-Hakim, invited him to try. When Ibn al-Haytham traveled up the Nile and saw the size of the river, he realized the plan was impossible with the tools of his time. Afraid of the caliph's anger, he supposedly pretended to be mad and was kept under house arrest until al-Hakim died, using the quiet years to write. It is a dramatic legend, and historians are not sure how much of it is true.",
+        "What is certain is that between about 1011 and 1021 he wrote a huge work in seven volumes called Kitab al-Manazir, the Book of Optics. In it he argued that vision works the other way around from what Euclid and Ptolemy had assumed: light travels from objects into the eye, not out of it. Every point on a lit object sends light out in all directions, and some of that light enters our eyes. He also argued that the eye only collects the light; the actual act of seeing is completed in the brain.",
+        "What made his work so special was not just the ideas but the way he tested them. He set up careful experiments with dark rooms, small holes, screens, mirrors, and pieces of glass and water. He studied the camera obscura, a darkened room with a tiny hole in one wall, where light from outside paints an upside-down image of the world on the opposite wall, and he used one to watch a partial eclipse of the Sun safely. He measured how light bends when it passes between air, water and glass, and wrote about how curved glass, such as a glass ball, could make objects seen through it appear larger. Because he insisted that ideas should be checked by repeatable experiments, many people call him one of the founders of the scientific method.",
+        "He was building on others too. A few decades earlier, around the 980s, a scholar in Baghdad named Ibn Sahl had written a book about burning mirrors and lenses. In it, he described a rule for exactly how much light bends when it enters glass, the same rule that would be rediscovered in Europe more than 600 years later and named Snell's law.",
+        "Around the year 1200, an unknown translator turned the Book of Optics into Latin, under titles such as De aspectibus and Perspectiva. It became the most important book on light in medieval Europe, studied by scholars for centuries and later read by Johannes Kepler. In 2015, the United Nations celebrated the International Year of Light, marking about 1,000 years since Ibn al-Haytham's great work. A crater on the Moon and an asteroid are named after him."
+      ]
+    },
+    {
+      "heading": "Reading Stones and a Curious Friar",
+      "paragraphs": [
+        "Now picture a monk in a cold monastery around the year 1200. He is perhaps 50 years old, and for years he has spent his days copying books by hand. Lately the letters have started to blur. This happens to almost everyone in middle age: the lens inside the eye gets stiffer and can no longer focus on things close up. For a scribe, a scholar or a merchant checking accounts, that was a disaster.",
+        "One helpful tool was the reading stone. It was a piece of clear material shaped like a dome, roughly half a sphere, flat on the bottom and curved on top. You set the flat side down on a page and slid it along the lines, and the letters underneath looked bigger. Reading stones were made from rock crystal, from a clear gemstone called beryl, and eventually from glass. They were being used in Europe by around the 1000s and 1100s. The German word for eyeglasses, Brille, is thought to come from beryl, a reminder of these early stones.",
+        "On the Swedish island of Gotland, archaeologists have found beautifully polished rock-crystal lenses in Viking-age graves from the 1000s or 1100s. These Visby lenses, named after the island's main town, are surprisingly well made. The best one is about 50 millimeters across, and some are set in decorative silver mounts, probably worn as jewelry. Whether anyone used them to read or to see fine work, nobody knows for sure. Like the Nimrud lens, they are a reminder that skilled hands could shape crystal well before anyone wrote down the science.",
+        "Meanwhile, European scholars were reading Ibn al-Haytham in Latin. In England, the bishop and scholar Robert Grosseteste wrote about light and how it bends. His ideas inspired a Franciscan friar at Oxford named Roger Bacon, who lived from about 1220 to about 1292. Bacon was fascinated by science and believed knowledge should be tested by experience.",
+        "In 1267, at the request of Pope Clement IV, Bacon sent the pope a huge work called the Opus Majus, or Greater Work. One part of it is about optics: how the eye works, how mirrors reflect, and how light refracts through curved glass. Drawing heavily on Ibn al-Haytham, Bacon explained that a piece of glass shaped like a segment of a sphere, placed with its flat side on a page, would make letters look larger, and that this could be useful for old people and people with weak eyes. He even imagined, in theory, that cleverly shaped glass might one day make faraway things seem near. Over the centuries, legends grew up around Bacon, claiming he built a magical talking brass head or secretly invented the telescope. There is no evidence for any of that. But he did write clearly about magnifying with curved glass, just a few years before something new appeared in Italy."
+      ]
+    },
+    {
+      "heading": "Eyeglasses Appear in Italy",
+      "paragraphs": [
+        "Sometime around the 1280s, an unknown craftsman in northern Italy, probably in Pisa or Florence, had a simple but brilliant idea. Instead of sliding a lens across a page, why not hold two small lenses up in front of the eyes, one for each eye? That way you could read normally, turn pages, and even look up from the book. Eyeglasses were born, most likely around 1286.",
+        "We know roughly when because of a sermon. On 23 February 1306, a Dominican friar named Giordano da Pisa was preaching in Florence. In the middle of his sermon, he praised a recent invention. As his listeners noted it down, he said: \"It is not yet twenty years since there was found the art of making glasses, which make for good vision.\" He called it one of the best and most necessary arts in the world, and added: \"I saw the one who first discovered and practiced it, and I talked to him.\" Counting back twenty years from 1306 gives about 1286.",
+        "Annoyingly, Giordano did not say the inventor's name. A chronicle from the Dominican monastery in Pisa tells of another friar, Alessandro della Spina, who died in 1313. It says that eyeglasses had first been made by someone else who was unwilling to share the secret, but Alessandro worked out how to make them himself and happily shared his knowledge with everyone. So the first inventor kept quiet, and the first known sharer became famous instead.",
+        "Centuries later, people tried to fill the gap. In Florence, a story spread that a nobleman named Salvino degli Armati had invented eyeglasses, and a memorial to him was even displayed in a church. Historians have shown that this claim is false; it rests on documents and an inscription that were made up long afterward. The real inventor remains unknown.",
+        "Those first glasses looked nothing like the ones people wear today. Each lens was set in a small round frame with a short handle, and the two handles were joined by a rivet at the top. You balanced the pair on your nose or held it in place with one hand. There were no arms going back over the ears; those came much later, in the 1700s. Frames were made of materials such as wood, bone, horn, leather or metal. Some of the oldest surviving rivet spectacles, from around 1400, were found hidden under the floorboards of the Wienhausen convent in northern Germany, where nuns had perhaps dropped them centuries earlier.",
+        "Pictures soon followed. In 1352, the painter Tommaso da Modena decorated a room in a monastery in Treviso, near Venice, with portraits of famous Dominican scholars at their desks. One of them, Cardinal Hugh of Saint-Cher, is shown reading with a pair of rivet spectacles perched on his nose. It is the oldest known painting of someone wearing eyeglasses, and it is a little joke of history: Hugh had died in 1263, before glasses were invented, so the painter gave him a gadget he never owned."
+      ]
+    },
+    {
+      "heading": "The Glassmakers of Venice",
+      "paragraphs": [
+        "Good spectacles needed good glass, and in medieval Europe the best glass came from Venice. By around 1300, the city's glassmakers had become rich and famous, and the Venetian government guarded their skills like treasure. In 1291, a law moved most of the city's glass furnaces to the nearby island of Murano. One reason was safety: Venice was crowded with wooden buildings, and a glass furnace roaring all day was a serious fire risk. Another reason was secrecy. Glassmakers on Murano were honored citizens, but they were not allowed to leave the Venetian Republic without permission, and those who ran away to sell their secrets abroad could face harsh punishment.",
+        "Venice was also one of the first places to make rules for spectacle-making. Guild regulations from around 1300 mention glass for the eyes, and they warned craftsmen not to pass off cheap ordinary glass as precious rock crystal, which suggests that some lenses were still carved from crystal and that customers were being tricked. Venice became an important center for making spectacle lenses, and they were sold far beyond Italy.",
+        "In the 1450s, a Murano glassmaker named Angelo Barovier is generally credited with creating cristallo, a glass so clear and colorless that it looked like rock crystal. The trick involved purifying the ingredients, especially the plant ash used to help the sand melt. Clearer glass meant sharper, brighter lenses. It also made Venetian glassware some of the most wanted luxury goods in Europe.",
+        "Making a lens was slow, patient work. A lens-maker took a small blank of glass and rubbed it against a curved metal or stone tool, called a lap, using wet sand or other grits that got finer and finer. A convex lens was ground in a hollow, bowl-shaped tool; a concave lens was ground on a domed one. Then came polishing with very fine powders until the surface shone. Every lens was done by hand, and the quality varied a lot. Many were slightly lopsided, scratched or full of tiny bubbles."
+      ]
+    },
+    {
+      "heading": "Spectacles Spread Across Europe",
+      "paragraphs": [
+        "For more than a century, eyeglasses were almost always convex, meant for people who could not see things up close. The other big group of people with poor eyesight, the nearsighted, who see close things clearly but distant things as a blur, had to wait. Lenses that helped them, concave lenses that spread light outward, appear in records by the mid-1400s. Nobody at the time could fully explain why either kind worked. That explanation came in 1604, from Johannes Kepler, the same Kepler who had inherited Tycho Brahe's data.",
+        "Then came a huge boost in demand. Around 1450, Johannes Gutenberg began printing books with movable type in Mainz, Germany. Over the next decades, printed books poured out by the millions, and many more people began to read. More readers meant more people who needed glasses as they grew older. Spectacles became something ordinary people could buy from a peddler or a shop, not just a treasure for rich churchmen. By 1466, the city of Strasbourg had a specialist spectacle shop, and by the 1500s German cities such as Nuremberg had become big centers of spectacle-making.",
+        "The trade also reached the Low Countries, the busy, crowded region that is now the Netherlands and Belgium. Dutch towns were full of merchants, sailors, printers and craftsmen, and spectacle-makers set up shop there to serve them. In the town of Middelburg, on an island in the province of Zeeland, several spectacle-makers worked within a few streets of each other around 1600. Each of them kept boxes of convex and concave lenses of different strengths on their benches, testing them for customers, holding them up to the light, and looking through them at the street outside.",
+        "So by the year 1600, all the pieces of a telescope were lying around in workshops across Europe. There were convex lenses and concave lenses. There were craftsmen who knew how to grind them. There was reasonably clear glass. And there were thousands of people looking through lenses every day. Why had no one built a telescope yet?",
+        "Part of the answer is that spectacle lenses were weak. A reading lens has a long focal length and only a gentle curve, while a telescope needs a strongly curved lens near the eye. Strong concave lenses for very nearsighted people were less common. Another part is quality: two cheap lenses lined up in a row would often give a dim, blurry, distorted view, nothing that would make anyone shout with excitement. And part of the answer may simply be that nobody happened to try the right combination, at the right distance apart, and pay attention to what they saw. For 300 years, people held single lenses in their hands, until someone thought to hold two lenses in a line."
+      ]
+    }
+  ],
+  "deepDive": "Historians of the eyeglass face a frustrating gap: we can date the invention fairly closely but cannot name the inventor. Giordano da Pisa's sermon of 23 February 1306 says the art was less than twenty years old and that he had spoken with its discoverer, which points to the mid-1280s. The Pisan chronicle praising Alessandro della Spina for sharing what another had kept secret fits a craft that began as a guarded trade technique rather than a scholarly discovery. That matters, because it suggests eyeglasses came out of craft workshops, probably linked to the glass and rock-crystal trades of Tuscany and Venice, rather than straight out of optical theory. Scholars debate how much the Latin translation of Ibn al-Haytham's Book of Optics, and the writings of Grosseteste, Roger Bacon, John Pecham and Witelo, actually influenced the craftsmen. Bacon described magnification by a segment of a glass sphere, but there is no evidence that an artisan read him. Theory and practice seem to have run side by side for centuries, and the theory of how lenses correct vision was not properly worked out until Kepler's Astronomiae Pars Optica of 1604. Even then, the exact mathematical law of refraction, first written down by Ibn Sahl in Baghdad in the 980s, had to be rediscovered by Willebrord Snellius around 1621. A second debate concerns ancient lenses like the Nimrud lens and the Visby lenses. Some writers have argued that they prove ancient magnifiers or even telescopes; most archaeologists are far more cautious, because polished crystal was also prized for jewelry, inlay and burning glasses, and because no written source describes such uses for vision. Why did the telescope take about 320 years to follow eyeglasses? Optical historians point to practical limits. Reading lenses are weak, with focal lengths of tens of centimeters, while a useful spyglass needs a strong eyepiece. Glass of the time was often full of bubbles and streaks, and surfaces were not accurately spherical. Strong concave lenses for severe nearsightedness only became common in the later 1400s and 1500s. The telescope needed both kinds of lens, of good enough quality, in the hands of the same craftsman.",
+  "funFact": "The oldest known painting of eyeglasses, made in 1352, shows Cardinal Hugh of Saint-Cher wearing a pair, even though he died in 1263, before eyeglasses had been invented.",
+  "check": {
+    "q": "What evidence tells historians that eyeglasses were invented around 1286?",
+    "a": "A 1306 sermon by Friar Giordano da Pisa saying they had been invented less than 20 years earlier",
+    "wrong": [
+      "A patent granted to the inventor in Venice in 1286",
+      "A signed letter from Roger Bacon describing his own spectacles",
+      "A date carved into the frame of the Nimrud lens"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Nimrud lens",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nimrud_lens"
+    },
+    {
+      "title": "Ibn al-Haytham",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ibn_al-Haytham"
+    },
+    {
+      "title": "Glasses",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Glasses"
+    },
+    {
+      "title": "History of optics",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_optics"
+    },
+    {
+      "title": "Reading stone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Reading_stone"
+    },
+    {
+      "title": "Visby lenses",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Visby_lenses"
+    },
+    {
+      "title": "Roger Bacon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Roger_Bacon"
+    },
+    {
+      "title": "Murano glass",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Murano_glass"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The Nimrud lens, an oval piece of polished rock crystal from ancient Assyria, held in the British Museum",
+      "search": "Nimrud lens rock crystal British Museum"
+    },
+    {
+      "want": "Tommaso da Modena's 1352 fresco in Treviso of Cardinal Hugh of Saint-Cher reading with rivet spectacles on his nose",
+      "search": "Tommaso da Modena Hugh of Saint-Cher spectacles"
+    },
+    {
+      "want": "A page or diagram of the eye from a manuscript of Ibn al-Haytham's Book of Optics",
+      "search": "Ibn al-Haytham Book of Optics manuscript eye"
+    }
+  ]
+}

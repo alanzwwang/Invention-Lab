@@ -1,0 +1,168 @@
+{
+  "n": 9,
+  "title": "Codebreakers at War",
+  "when": "1932 – 1945",
+  "summary": "During the Second World War, armies sent secret messages scrambled by clever machines. Teams of puzzle-solvers in Poland and Britain built machines of their own to unscramble them. One of those machines, Colossus, glowed with thousands of electric tubes and helped win the war.",
+  "sections": [
+    {
+      "heading": "The Machine With Twenty-Six Lamps",
+      "paragraphs": [
+        "Imagine a wooden box a little bigger than a shoebox. On the front is a typewriter keyboard, and above it 26 small glass windows, each with a letter. Press A, and with a clunk a different letter lights up, perhaps Q. Press A again, and maybe M lights up. This was the Enigma machine, the main way the German armed forces kept their radio messages secret during the Second World War. Radio could reach tanks and submarines hundreds of kilometres away, but anyone with a receiver could listen in, so every message had to be enciphered: scrambled by a secret rule.",
+        "Enigma was invented by the German engineer Arthur Scherbius, who applied for a patent in 1918. It was first sold to businesses in the 1920s, and the German navy, army and air force then adopted improved versions of their own.",
+        "Inside the box sat a row of rotors. Each rotor was a wheel about the size of a hockey puck, with 26 electrical contacts on each side, joined inside by wires in a jumbled pattern. Pressing a key sent current from a battery through the first rotor, the second and the third, each one swapping the letter for another. Then a part called the reflector sent the current back through all three rotors by a different path, and finally it lit one lamp.",
+        "Here is the clever part. Every time a key was pressed, the right-hand rotor turned one step, like the mileage counter in a car. After a full turn, it nudged the middle rotor along, and the middle rotor eventually nudged the left one. That meant the wiring path changed with every single letter. A message such as ATTACK AT DAWN would be scrambled with a different alphabet for every letter, so the two Ts in ATTACK would probably come out as two different letters.",
+        "Then there was the plugboard, a panel on the front that looked like a tiny telephone switchboard. Short cables swapped pairs of letters, usually ten pairs, so that E became Z and Z became E, both before the current reached the rotors and on its way out. Counting the choice and order of rotors, their starting positions, the ring settings and the plugboard, a military Enigma had roughly 159 quintillion possible set-ups: 159 followed by 18 zeros. Testing one per second would take billions of years.",
+        "And the settings changed every day. Operators were given printed key sheets, usually a month at a time, listing the rotors, their order, the ring settings and the plugboard pairs for each day. At midnight everything changed, so Monday's solution was useless on Tuesday.",
+        "But Enigma had weaknesses. Because of the reflector, a letter could never be enciphered as itself: press A, and the lamp could light any letter except A. That sounds like a tiny detail, yet it gave codebreakers a valuable clue. Even more important, the machine was used by tired, busy, ordinary people who sometimes made mistakes or fell into habits, like starting messages with the same words. Machines can be very clever, but people using them are human."
+      ]
+    },
+    {
+      "heading": "Three Young Mathematicians in Poland",
+      "paragraphs": [
+        "The first people to break Enigma were not British, and they were not soldiers. They were three young Polish mathematicians named Marian Rejewski, Jerzy Różycki and Henryk Zygalski.",
+        "They worked for Poland's secret codebreaking office, the Cipher Bureau, and the Bureau had an unusual idea. Instead of hiring only people who were good with languages, which was the old way of codebreaking, they would hire mathematicians. In 1929 they ran a secret course in cryptology, the science of codes, for mathematics students at the University of Poznań, a city where many people also spoke German. Rejewski, Różycki and Zygalski were among the best students, and by 1932 all three were working for the Cipher Bureau in Warsaw.",
+        "Rejewski was given the hardest task: work out how the military Enigma was wired inside, without ever having seen one. He had a few things to help him. A commercial Enigma could be studied, but the military version was wired differently. He also had piles of intercepted German messages. And, thanks to French intelligence, he received some secret documents sold by a German spy named Hans-Thilo Schmidt, which included operating instructions and lists of daily settings for some months. These were passed on by a French officer named Gustave Bertrand.",
+        "Rejewski noticed a pattern in how German operators began each message. In those years, the operator chose three letters as the starting position for the rotors and typed them twice, just to make sure they arrived correctly. So the first six letters of every message were really the same three letters enciphered twice. Rejewski used permutation theory, the mathematics of how things get rearranged, to write equations about those six letters across many messages. Around the end of 1932, he solved them. A machine he had never seen had been rebuilt on paper.",
+        "Using copies of the military Enigma that they now built themselves, the three mathematicians invented tools to find each day's settings. Rejewski's cyclometer helped them build a huge card catalogue of rotor patterns. Zygalski invented sets of perforated paper sheets which, stacked on a light table, let light shine through only at positions that might be correct. Różycki found a way to work out which rotor sat on the right.",
+        "In 1938 the Germans changed their procedures, and the old methods stopped working. Rejewski responded by designing an electrically powered searching machine called the bomba, Polish for bomb. Nobody is sure why it got that name; one explanation is the muffled noise it made while running. Each bomba was like six Enigma machines wired together, running through rotor positions automatically and stopping at a possible match. Six were built in Warsaw, and by late 1938 a day's settings could again be found in about two hours.",
+        "Then, in December 1938, the Germans gave their operators two extra rotors. Instead of three rotors used in different orders, there were now five to choose from, so the number of possible rotor orders jumped from 6 to 60. The Poles knew how to handle it, but they would need ten times as many machines and sheets, and they did not have the money or the time. War was coming.",
+        "So they made a brave and generous decision. On 25 July 1939, at a secret centre in the forest at Pyry, just outside Warsaw, the Polish codebreakers met with British and French codebreakers and showed them everything: the mathematics, the bombas, the sheets, and Polish-built copies of the military Enigma. The British visitors, including the veteran codebreaker Dilly Knox, were astonished at how far the Poles had got. About five weeks later, on 1 September 1939, Germany invaded Poland and the Second World War began.",
+        "The three mathematicians escaped through Romania to France and kept working on German ciphers. Różycki died in January 1942 when the ship he was travelling on sank in the Mediterranean. Rejewski and Zygalski later crossed the Pyrenees into Spain, were imprisoned for a time, and reached Britain in 1943. Today historians agree that without the Polish head start, the story of breaking Enigma would have been very different."
+      ]
+    },
+    {
+      "heading": "Captain Ridley's Shooting Party",
+      "paragraphs": [
+        "In September 1938, a group of strangers arrived at a large, rather odd-looking Victorian mansion in the town of Bletchley, about 80 kilometres north-west of London. To the neighbours they were 'Captain Ridley's shooting party', friends on a countryside break. In fact they were codebreakers trying out the house as a wartime base. Bletchley Park had been bought that year by Admiral Sir Hugh Sinclair, head of Britain's Secret Intelligence Service. It was safer from bombing than London, but sat on a major railway junction with lines to London, Oxford and Cambridge.",
+        "When war began, the house soon filled up, so wooden huts were built on the lawns, and later brick blocks. Each hut had a number and a job. Hut 6 attacked the Enigma used by the German army and air force, and Hut 3 turned those decoded messages into intelligence. Hut 8 worked on the naval Enigma used by U-boats, the German submarines, and Hut 4 analysed naval messages. Workers often did not know what the next hut was doing.",
+        "Alastair Denniston, head of the codebreakers, did what the Poles had done and recruited mathematicians, among them a 27-year-old Cambridge mathematician named Alan Turing, whose imaginary machine you met in Part 7, and the Cambridge lecturer Gordon Welchman. Chess champions, linguists and classics scholars followed. During the war, some of the fastest solvers of a Daily Telegraph crossword competition were quietly invited to help with war work.",
+        "Turing guessed that the Germans would eventually stop typing the message key twice, which the Polish methods relied on. In May 1940 they did. Britain needed a method that did not depend on that mistake. Turing's answer, inspired by the Polish bomba but working quite differently, was a much more powerful machine. The British called it the Bombe."
+      ]
+    },
+    {
+      "heading": "How a Bombe Hunts for the Key",
+      "paragraphs": [
+        "The British Bombe was a metal cabinet about 2 metres tall and 2 metres wide, weighing about a tonne, with rows of spinning drums on its front, each standing in for an Enigma rotor. Inside it was the equivalent of 36 Enigma machines wired together.",
+        "The Bombe needed a 'crib', a guess about some words hidden in a message. Weather stations sent reports at the same time every day, often containing WETTER, the German for weather, and some units sent identical 'nothing to report' messages. If a codebreaker could guess that a stretch of scrambled letters meant WETTERVORHERSAGE, weather forecast, they had a crib.",
+        "Because Enigma never turned a letter into itself, the crib could be placed: slide it along the ciphertext, and any position where a letter matches itself must be wrong.",
+        "Next, they drew a diagram called a menu, showing how letters in the crib were linked to letters in the ciphertext, and wired it into the back of the Bombe with cables. When the machine was switched on, the drums spun through rotor positions at high speed. At most positions the electrical logic hit a contradiction, an impossibility, and the Bombe moved on. When it found no contradiction, it stopped. This 'stop' was only a candidate: a checking team tested it on a copy of Enigma. Often it was false, but sometimes scrambled letters suddenly became sensible German, and every message on that network that day could be read.",
+        "The first British Bombe, named Victory, was installed at Bletchley Park on 18 March 1940. It worked, but slowly. Gordon Welchman then had a brilliant idea, called the diagonal board, which used the fact that the plugboard swapped letters in pairs. If E was connected to Z, then Z was also connected to E. Adding this rule to the Bombe's wiring let it rule out far more wrong positions at once. The second Bombe, with Welchman's diagonal board, was nicknamed Agnus Dei, or Agnes for short, and was installed in August 1940.",
+        "Turing and Welchman designed the Bombe, but Harold 'Doc' Keen built it, at the British Tabulating Machine Company in Letchworth, a firm that normally made punched-card office machines like those in Part 6. Keen's team turned the mathematicians' ideas into reliable machines, and around 200 British Bombes were built during the war. In the United States, the US Navy and the National Cash Register Company in Dayton, Ohio, built more than a hundred fast Bombes to deal with the harder four-rotor naval Enigma.",
+        "Most Bombes did not stay at Bletchley Park itself. To protect them from a single bombing raid, they were spread out to outstations, including large sites at Eastcote and Stanmore on the edge of London. The people who ran them day and night were mostly young women of the Women's Royal Naval Service, known as Wrens. They plugged up the menus, loaded the heavy drums, started the runs and phoned through the results, often without knowing what the machines were actually for.",
+        "The intelligence from all this codebreaking was given a special classification, Ultra, higher even than Most Secret. Ultra helped Britain win the Battle of the Atlantic against the U-boats that were sinking supply ships. When a new four-rotor naval Enigma blinded Bletchley for much of 1942, ship losses rose sharply, showing how much the codebreaking mattered."
+      ]
+    },
+    {
+      "heading": "Tunny: The Machine Nobody Had Seen",
+      "paragraphs": [
+        "Enigma was carried by soldiers in the field, in tanks, ships and aircraft. But for the most important messages of all, between Adolf Hitler's headquarters in Berlin and his top generals across Europe, the Germans used something bigger and much more complicated. It was made by the Lorenz company and attached to a teleprinter, an electric typewriter that sent messages over radio or wire as patterns of electrical pulses. The British codebreakers never saw this machine during the war. They nicknamed its messages 'Fish', and the particular link they attacked first 'Tunny'. Today we call it the Lorenz cipher.",
+        "A teleprinter sent every letter as five little signals, each a mark or a space, like five on-off switches; in other words, a tiny binary number. The Lorenz machine added a secret stream of five-bit letters, called the key, to the message, using a simple rule: two marks or two spaces made a space, and a mark and a space made a mark. Adding the same key again brought back the original, so the receiver could unscramble the text with an identical machine. The key was produced by 12 wheels, each with a different number of adjustable pins around its edge. The Germans believed the pattern was far too tangled to unpick.",
+        "Then, in late August 1941, a German operator made a serious mistake. He sent a message of about 4,000 characters, was asked to repeat it, and typed it again with exactly the same key setting, which was forbidden, making small changes and abbreviations as he went. At Bletchley Park, the codebreaker John Tiltman worked on the two messages for days and recovered both the German text and about 4,000 characters of the secret key itself.",
+        "That key was handed to a 24-year-old chemistry-turned-mathematics student from Cambridge named Bill Tutte. He was asked, more or less, to see what he could make of it. Tutte wrote the key out in rows on squared paper, looking for repeats. He tried rows of different lengths, and when he tried 574 letters per row he noticed some patterns, which led him to the number 41, one of the factors of 574. Written in rows of 41, the key showed repeating structure. Tutte had found the length of one of the wheels.",
+        "Over the next couple of months, Tutte and the Research Section, using only pencil, paper and that single stretch of key, worked out the complete logical design of the Lorenz machine: its wheels, their pins and how they moved and combined. They had reconstructed a machine no one in Britain had ever seen, one of the great intellectual feats of the war. Tutte later became a famous mathematician in Canada, but for decades he could not say what he had done.",
+        "Knowing the design was only the first step; every message still had its own wheel settings. A section called the Testery, led by Major Ralph Tester, broke messages largely by hand. Tutte then found a statistical method: compare the message with possible wheel settings and count how often certain patterns appear, and the right setting shows up as a slightly unusual score. Counting like that by hand would take far too long.",
+        "So in 1942 a new section was created under the Cambridge mathematician Max Newman, who had once taught Turing. Its first machine, built in 1943, was nicknamed Heath Robinson, after a cartoonist famous for absurd contraptions. It read two loops of paper tape at once, the message and the wheel patterns, and counted matches. But the two tapes had to stay perfectly in step while racing around pulleys, and they often stretched, slipped or snapped."
+      ]
+    },
+    {
+      "heading": "Tommy Flowers and the Glowing Giant",
+      "paragraphs": [
+        "Tommy Flowers was born in 1905 in Poplar, in the East End of London, the son of a bricklayer. He trained as a mechanical engineer and studied electrical engineering at evening classes, then joined the General Post Office, which in those days ran Britain's telephone system. At the Post Office Research Station at Dollis Hill in north-west London, he worked on telephone exchanges, the switching systems that connected one caller to another.",
+        "In the 1930s Flowers had experimented with vacuum tubes, which the British call valves, in telephone switching. As you saw in Part 8, a valve is an electronic switch with no moving parts, thousands of times faster than a relay. Most engineers thought valves burned out too often to use in large numbers. Flowers had learned otherwise: valves rarely failed if they were left switched on all the time, because most failures happened while they heated up and cooled down.",
+        "When Flowers was brought in to help with Heath Robinson, he proposed a bold solution. Instead of keeping two tapes in step, why not generate the wheel patterns electronically inside the machine? Then only one tape, the message, would need to be read, and nothing could slip out of step. But this would need well over a thousand valves, far more than in almost any machine ever built. Some people at Bletchley doubted it would work, or that it could be ready in time.",
+        "Flowers and his team at Dollis Hill went ahead anyway, with the backing of the Post Office's research director. In about eleven months, working long hours, they designed and built the machine. It was called Colossus. Colossus Mark 1 contained about 1,600 valves. It was working at Dollis Hill in December 1943, arrived at Bletchley Park in January 1944, and attacked its first real message in early February 1944.",
+        "Colossus read the message tape using light. The paper loop raced past a lamp, and photoelectric cells detected the punched holes. Because nothing had to press on the tape, it could move very fast: in regular use, 5,000 characters per second, which meant the tape was travelling at more than 40 kilometres per hour. Inside, valves generated the wheel patterns, compared them with the message and counted. When a count passed a level set by the operator, Colossus printed the result on an electric typewriter.",
+        "Even before the first machine was finished, Bletchley asked for more. Flowers improved the design. Colossus Mark 2 had about 2,400 valves, and it was cleverer as well as bigger: it processed five characters at the same time, in parallel, so it worked about five times faster. The first Mark 2 began working at 8 o'clock in the morning on 1 June 1944, just five days before D-Day, the Allied landings in Normandy. The engineers had worked through the night to get it ready.",
+        "The timing mattered. Around D-Day, decoded Lorenz messages helped the Allies understand where German forces were, and helped show that the Germans had been fooled by Allied tricks about where the main landing would come. By the end of the war in Europe in May 1945, ten Colossus machines were working at Bletchley Park and an eleventh was being built."
+      ]
+    },
+    {
+      "heading": "The Women Who Ran the Machines",
+      "paragraphs": [
+        "It is easy to tell this story as if it were only about a few famous men with big ideas. But codebreaking on this scale was a giant team effort. By early 1945, Bletchley Park and its outstations employed close to 9,000 people at one time, and around 10,000 people are often counted when everyone who worked there is included. About three-quarters of them were women.",
+        "Wrens from the Women's Royal Naval Service operated the Bombes and the Colossus machines; other women served in the air force and army auxiliary services or as civilians, working as codebreakers, translators, analysts and typists. Joan Clarke broke naval Enigma in Hut 8 alongside Turing. In the Newmanry, which ran Colossus, there were by the end of the war 272 Wrens and 27 men. Many were only 18 or 19. They mounted tapes, set switches and plugs, watched the results and kept the machines running around the clock.",
+        "That secrecy was astonishing. Every worker signed the Official Secrets Act, and almost all of them kept silent for about 30 years. Some parents died without knowing what their daughters had done in the war. Winston Churchill reportedly called the Bletchley staff the geese that laid the golden eggs and never cackled.",
+        "After the war, most Colossus machines were broken up, and Tommy Flowers was ordered to burn his drawings, which he did. Two machines were kept by British intelligence for some years. Flowers went back to telephone exchanges with a small government award that did not even cover the money he had spent himself, and for decades he could not explain why he deserved more.",
+        "The silence began to break in the 1970s. In 1974 F. W. Winterbotham's book The Ultra Secret revealed that Enigma had been broken, and information about Colossus was first declassified in the mid-1970s. Only then did many veterans begin to tell their stories. In 2009 the British government gave surviving Bletchley veterans a commemorative award, an official thank-you more than 60 years late."
+      ]
+    },
+    {
+      "heading": "Was Colossus a Computer?",
+      "paragraphs": [
+        "Colossus is often called one of the first programmable electronic digital computers. It was electronic, because valves did its work; digital, because it handled separate on-off signals; and programmable in a limited way, because switches and plug cables told it which logical tests to run and what to count.",
+        "But to be fair, Colossus was built for one job: finding the wheel settings of the Lorenz machine. It could not calculate a payroll, it had almost no memory, and it did not store its program inside itself. It was a special-purpose codebreaking machine, not a general-purpose computer, but it proved that thousands of valves could work together reliably at enormous speed.",
+        "As you saw in Part 8, there is no single 'first computer'. Zuse's Z3 was a working programmable computer, but built from relays. The Atanasoff–Berry Computer was electronic but not programmable. Colossus was electronic, digital and programmable, but special-purpose. And the American ENIAC, coming up next, was electronic and general-purpose. Each was first in its own way. Because Colossus was kept secret, it had little direct influence on later computers, though Max Newman, Turing and others carried the lesson that thousands of valves could work reliably into their post-war computer projects.",
+        "In the early 1990s an engineer named Tony Sale began rebuilding a working Colossus Mark 2. The original plans had been destroyed, so his team pieced it together from a few wartime photographs, scraps of drawings and the memories of the engineers who built it. In November 2007 it took part in a public Cipher Challenge, decoding a message enciphered on a real Lorenz machine and transmitted by radio from Germany. It succeeded in about three and a half hours, but a German radio amateur, Joachim Schueth, beat it with a laptop program that took under a minute. Computers had come a long way in 60 years.",
+        "Today the rebuilt Colossus stands in The National Museum of Computing at Bletchley Park, where visitors can watch the paper tape whizz around its pulleys beside rows of orange-glowing valves. A Bombe has been rebuilt too.",
+        "Meanwhile, across the Atlantic, the United States Army had a different problem. It needed huge books of numbers telling gunners how to aim their artillery, and its human computers could not keep up. At a university in Philadelphia, two young men had persuaded the army to fund a giant electronic machine to do the sums, with about seven times as many valves as a Colossus Mark 2. When the world finally saw it, newspapers would call it a giant brain."
+      ]
+    }
+  ],
+  "deepDive": "Historians still debate how much codebreaking shortened the Second World War. Some, such as Harry Hinsley, the official historian of British intelligence and a Bletchley veteran himself, estimated that Ultra intelligence shortened the war in Europe by perhaps two to four years, mostly by helping the Allies win the Battle of the Atlantic sooner. Others warn that such counterfactual estimates are guesswork, because intelligence only matters when commanders act on it, and many other factors decided the war. What is not in doubt is the mathematics. The military Enigma, with three rotors chosen from five and ten plugboard cables, had about 1.59 × 10^20 possible settings, about 67 bits of key. Yet the machine's design and its procedures leaked information: the reflector meant no letter could encipher to itself, the double-enciphered message key (used until 1940) let Rejewski apply permutation group theory, and stereotyped messages provided cribs. The Lorenz SZ40/42 had 12 wheels with 501 pin positions in total, and its key could be described as the sum of two streams, the regular 'chi' wheels and the irregularly moving 'psi' wheels. Tutte's statistical attack worked on the 'delta' (the difference between successive characters), where tiny biases in German language and in the psi wheels' motion produced counts that were only slightly above chance; Colossus had to read the tape over and over, counting at 5,000 characters per second, to find those faint signals. Colossus's place in history is also debated. Because it was secret until the 1970s, it did not directly shape the design of post-war computers, unlike ENIAC and the EDVAC report. Its strongest legacy was probably indirect: Flowers, Newman, Turing and others knew from experience that thousands of valves could run reliably, which gave them confidence to build electronic computers after the war. Either way, the scale of the effort, thousands of people working in total secrecy, is itself part of the story.",
+  "funFact": "When the rebuilt Colossus took part in a 2007 codebreaking challenge, a German radio amateur beat it by cracking the same Lorenz message on his laptop in about 46 seconds.",
+  "check": {
+    "q": "Who first broke the German Enigma cipher, in about 1932?",
+    "a": "Polish mathematicians led by Marian Rejewski",
+    "wrong": [
+      "Alan Turing at Bletchley Park",
+      "Tommy Flowers using Colossus",
+      "American codebreakers using ENIAC"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Enigma machine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Enigma_machine"
+    },
+    {
+      "title": "Marian Rejewski",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Marian_Rejewski"
+    },
+    {
+      "title": "Bomba (cryptography)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bomba_(cryptography)"
+    },
+    {
+      "title": "Bombe",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bombe"
+    },
+    {
+      "title": "Bletchley Park",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bletchley_Park"
+    },
+    {
+      "title": "W. T. Tutte",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/W._T._Tutte"
+    },
+    {
+      "title": "Colossus computer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Colossus_computer"
+    },
+    {
+      "title": "Colossus",
+      "publisher": "The National Museum of Computing",
+      "url": "https://www.tnmoc.org/colossus"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A German Enigma machine with its rotors, lampboard and plugboard visible, in a museum",
+      "search": "Enigma machine rotors plugboard museum"
+    },
+    {
+      "want": "The rebuilt Colossus Mark 2 codebreaking computer at The National Museum of Computing, Bletchley Park",
+      "search": "Colossus rebuild Bletchley Park computer"
+    },
+    {
+      "want": "The rebuilt British Bombe codebreaking machine at Bletchley Park, showing its rows of coloured drums",
+      "search": "Bombe rebuild Bletchley Park drums"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "n": 8,
+  "title": "Inside the Engine: Tiny Explosions, Big Power",
+  "when": "science (developed 1876 – today)",
+  "summary": "A car engine works by making thousands of tiny, controlled bursts of fire every minute. Each burst pushes a metal plug called a piston, and clever parts turn all that pushing into spinning. It is suck, squeeze, bang, blow, over and over again!",
+  "sections": [
+    {
+      "heading": "Lifting the Hood",
+      "paragraphs": [
+        "Pop open the hood of an ordinary gasoline car and you will see a tangle of hoses, wires, plastic covers and metal. Somewhere in the middle, usually under a cover, sits the engine block: a heavy lump of cast iron or aluminium about the size of a large suitcase. It looks calm and still. But when the engine is running, something amazing is happening inside it. Thousands of times every minute, a tiny cloud of fuel and air is squeezed, set on fire and allowed to burst outward. Each burst lasts only a few thousandths of a second, but together they can push a car weighing more than a tonne up a mountain road.",
+        "This kind of engine is called an internal combustion engine, because the fuel burns inside the engine itself, rather than in a separate fire under a boiler as in a steam engine. You met its inventors in Parts 3 to 6: Étienne Lenoir, Alphonse Beau de Rochas, Nicolaus Otto, Gottlieb Daimler, Wilhelm Maybach and Karl Benz. In this part we are going to stop telling the story of people for a while and look at the machine itself. How does burning a liquid make wheels turn?",
+        "Here is the big idea in one sentence. When fuel burns, it turns into very hot gases, and hot gases want to expand, so if you trap them in a closed tube with one end that can move, they will shove that end along with tremendous force. The tube is called the cylinder, and the movable end is called the piston. Everything else in the engine exists to feed the cylinder with fuel and air, light the fire at exactly the right moment, clear away the waste, stop everything from melting, and turn the piston's pushes into spinning motion.",
+        "Let us start with the heart of it all, the four-stroke cycle, the rhythm that Nicolaus Otto first made work in his engine of 1876 and which still beats inside most of the world's cars today."
+      ]
+    },
+    {
+      "heading": "Suck, Squeeze, Bang, Blow",
+      "paragraphs": [
+        "Picture a single cylinder standing upright. It is a smooth, round tube, closed at the top except for two small doors called valves. One valve, the intake valve, lets fresh fuel and air in. The other, the exhaust valve, lets burnt gases out. At the top there is also a spark plug, poking into the cylinder like a tiny lightning rod. Inside the tube is the piston, a short, solid metal plug that fits so snugly it can slide up and down without letting gas leak past. Springy metal rings around the piston, called piston rings, help seal the gap.",
+        "Each trip of the piston up or down the cylinder is called a stroke. A four-stroke engine needs four strokes, two down and two up, to complete one full cycle. Mechanics have a famous way to remember them: suck, squeeze, bang, blow.",
+        "Stroke one is intake, or suck. The intake valve opens and the piston slides down the cylinder. As it moves down, it leaves an empty space behind it, which lowers the pressure, so air and fuel rush in to fill it, just as air rushes into a syringe when you pull back the plunger. At the bottom, the intake valve closes.",
+        "Stroke two is compression, or squeeze. Now both valves are shut tight, and the piston moves back up the cylinder, squeezing the fuel and air into a small space at the top. In a typical car engine the mixture is crushed to about a tenth of its starting volume. Squeezing it makes it hotter and packs the fuel molecules close together, so that when it burns it will release its energy quickly and push much harder.",
+        "Stroke three is power, or bang. Just before the piston reaches the top, the spark plug fires. A tiny electric spark jumps across a gap and lights the mixture. It is not really an explosion like a firework; it is a very fast, controlled burn, with a flame spreading outward from the spark in a few thousandths of a second. The burning gases heat up enormously, their pressure soars, and they slam the piston down the cylinder. This is the only one of the four strokes that actually produces power. The other three are the engine's preparation and tidying-up.",
+        "Stroke four is exhaust, or blow. Near the bottom of the power stroke, the exhaust valve opens. The piston moves back up and pushes the burnt gases out of the cylinder, into the exhaust pipe and out of the tailpipe. Then the exhaust valve closes, the intake valve opens, and the whole thing starts again.",
+        "Here is a surprising fact. In a four-stroke engine, each cylinder only fires once for every two full turns of the crankshaft, the spinning shaft at the bottom of the engine. If an engine is running at 3,000 revolutions per minute, a normal speed on a motorway, each cylinder fires 1,500 times a minute. That is 25 tiny bursts of fire every second in every single cylinder. A typical modern gasoline car engine turns its crankshaft about 700 times a minute while idling at traffic lights and can spin to 6,000 times a minute or more when you press hard on the pedal."
+      ]
+    },
+    {
+      "heading": "From Push to Spin: The Crankshaft and Friends",
+      "paragraphs": [
+        "A piston going up and down is not much use to a car. Wheels need to spin. So the engine needs a way to turn straight-line pushing into round-and-round turning. The answer is an ancient and beautiful piece of engineering: the crank.",
+        "You already use a crank every time you ride a bicycle. Your legs push up and down, but the pedals are fixed to cranks that go round in a circle, so your up-and-down pushing becomes spinning. An engine does the same thing. Each piston is joined to a metal arm called a connecting rod. The bottom of the connecting rod is attached to a bent, offset part of the crankshaft, called a crankpin. As the piston is shoved down, the connecting rod pushes the crankpin round, and the whole crankshaft turns. As the crankshaft keeps turning, it pulls the piston back up again for the next stroke. In this way the crankshaft is both the engine's output and its timekeeper.",
+        "There is a problem, though. In a one-cylinder engine, only one stroke in four is a power stroke. During the other three, the engine is not pushing at all; in fact it has to do work to squeeze the mixture. So how does it keep turning? The answer is the flywheel, a heavy metal disc bolted to the end of the crankshaft. Once a flywheel is spinning, its weight keeps it spinning, like a merry-go-round that keeps going round after you stop pushing it. The flywheel stores energy from each power stroke and gives it back during the other three, smoothing out the jerky pushes. Karl Benz's first car had a big flywheel lying flat at the back, which you can see in photos of it.",
+        "Next, the valves. They have to open and close at exactly the right moments, thousands of times a minute, without ever getting out of step. This job belongs to the camshaft, a rod with egg-shaped bumps along it called cams. As the camshaft turns, each bump pushes a valve open, then lets a spring snap it shut again. The camshaft is linked to the crankshaft by a toothed belt, a chain or gears, and it turns at exactly half the crankshaft's speed. That makes sense when you think about it: each valve needs to open only once in every four strokes, which is every two turns of the crank.",
+        "If the timing belt breaks while the engine is running, the valves can stop moving while the pistons keep racing up and down, and in some engines the pistons then smash into the open valves. That is why mechanics replace timing belts on a schedule, long before they wear out."
+      ]
+    },
+    {
+      "heading": "Feeding the Fire: Carburetors and Fuel Injection",
+      "paragraphs": [
+        "Fire needs fuel and oxygen, and an engine is very fussy about the mixture. For gasoline to burn completely and cleanly, it needs roughly 14.7 kilograms of air for every kilogram of fuel. Too much fuel and the engine wastes it, making black smoke and soot; too little and the engine runs hot, coughs and loses power. Engineers call a mixture with extra fuel rich and one with extra air lean.",
+        "The earliest gasoline engines used crude devices that simply blew air across the surface of a bowl of fuel, picking up vapour. They worked badly, especially on cold days. Wilhelm Maybach found a better way. In 1892 he designed a carburetor that sprayed fuel through a tiny nozzle, called a jet, into a stream of air; it was patented in 1893. His design used a trick of physics. The air passed through a narrow, waisted section of tube called a venturi. When air is forced through a narrow space it speeds up, and fast-moving air has lower pressure. That low pressure sucked fuel up out of the jet and broke it into a fine mist, like a perfume sprayer. A small float in the fuel bowl, like the float valve in a toilet cistern, kept the fuel at just the right level.",
+        "The driver controlled the engine's speed with a flap called the throttle. Pressing the accelerator pedal opened the throttle wider, letting more air through, which in turn pulled in more fuel. More fuel and air meant bigger bangs and more power. For about ninety years, almost every gasoline car in the world used some kind of carburetor built on Maybach's idea.",
+        "But carburetors were not very precise. They could not adjust perfectly to changes in temperature, altitude or how hard the engine was working. That wasted fuel and caused pollution. The answer was fuel injection, which squirts an exact dose of fuel through a nozzle called an injector, timed for each cylinder. The first cars known to use electronic fuel injection were some 1958 Chrysler-family models with a system called the Bendix Electrojector. In 1967 the German company Bosch introduced its electronic D-Jetronic system on the Volkswagen 1600. By the early 1990s, electronic fuel injection had replaced carburetors in most new gasoline cars in rich countries.",
+        "Today the fuel is controlled by a small computer called the engine control unit. It reads signals from sensors all over the engine: how much air is coming in, how fast the crankshaft is turning, how warm the engine is, how far the driver has pressed the pedal, and how much oxygen is left in the exhaust. Then it calculates exactly how much fuel to inject, and when, many times every second. Many modern engines even spray the fuel directly into the cylinder at very high pressure. A modern family car carries many such little computers, and together they are far more powerful than the guidance computer that flew aboard the Apollo spacecraft to the Moon in 1969."
+      ]
+    },
+    {
+      "heading": "Lightning in a Bottle: The Spark Plug",
+      "paragraphs": [
+        "Lighting the fuel at the right instant sounds simple, but early engineers found it fiendishly hard. Otto's first engines used a real flame that was let into the cylinder through a sliding gate. Daimler and Maybach used a hot tube, a little tube of metal kept glowing red-hot by a burner on the outside of the engine, which lit the mixture when it was squeezed into it. Hot tubes worked, but they were dangerous, you could not easily change when they fired, and a gust of wind could blow out the burner. Karl Benz used electric ignition, with sparks from a battery and coil, but early electrical parts were unreliable.",
+        "The solution came from a workshop in Stuttgart, Germany, run by Robert Bosch. Bosch's company made a device called a magneto, a small generator that uses spinning magnets to make electricity, so it needs no battery. Early magnetos made only low-voltage sparks, produced by snapping apart two contacts inside the cylinder, which needed delicate moving parts in the hottest part of the engine. In 1901 Bosch gave a young engineer named Gottlob Honold a challenge: make a hot, long-lasting spark between electrodes that did not move. Honold, who had started at Bosch as an apprentice at the age of about fourteen or fifteen, rose to it. In 1902 he produced a high-voltage magneto ignition together with a new spark plug, described as the first commercially successful high-voltage spark plug. Car makers quickly adopted it, and it helped turn Bosch into one of the world's biggest car-parts companies.",
+        "A spark plug is a clever little object. It screws into the top of the cylinder. Down its middle runs a metal rod, the central electrode, surrounded by a white ceramic insulator so the electricity cannot escape sideways. At the bottom, a small bent metal tab, the ground electrode, sits just a millimetre or so away from the tip. When the ignition sends a surge of electricity, typically somewhere around 12,000 to 25,000 volts, down the central electrode, the electricity leaps across that tiny gap as a spark, a miniature bolt of lightning. Mechanics set the gap carefully; in car engines it is usually somewhere between about 0.6 and 1.8 millimetres.",
+        "Timing matters enormously. The spark has to happen a fraction of a second before the piston reaches the top, because the flame needs a moment to spread. At high engine speeds, the spark has to come earlier. Old cars did this with spinning weights and springs; modern cars do it with the engine computer.",
+        "Sometimes things go wrong. If the fuel and air are squeezed too hard or get too hot, part of the mixture can catch fire by itself before the flame from the spark plug reaches it. Two flame fronts then crash into each other and the pressure inside the cylinder jumps sharply, making a metallic rattling or pinging sound. Mechanics call this knocking. Gentle knocking wastes power; severe knocking can crack pistons and wreck an engine.",
+        "That is where the octane rating on a fuel pump comes from. It measures how well a fuel resists knocking. Chemists compare each fuel against two reference liquids: iso-octane, which resists knocking very well and is given a score of 100, and normal heptane, which knocks very easily and scores 0. A fuel rated 95 behaves like a mixture of 95 percent iso-octane and 5 percent heptane. Higher-octane fuel lets engineers build engines with higher compression, which squeeze harder and get more power from each drop. Many modern engines have knock sensors, tiny microphones bolted to the engine, that listen for knocking and tell the computer to delay the spark. For much of the twentieth century, one way to raise octane was to add a lead chemical to gasoline, which turned out to be a serious health problem, a story told in Part 17."
+      ]
+    },
+    {
+      "heading": "Keeping Cool and Slippery",
+      "paragraphs": [
+        "Each bang inside a cylinder is fiercely hot. For an instant, the burning gases can be well over 2,000 degrees Celsius, hotter than the melting point of the aluminium many engines are made of. If nothing carried that heat away, the engine would seize up and destroy itself within minutes. So every engine needs a cooling system.",
+        "Most car engines are cooled by liquid. The engine block is full of hollow passages, called water jackets, surrounding the cylinders. A water pump, driven by the engine, pushes coolant through these passages. Coolant is mostly water mixed with antifreeze, a chemical that stops it freezing in winter and boiling in summer, and protects the metal from rust. The coolant soaks up heat from the hot metal and flows to the radiator at the front of the car. A radiator is a flat honeycomb of thin metal tubes and fins with a huge surface area. Air rushing through it as the car moves, helped by a fan when the car is standing still, carries the heat away. The cooled liquid then flows back to the engine to do the job again. A valve called a thermostat keeps coolant away from the radiator until the engine has warmed up, so the engine reaches its best working temperature, usually around 90 degrees Celsius, quickly. Remember the honeycomb radiator of the 1901 Mercedes from Part 6? It was one of the first good versions of this idea.",
+        "Some engines, especially in motorcycles, lawnmowers and older cars like the original Volkswagen Beetle, are cooled by air instead, with metal fins around the cylinders that shed heat like a radiator.",
+        "The other great enemy of an engine is friction. Inside, metal parts slide and spin against one another thousands of times a minute. Without help, they would rub, overheat and weld themselves together. The answer is oil. An oil pump pushes oil through tiny channels to every bearing and moving surface, where it forms a film thinner than a hair. The moving parts actually float on this film and never quite touch. The oil also carries away heat and washes away tiny bits of dirt. That is why drivers check the oil and change it regularly. Run an engine without oil and it can be ruined in a few minutes.",
+        "All this cooling shows something important about how engines work: they are surprisingly wasteful. A typical gasoline engine turns only about 20 to 35 percent of the energy in its fuel into useful motion, and that is at its best. Most of the rest escapes as heat, through the radiator and out of the exhaust pipe. According to the US government's fuel economy experts, once you add up all the losses from heat, friction, pumping air, idling and driving pumps and the gearbox, only about 12 to 30 percent of the energy in the fuel tank actually ends up turning the wheels. That waste of energy is one reason engineers have kept working on better engines, and one reason electric cars, as Part 18 will show, have made such a comeback."
+      ]
+    },
+    {
+      "heading": "Rudolf Diesel's Engine Without a Spark",
+      "paragraphs": [
+        "One inventor was so bothered by wasted energy that he set out to design a completely different kind of engine. Rudolf Diesel was born in Paris in 1858 to German parents. As a student at the Technical University in Munich, he attended lectures by the refrigeration pioneer Carl von Linde about the science of heat, and learned how poorly the steam engines of the day used their fuel. He dreamed of an engine that would waste far less.",
+        "Diesel's idea was daring. You may have noticed that a bicycle pump gets warm when you pump hard. Squeezing air heats it up. Diesel realised that if you squeezed air hard enough, it would become hot enough to set fuel on fire all by itself, without any spark. So his engine sucks in only air, not fuel. On the compression stroke it crushes that air to something like a fifteenth to a twenty-third of its original volume, much harder than a gasoline engine does, until it is hot enough to ignite fuel, typically several hundred degrees Celsius. At the top of the stroke, an injector sprays fuel into the scorching air, and it bursts into flame instantly. Engineers call this compression ignition. There is no spark plug at all.",
+        "Diesel was granted a German patent in 1892 and published a book about his theory in 1893. Turning the idea into a working machine was much harder. He spent years at Maschinenfabrik Augsburg (the company later became part of MAN), building and testing experimental engines that kept failing. Finally, in 1897, an engine that worked properly was officially tested. It had a single tall cylinder, produced around 20 horsepower, and turned about 26 percent of its fuel's energy into work, very high for the time, when steam engines often managed only around 10 percent or less. Diesel became famous and rich.",
+        "Diesel engines are heavier than gasoline engines, because they have to be strong enough to cope with such high pressures. But they are more efficient and very good at producing strong turning force at low speeds, ideal for pulling heavy loads. Diesel engines began driving river boats and submarines in the early 1900s and ocean-going ships from 1912, and the first diesel locomotive ran on a Swiss railway in 1912. The first mass-produced diesel passenger car, the Mercedes-Benz 260 D, appeared in 1936. Today diesel engines power most of the world's big lorries, buses, tractors, ships and many trains. Huge ship engines, as tall as a house, can turn more than half their fuel's energy into motion, making them among the most efficient engines ever built.",
+        "Rudolf Diesel's own story ended in mystery. In September 1913 he boarded a steamship crossing from Antwerp in Belgium to England. During the night he vanished, and his body was later found in the sea. Nobody knows for certain what happened to him."
+      ]
+    },
+    {
+      "heading": "How Many Horses? Power and Cylinders",
+      "paragraphs": [
+        "Car adverts love to boast about horsepower. Where does that odd word come from? In the 1780s the Scottish engineer James Watt was trying to sell his improved steam engines to mine owners and brewers who used horses to turn their machinery. To explain how strong his engines were, he needed a unit everyone understood. Watt measured horses working at mills and decided that one horse could do about 33,000 foot-pounds of work per minute, meaning it could lift 33,000 pounds by one foot, or 330 pounds by 100 feet, in one minute. That became one horsepower. A popular legend says Watt worked it out after a brewer challenged him with his strongest horse, but historians treat that story as just a story.",
+        "In modern units, one horsepower is about 746 watts, enough to light several old-fashioned light bulbs. In Europe, engines are often measured in metric horsepower, called PS in Germany, which is slightly smaller, about 735.5 watts. Karl Benz's first car of 1886 produced less than one horsepower. A typical family car today produces somewhere around 100 to 200 horsepower, and some sports cars produce more than 600. Power is how fast an engine can do work, while torque is how hard it can twist the crankshaft. A diesel tractor has lots of torque for pulling, while a racing engine has high power at very high speeds.",
+        "Engines get more power in three main ways: making each cylinder bigger, making the engine spin faster, or adding more cylinders. Adding cylinders also has a big extra benefit: smoothness. A one-cylinder engine delivers one hard kick every two turns, which makes it shake and vibrate. With four cylinders, the power strokes are spread out so that one of them is always pushing. The pistons are arranged so that as some go up, others come down, balancing each other out. The order in which the cylinders fire, called the firing order, is carefully planned for the smoothest running.",
+        "Car engines come in many shapes. The most common is the inline four, with four cylinders standing in a straight row. Bigger engines often arrange their cylinders in two slanted rows in a V shape, giving V6 and V8 engines, which are shorter and fit neatly under the hood. Some engines, like those in the original Volkswagen Beetle and in Porsches and Subarus, lay the cylinders flat on opposite sides, pushing outward like boxers punching, which is why they are called boxer engines. Luxury and racing cars have used V12 engines and even more cylinders.",
+        "So now you know what is happening under the hood: air and fuel rushing in, pistons squeezing, sparks flashing, flames pushing, valves snapping open and shut, oil and coolant flowing, and a crankshaft spinning furiously thousands of times a minute. But a spinning shaft is not yet a moving car. How does all that whirling power reach the wheels? How do you make the car go slowly up a hill or fast on a straight road, steer it around a corner, and, most importantly of all, stop it? Those are the puzzles of the next part."
+      ]
+    }
+  ],
+  "deepDive": "Why are engines so wasteful? The answer lies in thermodynamics, the science of heat and work. An engine is a heat engine: it takes heat from a hot source (the burning gas) and turns part of it into work, dumping the rest into a cooler place (the air outside). In 1824 the French engineer Sadi Carnot showed that no heat engine can turn all its heat into work, and that the best possible efficiency depends on the difference between the hottest and coldest temperatures. For the idealised Otto cycle that models a gasoline engine, theory says efficiency rises with the compression ratio: squeezing the mixture harder means the gas expands further on the power stroke and gives up more of its energy. That is why engineers keep pushing compression ratios up, from roughly 4:1 to 6:1 in many early engines to around 10:1 to 14:1 in modern gasoline engines. The limit is knocking, which is why fuel octane and engine design are tied together. Diesel engines avoid that limit because they compress only air, so ratios of 15:1 to 23:1 are normal, and they also run without a throttle plate, avoiding the pumping losses a gasoline engine suffers when part-open. Real engines fall far short of theory: heat leaks into the cylinder walls, friction steals energy, and gas must be pumped in and out. Best-case figures are roughly 35 to 40 percent for modern gasoline engines, about 40 to 45 percent for truck diesels, and around 50 to 55 percent for giant two-stroke ship diesels, while Formula One power units have been reported to exceed 50 percent. In everyday driving the average is much lower, because engines spend much of their time at light load or idling. Historians also debate credit for the engine's key ideas. Beau de Rochas described the four-stroke cycle in 1862 but never built one; Otto built the first practical version; and Diesel's 1892 patent described a theory that he himself had to revise once he discovered it would not work as first written. Like the car itself, the engine was improved by many hands over many decades.",
+  "funFact": "In a car engine running at 3,000 revolutions per minute, each cylinder fires about 25 times every second.",
+  "check": {
+    "q": "In a diesel engine, what sets the fuel on fire?",
+    "a": "Air squeezed so hard that it becomes hot enough to ignite the fuel",
+    "wrong": [
+      "A spark plug",
+      "A glowing hot tube heated by an outside burner",
+      "A small flame let in through a sliding gate"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Four-stroke engine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Four-stroke_engine"
+    },
+    {
+      "title": "Carburetor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Carburetor"
+    },
+    {
+      "title": "Fuel injection",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fuel_injection"
+    },
+    {
+      "title": "Spark plug",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spark_plug"
+    },
+    {
+      "title": "Gottlob Honold",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gottlob_Honold"
+    },
+    {
+      "title": "Octane rating",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Octane_rating"
+    },
+    {
+      "title": "Where the Energy Goes: Gasoline Vehicles",
+      "publisher": "US Department of Energy, fueleconomy.gov",
+      "url": "https://www.fueleconomy.gov/feg/atv.shtml"
+    },
+    {
+      "title": "Rudolf Diesel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rudolf_Diesel"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Animated or labelled diagram of the four-stroke cycle: intake, compression, power and exhaust",
+      "search": "four stroke engine cycle diagram"
+    },
+    {
+      "want": "Rudolf Diesel's first working diesel engine of 1897 in a museum (MAN Museum Augsburg or Deutsches Museum)",
+      "search": "Diesel engine 1897 MAN museum"
+    },
+    {
+      "want": "A cutaway of a spark plug showing the insulator and electrodes",
+      "search": "spark plug cutaway"
+    }
+  ]
+}

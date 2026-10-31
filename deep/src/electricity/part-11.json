@@ -1,0 +1,156 @@
+{
+  "n": 11,
+  "title": "Inside the Bulb: How It Works",
+  "when": "Science + 1897 – 1925",
+  "summary": "A light bulb is a tiny wire that gets so hot it glows white, hotter than lava. Billions of electrons push through it, bumping and jostling, and that bumping makes heat and light. In this part we shrink down to see how it all works, meet the metal that made bulbs last, and visit a fire station bulb that has been glowing for more than 120 years.",
+  "sections": [
+    {
+      "heading": "Shrinking Down Inside a Wire",
+      "paragraphs": [
+        "Edison, Swan and all the other lamp makers we have met so far had a strange problem. They could build a bulb that glowed, measure how bright it was, and work out how much copper wire they needed to feed it. But not one of them knew what electricity actually was. They talked about an 'electric fluid' that flowed through wires the way water flows through a hose. It was a useful picture, but nobody had ever seen the thing that was flowing.",
+        "The answer arrived in 1897, almost twenty years after the first good carbon lamps. In Cambridge, England, a physicist named Joseph John Thomson, known to everyone as J.J., was working at the Cavendish Laboratory. He was studying cathode rays, the mysterious glowing beams that appear inside a glass tube when most of the air is pumped out and a high voltage is applied across it. Scientists had argued for years about what these rays were. Some thought they were a kind of wave, like light. Others thought they were a stream of tiny particles.",
+        "Thomson found that the rays could be bent by magnets and also by electric charges, and he measured how much they bent. From those measurements he worked out that the rays were made of particles that carried negative charge and were incredibly light: more than a thousand times lighter than a hydrogen atom, the lightest atom of all. Even more surprising, the particles were exactly the same no matter which gas was in the tube or which metal the rays came from. On 30 April 1897 he announced his idea that atoms were not the smallest things in the universe after all. They contained much smaller pieces.",
+        "Thomson called these pieces 'corpuscles', an old word meaning tiny bodies. Other scientists preferred the name 'electron', which the Irish physicist George Johnstone Stoney had suggested a few years earlier for the smallest unit of electric charge, and that name stuck. Thomson won the Nobel Prize in Physics in 1906, and today a plaque outside the old Cavendish Laboratory marks the discovery.",
+        "Here is the picture that finally made sense of every light bulb. Everything around you, including the copper in a wire, is made of atoms. Each atom has a heavy centre (the nucleus, which carries positive charge) surrounded by electrons, which carry negative charge. In most materials the electrons stay tightly attached to their own atoms. But in metals like copper, silver and aluminium, some electrons are only loosely held. They wander from atom to atom, forming a kind of electron 'sea' that fills the whole piece of metal. That is why metals are such good conductors: they are packed with charges that are free to move.",
+        "An electric current, then, is simply a flow of charge. In a metal wire, it is that sea of free electrons drifting along in one direction. (In salty water, inside a battery and in your own nerves, the moving charges are ions instead: atoms that have gained or lost electrons.)",
+        "One surprise often shocks people (not literally). You might think electrons race through a wire at the speed of light. They do not. In an ordinary household wire, the electrons drift along at roughly a millimetre per second, slower than a snail. Meanwhile they are also jiggling around randomly at enormous speeds, but that random jiggling goes nowhere in particular. So why does the light come on the instant you flip the switch? Because the wire is already completely full of electrons. When the switch closes, the electrical push travels along the wire almost as fast as light, and electrons all along the circuit start drifting at once, including the ones already sitting inside the bulb. It is like a garden hose that is already full of water: turn the tap, and water comes out of the far end immediately, even though no single drop has travelled the whole length.",
+        "Another common myth is that a bulb 'uses up' electricity. It does not use up the electrons at all. Every electron that flows into the bulb flows back out again, around the circuit and back to the power station or battery. What the bulb uses is energy. The electrons arrive carrying energy, given to them by the push of the power source, and inside the bulb that energy is turned into heat and light. The charges themselves just keep going round and round, like the chain on a bicycle, which carries the push of your legs to the wheel without ever being used up."
+      ]
+    },
+    {
+      "heading": "Push, Flow and Squeeze: Volts, Amps and Ohms",
+      "paragraphs": [
+        "To understand what happens inside a bulb, you need three words that electricians use every day: voltage, current and resistance. They are easiest to picture with water in pipes, the same comparison the early lamp makers liked.",
+        "Imagine a water tank on a hill, with a pipe running down to a water wheel and back up again by a pump. Voltage is like the pressure in the pipe, the push that drives the water along. A tall tank with lots of pressure is like a high voltage. Voltage is measured in volts, named after Alessandro Volta, whose pile of metal discs we met in Part 4. A single AA battery gives about 1.5 volts. A car battery gives about 12 volts. The sockets in a British or European home give about 230 volts, and in North America about 120 volts.",
+        "Current is like the amount of water flowing past a point each second. In electricity, it is the amount of charge flowing past a point each second, and it is measured in amperes, or amps for short, named after André-Marie Ampère. One amp means a certain very large number of electrons (about six billion billion of them) passing a point every second.",
+        "Resistance is how hard it is for the current to get through. A wide, smooth pipe lets water gush through easily; a narrow pipe stuffed with gravel holds it back. In the same way, a thick copper wire has very low resistance, while a long, thin wire made of a less conductive metal has much more. Resistance is measured in ohms, named after the German schoolteacher and physicist Georg Simon Ohm.",
+        "In 1827, Ohm published the rule that links all three, now called Ohm's law. In simple words it says: current equals voltage divided by resistance. Double the push and you double the flow. Double the resistance and you halve the flow. Engineers write it as I = V / R, where I stands for current, V for voltage and R for resistance.",
+        "There is one more useful rule. The power used by something electrical, meaning how fast it turns electrical energy into other kinds of energy, equals voltage times current. Power is measured in watts, named after the Scottish steam engineer James Watt. A 60-watt bulb on a 120-volt American supply draws half an amp, because 120 times one-half equals 60. The same 60-watt bulb made for a 230-volt British supply draws only about a quarter of an amp.",
+        "Now we can see why Edison's team cared so much about high resistance, the idea we met in Part 10. If each lamp has high resistance, it needs only a small current to give its light. Small currents can travel through thinner, cheaper copper wires to reach hundreds of lamps at once. A working 60-watt bulb on a 120-volt supply has a resistance of about 240 ohms while it is glowing. Hundreds of such lamps wired side by side could share one system without needing copper cables as thick as tree trunks.",
+        "Here is a curious twist. The filament's resistance changes with temperature. When the metal is cold, its resistance is far lower, roughly a tenth or less of its value when glowing. So in the split second after you flick the switch, a surge of current rushes in before the filament heats up and its resistance climbs. That sudden jolt is one reason old-style bulbs most often failed right at the moment they were switched on, with a little flash and a 'tink'."
+      ]
+    },
+    {
+      "heading": "Franklin's Backwards Guess",
+      "paragraphs": [
+        "If you look at a circuit diagram in a school science book, you will see little arrows showing current flowing out of the positive (+) end of a battery, around the circuit, and back into the negative (-) end. But we have just learned that in a metal wire the moving things are electrons, which carry negative charge. Negative charges are attracted towards positive, so the electrons actually drift the other way: out of the negative end and towards the positive end. So which is right?",
+        "The mix-up goes back more than 250 years, to Benjamin Franklin in Philadelphia (Part 3). Franklin pictured electricity as a single invisible fluid. An object with extra fluid he called 'positive', and an object short of fluid he called 'negative'. When a spark jumped, he imagined the fluid rushing from the positive object to the negative one. It was a clever guess, and it let him explain a huge number of experiments. But he had to choose which side to call 'extra', and he had no way of seeing what was really moving. He chose, and by bad luck, he chose the opposite of what electrons actually do.",
+        "By the time Thomson discovered the electron in 1897, scientists and engineers had spent well over a century drawing currents going from plus to minus. Thousands of books, rules and calculations were built on it. Switching everything around would have caused chaos. So they kept Franklin's direction and gave it a name: conventional current. The direction the electrons really move is called electron flow.",
+        "The good news is that for almost every calculation it makes no difference. A flow of negative charges one way has exactly the same effect on a light bulb, a motor or a heater as a flow of positive charges the other way. The bulb glows just as brightly either way. Engineers simply have to remember which picture they are using. And in some places, such as salty water or the inside of a battery, positive charges really do move, so conventional current is not always 'wrong' at all."
+      ]
+    },
+    {
+      "heading": "Why a Thin Wire Glows White-Hot",
+      "paragraphs": [
+        "So what actually happens inside the glass? As electrons are pushed through the filament, they keep crashing into the vibrating atoms of the metal. Each collision passes on a little energy, making the atoms shake harder. Faster-shaking atoms are what we feel as heat. This heating effect was carefully measured by the English brewer and scientist James Prescott Joule around 1840 and 1841, and it is still called Joule heating. It is the same effect that warms the coils of a toaster, an electric hob or a hair dryer.",
+        "Joule found that the heat depends on the resistance and, even more strongly, on the current. Double the current through the same wire and you get about four times as much heat. In a lamp circuit, the thick copper wires in the walls have very low resistance, so very little heat is made there. Almost all the resistance in the circuit is packed into one tiny place: the filament. That is where nearly all the energy is turned into heat, so that is where the temperature soars.",
+        "The filament is also extremely thin, often thinner than a human hair, and in later bulbs it was wound into a tight coil. A thin wire has more resistance than a thick one, and it has very little material to soak up the heat, so it warms up within a fraction of a second. As it heats, it starts to glow. Anything hot enough gives off light: this is called incandescence, the same word that gives the 'incandescent bulb' its name.",
+        "The colour of the glow tells you how hot something is. At around 500 to 600 degrees Celsius, metal glows a dull, deep red, like the coils of an electric heater. Hotter, and it turns cherry red, then orange, then yellow. The filament of an ordinary household bulb runs at roughly 2,500 degrees Celsius, about twice as hot as the lava flowing from a volcano. At that temperature it glows a warm yellowish-white, the cosy colour many people still think of as 'proper' light.",
+        "Now you can see why the filament needs to live inside a sealed glass bubble. If air could reach a filament at 2,500 degrees, the oxygen in the air would attack it at once. A carbon filament would burn up like a match; a metal one would quickly oxidise (combine with oxygen) and fall apart. That is why Swan and Edison worked so hard on their vacuum pumps (Parts 8 to 10): with almost all the air removed, there was hardly any oxygen left to do damage.",
+        "Even in a vacuum, though, a filament slowly wears away. At such high temperatures, atoms on its surface gradually boil off, a process called evaporation. The escaping atoms fly across the bulb and stick to the cool glass, which is why old bulbs often have a grey or black smudge inside. As the filament loses material, it gets thinner in some spots. Thinner spots have more resistance, so they get hotter, so they lose material even faster. Eventually one spot becomes so thin that it snaps, and the bulb is dead.",
+        "Engineers found a clever trick to slow this down: instead of a vacuum, fill the bulb with a gas that does not react with the hot metal, such as argon or nitrogen. The gas atoms crowd around the filament and bounce many escaping atoms back towards it, so the filament evaporates more slowly and can run hotter and brighter. Swirling currents of hot gas carry the rest of the evaporated metal upward, which is why the dark smudge in a gas-filled bulb usually appears at the top instead of all over. Who worked this out, and with which metal, is the next part of our story."
+      ]
+    },
+    {
+      "heading": "Tungsten: The Metal That Would Not Melt",
+      "paragraphs": [
+        "The first practical bulbs of the 1880s and 1890s used carbon filaments, made by baking threads of cotton, paper or bamboo until only carbon was left. Carbon was cheap and could survive high temperatures, but it had weaknesses. It evaporated fairly fast, blackening the glass, and if it ran too hot it failed quickly. So carbon bulbs had to run at a lower temperature, giving a dim, orange-yellow light and wasting a lot of energy. Inventors began searching for a better filament material, trying metals such as osmium and tantalum around the start of the twentieth century.",
+        "The winner was tungsten, a heavy grey metal whose name comes from Swedish words meaning 'heavy stone'. (Its chemical symbol is W, from its other name, wolfram.) Tungsten has the highest melting point of any metal: about 3,422 degrees Celsius. That meant it could run much hotter than carbon without falling apart, and a hotter filament gives a whiter, brighter light from the same amount of electricity.",
+        "In 1904 two inventors, the Hungarian Sándor (Alexander) Just and the Croatian Franjo Hanaman, received a Hungarian patent for a lamp with a tungsten filament. The Hungarian company that licensed their patent later took the name Tungsram, a mix of 'tungsten' and 'wolfram'. Their bulbs gave much more light per watt than carbon lamps. But there was a big problem. Tungsten made this way was terribly brittle. The filaments were made by pressing tungsten powder into fine threads and heating them, and the result could snap if you looked at it the wrong way. A bulb dropped on the floor, or even knocked during delivery, might be ruined.",
+        "The fix came from the research laboratory of General Electric in Schenectady, New York, the company that had grown partly out of Edison's businesses. There, a young engineer and physicist named William D. Coolidge set out to make tungsten bendable, or ductile, so it could be drawn into a long, tough wire like copper. Most experts thought it was impossible. Coolidge spent years experimenting, starting around 1906. His team found that if tungsten was pressed from powder, heated, and then hammered and drawn through dies again and again while hot, the metal's tiny crystals were stretched into long fibres, and it became strong and flexible.",
+        "By about 1910, Coolidge's process could make ductile tungsten wire, and from about 1911 General Electric was selling lamps with drawn tungsten filaments. These bulbs were tough enough to survive everyday life and far more efficient than carbon lamps.",
+        "The next great step came from another scientist in the same laboratory, the chemist Irving Langmuir, who joined General Electric in 1909. Langmuir was supposed to be studying why bulbs went black, but he was the kind of person who loved digging into basic science. He found that, with a perfectly clean bulb and the right gas, filling the glass with an unreactive gas instead of keeping a vacuum made the tungsten evaporate much more slowly. He also discovered that winding the filament into a tight coil helped a lot: the coil kept a thin layer of hot gas wrapped around itself, so less heat was carried away. Langmuir's gas-filled, coiled-filament lamp was developed around 1913, and it greatly improved how much light a bulb gave for its electricity.",
+        "Langmuir later won the 1932 Nobel Prize in Chemistry for his studies of what happens on the surfaces of materials, work that partly began inside light bulbs. With tungsten, inert gas and coils, the classic light bulb was essentially complete. The bulbs many grandparents grew up with in the 1950s worked in almost exactly the same way."
+      ]
+    },
+    {
+      "heading": "A Heater That Happens to Glow",
+      "paragraphs": [
+        "For all its cleverness, the incandescent bulb has one enormous flaw. It is really a heater that happens to give off a bit of light. Of all the electrical energy going into an ordinary old-style bulb, about 90 percent or more comes out as heat, not visible light. Careful measurements put the share that becomes visible light at less than 5 percent for a typical household bulb, often only about 2 percent.",
+        "Where does all that heat go? Much of it is radiated as infrared, a kind of light with waves too long for our eyes to see but which we feel as warmth on our skin. A glowing filament gives off a broad rainbow of radiation, and at 2,500 degrees Celsius most of it falls in the invisible infrared part. Only a small slice lands in the narrow band our eyes can detect.",
+        "Scientists measure lighting efficiency in lumens per watt: how much light (in lumens) you get for each watt of power. A standard incandescent bulb gives roughly 13 to 16 lumens per watt. A modern white LED lamp, which we will meet in Part 18, gives around 100 lumens per watt or more. In other words, an LED can give the same light for about a sixth of the electricity, or less.",
+        "Why not just make the filament even hotter, so more of its glow lands in the visible range? But there is a cruel trade-off. The hotter the filament, the faster it evaporates and the sooner it breaks. Running a filament a little hotter makes it noticeably brighter and more efficient but can dramatically shorten its life. Running it cooler makes it last much longer but gives a dimmer, redder light for the same electricity. Every bulb designer had to choose a balance point between brightness, efficiency and lifespan."
+      ]
+    },
+    {
+      "heading": "The 1,000-Hour Club and the Bulb That Won't Quit",
+      "paragraphs": [
+        "That trade-off between brightness and lifespan leads to one of the strangest stories in the history of the light bulb. On 15 January 1925, representatives of the world's biggest bulb companies set up a company in Geneva, Switzerland, called Phoebus S.A., named after a Greek god of light. Its members included Osram of Germany, Philips of the Netherlands, Associated Electrical Industries of Britain, Tungsram of Hungary, the Tokyo Electric company of Japan and an overseas branch of America's General Electric. It became known as the Phoebus cartel. A cartel is a group of companies that secretly or openly agree not to compete properly with each other.",
+        "The cartel divided up the world's markets, set how many bulbs each member could sell, and helped keep prices up. It also did something that still makes people angry today. It agreed that ordinary bulbs should have a standard life of 1,000 hours. Before this, some bulbs had been designed to last considerably longer, by some accounts up to 2,500 hours. Member companies sent sample bulbs to be tested, and a company whose bulbs lasted too long beyond the standard could be fined, with the fines rising the more hours its bulbs went over.",
+        "Was this a sneaky plan to make people buy more bulbs? Many historians and writers think so. The Phoebus cartel is often given as one of the first big examples of 'planned obsolescence', meaning products deliberately designed to wear out sooner than they need to. Internal company letters seem to show executives worried that long-lasting bulbs were bad for sales, and in 1949 a United States court ruled against General Electric in a case that included its lamp-life policies.",
+        "But the story is not completely one-sided. Because of the trade-off we just met, a shorter-life bulb can be brighter and more efficient on the same electricity. Some engineers argued that 1,000 hours was a sensible balance, and in 1951 a British government commission looked at the question and decided that the 1,000-hour standard was a reasonable compromise for customers at the time. Historians still debate how much the rule was about engineering and how much about profit. Most agree that profit played a large part. The cartel fell apart around the start of the Second World War in 1939 and 1940, when its members ended up on opposite sides of the conflict.",
+        "Meanwhile, in a little fire station in California, one bulb was quietly ignoring all the rules. The Centennial Light hangs from the ceiling of Fire Station 6 in Livermore, California. It was made by hand in the late 1890s by the Shelby Electric Company of Shelby, Ohio, using a design linked to a French engineer named Adolphe Chaillet. In 1901 it was given to the town's fire department, and it has been glowing almost continuously ever since, more than 120 years.",
+        "It has had a few short breaks. It was off for about a week in 1937 while the fire station was renovated. In 1976 it was carefully moved to its present station, and was without power for only 22 minutes. In May 2013 a webcam watching the bulb seemed to show that it had finally died, but an electrician found the fault was in the power supply, not the bulb. After nearly ten hours it was glowing again. Guinness World Records has listed it as the longest-lasting light bulb.",
+        "Why has it lasted so long? It was originally a 60-watt bulb, but today it glows very dimly, giving off about as much light as a 4-watt bulb, more like a nightlight than a lamp. It has a thick, hand-made carbon filament, and it is almost never switched off, so it avoids the stressful surge of current and the heating and cooling that wear filaments out. In other words, it lasts so long partly because it is dim and inefficient: a perfect, glowing example of the trade-off between brightness and life.",
+        "There is one thing even the Centennial Light cannot do without. A bulb, whether it is a fragile carbon thread from 1879, a tough tungsten coil from 1913 or a famous fire-station lamp, is completely useless on its own. It needs a steady stream of electricity pushed into it, every second it glows. And in 1880, when the first good bulbs were ready, almost no building on Earth had a supply. There were no power stations, no cables under the streets and no sockets in the walls. If the light bulb was going to change the world, someone would have to build an entirely new kind of business: one that made electricity in one place and sent it out to everyone else."
+      ]
+    }
+  ],
+  "deepDive": "Why does a hot filament give off so little visible light? The answer lies in what physicists call black-body radiation. Any hot object emits a spread of wavelengths, and the peak of that spread shifts to shorter wavelengths as the object gets hotter (Wien's displacement law). The Sun's surface, at about 5,500 degrees Celsius, peaks right in the visible range, which is no coincidence: our eyes evolved to use sunlight. A tungsten filament at roughly 2,500 to 2,800 degrees Celsius peaks in the near-infrared, at around one micrometre, so most of its output is invisible heat. Even in theory, a tungsten filament lamp could not exceed about 52 lumens per watt, compared with a theoretical maximum of around 300 or more for white light from an ideal source. Real household bulbs achieved about 13 to 16 lumens per watt, meaning under 5 percent of the electrical energy became visible light. The life-versus-efficiency trade-off is extremely steep. A widely used engineering rule of thumb says that running a lamp just 5 percent above its rated voltage gives a little more light but can cut its life roughly in half, while running it about 5 percent below its rated voltage can roughly double its life. That is why the Phoebus cartel debate is genuinely tricky. Critics point to internal correspondence and the fines for long-lived lamps as evidence that profit drove the 1,000-hour rule, and a US court in 1949 found General Electric's lamp practices broke antitrust law. Defenders note that a 2,500-hour bulb would have been noticeably dimmer for the same power, so customers would have paid more for electricity to get the same light; Britain's Monopolies Commission accepted this argument in 1951. Many historians conclude both things can be true: 1,000 hours was a defensible engineering choice, but the cartel enforced it with fines to protect sales rather than letting customers choose. Another subtle point is the filament's positive temperature coefficient. Tungsten's resistance rises roughly tenfold or more between room temperature and operating temperature, so a cold bulb draws a large inrush current for a few milliseconds. This makes incandescent lamps partly self-regulating once hot, but it also explains why so many failed at switch-on.",
+  "funFact": "The Centennial Light in Livermore, California, began life as a 60-watt bulb but after more than 120 years of glowing it now gives about as much light as a 4-watt nightlight.",
+  "check": {
+    "q": "Why is tungsten such a good material for light bulb filaments?",
+    "a": "It has the highest melting point of any metal, so it can glow very hot without melting",
+    "wrong": [
+      "It is the cheapest and softest metal",
+      "It is the only metal that conducts electricity",
+      "It does not get hot when current flows through it"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Incandescent light bulb",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Incandescent_light_bulb"
+    },
+    {
+      "title": "J. J. Thomson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/J._J._Thomson"
+    },
+    {
+      "title": "Electric current",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electric_current"
+    },
+    {
+      "title": "Irving Langmuir",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Irving_Langmuir"
+    },
+    {
+      "title": "Phoebus cartel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Phoebus_cartel"
+    },
+    {
+      "title": "Centennial Light",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Centennial_Light"
+    },
+    {
+      "title": "Tungsram",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tungsram"
+    },
+    {
+      "title": "Joule heating",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Joule_heating"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Close-up photograph of a glowing coiled tungsten filament inside an incandescent light bulb",
+      "search": "incandescent bulb tungsten filament close up"
+    },
+    {
+      "want": "Photograph of the Centennial Light glowing in Livermore fire station",
+      "search": "Centennial Light Livermore bulb"
+    },
+    {
+      "want": "Portrait photograph of J. J. Thomson, discoverer of the electron",
+      "search": "J. J. Thomson portrait physicist"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "n": 14,
+  "title": "The War of the Currents",
+  "when": "1884 – 1896",
+  "summary": "Thomas Edison wanted the world to use DC electricity. George Westinghouse and the inventor Nikola Tesla bet on AC. Their fight got noisy and sometimes nasty, but in the end AC lit up a giant world's fair and carried the power of Niagara Falls to a whole city.",
+  "sections": [
+    {
+      "heading": "From Smiljan to Edison's Workshop",
+      "paragraphs": [
+        "On 10 July 1856 a baby boy named Nikola Tesla was born in Smiljan, a small village in the mountains of what is now Croatia. At the time the area was part of the Austrian Empire, and Tesla's family were Serbs; his father was an Orthodox priest. Nikola was a brilliant, imaginative child who later claimed he could picture machines in his head so clearly that he could build and test them in his mind before touching a single tool.",
+        "In 1875 he went to study engineering at the technical college in Graz, in Austria. There he saw a DC machine whose brushes and commutator sparked fiercely, and, by his own later account, he became convinced that a motor could be built without them. He left Graz in 1878 without finishing his degree, and in 1880 he went to Prague, where he attended lectures without being formally enrolled. He never earned a university degree, though he read and taught himself constantly.",
+        "In 1881 Tesla moved to Budapest to work for the city's new telephone exchange, run by the Hungarian inventor Tivadar Puskás, and he rose to be its chief electrician. According to Tesla's own story, told many years later, the great idea came to him in 1882 while he was walking in a Budapest park with a friend: a magnetic field that spins round and round, made by alternating currents, which could drag a motor along with it. He said he sketched the idea in the sand with a stick. We only have his word for the scene, but the idea itself was real and became his most important invention.",
+        "Later in 1882 Puskás found him a job in Paris with the Continental Edison Company, which installed Edison lighting systems in Europe. Tesla worked on improving dynamos and motors and fixing lighting plants. In June 1884 he sailed to New York to work at the Edison Machine Works, which built dynamos for Edison's power stations. He arrived with very little money, ready to make his mark in the land of opportunity.",
+        "Tesla worked for Edison's company for only about six months, solving problems with generators and lighting installations. Edison and Tesla were very different people. Edison was a practical tinkerer who believed in testing thousands of possibilities, while Tesla preferred to work things out in his head and with mathematics. Edison had already bet everything on direct current. Tesla was dreaming of alternating current.",
+        "Why Tesla left is not entirely clear. Many years later, in his autobiography, Tesla told a story that he had been promised 50,000 dollars for redesigning the company's dynamos, and that when he finished, he was told the offer had been a joke. This story is famous, but it comes only from Tesla's own account written decades later, and historians point out that the company did not have that kind of spare cash. His own diary from the time simply records a short goodbye to the Edison Machine Works. So it is best to treat the 50,000-dollar joke as a story told by Tesla, not as a proven fact.",
+        "Next, investors helped Tesla start his own company, Tesla Electric Light and Manufacturing, which built an arc lighting system in Rahway, New Jersey. But in 1886 the investors decided to run an electric utility instead, pushed Tesla out, and kept the patents he had signed over to them. He was left almost penniless. For a while, during a hard winter, he took repair jobs and even worked digging ditches for about 2 dollars a day.",
+        "His luck turned in April 1887, when two backers, Alfred S. Brown and Charles Peck, helped him set up the Tesla Electric Company in a laboratory in New York. At last he had the time and tools to build the motor he had been imagining for years."
+      ]
+    },
+    {
+      "heading": "A Motor with a Spinning Field",
+      "paragraphs": [
+        "Remember the big weakness of early AC from the last part? There was no good AC motor. Lights worked fine on AC, but factories, mills and streetcars needed motors, and those ran on DC. If AC was going to win, it needed a motor of its own.",
+        "Tesla's answer was the induction motor, and the idea behind it is beautiful. Imagine a ring of electromagnets arranged around a circle. Feed one set of coils with an alternating current, and a second set with another alternating current that is out of step with the first, peaking a quarter of a cycle later. As the two currents rise and fall in turn, the magnetism inside the ring does not just flip back and forth. It swings smoothly round and round, like the beam of a lighthouse. This is a rotating magnetic field, and no part of the motor has to move to create it.",
+        "Inside the ring sits the rotor, a simple drum of iron with copper bars or wires. The spinning magnetism sweeps across the copper and, by Faraday's induction again, makes currents flow in it. Those currents turn the rotor into a magnet too, and it is dragged around after the rotating field, chasing it but never quite catching it. There are no brushes, no sparking commutator, and no electrical connection to the spinning part at all. It is tough, simple and almost maintenance-free. Using several AC currents out of step with each other like this is called a polyphase system, from Greek words meaning many phases.",
+        "Tesla filed patents on his motor and polyphase system in 1887, and they were granted in May 1888. On 16 May 1888 he gave a lecture and demonstration to the American Institute of Electrical Engineers in New York, showing his motors running. Engineers were impressed, including those working for George Westinghouse.",
+        "Tesla was not alone. In Turin, the Italian physicist Galileo Ferraris had been experimenting with rotating magnetic fields since about 1885, and on 11 March 1888 he presented a paper on the idea to the Royal Academy of Sciences in Turin, two months before Tesla's lecture. Ferraris built working induction motors but never patented them, believing ideas like this should be free for all. In Germany, the Russian-born engineer Mikhail Dolivo-Dobrovolsky, working for the AEG company in Berlin, soon developed improved three-phase motors and transformers from 1889 onward. Like many great inventions, the induction motor had several parents.",
+        "Westinghouse moved quickly. In July 1888 his company licensed Tesla's patents. Tesla and his partners received 60,000 dollars in cash and stock, plus a royalty of 2.50 dollars for every horsepower of AC motors sold. Westinghouse also hired Tesla as a consultant in Pittsburgh for a year at 2,000 dollars a month, and took an option on Ferraris's motor design too, to be safe. The work in Pittsburgh was frustrating at first. Tesla disagreed with other engineers, his early motors only ran well at one fixed speed, which made them no good for streetcars, and it took years of work by Westinghouse engineers, especially Benjamin Lamme, to make induction motors practical. But AC now had a future beyond lighting."
+      ]
+    },
+    {
+      "heading": "Warnings and Wires",
+      "paragraphs": [
+        "The Edison side fought back with words first. In February 1888 Edison's company published an 84-page booklet titled simply 'A Warning'. It was sent to newspapers and to customers of rival companies. It argued that Westinghouse and others were using Edison's patents without permission, and that high-voltage AC was a deadly danger to the public, while Edison's low-voltage DC was safe.",
+        "The danger was not imaginary. In the 1880s the streets of New York were crowded with a tangle of overhead wires on poles: telegraph wires, telephone wires, fire alarm wires and electric lighting wires, some carrying thousands of volts with poor insulation. Several workers were killed. The most shocking case came on 11 October 1889, when a telegraph lineman named John Feeks grabbed a telegraph wire that had accidentally become crossed with a high-voltage AC lighting line. He was killed high up on a pole above a busy Manhattan street. Newspapers called the fear that followed the Electric Wire Panic, and the city ordered many overhead wires to be cut down and moved underground.",
+        "In November 1889 Edison wrote a magazine article in the North American Review attacking AC and saying he would never use it while he was in charge. Many ordinary people agreed that high-voltage wires were frightening. Westinghouse's side replied that the real problem was careless installation, and that AC could be made safe with proper insulation, underground cables and transformers that kept the voltage low inside homes and shops. In the long run, the Westinghouse argument proved right: with good safety rules, AC was not more dangerous to customers than DC. But in 1889 the question was not yet settled.",
+        "It is worth being fair to both sides. Edison really did believe high voltages were dangerous, and early AC systems were often installed in risky ways. Westinghouse really did believe AC could be made safe and would bring cheaper power to more people. Both men also had huge sums of money at stake. Behind the arguments about safety lay a fierce business battle over patents, customers and the future of an entire industry."
+      ]
+    },
+    {
+      "heading": "Harold Brown and the Electric Chair",
+      "paragraphs": [
+        "The darkest chapter of the War of the Currents was led not by Edison himself but by an engineer named Harold P. Brown. Brown was largely self-taught and had worked on arc lighting before moving to New York in 1887. On 5 June 1888 he wrote a letter to the New York Post calling AC lines a deadly public menace and demanding strict limits on AC voltage.",
+        "To prove his point, Brown staged public experiments in which animals were killed with electricity. In July 1888, at Columbia College in New York, he showed that a dog survived shocks of direct current but was killed by a lower voltage of alternating current. Later that year, at Edison's laboratory in West Orange, New Jersey, he killed calves and a horse with AC for a group of doctors from the New York Medico-Legal Society. These cruel demonstrations upset many people even at the time, and they were not fair science either: the dog at Columbia had already been given a series of DC shocks, up to 1,000 volts, before the AC was used, so it was not a careful comparison. Edison's laboratory supplied space and equipment, although Brown denied being employed by Edison. In August 1889 a New York newspaper, the Sun, printed letters taken from Brown's office suggesting he had been taking directions, and money, from Edison's company and its ally Thomson-Houston.",
+        "At the same time, New York State was looking for a new way to carry out the death penalty, one that people hoped would be quicker than hanging. A Buffalo dentist named Alfred Southwick had suggested electricity years earlier, and in 1888 the state passed a law making electrocution its method of execution. Brown became a consultant on the design of the electric chair and helped choose AC for it, then quietly obtained Westinghouse AC generators to power it, without Westinghouse's permission. Many historians think Brown and his supporters hoped the public would come to link Westinghouse's AC with death.",
+        "The first person sentenced to the electric chair was William Kemmler, who had been convicted of a murder in Buffalo in 1889. George Westinghouse, not wanting his equipment used this way, is widely believed to have quietly paid for a top lawyer, William Bourke Cockran, to appeal the case, arguing that electrocution was a cruel and unusual punishment. The appeals failed. On 6 August 1890, at Auburn Prison in New York, Kemmler was executed. The process went badly: the first jolt did not end his life, and a second, stronger jolt was needed, so the whole procedure took about eight minutes. The New York Times reported it under the headline 'Far Worse Than Hanging'. Westinghouse is reported to have said that they would have done better using an axe.",
+        "The electric chair did not destroy AC, as some had hoped. Most people could see the difference between a machine built to kill and the wires that lit their homes. But the whole episode showed how ugly a business fight could become when fear, money and pride were mixed together."
+      ]
+    },
+    {
+      "heading": "175 Kilometres of Power: Lauffen to Frankfurt",
+      "paragraphs": [
+        "While Americans argued, Europe gave the world a spectacular demonstration of what AC could really do. In 1891 the city of Frankfurt in Germany held an International Electrotechnical Exhibition from 16 May to 19 October. The organisers had a bold aim: to bring electric power to the show from a waterfall on the river Neckar at Lauffen, about 175 kilometres away. Nobody had ever sent serious amounts of power that far.",
+        "The project was led by the German engineer Oskar von Miller, who later founded the famous Deutsches Museum in Munich. The equipment was built by two companies: AEG of Berlin, where Mikhail Dolivo-Dobrovolsky had been developing three-phase AC, and the Swiss firm Maschinenfabrik Oerlikon, where the engineer Charles E. L. Brown worked with Dolivo-Dobrovolsky on the project. Three-phase AC uses three alternating currents, each one third of a cycle out of step with the others, which is the most efficient way to send power and run induction motors. It is still the standard on almost every power grid in the world.",
+        "At Lauffen, a water turbine turned a three-phase generator of about 300 horsepower. Transformers raised the voltage to many thousands of volts (accounts give figures from about 8,000 to 15,000 volts), and in later tests as high as 25,000 volts, far higher than anything Edison's system used. The power then travelled along overhead wires strung across the German countryside, using about 60 tonnes of copper wire only 4 millimetres thick. At Frankfurt, transformers stepped the voltage back down.",
+        "The entrance to the exhibition had a sign glowing with 1,000 light bulbs that announced the power transmission from Lauffen, and inside, an electric pump drove an artificial waterfall. About 1.2 million visitors came. Imagine standing in front of that waterfall and realising that the river water tumbling at Lauffen, 175 kilometres away, was making this water fall in Frankfurt. Official tests found that about 75 per cent of the power generated at Lauffen arrived in Frankfurt. That was proof that long-distance three-phase AC transmission worked.",
+        "There was one small lesson too. The Lauffen line ran at 40 cycles per second, and engineers noticed lamps flickering slightly. AEG soon chose 50 cycles per second as its standard, and that choice spread across much of Europe, which is one reason European sockets run at 50 Hz today."
+      ]
+    },
+    {
+      "heading": "Money Troubles and a New Company",
+      "paragraphs": [
+        "The War of the Currents was also a war of money, and both sides felt the strain. In 1890 a financial crisis, set off by the near-collapse of Barings Bank in London, swept through the business world. Banks called in their loans, and Westinghouse's company ran short of cash. Its lenders demanded cuts. Tesla helped his friend by agreeing in 1891 to give up the royalty on his motor patents, which could have been worth a fortune. Years later, in 1897, Westinghouse bought the patents outright for a lump sum of 216,000 dollars.",
+        "Edison was losing control of his own companies. In 1889 his various electrical businesses had been merged into Edison General Electric, with the financier Henry Villard as president, and Edison no longer held the majority. By 1890 Edison told Villard he wanted to leave the lighting business. Meanwhile another strong company, Thomson-Houston, led by Charles Coffin and built on the inventions of Elihu Thomson, was selling both AC and DC systems.",
+        "On 15 April 1892 the great banker J. P. Morgan helped arrange a merger: Edison General Electric and Thomson-Houston became a single company called General Electric, usually known as GE. Thomson-Houston's managers took charge, and Edison's name disappeared from the company title. He reportedly learned of the deal only shortly before it was announced. The new GE controlled roughly three quarters of the American electrical business, and, importantly, it embraced AC as well as DC. Edison himself turned his energy to other inventions.",
+        "So by 1892 the war was no longer really Edison against Westinghouse. It was two giant companies, GE and Westinghouse, both selling AC systems and competing for the biggest contracts in the world."
+      ]
+    },
+    {
+      "heading": "The White City and the Mighty Falls",
+      "paragraphs": [
+        "The first great prize was the World's Columbian Exposition, a huge world's fair held in Chicago from 1 May to 30 October 1893 to mark 400 years since Christopher Columbus reached the Americas. In May 1892 Westinghouse won the contract to light it, underbidding General Electric by a wide margin. He made almost no profit, but the fair was a stage seen by millions.",
+        "There was a snag: GE owned Edison's light bulb patent, so Westinghouse could not use Edison-type bulbs. His engineers quickly designed a different lamp, sealed with a ground-glass stopper, based on an older patent by Sawyer and Man. It worked, though the lamps did not last long and teams of workers had to keep replacing them. Westinghouse also built twelve big 1,000-horsepower AC generators for the fair.",
+        "When the fair opened, more than 200,000 lamps lit up its gleaming white buildings, which gave it the nickname the White City. Fountains glowed, searchlights swept the sky, and in the Electricity Building visitors could see Tesla's induction motors and AC equipment. Tesla himself visited in August and gave dazzling demonstrations, including the Egg of Columbus, in which a rotating magnetic field made a copper egg spin and stand up on its end. More than 27 million visits were made to the fair. For many Americans it was their first sight of a whole city lit by electricity, and it was powered by AC.",
+        "The second prize was even bigger: Niagara Falls. For years people had dreamed of harnessing the enormous power of the falls. In 1890 an international commission, chaired by the famous British scientist Lord Kelvin, studied many proposals but could not choose one. Finally, in 1893, the Cataract Construction Company, led by Edward Dean Adams, decided on a polyphase AC system, persuaded in part by the engineer George Forbes. Westinghouse won the contract to build the generators, based on Tesla's polyphase system and refined by Benjamin Lamme, while GE won contracts for the transmission line and transformers. Both rivals were now working on the same AC project.",
+        "The Adams Power Plant began running on 25 August 1895 with giant 5,000-horsepower generators, each producing AC at 25 cycles per second. Then, on 16 November 1896, power from the falls reached the city of Buffalo, about 20 miles (around 32 kilometres) away, stepped up to high voltage for the journey. Electricity made by falling water could now help light and power a big city. The plant soon grew, and Niagara became a symbol of the electric age. AC had shown it could power whole cities from far away."
+      ]
+    },
+    {
+      "heading": "Who Really Won?",
+      "paragraphs": [
+        "AC clearly won the battle to power big electricity grids. Its ability to be stepped up and down by transformers made it the only practical way, with the technology of the 1890s, to send large amounts of power over long distances. Within a few decades, nearly every new power system in the world used AC, and the three-phase system shown at Frankfurt became standard almost everywhere.",
+        "But DC never disappeared. Look around you. Your phone, tablet, laptop and torch all run on batteries, which give DC. Computers, LED lights and televisions use DC inside, and the small power adapters you plug into the wall turn AC into DC for them. Solar panels produce DC. Electric cars store DC in their batteries. And today, very long high-voltage DC lines, a technology you will meet later in this story, carry huge amounts of power across countries and under the sea, because modern electronics can now do the voltage-changing that only transformers could manage in Edison's day.",
+        "Old DC systems also lasted far longer than you might guess. Some Broadway theatres in New York used DC until 1975. Consolidated Edison, the company that grew out of Edison's original New York business, still had about 4,600 DC customers in 1998, many of them old buildings that still used DC to run their elevators. By 2006 there were just 60. Finally, on 14 November 2007, Con Edison switched off its last direct current service, 125 years after Pearl Street started up. The few remaining customers were given machines that turn AC into DC on site.",
+        "One more myth needs clearing up. People often say that Edison electrocuted an elephant named Topsy to prove AC was dangerous. In fact, Topsy was killed at Coney Island in 1903 by the people who owned her, more than ten years after the War of the Currents was over and long after Edison had left the electric lighting business. A film company connected to Edison recorded it, but it had nothing to do with the battle between AC and DC.",
+        "In the end, the War of the Currents was not a story of heroes and villains. Edison built the first complete electric lighting system and was right that badly installed high voltages were dangerous. Tesla, Ferraris and Dolivo-Dobrovolsky gave AC its motors. Gaulard, Gibbs, the Ganz engineers and Stanley gave it transformers. Westinghouse had the courage to bet his company on it. Each side pushed the other to do better, and the whole world benefited.",
+        "With the argument settled, engineers turned to a much bigger task. Power lines began to march out from the cities, across fields, forests and mountains, linking power stations together into networks that would one day stretch across entire countries."
+      ]
+    }
+  ],
+  "deepDive": "Historians today tend to see the War of the Currents less as a duel between geniuses and more as a contest between technical systems, patents and finance. Edison's 110-volt DC network was elegant inside a dense district, and he had a complete package of lamps, meters, fuses and underground cables. Its weakness was physics: resistive losses rise with the square of current, so low-voltage distribution needed huge copper conductors or many local power stations. AC's advantage was the transformer, but in 1886 AC lacked a practical motor and a meter. Both gaps closed quickly: Oliver Shallenberger's induction meter (1888), Tesla's and Ferraris's induction motors (1888), and Dolivo-Dobrovolsky's three-phase machines (1889 to 1891). The Lauffen to Frankfurt test in 1891 delivered about 75 percent of the generated power over roughly 175 km, convincing engineers worldwide. Credit for the induction motor is genuinely shared. Ferraris presented his rotating-field work in Turin on 11 March 1888 but did not patent it; Tesla's US patents, granted in May 1888, became commercially decisive because Westinghouse bought them. Tesla's 1882 park vision and the 50,000-dollar 'joke' come from his own recollections written decades later and cannot be checked. Harold Brown's animal experiments and his role in the electric chair are well documented, as is support from Edison's laboratory and company, but historians debate how far Edison personally directed him. Edison's safety fears had a real basis: overhead high-voltage lines in New York caused several deaths, including lineman John Feeks in October 1889. But AC could be, and soon was, made safe through insulation, underground cables and step-down transformers. Business forces ended the war more than any demonstration. The 1890 financial panic weakened Westinghouse, and Edison lost control of his companies before J. P. Morgan's 1892 merger created General Electric, which promptly sold AC too. In the mid-1890s GE and Westinghouse reached a patent-sharing agreement, and Niagara became a joint project, with Westinghouse generators and GE transmission equipment. The early 25 Hz Niagara frequency and 40 Hz at Lauffen also show that standards, not just currents, were being fought over; the 50 and 60 Hz standards came out of these years.",
+  "funFact": "Con Edison, the company that grew out of Edison's original New York business, did not switch off its last direct current customers until 14 November 2007, 125 years after the Pearl Street station started up.",
+  "check": {
+    "q": "In 1891, how far did engineers send three-phase AC power from Lauffen to the exhibition in Frankfurt?",
+    "a": "About 175 kilometres",
+    "wrong": [
+      "About 1 kilometre",
+      "About 1,750 kilometres",
+      "About 17 kilometres"
+    ]
+  },
+  "sources": [
+    {
+      "title": "War of the currents",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_currents"
+    },
+    {
+      "title": "The War of the Currents: AC vs. DC Power",
+      "publisher": "U.S. Department of Energy",
+      "url": "https://www.energy.gov/articles/war-currents-ac-vs-dc-power"
+    },
+    {
+      "title": "Nikola Tesla",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nikola_Tesla"
+    },
+    {
+      "title": "Galileo Ferraris",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Galileo_Ferraris"
+    },
+    {
+      "title": "International Electrotechnical Exhibition",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/International_Electrotechnical_Exhibition"
+    },
+    {
+      "title": "William Kemmler",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Kemmler"
+    },
+    {
+      "title": "World's Columbian Exposition",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/World%27s_Columbian_Exposition"
+    },
+    {
+      "title": "Adams Power Plant Transformer House",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Adams_Power_Plant_Transformer_House"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Portrait photograph of Nikola Tesla as a young man, around 1890",
+      "search": "Nikola Tesla portrait 1890"
+    },
+    {
+      "want": "A drawing from Tesla's 1888 US patent for an electro-magnetic (induction) motor",
+      "search": "Tesla 1888 patent electro magnetic motor"
+    },
+    {
+      "want": "Historic photograph of the generators inside the Edward Dean Adams Power Plant at Niagara Falls, 1890s",
+      "search": "Adams Power Plant Niagara generators"
+    }
+  ]
+}

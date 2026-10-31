@@ -1,0 +1,147 @@
+{
+  "n": 10,
+  "title": "How Rockets Work (Part 1): Push and Fall",
+  "when": "Science explainer",
+  "summary": "A rocket flies by throwing hot gas out of its back, just like a balloon zooms around when you let it go. To stay in space, a spaceship has to go sideways so fast that it keeps falling around the Earth without ever hitting it. Astronauts float because they are falling too, not because gravity has switched off.",
+  "sections": [
+    {
+      "heading": "Push Me, Push You",
+      "paragraphs": [
+        "Blow up a balloon, pinch the end, and then let go. Whoosh! It zigzags wildly around the room, squealing, until it flops to the floor. Congratulations: you have just launched a rocket. Every rocket ever built, from a Chinese fire arrow to the giant Saturn V, works on exactly the same idea as that runaway balloon.",
+        "The idea was explained by Isaac Newton in 1687, in his famous book the Principia. It is his third law of motion, and it is usually said like this: for every action, there is an equal and opposite reaction. In plainer words, forces always come in pairs. Whenever one thing pushes on a second thing, the second thing pushes back on the first, just as hard, in the opposite direction.",
+        "In the balloon, the stretchy rubber squeezes the air inside. The air rushes out through the open neck. As the balloon pushes the air backwards out of the hole, the air pushes the balloon forwards. Action: air shoved out the back. Reaction: balloon shoved forward. The two forces are equal in size but point opposite ways, and they act on different things, one on the air and one on the balloon. That is the secret of the whole law.",
+        "Here is another experiment you can imagine, but please only try it carefully with a grown-up. Stand on a skateboard holding a heavy ball, such as a basketball or, even better, a medicine ball. Throw the ball hard straight ahead. What happens to you? You roll backwards! You pushed the ball forwards, so the ball pushed you backwards. The heavier the ball and the harder you throw it, the faster you roll away.",
+        "There is even a simple rule for how fast. Suppose you and your skateboard together have a mass of 40 kilograms, and you throw a 4-kilogram medicine ball forward at 5 metres per second. You are 10 times heavier than the ball, so you will roll backwards 10 times more slowly: about half a metre per second. Scientists describe this with a quantity called momentum, which is mass multiplied by speed. The ball's momentum forward exactly balances your momentum backward.",
+        "You have probably felt the third law many times without noticing. When a garden hose is turned on full and you drop it, the nozzle wriggles and whips about like a snake, because the water shooting out pushes the hose back the other way. Firefighters must brace themselves and often hold big hoses in teams, because the kick from a fire hose is strong enough to knock a person over. When you swim, you push water backwards with your hands and feet, and the water pushes you forwards. When you jump off a small boat onto a dock, the boat scoots away behind you.",
+        "A rocket engine is simply a machine that throws stuff backwards very hard and very fast. Instead of a medicine ball, it throws an enormous stream of hot gas, made by burning fuel. A big rocket engine can blast out tonnes of gas every second, at speeds of around 2 to 4.5 kilometres per second, many times faster than a jet airliner flies. All that gas rushing backwards gives the rocket a giant push forwards. That push is called thrust."
+      ]
+    },
+    {
+      "heading": "Rockets Don't Need Air to Push On",
+      "paragraphs": [
+        "Now for one of the most famous mistakes in the history of science. In 1920, the New York Times printed an article that made fun of the rocket scientist Robert Goddard. The writer claimed that a rocket could never work in the emptiness of space, because there would be nothing for it to push against. As you read in Part 5, the newspaper finally printed a correction in July 1969, while Apollo 11 was on its way to the Moon.",
+        "Why was the newspaper wrong? Think about the skateboarder again. Did the skateboarder roll backwards because the ball pushed on the air? No. The skateboarder rolled backwards because of the push between the hand and the ball. The air had nothing to do with it. You could do the same trick on a frictionless floor inside a giant vacuum chamber and it would still work.",
+        "A rocket is the same. It does not push on the air outside; it pushes on its own exhaust. Inside the engine's combustion chamber, burning propellant makes extremely hot, high-pressure gas. That gas presses outwards in every direction, on the sides of the chamber, on the top, everywhere. But at the bottom there is an opening, the nozzle, where the gas can escape. Because the gas presses on the top of the chamber but has a hole to escape at the bottom, the pushes do not balance, and the rocket is shoved upwards. The gas rushing out the back is the 'thrown ball'.",
+        "In fact, rockets work better in space than in the air. Down near the ground, the atmosphere presses against the exhaust as it leaves the nozzle, getting in the way a little, like trying to blow a powerful puff of air into a strong headwind. In the vacuum of space there is no air pressing back, so the exhaust escapes more freely and the engine gives more thrust. The F-1 engines of the Saturn V, for example, produced about 15 percent more thrust in a vacuum than at sea level. Engineers even build engines with extra-long nozzles that are designed only for use high up or in space, where they work best.",
+        "So the next time someone tells you that rockets push off the air, you can explain kindly that it is the other way around. Air is not a help to rockets; it is a nuisance. It slows them down with drag and squashes their exhaust. The perfect place for a rocket is the empty sky above the sky."
+      ]
+    },
+    {
+      "heading": "Bring Your Own Oxygen",
+      "paragraphs": [
+        "To make hot gas, a rocket burns fuel. But burning needs more than fuel. Think of a campfire: you need wood (the fuel), heat to get it started, and oxygen from the air. Put a glass jar over a candle and the flame soon goes out, because it has used up the oxygen inside. Fire needs oxygen, or something that does oxygen's job.",
+        "On Earth, oxygen is everywhere, making up about 21 percent of the air we breathe. Cars, aeroplanes and campfires simply take what they need from the air around them. But in space there is no air at all, and so there is no oxygen. A rocket that relied on the air to burn its fuel would go out like a candle under a jar as soon as it climbed above the atmosphere.",
+        "The solution is to take your own. A rocket carries both a fuel and an oxidizer, a chemical that supplies the oxygen (or does the same job) so that the fuel can burn anywhere, even in the empty vacuum of space. Together, the fuel and the oxidizer are called the propellant. Many big rockets use liquid oxygen, which is oxygen gas cooled down to about minus 183 degrees Celsius until it becomes a pale blue liquid. That is why rockets on the launch pad are often covered in frost and puffing white clouds: their tanks are full of oxygen colder than anything in a home freezer.",
+        "The oxidizer is often heavier than the fuel. In an engine that burns kerosene (a fuel similar to jet fuel) with liquid oxygen, roughly 2.5 kilograms of oxygen are used for every kilogram of kerosene. In an engine that burns liquid hydrogen with liquid oxygen, it is about 6 kilograms of oxygen for every kilogram of hydrogen. So most of the weight in a rocket's tanks is not fuel at all, but oxygen. Solid rockets carry their oxidizer too, mixed into the solid fuel. The gunpowder in the very first Chinese rockets contained saltpeter, which supplied oxygen in exactly this way.",
+        "This is the big difference between a rocket and a jet engine. A jet engine on an airliner sucks in huge amounts of air at the front, squeezes it, mixes it with fuel, burns it, and blasts it out of the back. It throws air backwards to push itself forward, so it also uses Newton's third law. But it needs the air, both for oxygen and as the stuff it throws. That makes jets very efficient for flying through the atmosphere, because they do not need to carry heavy oxidizer, but it also means they cannot fly into space. As you go higher, the air gets thinner and thinner, until a jet engine simply cannot breathe. Even the highest-flying jet planes, such as the American SR-71 Blackbird spy plane, cruised at only about 25 kilometres up, and brief record-breaking 'zoom climbs' went only a little higher. A rocket carries everything it needs inside itself, so it can keep going all the way to space and beyond."
+      ]
+    },
+    {
+      "heading": "The Great Tug-of-War: Thrust Against Weight",
+      "paragraphs": [
+        "Picture a rocket standing on the launch pad. Two forces are fighting over it. Gravity pulls it down; that pull is the rocket's weight. When the engines light, thrust pushes it up. It is like a tug-of-war, and the rocket only lifts off when thrust wins, when the upward push is bigger than the downward pull of its weight.",
+        "Scientists measure forces in units called newtons, named after you-know-who. On Earth, every kilogram of mass weighs about 9.8 newtons. So a 1-kilogram bag of sugar presses down with a force of about 10 newtons, and a 30-kilogram child weighs about 300 newtons. To lift off, a rocket must push down on its exhaust with more newtons of thrust than its own weight.",
+        "Let's try it with the most famous rocket of all, the Saturn V that carried astronauts to the Moon. Fully fuelled, it had a mass of about 2,900 tonnes, which means a weight of roughly 28 million newtons. Its five first-stage F-1 engines together produced about 34 million newtons of thrust at liftoff. Thrust beat weight, but not by a huge margin: thrust was only about 1.2 times the weight. The difference, about 6 million newtons, was all that was left to actually speed the rocket up.",
+        "That is why giant rockets seem to rise so slowly at first, almost lazily, as if they are being gently lifted by a crane. The Saturn V took about 12 seconds just to climb past its own launch tower, even though its engines were roaring with enough power to shake the ground kilometres away. If thrust had been less than weight, the rocket would simply have sat there burning fuel and going nowhere, and if they were exactly equal, it would have hovered.",
+        "But here is a wonderful thing: the rocket gets lighter every second. Those five F-1 engines together gulped about 13 tonnes of propellant every second. As the tanks drain, the weight drops, while the thrust stays the same or even grows as the air thins. So the rocket speeds up faster and faster. By the time a rocket's first stage burns out, the astronauts are being pressed into their seats with a force of about four times their normal weight. A 70-kilogram astronaut feels as if they weigh 280 kilograms!",
+        "This is also why rocket engineers are obsessed with saving weight. Every extra kilogram of metal, wiring or cargo needs extra propellant to lift it, and that propellant has weight too, which needs even more propellant. It is a bit like a snowball rolling downhill. Engineers fight this problem with clever tricks, such as dropping empty parts of the rocket on the way up, which you will explore in Part 14."
+      ]
+    },
+    {
+      "heading": "Orbit: Falling Sideways Forever",
+      "paragraphs": [
+        "Here is a riddle. If you throw a ball as hard as you can, it lands on the ground. If a rocket goes up 400 kilometres and stops, it falls straight back down too. So how does a satellite stay up for years without engines? The answer is amazing: it doesn't stay up. It is falling all the time. It just keeps missing the Earth.",
+        "Isaac Newton explained this with a famous thought experiment, an experiment you do in your imagination. Picture a cannon on top of an impossibly tall mountain, poking up above the air so nothing slows the cannonball down. Fire the cannonball sideways, gently, and it curves down and lands near the foot of the mountain. Fire it faster, and it flies further before it lands. Faster still, and it lands on the other side of the world.",
+        "Now fire it so fast that, as it falls, the curved surface of the Earth drops away beneath it at the same rate. The cannonball is still falling, pulled down by gravity every moment, but it never gets any closer to the ground. It falls all the way around the planet and comes back to the mountain from behind. (Duck!) That is an orbit. An orbit is simply falling around a planet while going sideways fast enough to keep missing it.",
+        "How fast is fast enough? There's a neat coincidence that gives the answer. Any falling object drops about 5 metres in its first second of falling. And because the Earth is round, its surface curves downward by about 5 metres over a distance of about 8 kilometres. So if you could travel sideways at about 8 kilometres every second, then in each second you would fall about 5 metres, but the ground would also have curved away by about 5 metres. You would stay at the same height, falling forever.",
+        "The precise number for a low orbit, a few hundred kilometres up, is about 7.8 kilometres per second. That is around 28,000 kilometres per hour, about 23 times the speed of sound at sea level and about eight times faster than a speeding rifle bullet. At that speed you could cross the Atlantic Ocean in about 12 minutes. The International Space Station, at about 400 kilometres up, goes all the way around the Earth in about an hour and a half, so the astronauts on board see roughly 16 sunrises and 16 sunsets every day.",
+        "This shows something that surprises many people: the hard part of getting into orbit is not going up, it's going sideways. Reaching a height of 100 kilometres takes only a fraction of the energy needed for orbit. That's why rockets climb straight up only for the first part of their flight, to get out of the thickest air, and then gradually tip over until they are flying almost level with the ground, building up that enormous sideways speed. Without it, anything that climbs into space falls straight back down. Such up-and-down hops are called suborbital flights.",
+        "The orbit also has to be high enough. Even at 200 kilometres, there are still a few traces of air, which gently drag on a satellite, slowing it down until it spirals back into the atmosphere, just as happened to Sputnik. Higher up, there is less drag, and orbits last longer. Further out, gravity is also weaker, so satellites need less speed to stay in orbit and they take longer to go around. Weather and TV satellites about 36,000 kilometres up take exactly one day per orbit, so they seem to hover above the same spot on Earth. The Moon, our natural satellite, about 384,000 kilometres away, is falling around us too, at only about 1 kilometre per second, taking about 27 days per lap.",
+        "What if you go even faster? Push past about 11.2 kilometres per second near the Earth's surface, about 40,000 kilometres per hour, and you have reached escape velocity. At that speed (ignoring air resistance), you are going so fast that Earth's gravity can never pull you all the way back. Your path stretches out and never closes, and you sail away from the Earth. Probes heading to Mars, Jupiter and beyond have to reach roughly this speed."
+      ]
+    },
+    {
+      "heading": "Where Does Space Begin?",
+      "paragraphs": [
+        "If you drive straight up a mountain road, the air gets thinner. If you could keep driving straight up into the sky, at what point would you say, 'Now I'm in space'? Surprisingly, there's no sharp edge. The atmosphere doesn't end like the surface of a swimming pool. It just fades away, getting thinner and thinner the higher you go.",
+        "Here are some heights to give you an idea. About half of all the air in the atmosphere lies below about 5.5 kilometres. The top of Mount Everest is about 8.8 kilometres up, where climbers usually need bottled oxygen. Airliners cruise at about 10 to 12 kilometres. Weather balloons drift up to around 30 to 40 kilometres. By 100 kilometres up, the air is so thin that it is less than a millionth as dense as at sea level, and the sky above looks black even in daytime.",
+        "The most common boundary used is the Kármán line, 100 kilometres above sea level. It is named after Theodore von Kármán, a Hungarian-born American engineer who helped start the Jet Propulsion Laboratory. He worked out that at around this height, the air becomes so thin that a plane would have to fly as fast as orbital speed just to get enough lift from its wings, so wings stop being useful and you might as well be a spacecraft. His calculations actually gave a height somewhat lower than 100 kilometres; 100 was chosen partly because it is a nice round number. The world air sports federation (FAI), which keeps records for flying, uses 100 kilometres.",
+        "However, not everyone agrees. The US Air Force and NASA have used a lower boundary of 50 miles, about 80 kilometres, and have awarded astronaut wings to pilots who flew above it. In 2018 the astronomer and spaceflight historian Jonathan McDowell published a study arguing that around 80 kilometres actually makes more scientific sense, because satellites in elliptical orbits can briefly dip that low and survive. This debate matters to real people: some tourist spacecraft fly a little above 80 kilometres but below 100, so whether their passengers 'went to space' depends on which line you pick.",
+        "There is no official international law that says exactly where a country's airspace ends and outer space begins. And there is no physical wall in the sky. Even the International Space Station, at about 400 kilometres up, flies through a very faint wisp of atmosphere that slowly drags it down, so it needs a push from rocket engines every now and then to stay in orbit. Space doesn't begin at a line; it creeps up on you."
+      ]
+    },
+    {
+      "heading": "Floating Is Falling",
+      "paragraphs": [
+        "You have surely seen videos of astronauts floating around the International Space Station, doing somersaults in mid-air and chasing blobs of water that wobble like jelly. Many people say they are in 'zero gravity'. But that is not true. At the Space Station's height, about 400 kilometres up, Earth's gravity is still about 90 percent as strong as it is on the ground. If you could build a tower 400 kilometres tall and stand on top of it, you would feel nearly as heavy as you do now.",
+        "So why do astronauts float? Because they are falling. Remember Newton's cannonball: the Space Station is in orbit, falling around the Earth all the time. The astronauts inside are falling too, at exactly the same rate, along with their food, their pens and their toothbrushes. Since everything is falling together, nothing presses on anything else. The floor doesn't push up on their feet, so they feel weightless. Scientists call this state free fall.",
+        "You can get a tiny taste of it on Earth. Have you ever been in a lift (an elevator) that suddenly starts going down fast, and felt your stomach float for a moment? Or ridden a roller coaster over the top of a hill and felt yourself lift out of your seat? Or jumped off a diving board? For that short moment, you were in free fall, and you felt lighter. If you were standing on bathroom scales in a falling lift, the scales would fall with you and read zero, even though gravity hadn't gone anywhere.",
+        "NASA uses this trick to train astronauts. A specially equipped aeroplane flies up in a steep climb and then over the top in a curved arc, like a ball thrown through the air. For around 20 to 25 seconds on each arc, everyone inside floats. Because the ride can make people feel sick, this plane earned the nickname the 'Vomit Comet'. An astronaut in orbit is simply on a 'Vomit Comet' ride that never ends, because the Earth's surface keeps curving away.",
+        "Scientists often use the word microgravity for life in orbit, because tiny forces remain, such as the gentle drag of thin air on the station and the little pushes when astronauts move around. Living in free fall has surprising effects. Without weight pressing down, fluids in the body shift up towards the head, giving astronauts puffy faces and 'bird legs'. Candle flames burn as round, blue balls, because hot air no longer rises. And bones and muscles start to weaken because they don't have to hold the body up, which is why astronauts must exercise every day, as you'll discover in Part 16.",
+        "So now you know the two big secrets of spaceflight. First, a rocket flies by pushing its own exhaust backwards, and it works even better in empty space. Second, getting to orbit means going sideways so fast that you fall around the world forever. Knowing the science is one thing. But in the early 1960s, nobody knew whether a human body could survive being blasted off on top of a burning rocket, falling around the Earth, and plunging home again. Strapping a person on top of a rocket was the next giant gamble."
+      ]
+    }
+  ],
+  "deepDive": "Newton's third law becomes a precise tool once you add momentum. A rocket's thrust is roughly the mass of exhaust leaving each second multiplied by the exhaust's speed, plus a pressure term: the difference between the gas pressure at the nozzle exit and the surrounding air pressure, multiplied by the exit area. At sea level that pressure term is reduced or even negative, which is exactly why engines produce more thrust in a vacuum. Engineers compare engines with 'specific impulse', which is essentially effective exhaust speed: kerosene–oxygen engines reach roughly 3 km/s in vacuum, hydrogen–oxygen engines about 4.4 km/s.\n\nOrbital speed comes from setting gravity's pull equal to the force needed to keep something moving in a circle. For a circular orbit, v = √(GM/r), where GM for Earth is about 398,600 km³/s² and r is the distance from Earth's centre. At the ISS (r ≈ 6,770 km) this gives about 7.67 km/s and a period of about 92 minutes. Escape velocity is √2 times the circular speed at the same distance, which gives about 11.2 km/s at Earth's surface. Gravity at the ISS's height is (6,371/6,771)² ≈ 0.89 of surface gravity — hence 'about 90 percent'.\n\nIn practice a rocket needs a total change in speed ('delta-v') of roughly 9.3–10 km/s to reach low orbit, not just 7.8 km/s. The extra goes to 'gravity losses' (fighting gravity while climbing, worst when thrust-to-weight is low), drag losses and steering losses. Launching eastward helps, because Earth's rotation already carries a launch site at the equator east at about 0.46 km/s; that is one reason spaceports such as Kourou in French Guiana sit close to the equator and why Florida's Cape Canaveral launches over the Atlantic to the east.\n\nThe edge-of-space debate is real science, not just record-keeping. The 100 km figure was popularised after von Kármán's work in the 1950s; von Kármán's own figure was about 84 km, and the writer Andrew Haley, who gave the 'Kármán line' its name, based it on that number. Jonathan McDowell's 2018 paper in Acta Astronautica showed that satellites on elliptical orbits can pass below 100 km and survive for several orbits, and suggested that a boundary near 80 km fits the physics better. Legally, the Outer Space Treaty (1967) never defines where space begins.",
+  "funFact": "At the International Space Station's height, Earth's gravity is still about 90 percent as strong as on the ground — astronauts float only because they and the station are falling around the Earth together.",
+  "check": {
+    "q": "Why do astronauts on the International Space Station float?",
+    "a": "Because they and the station are in free fall together around the Earth; gravity is still there",
+    "wrong": [
+      "Because there is no gravity in space",
+      "Because the station is above the air, and air is what causes weight",
+      "Because the station's engines push them up"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Newton's Cannon",
+      "publisher": "Smithsonian National Air and Space Museum (How Things Fly)",
+      "url": "https://howthingsfly.si.edu/media/newtons-cannon"
+    },
+    {
+      "title": "Basics of Space Flight: Gravity and Mechanics (Chapter 3)",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-4"
+    },
+    {
+      "title": "Practical Rocketry",
+      "publisher": "NASA Glenn Research Center",
+      "url": "https://www.grc.nasa.gov/www/K-12/rocket/TRCRocket/practical_rocketry.html"
+    },
+    {
+      "title": "Newton's Laws of Motion",
+      "publisher": "NASA Glenn Research Center (Beginner's Guide to Aeronautics)",
+      "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/"
+    },
+    {
+      "title": "The Kármán Line: Where does space begin?",
+      "publisher": "Astronomy magazine",
+      "url": "https://www.astronomy.com/space-exploration/the-karman-line-where-does-space-begin/"
+    },
+    {
+      "title": "Kármán line",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_line"
+    },
+    {
+      "title": "Reduced-gravity aircraft",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Reduced-gravity_aircraft"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Newton's cannonball diagram showing cannonball paths from a mountain top, the faster ones curving around the Earth into orbit",
+      "search": "Newton cannonball orbit diagram"
+    },
+    {
+      "want": "Astronauts floating inside the International Space Station, showing free fall",
+      "search": "astronauts floating International Space Station"
+    },
+    {
+      "want": "Photo of Earth's thin atmosphere seen edge-on from orbit, showing how the air fades into black space",
+      "search": "Earth atmosphere limb from ISS"
+    }
+  ]
+}

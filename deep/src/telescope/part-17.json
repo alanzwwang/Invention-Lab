@@ -1,0 +1,155 @@
+{
+  "n": 17,
+  "title": "Mirrors in Pieces and Twinkle-Cancelling",
+  "when": "1969 – today",
+  "summary": "Telescopes on the ground got three super-powers. A tiny chip called a CCD caught starlight far better than film, giant mirrors were built from honeycomb-shaped pieces, and bendy mirrors learned to cancel the twinkle of the air. Now mountaintop giants in Hawaii and Chile take some of the sharpest pictures ever made.",
+  "sections": [
+    {
+      "heading": "A Chip That Catches Light",
+      "paragraphs": [
+        "For about a hundred years, the eye at the back of every big telescope was a glass photographic plate. Astronomers loaded the plates in the dark, exposed them for hours, developed them in chemical baths, and then studied the tiny black specks with magnifiers. It worked brilliantly, as we saw with Hubble's Cepheid in Andromeda. But film and plates have a secret weakness: they are wasteful. Out of every 100 particles of light (photons) that land on a photographic plate, only about 2 actually leave a mark. The other 98 are simply lost.",
+        "The machine that fixed this was not invented by astronomers at all. In 1969, two physicists at Bell Telephone Laboratories in New Jersey, the same research lab where Karl Jansky had found radio waves from the Milky Way, were working on a new kind of computer memory. Willard Boyle, a Canadian, and George Smith, an American, were told their department needed a fresh idea for storing information on silicon chips. According to their own telling, they sketched the basic plan on a blackboard in a meeting that lasted about an hour.",
+        "Their invention was the charge-coupled device, or CCD. It is a flat chip of silicon divided into a grid of tiny squares called pixels. When a photon hits a pixel, it can knock loose an electron, a tiny particle with an electric charge. The longer the light shines, the more electrons pile up in each pixel, like rain filling a grid of buckets left out in a storm. Bright parts of the picture fill their buckets quickly; dark parts collect only a few drops.",
+        "Then comes the clever part, the 'charge-coupled' trick. At the end of an exposure, the chip uses carefully timed voltages to shuffle every bucket's charge, row by row, toward one corner, a bit like passing buckets along a line of firefighters. At the corner, an amplifier measures each little packet of charge, one at a time, and turns it into a number. Put all the numbers back in their grid and you have a digital picture. In April 1970, Smith and colleagues Gil Amelio and Michael Tompsett showed the first working device, and Tompsett soon led the way in turning it into a camera.",
+        "Astronomers realised quickly that the CCD was a gift. A good CCD records around 70 percent of the photons that land on it, and the best modern astronomy chips do even better. Compared with about 2 percent for film, that is like turning a small telescope into a huge one without touching the mirror. CCDs also give a straight, honest count: twice as much light means twice as many electrons, so astronomers can measure brightness precisely. And because the result is already numbers, a computer can add, subtract, sharpen and compare images in ways a glass plate never could.",
+        "By the late 1970s and 1980s, CCD cameras were spreading to observatories around the world, and photographic plates slowly disappeared. Hubble carried CCDs into orbit in 1990. Today almost every professional optical telescope uses electronic sensors. In 2009, Boyle and Smith shared the Nobel Prize in Physics for inventing the CCD. Most phone cameras now use a close cousin called a CMOS sensor, which reads each pixel in a slightly different way, but the basic idea is the same one born at Bell Labs: turn light into electric charge, pixel by pixel, then count it."
+      ]
+    },
+    {
+      "heading": "Why Not Just Build One Bigger Mirror?",
+      "paragraphs": [
+        "Remember the most important rule of telescopes from Part 14: the bigger the aperture, the more light you collect and the finer the detail you can see. So after the 200-inch (5.1-meter) Hale Telescope at Palomar opened in 1948, astronomers naturally wanted something even larger. The problem was the mirror itself.",
+        "A traditional telescope mirror is a thick disk of glass. To keep its precise curve when the telescope tilts, it has to be stiff, and stiff usually means thick and heavy. The Palomar mirror weighs about 14.5 tons even though its back was cast as a honeycomb to save weight. Double the width of a solid mirror of the same shape and its weight goes up roughly eight times. A heavier mirror needs a heavier tube, a heavier mount and a bigger dome. Thick glass also takes many hours to cool down at night, and while it cools, warm air shimmering above it blurs the view. The Soviet Union built a 6-meter telescope in the Caucasus Mountains, which began work in the mid-1970s, and its huge solid mirror had exactly these troubles.",
+        "Astronomers came up with several escape routes. One was to make mirrors thin and floppy, then hold them in the right shape with computer-controlled pushers underneath, an idea called active optics. Another, used by the Steward Observatory Mirror Lab in Arizona, was to cast lightweight honeycomb mirrors inside a spinning furnace so the molten glass naturally curves into a bowl shape. But one young astronomer at the University of California came up with the boldest answer of all: do not build one giant mirror. Build lots of small ones and make them work together as if they were one."
+      ]
+    },
+    {
+      "heading": "Keck: Thirty-Six Hexagons Pretending to Be One Mirror",
+      "paragraphs": [
+        "That astronomer was Jerry Nelson. In 1977, working with his colleague Terry Mast, he began developing a design for a 10-meter telescope whose main mirror would be made of many smaller pieces. Lots of experts doubted it could work. Each piece would need to be curved in a slightly different off-centre way, because each sits at a different spot on the big curved bowl. And all the pieces would have to line up with each other to a precision far smaller than a wavelength of light. If they didn't, you would just get dozens of separate blurry images instead of one sharp one.",
+        "Nelson's team solved both problems. They chose hexagons, six-sided shapes, because hexagons fit together with no gaps, just like the cells in a honeycomb or the tiles on a bathroom floor. To make each oddly curved segment, they invented a technique called stressed-mirror polishing: they bent a round blank of glass with carefully calculated forces, polished an ordinary simple curve into it, and then let go. When the forces were released, the glass sprang into exactly the strange off-centre shape it needed. The round pieces were then cut into hexagons.",
+        "The money came from a foundation set up by the oil businessman William Myron Keck. In 1985, the W. M. Keck Foundation gave 70 million dollars to start building, and private grants for the project eventually came to more than 140 million dollars. Construction began on the summit of Maunakea, the tallest mountain on the island of Hawaii, in September 1985. The Keck I telescope first looked at the sky on 24 November 1990 with only 9 of its segments in place. With all 36 segments installed, it began regular science in May 1993. Its twin, Keck II, saw first light on 27 April 1996 and started observing later that year, when NASA joined the partnership.",
+        "Each Keck telescope has a primary mirror 10 meters (about 33 feet) across, twice the width of Palomar's. It is made of 36 hexagonal segments, each about 1.8 meters across and only about 7.5 centimeters thick, weighing roughly half a tonne. Behind every segment are three motorised pushers called actuators, and along the edges are sensors that measure how each piece sits compared with its neighbours. About twice every second, a computer reads the sensors and nudges the actuators, keeping the whole surface in the right shape to within about 4 nanometers, which is thousands of times thinner than a human hair. Even so, each telescope still weighs about 300 tonnes, mostly steel, and the domes stand roughly eight stories tall.",
+        "The two Kecks sit about 85 meters apart, and for years they were the largest optical and infrared telescopes on Earth. Jerry Nelson's idea did not just give us two great telescopes; it showed the whole world how to build big. Spain's Gran Telescopio Canarias on La Palma in the Canary Islands, about 10.4 meters across, uses 36 hexagonal segments too. The giant telescopes being built today, which we will visit in Part 20, all borrow from his segmented-mirror recipe. Nelson kept working on new giant-telescope projects until his death in 2017."
+      ]
+    },
+    {
+      "heading": "Cancelling the Twinkle: Adaptive Optics",
+      "paragraphs": [
+        "A 10-meter mirror should, in theory, see incredibly fine detail. In visible light it could split two points of light only about a hundredth of an arcsecond apart, which is like spotting a small coin from about 300 kilometers away. But in practice, on an ordinary night, Keck's raw images were not much sharper than those of a backyard telescope. The culprit is the one we met in Part 14: Earth's restless air.",
+        "Here is what happens. Starlight travels for years, sometimes billions of years, across nearly empty space as a perfectly flat 'wavefront', like a calm sheet of ripples marching in step. Then, in the last few thousandths of a second of its journey, it plunges through our atmosphere. Pockets of warmer and cooler air, each roughly the size of a hand or a dinner plate, bend the light by slightly different amounts. The flat wavefront gets crumpled like a sheet of aluminium foil. To your eye, this makes a star twinkle. To a giant telescope, it smears what should be a sharp point into a wobbling, boiling blob. And because the air keeps moving, the crumpling changes every few thousandths of a second.",
+        "The idea for fixing this came surprisingly early. In 1953, the American astronomer Horace Babcock suggested measuring the distortion and correcting it with a flexible optical surface, in real time. The technology to do it simply did not exist yet. During the Cold War, military scientists, especially in the United States, worked on similar systems so they could take sharp pictures of satellites passing overhead. Some of that work was later made public, and from the late 1980s and into the 1990s, as computers became fast enough, adaptive optics finally became a practical tool for astronomers.",
+        "An adaptive optics system has three main parts, and they work as a team. First, a wavefront sensor looks at a bright reference star and measures exactly how its light has been crumpled. One common type splits the beam into a grid of tiny lenses; if the air is calm, every little lens makes a dot in a neat pattern, and wherever the dots shift, the sensor knows the light arrived tilted. Second, a fast computer works out the opposite shape needed to un-crumple the light. Third, a deformable mirror, a thin, bendable mirror with hundreds or even thousands of tiny pushers on its back, changes shape to match. It does all this hundreds to about a thousand times every second, fighting the air faster than the air can change.",
+        "The result is like magic. A star that looked like a fuzzy cotton ball tightens into a crisp point. Two stars that were one blur become two. The improvement works best in infrared light, which has longer waves that are less disturbed, and on a big telescope it can make images sharper than Hubble's, because the ground-based mirror is far wider than Hubble's 2.4 meters. Keck II started using adaptive optics around 1999, and today all the world's biggest telescopes rely on it.",
+        "There was one catch. The wavefront sensor needs a fairly bright star very close to the thing you want to study, and most of the sky doesn't have one handy. So astronomers decided to make their own stars. About 90 kilometers above the ground lies a thin layer of sodium atoms, left behind by tiny meteors burning up. When a powerful laser tuned to exactly the right shade of yellow-orange light, the same colour as old sodium streetlamps, shines up into that layer, the atoms glow. From the telescope, the glowing spot looks like a small, faint star that can be placed anywhere. This is a laser guide star. Keck began using one in 2004, and the beams of orange-gold light shooting into the night sky from Maunakea and Chile have become one of the most beautiful sights in modern astronomy.",
+        "Adaptive optics helped win a Nobel Prize. For more than two decades, two teams tracked stars whirling around the very centre of our Milky Way. Andrea Ghez's team used the Keck telescopes, and Reinhard Genzel's team used telescopes in Chile, including the Very Large Telescope. One star, called S2, takes about 16 years to complete its orbit, racing around something invisible but about four million times heavier than the Sun. The only reasonable explanation was a supermassive black hole. Ghez and Genzel shared the 2020 Nobel Prize in Physics for this work, together with the mathematician Roger Penrose."
+      ]
+    },
+    {
+      "heading": "The Best Seats in the House",
+      "paragraphs": [
+        "Even with adaptive optics, where you build a telescope matters enormously. Astronomers hunt for sites with four things: height, dryness, darkness and calm, steady air. Height puts you above the thickest, dustiest part of the atmosphere. Dry air matters because water vapour soaks up infrared and millimeter-wave light. Darkness means being far from city lights. And smooth airflow, often found on mountains near cool oceans where the wind flows evenly off the sea, means less twinkle.",
+        "Three regions of the world have become astronomy capitals. The first is Maunakea in Hawaii. Its summit rises about 4,200 meters above sea level, so the telescopes sit above roughly 40 percent of Earth's atmosphere and above most of its water vapour. It is in the middle of the Pacific Ocean, far from big cities, and the air flowing smoothly over the ocean keeps it steady. More than a dozen telescopes stand near the summit, including Keck, Subaru from Japan, and the Gemini North telescope. The mountain is also a deeply sacred place for Native Hawaiians, an important story we will explore carefully in Part 19.",
+        "The second is the Canary Islands, Spanish islands off the west coast of Africa. Observatories on La Palma and Tenerife sit above a layer of cloud that often spreads out below them like a white sea, trapping moisture and city glow underneath. The islands even have a special law to protect the night sky from light pollution.",
+        "The third, and the one where astronomy is growing fastest, is northern Chile, especially the Atacama Desert. Parts of the Atacama are among the driest places on Earth outside the polar regions; some weather stations have gone years without recording rain. The cold Humboldt Current in the Pacific and the high Andes mountains keep clouds away, so many sites enjoy more than 300 clear nights a year. That is why so many of the world's great observatories, from Europe, the United States, Japan and beyond, have been built on Chilean mountaintops. Working there is not always easy: the air at the highest sites has only about half the oxygen of air at sea level, so staff are checked by doctors and sometimes breathe extra oxygen."
+      ]
+    },
+    {
+      "heading": "Giants in the Desert: the VLT and ALMA",
+      "paragraphs": [
+        "On a flattened mountaintop called Cerro Paranal, about 2,635 meters high in the Atacama, stand four identical white towers. Together they are the Very Large Telescope, or VLT, run by the European Southern Observatory (ESO), an organisation supported by many European countries. The name sounds like something a kid would invent, but it is the official one. Each of the four Unit Telescopes has a single main mirror 8.2 meters across but only about 17.5 centimeters thick, a thin meniscus of glass ceramic weighing about 23 tonnes. Because it is so thin, it would sag out of shape on its own, so about 150 computer-controlled supports underneath constantly push it back into perfect form. This is the active optics idea in action.",
+        "The four telescopes are named with words from the language of the Mapuche, an Indigenous people of Chile and Argentina: Antu (the Sun), Kueyen (the Moon), Melipal (the Southern Cross) and Yepun (Venus, the evening star). The first one began work in May 1998, and all four were in action a few years later. There are also four smaller movable 1.8-meter telescopes that can roll along tracks to different spots on the mountain. Using interferometry, the trick we met with radio dishes in Part 15, light from several telescopes can be combined through tunnels under the platform so that they act like one telescope up to about 130 to 140 meters wide, seeing details as fine as a few thousandths of an arcsecond.",
+        "The VLT is one of the most productive ground-based observatories in the world, with scientists publishing more than one research paper a day on average using its data. In 2004, its adaptive optics camera captured a faint speck next to a dim brown dwarf. In 2005 astronomers confirmed it was a giant planet-sized world travelling with the brown dwarf, making it one of the first pictures ever taken of a planet outside our solar system. It has tracked stars around the Milky Way's central black hole, and its lasers, four of them on the telescope Yepun, now create artificial guide stars. The skies at Paranal are so dark that on a clear, moonless night the Milky Way alone can cast a faint shadow. The site even appeared in a James Bond film, Quantum of Solace, in 2008.",
+        "About 300 kilometers to the north-east, on the Chajnantor plateau, sits an even higher and stranger observatory: ALMA, the Atacama Large Millimeter/submillimeter Array. At about 5,000 meters, it is one of the highest observatories on Earth. ALMA does not look like a telescope at all. It is a field of 66 big white dish antennas, most of them 12 meters across and some 7 meters across, built by partners in Europe, North America and East Asia together with Chile. It was officially inaugurated on 13 March 2013 and cost about 1.4 billion dollars.",
+        "ALMA studies millimeter and submillimeter waves, which sit between infrared light and radio waves. These waves come from cold things: dust and gas clouds where stars and planets are born, and very distant galaxies. Water vapour blocks them, which is why ALMA needs one of the driest, highest places on the planet. The antennas, each weighing more than 100 tonnes, can be picked up by giant 28-wheeled transporter trucks and moved, spreading them over as much as 16 kilometers to see finer detail or bunching them together for wider views. In 2014, ALMA released an astonishing picture of a young star called HL Tauri surrounded by a dusty disk with dark rings carved into it, probably by planets forming in the disk. ALMA also joined the Event Horizon Telescope network that photographed black hole shadows."
+      ]
+    },
+    {
+      "heading": "Rubin: A Movie of the Whole Southern Sky",
+      "paragraphs": [
+        "Most big telescopes are like microscopes for the sky: they stare at one small spot for a long time. The Vera C. Rubin Observatory was built to do the opposite. Its job is to photograph the entire southern sky again and again, every few nights, for ten years, and turn the results into a giant time-lapse movie of the universe. The project is called the Legacy Survey of Space and Time, or LSST.",
+        "The observatory is named after Vera Rubin, an American astronomer born in 1928. In the 1970s, working with the instrument builder Kent Ford, she measured how fast stars and gas orbit around the centres of spiral galaxies. If galaxies contained only the stars and gas we can see, the outer parts should orbit slowly, just as Neptune creeps around the Sun far more slowly than Mercury. Instead, Rubin found the outer parts moving about as fast as the inner parts. Something unseen, adding a huge amount of extra gravity, had to be there. Her measurements became some of the strongest evidence for dark matter, a mysterious invisible substance that seems to outweigh normal matter by about five to one. Rubin died in 2016, and in 2019 the observatory, first called the Large Synoptic Survey Telescope, was renamed in her honor.",
+        "Rubin stands on a peak called Cerro Pachón, about 2,682 meters high in Chile, funded mainly by the U.S. National Science Foundation and the U.S. Department of Energy. Its telescope has an unusual design: the 8.4-meter primary mirror and a 5-meter third mirror were cast together from a single piece of glass, a ring with a bowl in the middle. The whole telescope is short and stiff so it can swing quickly from one patch of sky to the next, taking a new picture roughly every 40 seconds all night long.",
+        "At the heart of it all is the LSST Camera, the largest digital camera ever built for astronomy. Built at the SLAC National Accelerator Laboratory in California, it is about the size of a small car and weighs about 3 tonnes. Its focal plane, the flat surface where the image lands, is about 64 centimeters across and is tiled with 189 CCD chips, the great-great-grandchildren of Boyle and Smith's invention. Together they make about 3,200 megapixels, hundreds of times more than a typical phone camera. To show just one of its pictures at full detail, you would need several hundred ultra-high-definition TV screens. Each image covers a patch of sky nearly 50 times the area of the full Moon.",
+        "On 23 June 2025, the observatory released its first images to the world. One showed the glowing Trifid and Lagoon nebulae, star-forming clouds of gas thousands of light-years away, built from hundreds of exposures. Another revealed a huge region of the Virgo Cluster crowded with galaxies, and altogether the first images showed millions of them. In only about 10 hours of test observations, Rubin also found more than 2,000 asteroids nobody had seen before. Over its ten-year survey, the observatory is expected to collect millions of images and send out up to about 10 million alerts on a busy night whenever something in the sky changes: a star exploding, an asteroid moving, a black hole flaring. Scientists hope it will help map dark matter, track potentially dangerous asteroids and catch rare cosmic events as they happen."
+      ]
+    },
+    {
+      "heading": "Are Space Pictures Painted? Understanding False Color",
+      "paragraphs": [
+        "If you have seen a glowing purple-and-gold picture of a nebula and wondered, 'Is that what it really looks like?', you are asking a very good scientific question. The honest answer is: usually not exactly, and that's on purpose.",
+        "Here is why. A CCD does not see colour at all. Each pixel only counts how many photons arrived, so every raw astronomy image is black and white. To get colour, astronomers put a filter in front of the camera that lets through only one band of light, take a picture, then swap to another filter and take another. Afterwards they assign each black-and-white picture a colour, often red for the longest wavelengths, green for the middle and blue for the shortest, and combine them. If the filters match the red, green and blue our eyes see, the result is close to 'true colour'.",
+        "But many filters capture light our eyes can't see at all, like infrared, ultraviolet, X-rays or radio waves. There is no 'real' colour for an X-ray, so scientists choose one. Other filters pick out the exact glow of a single element. A famous version, sometimes called the Hubble palette, shows glowing sulfur as red, hydrogen as green and oxygen as blue. Hydrogen and sulfur actually both glow red, so without this trick they would blend together; by spreading them into different colours, astronomers can see at a glance where each element lies. This is sometimes called representative or false colour.",
+        "So false colour is not fake. It is a kind of map, like a weather map where blue means cold and red means hot. The data underneath are real measurements, and the colour rules are written down so that anyone can check them. When you look at a picture from Rubin, ALMA, Chandra or JWST, you are seeing real light, translated into a language your eyes can read.",
+        "Segmented mirrors, electronic eyes and twinkle-cancelling lasers turned the mountaintops into astronomy superpowers. But some engineers dreamed of something even bolder: fold a giant segmented mirror like origami, rocket it into space, and unfold it a million miles away."
+      ]
+    }
+  ],
+  "deepDive": "Why do ground telescopes need adaptive optics at all? The answer lies in a number astronomers call the Fried parameter, written r0. It describes the size of a patch of air through which light stays roughly smooth and in step. At a good site in visible light, r0 is typically about 10 to 20 centimeters. That means a 10-meter telescope, however perfect its mirror, behaves for fine detail like a telescope only 10 to 20 centimeters wide: the image smears to about 0.5 to 1 arcsecond, the typical 'seeing' at top observatories. The diffraction limit of a 10-meter mirror, set by the wave nature of light and roughly equal to 1.22 times the wavelength divided by the diameter, is about 0.013 arcseconds at 500 nanometers. The air throws away a factor of 50 or more in sharpness. Because r0 grows with wavelength (roughly as wavelength to the power 6/5), seeing is gentler in the infrared, and the number of actuators needed to correct it falls. That is why most adaptive optics systems work best in the near-infrared, around 1 to 2.5 micrometers, and why the quality of correction, measured by the Strehl ratio (the peak brightness of a star image compared with a perfect one), is much higher there than in visible light. A laser guide star solves one problem and creates another. Because the sodium layer is only about 90 kilometers up, the laser beam forms a cone rather than a cylinder, and it misses some of the turbulence that starlight crosses, an error called the cone effect. Lasers also cannot measure the overall tilt of the image, because the beam is bent going up and coming down, so a faint natural star is still needed for tip-tilt correction. Newer systems use several lasers and several deformable mirrors at different heights, a technique called multi-conjugate adaptive optics, to correct a wider field. Segmented mirrors have their own subtleties: gaps and edges between hexagons scatter light into a six-pointed spike pattern, which is why stars in Keck and JWST images show distinctive spikes. Engineers must also 'phase' the segments, aligning their heights to a small fraction of a wavelength, often using special cameras that look at how light from neighbouring segments interferes.",
+  "funFact": "The laser guide stars used by big telescopes shine at the same yellow-orange wavelength as old sodium streetlights, because both make sodium atoms glow.",
+  "check": {
+    "q": "What does an adaptive optics system bend hundreds of times a second to cancel the blur of Earth's air?",
+    "a": "A thin, flexible (deformable) mirror",
+    "wrong": [
+      "The telescope's whole dome",
+      "The main lens of the eyepiece",
+      "A spinning filter wheel"
+    ]
+  },
+  "sources": [
+    {
+      "title": "W. M. Keck Observatory",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/W._M._Keck_Observatory"
+    },
+    {
+      "title": "Charge-coupled device",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charge-coupled_device"
+    },
+    {
+      "title": "Adaptive optics",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Adaptive_optics"
+    },
+    {
+      "title": "Very Large Telescope",
+      "publisher": "European Southern Observatory",
+      "url": "https://www.eso.org/public/teles-instr/paranal-observatory/vlt/"
+    },
+    {
+      "title": "Very Large Telescope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Very_Large_Telescope"
+    },
+    {
+      "title": "Atacama Large Millimeter Array",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Atacama_Large_Millimeter_Array"
+    },
+    {
+      "title": "Vera C. Rubin Observatory",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vera_C._Rubin_Observatory"
+    },
+    {
+      "title": "First Imagery from NSF-DOE Vera C. Rubin Observatory",
+      "publisher": "Rubin Observatory",
+      "url": "https://rubinobservatory.org/news/first-imagery-rubin"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The twin white domes of the W. M. Keck Observatory on the summit of Maunakea, Hawaii",
+      "search": "Keck Observatory domes Mauna Kea"
+    },
+    {
+      "want": "A laser guide star beam shooting into the night sky from one of the Very Large Telescope units at Paranal",
+      "search": "VLT laser guide star Paranal"
+    },
+    {
+      "want": "The ALMA antennas spread across the Chajnantor plateau in the Atacama Desert",
+      "search": "ALMA antennas Chajnantor plateau"
+    }
+  ]
+}

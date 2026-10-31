@@ -1,0 +1,160 @@
+{
+  "n": 1,
+  "title": "Fingers, Pebbles and Beads",
+  "when": "about 20,000 BCE – 1500s CE",
+  "summary": "Long before screens and buttons, people counted on their fingers, scratched marks on bones and slid pebbles across boards. Clever helpers like the abacus and knotted Inca strings kept track of numbers. And a sunken Greek ship hid a box of bronze gears that could predict eclipses!",
+  "sections": [
+    {
+      "heading": "The First Calculator Is on the End of Your Arm",
+      "paragraphs": [
+        "Hold up your hands and count your fingers. Ten. That simple fact has shaped the whole history of numbers. Almost every human culture has counted on fingers at some point, and many of them grouped things in fives and tens because that is how many fingers fit on one hand and on two. When you write the number 347, you are really saying three hundreds, four tens and seven ones. Our everyday number system, called base ten, is a souvenir of our hands.",
+        "But fingers are not the only body counter. In parts of South Asia and the Middle East, people have long counted to twelve on one hand by touching the thumb to each of the three segments of the other four fingers. Try it: four fingers times three segments makes twelve. Among the Oksapmin people of Papua New Guinea, researchers have recorded a system that counts along the body itself, from the thumb up the arm, across the face and down the other side, giving each body part a number up to 27. In Britain, the monk and scholar Bede described, in a book about calendars written around the year 725, a way of showing numbers up to 9,999 with different bends and positions of the fingers.",
+        "Fingers have one big problem, though. The moment you need your hands for something else, the number is gone. If a shepherd wants to remember how many sheep went out to graze in the morning, so he can check they all came back at night, he needs a way to store the number outside his own head. That need, keeping a number safe so you do not have to remember it, is the very first step on the long road to the computer.",
+        "The simplest answer was the tally mark: one scratch, one notch or one pebble for each thing counted. A tally does not need any written numbers at all. Five sheep become five notches. If one notch is left over at night, a sheep is missing. Tallies are so useful that they lasted for thousands of years. In England, the royal treasury, called the Exchequer, recorded money owed to it with notched wooden tally sticks until 1826. When officials burned a huge pile of the old sticks in a stove in 1834, the fire got out of control and burned down most of the old Palace of Westminster, where Parliament met. A very ancient counting tool caused a very modern disaster."
+      ]
+    },
+    {
+      "heading": "The Mystery of the Ishango Bone",
+      "paragraphs": [
+        "In 1950 a Belgian geologist named Jean de Heinzelin de Braucourt was digging at a place called Ishango, near the Semliki River, on the edge of Lake Edward in what is now the Democratic Republic of the Congo, in Central Africa. Among the remains of an ancient fishing settlement, he found a small, dark brown bone about 10 centimetres long, a little shorter than a pencil. At one end a sharp piece of quartz was fixed in place, as if the bone had once been a handle for a tool used for carving or engraving.",
+        "What made the bone famous were the marks on it. Cut into its sides are 168 notches, arranged in three columns of groups. Scientists today think the bone is about 20,000 years old, though the dating has been argued about, because volcanic activity in the area makes the usual dating methods tricky. That means the person who carved those lines lived in the last Ice Age, long before farming, cities or writing.",
+        "So what do the notches mean? Here the story becomes a mystery, and it is important to be honest about that. One column contains groups of 11, 13, 17 and 19 notches, which are all the prime numbers between 10 and 20 (a prime number can only be divided evenly by 1 and itself). Some people have suggested this is a table of primes. The American researcher Alexander Marshack suggested instead that the marks might track the phases of the Moon over about six months. Others have proposed that they show a counting system based on groups of 10 or 12.",
+        "Many experts are cautious. Prime numbers turn up by chance in any list of small numbers, and historians of mathematics point out that there is no other evidence that people in the Ice Age had the idea of prime numbers at all. A second bone found at the same site has marks that do not seem to form any mathematical pattern. The simplest safe statement is this: the Ishango bone is a possible early tally stick, a way of recording counted things, and its exact meaning is still debated. It is kept today at the Royal Belgian Institute of Natural Sciences in Brussels.",
+        "The Ishango bone is not alone. An even older notched bone, the Lebombo bone, was found in a cave in the Lebombo Mountains of southern Africa. It is a baboon's leg bone with 29 notches and is thought to be over 40,000 years old. Like the Ishango bone, nobody can be sure what was being counted. But together these objects hint that people have been storing numbers outside their heads for a very, very long time."
+      ]
+    },
+    {
+      "heading": "Wedges in Clay and the Magic of Sixty",
+      "paragraphs": [
+        "Now travel forward thousands of years and thousands of kilometres north-east, to the land between the Tigris and Euphrates rivers, in what is now Iraq. The ancient Greeks called it Mesopotamia, meaning 'between the rivers'. Here, from around 5,000 years ago, some of the world's first cities grew up, such as Uruk and Ur. Cities need record-keeping: how much barley went into the temple storehouse, how many sheep belong to whom, how much each worker was paid in grain.",
+        "Mesopotamian scribes solved this by pressing marks into soft, wet clay with the end of a cut reed. The marks were wedge-shaped, which is why we call the writing cuneiform, from the Latin word cuneus, a wedge. Many archaeologists think that some of the very earliest writing grew out of number-keeping, and that the first clay tablets were mainly accounts. Writing, in other words, may have been invented partly as a way to store numbers.",
+        "The scribes of Sumer, and later of Babylon, used an unusual number system. Instead of counting in tens like us, they counted in sixties. This is called base 60, or the sexagesimal system. They used just two basic symbols: an upright wedge meaning one, and a sideways corner-shaped wedge meaning ten. To write 23 you would press two ten-wedges and three one-wedges. When you reached 60, you started a new column, just as we start a new column at 10. By about 4,000 years ago, Babylonian scribes were using this base-60 system for serious mathematics.",
+        "Why 60? Nobody knows for certain, but 60 is a wonderfully friendly number for sharing things out. It can be divided evenly by 1, 2, 3, 4, 5, 6, 10, 12, 15, 20 and 30. In fact it is the smallest number that can be divided evenly by every number from 1 to 6. If you are splitting a field or a pile of grain between three, four, five or six people, base 60 makes the fractions come out neatly.",
+        "Babylonian scribes were remarkable calculators. A small clay tablet now at Yale University, known as YBC 7289, shows a square with its diagonals, and next to it a base-60 number for the square root of 2 (the length of the diagonal of a square with sides of 1). Converted into our decimal numbers, their value is correct to about six decimal places. That was done nearly 4,000 years ago, without paper, pencils or calculators.",
+        "Their system had one weakness: for a long time it had no proper zero. A blank space had to do the job, which could make it hard to tell whether a number meant 1, 60 or 3,600. Readers had to work it out from the context, a bit like guessing a word from the rest of the sentence. Much later, scribes began using a special mark as a placeholder.",
+        "The most amazing thing about base 60 is that you still use it every day. There are 60 seconds in a minute and 60 minutes in an hour. A circle is divided into 360 degrees, which is six sixties. Babylonian astronomers measured the sky using base 60, Greek astronomers such as Ptolemy borrowed their methods, and medieval scholars passed them on to us. So every time you check a clock, you are reading numbers in a system invented in ancient Iraq."
+      ]
+    },
+    {
+      "heading": "Pebbles on a Board",
+      "paragraphs": [
+        "Doing big sums in your head is hard. Doing them with written numbers was also hard for most of history, because many number systems, like Roman numerals, are clumsy for calculation. Try multiplying XLVII by XXIII on paper and you will see the problem. The answer that people in many lands came up with was the counting board: a flat surface marked with lines or columns, on which small counters were moved around.",
+        "The idea is simple and powerful. Each line stands for a different value: ones, tens, hundreds, thousands. To add, you place counters on the right lines. When you get ten counters on the ones line, you take them away and put one counter on the tens line instead. That move is called carrying, and it is exactly what you do on paper when you carry the one. A counting board lets your hands and eyes do the carrying, so your memory does not have to.",
+        "The oldest counting board that survives is the Salamis tablet, found on the Greek island of Salamis in 1846. It is a slab of white marble about 1.5 metres long, 75 centimetres wide and 4.5 centimetres thick, carved with sets of parallel lines and Greek number symbols. It is usually dated to around 300 BCE. Imagine a merchant or an official in ancient Greece standing beside it, sliding pebbles from line to line as he works out a payment.",
+        "Romans used counting boards too, and they used little stones as counters. The Latin word for a small pebble was calculus, and from it we get the word 'calculate'. The doctor's word for a kidney stone, a calculus, comes from the same root, and so does the branch of mathematics called calculus. Every time you calculate something, you are, in a sense, moving pebbles. The word abacus itself probably comes from the Greek word abax, meaning a flat board or table.",
+        "The Romans also made a clever pocket version, often called the Roman hand abacus. It was a small metal plate, about the size of a postcard, with slots cut into it. Small beads or studs slid up and down in the slots, so they could not fall out or be knocked over. A long slot held several beads worth one each, and a short slot above it held a bead worth five, much like a Roman numeral V. Only a few of these hand abacuses survive, but they show that people wanted a calculator they could carry around.",
+        "Counting boards lasted a remarkably long time in Europe. Medieval and Renaissance merchants used checked cloths or tables with lines drawn on them, and moved metal tokens called jetons. In fact, the word 'counter', the surface in a shop where you pay, comes from these counting tables. In England, the treasury was called the Exchequer because officials did their sums on a table covered with a checked cloth, like a chessboard. Even after Arabic numerals spread through Europe in the 1200s to 1500s, there were long arguments over which was faster: writing sums out with pen and ink, or using the counting board."
+      ]
+    },
+    {
+      "heading": "Beads on Wires: The Suanpan, the Soroban and Friends",
+      "paragraphs": [
+        "The kind of abacus most people picture today is a wooden frame with beads threaded on rods. Who invented it? The honest answer is that nobody knows. Counting boards were used in Mesopotamia, Greece and Rome, and different peoples improved the idea in different ways. Historians cannot point to one inventor, one place or one year.",
+        "In China, people for many centuries calculated with counting rods, small sticks of bamboo or bone laid out in patterns on a table. Chinese writings from about 2,000 years ago mention calculating devices that some historians think may have used beads, though experts still argue about what those old descriptions really mean. What is clear is that by around the 1300s and 1400s the bead abacus, called the suanpan (meaning 'calculating plate'), had become common in China.",
+        "A traditional suanpan has a horizontal bar across the middle, called the beam. On each rod there are two beads above the beam, each worth five, and five beads below the beam, each worth one. To show a number, you push beads toward the beam. Each rod is one column: ones, tens, hundreds and so on, from right to left. With practice, a suanpan user can add, subtract, multiply and divide, and even work out square roots.",
+        "From China the abacus travelled to Japan, where it became the soroban. Over time the Japanese made it simpler and faster. A modern soroban has just one bead above the beam worth five, and four beads below it worth one each. That is exactly enough to show any digit from 0 to 9, with no spare beads to get in the way. This slimmer design became popular in Japan in the 1940s. Russia developed its own version, the schoty, which has ten beads on horizontal wires and no beam at all. Russian shopkeepers used schoty for centuries, and they were still common in shops into the 1990s.",
+        "Do not imagine the abacus as a slow, old-fashioned toy. In skilled hands it is astonishingly fast. In 1946, soon after the Second World War, a famous contest was held in Tokyo between a Japanese government clerk, Kiyoshi Matsuzaki, using a soroban, and an American soldier, Private Thomas Wood, using an electric desk calculator. The soroban won most of the rounds, especially in addition and subtraction.",
+        "In shops across parts of Asia, cashiers still used the abacus every day well into the late 20th century, and many children in Japan, China and elsewhere still learn it today. Some advanced students practise a skill called mental abacus: they imagine the beads in their heads and flick invisible beads with their fingers, adding long lists of numbers in seconds. The beads have moved from the frame into the mind.",
+        "Notice something important about every abacus, though. The beads store the numbers, and they make carrying easy, but they do not do the calculation. A human must decide which beads to move, and in what order. The abacus is a memory and a scratchpad. The person is still the processor."
+      ]
+    },
+    {
+      "heading": "Knots That Count: The Inca Quipu",
+      "paragraphs": [
+        "Now cross the world to the high Andes mountains of South America. In the 1400s and early 1500s the Inca ruled an empire stretching about 4,000 kilometres along the western side of the continent, from what is now Ecuador through Peru and Bolivia to Chile. They built thousands of kilometres of roads, rope bridges and storehouses. Yet the Inca had no writing system of the kind used in Europe or Asia. How did they keep track of taxes, harvests, soldiers and people?",
+        "Their answer was the quipu (also spelled khipu), a word meaning 'knot' in the Quechua language. A quipu looks a little like a mop or a fringe. It has one thick main cord, from which hang dozens or even hundreds of thinner cords, made of cotton or the wool of llamas and alpacas. Knots tied on the hanging cords recorded numbers.",
+        "The system was very clever. It used base ten, like ours, and the position of a knot on the cord told you its value. Knots near the bottom stood for ones, knots a little higher stood for tens, then hundreds, then thousands. Different kinds of knots were used: simple single knots for tens and higher, and long knots with several turns for the ones (a long knot with four turns meant 4). An empty space where a knot could have been meant zero. Colours of cord, and the way cords were attached, carried extra meaning. In the early 1900s an American scholar named Leland Locke showed that many quipus record numbers in this base-ten way.",
+        "Special officials called quipucamayocs, meaning 'knot specialists', made and read the quipus. They recorded census counts, the tribute each village owed, the contents of warehouses, and the labour people gave to the state. Messengers carried information along the great Inca roads, and quipus could travel with them. Quipus were not invented by the Inca, however. The oldest examples that experts agree on come from the Wari culture, which flourished in the Andes from about 600 to 1000 CE.",
+        "After the Spanish conquest in the 1530s, many quipus were lost or destroyed. In 1583 a church council in Lima ordered some of them burned, because the new rulers feared they held records of the old religion. Today just under 1,400 surviving quipus are known, in museums around the world. Scholars still argue about whether some quipus recorded not only numbers but also words, names or stories. That puzzle has not been solved, which means there may still be messages tied in knots waiting to be read."
+      ]
+    },
+    {
+      "heading": "The Shipwreck Machine of Antikythera",
+      "paragraphs": [
+        "In the spring of 1900, a group of sponge divers from the Greek island of Symi were sheltering from a storm near the small island of Antikythera, between mainland Greece and Crete. When they dived, they found something astonishing on the seabed, more than 40 metres down: the wreck of an ancient ship full of bronze and marble statues. Over the next year, working with only simple diving gear, they brought up treasures for the Greek government. The ship had sunk around 70 to 60 BCE, probably while carrying valuable goods towards Rome.",
+        "Among the finds, probably brought up in 1901, was a shapeless lump of corroded bronze and wood, about the size of a shoebox. At first nobody paid it much attention. Then, in May 1902, the archaeologist Valerios Stais and his cousin Spyridon noticed that one of the broken pieces had a gear wheel inside it. Gears, in an ancient Greek object? That seemed almost impossible. The object became known as the Antikythera mechanism, and it is now kept, in 82 fragments, at the National Archaeological Museum in Athens.",
+        "For decades the mechanism was a puzzle. From 1951 a British historian of science at Yale, Derek de Solla Price, studied it, and with the Greek physicist Charalampos Karakalos he took X-ray and gamma-ray pictures through the crusty fragments. In 1974 Price published his findings, showing that the mechanism was a complicated geared device for calculating the positions of heavenly bodies. Then, in 2005, an international team including scientists from Cardiff University used a powerful X-ray scanner called a CT scanner, which builds up 3D pictures slice by slice. The scans revealed hidden gears and thousands of tiny Greek letters that had been invisible under the corrosion.",
+        "What did the mechanism do? Imagine a wooden box with a hand crank on the side. Turning the crank represented the passing of days. Inside, at least 30 bronze gears, some with teeth only about a millimetre or two in size, turned at carefully chosen speeds. On the front, pointers showed the position of the Sun and Moon against the stars of the zodiac, and a little rotating ball showed the phase of the Moon, from new to full. Most researchers think it probably showed the planets too, though those parts are lost.",
+        "On the back were spiral dials. One followed the Metonic cycle: 235 lunar months that fit almost exactly into 19 years, which the Greeks used to keep calendars in step with the seasons. Another followed the Saros cycle of 223 lunar months, after which eclipses of the Sun and Moon repeat in a similar pattern. Marks on this dial showed when eclipses could be expected. The largest surviving gear, about 13 centimetres across, has 223 teeth, matching that eclipse cycle. Another small dial even counted the four-year cycle of the great Greek athletic games, including the Olympic Games.",
+        "The Antikythera mechanism was not a computer like the one you use today. It could not be programmed, it had no memory to store new information and it could do only one job: model the sky. It was a geared astronomical calculator, built by brilliant Greek craftsmen who understood both astronomy and metalwork. Nobody knows exactly who made it or exactly when. Researchers have suggested dates from about 200 BCE to about 100 BCE, and the argument continues. Nothing as complex is known to have survived from the following thousand years or more, which is why it amazes historians so much. There is nothing magical or mysterious about how it worked, only something remarkable about how skilled its makers were."
+      ]
+    },
+    {
+      "heading": "Tools That Help the Mind",
+      "paragraphs": [
+        "Step back and look at everything in this chapter: fingers, notched bones, clay wedges, pebbles on a marble slab, beads on rods, knots on strings and a box of bronze gears. They come from Africa, Asia, Europe and South America, and they span more than 20,000 years. Yet they share something. Each one is a tool that helps the mind.",
+        "Some of these tools mainly store numbers. A tally stick, a clay tablet or a quipu remembers a number for you, so you can check it later or send it to someone else. That is the job a computer's memory does today. Other tools, like the counting board and the abacus, help with working out new numbers, by making steps like carrying easy to see and quick to do. That is a little like the scratchpad a computer uses while it calculates.",
+        "But in almost all of them, the real thinking was still done by a person. The abacus does not know whether you want to add or multiply. The quipu cannot count the llamas by itself. A human decided each step and moved each bead. The Antikythera mechanism was the great exception: once you turned the crank, its gears did the arithmetic of the heavens automatically, but it could do only that one thing.",
+        "This is a useful way to understand the whole story of the computer. Over thousands of years, people gradually handed more and more of the work over to their tools. First they handed over remembering. Then they handed over the fiddly steps, like carrying. Later they would hand over the calculation itself, and later still, the decisions about which calculation to do next.",
+        "For many centuries after Antikythera, though, nobody in Europe built anything like it. Scholars and merchants went on using pens, paper and counting boards. Then, in the 1600s, a new age of science began, full of astronomers and navigators who needed enormous numbers of calculations done quickly and correctly. A few inventors began to ask a daring question. What if the gears of a machine, not the fingers of a person, could do the adding?"
+      ]
+    }
+  ],
+  "deepDive": "Each object in this chapter comes with real scholarly arguments, and they show how historians work with incomplete evidence. Take the Ishango bone. Its 168 notches sit in three columns. One column holds groups of 11, 13, 17 and 19, the primes between 10 and 20; another holds 9, 19, 21 and 11, which some read as 10 minus 1, 20 minus 1, 20 plus 1 and 10 plus 1. Alexander Marshack argued the marks follow lunar phases, while Dirk Huylebrouck and Vladimir Pletser suggested a counting system using 12. Critics answer that with enough small numbers you can always find a pattern, and that no evidence shows Ice Age people had a concept of primes. Even the age is uncertain: estimates once ranged from about 9,000 to over 40,000 years before re-dating of the site settled on roughly 20,000. The Antikythera mechanism raises different puzzles. The shipwreck can be dated by pottery and coins to about 70 to 60 BCE, but the device could be older. Proposed construction dates range from about 205 BCE to the early 1st century BCE, partly based on which eclipses the Saros dial seems to start from. Its gearing is astonishing: one part uses two gears on slightly offset axles connected by a pin and slot, so the Moon pointer speeds up and slows down, imitating the Moon's real changing speed across the sky (we now know this is because its orbit is an ellipse, which the Greeks explained with geometric models). The 223-tooth gear matches the 223 lunar months of the Saros cycle, about 18 years and 11 days. Because only about a third of the device survives, models of its planetary display, such as the one published by a University College London team in 2021, are careful reconstructions rather than certainties. The quipu is the third great open question. Its numbers are well understood, but whether some cords encode words is disputed; researchers such as Gary Urton have analysed cord direction, colour and knot types as a possible binary-like code, while others remain unconvinced. Finally, the Babylonian square root of 2 on YBC 7289, written 1;24,51,10 in base 60, equals about 1.41421296, against the true 1.41421356: an error of less than one part in a million.",
+  "funFact": "In 1834 a pile of old wooden tally sticks being burned in a stove set off the fire that destroyed most of the old Palace of Westminster in London.",
+  "check": {
+    "q": "How many teeth does the largest surviving gear of the Antikythera mechanism have, matching the eclipse cycle?",
+    "a": "223",
+    "wrong": [
+      "60",
+      "365",
+      "12"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Antikythera mechanism",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism"
+    },
+    {
+      "title": "Ishango bone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ishango_bone"
+    },
+    {
+      "title": "Sexagesimal",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sexagesimal"
+    },
+    {
+      "title": "Abacus",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Abacus"
+    },
+    {
+      "title": "Quipu",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Quipu"
+    },
+    {
+      "title": "Revolution: Calculators – The Versatile, Venerable Abacus",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/revolution/calculators/1/38"
+    },
+    {
+      "title": "Tally stick",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tally_stick"
+    },
+    {
+      "title": "YBC 7289",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/YBC_7289"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The largest surviving fragment of the Antikythera mechanism, showing its corroded bronze gear wheels, in the National Archaeological Museum, Athens",
+      "search": "Antikythera mechanism fragment gears Athens"
+    },
+    {
+      "want": "A Chinese suanpan bead abacus with two beads above and five below the beam",
+      "search": "suanpan Chinese abacus beads"
+    },
+    {
+      "want": "An Inca quipu of knotted cords displayed in a museum",
+      "search": "Inca quipu knotted cords museum"
+    }
+  ]
+}

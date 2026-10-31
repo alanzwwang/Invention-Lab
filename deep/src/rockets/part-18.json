@@ -1,0 +1,151 @@
+{
+  "n": 18,
+  "title": "Rockets That Land: The New Space Age",
+  "when": "2000 – today",
+  "summary": "For fifty years, rockets were used once and thrown away. Then new companies taught rockets to fly back, flip around and land standing up, and even to be caught in mid-air by a giant tower. Now launches cost much less, and more people than ever can go to space.",
+  "sections": [
+    {
+      "heading": "The Most Expensive Way to Travel",
+      "paragraphs": [
+        "Imagine flying from London to New York, and when the plane lands, everyone gets off and the airliner is pushed into the sea. Every single flight would need a brand-new plane. Tickets would cost millions. That sounds silly, but for almost all of space history, that is exactly how rockets worked. A Saturn V, an R-7 or an Atlas was used once. Its stages fell into the ocean, crashed in empty deserts or burned up in the sky. Only small capsules, and later the Space Shuttle, came home.",
+        "The Shuttle was supposed to fix this. Its orbiter landed like a glider and flew again, and its two big solid boosters were fished out of the ocean and refilled. But after every flight, thousands of heat-shield tiles had to be checked, the boosters had to be taken apart and rebuilt, and the giant orange fuel tank was thrown away. Getting the Shuttle ready again took months of work by thousands of people. In the end, each Shuttle launch cost far more than its designers had hoped. Reuse that needs that much repair does not save much money.",
+        "Around the year 2000, a few wealthy people who had grown up watching Apollo began to wonder whether a business could do better. They believed that space travel was expensive not because of the laws of physics, but because rockets were built like handmade jewellery and then thrown away. If you could build them more like cars or aeroplanes, and land them to fly again, the cost of reaching space might drop enormously.",
+        "In 2000, Jeff Bezos, who had founded the online shop Amazon, quietly started a company called Blue Origin near Seattle, in Washington state. Its motto is a Latin phrase, 'Gradatim Ferociter', meaning 'step by step, ferociously'. In 2002, Elon Musk, who had made a fortune from internet companies including PayPal, founded Space Exploration Technologies, known as SpaceX, in California. He later said his long-term dream was to help people live on Mars, and he started SpaceX after finding that buying a rocket was shockingly expensive.",
+        "On the other side of the world, a New Zealand engineer named Peter Beck, who had built rocket-powered bicycles and backpacks as a young man, founded Rocket Lab in 2006. His plan was different: to build small, cheap rockets that could carry little satellites, some no bigger than a shoebox, whenever their owners needed. Rocket Lab's Electron rocket, about 18 metres tall, uses engines with 3D-printed parts and fuel pumps driven by electric motors and batteries, an unusual idea in rocketry. On 21 January 2018, Electron reached orbit from the Mahia Peninsula in New Zealand on a flight cheekily named 'Still Testing'.",
+        "These new companies are part of what people call the 'New Space' age. Old space companies mostly built rockets to order for governments. The new ones wanted to sell rides to anyone who could pay, and they were willing to take big risks, blow things up during testing, and learn fast from their mistakes. Many experts doubted they would succeed."
+      ]
+    },
+    {
+      "heading": "Three Failures and a Fourth Try",
+      "paragraphs": [
+        "SpaceX's first rocket was small: Falcon 1, about 21 metres tall, with one engine called Merlin in its first stage, burning kerosene and liquid oxygen. Its launch site was a tiny tropical island called Omelek, part of the Kwajalein Atoll in the middle of the Pacific Ocean, thousands of kilometres from almost anywhere. The team lived and worked in a few simple buildings, shipping everything in by boat and plane.",
+        "The first launch, on 24 March 2006, lasted less than a minute. A fuel leak started a fire on the engine, and the rocket fell back onto the reef near the launch pad. The second launch, in March 2007, did much better and reached space, but the second stage began to wobble because its fuel sloshed around in the tank, and its engine shut down early. It did not reach orbit.",
+        "The third launch, on 3 August 2008, was the most painful. After the first stage finished burning, it was supposed to separate cleanly. But the engine was still giving a tiny bit of thrust from leftover propellant, and the first stage bumped into the second stage just as it tried to ignite. The rocket and its satellites were lost.",
+        "SpaceX was running out of money. Musk later said the company had only enough left for about one more try, and his other company, the electric-car maker Tesla, was in trouble at the same time. The team found the fix for the separation problem, a slightly longer pause before the stages parted, and rushed to put together the next Falcon 1 in just a few weeks.",
+        "On 28 September 2008, the fourth Falcon 1 roared off Omelek Island. This time the first stage separated cleanly, the second stage ignited and carried a dummy payload of about 165 kilograms into orbit. In the SpaceX factory in California, hundreds of employees watching the video feed screamed and cheered. Falcon 1 became the first privately developed liquid-fuelled rocket to reach orbit around the Earth. Musk called it 'a great day for SpaceX'.",
+        "The success came just in time. A few months later, in December 2008, NASA gave SpaceX a contract worth about 1.6 billion US dollars to fly cargo to the International Space Station. The lesson of Falcon 1 was simple but powerful: failure is not the end if you learn from it and keep going. Three failures had taught the team more than an easy success might have."
+      ]
+    },
+    {
+      "heading": "Dragon Delivers to the Space Station",
+      "paragraphs": [
+        "When NASA decided to retire the Space Shuttle, it had a problem. Who would carry food, water, experiments and spare parts to the International Space Station? NASA's answer was to pay private companies to do it, like hiring a delivery service instead of owning its own lorries. The companies would design and build their own rockets and spacecraft, and NASA would pay for each successful delivery.",
+        "SpaceX built a much bigger rocket, Falcon 9, named for its nine Merlin engines in the first stage. On top went Dragon, a capsule shaped a bit like a gumdrop. Falcon 9 first flew on 4 June 2010. In December 2010, Dragon orbited the Earth and splashed down safely in the Pacific, making SpaceX the first private company to bring a spacecraft back from orbit.",
+        "The big test came in May 2012. Falcon 9 launched Dragon on 22 May. Over the next three days the capsule carefully approached the station, testing its sensors and thrusters, then stopped and floated just a few metres away. On 25 May 2012, astronauts Don Pettit of NASA and Andre Kuipers of the European Space Agency reached out with the station's long robotic arm, Canadarm2, and grabbed it. They then attached it to the station. Dragon had become the first commercially built spacecraft to visit the International Space Station.",
+        "Dragon carried about 460 kilograms of supplies, and unlike most other cargo ships at the time, it could also bring things home: finished experiments, broken equipment and samples, which came back in the capsule when it splashed into the ocean. Regular cargo flights began in October 2012. Another American company, Orbital Sciences (later part of Northrop Grumman), began delivering cargo with its Cygnus spacecraft too.",
+        "Meanwhile, a bigger gap had opened. After the last Shuttle landed in July 2011, the United States had no way to launch its own astronauts. For nearly nine years, every American astronaut going to the space station had to ride a Russian Soyuz from Kazakhstan, and NASA paid Russia for every seat, eventually more than 80 million US dollars each. In 2014, NASA picked two companies, Boeing and SpaceX, to build new spacecraft that could carry crews. SpaceX began turning Dragon into Crew Dragon, with seats, life support, touch-screen controls and powerful escape engines built into its sides."
+      ]
+    },
+    {
+      "heading": "How to Land a Rocket Backwards",
+      "paragraphs": [
+        "Landing a rocket is a little like balancing a broomstick on your finger, except the broomstick is as tall as a building, falling from the edge of space, and moving faster than a bullet. Many engineers believed it would never be worth the trouble. Two companies decided to try anyway.",
+        "Blue Origin got there first with a smaller, suborbital rocket called New Shepard, named after Alan Shepard, the first American in space. On 23 November 2015, in the desert of West Texas, New Shepard launched an empty capsule to about 100.5 kilometres, just past the Kármán line that many people use as the edge of space. The capsule floated back on parachutes. Then the booster fell back toward the ground, relit its engine, slowed down to about 7 kilometres per hour and settled gently onto a concrete pad on its landing legs. It was the first time a rocket had flown to space and then landed upright on Earth. A couple of months later, the same booster flew again.",
+        "Less than a month later, SpaceX did something even harder. A suborbital hop goes mostly straight up and down. An orbital rocket's first stage, by contrast, is heading sideways at several thousand kilometres per hour when it separates, far out over the ocean. On the night of 21 December 2015, a Falcon 9 lifted off from Cape Canaveral in Florida carrying 11 small communications satellites for a company called Orbcomm. A few minutes later, while the second stage carried on to orbit, the first stage turned around and flew back. About ten minutes after liftoff, it touched down upright at a landing zone near the coast, not far from where it had launched. It was the first time the first stage of a rocket that reached orbit had landed back on Earth.",
+        "Here is how a Falcon 9 booster does it. After about two and a half minutes, the first stage shuts down its engines and separates. Small jets of compressed gas on its top flip it around so its engines point the way it is travelling. If it is returning to land, it fires three engines in a 'boostback burn' to cancel its sideways speed and head home. As it falls, four lattice-shaped 'grid fins' near the top fold out and steer it like the feathers on a dart. Just before it hits the thicker air, it fires its engines again in an 'entry burn' to slow down so it does not overheat. Finally, in the last moments, one engine fires for the 'landing burn', four legs swing down, and the booster touches down.",
+        "There is a tricky detail. Even one Merlin engine at its lowest setting is too powerful to let the nearly empty booster hover. So the computer must time the burn so that the rocket's speed reaches zero at exactly the moment it touches the ground. Too early and it would start going back up; too late and it would crash. Engineers sometimes call this a 'hoverslam'.",
+        "When a mission needs more of the rocket's fuel for the payload, there is not enough left to fly all the way back. So SpaceX lands those boosters on 'drone ships': large, flat robotic barges stationed hundreds of kilometres out at sea. The ships have playful names taken from science-fiction novels by Iain M. Banks, such as 'Of Course I Still Love You' and 'Just Read the Instructions'. Several early attempts ended in fiery crashes on the deck before the first successful drone-ship landing in April 2016.",
+        "Landing a booster is only half the point; it must also fly again. In March 2017, SpaceX launched a satellite on a Falcon 9 booster that had already flown once. Since then, reflown boosters have become normal, and some individual boosters have now flown more than 25 times each. SpaceX also catches and reuses the nose cone halves, called fairings, that protect satellites during launch. Reuse is the main reason launches have become much cheaper per kilogram than in the Shuttle era."
+      ]
+    },
+    {
+      "heading": "Astronauts Ride a Company Spaceship",
+      "paragraphs": [
+        "On 30 May 2020, at 3:22 in the afternoon Florida time, a Falcon 9 rocket stood on Launch Complex 39A at NASA's Kennedy Space Center, the same pad from which Apollo 11 had left for the Moon and the very first Space Shuttle had launched. On top sat a gleaming white Crew Dragon. Inside were two NASA astronauts, Bob Behnken and Doug Hurley. Both were Space Shuttle veterans, and Hurley had been the pilot of the very last Shuttle mission in 2011.",
+        "The world was in the middle of the COVID-19 pandemic, and many people were stuck at home, so millions watched online. The countdown reached zero, the nine engines lit, and the rocket climbed into a clear sky. It was the first time astronauts had launched to orbit from the United States since 2011, and the first time ever that NASA astronauts had flown on a spacecraft built and run by a private company. The mission was called Demo-2, because it was the final test before Crew Dragon could carry regular crews.",
+        "Crew Dragon is very different inside from older spacecraft. Instead of hundreds of switches, the astronauts used large touchscreens. The spacecraft is designed to fly itself and dock with the station automatically, though Hurley tested flying it by hand for a short while. On 31 May, Dragon docked at the International Space Station. The astronauts named their capsule Endeavour, after the Space Shuttle Endeavour on which both had made their first spaceflights.",
+        "Behnken and Hurley spent about two months on the station. Then, on 2 August 2020, Endeavour came home. It plunged into the atmosphere at about 28,000 kilometres per hour, its heat shield glowing at temperatures of roughly 1,900 degrees Celsius, before two small drogue parachutes and then four big main parachutes opened. It splashed down in the Gulf of Mexico, the first American crew splashdown since 1975. Soon afterwards, Crew Dragon began flying regular crews of four to the space station, including astronauts from Europe, Japan and other countries."
+      ]
+    },
+    {
+      "heading": "Starship and the Chopsticks",
+      "paragraphs": [
+        "Falcon 9 lands its first stage, but its second stage is still thrown away. SpaceX's next idea was much bolder: a giant rocket that would be completely reusable, both stages, to carry huge loads to orbit, to the Moon and one day to Mars. It is called Starship.",
+        "Starship has two parts. The bottom stage, called Super Heavy, is about 70 metres tall and has 33 Raptor engines burning liquid methane and liquid oxygen. On top sits the upper stage, also called Starship, which is a spacecraft and rocket in one, with six more engines. Stacked together, they stand about 120 metres tall, taller than the Saturn V and taller than the Statue of Liberty with its pedestal. It is made of stainless steel rather than the aluminium used for most rockets, partly because steel is cheap and handles both the extreme cold of the fuel and the heat of re-entry well. At liftoff it produces roughly twice the thrust of the Saturn V, making it the largest and most powerful rocket ever flown.",
+        "SpaceX tests Starship in a way that surprises many people: it builds rockets quickly, flies them, and accepts that some will explode. The first full test flight, on 20 April 2023, launched from SpaceX's site called Starbase, near Boca Chica on the southern tip of Texas. Several engines failed, the two stages never separated, and the rocket was destroyed about four minutes after liftoff. The launch pad itself was badly damaged, and the ground shook for kilometres around. SpaceX rebuilt, changed its design and flew again. Each test flight went further than the one before, although later ones also included failures and explosions as engineers pushed the design.",
+        "Starship's boosters are not meant to land on legs. Instead, the plan is for the launch tower to catch them in mid-air. The tower, nicknamed 'Mechazilla', has two huge mechanical arms, nicknamed the 'chopsticks'. Leaving off the landing legs saves weight, and catching the booster right at the launch pad means it could, in theory, be checked, refuelled and launched again quickly.",
+        "On 13 October 2024, during Starship's fifth test flight, the 70-metre Super Heavy booster separated from the ship, turned around and flew back toward the tower. About seven minutes after liftoff, it slowed to a hover beside the tower, fire spurting around its engines, and the chopsticks closed around it, holding it in the air. Engineers and onlookers cheered wildly. Many space fans described it as one of the most astonishing things they had ever seen a rocket do. Meanwhile, the ship flew about halfway around the world and made a controlled splashdown in the Indian Ocean.",
+        "Starship still has a long way to go. NASA has chosen a version of it to be the lander that will carry astronauts down to the Moon's surface in its Artemis program, and for that it must be refuelled in orbit by other Starships, moving huge amounts of super-cold propellant from one ship to another, something never done on that scale before. Plans and dates for these missions may change. But Starship shows how far rocket reuse has come in just a few years."
+      ]
+    },
+    {
+      "heading": "Tourists, Private Astronauts and a Crowded Sky",
+      "paragraphs": [
+        "Cheaper, reusable rockets have opened space to people who are not government astronauts. The very first space tourist, the American businessman Dennis Tito, paid about 20 million US dollars to fly to the International Space Station on a Russian Soyuz in April 2001. For many years only a handful of very rich people followed him.",
+        "In July 2021, two companies started flying passengers on short suborbital trips. On 11 July, Richard Branson flew on his company Virgin Galactic's rocket plane, which was carried up under a jet aircraft and then fired its own rocket. Nine days later, on 20 July 2021, the 52nd anniversary of the Apollo 11 Moon landing, Jeff Bezos flew on Blue Origin's New Shepard. With him were his brother Mark, 82-year-old Wally Funk, who had trained as a pilot and passed astronaut-style tests in the early 1960s but was never allowed to fly to space, and 18-year-old Oliver Daemen. At that moment Funk became the oldest person ever to fly to space, and Daemen the youngest. A few months later, the Star Trek actor William Shatner flew on New Shepard at the age of 90.",
+        "Private orbital flights followed. In September 2021, a Crew Dragon carried Inspiration4, the first orbital flight with no professional astronauts on board, for three days. Its four crew members raised money for a children's hospital. Since then, private crews have visited the International Space Station, and in September 2024 the Polaris Dawn mission made the first spacewalk by private, non-government astronauts.",
+        "Other countries are part of the New Space age too. In China, private companies have built their own rockets; in July 2023 a Chinese company called LandSpace launched Zhuque-2, the first rocket burning methane and liquid oxygen to reach orbit. Blue Origin's big orbital rocket, New Glenn, reached orbit on its first flight in January 2025, and on its second flight, in November 2025, its booster landed on a ship at sea. Rocket Lab is developing a larger, reusable rocket of its own. Reuse, once thought to be a fantasy, is becoming the normal way to build a rocket.",
+        "But there is a downside to cheap launches. Because reaching orbit is now so much cheaper, companies are launching thousands of small satellites into huge groups called megaconstellations, mostly to beam internet to the ground. SpaceX began launching its Starlink satellites in 2019, often 20 or more on a single rocket, and now has many thousands in orbit, more than all other companies and countries put together. Other companies and countries are planning constellations of their own.",
+        "According to the European Space Agency, by its 2025 report about 40,000 objects in orbit were being tracked, about 11,000 of them working satellites, and there were more than a million pieces of debris bigger than a centimetre, too small to track but still dangerous at orbital speeds. Satellites now have to swerve out of each other's way more and more often. Astronomers have also complained that bright satellites leave streaks across their telescope pictures.",
+        "Rockets that land have made space cheaper, busier and more open to more people than ever before. That is exciting, but it also raises big questions. Who should be allowed to fill the sky with satellites? What happens to all the old ones? Is rocket exhaust harming the air? And has the human race really learned to keep its explorers safe? In other words, does all this rocket power come with costs, for people, for the planet and for space itself?"
+      ]
+    }
+  ],
+  "deepDive": "Why did reusable rockets take so long, and why do they save money? The rocket equation explains the cost of reuse. To land, a booster must keep back some of its propellant for the boostback, entry and landing burns, and it must carry legs and grid fins all the way up. That extra mass is paid for directly in payload: a Falcon 9 that lands its booster can carry noticeably less to low Earth orbit than one that is thrown away, very roughly a quarter less. For a long time many engineers assumed this penalty, plus the cost of inspecting and repairing a used rocket, would cancel out any savings. The Space Shuttle seemed to prove them right, because its refurbishment was so slow and labour-intensive. SpaceX's bet was different in two ways. First, it made the booster rugged enough to need only light checks between flights. Second, it builds most parts in its own factories, so the most expensive piece of the rocket, the first stage with its nine engines, no longer has to be built new each time. The savings are real, though exact figures are debated, because companies set prices for business reasons rather than simply passing on costs. One widely cited 2018 analysis by NASA engineer Harry Jones estimated that launching a kilogram to low orbit cost about 54,500 US dollars on the Space Shuttle, but only about 2,700 dollars on a Falcon 9, a drop of roughly twenty times. Starship aims to lower the cost much further by making both stages reusable and refuelling in orbit, but whether it reaches those goals is still unknown. There is also a debate about competition. Critics worry that one company launching most of the world's rockets and most of its working satellites gives it too much power over access to space. Supporters argue that cheap launches have opened space to universities, small countries and start-ups that could never afford it before. Astronomers and debris experts add another concern: cheaper access means far more objects in orbit, and the European Space Agency warns that in some popular orbits the amount of dangerous debris is now of the same order as the number of active satellites.",
+  "funFact": "SpaceX's robot landing ships are named after spaceships in Iain M. Banks's science-fiction novels, so a rocket booster can land on a ship called 'Of Course I Still Love You'.",
+  "check": {
+    "q": "On what date did a Falcon 9 first stage first land back on Earth after an orbital launch?",
+    "a": "21 December 2015",
+    "wrong": [
+      "20 July 1969",
+      "12 April 1981",
+      "4 October 1957"
+    ]
+  },
+  "sources": [
+    {
+      "title": "SpaceX rocket reaches orbit after fourth attempt",
+      "publisher": "Physics Today (American Institute of Physics)",
+      "url": "https://physicstoday.aip.org/news/spacex-rocket-reaches-orbit-after-fourth-attempt"
+    },
+    {
+      "title": "Capturing SpaceX's Dragon",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/image-article/capturing-spacexs-dragon/"
+    },
+    {
+      "title": "NASA Astronauts Launch from America in Historic Test Flight of SpaceX Crew Dragon",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon/"
+    },
+    {
+      "title": "Top 10 Things to Know for NASA's SpaceX Demo-2 Return",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/humans-in-space/top-10-things-to-know-for-nasas-spacex-demo-2-return/"
+    },
+    {
+      "title": "SpaceX's Starship plucked from the air by giant chopsticks, but why did they do it?",
+      "publisher": "BBC Sky at Night Magazine",
+      "url": "https://skyatnightmagazine.com/news/spacex-starship-test-5-chopsticks"
+    },
+    {
+      "title": "ESA Space Environment Report 2025",
+      "publisher": "European Space Agency",
+      "url": "https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2025"
+    },
+    {
+      "title": "Falcon 1",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Falcon_1"
+    },
+    {
+      "title": "New Glenn",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/New_Glenn"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A Falcon 9 first stage standing upright on its landing legs at Landing Zone 1, Cape Canaveral, after the December 2015 Orbcomm launch",
+      "search": "Falcon 9 first stage landing Orbcomm OG2 2015"
+    },
+    {
+      "want": "Crew Dragon Endeavour lifting off on a Falcon 9 from Launch Complex 39A for the Demo-2 mission, 30 May 2020",
+      "search": "Demo-2 launch Falcon 9 Crew Dragon"
+    },
+    {
+      "want": "Blue Origin's New Shepard booster landed on its pad in West Texas",
+      "search": "New Shepard booster landing Blue Origin"
+    }
+  ]
+}

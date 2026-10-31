@@ -1,0 +1,154 @@
+{
+  "n": 3,
+  "title": "Phones Shrink and Learn to Text",
+  "when": "1985 – 2000",
+  "summary": "In just fifteen years, phones went from heavy bricks to little gadgets that fit in your pocket. They started turning voices into numbers, learned to send short text messages, and even came with a game about a hungry snake. Soon teenagers were picking phones the way they picked sneakers.",
+  "sections": [
+    {
+      "heading": "From Smooth Waves to Strings of Numbers",
+      "paragraphs": [
+        "At the end of Part 2, the brick phone was a toy for the rich. It worked, but it had a secret weakness hidden inside the way it talked. Phones like the DynaTAC belonged to what we now call the first generation, or 1G. A 1G phone sent your voice as an analog radio wave. Analog means the wave copies the shape of the sound itself: when your voice went up and down, the radio wave wiggled up and down in the same pattern, like a copy traced on tracing paper.",
+        "Analog radio is simple, and it was a brilliant first step. But it had problems. A smooth wave picks up every bit of noise along the way, so calls could be full of hiss and crackle, especially at the edge of a cell. Worse, anybody with the right kind of radio scanner could tune in and listen to your conversation, because the wave was not scrambled at all. Criminals also learned to 'clone' phones by copying the identity numbers that analog phones broadcast, so that someone else's calls were charged to your bill.",
+        "There was a bigger problem in Europe. Different countries had built different analog systems. The Nordic countries used NMT, Britain used a system called TACS, West Germany had its own network, and France had another. A phone that worked in Stockholm might be useless in Paris.",
+        "The answer was the second generation, 2G. A 2G phone does something clever before it sends your voice: it measures the sound thousands of times every second and turns each measurement into a number, written in binary as 1s and 0s. Those numbers are squeezed down (compressed) so that fewer of them are needed, and then they are sent by radio. At the other end, a chip turns the numbers back into sound. This is what engineers mean by digital.",
+        "Turning a voice into numbers brought three big gifts. First, numbers can be scrambled with a secret code, called encryption, so a stranger with a scanner hears only nonsense. Second, digital signals use the radio spectrum much more efficiently. In the GSM system, for example, each radio channel is chopped into eight tiny time slots that take turns many times a second. Eight people can share one channel, each speaking in their own slice of time, and none of them notices the sharing. This trick is called TDMA, which stands for time-division multiple access. Third, once a phone is sending numbers anyway, it can send other kinds of numbers too: not just voices, but letters. That last gift would change the world, as we will see.",
+        "2G did not come in only one flavor. Europe built GSM. In North America, many networks used a digital version of the old American system, called D-AMPS, while others chose a rival technology called cdmaOne (also known as IS-95), first switched on in 1995, which let many calls share the same frequencies at the same time by giving each call its own special code. Japan built its own standard, called PDC. All of them were digital, and all of them were a big jump from 1G. But GSM was the one that spread across the planet."
+      ]
+    },
+    {
+      "heading": "Europe Agrees: GSM and the Prime Minister's Call",
+      "paragraphs": [
+        "In the early 1980s, European telephone officials looked at their messy patchwork of analog networks and decided to do something unusual: they would design one shared digital system for the whole continent. In 1982 and 1983 a committee was set up under a European telecommunications group called CEPT. It was named the Groupe Spécial Mobile, which is French for 'Special Mobile Group'. Its initials, GSM, became the name of the standard. Later, as the system spread far beyond Europe, people decided GSM should stand for Global System for Mobile Communications instead.",
+        "Designing a phone system that dozens of companies and countries could all build was slow, careful work. Engineers from many nations argued about radio frequencies, how voices should be compressed and how phones should prove who they were. In 1987, representatives from 13 European countries met in Copenhagen, Denmark, and signed an agreement promising to build GSM networks. In 1989 the work moved to a new European standards body called ETSI.",
+        "Then came the big moment. On July 1, 1991, in Finland, Prime Minister Harri Holkeri picked up a GSM phone and called Kaarina Suonio, the deputy mayor of the city of Tampere. The call travelled over the network of a brand-new Finnish operator called Radiolinja, using equipment from the Finnish company Nokia and the German company Siemens, on radio waves around 900 megahertz. It is celebrated as the world's first GSM call. To be fair to history, engineers had already made test calls on the network before that day, and at least one former Nokia engineer later said he had made a test call a few hours before the prime minister. But Holkeri's call was the official one, the moment the world noticed.",
+        "Nokia is worth a quick detour, because it will be a star of this part. The company began back in 1865 as a wood-pulp mill on the rapids of the Tammerkoski river near Tampere, founded by an engineer named Fredrik Idestam. Over the next century it made rubber boots, cables, tires, televisions and computers. In January 1992, a new boss, Jorma Ollila, decided Nokia should focus on telecommunications and sell off most of its other businesses. That same year, in November 1992, Nokia launched the Nokia 1011, the first GSM phone sold to the public. It was a bold bet, and it paid off spectacularly.",
+        "GSM spread fast. Because it was one shared standard, a traveler could carry a GSM phone from Finland to Germany to Italy and keep using it, a trick called roaming. Countries in Asia, Africa, the Middle East and eventually the Americas joined in. By 2004 there were more than 1 billion GSM subscribers, by 2008 more than 3 billion, and GSM eventually ran in well over 200 countries and territories. Few technologies in history have spread to so many people so quickly."
+      ]
+    },
+    {
+      "heading": "The Tiny Card That Knows Who You Are",
+      "paragraphs": [
+        "With 1G phones, your phone number and account were usually built into the phone itself. If you wanted a new phone, the phone company had to set it up for you. GSM's designers had a smarter plan: put your identity on a removable smart card. They called it the SIM, which stands for subscriber identity module. A subscriber is simply a customer who pays for the phone service.",
+        "The first SIM cards were made in 1991 by Giesecke+Devrient, a company in Munich, Germany, that was famous for printing banknotes and making smart cards. It sold 300 of them to Radiolinja in Finland, the network that carried the first GSM call. Those first SIMs were as big as a credit card, about 85.6 by 54 millimeters, because they were based on the same smart-card design used for bank cards.",
+        "As phones shrank, so did the SIM. The 'mini-SIM' arrived in 1996, about 25 by 15 millimeters, roughly the size of a postage stamp. That is the one many of your parents remember snapping out of a credit-card-sized holder. The 'micro-SIM' (15 by 12 millimeters) followed in 2003, and the 'nano-SIM' in 2012, at about 12.3 by 8.8 millimeters and only 0.67 millimeters thick, which is thinner than a fingernail. Many modern phones now use an eSIM, a chip soldered inside that can be programmed over the air, but the idea is still the same.",
+        "So what does the SIM actually hold? Two especially important things. One is a long number called the IMSI (international mobile subscriber identity), which tells the network which customer you are. The other is a secret key, a 128-bit number. 128 bits means a string of 128 ones and zeros, so there are more possible keys than there are grains of sand on all the beaches on Earth. The phone company keeps a copy of your key in a guarded computer called the authentication center.",
+        "Here is the clever part. The key is never sent over the radio, and the SIM is built so that even the phone cannot read it out. When your phone joins the network, the network sends a random number as a challenge. The SIM mixes that number with its secret key using a special formula and sends back the answer. The network does the same calculation with its own copy of the key. If the answers match, you are who you say you are. It is like a secret handshake where the handshake changes every time, so an eavesdropper who hears one answer cannot reuse it.",
+        "SIMs also brought a feature that felt like magic in the 1990s: you could pull your SIM out of one phone, push it into another, and the new phone instantly became 'yours', with your number and your saved contacts. To stop thieves, a SIM can be locked with a four-digit PIN code. If someone guesses wrong three times, the SIM locks itself and needs a longer code called a PUK to unlock. Now our digital, secure, swappable phone was ready for its most famous trick."
+      ]
+    },
+    {
+      "heading": "Merry Christmas: The First Text Message",
+      "paragraphs": [
+        "The idea of sending short written messages through the phone network began years before anyone did it. In 1984, two engineers working on the French-German side of the GSM planning, Friedhelm Hillebrand of Germany and Bernard Ghillebaert of France, worked out a way to slip little notes into the network almost for free. A mobile network is always sending small control signals back and forth between phones and towers: 'Are you there?', 'Here I am', 'Ring this phone'. Those signals travel in special signalling channels that are not full most of the time. Hillebrand and Ghillebaert realized that short messages could ride along in the spare space, like letters tucked into the gaps of a delivery van that was making the trip anyway.",
+        "But how short is short? The story goes that Hillebrand sat at his typewriter writing out typical sentences and questions, and he looked at postcards and Telex messages (an old system for sending typed messages along telegraph lines). Most of them fitted easily into about 160 characters. That became the famous limit. It was not a random number. The messages had to fit the size of the existing signalling packets, which held 140 bytes, or 1,120 bits. If each character uses 7 bits instead of the usual 8, then 1,120 divided by 7 gives exactly 160 characters. So the 160-character text message is really a piece of clever arithmetic.",
+        "The service was named SMS, for short message service. GSM documents approved it in 1985, and a draft of its technical rules was ready by 1987. Then, for years, nobody really used it. Phone companies thought it might be handy for sending customers little alerts, like 'You have a voicemail', rather than for people chatting with each other.",
+        "Now picture an office in Newbury, a town in the south of England, in early December 1992. Neil Papworth, a 22-year-old developer and test engineer at a company called Sema Group, was building a message center for the British phone company Vodafone. The message center was the computer that would receive texts and pass them on. To prove that it worked, someone had to actually send a message to a real phone.",
+        "On December 3, 1992, Papworth typed two words on a computer keyboard: 'Merry Christmas'. Phones of the time had no proper way to type letters, so the first text in history was sent from a computer, not from a phone. It travelled across Vodafone's GSM network and appeared on an Orbitel 901 handset belonging to Richard Jarvis, a Vodafone director, who was at the company's Christmas party. The handset could receive the message but had no way to type a reply. To Papworth it was simply a successful test on a busy workday. Nobody in the room could have guessed that trillions of messages would follow.",
+        "Sending texts between ordinary customers took a little longer. In 1993, the Finnish operator Radiolinja (the same network that carried the first GSM call) offered one of the first texting services that customers could pay for, and the first message sent by one person to another over a phone network is usually dated to that year in Finland. In January 1994 Nokia released a phone, the Nokia 2010, that made typing a message much easier.",
+        "At first, texting grew slowly. In 1995, the average GSM customer sent fewer than one text every two months, about 0.4 messages a month. Then young people discovered it. A text was cheap, quiet, private and could be read later, so you could send one from the back of a bus or under the table. By the end of 2000, the average user was sending around 35 texts a month. In the Philippines, where texts were much cheaper than calls, people sent so many messages that by 2001 the country was nicknamed the 'texting capital of the world'. Worldwide, the number of texts climbed from about 366 billion in 2002 to about 6.1 trillion in 2010. A service designed for voicemail alerts had become one of the most popular ways humans have ever talked to each other."
+      ]
+    },
+    {
+      "heading": "Typing With Your Thumbs: Multi-Tap and T9",
+      "paragraphs": [
+        "There was just one catch: a 1990s phone had 12 buttons, and the alphabet has 26 letters. The answer was to share. Look at the number keys on any phone keypad, even the one on a smartphone screen today, and you will still see letters printed under the numbers: ABC on 2, DEF on 3, GHI on 4, JKL on 5, MNO on 6, PQRS on 7, TUV on 8 and WXYZ on 9.",
+        "The first way of texting is called multi-tap. You press a key once for its first letter, twice for its second letter, and so on. To type S, you press 7 four times: P, Q, R, S. To type the word 'hello', you press 4 twice for H, 3 twice for E, 5 three times for L, then wait for a moment so the phone knows you have finished that letter, 5 three times again for the second L, and finally 6 three times for O. That is 13 presses and a pause, just for one friendly word. The pause matters: if you want two letters from the same key in a row, you have to wait for the cursor to move on, or the phone thinks you are still cycling through the first letter.",
+        "Texters became astonishingly fast anyway, and they invented a new kind of spelling to save presses: 'c u l8r' for 'see you later', 'gr8' for 'great', and 'txt' for 'text'. Teachers and grandparents sometimes worried that this shorthand would ruin people's spelling. Many language experts have since argued that it was mostly a playful code that people switched on and off, rather like slang, and that you have to know how to spell a word before you can cleverly shorten it.",
+        "A smarter method grew out of an unexpected place. In 1987, a team that included Martin King, Dale Grover and Cliff Kushler began working on a way for people with disabilities to type using eye movements, choosing from a small number of groups of letters. They noticed that their letter groups worked a lot like a phone keypad, which also has only eight keys with letters on them. If a computer had a good dictionary, it could guess which word you meant from just one press per letter.",
+        "They called it T9, short for 'Text on 9 keys'. With T9, you press each key just once and the phone looks up every word that matches that pattern of keys, showing the most common one first. Typing 4-3-5-5-6 gives 'hello' in five presses instead of thirteen. Sometimes several words share the same keys. For example, the keys 3-6-7-3 can spell 'ford', 'dose' and 'fore', so the phone shows one and you press a 'Next' key to see the others. T9 even learned from you, putting the words you chose most often at the top of the list.",
+        "The team founded a company called Tegic Communications in Seattle in 1996, and T9 first appeared in September 1997 on a small organizer, the Texas Instruments Avigo. The first phone with T9 was a Samsung model sold in South Korea in April 1998, and the Finnish Benefon iO, announced in 1999, was the first GSM phone with it. Soon phone makers everywhere licensed T9 or built their own versions, and predictive text became normal on almost every phone. In a way, it is the great-grandparent of the word suggestions that pop up above your keyboard today."
+      ]
+    },
+    {
+      "heading": "Pocket Stars: StarTAC, Snake and the Nokia 3310",
+      "paragraphs": [
+        "While networks went digital, the phones themselves were shrinking at amazing speed. Remember that the DynaTAC brick weighed about 790 grams. On January 3, 1996, Motorola unveiled the StarTAC, which weighed as little as 88 grams in its lightest version, less than a chocolate bar and about one-ninth of the brick. It was the smallest and lightest phone of its time.",
+        "The StarTAC was a clamshell, or flip phone. Closed, it was a neat little shell you could clip to a belt or drop into a shirt pocket. Flicking it open with one hand made a satisfying snap. It was not the first clamshell phone (NEC, a Japanese company, had made one earlier in the 1990s), but it was the one that made folding phones fashionable. It could also vibrate instead of ringing, which seems ordinary now but was a big deal then: you could feel a call arrive in a quiet meeting without disturbing anyone. It launched at about 1,000 dollars, and many people got it by signing a long phone contract instead of paying all at once. In South Korea it became so popular that it pushed Samsung to design clamshell phones of its own.",
+        "Meanwhile, Nokia was racing ahead. In October 1998, Nokia overtook Motorola as the best-selling mobile phone brand in the world, a position it held for about a decade. One reason was a phone announced in December 1997 and sold from 1998: the Nokia 6110. It was a business phone, with a calculator, calendar and currency converter, and it was the first GSM phone powered by an ARM processor, a power-saving chip design you will meet properly in Part 11. It was also Nokia's first phone with an infrared port, a little dark window that could send data on invisible light, like a TV remote.",
+        "But people remember the 6110 for something much more fun: Snake. The idea of a game where you steer a line that keeps moving and must never crash into a wall or itself goes back to an arcade game called Blockade from 1976. At Nokia, an engineer named Taneli Armanto, who worked in a group designing how phones' menus and screens should behave, programmed a version for the 6110's tiny black-and-white screen. Your snake slithers around eating dots, and every dot makes it longer, so the game gets harder the better you do. Two players could even battle each other by pointing their phones' infrared windows at each other.",
+        "Snake was simple, but it was always in your pocket and it was free. Millions of people who had never owned a games console played it on buses, in waiting rooms and during boring car journeys. Nokia put Snake on phone after phone, and later versions added mazes and color. According to Nokia, hundreds of millions of copies of Snake exist in one form or another, which may make it one of the most played video games ever.",
+        "Then, announced on September 1, 2000, came the phone that many people still call a legend: the Nokia 3310. It weighed about 133 grams and fit comfortably in one hand. It had a removable battery that lasted for days, more than 35 built-in ringtones, a calculator, a stopwatch, and four games, including Snake II and a space shooter called Space Impact. Its 'Chat' feature showed a conversation of texts in order, a little like a modern messaging app, and it could join several texts together to send messages up to 459 characters long.",
+        "The 3310 was cheap enough for ordinary families and tough enough to survive being dropped. People joke that it was 'indestructible' and that it could crack the floor instead of its own screen. That is a joke, of course; a 3310 could certainly break, but it was famously sturdy. Nokia sold about 126 million of them, which makes it one of the best-selling phones in history. In 2015 Finland even chose it as one of its official 'national emojis', and in 2017 a new company that now made Nokia phones released a modern version as a nostalgic treat."
+      ]
+    },
+    {
+      "heading": "Ringtones, Covers and a Phone That Says Who You Are",
+      "paragraphs": [
+        "Something else was changing in the late 1990s: who owned phones. In 1985 a mobile phone was a tool for business people and the wealthy. By 2000, in countries like Finland, Britain, Italy and Japan, teenagers were carrying them in their school bags. And teenagers did not just want a phone. They wanted a phone that looked like them.",
+        "Nokia noticed. Phones like the Nokia 5110 and 3210 had covers that you could pop off and replace in seconds. Nokia called its version Xpress-On covers. Shops and market stalls sold them in every color and pattern imaginable: see-through plastic, flames, flowers, football teams, glow-in-the-dark. The 3310 alone had thousands of cover designs made by different companies. A phone became something like a sticker-covered pencil case, a little piece of personal style.",
+        "Then there was sound. The most famous ringtone of all, the 'Nokia tune', is a short phrase from a piece of classical guitar music called Gran Vals, written in 1902 by the Spanish guitarist Francisco Tárrega. Nokia had used the melody in an advert for the Nokia 1011 in 1992, and it first appeared as a ringtone on the Nokia 2110 in 1994. At first it was just called 'Type 5'. On the 6110 it was named 'Grande valse', and in 1998 it was renamed 'Nokia tune'. A 2009 estimate suggested it was being heard around 1.8 billion times a day across the world, about 20,000 times every second.",
+        "Hearing the same tune from everybody's pocket gave people an idea: why not choose your own? In Japan in 1996, a phone made by the company Denso let owners type in their own melodies, note by note. A Japanese book of instructions for programming pop songs into phones reportedly sold more than 3.5 million copies.",
+        "In 1998, Radiolinja in Finland launched a service called Harmonium, invented by Vesa-Matti Paananen, that let people get new ringtones sent straight to their phone by text message. It is often described as the first downloadable ringtone service, one of the very first times people got something digital delivered to a phone through the air, years before app stores. Ringtones quickly became big business. By the early-to-mid 2000s, people around the world were spending a few billion dollars a year on them.",
+        "By the year 2000, the mobile phone had been transformed. It weighed a sixth of the brick or less, it fit in a pocket, its calls were digital and private, its battery lasted days instead of minutes, and hundreds of millions of people owned one. It could send words as well as voices, play a game and show off your taste in music and color.",
+        "But something was still missing. A phone could hold a list of names and send 160 characters, yet it could not keep your full diary, hold your notes or work like a real computer. Many people who wanted those things carried a second gadget in their other pocket. While phones were learning to talk and text, a different family of little machines had been growing up alongside them: pocket computers. That is where we go next."
+      ]
+    }
+  ],
+  "deepDive": "Why exactly 160 characters? The GSM signalling packets that carry SMS have room for 140 bytes of user data, which is 1,120 bits. GSM uses a special 7-bit alphabet for ordinary Latin letters, digits and common punctuation, so 1,120 / 7 = 160 characters. If you type characters outside that alphabet, such as Chinese characters, Arabic letters or most emoji, phones switch to a 16-bit encoding called UCS-2 (a forerunner of UTF-16), and the limit falls to 140 / 2 = 70 characters per message. Longer texts are split into pieces, each carrying a small header that tells the receiving phone how to stitch them back together, which is how the Nokia 3310 could send 459-character messages. Engineers also argue about what made 2G so much better than 1G. Encryption and the SIM ended easy eavesdropping and cloning, although GSM's original A5/1 cipher was later shown by researchers to be breakable, and only the radio link between phone and tower was protected. Capacity was the other prize: GSM's TDMA divides each 200-kilohertz channel into eight time slots, while the rival cdmaOne system spreads all calls across a wide band and separates them by code, and supporters of each claimed theirs carried more calls. The CDMA approach went on to shape 3G, while GSM won the 2G popularity contest by sheer scale, with more than 3 billion subscribers by 2008. Historians also debate 'firsts'. Harri Holkeri's call of 1 July 1991 is the celebrated first GSM call, but test calls were made earlier on the same network, and a former Nokia engineer later said he made one a few hours before the prime minister. Likewise, Neil Papworth's 1992 'Merry Christmas' was the first SMS, but it came from a computer; the first person-to-person text between phones followed in Finland in 1993. Being careful about these details is part of telling the story fairly.",
+  "funFact": "The very first text message, 'Merry Christmas', was typed on a computer, not a phone, because the phones of 1992 had no way to write letters.",
+  "check": {
+    "q": "Why is a standard text message limited to 160 characters?",
+    "a": "Because the signalling space holds 140 bytes (1,120 bits), and 1,120 bits divided by 7 bits per character makes 160 characters.",
+    "wrong": [
+      "Because Neil Papworth's first message happened to be 160 letters long",
+      "Because phone screens in 1992 could only show 160 letters",
+      "Because the GSM committee had 160 members, one for each letter"
+    ]
+  },
+  "sources": [
+    {
+      "title": "SMS",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/SMS"
+    },
+    {
+      "title": "GSM",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/GSM"
+    },
+    {
+      "title": "SIM card",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/SIM_card"
+    },
+    {
+      "title": "T9 (predictive text)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/T9_(predictive_text)"
+    },
+    {
+      "title": "Motorola StarTAC",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Motorola_StarTAC"
+    },
+    {
+      "title": "Nokia 6110",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nokia_6110"
+    },
+    {
+      "title": "Nokia 3310",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nokia_3310"
+    },
+    {
+      "title": "Nokia tune",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nokia_tune"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A Nokia 3310 mobile phone with its monochrome screen and number keypad",
+      "search": "Nokia 3310 phone"
+    },
+    {
+      "want": "A Motorola StarTAC flip phone shown open",
+      "search": "Motorola StarTAC flip phone"
+    },
+    {
+      "want": "A close-up of a mini-SIM card or SIM cards in different sizes (full-size, mini, micro, nano)",
+      "search": "SIM card sizes mini micro nano"
+    }
+  ]
+}

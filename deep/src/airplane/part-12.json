@@ -1,0 +1,150 @@
+{
+  "n": 12,
+  "title": "Steering the Sky: Controls, Propellers and Engines",
+  "when": "Science explainer",
+  "summary": "A car can only go forward, back, left and right, but a plane can also tip its nose up and down and tilt its wings. Pilots steer with little hinged flaps on the wings and tail, while a spinning propeller, which is really a wing that goes round and round, pulls the plane along. In this part you will learn how a plane turns, what all those dials in the cockpit mean, and how engines grew from 12 horsepower to more than 2,000.",
+  "sections": [
+    {
+      "heading": "Three Ways to Spin: Pitch, Roll and Yaw",
+      "paragraphs": [
+        "Pick up a toy airplane, or just hold your hand out flat in front of you with your fingers pointing forward like the nose of a plane. Your hand can move in three different ways, and every pilot in history has had to master all three.",
+        "First, tip your fingertips up and down, like a nod. That is pitch. When a plane pitches up, its nose rises and it starts to climb. When it pitches down, the nose drops and it starts to descend. Second, keep your fingers pointing forward but tilt your hand so your thumb goes up and your little finger goes down, then the other way. That is roll. When a plane rolls, one wingtip rises and the other dips, and the plane is said to be banking. Third, keep your hand flat and swing your fingertips left and right, like shaking your head to say no. That is yaw. The nose points left or right while the wings stay level.",
+        "Engineers describe these movements as turns around three imaginary lines called axes. All three pass through a single point called the centre of gravity, the balance point of the whole plane. If you could hang the plane from that exact spot on a string, it would stay perfectly balanced. The roll axis runs from the nose to the tail. The pitch axis runs from one wingtip to the other. The yaw axis runs straight up and down through the middle of the plane. Every movement a plane makes in the air, from a gentle turn to a loop at an air show, is a mixture of rotations around these three axes.",
+        "A boat on a lake mainly yaws. It turns left or right, and the water holds it up. A car does the same on a road. But a plane floats in a three-dimensional ocean of air, with nothing holding it in place except the forces you met in Part 9. It can tip, tilt and twist in any direction at the same time. That is exactly why early inventors found flying so hard. As you saw in Part 7, the Wright brothers' great breakthrough was realising that a successful airplane must let the pilot control all three axes, and they did it with wing warping for roll, an elevator for pitch and a movable rudder for yaw. Every airplane since has followed the same basic idea, even if the parts have changed.",
+        "Here is a useful way to remember them. Pitch is like nodding yes. Yaw is like shaking your head no. Roll is like tilting your head toward one shoulder when you are puzzled. Try all three with your head now, and you have just flown your first set of aerobatic moves."
+      ]
+    },
+    {
+      "heading": "Little Hinged Flaps With Big Jobs",
+      "paragraphs": [
+        "How does a pilot actually make a plane pitch, roll or yaw? With control surfaces: hinged panels on the wings and tail that can swing up, down or sideways into the flowing air. They work on the same principle as the wing itself. When a surface is angled into the airflow, it bends the air one way, and the air pushes back the other way. Because these surfaces sit far from the centre of gravity, even a small push from them can rotate the whole plane, just as a small push on the end of a long door swings it open easily.",
+        "Ailerons control roll. They are long, narrow flaps on the back edge of each wing, usually near the wingtips. They work as a pair: when one goes down, the other goes up. The aileron that goes down makes its wing curve more and meet the air at a steeper angle, so that wing produces more lift and rises. The aileron that goes up spoils some lift on the other wing, so that wing sinks. One wing up, one wing down: the plane rolls. The word aileron comes from French and means little wing.",
+        "Surprisingly, ailerons were patented long before anyone flew a powered airplane. In 1868 a British inventor named Matthew Piers Watt Boulton, the grandson of the famous engineer Matthew Boulton who worked with James Watt on steam engines, received a British patent describing hinged flaps for controlling the sideways balance of a flying machine. Nobody built them into a working aircraft, and his idea was largely forgotten. In 1904 the French pioneer Robert Esnault-Pelterie fitted aileron-like surfaces to a glider, and over the following years Alberto Santos-Dumont, Henri Farman and Alexander Graham Bell's Aerial Experiment Association all used them. Ailerons were easier to build than wing warping, and they worked better on stiff, strong wings. By about 1911 most new biplanes used them, and by about 1915 almost all monoplanes did too. Wing warping, the Wrights' clever solution, faded away, although the Wrights argued fiercely in court that their patent covered any method of rolling a plane.",
+        "The elevator controls pitch. It is a hinged surface on the back of the horizontal tail, the small wing at the rear of the plane called the horizontal stabilizer. When the pilot raises the elevator, the air pushes the tail down, and because the plane pivots around its centre of gravity, the nose swings up. Lower the elevator and the tail rises while the nose drops. It may sound backwards at first, but think of a seesaw: push one end down and the other end goes up.",
+        "The rudder controls yaw. It is a hinged panel on the back of the tall vertical fin at the tail. Swing the rudder to the left and the airflow pushes the tail to the right, so the nose swings left. It works much like the rudder of a boat, which is where the name comes from.",
+        "Most planes also have other moving surfaces. Flaps, which you met in Part 9, slide out from the back of the wings to give extra lift at low speed for takeoff and landing. Small adjustable tabs called trim tabs let the pilot set the controls so the plane flies straight and level without the pilot holding the controls all the time. Large airliners also have spoilers, panels that pop up from the top of the wing to reduce lift and add drag, helping to slow the plane down after landing."
+      ]
+    },
+    {
+      "heading": "How a Plane Really Turns",
+      "paragraphs": [
+        "Here is a question that puzzles many people: if the rudder points the nose left or right, why don't pilots just use the rudder to turn, like steering a boat? Try it in a plane and something strange happens. The nose swings around, but the plane keeps sliding sideways through the air in its old direction, a bit like a car skidding on ice. It is clumsy, uncomfortable and inefficient. Real pilots turn mainly by banking.",
+        "To understand why, remember that a wing's lift always pushes at right angles to the wing. When the wings are level, lift points straight up and holds the plane against gravity. When the pilot uses the ailerons to roll the plane into a bank, say tipping the left wing down, the lift tilts to the left as well. Now part of the lift still pushes upward, but part of it pushes sideways, toward the inside of the turn. That sideways push is what pulls the plane around in a curve, just as a string pulls a ball whirled around your head into a circle. Scientists call this inward force a centripetal force.",
+        "There is a catch. Because some of the lift now points sideways, less of it is pushing up against gravity. If the pilot does nothing else, the plane will start to sink. So in a turn, the pilot also pulls back gently on the controls, raising the elevator. This tilts the wing to a slightly higher angle of attack, making more lift to make up the difference. In a steep bank of 60 degrees, the wings must produce twice as much lift as in level flight, and everyone on board feels pressed into their seat as if they weighed twice as much. Pilots call this pulling 2 g.",
+        "And the rudder? It has an important supporting role. When the ailerons roll a plane, the wing that rises makes more lift, and more lift also means more drag. That extra drag tugs the rising wing backward, so the nose tends to swing the wrong way, away from the turn. This annoying effect is called adverse yaw. The Wrights discovered it the hard way with their 1902 glider, as you saw in Part 7. Pilots fix it by pressing gently on the rudder pedal on the side of the turn, keeping the nose pointing neatly along the curved path. A well-flown turn like this is called a coordinated turn. In the cockpit, a little ball in a curved glass tube, like a carpenter's spirit level, shows the pilot whether the turn is coordinated. The rule pilots learn is simple: step on the ball, meaning press the rudder pedal on the side the ball has slid to.",
+        "If you ride a bicycle, you already know something about this. To go around a corner on a bike, you do not just turn the handlebars; you lean into the turn. Leaning tilts the forces acting on you so they help carry you around the curve. A plane banking into a turn is doing something similar, but in the air instead of on the road. A typical airliner turns gently, banking only about 25 to 30 degrees, so the passengers barely notice. Fighter planes and aerobatic planes can bank all the way to vertical and pull so hard that pilots feel many times their normal weight."
+      ]
+    },
+    {
+      "heading": "Inside the Cockpit: Stick, Pedals, Throttle and Dials",
+      "paragraphs": [
+        "Climb into the pilot's seat of a small training plane. In front of you, or between your knees, is the main control. In many small planes and fighters it is a control stick, a lever that sticks up from the floor. In many airliners and light planes it is a yoke, which looks a bit like a car steering wheel cut in half and mounted on a column. Both do the same jobs. Push the stick or yoke forward and the elevator tilts down, so the nose drops. Pull it back and the nose rises. Move the stick left, or turn the yoke left, and the ailerons roll the plane to the left. Early aircraft connected these controls to the surfaces with steel cables, pulleys and rods, so the pilot could actually feel the air pushing back through the controls.",
+        "Under your feet are two rudder pedals. Press the left pedal and the rudder swings so the nose yaws left; press the right and it yaws right. On the ground, the same pedals often steer the nosewheel and work the brakes, so pilots taxi around the airport with their feet. It takes some practice: your hands control pitch and roll, while your feet control yaw.",
+        "Beside you is the throttle, a lever that controls engine power. Push it forward for more power, pull it back for less. In a simple propeller plane, more power means more thrust. Interestingly, pilots learn that the throttle and elevator work together. If you want to climb, you usually add power and raise the nose; if you want to go down, you often reduce power and let the nose lower. Speed and height are linked, and learning to balance them is one of the first skills every student pilot practises.",
+        "Then there are the instruments, the dials that tell the pilot what is happening, especially when clouds hide the ground. The airspeed indicator shows how fast the plane is moving through the air. It works by comparing the pressure of air rammed into a small forward-facing tube called a pitot tube, named after the French engineer Henri Pitot who invented a similar tube to measure the flow of water in the 1700s, with the still air pressure around the plane. The faster the plane flies, the harder air pushes into the tube. Airspeed is life for a pilot, because if a plane flies too slowly the wings can stall.",
+        "The altimeter shows height. Inside is a stack of thin, sealed metal capsules containing very little air. As the plane climbs, the air pressure outside drops, the capsules expand slightly, and gears turn the needles. Because air pressure also changes with the weather, pilots adjust their altimeters to the local air pressure, given to them by radio, before takeoff and landing.",
+        "The attitude indicator, also called the artificial horizon, shows whether the plane is climbing, diving or banking. Inside is a gyroscope, a fast-spinning wheel that stays pointing the same way in space, just like the gyroscopes Lawrence Sperry used in his autopilot in Part 11. Lawrence Sperry also helped develop this instrument. On the dial, a small symbol of the plane sits in front of a moving picture of the horizon, blue sky above and brown ground below. Inside a cloud, where the real horizon is invisible, this instrument is the pilot's best friend, because a pilot's own sense of balance can be fooled very easily without anything to look at outside.",
+        "Finally, the magnetic compass shows which direction the plane is heading, and a gyroscopic heading indicator gives a steadier reading that is easier to use in turns. In 1937 the British Royal Air Force chose six key instruments that every plane flown in cloud should have, and that idea spread worldwide. Pilots nicknamed the group the six pack. Today most airliners show the same information on computer screens called glass cockpits, but the basic arrangement still echoes those six round dials."
+      ]
+    },
+    {
+      "heading": "Propellers: Wings That Go Round and Round",
+      "paragraphs": [
+        "Look closely at a propeller blade and you will see something surprising. It is not a flat paddle. Its cross-section is curved, with a rounded front edge and a thinner back edge, exactly like a wing. That is because a propeller really is a wing, or rather two or more wings, spinning around in a circle. As each blade slices through the air at an angle, it produces a force just as a wing does. But instead of lifting upward, this force points forward. A spinning propeller throws a great mass of air backward, and by Newton's third law the air pushes the propeller, and the plane, forward. That forward push is thrust.",
+        "In the 1800s, propellers were mostly thought of like ship propellers, screws twisting through a fluid. The Wright brothers, as you saw in Part 8, realised that no one had a proper theory for airplane propellers, so they treated each blade as a rotating wing and used the data from their own wind tunnel to design it. Their hand-carved wooden propellers of 1903 are estimated to have turned around 75 to 82 percent of the engine's power into useful thrust, a remarkable figure that is not far below many propellers in use today, which can reach about 85 to 90 percent.",
+        "Here is a clever detail. If you look along a propeller blade from the hub to the tip, it is twisted. Near the hub the blade is set at a steep angle, but near the tip it is much flatter. Why? Because when the propeller spins, the tip travels around a much bigger circle than the hub in the same time, so the tip moves through the air much faster. Twisting the blade keeps every part of it meeting the air at a sensible angle of attack. Without the twist, the tip might stall while the part near the hub hardly did any work at all.",
+        "A fixed propeller is a bit like a bicycle stuck in one gear. A blade angle that is good for a slow takeoff is not ideal for fast cruising. So in the 1920s and 1930s engineers developed variable-pitch propellers, whose blades can twist in the hub, with a fine angle for takeoff and climbing like a low gear, and a coarser angle for fast cruising like a high gear. Later constant-speed propellers adjusted the blade angle automatically to keep the engine turning at its best speed. These made planes of the 1930s and 1940s much faster and more efficient.",
+        "Propellers do have a speed limit. Because the tips move fastest of all, they reach close to the speed of sound well before the plane itself does. When that happens, shock waves form at the tips, noise soars, and the propeller wastes much of its power. That is one important reason propeller airplanes rarely fly faster than about 750 kilometres per hour, and why, as Part 15 will show, very fast flight needed a completely different kind of engine."
+      ]
+    },
+    {
+      "heading": "Engines: From 12 Horsepower to 2,000",
+      "paragraphs": [
+        "A propeller is only as good as the engine turning it. The Wright Flyer of 1903 had a four-cylinder engine built by Charlie Taylor that produced about 12 horsepower and weighed around 80 kilograms. Horsepower is a measure of how much work an engine can do each second; one horsepower was originally meant to equal the pulling power of a strong horse. The secret for aircraft was not just power but power-to-weight ratio: how much power you get for each kilogram the plane has to carry. A heavy engine can use up most of its own power just lifting itself.",
+        "One of the most important early answers was the rotary engine, made famous by the French Gnome company, founded by the Seguin brothers. Their Gnome Omega of 1909 had seven cylinders arranged in a star shape like the spokes of a wheel, and it produced about 50 horsepower while weighing about 75 kilograms. The strange thing about a rotary engine is that the crankshaft, which in a car engine spins, was bolted firmly to the airplane and stayed still. Instead, the whole engine, cylinders and all, spun around it with the propeller attached to the front. Imagine a big metal star whirling round in front of the pilot, more than a thousand times a minute.",
+        "Spinning the whole engine sounds crazy, but it had real advantages. The cylinders cooled themselves as they whirled through the air, so no heavy water-cooling system was needed. The spinning mass also acted like a flywheel, helping the engine run smoothly. But there were problems too. The oil was mixed into the fuel and much of it was sprayed straight out of the engine unburned. The usual oil was castor oil, so pilots came home spattered with it, and many swallowed enough of the fumes to upset their stomachs. Most rotaries had no proper throttle, so pilots controlled power partly by switching the ignition on and off with a button nicknamed the blip switch. And the whirling engine acted like a giant gyroscope, making some planes, such as the Sopwith Camel of World War I, swing sharply in one direction during turns. By about 1918 rotaries had reached their limit of around 200 to 240 horsepower.",
+        "Two other kinds of engines took over. Inline and V-shaped engines arranged their cylinders in rows, like a car engine, usually cooled by water and antifreeze flowing through a radiator. These were long and narrow, which suited sleek, streamlined noses. The famous Rolls-Royce Merlin, a V-12 that powered the Spitfire and many other aircraft in World War II, eventually produced well over 1,000 horsepower. Radial engines kept the star-shaped arrangement of cylinders but held them still while the crankshaft turned the propeller, the way a normal engine does. Cooled by air flowing over metal fins, radials were tough and reliable and became the favourite engines of many bombers, fighters and airliners.",
+        "The growth in power was astonishing. The Pratt and Whitney R-2800 Double Wasp radial, introduced in 1939, had 18 cylinders arranged in two rows and produced about 2,000 horsepower, later reaching about 2,400. More than 125,000 were built, powering American fighters such as the P-47 Thunderbolt, the F6F Hellcat and the F4U Corsair, and later airliners such as the Douglas DC-6. That is about 170 times more power than the Wright brothers' first engine, from an engine that weighed well over 1 tonne, roughly fifteen times as much. Power had grown much faster than weight, and that is exactly what made bigger, faster, higher-flying planes possible."
+      ]
+    },
+    {
+      "heading": "One Wing or Two? Why Monoplanes Won",
+      "paragraphs": [
+        "If you could look at a line of airplanes from 1914, most of them would have two wings stacked one above the other, held apart by wooden struts and criss-crossed with tight steel bracing wires. These were biplanes. A few, like Blériot's Type XI from Part 11, were monoplanes with a single wing. Why did designers argue about this for nearly thirty years?",
+        "The biplane's great advantage was strength without weight. Two wings joined by struts and wires form a deep, rigid box, a bit like a bridge truss, a structure made of triangles. Early wings were built of thin wood covered with fabric, and a single long wing of that kind could bend, twist or even snap. In a biplane each wing could be shorter, so the whole structure was lighter and stiffer, yet the two wings together still gave a large area for lift. That was perfect for the weak engines of the time, which needed planes to fly slowly and lift easily. Short wings also made biplanes nimble.",
+        "Early monoplanes had a worrying record. Their single wings were usually braced by wires running to posts above and below the body, and some broke in the air. In 1912, after several monoplane crashes, Britain's army briefly banned its pilots from flying monoplanes. For the next two decades, the biplane ruled.",
+        "But biplanes had a big disadvantage: drag. All those struts and wires stuck out into the wind, and every one of them slowed the plane down. Worse, air flowing over one wing disturbed the air around the other, so two wings did not give twice the lift of one. As engines grew more powerful and planes flew faster, this drag mattered more and more, because drag grows rapidly with speed.",
+        "The solution came from new materials and new ways of building. In 1915 the German engineer Hugo Junkers built an airplane entirely of metal, which you will meet in Part 13. Over the following years designers learned to build thick, strong wings with metal spars inside, a design called a cantilever wing, which needs no outside struts or wires at all. Even better, they covered wings and bodies with thin aluminium sheets that carried part of the load themselves, a method called stressed skin, like the shell of an egg sharing the weight. With strong metal wings, the main reason for biplanes disappeared.",
+        "By the mid-1930s sleek all-metal monoplanes, with retractable landing gear tucked inside the wings, were taking over. The Boeing 247 and Douglas DC-3 airliners you will meet in Part 14, and fighters like the Hawker Hurricane and Supermarine Spitfire, were all monoplanes. A few biplanes, such as the Gloster Gladiator and the Italian Fiat CR.42, still flew in the early part of World War II, and biplane trainers like the de Havilland Tiger Moth taught thousands of pilots to fly. Today biplanes are mostly found at air shows doing aerobatics, where their strength and agility still shine.",
+        "So by 1914 the basic ingredients of the airplane were in place: three-axis controls, ailerons, elevators and rudders, propellers designed as spinning wings, and engines getting lighter and more powerful every year. Yet the world was about to change in a dark way. In the summer of 1914, war broke out in Europe. Governments that had treated airplanes as curiosities suddenly wanted thousands of them, and within four years airplanes would be transformed faster than anyone had imagined. That story begins in Part 13."
+      ]
+    }
+  ],
+  "deepDive": "Why does banking turn a plane, and what does it cost? In a level, coordinated turn at bank angle θ, the lift vector tilts by θ. Its vertical component, L cos θ, must still equal the weight W, so the wing must make L = W / cos θ. The ratio L/W is called the load factor, n. At 30 degrees n is about 1.15, at 45 degrees about 1.41, and at 60 degrees exactly 2, so the structure and everyone aboard feel twice their normal weight. Because stall speed rises with the square root of the load factor, a plane that stalls at 100 km/h in level flight stalls at about 141 km/h in a 60-degree banked turn. Steep, slow turns close to the ground have caused many accidents for exactly this reason, which is why flight training stresses airspeed in turns. The horizontal component, L sin θ, supplies the centripetal force; the turn radius equals v²/(g tan θ), so faster planes need either steeper banks or much wider circles. A jet at about 900 km/h banked at 25 degrees turns in a circle with a radius of roughly 14 kilometres. Propellers have their own physics. Each blade section meets air coming from a combination of the plane's forward speed and the blade's rotational speed; the faster the plane flies, the more the blade must be twisted forward to keep a good angle of attack, which is why variable-pitch propellers mattered so much in the 1930s. Engine history is a story of specific power. Taylor's 1903 engine gave roughly 0.15 horsepower per kilogram. The Gnome Omega gave about 0.67. Large radials of the 1940s reached about 2 horsepower per kilogram. Historians also debate credit for ailerons. Matthew Piers Watt Boulton's 1868 patent described the principle clearly, but there is no evidence later builders knew of it, and practical development came from Esnault-Pelterie, Farman, the Aerial Experiment Association and others. The Wrights argued that their 1906 patent covered any form of lateral control. Courts in the United States largely agreed with them, while French and German courts did not, and the dispute is still discussed as an example of how patents can both reward and slow innovation.",
+  "funFact": "Pilots of rotary-engined planes in World War I were sprayed with so much unburned castor oil from the spinning engines that many suffered upset stomachs, because castor oil is also a strong laxative.",
+  "check": {
+    "q": "Which control surface makes a plane roll by moving up on one wing and down on the other?",
+    "a": "The ailerons",
+    "wrong": [
+      "The rudder",
+      "The elevator",
+      "The throttle"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Aircraft Rotations",
+      "publisher": "NASA Glenn Research Center",
+      "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/aircraft-rotations/"
+    },
+    {
+      "title": "Aileron",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aileron"
+    },
+    {
+      "title": "Flight instruments",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Flight_instruments"
+    },
+    {
+      "title": "Propeller (aeronautics)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Propeller_(aeronautics)"
+    },
+    {
+      "title": "Rotary engine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rotary_engine"
+    },
+    {
+      "title": "Gnome et Rhône",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gnome_et_Rhône"
+    },
+    {
+      "title": "Pratt & Whitney R-2800 Double Wasp",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pratt_%26_Whitney_R-2800_Double_Wasp"
+    },
+    {
+      "title": "Biplane",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Biplane"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Diagram of an airplane showing the three axes of rotation: pitch, roll and yaw, with the ailerons, elevator and rudder labelled",
+      "search": "aircraft pitch roll yaw axes diagram"
+    },
+    {
+      "want": "Museum photograph of a Gnome rotary aircraft engine from about 1909–1915, showing its star-shaped ring of cylinders",
+      "search": "Gnome rotary engine museum"
+    },
+    {
+      "want": "Photograph of a classic cockpit instrument panel with the six basic round flight instruments (airspeed indicator, attitude indicator, altimeter and others)",
+      "search": "six pack flight instruments cockpit"
+    }
+  ]
+}

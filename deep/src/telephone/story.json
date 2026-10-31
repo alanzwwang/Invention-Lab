@@ -1,0 +1,469 @@
+{
+  "slug": "telephone",
+  "title": "The Telephone",
+  "emoji": "☎️",
+  "tagline": "How humans learned to send their voices across the world",
+  "intro": "Imagine needing to tell your friend in another city something important. Today you would just call. But for almost all of human history, a message could only travel as fast as a runner, a horse, a ship, or a puff of smoke. In this Deep Dive we follow one of the greatest journeys in invention history: from signal fires on hilltops and clacking telegraph keys, through the fierce race between Alexander Graham Bell, Elisha Gray and Antonio Meucci, to busy switchboards full of operators, spinning rotary dials, giant cables lying on the bottom of the ocean, and finally phones you can carry in your pocket. Across 20 parts you will learn how a telephone turns your voice into electricity and back again, meet the people who built it (and argued about who deserves credit), discover how it changed homes, jobs and emergencies, and peek at what calling might look like in the future. Pick up the receiver — let's begin!",
+  "outline": [
+    {
+      "n": 1,
+      "title": "Smoke, Drums and Fire on the Hills",
+      "when": "Ancient times – 1700s",
+      "covers": [
+        "The basic problem: before electricity, a message could travel no faster than a person, animal or ship",
+        "Signal fires and beacon chains: Greek beacon chain described in Aeschylus's play Agamemnon (458 BCE, a story, not a record), beacon towers along China's Great Wall, England's beacons warning of the Spanish Armada in 1588",
+        "Talking drums of West Africa that imitate the tones of spoken languages",
+        "Runners and riders: Persian royal messengers, the Inca chasqui relay runners, and the legend of the runner from Marathon (label as legend)",
+        "Carrier pigeons used to carry messages for thousands of years",
+        "Why all these systems were limited: weather, darkness, only simple pre-agreed messages, very slow over long distances"
+      ],
+      "keyFacts": [
+        "Aeschylus's Agamemnon was first performed in 458 BCE and describes a chain of fires carrying news of Troy's fall — it is a play, so it is a literary story",
+        "The Inca road system had relay runners (chasqui) who could reportedly carry messages around 240 km (150 miles) in a day",
+        "Beacon fires were prepared across England to warn of the Spanish Armada in 1588"
+      ],
+      "hook": "End by wondering: what if a message could travel faster than any runner — and by the 1790s, a Frenchman had an idea that used towers and moving arms."
+    },
+    {
+      "n": 2,
+      "title": "Towers with Arms and Sparks in a Jar",
+      "when": "1790s – 1830s",
+      "covers": [
+        "Claude Chappe and his brothers build the optical (semaphore) telegraph in France; first line Paris–Lille opened in 1794",
+        "How the semaphore worked: towers on hilltops with movable wooden arms, read by operators with telescopes",
+        "Napoleon's use of the system and its spread across Europe; its limits (fog, night, need for many towers and workers)",
+        "Early electricity discoveries that made the next step possible: Alessandro Volta's battery (1800), Hans Christian Ørsted finds electric current moves a compass needle (1820)",
+        "Joseph Henry and Michael Faraday's work on electromagnets and induction (around 1830–1831)",
+        "The big idea: electricity travels along a wire almost instantly — could it carry messages?"
+      ],
+      "keyFacts": [
+        "Chappe's Paris–Lille line, about 230 km (140 miles) long, began working in 1794",
+        "At its peak France's optical telegraph network had over 500 stations",
+        "Volta announced his 'voltaic pile', the first battery, in 1800"
+      ],
+      "hook": "End with inventors in Britain and America racing to make electricity 'write' messages along a wire."
+    },
+    {
+      "n": 3,
+      "title": "Lightning Messages: The Electric Telegraph",
+      "when": "1830s – 1860s",
+      "covers": [
+        "William Cooke and Charles Wheatstone patent a needle telegraph in Britain (1837) and use it along railways",
+        "Samuel Morse, a painter turned inventor, and his partner Alfred Vail develop a single-wire telegraph and the dot-dash code",
+        "May 24, 1844: the message 'What hath God wrought' sent from Washington, D.C., to Baltimore",
+        "How the telegraph works simply: closing a switch (the key) sends current that pulls an electromagnet at the far end, making clicks",
+        "Telegraph operators, telegrams, and the spread of telegraph lines alongside railways; Western Union forms (1856) and the first US transcontinental telegraph line (1861)",
+        "Its big limit: only trained operators could use it, and you could not hear a human voice"
+      ],
+      "keyFacts": [
+        "Cooke and Wheatstone received their British patent in 1837",
+        "Morse's first public long-distance message 'What hath God wrought' was sent on May 24, 1844, about 60 km (40 miles)",
+        "The first US transcontinental telegraph was completed in October 1861, ending the Pony Express just two days later"
+      ],
+      "hook": "End by noting that land was not the only challenge — an ocean stood between Europe and America."
+    },
+    {
+      "n": 4,
+      "title": "A Wire Across the Ocean",
+      "when": "1850 – 1866",
+      "covers": [
+        "Early undersea cables: across the English Channel (1850 failed, 1851 worked)",
+        "Cyrus Field's determination to lay a transatlantic telegraph cable",
+        "1858: the first transatlantic cable works; Queen Victoria and President James Buchanan exchange messages; the cable fails after about three weeks",
+        "William Thomson (later Lord Kelvin) and the science of signals weakening and smearing in long cables; his sensitive mirror galvanometer",
+        "The giant steamship Great Eastern lays the successful 1866 cable and also recovers and finishes the lost 1865 cable",
+        "Gutta-percha, a tree sap used to insulate cables underwater"
+      ],
+      "keyFacts": [
+        "Queen Victoria's 98-word greeting in 1858 took about 16 hours to transmit",
+        "The 1858 cable failed after about three weeks of service",
+        "The 1866 cable, laid by the Great Eastern, worked lastingly — news could cross the Atlantic in minutes instead of about 10 days by ship"
+      ],
+      "hook": "End with the next dream: if electricity can carry clicks across an ocean, could it carry a human voice?"
+    },
+    {
+      "n": 5,
+      "title": "Dreamers of the Talking Wire",
+      "when": "1850s – 1875",
+      "covers": [
+        "Charles Bourseul, a French telegraph worker, describes the idea of sending speech electrically in 1854 but does not build it",
+        "Johann Philipp Reis, a German teacher, builds a device he calls the 'Telephon' (1861) that sends musical tones and some unclear speech; famous test sentence 'Das Pferd frisst keinen Gurkensalat' ('The horse does not eat cucumber salad')",
+        "Antonio Meucci, an Italian inventor living on Staten Island, New York, works for years on a voice-carrying device he calls the 'telettrofono'",
+        "Meucci's 1871 patent caveat (a notice of an invention in progress) and his poverty: he could not afford to renew it after 1874",
+        "The 'harmonic telegraph' race: inventors including Bell and Elisha Gray try to send many telegraph messages at once using different musical tones — a path that led toward the telephone",
+        "Elisha Gray introduced: experienced inventor, co-founder of the company that became Western Electric"
+      ],
+      "keyFacts": [
+        "Reis demonstrated his Telephon in Frankfurt in 1861",
+        "Meucci filed a patent caveat in December 1871 and let it lapse after 1874",
+        "Gray co-founded Gray & Barton in 1869, which became Western Electric"
+      ],
+      "hook": "End by introducing a young teacher of deaf students in Boston who was fascinated by how sound and speech work."
+    },
+    {
+      "n": 6,
+      "title": "Alexander Graham Bell, Teacher of Sound",
+      "when": "1847 – 1875",
+      "covers": [
+        "Bell's birth in Edinburgh, Scotland (1847); his family's work on speech — his father Alexander Melville Bell created 'Visible Speech', a system of symbols for speech sounds",
+        "His mother was hard of hearing (later deaf); the family moves to Canada (Brantford, Ontario) in 1870",
+        "Bell teaches deaf students in Boston; meets Mabel Hubbard, a deaf student who later becomes his wife (1877)",
+        "Backers Gardiner Greene Hubbard (Mabel's father) and Thomas Sanders fund his harmonic telegraph experiments",
+        "Thomas Watson, a skilled young electrician and machinist, becomes his assistant",
+        "June 2, 1875: a stuck reed twangs and Bell hears the sound come through the wire — the clue that a continuous, changing current could carry sound"
+      ],
+      "keyFacts": [
+        "Bell was born on March 3, 1847, in Edinburgh",
+        "Bell became a professor of vocal physiology at Boston University in 1873",
+        "The twanging-reed discovery happened on June 2, 1875"
+      ],
+      "hook": "End with Bell rushing to turn his idea into a patent — not knowing Elisha Gray was about to visit the same patent office on the same day."
+    },
+    {
+      "n": 7,
+      "title": "The Same Day at the Patent Office",
+      "when": "February – March 1876",
+      "covers": [
+        "February 14, 1876: Bell's lawyer files his patent application; Elisha Gray files a caveat for a telephone using a liquid transmitter on the same day",
+        "What a patent and a caveat are, and why the order mattered",
+        "US Patent No. 174,465 granted to Bell on March 7, 1876",
+        "March 10, 1876: Bell speaks 'Mr. Watson — come here — I want to see you' using a liquid (water and acid) transmitter, and Watson hears it in another room",
+        "The controversy: Bell's working transmitter resembled the idea in Gray's caveat, and some historians question whether Bell saw Gray's papers; present this fairly as debated, not proven",
+        "Bell's own notebook entry for that day"
+      ],
+      "keyFacts": [
+        "Both Bell's application and Gray's caveat were filed on February 14, 1876; which arrived first is still debated",
+        "Bell's patent number 174,465 was issued on March 7, 1876",
+        "The famous first sentence was spoken on March 10, 1876, three days after the patent was granted"
+      ],
+      "hook": "End with Bell holding a patent and a working device — but needing to convince the world that a talking wire was more than a toy."
+    },
+    {
+      "n": 8,
+      "title": "Showing the World",
+      "when": "1876 – 1878",
+      "covers": [
+        "The 1876 Centennial Exhibition in Philadelphia: judges including Emperor Dom Pedro II of Brazil and William Thomson are amazed by Bell's demonstration",
+        "Long-distance tests in Ontario, Canada (August 1876), including a one-way call over about 13 km (8 miles) between Brantford and Paris, Ontario",
+        "Bell and Watson's public lectures and demonstrations; Bell demonstrates the telephone to Queen Victoria at Osborne House in January 1878",
+        "The Bell Telephone Company is founded in July 1877; Bell and Mabel Hubbard marry the same month",
+        "Western Union and the $100,000 offer story: explain that the famous memo calling the telephone a useless 'toy' is almost certainly fake, though Western Union did turn down buying the patent and later started its own phone business",
+        "Early phones were rented in pairs and connected directly to each other — no network yet"
+      ],
+      "keyFacts": [
+        "The Centennial Exhibition opened in Philadelphia in 1876 to mark 100 years since the Declaration of Independence",
+        "The Bell Telephone Company was organized on July 9, 1877",
+        "By around 1880 there were roughly 50,000 telephones in the United States"
+      ],
+      "hook": "End by asking the big science question: how does a voice actually turn into electricity and back?"
+    },
+    {
+      "n": 9,
+      "title": "How a Telephone Turns Your Voice into Electricity",
+      "when": "The science (1876 – 1880s inventions)",
+      "covers": [
+        "Sound is vibration: sound waves are pushes and pulls of air that our eardrum picks up",
+        "The transmitter (mouthpiece): a thin diaphragm vibrates and changes an electric current to match the sound wave — an 'analog' copy of the voice",
+        "The receiver (earpiece): the changing current pulls on an electromagnet, which shakes a diaphragm that recreates the sound",
+        "Better microphones: the carbon transmitter — Thomas Edison (around 1877–1878), Emile Berliner and David Edward Hughes each worked on carbon or loose-contact microphones; carbon grains squeezed harder let more current flow",
+        "Why the carbon microphone was so important: it made voices loud and clear over longer wires and was used in phones for about 100 years",
+        "Edison promoted saying 'Hello' on the phone; Bell preferred 'Ahoy'"
+      ],
+      "keyFacts": [
+        "Sound travels through air at about 343 metres (1,125 feet) per second; electrical signals in wire travel vastly faster",
+        "Carbon-granule microphones were standard in telephones from the 1880s until roughly the 1980s",
+        "Edison's carbon transmitter was developed around 1877–1878"
+      ],
+      "hook": "End by noting that better phones also meant bigger fights over who owned the invention."
+    },
+    {
+      "n": 10,
+      "title": "Patent Wars: Who Really Invented It?",
+      "when": "1877 – 1888, and later",
+      "covers": [
+        "Western Union starts a rival phone company using Gray's and Edison's designs; Bell's company sues, and they settle in 1879 — Western Union leaves the phone business",
+        "Bell's company fought around 600 lawsuits over its patents",
+        "Daniel Drawbaugh, a Pennsylvania mechanic who claimed an earlier phone; the US Supreme Court's 1888 'Telephone Cases' ruled for Bell by a 4–3 vote",
+        "Antonio Meucci's case: a government lawsuit against Bell's patent was underway when Meucci died in 1889 and the case was dropped after the patent expired",
+        "In 2002 the US House of Representatives passed a resolution honoring Meucci's work on the telephone (it did not legally change who holds the patent)",
+        "A fair conclusion: many people contributed; Bell got the key patent and built the first successful telephone business"
+      ],
+      "keyFacts": [
+        "The Western Union settlement with Bell's company came in November 1879",
+        "The Supreme Court decided the Telephone Cases in 1888 by a 4–3 vote in Bell's favor",
+        "House Resolution 269 honoring Meucci passed on June 11, 2002"
+      ],
+      "hook": "End with a practical problem: if everyone gets a phone, you cannot run a wire from every house to every other house."
+    },
+    {
+      "n": 11,
+      "title": "Hello, Central! Switchboards and Operators",
+      "when": "1878 – 1920s",
+      "covers": [
+        "Why you need an exchange: a central place where all lines meet and can be connected",
+        "The first commercial switchboard in New Haven, Connecticut, opened January 28, 1878, by George Coy, with 21 subscribers; the first phone directory followed there",
+        "How a manual switchboard worked: lamps or drops, cords, plugs and jacks",
+        "Early operators were teenage boys who were often rude and played pranks; Emma Nutt becomes the first woman operator in Boston on September 1, 1878, and women soon became the norm",
+        "Operators' strict rules, headsets and long hours; the 'Hello Girls' — American women operators who served in France in World War I",
+        "Party lines (many homes sharing one line, each with its own ring pattern) and the first pay phone (William Gray, Hartford, Connecticut, 1889)"
+      ],
+      "keyFacts": [
+        "New Haven's first commercial exchange opened January 28, 1878, with 21 subscribers",
+        "Emma Nutt started work as an operator on September 1, 1878, in Boston",
+        "More than 220 American women served as 'Hello Girls' telephone operators with the US Army in World War I"
+      ],
+      "hook": "End with an angry undertaker in Kansas City who decided he didn't want human operators at all."
+    },
+    {
+      "n": 12,
+      "title": "Spinning Dials and Automatic Switches",
+      "when": "1889 – 1960s",
+      "covers": [
+        "Almon Strowger, a Kansas City undertaker, invents an automatic switch (patent 1891); the story that a rival's wife, an operator, sent his customers' calls away is a popular legend — label it as such",
+        "The first automatic exchange opened in La Porte, Indiana, in 1892",
+        "How pulse dialing works: the rotary dial interrupts the current a set number of times (dial 3 = 3 clicks) and stepping switches move one step per click",
+        "Rotary dials spread through the early 1900s; the Bell System adopted dial service widely from 1919 onward",
+        "Phone numbers, exchange names (like 'PEnnsylvania 6-5000'), area codes (North American plan, 1947) and direct distance dialing (first in 1951)",
+        "Touch-Tone keypads (1963) use pairs of musical tones for each button (DTMF); operators' jobs slowly shrink"
+      ],
+      "keyFacts": [
+        "Strowger's automatic switch patent was granted in 1891",
+        "The first US customer-dialed long-distance call was made on November 10, 1951, from Englewood, New Jersey, to Alameda, California",
+        "The Bell System introduced Touch-Tone service to customers in November 1963"
+      ],
+      "hook": "End by noting that automatic switches only help if the voice can survive the long trip across a whole continent."
+    },
+    {
+      "n": 13,
+      "title": "Coast to Coast and Across the Sea by Radio",
+      "when": "1885 – 1940s",
+      "covers": [
+        "The American Telephone and Telegraph Company (AT&T) is created in 1885 to build long-distance lines; Theodore Vail's idea of one 'universal service' Bell System",
+        "Why voices fade over long wires, and the fixes: loading coils (Michael Pupin and George Campbell, around 1899–1900) and vacuum-tube amplifiers (from Lee de Forest's Audion, improved by Bell engineers)",
+        "January 25, 1915: first transcontinental call — Bell in New York repeats his famous line to Watson in San Francisco, who jokes it would take him a week to get there",
+        "1927: commercial radio-telephone service between New York and London, costing $75 for three minutes",
+        "The phone at home becomes normal; phone booths spread in cities",
+        "Bell's death in 1922 — telephone service in the US and Canada was reportedly silenced for a minute during his funeral"
+      ],
+      "keyFacts": [
+        "AT&T was founded in 1885 as a subsidiary for long-distance service",
+        "The first transcontinental call on January 25, 1915, used a line about 5,400 km (3,400 miles) long",
+        "The 1927 transatlantic radio-telephone service cost $75 for the first three minutes"
+      ],
+      "hook": "End with engineers still dreaming of a voice cable along the ocean floor, like the old telegraph cables."
+    },
+    {
+      "n": 14,
+      "title": "Voices Under the Ocean and Light in a Glass Thread",
+      "when": "1947 – today",
+      "covers": [
+        "Bell Labs invents the transistor (1947), later making equipment smaller and cheaper",
+        "TAT-1, the first transatlantic telephone cable (1956), with underwater repeaters (amplifiers) along the seabed; it carried 36 calls at once",
+        "Telstar (1962), the first satellite to relay live TV and telephone calls across the Atlantic; why satellites cause a slight echo/delay",
+        "Fiber optics explained simply: voices turned into flashes of light travel through hair-thin glass; Charles Kao's 1966 idea (Nobel Prize 2009)",
+        "TAT-8 (1988), the first transatlantic fiber-optic cable, and today's hundreds of undersea cables carrying almost all intercontinental internet and call traffic",
+        "Cable ships, repairs, and real dangers to cables (ship anchors and fishing nets cause most breaks; sharks have occasionally bitten cables)"
+      ],
+      "keyFacts": [
+        "TAT-1 began service in September 1956 and carried 36 telephone channels",
+        "Telstar 1 was launched on July 10, 1962",
+        "Charles Kao shared the 2009 Nobel Prize in Physics for work on fiber-optic communication"
+      ],
+      "hook": "End by zooming back from the ocean floor to ordinary homes: how did all these connections change everyday life?"
+    },
+    {
+      "n": 15,
+      "title": "How the Phone Changed Everyday Life",
+      "when": "1880s – 1990s",
+      "covers": [
+        "Business changes: offices, stock markets, stores taking orders by phone, newspapers getting news faster",
+        "Farmers and rural communities building their own phone lines, sometimes even using barbed-wire fences",
+        "Emergency numbers: 999 in London (1937, the world's first) and 911 in the US (first call February 16, 1968, in Haleyville, Alabama)",
+        "Jobs for women: telephone operating became one of the largest jobs open to women",
+        "Friendships and family: teens on long phone calls, long-distance calls to relatives, phone etiquette",
+        "Helping deaf people: Robert Weitbrecht, a deaf physicist, develops a coupler for teletypewriters (TTY) in 1964; later relay services"
+      ],
+      "keyFacts": [
+        "The UK's 999 emergency number started in London on June 30, 1937",
+        "The first US 911 call was made on February 16, 1968, in Haleyville, Alabama",
+        "By 1946 about half of US households had a telephone"
+      ],
+      "hook": "End with a warning that the telephone also created new problems — some of which we still face today."
+    },
+    {
+      "n": 16,
+      "title": "Problems, Fights and Hard Questions",
+      "when": "1880s – today",
+      "covers": [
+        "Monopoly: the Bell System controlled most US phone service; you even had to rent your phone from it; the Carterfone decision (1968) allowed other devices to connect",
+        "AT&T's breakup on January 1, 1984, into regional 'Baby Bells' — leading to more competition",
+        "Privacy: operators and party-line neighbors could listen in; wiretapping and laws about it",
+        "Phone 'phreaks' who tricked the network with a 2600-hertz tone, and why it was illegal",
+        "Today's problems: scam and robocalls, distracted driving, and e-waste from discarded phones",
+        "A fair look at Bell himself: he did great work for deaf people's education but also pushed oralism (teaching speech instead of sign language), which many Deaf people opposed, and he supported eugenics ideas that are now rejected"
+      ],
+      "keyFacts": [
+        "The US Federal Communications Commission's Carterfone decision was in 1968",
+        "AT&T's breakup took effect on January 1, 1984, creating seven regional companies",
+        "Phreaks discovered that a 2600 Hz tone could control long-distance switches"
+      ],
+      "hook": "End by noting one big limit had never been solved: the phone was stuck to the wall by a wire."
+    },
+    {
+      "n": 17,
+      "title": "Phones That Leave the House",
+      "when": "1946 – 1983",
+      "covers": [
+        "Radio telephones in cars: AT&T's Mobile Telephone Service starts in St. Louis on June 17, 1946 — heavy equipment and only a few channels per city",
+        "The cellular idea (1947, Bell Labs engineers Douglas Ring and W. Rae Young): divide a city into small 'cells', each with its own tower, so radio channels can be reused",
+        "April 3, 1973: Martin Cooper of Motorola makes the first public handheld cellular phone call in New York — to Joel Engel, his rival at Bell Labs",
+        "The first commercial cellular network: NTT in Tokyo, 1979; Nordic NMT in 1981",
+        "The US launch of AMPS cellular service in Chicago on October 13, 1983, and the Motorola DynaTAC 8000X 'brick' phone costing $3,995",
+        "Hedy Lamarr and George Antheil's 1942 frequency-hopping patent as an early idea in radio communication — explain fairly that it was one ancestor of later radio techniques, not the invention of cell phones"
+      ],
+      "keyFacts": [
+        "Martin Cooper's first public handheld cellular call was on April 3, 1973; the prototype weighed about 1.1 kg (2.5 pounds)",
+        "The DynaTAC 8000X went on sale in 1983 for $3,995 and offered about 30 minutes of talk time",
+        "Japan's NTT launched the first commercial cellular network in Tokyo in 1979"
+      ],
+      "hook": "End with the brick phone shrinking, getting cheaper — and suddenly learning to send text, not just voice."
+    },
+    {
+      "n": 18,
+      "title": "Pocket Phones for Everyone",
+      "when": "1990s – 2000s",
+      "covers": [
+        "How a cell phone call works: your phone talks by radio to the nearest tower; calls are 'handed off' from tower to tower as you move",
+        "Analog (1G) to digital (2G): GSM launches in Finland in 1991; digital calls are clearer, more private and use the radio waves more efficiently",
+        "The first text message, 'Merry Christmas', sent by Neil Papworth on December 3, 1992",
+        "Famous phones: Nokia's tough models, the Motorola StarTAC flip phone (1996), the Motorola Razr (2004); prepaid phones spreading mobile service around the world",
+        "Mobile phones in places with few landlines — many communities in Africa and Asia skipped landlines entirely",
+        "Brief look at 3G (2001), 4G (around 2009) and 5G (2019), then a clear handoff: phones becoming pocket computers is the story of the separate Smartphone Deep Dive"
+      ],
+      "keyFacts": [
+        "The first GSM call was made in Finland on July 1, 1991, by former Prime Minister Harri Holkeri",
+        "The first SMS text was sent on December 3, 1992",
+        "Today there are more mobile phone subscriptions in the world than people (over 8 billion)"
+      ],
+      "hook": "End by asking: now that almost everyone has a phone, where does calling go next?"
+    },
+    {
+      "n": 19,
+      "title": "The Future of Talking at a Distance",
+      "when": "2000s – the future",
+      "covers": [
+        "Calls over the internet (VoIP): voices broken into data packets; Skype (2003) and today's video calling apps",
+        "The decline of landlines and phone booths — and why some people and emergency services still value them",
+        "Phones that connect directly to satellites, for places with no towers",
+        "6G research (expected around 2030) and networks that are faster with less delay",
+        "Real-time translation, better accessibility (live captions for deaf and hard-of-hearing people), and ideas like holographic calls (present as ideas, not reality)",
+        "Challenges ahead: energy use, e-waste, keeping cables and networks safe, privacy"
+      ],
+      "keyFacts": [
+        "Skype launched in 2003",
+        "Many countries plan to switch off old copper landline networks; the UK's planned switch to digital lines is set for around 2027",
+        "6G networks are widely expected to start appearing around 2030"
+      ],
+      "hook": "End by inviting the reader to look back at the whole journey from signal fire to satellite."
+    },
+    {
+      "n": 20,
+      "title": "From Signal Fire to Satellite: Putting It All Together",
+      "when": "Ancient times – today",
+      "covers": [
+        "A quick timeline recap: beacons → optical telegraph → electric telegraph → undersea cables → telephone → switchboards → dials → fiber → mobile",
+        "The big science idea in one line: turn sound into a signal, send it, turn it back into sound",
+        "Fair credit: Bell, Gray, Meucci, Reis, Edison, Watson, the operators and engineers — inventions are built by many people",
+        "How the telephone led to other inventions (Bell Labs' transistor, information theory by Claude Shannon in 1948, the internet's cables)",
+        "What stayed the same: people wanting to hear each other's voices",
+        "A closing challenge to the reader: what problem in communication would you invent a solution for?"
+      ],
+      "keyFacts": [
+        "From 1844 to 1973 messages went from telegraph clicks to handheld calls — about 130 years",
+        "Claude Shannon published his information theory paper at Bell Labs in 1948",
+        "Bell's patent 174,465 is often called one of the most valuable patents ever issued"
+      ],
+      "hook": "End the whole story with a warm sign-off — like hanging up after a great call."
+    }
+  ],
+  "people": [
+    "Aeschylus (about 525–456 BCE) — Greek playwright whose play Agamemnon describes a chain of signal fires",
+    "Claude Chappe (1763–1805) — French engineer who, with his brothers, built the optical semaphore telegraph",
+    "Alessandro Volta (1745–1827) — Italian physicist who invented the first battery in 1800",
+    "Hans Christian Ørsted (1777–1851) — Danish physicist who discovered that electric current affects a magnet (1820)",
+    "Michael Faraday (1791–1867) — English scientist who discovered electromagnetic induction",
+    "Joseph Henry (1797–1878) — American scientist who built powerful electromagnets and early telegraph experiments",
+    "William Fothergill Cooke (1806–1879) and Charles Wheatstone (1802–1875) — British co-inventors of a needle telegraph patented in 1837",
+    "Samuel Morse (1791–1872) — American painter and inventor who developed the US electric telegraph and, with Vail, Morse code",
+    "Alfred Vail (1807–1859) — Morse's partner who did much of the mechanical work and helped create the code",
+    "Cyrus Field (1819–1892) — American businessman who drove the transatlantic telegraph cable project",
+    "William Thomson, Lord Kelvin (1824–1907) — Scottish-Irish physicist who solved cable signalling problems and later praised Bell's telephone",
+    "Charles Bourseul (1829–1912) — French telegraph worker who described the idea of electrical speech in 1854",
+    "Johann Philipp Reis (1834–1874) — German teacher who built a 'Telephon' in 1861 that sent tones and some speech",
+    "Antonio Meucci (1808–1889) — Italian-American inventor who developed a voice-carrying 'telettrofono' and filed a caveat in 1871",
+    "Elisha Gray (1835–1901) — American inventor and Western Electric co-founder who filed a telephone caveat the same day as Bell's patent",
+    "Alexander Graham Bell (1847–1922) — Scottish-born teacher of the deaf and inventor who received the key 1876 telephone patent",
+    "Alexander Melville Bell (1819–1905) — Bell's father, speech expert who created Visible Speech",
+    "Mabel Hubbard Bell (1857–1923) — Bell's wife, deaf from childhood scarlet fever, important supporter of his work",
+    "Gardiner Greene Hubbard (1822–1897) — lawyer, Mabel's father, Bell's financial backer and first president of the Bell Telephone Company",
+    "Thomas A. Watson (1854–1934) — Bell's assistant who built the devices and heard the first famous call",
+    "Dom Pedro II (1825–1891) — Emperor of Brazil who praised Bell's telephone at the 1876 Centennial Exhibition",
+    "Thomas Edison (1847–1931) — American inventor who improved the telephone with a carbon transmitter",
+    "Emile Berliner (1851–1929) — German-American inventor who developed an early microphone (and later the gramophone)",
+    "David Edward Hughes (1831–1900) — inventor who demonstrated a carbon microphone in 1878",
+    "Daniel Drawbaugh (1827–1911) — Pennsylvania mechanic who claimed an earlier telephone; lost at the Supreme Court in 1888",
+    "George W. Coy (1836–1915) — built the first commercial telephone switchboard in New Haven, 1878",
+    "Emma Nutt (1860–1915) — the first woman telephone operator, hired in Boston in 1878",
+    "Almon Strowger (1839–1902) — Kansas City undertaker who invented the automatic telephone switch",
+    "Theodore Vail (1845–1920) — business leader who built the Bell System and AT&T",
+    "Michael Pupin (1858–1935) — Serbian-American physicist who patented loading coils for long-distance lines",
+    "Lee de Forest (1873–1961) — American inventor of the Audion vacuum tube, later developed into amplifiers",
+    "Charles Kao (1933–2018) — engineer who showed glass fibers could carry signals far; Nobel Prize 2009",
+    "Claude Shannon (1916–2001) — Bell Labs mathematician who founded information theory in 1948",
+    "Robert Weitbrecht (1920–1983) — deaf physicist who made TTY phone communication possible for deaf people",
+    "Hedy Lamarr (1914–2000) — actress and inventor who co-patented a frequency-hopping idea with composer George Antheil in 1942",
+    "Douglas H. Ring and W. Rae Young — Bell Labs engineers who proposed the cellular network idea in 1947",
+    "Martin Cooper (born 1928) — Motorola engineer who made the first public handheld cellular call in 1973",
+    "Joel Engel (born 1936) — Bell Labs engineer who received Cooper's famous first call",
+    "Neil Papworth (born 1969) — engineer who sent the first SMS text message in 1992"
+  ],
+  "glossary": [
+    "signal — any sign (light, sound, electricity, radio) used to carry a message",
+    "telegraph — a system that sends coded messages (like Morse code) over a distance, usually by electric wire",
+    "Morse code — a code of short and long signals (dots and dashes) for each letter and number",
+    "electromagnet — a coil of wire that becomes a magnet when electricity flows through it",
+    "diaphragm — a thin, flexible disk in a phone that vibrates with sound",
+    "transmitter — the part of a phone you speak into; it turns sound into a changing electric signal",
+    "receiver — the part of a phone you listen to; it turns the electric signal back into sound",
+    "analog — a signal that changes smoothly, like a copy of the shape of a sound wave",
+    "digital — a signal made of numbers (ones and zeros)",
+    "patent — a government document giving an inventor the right to control their invention for a set time",
+    "caveat — an old US patent office notice saying an inventor is working on an idea and plans to patent it",
+    "exchange — a central place where telephone lines meet and are connected to each other",
+    "switchboard — a panel where operators connected calls by plugging cords into jacks",
+    "operator — a person who connected calls by hand on a switchboard",
+    "party line — one telephone line shared by several homes",
+    "rotary dial — a spinning dial that sends a number as a series of quick clicks (pulses)",
+    "undersea cable — a cable laid on the ocean floor to carry telegraph, telephone or internet signals",
+    "fiber optics — sending signals as flashes of light through very thin strands of glass",
+    "amplifier / repeater — a device that makes a weak signal stronger so it can travel farther",
+    "cell — the small area covered by one mobile phone tower; many cells together make a cellular network"
+  ],
+  "doNotSay": [
+    "Do not say Bell invented the telephone alone with no one else involved — mention that Gray, Meucci, Reis and others worked on similar ideas",
+    "Do not say Meucci was officially declared the inventor of the telephone; the 2002 House resolution honored his work but did not change the patent",
+    "Do not state as fact that Bell stole Gray's idea — it is a debated claim, not proven",
+    "Do not quote the Western Union memo calling the telephone a 'toy' with 'too many shortcomings' as real — it is almost certainly fake",
+    "Do not say 'hello' was named after Bell's girlfriend or anyone named Margaret Hello — that is a myth",
+    "Do not say Bell's first words were 'Mr. Watson, come here, I need you' — the recorded wording is 'Mr. Watson — come here — I want to see you'",
+    "Do not say Bell refused to have a telephone in his house or never used one — treat such stories as unverified",
+    "Do not say Hedy Lamarr invented Wi-Fi, Bluetooth or the cell phone — her patent was one early idea in frequency hopping",
+    "Do not say Edison invented the telephone — he improved the transmitter",
+    "Do not say Morse invented the telegraph alone or first — Cooke and Wheatstone in Britain and others worked at the same time",
+    "Do not say the first transatlantic cable (1858) worked for years — it failed after about three weeks",
+    "Do not say sharks are the main danger to undersea cables — anchors and fishing gear cause most damage",
+    "Do not say the Strowger 'operator wife' story is proven fact — call it a legend",
+    "Do not treat Aeschylus's beacon chain or the Marathon runner story as verified history — they are literary stories/legends",
+    "Do not say Martin Cooper's 1973 phone was the first mobile phone of any kind — car radio telephones existed from 1946; his was the first public handheld cellular call"
+  ]
+}

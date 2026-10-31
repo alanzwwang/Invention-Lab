@@ -1,0 +1,495 @@
+{
+  "slug": "smartphone",
+  "title": "The Smartphone",
+  "emoji": "📱",
+  "tagline": "From brick-sized car phones to a supercomputer in every pocket",
+  "intro": "Look around: there is probably a smartphone within arm's reach right now. It is a telephone, a camera, a map, a music player, a game console, a library and a flashlight, all squeezed into a slab of glass thinner than a pencil. But fifty years ago, a 'mobile phone' meant a heavy radio bolted into the trunk of a car! In these 20 parts we will travel from Alexander Graham Bell's wires and the first car phones to Martin Cooper's famous street-corner call in 1973, through chunky 'brick' phones, the first text message, pocket organizers, the forgotten IBM Simon, BlackBerry's keyboards, the iPhone and Android. Then we will open the phone up and see how touchscreens, chips, radio networks, batteries, cameras and sensors really work. Finally we will explore apps, how phones changed the whole world, the problems they cause, and where they might go next. Ready? Let's dial in.",
+  "outline": [
+    {
+      "n": 1,
+      "title": "Talking Without Wires: The World Before Mobile Phones",
+      "when": "1876 – 1970s",
+      "covers": [
+        "Alexander Graham Bell's telephone patent (1876): calls needed wires, so a phone was stuck to a wall or desk",
+        "Guglielmo Marconi and radio in the 1890s–1900s: sending messages through the air without wires",
+        "Two-way radios for police, ships and soldiers; the WWII Motorola 'Handie-Talkie' and 'walkie-talkie' radios (mention that several inventors, such as Al Gross and Donald Hings, have rival claims to the walkie-talkie)",
+        "The first public car phone service: AT&T's Mobile Telephone Service in St. Louis, June 17, 1946 — equipment weighing about 36 kg (80 lb), calls placed through a human operator, only a handful of channels so people waited in line",
+        "Why early car phones couldn't grow: one big transmitter per city meant very few people could call at the same time",
+        "Science fiction dreams: Dick Tracy's 2-Way Wrist Radio comic (1946) and the Star Trek communicator (1966)"
+      ],
+      "keyFacts": [
+        "Bell's telephone patent was granted in March 1876.",
+        "AT&T's Mobile Telephone Service began in St. Louis on June 17, 1946.",
+        "Early car phone equipment weighed about 36 kg (80 lb) and filled much of a car trunk.",
+        "In some cities hundreds of people were on waiting lists for a car phone because there were so few channels."
+      ],
+      "hook": "End with the big problem — too many people and too few radio channels — and tease that a clever idea about 'cells' would solve it."
+    },
+    {
+      "n": 2,
+      "title": "The First Handheld Call",
+      "when": "1947 – 1984",
+      "covers": [
+        "The cellular idea: Bell Labs engineers Douglas Ring and W. Rae Young described dividing a city into small 'cells' in a 1947 memo; the technology to build it took decades (keep the explanation short — Part 12 explains cells in depth)",
+        "The race between AT&T/Bell Labs (who imagined car phones) and Motorola (who wanted a phone you could carry)",
+        "Martin Cooper of Motorola makes the first public handheld cellular phone call on April 3, 1973, on a New York street, calling rival Joel Engel at Bell Labs",
+        "The prototype DynaTAC: about 1.1 kg (2.5 lb), around 20–30 minutes of talking and about 10 hours to recharge",
+        "The first commercial cellular networks: NTT in Tokyo (1979), Nordic NMT (1981), and Ameritech's AMPS network in Chicago (October 1983)",
+        "The Motorola DynaTAC 8000X goes on sale in 1983–84 for $3,995 — nicknamed 'the brick'"
+      ],
+      "keyFacts": [
+        "Martin Cooper's famous call was made on April 3, 1973, in New York City.",
+        "The DynaTAC 8000X weighed about 790 g (1.75 lb), was about 25 cm (10 inches) tall, and gave about 30 minutes of talk time.",
+        "It cost $3,995 in 1984 — roughly $12,000 in today's money.",
+        "Japan's NTT launched the world's first commercial cellular network in Tokyo in 1979."
+      ],
+      "hook": "End with the brick phone as a status symbol for the rich and tease that the next 15 years would make phones small, cheap and able to send words, not just voices."
+    },
+    {
+      "n": 3,
+      "title": "Phones Shrink and Learn to Text",
+      "when": "1985 – 2000",
+      "covers": [
+        "1G vs 2G: first-generation phones sent voices as analog radio waves; second-generation (2G) phones turned voices into digital numbers",
+        "GSM, the European digital standard: first GSM call in Finland on July 1, 1991; the SIM card that holds your phone account",
+        "The first text message (SMS): 'Merry Christmas', sent by engineer Neil Papworth from a computer to a phone on December 3, 1992",
+        "Texting on number keys (pressing 7 four times for 'S') and predictive text like T9",
+        "Famous phones: Motorola StarTAC (1996) flip phone, Nokia 6110 with the game Snake (1997, by Taneli Armanto), Nokia 3310 (2000)",
+        "Ringtones, changeable covers and phones becoming personal style for teenagers"
+      ],
+      "keyFacts": [
+        "The world's first GSM call was made in Finland on July 1, 1991, on the Radiolinja network.",
+        "The first SMS, 'Merry Christmas', was sent on December 3, 1992, in the UK.",
+        "SMS messages were limited to 160 characters.",
+        "The Nokia 3310 (2000) sold well over 100 million units."
+      ],
+      "hook": "End by noting that phones could now talk and text, but people also wanted a pocket computer — and a different family of gadgets was growing up at the same time."
+    },
+    {
+      "n": 4,
+      "title": "Pocket Computers: The PDA",
+      "when": "1984 – 2005",
+      "covers": [
+        "What a PDA (personal digital assistant) was: an electronic organizer for calendars, contacts and notes — with no phone inside",
+        "The Psion Organiser (1984), often called the first PDA",
+        "Apple's Newton MessagePad (1993): Apple boss John Sculley popularized the term 'PDA'; its handwriting recognition was famously mocked, and it was discontinued in 1998",
+        "Palm Pilot (1996): Jeff Hawkins carried a wooden block in his shirt pocket to test the size; Graffiti, a simplified alphabet you wrote with a stylus",
+        "Syncing with a desktop computer through a cradle; Windows CE / Pocket PC devices as rivals",
+        "The idea of 'convergence': people carried a phone AND a PDA AND maybe a camera and an MP3 player — why not combine them?"
+      ],
+      "keyFacts": [
+        "The Psion Organiser was launched in 1984.",
+        "The Apple Newton MessagePad went on sale in 1993 for about $699.",
+        "The first Palm Pilot (1996) cost about $299 and was a big hit.",
+        "Graffiti used a single-stroke alphabet so the computer could recognize letters more easily."
+      ],
+      "hook": "End with the question: who would be first to put a PDA and a phone into one device? Tease that the answer came from IBM, surprisingly early."
+    },
+    {
+      "n": 5,
+      "title": "IBM Simon: The Forgotten First Smartphone",
+      "when": "1992 – 2000",
+      "covers": [
+        "IBM engineer Frank Canova and team; a prototype shown at the COMDEX computer show in November 1992",
+        "The IBM Simon Personal Communicator goes on sale through BellSouth in August 1994: touchscreen with a stylus, calendar, address book, notes, email, fax and even a sketch pad",
+        "Its problems: about $899 with a contract, about 500 g, a battery that lasted only around an hour of talk, and few buyers (about 50,000 sold)",
+        "Fair credit: Simon is widely called the first smartphone today, but the word 'smartphone' was not used for it at the time",
+        "Other early 'smart' phones: the Nokia 9000 Communicator (1996) with a keyboard that folded open; Ericsson's R380 (2000) marketed as a 'smartphone'; Symbian, the operating system shared by Nokia, Ericsson and others",
+        "Lesson: being first does not always mean being successful — timing, price and networks matter"
+      ],
+      "keyFacts": [
+        "IBM Simon went on sale in August 1994 for about $899 with a two-year contract.",
+        "Roughly 50,000 Simons were sold before it was withdrawn in 1995.",
+        "The Nokia 9000 Communicator was released in 1996.",
+        "Simon had no web browser; mobile networks were too slow and the web was very young."
+      ],
+      "hook": "End by asking where the mobile internet would really take off first — and reveal it was not America or Europe, but Japan."
+    },
+    {
+      "n": 6,
+      "title": "Japan's Mobile Internet Leap",
+      "when": "1997 – 2006",
+      "covers": [
+        "NTT Docomo's i-mode service (February 1999): email, news, weather, games and shopping on a phone — millions of users within a couple of years; Mari Matsunaga and Takeshi Natsuno helped shape it",
+        "Emoji: Shigetaka Kurita designed a famous set of 176 emoji for i-mode in 1999 (note that phone company J-Phone had an earlier, smaller set in 1997)",
+        "Camera phones: Kyocera VP-210 (1999) and the Sharp J-SH04 (2000) from J-Phone; sharing photos by email ('sha-mail')",
+        "World's first 3G network: Docomo's FOMA (2001) for faster data and video calls",
+        "Paying with your phone: 'Osaifu-Keitai' (wallet phone) using FeliCa chips from 2004",
+        "Why Japan's phones were advanced but stayed mostly inside Japan (the 'Galápagos' nickname)"
+      ],
+      "keyFacts": [
+        "NTT Docomo launched i-mode in February 1999.",
+        "The Sharp J-SH04, sold in Japan from late 2000, had a camera of about 0.11 megapixels.",
+        "NTT Docomo launched the world's first commercial 3G service, FOMA, in October 2001.",
+        "Emoji were added to the Unicode standard in 2010, which helped them spread worldwide."
+      ],
+      "hook": "End by switching to North America, where busy office workers were becoming addicted to a little device with a tiny keyboard."
+    },
+    {
+      "n": 7,
+      "title": "BlackBerry and the Keyboard Years",
+      "when": "1984 – 2010",
+      "covers": [
+        "Research In Motion (RIM), founded in Waterloo, Canada, in 1984 by Mike Lazaridis and Douglas Fregin; Jim Balsillie joins as co-leader",
+        "The BlackBerry 850 (1999), a two-way pager with a thumb keyboard and 'push' email that arrived instantly",
+        "BlackBerry phones in the 2000s: trackball/trackwheel, strong security, BlackBerry Messenger (BBM); the nickname 'CrackBerry'",
+        "Barack Obama insisting on keeping a (specially secured) BlackBerry as US President in 2009",
+        "Rivals: Palm/Handspring Treo, Windows Mobile phones, Nokia's Symbian smartphones (Nokia was the world's biggest phone maker)",
+        "Phones of the mid-2000s: tiny screens, physical keyboards, styluses, slow mobile web pages; the thin Motorola Razr (2004) as a fashion hit"
+      ],
+      "keyFacts": [
+        "RIM was founded in 1984 in Waterloo, Ontario, Canada.",
+        "The first BlackBerry device, the 850, launched in 1999.",
+        "BlackBerry reached roughly 80 million users at its peak in the early 2010s.",
+        "Nokia was the world's largest mobile phone maker from 1998 until about 2012."
+      ],
+      "hook": "End in 2006–2007: BlackBerry and Nokia feel unbeatable, while inside Apple a secret team is building something without a keyboard."
+    },
+    {
+      "n": 8,
+      "title": "One More Thing: The iPhone",
+      "when": "2004 – 2008",
+      "covers": [
+        "Apple's secret 'Project Purple'; Steve Jobs, designer Jony Ive, hardware leader Tony Fadell, software leader Scott Forstall; Apple had earlier bought FingerWorks, a multi-touch company",
+        "The Gorilla Glass story: Jobs asked Corning (CEO Wendell Weeks) for tough glass; Corning revived a 1960s experiment called 'Chemcor' and made it in months",
+        "The keynote on January 9, 2007: 'an iPod, a phone, and an internet communicator' — one device",
+        "What was new: a big multi-touch screen, pinch-to-zoom, a full web browser, no physical keyboard",
+        "What was missing: no 3G, no App Store, no copy-and-paste, a 2-megapixel camera with no video",
+        "Launch on June 29, 2007; rivals' reactions; the iPhone 3G and App Store in July 2008 (apps get their own part, Part 16)"
+      ],
+      "keyFacts": [
+        "Steve Jobs announced the iPhone at Macworld on January 9, 2007.",
+        "It went on sale in the US on June 29, 2007, at $499 (4 GB) and $599 (8 GB).",
+        "Its screen was 3.5 inches with 320 × 480 pixels.",
+        "Apple sold about 6 million first-generation iPhones."
+      ],
+      "hook": "End by revealing that Google had quietly bought a small startup years earlier — and its phone software was about to change direction because of the iPhone."
+    },
+    {
+      "n": 9,
+      "title": "Android and the Phone Wars",
+      "when": "2003 – 2015",
+      "covers": [
+        "Android Inc. founded in 2003 by Andy Rubin, Rich Miner, Nick Sears and Chris White; bought by Google in 2005",
+        "The Open Handset Alliance (November 2007): Android as free, open-source software built on Linux that many phone makers could use",
+        "The first Android phone: HTC Dream / T-Mobile G1 (October 2008), with a slide-out keyboard",
+        "Samsung's Galaxy phones (from 2010), big-screen 'phablets' like the Galaxy Note (2011), and cheaper Android phones from many companies, including in China and India",
+        "The patent wars: Apple v. Samsung (2011, settled 2018)",
+        "Winners and losers: Android becomes the most-used phone software; BlackBerry and Nokia fall behind (Nokia sells its phone business to Microsoft in 2014; BlackBerry stops designing its own phones in 2016)"
+      ],
+      "keyFacts": [
+        "Google bought Android Inc. in 2005.",
+        "The T-Mobile G1 / HTC Dream went on sale in the US in October 2008.",
+        "Today about 70% of the world's smartphones run Android, and most of the rest run Apple's iOS.",
+        "In 2012 a US jury awarded Apple about $1 billion against Samsung, later reduced; the companies settled in 2018."
+      ],
+      "hook": "End by saying it's time to open up the phone itself — starting with the part you touch hundreds of times a day: the screen."
+    },
+    {
+      "n": 10,
+      "title": "How It Works: Touchscreens and Displays",
+      "when": "1965 – today",
+      "covers": [
+        "E. A. Johnson's capacitive touchscreen at the UK's Royal Radar Establishment (described in 1965), used for air traffic control",
+        "Resistive touchscreens: G. Samuel Hurst's work in the 1970s (Elographics) — two layers pressed together; why they worked with styluses",
+        "How capacitive screens work: a grid of tiny invisible electrodes; your finger conducts electricity and changes the electric field, so the phone knows where you touched (why gloves don't work)",
+        "Multi-touch history: University of Toronto research (1982), Bill Buxton, FingerWorks, Jeff Han's 2006 demo",
+        "The display under the glass: pixels made of red, green and blue sub-pixels; LCD (needs a backlight) vs OLED (each pixel makes its own light)",
+        "Strong glass: ion exchange — big potassium ions squeezed into the glass surface make it harder to crack"
+      ],
+      "keyFacts": [
+        "E. A. Johnson published his capacitive touchscreen idea in 1965.",
+        "G. Samuel Hurst founded Elographics in 1971.",
+        "Modern phone screens often have more than 400 pixels per inch.",
+        "Capacitive touchscreens can sense many fingers at once; most resistive screens sense only one point."
+      ],
+      "hook": "End by asking: when you tap the screen, what actually decides what happens next? Lead into the chip, the phone's brain."
+    },
+    {
+      "n": 11,
+      "title": "How It Works: The Chip — A Brain Made of Sand",
+      "when": "1947 – today",
+      "covers": [
+        "Transistors as tiny on/off switches; silicon comes from sand; the transistor (1947) and the integrated circuit (late 1950s) in one short paragraph",
+        "Moore's Law: Gordon Moore's 1965 prediction that the number of transistors on chips would keep doubling (about every two years)",
+        "ARM: designed at Acorn in Britain by Sophie Wilson and Steve Furber (first chip 1985); ARM's power-saving designs are used in almost every smartphone",
+        "System-on-a-chip: CPU, graphics (GPU), AI engine (NPU), image processor and modem on one small chip",
+        "Comparison: the Apollo Guidance Computer (1969) vs a modern phone chip",
+        "Heat and battery: why phone chips must be efficient, not just fast"
+      ],
+      "keyFacts": [
+        "The first ARM chip ran in April 1985.",
+        "Apple's A17 Pro chip (2023) has about 19 billion transistors.",
+        "The Apollo Guidance Computer had about 4 kilobytes of changeable memory; a modern phone has billions of bytes.",
+        "Chip features are now just a few nanometers across — thousands of times thinner than a human hair."
+      ],
+      "hook": "End by noting that a brilliant brain is useless if it can't talk to the world — lead into invisible radio waves and phone networks."
+    },
+    {
+      "n": 12,
+      "title": "How It Works: Radio Waves, Cells and Networks",
+      "when": "1947 – today",
+      "covers": [
+        "Your voice and data become radio waves; frequencies and wavelengths explained simply",
+        "How cells work: each tower covers a small area; frequencies are reused in cells that aren't next to each other; 'handoff' passes your call from tower to tower as you move",
+        "The generations: 1G analog (1979–80s), 2G digital (1991), 3G mobile internet (2001), 4G LTE fast data (first network in Stockholm and Oslo, December 2009), 5G (2019)",
+        "The SIM card and how the network knows who you are",
+        "Wi-Fi (standard from 1997) and Bluetooth (Ericsson's Jaap Haartsen, named after the Viking-era king Harald Bluetooth)",
+        "Hedy Lamarr and George Antheil's 1942 frequency-hopping patent — an early idea related to later spread-spectrum radio (but do not say she invented Wi-Fi)"
+      ],
+      "keyFacts": [
+        "The first commercial 4G LTE networks opened in Stockholm and Oslo in December 2009.",
+        "South Korea and the US launched the first 5G phone services in April 2019.",
+        "Radio waves travel at the speed of light, about 300,000 km per second.",
+        "The Bluetooth industry group was formed in 1998."
+      ],
+      "hook": "End by pointing out that all this radio, computing and screen-glowing needs energy — so where does the phone get its power?"
+    },
+    {
+      "n": 13,
+      "title": "How It Works: Batteries and Power",
+      "when": "1970s – today",
+      "covers": [
+        "How a battery works: chemical energy turns into electricity as lithium ions move between two electrodes",
+        "The lithium-ion battery: M. Stanley Whittingham (1970s), John Goodenough (cobalt oxide cathode, 1980), Akira Yoshino (first practical design, 1985); they shared the 2019 Nobel Prize in Chemistry",
+        "Sony sold the first commercial lithium-ion batteries in 1991",
+        "Why batteries slowly wear out: charge cycles, heat, and capacity measured in mAh",
+        "Safety: the Samsung Galaxy Note 7 recall (2016) because of faulty batteries; why you shouldn't use damaged batteries",
+        "Saving power: dark modes on OLED screens, low-power chips, fast and wireless charging; the EU's USB-C common charger rule (from 2024)"
+      ],
+      "keyFacts": [
+        "Whittingham, Goodenough and Yoshino won the 2019 Nobel Prize in Chemistry for lithium-ion batteries.",
+        "Sony released the first commercial lithium-ion battery in 1991.",
+        "John Goodenough was 97 when he won the Nobel Prize, the oldest winner ever.",
+        "Samsung recalled and then stopped making the Galaxy Note 7 in 2016."
+      ],
+      "hook": "End by turning to the feature many people use more than calling: the camera."
+    },
+    {
+      "n": 14,
+      "title": "How It Works: The Camera in Your Pocket",
+      "when": "1969 – today",
+      "covers": [
+        "Light, lenses and focus explained simply; why phone lenses are so tiny",
+        "Image sensors: the CCD (Willard Boyle and George Smith at Bell Labs, 1969; Nobel Prize in Physics 2009) and the CMOS active-pixel sensor (Eric Fossum's team at NASA's Jet Propulsion Laboratory, early 1990s), which uses little power and is used in phones",
+        "Pixels and megapixels; why more megapixels does not always mean a better photo",
+        "Computational photography: the phone takes several pictures and combines them — HDR, night mode, portrait blur",
+        "Multiple lenses (wide, ultra-wide, zoom), image stabilization, video, front 'selfie' cameras",
+        "Brief look back: Philippe Kahn sharing a photo of his newborn daughter from a phone setup in 1997, and early camera phones (Part 6)"
+      ],
+      "keyFacts": [
+        "Boyle and Smith invented the CCD at Bell Labs in 1969 and shared part of the 2009 Nobel Prize in Physics.",
+        "Early camera phones (1999–2000) had about 0.1 megapixels; many modern phones have 12–200 megapixels.",
+        "The iPhone 4 (2010) was one of the first popular phones with a front-facing camera for video calls.",
+        "Phone cameras are now the most common cameras in the world; standalone camera sales have fallen sharply since about 2010."
+      ],
+      "hook": "End by revealing that the camera is only one of many 'senses' a phone has — it can also feel tilt, know its location, and recognize your face."
+    },
+    {
+      "n": 15,
+      "title": "How It Works: Sensors and GPS",
+      "when": "1970s – today",
+      "covers": [
+        "MEMS sensors: microscopic machines carved into silicon; the accelerometer (screen rotation, step counting) and gyroscope (turning, games)",
+        "Magnetometer (compass), barometer (height), proximity sensor (turns the screen off near your ear), ambient light sensor (brightness)",
+        "GPS: a US system of about 30 satellites; your phone measures how long signals take to arrive from at least four satellites; clocks must even be corrected for Einstein's relativity; other systems: Galileo, GLONASS, BeiDou",
+        "GPS people: Bradford Parkinson led the program; Gladys West's mathematical work on modeling Earth's shape helped make it accurate",
+        "Biometrics: fingerprint readers (Touch ID, 2013) and face unlocking with infrared dots (Face ID, 2017)",
+        "Sensors working together: maps, fitness trackers, emergency crash/fall detection"
+      ],
+      "keyFacts": [
+        "GPS satellites orbit about 20,200 km above Earth.",
+        "Without relativity corrections, GPS clocks would drift by about 38 microseconds a day, causing position errors of kilometers.",
+        "The US turned off the deliberate scrambling of civilian GPS ('Selective Availability') in May 2000, making it much more accurate.",
+        "Apple introduced Touch ID on the iPhone 5s in 2013 and Face ID on the iPhone X in 2017."
+      ],
+      "hook": "End by saying the hardware is amazing, but what made people fall in love with smartphones was software — apps."
+    },
+    {
+      "n": 16,
+      "title": "There's an App for That",
+      "when": "2008 – today",
+      "covers": [
+        "Apple's App Store opens on July 10, 2008, with about 500 apps; Android Market (2008), renamed Google Play in 2012",
+        "Anyone, even teenagers, could make and sell an app; how developers and app stores share money",
+        "Famous apps that changed habits: Angry Birds (2009), WhatsApp (2009), Instagram (2010), maps and navigation, ride-hailing (Uber), Pokémon Go (2016)",
+        "Mobile money: M-Pesa in Kenya (2007) let people send money by text, even on basic phones; tap-to-pay wallets like Apple Pay (2014)",
+        "App store rules and arguments: who decides which apps are allowed, and the Epic Games v. Apple fight over Fortnite (2020)",
+        "How an app works in simple terms: code, permissions and updates"
+      ],
+      "keyFacts": [
+        "Apple's App Store launched on July 10, 2008, with about 500 apps.",
+        "Android Market was renamed Google Play in March 2012.",
+        "M-Pesa launched in Kenya in 2007.",
+        "Today the major app stores each offer millions of apps."
+      ],
+      "hook": "End by zooming out from single apps to the whole planet: how did billions of phones change the way people live?"
+    },
+    {
+      "n": 17,
+      "title": "A World in Your Pocket: How Smartphones Changed Society",
+      "when": "2007 – today",
+      "covers": [
+        "Scale: more than 4 billion people use a mobile phone to go online — more than half of humanity",
+        "Leapfrogging: many people in Africa and Asia skipped landline phones and desktop computers and went straight to mobile",
+        "Everyday life: maps instead of paper, video calls with faraway family, music and video streaming, online learning, banking",
+        "Work and the economy: new jobs (app makers, delivery and ride-hailing drivers), and work that follows you home",
+        "News and citizen journalism: ordinary people recording important events; phones in disasters and emergencies",
+        "Changes in how we communicate: emoji, selfies, group chats, social media"
+      ],
+      "keyFacts": [
+        "By the mid-2020s, more than 4 billion people used mobile internet.",
+        "There are more mobile phone subscriptions in the world than people.",
+        "M-Pesa grew to tens of millions of users across several African countries.",
+        "The word 'selfie' was chosen as Oxford Dictionaries' Word of the Year in 2013."
+      ],
+      "hook": "End with a fair warning: something this powerful also brings real problems — and Part 18 looks at them honestly."
+    },
+    {
+      "n": 18,
+      "title": "The Dark Side: Problems and Controversies",
+      "when": "2007 – today",
+      "covers": [
+        "Screen time, sleep and attention: why apps are designed to keep you scrolling; what research says and where scientists still disagree about mental health",
+        "Safety: distracted walking and texting while driving; cyberbullying and online strangers",
+        "Privacy: apps tracking location, data collection and advertising; security, scams and passwords",
+        "Phones in schools: many schools and some countries (for example France, from 2018) limit phones in class",
+        "Environment and people: rare and precious materials, cobalt mining in the Democratic Republic of the Congo (including child labor concerns), and e-waste",
+        "Repair and recycling: replaceable batteries, right-to-repair laws, and longer software updates"
+      ],
+      "keyFacts": [
+        "The world produced about 62 million tonnes of electronic waste in 2022, and less than a quarter was properly collected and recycled (UN Global E-waste Monitor 2024).",
+        "About 70% of the world's mined cobalt comes from the Democratic Republic of the Congo.",
+        "France passed a law in 2018 banning phone use in primary and middle schools.",
+        "In 2011 the WHO's cancer agency listed radio-frequency fields as 'possibly carcinogenic' (the same group as pickled vegetables) because evidence was limited, not because harm was proven."
+      ],
+      "hook": "End on hope: engineers and users are already working on better, safer, longer-lasting phones — which leads to what's next."
+    },
+    {
+      "n": 19,
+      "title": "Phones of Today and Tomorrow",
+      "when": "2018 – future",
+      "covers": [
+        "Folding phones: Royole FlexPai (2018), Samsung Galaxy Fold (2019, delayed after early screen problems), flip-style foldables",
+        "Satellite messaging: phones that can text emergency services from places with no cell signal (iPhone 14, 2022)",
+        "On-device artificial intelligence: voice assistants, live translation, photo editing, AI chips (NPUs)",
+        "Future networks (6G, expected around 2030), better batteries (such as solid-state batteries still in development), and augmented-reality glasses",
+        "Clearly label predictions as predictions; some may never happen",
+        "Will the smartphone itself be replaced — by wearables, glasses or something nobody has imagined yet?"
+      ],
+      "keyFacts": [
+        "Samsung's Galaxy Fold launched in September 2019 after being delayed from April.",
+        "Apple's Emergency SOS via satellite started with the iPhone 14 in 2022.",
+        "6G networks are being researched, with first launches commonly predicted around 2030.",
+        "Apple switched the iPhone to USB-C in 2023, partly because of the EU common-charger law."
+      ],
+      "hook": "End by inviting the reader to look back at the whole journey — from an 80-pound car phone to a phone that talks to satellites."
+    },
+    {
+      "n": 20,
+      "title": "From Brick to Brain: Putting It All Together",
+      "when": "1876 – future",
+      "covers": [
+        "A quick timeline recap: car phone (1946) → Cooper's call (1973) → first text (1992) → IBM Simon (1994) → BlackBerry (1999) → iPhone (2007) → Android (2008) → App Store (2008) → foldables and satellites",
+        "No single inventor: the smartphone combined dozens of inventions — radio, transistors, touchscreens, lithium-ion batteries, CMOS sensors, GPS, the internet",
+        "Lessons about invention: first is not always winner (Simon, Newton); timing and networks matter; giants can fall (Nokia, BlackBerry)",
+        "How small inventions add up: compare the DynaTAC and a modern phone (weight, talk time, abilities)",
+        "Using phones wisely: a balanced message about benefits and limits",
+        "Final challenge to the reader: what part of the phone would YOU reinvent?"
+      ],
+      "keyFacts": [
+        "The 1983 DynaTAC weighed about 790 g with 30 minutes of talk time; many modern smartphones weigh about 170–230 g and last a full day.",
+        "Fewer than 40 years passed between the first handheld cellular call (1973) and billions of smartphones (2010s).",
+        "Billions of smartphones are now in use worldwide.",
+        "The smartphone depends on Nobel Prize–winning science, including transistors, CCD image sensors and lithium-ion batteries."
+      ],
+      "hook": "Close the whole Deep Dive with an inspiring final line about the next inventor maybe being the reader."
+    }
+  ],
+  "people": [
+    "Alexander Graham Bell (1847–1922) — Scottish-born inventor who received the first US telephone patent in 1876 (others, like Elisha Gray and Antonio Meucci, also worked on telephones).",
+    "Guglielmo Marconi (1874–1937) — Italian inventor who developed practical long-distance radio; shared the 1909 Nobel Prize in Physics.",
+    "Hedy Lamarr (1914–2000) — Austrian-American film star and inventor who, with composer George Antheil, patented a frequency-hopping idea in 1942.",
+    "Douglas H. Ring and W. Rae Young — Bell Labs engineers who described the cellular network idea in a 1947 memo.",
+    "Amos Joel Jr. (1918–2008) — Bell Labs engineer whose patent covered handing calls from one cell to another.",
+    "Martin Cooper (born 1928) — Motorola engineer who led the team behind the first handheld cellular phone and made the famous first public call in 1973.",
+    "Joel Engel — Bell Labs engineer who led work on AT&T's cellular system and received Cooper's 1973 call; he later shared engineering awards for cellular work.",
+    "Neil Papworth — British engineer who sent the first SMS text message, 'Merry Christmas', in 1992.",
+    "Taneli Armanto — Nokia engineer who programmed the famous Snake game for Nokia phones (1997).",
+    "David Potter — South African-born British businessman, founder of Psion, maker of the 1984 Psion Organiser.",
+    "John Sculley (born 1939) — Apple CEO who championed the Newton and popularized the term 'personal digital assistant'.",
+    "Jeff Hawkins (born 1957) — inventor of the Palm Pilot and Graffiti handwriting system; co-founded Palm and Handspring.",
+    "Donna Dubinsky (born 1955) — business leader who ran Palm and co-founded Handspring with Jeff Hawkins.",
+    "Frank Canova — IBM engineer who led the design of the IBM Simon.",
+    "Mike Lazaridis (born 1961) — co-founder of Research In Motion and a creator of the BlackBerry.",
+    "Douglas Fregin — co-founder of Research In Motion with Mike Lazaridis in 1984.",
+    "Jim Balsillie (born 1961) — co-CEO of Research In Motion who grew BlackBerry into a global business.",
+    "Mari Matsunaga (born 1954) and Takeshi Natsuno (born 1965) — key creators of NTT Docomo's i-mode service.",
+    "Shigetaka Kurita (born 1972) — designer of the influential 176-emoji set for i-mode in 1999.",
+    "Steve Jobs (1955–2011) — Apple co-founder and CEO who led the creation of the iPhone and presented it in 2007.",
+    "Jony Ive (born 1967) — Apple's chief designer, who shaped the look of the iPhone.",
+    "Tony Fadell (born 1969) — led Apple's iPod division and the iPhone's hardware engineering.",
+    "Scott Forstall (born 1969) — led the team that created the iPhone's software (iOS).",
+    "Wendell Weeks (born 1959) — Corning CEO whose company produced Gorilla Glass for the first iPhone.",
+    "Wayne Westerman and John Elias — founders of FingerWorks, a multi-touch company bought by Apple in 2005.",
+    "Andy Rubin (born 1962) — co-founder of Android Inc. who led Android at Google.",
+    "Rich Miner, Nick Sears and Chris White — co-founders of Android Inc. in 2003.",
+    "E. A. Johnson — British engineer at the Royal Radar Establishment who described the capacitive touchscreen in 1965.",
+    "G. Samuel Hurst (1927–2010) — American physicist who invented resistive touch sensing and founded Elographics.",
+    "Bill Buxton (born 1949) — Canadian computer scientist and researcher of multi-touch interfaces.",
+    "Jeff Han — researcher whose 2006 multi-touch demonstration amazed audiences.",
+    "Gordon Moore (1929–2023) — Intel co-founder who made the 1965 prediction known as Moore's Law.",
+    "Sophie Wilson (born 1957) and Steve Furber (born 1953) — British computer scientists who designed the first ARM processor at Acorn.",
+    "M. Stanley Whittingham (born 1941) — chemist who created an early rechargeable lithium battery in the 1970s; 2019 Nobel laureate.",
+    "John B. Goodenough (1922–2023) — American physicist whose cobalt-oxide cathode (1980) made lithium-ion batteries powerful; 2019 Nobel laureate.",
+    "Akira Yoshino (born 1948) — Japanese chemist who built the first practical lithium-ion battery in 1985; 2019 Nobel laureate.",
+    "Willard Boyle (1924–2011) and George E. Smith (born 1930) — Bell Labs scientists who invented the CCD image sensor in 1969; 2009 Nobel laureates.",
+    "Eric Fossum (born 1957) — engineer who led the NASA JPL team that developed the CMOS active-pixel image sensor used in phone cameras.",
+    "Philippe Kahn (born 1952) — entrepreneur who in 1997 shared a photo of his newborn daughter using a phone linked to a digital camera, an early example of instant photo sharing.",
+    "Bradford Parkinson (born 1935) — US Air Force officer and engineer who led the development of GPS.",
+    "Gladys West (1930–2026) — American mathematician whose modeling of Earth's shape helped make GPS accurate.",
+    "Jaap Haartsen (born 1963) — Dutch engineer at Ericsson who developed the core ideas of Bluetooth in the 1990s."
+  ],
+  "glossary": [
+    "cellular network — a phone network that divides land into small areas called cells, each with its own tower, so radio channels can be reused",
+    "cell tower (base station) — an antenna and radio equipment that connects phones in one cell to the rest of the network",
+    "handoff — passing a call or data connection from one cell tower to the next as you move",
+    "analog vs digital — analog sends a smooth wave copying the sound; digital turns it into numbers (1s and 0s)",
+    "1G / 2G / 3G / 4G / 5G — generations of mobile networks; each newer one is faster and can carry more data",
+    "SMS — short message service: text messages of up to 160 characters",
+    "SIM card — a small chip card that identifies your phone account to the network",
+    "PDA — personal digital assistant: a handheld electronic organizer, usually without a phone",
+    "smartphone — a mobile phone that is also a general-purpose computer able to run apps and use the internet",
+    "operating system (OS) — the main software that runs a phone and its apps, such as Android or iOS",
+    "app — an application: a program you install on a phone to do a particular job",
+    "capacitive touchscreen — a screen that senses your finger by the tiny change it makes in an electric field",
+    "resistive touchscreen — a screen that senses where two flexible layers are pressed together",
+    "multi-touch — a touchscreen's ability to sense two or more touches at once, allowing gestures like pinch-to-zoom",
+    "transistor — a tiny electronic switch; billions of them make up a phone's chip",
+    "system-on-a-chip (SoC) — one chip that holds the processor, graphics, AI engine, modem and more",
+    "lithium-ion battery — a rechargeable battery in which lithium ions move between two electrodes",
+    "image sensor (CMOS) — the chip in a camera that turns light into electrical signals, pixel by pixel",
+    "GPS — Global Positioning System: US satellites whose signals let a receiver work out its location",
+    "accelerometer — a sensor that measures movement and tilt, for example to rotate the screen"
+  ],
+  "doNotSay": [
+    "Do not say Steve Jobs or Apple invented the smartphone — the iPhone (2007) came after IBM Simon, Nokia Communicators, BlackBerry, Palm Treo and others; it popularized the modern touchscreen smartphone.",
+    "Do not say Alexander Graham Bell invented the mobile or cell phone.",
+    "Do not say Martin Cooper invented the phone alone or that cellular networks were his idea — the cell concept came from Bell Labs (1947) and many engineers at Motorola and Bell Labs contributed.",
+    "Do not state as fact that Star Trek inspired Cooper's phone — Cooper has told different versions (he has also mentioned Dick Tracy); present it as his own later recollection.",
+    "Do not say the IBM Simon was called a 'smartphone' when it was sold — the label was applied later.",
+    "Do not say the first iPhone had an App Store, 3G, or video recording — it had none of these.",
+    "Do not say Google invented Android from scratch — it began as the startup Android Inc., which Google bought in 2005.",
+    "Do not say Gorilla Glass was invented for the iPhone — it came from Corning's 1960s Chemcor research.",
+    "Do not say Hedy Lamarr invented Wi-Fi, Bluetooth or GPS — she co-patented a frequency-hopping idea related to later spread-spectrum technologies.",
+    "Do not say Shigetaka Kurita created the very first emoji — J-Phone had an earlier set in 1997; Kurita's 1999 set was highly influential.",
+    "Do not say phone radiation is proven to cause cancer — large studies have not shown that; the WHO agency's 'possibly carcinogenic' label (2011) reflects limited evidence.",
+    "Do not say smartphones are scientifically proven to cause depression in all teens — research shows links and concerns but scientists still debate cause and effect.",
+    "Do not say more megapixels always means better photos.",
+    "Do not say charging overnight or leaving a phone at 100% will quickly destroy the battery, or that phones commonly explode — battery fires are rare.",
+    "Do not say the first text message was sent from one phone to another — it was sent from a computer to a phone.",
+    "Do not say phones are millions of times 'smarter' than Apollo-era computers in a vague way — compare specific numbers like memory or speed.",
+    "Do not say the Nokia 3310 was indestructible or unbreakable — it was tough, but that is a joke/meme.",
+    "Do not say 1G phones were digital or that the 1946 car phone was cellular."
+  ]
+}

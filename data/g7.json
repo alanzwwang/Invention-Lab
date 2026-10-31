@@ -1,0 +1,904 @@
+[
+  {
+    "id": "brick",
+    "name": "Brick",
+    "emoji": "🧱",
+    "year": -7000,
+    "when": "around 7000 BCE (maybe earlier)",
+    "where": "The Middle East (Fertile Crescent)",
+    "who": "Unknown — early farming villages of the Middle East",
+    "category": "Building & Materials",
+    "kid": "Long ago, people mixed mud and straw, shaped it into blocks, and let the sun bake them hard. These were the first bricks! Stack enough of them and you get a house, a wall, or even a whole city.",
+    "explorer": "The first bricks were made of mud, often mixed with straw, pressed into shape and dried in the sun. Early farming villages in the Middle East were building with them thousands of years before writing existed. Later, people learned to bake bricks in hot kilns, which made them much stronger and waterproof. Fired bricks let ancient cities in Mesopotamia and the Indus Valley build drains, walls and huge temples.",
+    "expert": "Sun-dried mud brick appears in Neolithic settlements of the Fertile Crescent, with some of the oldest examples dated to around 9000–7000 BCE. Because it is cheap and made from local soil, mud brick (adobe) is still one of the most common building materials in the world. Kiln-fired brick, which turns clay into a hard ceramic, became widespread in Mesopotamia and the Indus Valley Civilisation by the 3rd millennium BCE; Indus cities such as Mohenjo-daro used standardised fired bricks for walls and drains. Firing bricks needs a lot of fuel, which is one reason sun-dried bricks remained common for ordinary buildings. The Romans spread fired brick across their empire and often stamped bricks with makers' marks, which archaeologists now use to help date buildings. Brick's real power is modularity: a standard, hand-sized unit lets builders create almost any shape without huge machines.",
+    "how": "Clay or mud is mixed with water (and sometimes straw or sand), pressed into a mould, and dried. Fired bricks are then heated in a kiln to around 1000 °C, which changes the clay into a hard, stone-like ceramic.",
+    "before": "People built shelters from wood, reeds, animal skins, piled stones, or packed earth walls.",
+    "impact": "Bricks let people build lasting houses, city walls and temples from cheap local materials, helping the first cities grow.",
+    "facts": [
+      "The famous Ishtar Gate of ancient Babylon was covered in shiny blue glazed bricks.",
+      "Many of the Ming dynasty sections of the Great Wall of China are made of fired bricks.",
+      "Roman bricks were often stamped with marks that help archaeologists date old buildings today.",
+      "Sun-dried mud brick, called adobe, is still used to build homes in many parts of the world."
+    ],
+    "ledTo": [
+      "roman-concrete"
+    ],
+    "quiz": [
+      {
+        "q": "What were the very first bricks mostly made of?",
+        "a": "Mud, often mixed with straw",
+        "wrong": [
+          "Melted glass",
+          "Iron",
+          "Carved marble"
+        ]
+      },
+      {
+        "q": "What makes a fired brick stronger than a sun-dried one?",
+        "a": "Baking it in a hot kiln",
+        "wrong": [
+          "Soaking it in seawater",
+          "Painting it",
+          "Freezing it"
+        ]
+      }
+    ],
+    "wiki": "Brick"
+  },
+  {
+    "id": "roman-concrete",
+    "name": "Roman Concrete",
+    "emoji": "🏛️",
+    "year": -200,
+    "when": "around 200 BCE",
+    "where": "Ancient Rome (Italy)",
+    "who": "Unknown — Roman builders",
+    "category": "Building & Materials",
+    "kid": "The ancient Romans made a super-strong concrete using volcanic ash. Some of their buildings, harbours and domes are still standing after 2,000 years! The giant dome of the Pantheon in Rome is made of it.",
+    "explorer": "Roman builders mixed lime, water, chunks of rock and a special volcanic ash called pozzolana to make concrete. It could be poured into wooden moulds, so the Romans could build arches, vaults and domes in shapes that were hard to make from cut stone. Their concrete even hardened underwater, which let them build harbours out into the sea. The Pantheon in Rome, finished around 125 CE, still has the world's largest unreinforced concrete dome.",
+    "expert": "Roman concrete (opus caementicium) came into wide use around the 2nd century BCE. Its key ingredient was volcanic ash from around the Bay of Naples (pozzolana, named after Pozzuoli), which reacts chemically with lime to form a strong binder that also sets underwater. Research on Roman sea walls has found that seawater slowly grew new minerals inside the concrete, strengthening it over time. A 2023 study suggested that small lumps of lime left in the mix may let cracks partly 'self-heal' when water seeps in. Roman concrete was not stronger than modern concrete in raw compressive strength, and it had no steel reinforcement, so Romans designed structures like domes and arches that mainly push down rather than bend. After the Western Roman Empire fell, the technique was largely lost in Europe; modern Portland cement was patented in 1824.",
+    "how": "Lime and volcanic ash react with water to form a hard, rock-like glue that binds chunks of stone or brick together. The wet mix was packed into wooden forms and left to harden.",
+    "before": "Builders stacked cut stone blocks or bricks, often joined with simple lime or mud mortar.",
+    "impact": "Concrete let the Romans build huge domes, aqueducts, harbours and public baths, and it inspired the concrete that shapes almost every modern city.",
+    "facts": [
+      "The Pantheon's concrete dome in Rome is nearly 1,900 years old and still in use.",
+      "Pozzolana, the volcanic ash in Roman concrete, is named after the town of Pozzuoli near Naples.",
+      "Roman concrete harbours actually grew new minerals from seawater over the centuries.",
+      "The Romans made their concrete lighter near the top of the Pantheon's dome by using lighter stones."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "What special ingredient made Roman concrete so durable?",
+        "a": "Volcanic ash",
+        "wrong": [
+          "Sugar",
+          "Steel bars",
+          "Seashell glue"
+        ]
+      },
+      {
+        "q": "Which famous Roman building has a giant concrete dome?",
+        "a": "The Pantheon",
+        "wrong": [
+          "The Parthenon",
+          "The Leaning Tower",
+          "Big Ben"
+        ]
+      }
+    ],
+    "wiki": "Roman concrete"
+  },
+  {
+    "id": "glass",
+    "name": "Glass",
+    "emoji": "🪟",
+    "year": -2500,
+    "when": "around 2500 BCE",
+    "where": "Mesopotamia (modern Iraq and Syria)",
+    "who": "Unknown — ancient Mesopotamian craftspeople",
+    "category": "Building & Materials",
+    "kid": "Glass is made by melting sand in a super-hot fire! Thousands of years ago, people in Mesopotamia made the first glass beads. Today glass is in our windows, cups, glasses and phone screens.",
+    "explorer": "To make glass, people melt sand together with other minerals like soda and lime until it turns into a glowing liquid. When it cools, it becomes hard and see-through. The first man-made glass objects were small beads made in Mesopotamia about 4,500 years ago. Around 2,000 years ago, people around the eastern Mediterranean learned to blow glass through a tube like a bubble, which made glass cups and bottles cheap and common.",
+    "expert": "Nature makes glass too — obsidian forms when volcanic lava cools quickly, and people used it for sharp tools long before glassmaking. Man-made glass beads appear in Mesopotamia around 2500 BCE, and glass vessels follow by about 1500 BCE in Mesopotamia and Egypt, made by shaping hot glass around a core. The big breakthrough was glassblowing, developed in the Syro-Palestinian region in the 1st century BCE and spread widely by the Roman Empire. Chemically, common glass is mostly silica (from sand) with soda to lower its melting point and lime to make it stable in water. Glass is an amorphous solid: its atoms are not arranged in a regular crystal pattern. A popular myth says old church windows are thicker at the bottom because glass slowly flows; in reality glass at room temperature does not flow noticeably, and the unevenness comes from how the panes were made.",
+    "how": "Sand (silica), soda and lime are melted together at very high temperatures, around 1,500 °C in modern furnaces. The hot liquid can be blown, pressed, rolled or floated into shape, and it hardens into a clear solid as it cools.",
+    "before": "Windows were open holes or covered with cloth, oiled paper, thin horn or wooden shutters, and containers were made from clay, wood or leather.",
+    "impact": "Glass gave us bright windows, clean containers and, most importantly, lenses — which led to eyeglasses, microscopes and telescopes.",
+    "facts": [
+      "Obsidian is a natural glass made when volcanic lava cools very quickly.",
+      "Glassblowing was invented around the 1st century BCE in the eastern Mediterranean.",
+      "In 1291, Venice moved its glassmakers to the island of Murano, which is still famous for glass.",
+      "The idea that old windows are thicker at the bottom because glass flows is a myth."
+    ],
+    "ledTo": [
+      "eyeglasses",
+      "telescope",
+      "microscope",
+      "light-bulb"
+    ],
+    "quiz": [
+      {
+        "q": "What is the main ingredient in ordinary glass?",
+        "a": "Sand (silica)",
+        "wrong": [
+          "Salt",
+          "Clay",
+          "Chalk"
+        ]
+      },
+      {
+        "q": "Which glassmaking method, invented about 2,000 years ago, made glass cheap?",
+        "a": "Glassblowing",
+        "wrong": [
+          "3D printing",
+          "Glass weaving",
+          "Freezing sand"
+        ]
+      }
+    ],
+    "wiki": "Glass"
+  },
+  {
+    "id": "bronze",
+    "name": "Bronze",
+    "emoji": "🥉",
+    "year": -3300,
+    "when": "around 3300 BCE",
+    "where": "The Near East (Mesopotamia and nearby regions)",
+    "who": "Unknown — ancient metalworkers of the Near East",
+    "category": "Building & Materials",
+    "kid": "Bronze is a metal made by mixing melted copper with a little tin. It is much harder than copper alone! It was so important that a whole stretch of history is called the Bronze Age.",
+    "explorer": "Bronze is an alloy — a mix of metals — usually about nine parts copper to one part tin. Ancient metalworkers discovered that adding tin made copper harder and easier to cast in moulds. Bronze was used for tools, weapons, armour, mirrors, bells and statues. The time when it was the main metal is called the Bronze Age, which began in the Near East around 3300 BCE.",
+    "expert": "Before tin bronze, metalworkers made arsenical bronze by smelting copper ores that naturally contained arsenic, which also hardened the metal. Tin bronze spread through the Near East from the late 4th millennium BCE, and the Bronze Age began at different times in different regions — later in Europe and China, where Shang dynasty foundries cast spectacular ritual vessels. Tin is rare and found in only a few places, so bronze depended on long-distance trade networks that linked distant cultures. Bronze melts at a lower temperature than iron and can be cast in detailed moulds, which made it ideal for statues and bells. Iron eventually replaced it for everyday tools because iron ore is far more common, even though early iron was not always better. Bronze is still used today for bells, ship propellers, springs and sculptures.",
+    "how": "Copper and tin are melted together, usually about 90% copper and 10% tin. The tin atoms make it harder for the copper atoms to slide past each other, so the mixture is much harder than pure copper.",
+    "before": "People used stone, bone and wood for tools, and later soft pure copper.",
+    "impact": "Bronze gave people stronger tools and weapons and created huge trade networks, helping early kingdoms and cities grow.",
+    "facts": [
+      "The Bronze Age is named after this metal mix.",
+      "The Statue of Liberty is made of copper, not bronze — it turned green as the copper weathered.",
+      "Tin was so rare that ancient people traded it over hundreds or even thousands of kilometres.",
+      "Bronze is still used to make bells because it rings with a clear, long-lasting tone."
+    ],
+    "ledTo": [
+      "seismometer"
+    ],
+    "quiz": [
+      {
+        "q": "Bronze is mainly a mix of copper and which metal?",
+        "a": "Tin",
+        "wrong": [
+          "Gold",
+          "Aluminium",
+          "Iron"
+        ]
+      },
+      {
+        "q": "Which period of history is named after bronze?",
+        "a": "The Bronze Age",
+        "wrong": [
+          "The Ice Age",
+          "The Middle Ages",
+          "The Space Age"
+        ]
+      }
+    ],
+    "wiki": "Bronze"
+  },
+  {
+    "id": "bessemer-steel",
+    "name": "Bessemer Steel",
+    "emoji": "🏭",
+    "year": 1856,
+    "when": "1856",
+    "where": "England (UK)",
+    "who": "Henry Bessemer, with a similar process developed by William Kelly (USA)",
+    "category": "Building & Materials",
+    "kid": "Steel is super-strong, but long ago it was slow and expensive to make. Henry Bessemer found a way to blow air through melted iron to turn it into steel in minutes! Suddenly there was enough cheap steel for railways, bridges and tall buildings.",
+    "explorer": "Steel is iron with just a small amount of carbon, which makes it strong but not brittle. Before 1856, making steel took a lot of time and fuel, so it was used mainly for things like blades and springs. Henry Bessemer's converter blasted air through molten iron, burning away extra carbon very quickly. This made steel cheap enough to build railway tracks, ships, bridges and eventually skyscrapers.",
+    "expert": "Bessemer patented his process in Britain in 1856, but the American ironmaker William Kelly had experimented with a similar air-blowing method earlier, and credit is still discussed. The key chemistry is that oxygen in the air reacts with carbon and other impurities in molten pig iron, and the reaction itself releases enough heat to keep the metal liquid without extra fuel. Early Bessemer steel was often brittle until Robert Mushet showed that adding a manganese-rich alloy fixed the problem. The original process also could not remove phosphorus, so phosphorus-rich ores were unusable until Sidney Gilchrist Thomas and Percy Gilchrist developed a 'basic' lining in the late 1870s. Bessemer steel slashed the price of steel and drove the boom in railways and construction. It was later replaced by the open-hearth process and, from the 1950s, by the basic oxygen process, which blows pure oxygen instead of air.",
+    "how": "Air is blown through molten iron in a big egg-shaped container called a converter. Oxygen burns off extra carbon and impurities, and the burning itself keeps the iron hot enough to stay liquid.",
+    "before": "Steel was made slowly in small batches, for example by the crucible or cementation methods, and most large structures used wrought iron or cast iron instead.",
+    "impact": "Cheap steel made modern railways, ships, bridges and skyscrapers possible and powered the second Industrial Revolution.",
+    "facts": [
+      "A Bessemer converter could turn a batch of iron into steel in about 20 minutes or less.",
+      "The Eiffel Tower is made of wrought iron, not steel.",
+      "Bessemer converters shot dramatic showers of sparks and flames out of their tops.",
+      "Today most steel is made with the basic oxygen process, a descendant of Bessemer's idea."
+    ],
+    "ledTo": [
+      "skyscraper"
+    ],
+    "quiz": [
+      {
+        "q": "What did a Bessemer converter blow through molten iron?",
+        "a": "Air",
+        "wrong": [
+          "Steam",
+          "Sand",
+          "Water"
+        ]
+      },
+      {
+        "q": "In which year did Henry Bessemer patent his process?",
+        "a": "1856",
+        "wrong": [
+          "1656",
+          "1776",
+          "1956"
+        ]
+      }
+    ],
+    "wiki": "Bessemer process"
+  },
+  {
+    "id": "skyscraper",
+    "name": "Skyscraper",
+    "emoji": "🏙️",
+    "year": 1885,
+    "when": "1885",
+    "where": "Chicago, USA",
+    "who": "William Le Baron Jenney (Home Insurance Building), among several early designers",
+    "category": "Building & Materials",
+    "kid": "A skyscraper is a building so tall it seems to scrape the sky! The trick is a strong steel skeleton inside that holds the building up. Elevators make it easy to get to the top floors.",
+    "explorer": "Old tall buildings needed very thick walls at the bottom to hold up all the weight above. In the 1880s, architects in Chicago started using a frame of iron and steel to carry the building's weight instead. The Home Insurance Building, finished in 1885 and designed by William Le Baron Jenney, is often called the first skyscraper. Together with safe passenger elevators, steel frames let buildings rise higher and higher.",
+    "expert": "The Home Insurance Building in Chicago (1885, 10 storeys, later 12) is commonly named the first skyscraper, but historians debate it: earlier buildings in New York were tall, and Jenney's building used iron as well as steel. What matters most is the shift from load-bearing masonry walls to a metal skeleton frame, with outer walls that just hang on the frame like a 'curtain'. That shift depended on cheap steel, Elisha Otis's safety elevator, fireproofing, and high city land prices that made building upward worth it. Chicago's rebuilding after the Great Fire of 1871 helped make it a testing ground for these ideas. Very tall towers must also resist wind more than gravity, so modern skyscrapers use stiff cores, tuned mass dampers and shapes that break up the wind. The Burj Khalifa in Dubai, opened in 2010, is 828 metres tall.",
+    "how": "A steel (or reinforced concrete) frame of columns and beams carries the building's weight down to deep foundations. The outside walls are light 'curtain walls', and elevators carry people up and down.",
+    "before": "Buildings rarely went above about 10 storeys because thick stone or brick walls had to hold everything up, and people had to climb stairs.",
+    "impact": "Skyscrapers let cities pack many offices and homes onto small pieces of land and created the famous skylines of cities around the world.",
+    "facts": [
+      "The word 'skyscraper' was once used for a small sail at the very top of a ship's mast.",
+      "The Home Insurance Building was demolished in 1931.",
+      "The Burj Khalifa in Dubai is 828 metres tall.",
+      "Some skyscrapers have giant swinging weights inside, called tuned mass dampers, to reduce swaying in the wind."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Which city had the Home Insurance Building, often called the first skyscraper?",
+        "a": "Chicago",
+        "wrong": [
+          "Paris",
+          "London",
+          "Tokyo"
+        ]
+      },
+      {
+        "q": "What holds up most of a skyscraper's weight?",
+        "a": "A steel or concrete frame",
+        "wrong": [
+          "Thick glass windows",
+          "The elevators",
+          "Wooden walls"
+        ]
+      }
+    ],
+    "wiki": "Skyscraper"
+  },
+  {
+    "id": "vulcanized-rubber",
+    "name": "Vulcanized Rubber",
+    "emoji": "🛞",
+    "year": 1839,
+    "when": "1839",
+    "where": "Massachusetts, USA (and England)",
+    "who": "Charles Goodyear (USA), with Thomas Hancock (UK) patenting a similar process",
+    "category": "Building & Materials",
+    "kid": "Natural rubber gets sticky when it is hot and cracks when it is cold. Charles Goodyear found that cooking rubber with sulfur made it tough and bouncy in any weather! That's why we have rubber tyres, balls and boots.",
+    "explorer": "Rubber comes from the milky sap (latex) of rubber trees. Raw rubber was a disappointing material because it melted into goo in summer and turned stiff in winter. In 1839, Charles Goodyear discovered that heating rubber with sulfur changed it into a strong, stretchy material that stayed the same in heat and cold. This process is called vulcanization, after Vulcan, the Roman god of fire.",
+    "expert": "Long before Goodyear, the Olmec, Maya and Aztec peoples of Mesoamerica processed latex — studies suggest by mixing it with juice from morning glory vines — to make bouncy balls, sandals and waterproof items. Goodyear struggled for years and was often in debt; a popular story says he discovered vulcanization when he accidentally dropped a rubber-sulfur mix onto a hot stove, though details vary. He received a US patent in 1844, but Thomas Hancock in England had patented a similar process shortly before, after examining Goodyear's samples, and the two disputed credit. Chemically, sulfur forms cross-links between long rubber molecules, so they spring back instead of sliding apart. Vulcanized rubber made pneumatic tyres, hoses, seals, belts and insulation possible. The Goodyear Tire company was founded decades after his death and simply named in his honour.",
+    "how": "Natural rubber is heated with sulfur. The sulfur builds tiny bridges between the long rubber molecules, so the material stretches and then snaps back into shape instead of melting or cracking.",
+    "before": "People used leather, cloth soaked in oil or wax, and untreated rubber that turned sticky in heat and brittle in cold.",
+    "impact": "Tough rubber made car and bicycle tyres, waterproof boots, seals for machines and electrical insulation possible.",
+    "facts": [
+      "Ancient Mesoamerican peoples made rubber balls for ball games thousands of years ago.",
+      "The word 'vulcanization' comes from Vulcan, the Roman god of fire.",
+      "Charles Goodyear did not found the Goodyear Tire company — it was named after him decades after he died.",
+      "Goodyear spent years in debt while experimenting with rubber."
+    ],
+    "ledTo": [
+      "automobile"
+    ],
+    "quiz": [
+      {
+        "q": "What did Charles Goodyear heat with rubber to vulcanize it?",
+        "a": "Sulfur",
+        "wrong": [
+          "Sugar",
+          "Salt",
+          "Gold"
+        ]
+      },
+      {
+        "q": "Where does natural rubber come from?",
+        "a": "The sap of rubber trees",
+        "wrong": [
+          "Oil wells",
+          "Seaweed",
+          "Spider silk"
+        ]
+      }
+    ],
+    "wiki": "Vulcanization"
+  },
+  {
+    "id": "bakelite-plastic",
+    "name": "Bakelite (First Fully Synthetic Plastic)",
+    "emoji": "☎️",
+    "year": 1907,
+    "when": "1907",
+    "where": "Yonkers, New York, USA",
+    "who": "Leo Baekeland",
+    "category": "Building & Materials",
+    "kid": "Bakelite was the first plastic made completely from chemicals in a lab. It was hard, shiny and didn't catch fire easily, so it was used for old telephones and radios. It started the age of plastics — which is useful, but has also caused pollution.",
+    "explorer": "In 1907, the Belgian-American chemist Leo Baekeland mixed two chemicals, phenol and formaldehyde, under heat and pressure and created a new material. He named it Bakelite. It could be moulded into any shape and then set hard forever, and it didn't conduct electricity. It was used for telephones, radios, light switches, jewellery and car parts, and was nicknamed 'the material of a thousand uses'.",
+    "expert": "Bakelite is usually called the first fully synthetic plastic. Earlier plastics such as Parkesine (1862) and celluloid (1870) were semi-synthetic, made by chemically changing natural cellulose from plants. Bakelite is a thermosetting plastic: once heated and moulded, its molecules lock into a 3D network, so it cannot be melted and reshaped — which makes it heat-resistant but also hard to recycle. Its excellent electrical insulation made it vital for the fast-growing electrical and radio industries. Before Bakelite, Baekeland had already become wealthy by selling his Velox photographic paper to George Eastman of Kodak. Bakelite opened the door to the huge plastics industry of the 20th century, which brought cheap, light, useful products but also long-lasting plastic waste in oceans and landfills.",
+    "how": "Phenol and formaldehyde react under heat and pressure to form long molecules that link together into a rigid 3D network. Once it sets in a mould, it stays hard and won't melt again.",
+    "before": "People used natural materials such as wood, metal, rubber, ivory, tortoiseshell, shellac and early semi-synthetic plastics like celluloid.",
+    "impact": "Bakelite began the age of synthetic plastics, making cheap, mouldable and electrically safe products for millions of homes — along with the long-term challenge of plastic waste.",
+    "facts": [
+      "Bakelite was advertised as 'the material of a thousand uses'.",
+      "Old Bakelite telephones and radios are now popular collector's items.",
+      "Bakelite cannot be melted and remoulded, so it is very hard to recycle.",
+      "Leo Baekeland had already sold an invention, Velox photo paper, to George Eastman of Kodak."
+    ],
+    "ledTo": [
+      "lego-brick"
+    ],
+    "quiz": [
+      {
+        "q": "Who invented Bakelite?",
+        "a": "Leo Baekeland",
+        "wrong": [
+          "Thomas Edison",
+          "Marie Curie",
+          "Henry Ford"
+        ]
+      },
+      {
+        "q": "What happens if you heat set Bakelite?",
+        "a": "It stays hard and won't melt",
+        "wrong": [
+          "It melts into liquid",
+          "It turns into rubber",
+          "It glows blue"
+        ]
+      }
+    ],
+    "wiki": "Bakelite"
+  },
+  {
+    "id": "nylon",
+    "name": "Nylon",
+    "emoji": "🧵",
+    "year": 1935,
+    "when": "1935",
+    "where": "Wilmington, Delaware, USA (DuPont)",
+    "who": "Wallace Carothers and his team at DuPont",
+    "category": "Building & Materials",
+    "kid": "Nylon was the first fabric made completely from chemicals instead of plants or animals. It is strong, stretchy and smooth. It's used in toothbrush bristles, jackets, ropes and backpacks!",
+    "explorer": "In 1935, chemist Wallace Carothers and his team at the DuPont company created nylon, the first fully synthetic fibre. They made long chain-like molecules that could be pulled into strong, silky threads. Nylon's first product was toothbrush bristles in 1938, and nylon stockings became hugely popular in 1940. During World War II, nylon was used for parachutes, ropes and tents.",
+    "expert": "Carothers' group at DuPont studied polymers — very long molecules built from repeating units — and in 1935 produced nylon 6,6, a polyamide made from two simpler chemicals. The fibre is made by melting the polymer and pushing it through tiny holes, then stretching the threads to line up the molecules, which makes them strong. Nylon was promoted as an alternative to silk, much of which came from Japan, and when the US entered World War II, nylon was redirected to parachutes, tyre cords and other military uses. A popular story says the name stands for 'New York–London', but DuPont said the name was not an acronym. Nylon launched the era of synthetic fabrics like polyester and acrylic. Like other plastics, it does not easily break down, and tiny fibres shed from synthetic clothes contribute to microplastic pollution.",
+    "how": "Two chemicals are joined into very long chain molecules called polymers. The molten polymer is squeezed through tiny holes to form threads, then stretched so the chains line up and become strong.",
+    "before": "Fabrics and ropes were made from natural fibres such as silk, cotton, wool, linen and hemp.",
+    "impact": "Nylon started the age of synthetic fabrics, giving us strong, cheap materials for clothing, ropes, gear and machine parts.",
+    "facts": [
+      "The very first nylon product sold was toothbrush bristles, in 1938.",
+      "During World War II, nylon was used to make parachutes.",
+      "The story that 'nylon' stands for 'New York–London' is not true — DuPont said it wasn't an acronym.",
+      "Nylon is also used in guitar strings, fishing lines and gear parts."
+    ],
+    "ledTo": [
+      "velcro"
+    ],
+    "quiz": [
+      {
+        "q": "What was the first product made with nylon?",
+        "a": "Toothbrush bristles",
+        "wrong": [
+          "Car tyres",
+          "Rain boots",
+          "Glass bottles"
+        ]
+      },
+      {
+        "q": "Which company invented nylon?",
+        "a": "DuPont",
+        "wrong": [
+          "Apple",
+          "LEGO",
+          "Ford"
+        ]
+      }
+    ],
+    "wiki": "Nylon"
+  },
+  {
+    "id": "gunpowder",
+    "name": "Gunpowder",
+    "emoji": "🎆",
+    "year": 850,
+    "when": "around the 9th century",
+    "where": "China",
+    "who": "Unknown — Chinese alchemists of the Tang dynasty",
+    "category": "Building & Materials",
+    "kid": "Gunpowder is a black powder that burns super fast with a big bang. It was discovered in China over 1,000 years ago. Today it is used in fireworks, but sadly it was also used to make weapons.",
+    "explorer": "Gunpowder is a mix of three things: saltpetre, sulfur and charcoal. Chinese alchemists discovered it around the 9th century, and it is often said they were searching for potions for long life. The Chinese soon used it in fireworks, fire arrows and early rockets. Later it spread across Asia and to Europe, where it changed warfare, but it was also used to blast through rock for mines, roads and canals.",
+    "expert": "Black powder is a mixture of potassium nitrate (saltpetre), which supplies oxygen, plus charcoal and sulfur as fuels; because the oxygen is built in, it burns extremely quickly even in a closed space, producing hot expanding gases. Chinese texts from around the mid-9th century mention mixtures that burst into flame, and the oldest known written formula appears in the Wujing Zongyao, a Song dynasty military book from 1044. Gunpowder weapons spread through Asia and the Islamic world and reached Europe by the 13th century, where cannons eventually made old castle walls less useful. Its peaceful uses were huge too: mining, quarrying and building canals and railway tunnels. In the late 1800s, black powder was mostly replaced by more powerful explosives such as Alfred Nobel's dynamite for blasting, and by smokeless powder for guns. It is still used in fireworks and some historical replicas.",
+    "how": "Saltpetre releases oxygen when heated, letting the charcoal and sulfur burn extremely fast. The burning makes lots of hot gas very quickly, which pushes outward with great force.",
+    "before": "People broke rock by hand, with fire and water, or with wedges, and weapons were powered by muscles, bows and catapults.",
+    "impact": "Gunpowder transformed warfare and helped topple old castles, but it also enabled mining, tunnels and the fireworks and rockets that came later.",
+    "facts": [
+      "The oldest known written gunpowder recipe is in a Chinese book from 1044.",
+      "Gunpowder is made of saltpetre, sulfur and charcoal.",
+      "Chinese 'fire arrows' first carried burning gunpowder, and later versions were pushed along by it, making them some of the first rockets.",
+      "Black powder is still used today to launch many fireworks."
+    ],
+    "ledTo": [
+      "liquid-fuel-rocket",
+      "internal-combustion-engine"
+    ],
+    "quiz": [
+      {
+        "q": "Where was gunpowder first discovered?",
+        "a": "China",
+        "wrong": [
+          "Egypt",
+          "England",
+          "Mexico"
+        ]
+      },
+      {
+        "q": "Which is NOT an ingredient of gunpowder?",
+        "a": "Salt",
+        "wrong": [
+          "Sulfur",
+          "Charcoal",
+          "Saltpetre"
+        ]
+      }
+    ],
+    "wiki": "Gunpowder"
+  },
+  {
+    "id": "kite",
+    "name": "Kite",
+    "emoji": "🪁",
+    "year": -450,
+    "when": "around the 5th century BCE (by tradition)",
+    "where": "China",
+    "who": "Traditionally credited to the Chinese thinkers Mozi and Lu Ban",
+    "category": "Fun & Arts",
+    "kid": "A kite is a light frame covered with paper or cloth that flies on the wind while you hold a string. Kites were invented in China a very long time ago. People have used them for fun, for festivals, and even for science!",
+    "explorer": "Chinese tradition says kites were first made around 2,400 years ago, possibly from wood or bamboo and silk. Kites fly because wind pushing against the tilted surface creates lift, while the string holds the kite in place. Over the centuries kites spread across Asia and later to Europe. They have been used for celebrations, signalling, measuring the weather, and testing ideas that helped lead to the airplane.",
+    "expert": "Kites almost certainly originated in China, where traditions credit the philosopher Mozi and the craftsman Lu Ban (5th–4th centuries BCE), though the exact date and inventor cannot be confirmed. Silk and bamboo, both available in ancient China, were ideal light, strong materials, and paper kites followed later. A kite is held at an angle to the wind; the air deflected downward creates lift, and the tether lets it hold position instead of being blown away. Kites had serious scientific uses: weather services lifted instruments on kites, and in 1901 Guglielmo Marconi's team used a kite to raise an antenna when receiving the first transatlantic radio signal. The Wright brothers tested their wing-warping idea on a large kite in 1899 before building gliders. Benjamin Franklin's famous 1752 kite experiment is a well-known story, but historians still debate exactly how it was carried out.",
+    "how": "The kite is tilted into the wind so that air pushes against its surface and is deflected downward, creating lift. The string pulls against the wind and keeps the kite in the right angle, while a tail can help it stay steady.",
+    "before": "People had no way to lift objects high into the sky and keep them there.",
+    "impact": "Kites brought joy to festivals worldwide and helped scientists study weather, radio and flight.",
+    "facts": [
+      "The Wright brothers tested their flight-control ideas on a kite in 1899.",
+      "In 1901, Marconi's team used a kite to lift an antenna to receive a radio signal across the Atlantic.",
+      "Weather scientists once used kites to lift instruments high into the sky.",
+      "Benjamin Franklin's 1752 kite experiment is famous, but its exact details are still debated."
+    ],
+    "ledTo": [
+      "airplane"
+    ],
+    "quiz": [
+      {
+        "q": "In which country were kites first invented?",
+        "a": "China",
+        "wrong": [
+          "Brazil",
+          "Norway",
+          "Australia"
+        ]
+      },
+      {
+        "q": "Which famous inventors tested ideas with a kite before flying?",
+        "a": "The Wright brothers",
+        "wrong": [
+          "The Lumière brothers",
+          "The Grimm brothers",
+          "The Mario brothers"
+        ]
+      }
+    ],
+    "wiki": "Kite"
+  },
+  {
+    "id": "playing-cards",
+    "name": "Playing Cards",
+    "emoji": "🃏",
+    "year": 850,
+    "when": "around the 9th century",
+    "where": "China",
+    "who": "Unknown — Tang dynasty China",
+    "category": "Fun & Arts",
+    "kid": "Playing cards were invented in China more than 1,000 years ago. They travelled all the way to Europe, changing their pictures along the way. Today one deck can be used for hundreds of different games!",
+    "explorer": "The earliest known playing cards come from China around the 9th century, during the Tang dynasty, not long after paper and printing became common there. Cards spread west through Persia and the Mamluk Empire in Egypt and reached Europe in the late 1300s. Different places used different suits. The hearts, diamonds, clubs and spades we use today were created in France around 1480.",
+    "expert": "Chinese writings mention a 'leaf game' played in the Tang dynasty in the 9th century, which many historians consider the earliest reference to card games, though exactly how those games worked is uncertain. Cards depended on cheap paper and printing, which is why they appeared in China first. By the 14th century, the Mamluk Sultanate used decks with four suits — cups, coins, swords and polo sticks — and these strongly influenced the first European cards, recorded from the 1370s. Italian, Spanish and German decks kept different suits, while French makers around 1480 introduced the simple hearts, diamonds, clubs and spades, which were easy to print with stencils. Tarot cards began in 15th-century Italy as an ordinary card game; their use for fortune-telling came centuries later. The standard 52-card French deck is now used worldwide.",
+    "how": "Each card has a face showing its suit and rank and an identical back, so other players can't tell which card is which. The rules of each game decide which cards beat others.",
+    "before": "People played board games, dice games and games with stones, sticks or tiles.",
+    "impact": "Playing cards became one of the most popular games in the world and helped spread printing and paper-making as businesses.",
+    "facts": [
+      "Early Mamluk cards from Egypt had suits of cups, coins, swords and polo sticks.",
+      "The suits hearts, diamonds, clubs and spades were created in France around 1480.",
+      "Tarot cards started out as an ordinary card game in 15th-century Italy.",
+      "A standard French-style deck has 52 cards, plus jokers."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Where were playing cards first invented?",
+        "a": "China",
+        "wrong": [
+          "France",
+          "USA",
+          "Italy"
+        ]
+      },
+      {
+        "q": "How many cards are in a standard deck, not counting jokers?",
+        "a": "52",
+        "wrong": [
+          "40",
+          "48",
+          "64"
+        ]
+      }
+    ],
+    "wiki": "Playing card"
+  },
+  {
+    "id": "piano",
+    "name": "Piano",
+    "emoji": "🎹",
+    "year": 1700,
+    "when": "around 1700",
+    "where": "Florence, Italy",
+    "who": "Bartolomeo Cristofori",
+    "category": "Fun & Arts",
+    "kid": "When you press a piano key, a little felt hammer hits a string and makes it sing! The piano was invented in Italy around 1700. Its full name means 'soft-loud' because you can play quietly or loudly.",
+    "explorer": "Around 1700, Bartolomeo Cristofori, who looked after musical instruments for the powerful Medici family in Florence, built a new keyboard instrument. Unlike the harpsichord, which plucks its strings, his instrument used hammers to strike them. That meant pressing a key harder made a louder sound. He called it a 'harpsichord with soft and loud', which later became 'pianoforte' and then just 'piano'.",
+    "expert": "Cristofori's key innovation was the hammer 'action', including an escapement that lets the hammer fall back right after striking so the string can keep ringing, plus dampers that silence strings when the key is released. Earlier keyboard instruments had limits: the harpsichord could not change volume by touch, and the clavichord was very quiet. The piano took decades to catch on, and builders in Germany, Austria and England kept improving it; composers like Mozart and Beethoven wrote for steadily more powerful instruments. In the 19th century, cast-iron frames allowed much higher string tension, giving the big, loud sound of modern concert grands. Today's standard piano has 88 keys. Three Cristofori pianos survive, the oldest dated 1720, at the Metropolitan Museum of Art in New York.",
+    "how": "Pressing a key moves a lever that throws a felt-covered hammer at the strings, which vibrate to make sound. A wooden soundboard makes the sound louder, and dampers stop the strings when you let go.",
+    "before": "People played harpsichords, which pluck strings and can't play louder or softer by touch, and clavichords, which were very quiet.",
+    "impact": "The piano became the most important instrument for composing, teaching and playing music in homes and concert halls for centuries.",
+    "facts": [
+      "'Piano' is short for 'pianoforte', which means 'soft-loud' in Italian.",
+      "A modern standard piano has 88 keys: 52 white and 36 black.",
+      "The oldest surviving piano, built by Cristofori in 1720, is at the Metropolitan Museum of Art in New York.",
+      "A piano is both a string instrument and a percussion instrument, because hammers hit the strings."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Who invented the piano?",
+        "a": "Bartolomeo Cristofori",
+        "wrong": [
+          "Wolfgang Amadeus Mozart",
+          "Johann Sebastian Bach",
+          "Antonio Vivaldi"
+        ]
+      },
+      {
+        "q": "How many keys does a standard modern piano have?",
+        "a": "88",
+        "wrong": [
+          "52",
+          "64",
+          "100"
+        ]
+      }
+    ],
+    "wiki": "Piano"
+  },
+  {
+    "id": "motion-picture",
+    "name": "Motion Picture (Movies)",
+    "emoji": "🎬",
+    "year": 1895,
+    "when": "1890s",
+    "where": "France, the USA, the UK and Germany",
+    "who": "Many inventors — including Louis Le Prince, Thomas Edison and W. K. L. Dickson, and the Lumière brothers",
+    "category": "Fun & Arts",
+    "kid": "A movie is really lots of still pictures shown one after another very fast. Your brain sees them as smooth movement! In 1895, the Lumière brothers in Paris showed movies to a paying audience for the first time.",
+    "explorer": "Movies work by showing many photographs, called frames, very quickly — today usually 24 every second. In the 1880s and 1890s, several inventors raced to build cameras and projectors. Thomas Edison's company, led by W. K. L. Dickson, made the Kinetoscope, a box you peeped into one person at a time. In December 1895, Auguste and Louis Lumière showed films on a big screen to a paying audience in Paris, which is often called the birth of cinema.",
+    "expert": "No single person invented movies. Eadweard Muybridge's 1878 photo sequences of a galloping horse showed how fast photographs could capture motion. Louis Le Prince filmed short scenes in Leeds, England, in 1888, but he mysteriously disappeared in 1890 before he could show his work publicly. Edison's lab, where W. K. L. Dickson did much of the work, developed the Kinetoscope peep-show viewer, demonstrated in the early 1890s, using flexible celluloid film. In 1895, both the Skladanowsky brothers in Berlin and the Lumière brothers in Paris held public film screenings; the Lumières' Cinématographe, which could film, print and project, became the most influential. A popular story says audiences fled in panic from an approaching train on screen, but there is little evidence it really happened. Synchronised sound arrived in feature films in 1927 with The Jazz Singer.",
+    "how": "A camera takes many photos in quick succession on a strip of film or a digital sensor. A projector or screen then shows them in order very fast, and our eyes and brain blend them into smooth motion.",
+    "before": "People watched live theatre, magic lantern slide shows and spinning toys like the zoetrope that made short looping animations.",
+    "impact": "Movies became a giant art form and industry, letting stories, news and ideas reach audiences all around the world.",
+    "facts": [
+      "Eadweard Muybridge's 1878 photos proved that a galloping horse lifts all four hooves off the ground at once.",
+      "Most films are shown at 24 frames per second.",
+      "Louis Le Prince filmed scenes in 1888 but vanished in 1890, and his fate is still a mystery.",
+      "The Jazz Singer (1927) was the first feature-length film with synchronised talking scenes."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Which brothers held a famous paid film screening in Paris in 1895?",
+        "a": "The Lumière brothers",
+        "wrong": [
+          "The Wright brothers",
+          "The Grimm brothers",
+          "The Marx brothers"
+        ]
+      },
+      {
+        "q": "How many frames per second do most films show?",
+        "a": "24",
+        "wrong": [
+          "2",
+          "5",
+          "500"
+        ]
+      }
+    ],
+    "wiki": "Cinématographe"
+  },
+  {
+    "id": "electric-guitar",
+    "name": "Electric Guitar",
+    "emoji": "🎸",
+    "year": 1931,
+    "when": "early 1930s",
+    "where": "Los Angeles, California, USA",
+    "who": "George Beauchamp and Adolph Rickenbacker (first commercial model), with later solid-body designs by Leo Fender and Les Paul",
+    "category": "Fun & Arts",
+    "kid": "An electric guitar uses magnets to 'listen' to its metal strings and send the sound to an amplifier. That means it can play REALLY loud! It helped create rock and roll.",
+    "explorer": "In big bands of the 1920s and 1930s, acoustic guitars were too quiet to hear over trumpets and drums. In the early 1930s, George Beauchamp and Adolph Rickenbacker built one of the first electric guitars, a lap steel nicknamed the 'Frying Pan' because of its round body and long neck. It used a pickup — a magnet wrapped in wire — to turn string vibrations into an electrical signal. In the 1950s, solid-body guitars from Fender and Gibson became hugely popular and powered rock and roll.",
+    "expert": "Several inventors experimented with amplifying guitars in the 1920s and early 1930s, but the Rickenbacker 'Frying Pan' lap steel (from about 1932, designed by George Beauchamp) is usually considered the first commercially successful electric guitar; its patent was granted in 1937. Gibson's ES-150 of 1936 brought pickups to hollow-body jazz guitars, but hollow bodies tended to howl with feedback at high volume. Solid bodies reduced that problem: Les Paul built an experimental solid-body called 'The Log' around 1940, and Leo Fender's Esquire and Broadcaster/Telecaster (around 1950) were among the first mass-produced solid-body electric guitars, followed by the Gibson Les Paul in 1952. A magnetic pickup works by electromagnetic induction: a vibrating steel string disturbs the magnet's field and induces a tiny current in the coil. Amplifiers and effects such as distortion then shaped entirely new sounds, from blues and rock to metal.",
+    "how": "Under the steel strings sit pickups, which are magnets wrapped in thousands of turns of thin wire. When a string vibrates, it creates a tiny electric signal in the wire, which an amplifier makes loud enough to play through a speaker.",
+    "before": "Guitarists played acoustic guitars, whose sound comes from a hollow wooden body and is fairly quiet.",
+    "impact": "The electric guitar helped create rock and roll and many styles of modern popular music.",
+    "facts": [
+      "The first commercial electric guitar was nicknamed the 'Frying Pan' because of its shape.",
+      "Magnetic pickups need strings made of a magnetic metal such as steel, so nylon strings won't make a sound through them.",
+      "Les Paul built an early solid-body guitar he called 'The Log'.",
+      "The Fender Telecaster from around 1950 is still made today."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "What was the first commercial electric guitar nicknamed?",
+        "a": "The Frying Pan",
+        "wrong": [
+          "The Spatula",
+          "The Teapot",
+          "The Banana"
+        ]
+      },
+      {
+        "q": "What part of an electric guitar turns string vibrations into electricity?",
+        "a": "The pickup",
+        "wrong": [
+          "The tuning pegs",
+          "The strap",
+          "The fretboard"
+        ]
+      }
+    ],
+    "wiki": "Electric guitar"
+  },
+  {
+    "id": "roller-coaster",
+    "name": "Roller Coaster",
+    "emoji": "🎢",
+    "year": 1884,
+    "when": "1884 (ice slides go back to the 1600s)",
+    "where": "Coney Island, New York, USA (inspired by Russian ice slides)",
+    "who": "LaMarcus Adna Thompson (Switchback Railway), building on earlier Russian and French rides",
+    "category": "Fun & Arts",
+    "kid": "Roller coasters started as giant ice slides in Russia hundreds of years ago! In 1884, a gentle coaster opened at Coney Island in New York. Today's coasters zoom, drop and loop using the power of gravity.",
+    "explorer": "In the 1600s, people in Russia built tall wooden slides covered in ice and rode down them on sleds. In 1817, a ride in Paris put cars on a track with wheels locked in place. In 1884, LaMarcus Adna Thompson opened the Switchback Railway at Coney Island, often called America's first roller coaster. Most coasters have no engine on the train: a lift pulls them to the top, then gravity does the rest.",
+    "expert": "Winter ice slides were popular around St Petersburg from the 17th century, and the idea spread to France, where the 1817 Promenades Aériennes in Paris used cars locked onto a track. American coasters grew partly out of gravity railways such as Pennsylvania's Mauch Chunk mine railway, which began carrying tourists in the 1800s. Thompson's 1884 Switchback Railway at Coney Island was slow — riders went down one track, then switched to another to return — but it was a hit, and engineers soon added complete circuits, chain lifts and loops. Early loops were circular and very rough on riders; modern loops are teardrop-shaped (clothoid) to reduce the force. A coaster turns gravitational potential energy into kinetic energy, so the first drop is usually the highest point. Steel tracks, launch systems and computer design have produced rides like Formula Rossa in Abu Dhabi, which reaches about 240 km/h.",
+    "how": "A chain lift or launch system gives the train energy, often by pulling it to the top of a big hill. Gravity then speeds it down, and the train's momentum carries it through the rest of the track.",
+    "before": "People rode ice slides on sleds, swings, carousels and simple fairground rides.",
+    "impact": "Roller coasters became the star attraction of amusement parks worldwide and are a famous real-life example of physics in action.",
+    "facts": [
+      "In French and Spanish, roller coasters are called 'Russian mountains'.",
+      "In Russian, roller coasters are called 'American mountains'.",
+      "Modern coaster loops are teardrop-shaped rather than perfect circles to make them smoother.",
+      "Formula Rossa in Abu Dhabi reaches about 240 km/h."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "What were the earliest roller-coaster-like rides?",
+        "a": "Russian ice slides",
+        "wrong": [
+          "Chinese kites",
+          "Roman chariots",
+          "Dutch windmills"
+        ]
+      },
+      {
+        "q": "What force makes most coasters speed down hills?",
+        "a": "Gravity",
+        "wrong": [
+          "Magnetism from the Moon",
+          "Wind",
+          "Steam"
+        ]
+      }
+    ],
+    "wiki": "Roller coaster"
+  },
+  {
+    "id": "lego-brick",
+    "name": "LEGO Brick",
+    "emoji": "🧩",
+    "year": 1958,
+    "when": "1958",
+    "where": "Billund, Denmark",
+    "who": "Ole Kirk Christiansen and Godtfred Kirk Christiansen (the LEGO company)",
+    "category": "Fun & Arts",
+    "kid": "LEGO bricks click together with little bumps on top and tubes underneath. A brick from 1958 still fits with one made today! The name LEGO comes from Danish words meaning 'play well'.",
+    "explorer": "Ole Kirk Christiansen, a carpenter in Billund, Denmark, started making wooden toys in 1932 and named his company LEGO in 1934, from the Danish 'leg godt' — 'play well'. In 1949, the company began making plastic bricks. In 1958, they patented the brick we know today, with tubes inside that grip the studs of the brick below. This 'clutch power' lets you build things that stay together but can still be taken apart.",
+    "expert": "LEGO's 1949 'Automatic Binding Bricks' were closely based on Kiddicraft's self-locking bricks, designed by Hilary Page in Britain (in 1981 the LEGO Group bought the rights to the Kiddicraft bricks). The early bricks had studs but hollow undersides, so models did not hold together well. The 1958 patent added hollow tubes underneath, giving firm grip at three points around each stud, and that coupling system has stayed compatible ever since. In 1963 the bricks switched from cellulose acetate to ABS plastic, which is tougher and keeps its colour and shape better. Bricks are made with very precise moulds, measured in thousandths of a millimetre, so that every brick fits. In 2004 the Danish mathematician Søren Eilers calculated that six 2x4 bricks of the same colour can be combined in 915,103,765 ways; LEGO's older figure of about 103 million only counted tall stacks. The company is also researching more sustainable plastics.",
+    "how": "Each brick has studs on top and tubes underneath. When you press two bricks together, the studs squeeze snugly between the walls and tubes of the brick above, holding them tight by friction.",
+    "before": "Kids built with wooden blocks, construction sets with screws and metal strips, or bricks that didn't lock together firmly.",
+    "impact": "LEGO bricks became one of the world's most popular toys, inspiring creativity and teaching building and engineering skills.",
+    "facts": [
+      "'LEGO' comes from the Danish words 'leg godt', meaning 'play well'.",
+      "LEGO bricks from 1958 still fit with bricks made today.",
+      "Six 2x4 LEGO bricks of the same colour can be combined in 915,103,765 ways.",
+      "LEGO started out making wooden toys before switching to plastic."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Which country does LEGO come from?",
+        "a": "Denmark",
+        "wrong": [
+          "Germany",
+          "Japan",
+          "Canada"
+        ]
+      },
+      {
+        "q": "What does 'leg godt', the origin of LEGO, mean?",
+        "a": "Play well",
+        "wrong": [
+          "Build big",
+          "Little bricks",
+          "Click together"
+        ]
+      }
+    ],
+    "wiki": "Lego"
+  },
+  {
+    "id": "rubiks-cube",
+    "name": "Rubik's Cube",
+    "emoji": "🎲",
+    "year": 1974,
+    "when": "1974",
+    "where": "Budapest, Hungary",
+    "who": "Ernő Rubik",
+    "category": "Fun & Arts",
+    "kid": "The Rubik's Cube is a twisty puzzle with six colourful sides. You mix it up, then try to make each side one colour again! It was invented in Hungary in 1974 by a teacher named Ernő Rubik.",
+    "explorer": "Ernő Rubik was a Hungarian design and architecture teacher who wanted a way to help students think about moving things in 3D. In 1974, he built a cube whose layers could twist without falling apart. When he scrambled it, he realised it was a hard puzzle to solve! It went on sale in Hungary as the 'Magic Cube' in 1977 and became a worldwide craze after 1980 under the name Rubik's Cube.",
+    "expert": "The cube's clever part is its hidden core: a central spindle holds the six centre pieces, and the edge and corner pieces have shaped tabs that hug each other so every layer can rotate. A standard 3x3x3 cube has about 43 quintillion (43,252,003,274,489,856,000) possible arrangements, yet in 2010 researchers proved with heavy computer help that any position can be solved in 20 moves or fewer — a number nicknamed 'God's Number'. Rubik received a Hungarian patent in 1975, and the toy company Ideal launched it internationally in 1980. Other inventors had patented or proposed similar puzzles around the same time, including Terutoshi Ishigi in Japan, but Rubik's design became the famous one. The cube is used to teach group theory in mathematics, and speedcubing is a global competitive sport with official world records.",
+    "how": "A hidden central mechanism lets each of the six faces turn independently while all 26 visible pieces stay locked together. Solving it means using sequences of moves, called algorithms, to put pieces back without messing up the ones already solved.",
+    "before": "People enjoyed jigsaws, sliding-tile puzzles like the 15 puzzle, and mechanical brain teasers.",
+    "impact": "The Rubik's Cube became one of the best-selling toys ever and sparked interest in maths, puzzles and speedcubing competitions.",
+    "facts": [
+      "A standard Rubik's Cube has about 43 quintillion possible positions.",
+      "Any scrambled Rubik's Cube can be solved in 20 moves or fewer.",
+      "It was first sold in Hungary in 1977 as the 'Magic Cube'.",
+      "Ernő Rubik was a teacher of design and architecture when he invented it."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "In which country was the Rubik's Cube invented?",
+        "a": "Hungary",
+        "wrong": [
+          "Japan",
+          "USA",
+          "Denmark"
+        ]
+      },
+      {
+        "q": "What is the most moves ever needed to solve any scrambled cube?",
+        "a": "20",
+        "wrong": [
+          "6",
+          "54",
+          "100"
+        ]
+      }
+    ],
+    "wiki": "Rubik's Cube"
+  },
+  {
+    "id": "skateboard",
+    "name": "Skateboard",
+    "emoji": "🛹",
+    "year": 1950,
+    "when": "late 1940s–1950s",
+    "where": "California, USA",
+    "who": "Unknown — California surfers and kids (no single inventor)",
+    "category": "Fun & Arts",
+    "kid": "Surfers in California wanted to 'surf' on land when there were no waves. So they put wheels on wooden boards! Today skateboarding is even an Olympic sport.",
+    "explorer": "In the late 1940s and 1950s, surfers and kids in California attached roller-skate wheels to wooden boards and called it 'sidewalk surfing'. Nobody knows exactly who made the first one. The early wheels were made of metal or clay and gave a bumpy ride. In the 1970s, smooth, grippy polyurethane wheels made skateboarding much better, and riders invented tricks like the ollie.",
+    "expert": "Skateboarding has no single inventor; homemade boards built from crates, planks and roller-skate parts appeared in California, and factory-made boards followed in the late 1950s. Its popularity rose and crashed several times, partly because early clay and metal wheels were slippery and caused falls. In 1972, Frank Nasworthy introduced polyurethane wheels, which gripped the ground and rolled smoothly, and better trucks and bearings followed. During the mid-1970s drought, skaters in Southern California rode empty backyard swimming pools, which led to vertical (vert) skating. The ollie was developed on ramps by Alan 'Ollie' Gelfand in the late 1970s and adapted to flat ground by Rodney Mullen in the early 1980s. Skateboarding made its Olympic debut at the Tokyo 2020 Games, held in 2021.",
+    "how": "A deck (the board) is attached to two metal trucks, each holding two wheels. Leaning on the board tilts the trucks so the board turns, and pushing with one foot keeps it rolling.",
+    "before": "Kids rode scooters made from boxes and roller skates, and surfers could only surf when the ocean had waves.",
+    "impact": "Skateboarding grew into a worldwide sport and culture that shaped fashion, music, art and video games.",
+    "facts": [
+      "Early skateboarding was called 'sidewalk surfing'.",
+      "Polyurethane wheels, introduced in 1972, made skateboarding much smoother and safer.",
+      "Skaters in the 1970s rode empty swimming pools during a California drought.",
+      "Skateboarding became an Olympic sport at the Tokyo 2020 Games, held in 2021."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Who first started riding skateboards?",
+        "a": "California surfers",
+        "wrong": [
+          "Russian ice skaters",
+          "Roman soldiers",
+          "Dutch farmers"
+        ]
+      },
+      {
+        "q": "At which Olympic Games did skateboarding first appear?",
+        "a": "Tokyo 2020",
+        "wrong": [
+          "London 1948",
+          "Sydney 2000",
+          "Beijing 2008"
+        ]
+      }
+    ],
+    "wiki": "Skateboard"
+  },
+  {
+    "id": "crayon",
+    "name": "Crayon",
+    "emoji": "🖍️",
+    "year": 1903,
+    "when": "1903 (Crayola); wax crayons existed earlier",
+    "where": "USA",
+    "who": "Edwin Binney and C. Harold Smith (Crayola), building on earlier European wax crayons",
+    "category": "Fun & Arts",
+    "kid": "Crayons are sticks of coloured wax that make drawing fun and easy. In 1903, a company sold the first box of Crayola crayons with 8 colours. Now there are over a hundred colours to choose from!",
+    "explorer": "Artists in Europe were using sticks of wax mixed with colour long before 1903. But the American company Binney & Smith, run by cousins Edwin Binney and C. Harold Smith, made crayons that were cheap, safe and perfect for children. Their first Crayola box in 1903 had 8 colours and cost a nickel (5 cents). Crayons are made by mixing melted paraffin wax with coloured powder called pigment and pouring it into moulds.",
+    "expert": "Wax and pigment drawing sticks were used in Europe in the 19th century, and the word 'crayon' comes from French, where it originally meant a pencil or chalk. Binney & Smith already made industrial pigments, including carbon black and slate school pencils, and saw that schools needed affordable, non-toxic colouring sticks. The name Crayola was suggested by Alice Binney, Edwin's wife, combining the French 'craie' (chalk) with 'ola' from 'oléagineux' (oily). Making a crayon involves melting paraffin wax, blending in pigment, pouring it into moulds, cooling it and wrapping it in a paper label that also keeps hands clean. Crayola has added, renamed and retired colours over the years; for example, 'Dandelion' was retired in 2017. Cheap crayons made art a normal part of childhood and school around the world.",
+    "how": "Paraffin wax is melted and mixed with coloured pigment powder, then poured into crayon-shaped moulds to cool and harden. When you rub a crayon on paper, a thin layer of coloured wax rubs off and sticks.",
+    "before": "Children drew with chalk, charcoal, pencils or expensive artists' pastels and paints.",
+    "impact": "Cheap, safe crayons put colour and art into the hands of almost every child.",
+    "facts": [
+      "The first Crayola box in 1903 had 8 colours and cost 5 cents.",
+      "The name Crayola was suggested by Alice Binney, a schoolteacher and Edwin Binney's wife.",
+      "Crayola retired the colour 'Dandelion' in 2017.",
+      "The paper wrapper on a crayon helps keep fingers clean and stops the crayon from breaking."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "How many colours were in the first Crayola box?",
+        "a": "8",
+        "wrong": [
+          "3",
+          "24",
+          "64"
+        ]
+      },
+      {
+        "q": "What are crayons mainly made of?",
+        "a": "Wax and pigment",
+        "wrong": [
+          "Clay and water",
+          "Graphite",
+          "Chalk and glue"
+        ]
+      }
+    ],
+    "wiki": "Crayon"
+  }
+]

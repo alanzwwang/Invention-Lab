@@ -1,0 +1,157 @@
+{
+  "n": 7,
+  "title": "BlackBerry and the Keyboard Years",
+  "when": "1984 – 2010",
+  "summary": "In a small Canadian city, two friends started a company that built a little gadget with a tiny keyboard. It got email to busy people the second it was sent, and soon presidents, bankers and movie stars could not put it down. People even joked it was so addictive they called it the 'CrackBerry'!",
+  "sections": [
+    {
+      "heading": "Two Friends from Windsor",
+      "paragraphs": [
+        "Our story starts not in California, but in a chilly university town in Canada called Waterloo, in the province of Ontario. Waterloo is about an hour and a half's drive west of Toronto. In the early 1980s it was known for farms, insurance companies and a fast-growing university that was famous for training engineers. That university is where a young man named Mike Lazaridis was studying electrical engineering.",
+        "Lazaridis was born in 1961 in Istanbul, Turkey, to a Greek family, and moved to Canada with his parents when he was about five years old. They settled in Windsor, Ontario, a car-making city just across the river from Detroit. Young Mike was the kind of kid who took things apart to see how they worked. According to stories about his childhood, when he was 12 he won a prize from the Windsor Public Library for reading every science book on its shelves. In high school he spent his spare time in the electronics shop, and there he became close friends with another tinkerer, Douglas Fregin.",
+        "In 1979 Lazaridis went to the University of Waterloo. He was a strong student, but in 1984, only about two months before he would have graduated, he did something bold: he dropped out. He had just won a contract from General Motors to build a computer-controlled display system, the kind of electronic sign that could show messages on a factory floor. With that contract, a small government grant and a loan from his parents, he started a company with Doug Fregin and a third partner, Mike Barnstijn. The date was March 7, 1984. They called the company Research In Motion, usually shortened to RIM.",
+        "The name sounds a bit mysterious, and for years the company did not have one famous product. It did all sorts of clever engineering jobs. One of its early successes was a high-speed barcode reader for the film industry. Movie film has tiny codes printed along its edge, and RIM's reader helped editors keep track of exactly which frame was which. The invention earned technical awards from the world of film and television.",
+        "In 1992 a businessman named Jim Balsillie joined the company. Lazaridis was the engineer who dreamed up gadgets; Balsillie was a fast-talking, competitive deal-maker who loved selling them. The two became co-chief executives, which means they shared the job of running the company. It was an unusual arrangement, but for many years it worked brilliantly: one man built the machines and the other found the customers."
+      ]
+    },
+    {
+      "heading": "A Pager That Learned to Type",
+      "paragraphs": [
+        "To understand what RIM built, you need to know about pagers. In the 1980s and 1990s, doctors, plumbers, reporters and drug-store delivery drivers often wore a small box on their belt called a pager, or 'beeper'. When someone wanted to reach you, they phoned a paging company, and a radio signal made your pager beep and show a phone number on its little screen. Then you had to go and find a telephone to call back. A pager could receive, but it could not answer.",
+        "Lazaridis had become fascinated by wireless data, meaning computer information sent by radio rather than voices. He believed that one day people would want to send real messages through the air, not just phone numbers. In the mid-1990s RIM built a two-way pager: a device that could both receive and send short messages. In 1998 it began shipping the Inter@ctive Pager 950, a chunky little gadget about the size of a bar of soap, with a tiny keyboard and a screen that showed a few lines of text. It ran on a single AA battery. That same year RIM announced a deal worth about 10 million dollars to supply two-way pagers to IBM.",
+        "Then came the device that gave the company its future. On January 19, 1999, RIM launched the BlackBerry 850. It still looked like a pager, and it was still called one, but it did something special: it brought your office email to your belt. You could read a message from your boss while sitting in a taxi, and you could type a reply with your thumbs on a keyboard with about 30 tiny keys.",
+        "Typing with two thumbs sounds normal today, but in 1999 it was a new idea. Most people typed on phones by pressing number keys several times for each letter, as you read about in Part 3. Lazaridis was convinced that a small keyboard held in both hands, with keys shaped so your thumbs could find them, would be faster. He was right. Practised users could type surprisingly quickly without even looking.",
+        "And the name? RIM hired a naming company called Lexicon Branding, which came up with about 40 possibilities. Someone noticed that the rows of little round keys looked like the bumpy seeds, called drupelets, on a blackberry fruit. The word also felt friendly and easy to say, which was a nice change from the stiff, technical names of most business machines. The name stuck, and it eventually became so famous that the company itself was renamed BlackBerry in 2013."
+      ]
+    },
+    {
+      "heading": "The Magic of Push Email",
+      "paragraphs": [
+        "The real secret of the BlackBerry was not the keyboard. It was an idea called push email. To see why it mattered, imagine how email usually worked on early devices. Your gadget had to keep asking the server, 'Any new mail? Any new mail?' This is called pulling. It wastes battery and radio time, and if your device only checked every half an hour, an important message might sit waiting for 29 minutes.",
+        "The BlackBerry turned this around. A piece of software sat on a computer in the company's office, watching each worker's mailbox. The instant a new email arrived, the software squeezed it down to a smaller size, scrambled it into a secret code, and pushed it out through RIM's own network centre to the BlackBerry. A few seconds later, the little device buzzed. You did not have to do anything. The mail simply came to you.",
+        "This system needed very little radio data, which was important because wireless networks of the late 1990s were painfully slow. The early BlackBerry pagers used special data-only radio networks that had been built for things like delivery trucks and pagers, not for phone calls. Because RIM compressed every message so carefully, a BlackBerry could keep a busy person connected without running out of battery or costing a fortune.",
+        "For companies, the most important part was security. Messages were encrypted, meaning they were turned into scrambled code that only the right device could unscramble. The company version of the system, called BlackBerry Enterprise Server, used strong encryption methods such as Triple DES and, later, AES. That meant a bank, a law firm or a government department could let workers carry their email around without worrying that a spy with a radio receiver could read it. Over time, governments became some of BlackBerry's biggest customers. Germany's government even described its BlackBerry communications as 'spy-proof', although later reports showed that some consumer BlackBerry services were less protected than the company versions.",
+        "Push email changed what it meant to work in an office. Before, you left work and your email stayed on your desk computer. Now it followed you to the train station, the airport, the restaurant and the kitchen table. Some people loved the freedom. Others discovered that their boss now expected an answer at 10 o'clock at night. Both of those feelings are still with us today."
+      ]
+    },
+    {
+      "heading": "From Pager to Phone: Trackwheels, Trackballs and BBM",
+      "paragraphs": [
+        "At first, a BlackBerry was not a phone at all. You carried it alongside your mobile phone. But RIM quickly saw that people did not want two gadgets on their belts. In 2002 it released the BlackBerry 5810, the first BlackBerry that could make phone calls. It used the GSM network, which you met in Part 3, and a newer data system called GPRS that let it fetch email and simple web pages. There was one awkward detail: to talk on the 5810 you had to plug in a headset, because it had no built-in speaker for your ear. Later models fixed that.",
+        "The early BlackBerry devices had no touchscreen. To move around the menus, you used a trackwheel, a little ridged wheel on the right side that you rolled with your thumb and pressed to select. It was simple and worked well with one hand, but it could only move up and down.",
+        "In September 2006 RIM launched the BlackBerry Pearl. It was smaller and prettier than earlier models, aimed at ordinary people as well as business workers, and it had a camera and a music player. In place of the trackwheel, it had a shiny trackball in the middle, about the size of a pea, that glowed and could roll in every direction. Later came popular models such as the Curve (2007) and the Bold (2008), which added faster 3G data. Eventually the trackball was replaced by an optical trackpad, a tiny sensor that followed your thumb like a miniature computer mouse.",
+        "Then there was BBM. BlackBerry Messenger launched on August 1, 2005. Every BlackBerry had its own eight-character code called a PIN, made of numbers and letters. If a friend gave you their PIN, you could send them instant messages over the internet instead of paying for ordinary text messages. BBM showed whether your message had been delivered and whether it had been read, and conversations popped back and forth almost instantly. For many teenagers and students, especially from about 2008 onward, 'What's your BBM PIN?' became a normal question. In May 2011 RIM said BBM had about 43 million active users. In some countries, such as Indonesia, BBM stayed hugely popular for years.",
+        "Notice something here: instant chat apps such as WhatsApp, which you will meet in Part 16, work in a very similar way. BBM was one of the first to show how much people wanted free, fast messaging on their phones."
+      ]
+    },
+    {
+      "heading": "CrackBerry Nation and the President's Phone",
+      "paragraphs": [
+        "By the mid-2000s, BlackBerrys were everywhere in the worlds of business, politics and news. Walk into a meeting in Washington, London or Toronto and you might see a row of people looking down at their laps, thumbs tapping. Bankers checked them in elevators. Lawyers checked them at the dinner table. Some people slept with one next to the pillow, and the first thing they did each morning was check it.",
+        "This habit earned the device a cheeky nickname: the 'CrackBerry'. The joke compared it to an addictive drug, because people found it so hard to stop checking. The word became so common that in 2006 it was officially recognized by Webster's New World College Dictionary. Doctors even started talking about 'BlackBerry thumb', a sore thumb from too much tiny typing. It was a joke, but it pointed at something real: a device that brings you messages instantly can be very hard to ignore. Part 18 looks at that problem honestly.",
+        "Owning a BlackBerry was also a signal. It told people you were important enough that the world needed to reach you right now. Celebrities, sports stars and business leaders carried them, and photographers caught film stars tapping away on them. For a while, a BlackBerry on the table at lunch was a bit like the brick phone of the 1980s: a status symbol.",
+        "The numbers show how big it became. In the United States, about 18 million of the roughly 43 million smartphones in use in January 2010 were BlackBerrys, around 43 percent, more than four out of every ten. Around the world, the number of BlackBerry users kept climbing even after the iPhone arrived, reaching roughly 80 million in about 2011 to 2012. Different reports give slightly different peak numbers, from about 80 to 85 million, but either way it was a giant. RIM, the little company from Waterloo, had become one of the most valuable technology firms in Canada.",
+        "Perhaps the most famous BlackBerry user of all was Barack Obama. During his 2008 campaign to become President of the United States, he relied on his BlackBerry to keep in touch with advisers, friends and family. Photographers often caught him reading it between speeches.",
+        "When he won the election, a problem appeared. The President of the United States is one of the most watched people on Earth, and foreign spies would love to read his messages. On top of that, US law says that a president's official communications are public records that must be saved for history. For years, presidents had simply not used email at all. Security experts and lawyers warned that Obama might have to give up his beloved device.",
+        "Obama argued hard to keep it, and in January 2009, soon after he took office, it was reported that he had won. The New York Times described it as a 'hard-fought e-victory'. According to news reports at the time, his BlackBerry was given extra security protection, and only a small circle of senior staff and close friends had his address. His messages were also kept as official records, as the law required. He became the first sitting American president known to carry a smartphone-style device for email.",
+        "Marketing experts estimated that this kind of free, world-famous advertising was worth tens of millions of dollars to RIM. Imagine a company that started by building barcode readers for film editors, and now the most powerful leader in the world refused to let go of its product. It looked as if BlackBerry could not lose. Years later, in 2016, it was reported that Obama had finally moved on to a different phone, and by then the whole phone world had changed."
+      ]
+    },
+    {
+      "heading": "The Rivals: Treo, Windows Mobile and the Giant from Finland",
+      "paragraphs": [
+        "BlackBerry was not alone. The 2000s were a crowded, noisy time for smart phones, with many companies trying different ideas. Remember Jeff Hawkins and Donna Dubinsky, who created the Palm Pilot in Part 4? They had left Palm and started a new company called Handspring. In 2002 Handspring released the Treo 180, which combined a Palm organizer with a mobile phone and a little keyboard. The Treo 600 followed in 2003, a neat 'candy bar' shape with a colour touchscreen you could tap with a stylus and a thumb keyboard underneath. That same year Palm bought Handspring, bringing the inventors back home. Treo fans loved how you could look at your calendar while on a call, or dial someone straight from your contacts list. Nineteen different Treo models were released before the line ended around 2009.",
+        "Microsoft had its own plan. Its software for handheld computers began as Pocket PC in 2000, and in 2003 it was renamed Windows Mobile. Microsoft did not usually make the phones itself. Instead, many manufacturers built phones that ran its software, a bit like many companies building personal computers that run Windows. A Taiwanese company called HTC built about 80 percent of the roughly 50 million Windows Mobile devices made up to early 2009. These phones had a Start menu and tiny scroll bars that looked like a shrunken desktop computer, which made them powerful but fiddly. You usually needed a stylus to hit the small buttons. Even so, Windows Mobile was a serious competitor: one estimate gave it about 42 percent of the American smartphone market in 2007, even more than BlackBerry that year by that particular count.",
+        "But the true giant of the phone world lived far from America, in Finland. You met Nokia in Part 3, maker of the Nokia 3310. In October 1998 Nokia overtook Motorola to become the world's biggest seller of mobile phones, and it stayed on top for well over a decade, until about 2012. At the end of 2007, around four out of every ten mobile phones sold on Earth were Nokias, and about half of all smartphones sold were Nokias too.",
+        "Most Nokia smartphones ran an operating system called Symbian, which Nokia had helped set up in 1998 together with other phone makers, as Part 5 explained. Nokia's flagship smartphones, called the N-series, were packed with features. The Nokia N95, announced in September 2006 and sold from March 2007, had a 5-megapixel camera with Carl Zeiss lenses and a flash, built-in GPS for maps, Wi-Fi, fast 3G internet and a clever screen that slid in two directions: one way to reveal number keys, the other way to show music buttons. Nokia proudly called it a 'multimedia computer'. It cost about 730 US dollars in America without a contract, and about 7 million were sold in 2007 alone.",
+        "If you had asked experts in 2006 who would rule the future of smartphones, most would have named BlackBerry for business, Nokia for everyone else, and perhaps Microsoft or Palm as challengers. Hardly anyone would have mentioned a computer company famous for music players."
+      ]
+    },
+    {
+      "heading": "Life on a Tiny Screen",
+      "paragraphs": [
+        "What was it actually like to use a phone in about 2005? Let's take an imaginary walk through a day.",
+        "In the morning you pick up your phone. Its colour screen is about 2 inches across, with roughly 176 by 220 pixels. That is so few dots that a single icon on a modern phone has almost as much detail. If you have a smartphone, it probably has a physical keyboard, either below the screen or sliding out from the side, and maybe a plastic stylus tucked into a slot. You select menus with a joystick, a trackwheel, a direction pad or the stylus.",
+        "On the bus you try to check the news. Phone networks are slow, and many websites are far too big and complicated for your phone. So you visit special mobile pages written in a stripped-down format called WAP, which shows mostly text and a few tiny pictures. A page might take many seconds to load, and you might pay for every kilobyte of data. Some phones could show full websites, but you had to scroll around them like looking at a giant poster through a keyhole.",
+        "In the afternoon you want to listen to music. Your phone might play a few songs, but most people carried a separate MP3 player, often an Apple iPod, as well. If you wanted a good photo, you probably brought a separate digital camera too. The great dream of convergence from Part 4, one device that did everything well, still had not quite come true.",
+        "In the evening you might want a new game. Many phones of this time could run small programs written in a version of the Java programming language, so you could download games such as puzzle, racing or football games. But you usually had to buy them through your phone company's own menu, the choice was small, and a game written for one phone often looked wrong or would not work on another model with a different screen size. There was no single, simple shop where any programmer in the world could sell software to every owner of a particular phone. That missing piece would turn out to matter enormously, as Part 16 will show.",
+        "Not everyone wanted a smartphone anyway. The coolest phone of the mid-2000s was not smart at all. In late 2004 Motorola released the Razr V3, a flip phone made of thin aluminium, only about 13 millimetres thick when closed and weighing about 95 grams. Its keypad was cut from a single sheet of metal and glowed blue. Motorola designer Chris Arnholt helped give it its sleek, razor-like shape. At first it was an expensive luxury item, but as the price dropped, everyone seemed to have one in pink, black or silver. Many reports say about 130 million Razrs were sold, making it the best-selling flip phone of all time. The Razr proved something important: people cared a lot about how a phone looked and felt, not just what it could do."
+      ]
+    },
+    {
+      "heading": "Kings of the Keyboard",
+      "paragraphs": [
+        "By 2006 and early 2007, the phone world seemed settled. Business people had BlackBerrys and would not give them up. Ordinary customers around the world bought Nokias by the hundreds of millions. Fashion fans flipped open their Razrs. Gadget lovers carried Treos or Windows Mobile phones with styluses.",
+        "Almost everyone agreed on one thing: a serious smartphone needed a physical keyboard. How else could you type an email quickly? Touchscreens existed, but they were mostly the resistive kind you will learn about in Part 10, which needed a firm press or a stylus and could feel slow and clumsy. Typing on a flat piece of glass, with no keys to feel, sounded like a terrible idea to many experts.",
+        "In Waterloo, RIM was busy and confident. In Finland, Nokia was the most powerful phone company in history. Neither of them knew exactly what was happening in a guarded building in Cupertino, California. There, behind locked doors, a secret team at Apple had been working for more than two years on a phone with almost no buttons at all, and no keyboard. Its makers were betting that your fingers, sliding and tapping across glass, could do everything a keyboard and stylus could do, and more. In January 2007 the world was about to find out whether they were right."
+      ]
+    }
+  ],
+  "deepDive": "Why did BlackBerry win so big, and then fall so fast? Historians and business writers usually point to the same strengths. RIM's system was built for a world of slow, expensive wireless data. Every message passed through RIM's own network operations centres, where it was compressed and encrypted, so a BlackBerry used far less data than rival devices and its battery lasted longer. For company IT departments, the BlackBerry Enterprise Server was the killer feature: they could control thousands of devices centrally, wipe a lost one remotely and trust the encryption. That is why governments, banks and law firms bought BlackBerrys by the thousands, and why the US government became one of its most important customers. The same strengths turned into weaknesses after 2007. As 3G and then 4G networks made data cheap and fast, RIM's careful data-saving mattered less, while big touchscreens, full web browsers and app stores mattered more. Customers increasingly chose their own phones and brought them to work, so IT departments lost some of their power to pick BlackBerry for everyone. RIM's first all-touchscreen answer, the BlackBerry Storm (2008), had a screen that physically clicked when pressed and received many poor reviews. The numbers tell the story. In the US, BlackBerrys made up about 43 percent of smartphones in use in January 2010; by February 2016 the figure was less than 1 percent. The company's stock fell by about 87 percent between 2010 and 2013. In October 2011 a network switch failure knocked out email and messaging for tens of millions of users for about three days, and under pressure from unhappy shareholders, co-CEOs Lazaridis and Balsillie stepped down in early 2012. Notice also that the user count kept rising until about 2012 even while market share collapsed: the whole smartphone market was growing so fast that BlackBerry could gain customers and still fall far behind. Sources even disagree about the exact peak, quoting figures from about 80 to 85 million subscribers, a reminder that company statistics depend on how you count. In September 2016 BlackBerry announced it would stop designing its own phones and license its brand to other manufacturers. The company survives today as a software and cybersecurity business. Business schools still teach its story as a warning that being the best at yesterday's problem is not enough.",
+  "funFact": "The name BlackBerry was chosen partly because the device's rows of small round keys reminded people of the tiny bumps, called drupelets, on a blackberry fruit.",
+  "check": {
+    "q": "What was special about BlackBerry's 'push email'?",
+    "a": "New emails were sent to the device automatically the moment they arrived, without the user having to check",
+    "wrong": [
+      "You had to push a button every hour to download new emails",
+      "Emails were printed out and pushed under your office door",
+      "It could only send emails, never receive them"
+    ]
+  },
+  "sources": [
+    {
+      "title": "BlackBerry Limited",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/BlackBerry_Limited"
+    },
+    {
+      "title": "BlackBerry",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/BlackBerry"
+    },
+    {
+      "title": "Mike Lazaridis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mike_Lazaridis"
+    },
+    {
+      "title": "BlackBerry Messenger",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/BlackBerry_Messenger"
+    },
+    {
+      "title": "Palm Treo",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Palm_Treo"
+    },
+    {
+      "title": "Windows Mobile",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Windows_Mobile"
+    },
+    {
+      "title": "Nokia N95",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nokia_N95"
+    },
+    {
+      "title": "Motorola Razr V3",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Motorola_Razr_V3"
+    }
+  ],
+  "pics": [
+    {
+      "want": "An early BlackBerry 850 or Inter@ctive pager from 1998-1999, showing its small screen and thumb keyboard",
+      "search": "BlackBerry 850 pager RIM"
+    },
+    {
+      "want": "Photograph of President Barack Obama reading or holding his BlackBerry, around 2009",
+      "search": "Barack Obama BlackBerry 2009"
+    },
+    {
+      "want": "A Motorola Razr V3 flip phone opened to show its thin metal keypad",
+      "search": "Motorola RAZR V3 phone"
+    }
+  ]
+}

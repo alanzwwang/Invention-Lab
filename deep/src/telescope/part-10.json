@@ -1,0 +1,151 @@
+{
+  "n": 10,
+  "title": "Telescopes Change Life on Earth",
+  "when": "1600s – 1900s",
+  "summary": "Telescopes didn't only look at stars. Sailors used them to spot ships and read flag signals, map-makers used them to measure whole countries, and theatre-goers used little ones to see the actors. Later, ordinary people started building their own telescopes in their backyards and even discovered comets.",
+  "sections": [
+    {
+      "heading": "Spyglasses at Sea and on the Battlefield",
+      "paragraphs": [
+        "Stand on the swaying deck of a wooden sailing ship in the 1700s. The lookout high on the mast shouts that he can see a sail on the horizon. Is it a friendly merchant ship, a warship of your own navy, or an enemy? The captain pulls a brass tube from his coat, stretches it out to its full length, braces against the rail and peers through it. Within a minute he can see the shape of the hull, the number of gun ports and, most important, the flag. That simple act, repeated thousands of times a day on oceans around the world, is one of the biggest ways the telescope changed life on Earth.",
+        "As you read in part 3, the very first Dutch telescopes of 1608 were immediately seen as military tools. Someone who can see the enemy first can decide whether to fight, flee or prepare. By the 1700s, most naval officers carried a spyglass. Many were made to collapse, with several brass tubes, called draw tubes, sliding inside one another, so a telescope a metre long when open could fit in a pocket or under an arm when closed. Inside, most used Keplerian-style convex lenses, plus extra lenses to turn the image the right way up, because an upside-down ship is confusing.",
+        "Telescopes also made it possible to send messages across water. Navies used systems of coloured signal flags hoisted on the masts, each flag or group of flags standing for a number, letter or order. An admiral could control a whole fleet spread over kilometres of sea, but only if his captains could read his flags. Without telescopes, flag signals would have been useless beyond a short distance.",
+        "On land, generals climbed hills or church towers to watch battles through telescopes and send orders by messenger. Lookouts on forts watched roads and harbours. Later, in the 1790s, France built a chain of 'semaphore' towers with moving wooden arms, invented by Claude Chappe, which passed messages from tower to tower across the country. Operators in each tower read the arms on the next tower through a telescope, so a message could travel hundreds of kilometres in less than an hour. It was a kind of optical internet, made possible by lenses.",
+        "One of the most famous telescope stories comes from the Battle of Copenhagen, fought on 2 April 1801 between a British fleet and the Danish navy. The British second-in-command, Vice-Admiral Horatio Nelson, had lost the sight in his right eye in an earlier battle. During the fighting, his senior commander, Admiral Sir Hyde Parker, hoisted a signal giving permission to stop fighting and pull back. According to the story, Nelson raised his telescope to his blind eye and said something like 'I really do not see the signal', and kept fighting. The battle ended in a truce that favoured the British.",
+        "It is a famous tale, and it gave English the phrase 'to turn a blind eye', meaning to pretend not to notice something. Accounts of it come from people who were there, but they were written down later, and historians still discuss exactly what was said and whether Parker's signal was meant as a strict order or as permission Nelson could ignore. So enjoy it as a great story about a telescope, but remember that the exact words are not certain."
+      ]
+    },
+    {
+      "heading": "The Longitude Puzzle and the Clock in the Sky",
+      "paragraphs": [
+        "For sailors, the biggest problem in the world for about 300 years was not enemy ships. It was not knowing exactly where they were. Finding your latitude, how far north or south you are, was fairly easy: you measure the height of the Sun at noon or the height of the Pole Star at night. But finding your longitude, how far east or west you are, was fiendishly hard. Ships that guessed wrong could run onto rocks, miss islands where they needed fresh water, or take weeks longer than planned while sailors fell ill.",
+        "The key to longitude is time. Earth turns once in 24 hours, which is 360 degrees, so it turns 15 degrees every hour. If it is noon where you are, because the Sun is at its highest, and you somehow know that at that same moment it is 3 in the afternoon in your home port, then you must be 45 degrees west of home. The problem was knowing the home time, far out at sea, without a clock that kept perfect time on a rolling ship.",
+        "Galileo had an idea. Jupiter's four big moons, which he had discovered in 1610 (part 4), go around Jupiter like the hands of a clock, and they regularly slip into Jupiter's shadow and vanish. Those disappearances happen at the same instant for everyone on Earth who can see them. In 1612 Galileo proposed that if someone made accurate tables predicting the times of these events, anyone with a telescope could look up and read the 'clock in the sky', compare it with their local time, and work out their longitude.",
+        "Galileo spent years trying to sell this idea. In 1616 he applied for a longitude prize offered by the King of Spain, and later he approached the Dutch government. He even designed a strange helmet called the celatone, with a telescope attached, that was supposed to let an observer keep Jupiter in view on a moving ship. It did not work well. Keeping a small, bright dot steady in a long, narrow telescope while the deck heaves up and down is almost impossible, and the method was never used successfully at sea.",
+        "On land, though, the idea was brilliant. In 1668 the Italian astronomer Giovanni Domenico Cassini, soon to become director of the Paris Observatory (part 6), published excellent tables of Jupiter's moons. French astronomers took telescopes and clocks around France, timed the moons' eclipses and compared them with the times predicted for Paris. They found that older maps had drawn the Atlantic coast of France too far west. The new, accurate map made the country look noticeably smaller. King Louis XIV is said to have joked that the astronomers had taken more land from him than all his enemies had taken in war. The Academy's map of France based on this work came out in 1744.",
+        "At sea, two other methods finally won. In 1714 the British Parliament passed the Longitude Act, offering up to 20,000 pounds, a huge fortune, for a practical way to find longitude at sea. The clockmaker John Harrison spent decades building ever-better marine clocks, called chronometers, and his small watch-like H4 passed a sea trial to Jamaica in 1761 and 1762 with astonishing accuracy. Meanwhile, astronomers perfected the 'lunar distance' method, which used the Moon's movement against the stars as the sky clock. Sailors measured the angle between the Moon and a star with a sextant, an instrument that often had a small telescope on it, and looked up the answer in tables. In the end, chronometers became the main method, but only once they became cheap enough, in the 1800s. Telescopes and star tables remained the backup for decades."
+      ]
+    },
+    {
+      "heading": "Greenwich: An Observatory for Sailors",
+      "paragraphs": [
+        "If you visit London today, you can climb a hill in Greenwich Park to a red-brick building with a little domed tower. This is the Royal Observatory, and it was built for sailors. In 1675 King Charles II ordered it to be built, and construction began that August. The architect was Sir Christopher Wren, who also designed St Paul's Cathedral and who was himself a former professor of astronomy. The main building, now called Flamsteed House, was finished in 1676.",
+        "The job of the observatory was written down very clearly: to make the most exact observations of the stars and the motions of the Moon, to find 'the so much desired longitude of places for the perfecting of the art of navigation'. The idea was that if astronomers made a perfect map of the stars and could predict the Moon's movements, sailors could use the Moon as a sky clock.",
+        "The first Astronomer Royal was John Flamsteed, appointed in 1675. He was a careful, stubborn and often sickly man who was paid just 100 pounds a year and had to buy many of his own instruments. He used telescopes with crosshairs mounted on huge, precisely marked metal arcs fixed to walls, called mural arcs, and noted exactly when each star crossed his line of sight. Over more than 40 years he measured the positions of about 3,000 stars far more precisely than ever before. His great star catalogue was published in 1725, after his death. (It was in this work that he logged Uranus as an ordinary star, 34 Tauri, as you read in part 9.)",
+        "Later Astronomers Royal built on this work. Nevil Maskelyne began publishing The Nautical Almanac, with tables for the year 1767, giving sailors the pre-calculated numbers they needed for the lunar distance method. It became one of the most important books on any ship. In 1833 a bright red time ball was placed on top of the observatory. Every day at 1 pm it drops down its pole, so that ships on the River Thames could check their chronometers. It still drops today.",
+        "In 1851 the Astronomer Royal George Airy installed a large telescope called the Airy Transit Circle, which could swing only north and south along one exact line. Astronomers timed stars crossing that line to keep perfect time. In 1884, at an international meeting in Washington, D.C., countries agreed to use the line through that very telescope as the world's prime meridian, zero degrees of longitude. That is why world time was long based on Greenwich Mean Time, and why every longitude on every map today is measured east or west of a telescope in a London park."
+      ]
+    },
+    {
+      "heading": "Measuring Countries Through a Tube",
+      "paragraphs": [
+        "Before satellites and GPS, how did anyone make an accurate map of a whole country? The answer is a clever method called triangulation, and telescopes made it work. Surveyors measure one straight line on the ground extremely carefully; this is called a baseline. Then, from each end of the baseline, they measure the angle to a distant landmark, such as a church tower or a hilltop. With one known length and two angles, simple geometry gives the size of the whole triangle. That triangle's new sides become the starting points for more triangles, and soon a net of triangles stretches across the land.",
+        "Everything depends on measuring angles accurately, and that means pointing exactly at a faraway target. In the 1600s, instrument makers began putting small telescopes with crosshairs onto their angle-measuring tools instead of simple open sights. The French astronomer Jean Picard was a pioneer of this, using telescopic sights in his famous measurement of part of France around 1669 to 1670. A telescope lets the surveyor pin a tower many kilometres away right on the crosshairs.",
+        "The surveyor's main tool became the theodolite: a telescope mounted so it can turn sideways and tilt up and down, with finely marked circles that show exactly how far it has turned. One of the most famous was built by the London instrument maker Jesse Ramsden and delivered in 1787. It was a giant. It weighed about 200 pounds (91 kilograms), and its main measuring circle was 36 inches (about 91 centimetres) across. It could measure horizontal angles to within about one arcsecond, which is the width of a coin seen from about 4 kilometres away.",
+        "Ramsden's great theodolite was made for General William Roy's Anglo-French Survey, which ran from 1784 to 1790. Its goal was to link the Royal Observatory at Greenwich and the Paris Observatory with a precise chain of triangles across the English Channel, so the two great observatories would know exactly where they stood relative to each other. Soldiers carried the heavy instrument from hill to hill in a special sprung carriage.",
+        "This work grew into the Ordnance Survey, Britain's national mapping agency, founded in 1791. From 1799 the great theodolite was used for the Principal Triangulation of Great Britain, a vast net of triangles covering the whole island, which was finally completed in 1853. Sadly, the first Ramsden theodolite was destroyed in 1941, when bombs hit the Ordnance Survey's headquarters in Southampton during the Second World War. A second one, completed in 1791, survives in the Science Museum in London.",
+        "Similar surveys were carried out around the world. The Great Trigonometrical Survey of India, started in 1802, measured triangles across the whole subcontinent with huge theodolites. In the 1850s its computers used those measurements to show that a mountain known as Peak XV was the highest on Earth. It was later named Mount Everest after George Everest, a former head of the survey. Every time you look at a modern map, you are looking at the result of countless hours of people squinting through small telescopes."
+      ]
+    },
+    {
+      "heading": "Two Tubes Are Better Than One: Binoculars",
+      "paragraphs": [
+        "Humans have two eyes, so it is natural to want two telescopes side by side. As you read in part 3, the Dutch government reportedly asked Hans Lipperhey to make two-eyed versions of his spyglass in 1608. For the next 250 years, though, most binoculars were simple Galilean designs: a convex lens at the front and a concave lens at the eye in each tube. They were short and gave an upright image, but they could only magnify a little and showed a narrow view.",
+        "In the 1800s, small Galilean binoculars became fashionable as opera glasses. In grand theatres in Paris, Vienna, London and New York, audiences in the upper balconies raised elegant little glasses, often decorated with mother-of-pearl or gold, to see the singers' faces. Some had a handle so they could be held up like a mask. Opera glasses still use the same design today, because they need only about 2 to 4 times magnification.",
+        "The big breakthrough came from an Italian engineer and surveyor named Ignazio Porro. In 1854 he patented a system that uses glass prisms instead of extra lenses to turn the image the right way up. Here is the trick. Light from the front lens enters a prism shaped like a triangle with a right angle. It bounces off two of the prism's inside faces, a bit like a ball bouncing off two walls of a corner, and comes back out going the opposite way, flipped over. A second prism set at right angles to the first does the same thing in the other direction. Together, the two prisms turn the upside-down, back-to-front image of a Keplerian telescope right way round.",
+        "The prisms do something else useful. Because the light zig-zags back and forth inside them, a long light path can fit inside a short body. That is why classic binoculars have their zig-zag shape, with the big front lenses set wider apart than the eyepieces, which also improves your sense of depth. It took several decades, and better optical glass made by Otto Schott and the scientist Ernst Abbe in Jena, Germany, before Porro's idea took off. In 1894 the Carl Zeiss company began selling modern prism binoculars, and they spread quickly.",
+        "Have you seen numbers like 7x50 or 10x42 printed on binoculars? The first number is the magnification: 7x means things look seven times closer. The second number is the width of each front lens in millimetres. Divide the second by the first, and you get the size of the little circle of light coming out of the eyepiece, called the exit pupil. For 7x50 binoculars it is about 7 millimetres, nicely matching a dark-adapted human pupil, which is why 7x50s were long the favourite of navies and stargazers alike.",
+        "Prism binoculars became essential for armies and navies in the World Wars, and for people who watch birds, ships, sports and wildlife. They are also one of the best first astronomy instruments. Through ordinary binoculars you can see Jupiter's four big moons, craters on the Moon and thousands of stars in the Milky Way, more than Galileo saw with his first telescope."
+      ]
+    },
+    {
+      "heading": "Bigger Ideas: A Universe Without a Center",
+      "paragraphs": [
+        "Telescopes changed more than ships and maps. They changed how people thought about their place in everything. Before 1609, almost everyone in Europe was taught that Earth sat still at the center of the universe, with the Sun, Moon, planets and stars circling it. After Galileo's telescope showed moons going around Jupiter and the full set of phases of Venus (parts 4 and 5), that picture became harder and harder to defend.",
+        "Over the following century, the Sun-centered system spread from experts to ordinary readers. In 1686 the French writer Bernard de Fontenelle published a lively book called Conversations on the Plurality of Worlds, in which a philosopher explains astronomy to a curious noblewoman on walks in a garden at night. It became a bestseller across Europe and was translated into many languages. Ideas that had been dangerous in Galileo's time were becoming common knowledge.",
+        "Telescopes also kept making the universe bigger. Each improvement showed more stars, fainter nebulae and more detail. When Friedrich Bessel finally measured the distance to the star 61 Cygni in 1838 (part 8), people learned that even a nearby star is about 11 light-years away, around 100 trillion kilometres. Herschel's star counts (part 9) showed that the Sun is just one of a huge number of stars in a vast disc. Earth went from being the center of a small, cozy universe to being a small planet near an ordinary star in an enormous one.",
+        "Many people found this exciting rather than frightening. In the 1700s and 1800s, public lectures with telescopes, mechanical models of the solar system called orreries, and popular astronomy books drew big crowds. In cities around the world, street astronomers set up telescopes on corners and charged passers-by a small coin for a look at the Moon or Saturn. Looking through a telescope became something that ordinary people, not only scholars, could do."
+      ]
+    },
+    {
+      "heading": "Backyard Astronomers and Homemade Telescopes",
+      "paragraphs": [
+        "In the early 1900s, a good telescope was still expensive. So some people decided to make their own, just as William Herschel had done. The most important leader of this movement was Russell W. Porter, an American explorer, architect and inventor who had been on expeditions to the Arctic. In 1920 he started teaching a class in mirror-making to a group of workers at a machine-tool company in Springfield, Vermont. They called themselves the Springfield Telescope Makers.",
+        "Making a telescope mirror at home sounds impossible, but Porter showed it could be done with simple tools. You take two round discs of glass, put wet grinding powder between them and rub one over the other, round and round, for hours. Slowly the top disc wears into a shallow hollow, the right shape for a mirror. Then you polish it with finer and finer powders and test it with a lamp and a razor blade, a simple test invented by the French scientist Léon Foucault. Finally, the glass gets a thin, shiny coating of metal. Done well, a homemade mirror can be as good as a professional one.",
+        "On a hilltop called Breezy Hill near Springfield, the club built a small pink clubhouse in 1923 and named the place Stellafane, from Latin words meaning 'shrine to the stars'. In 1926 they held their first meeting for amateur telescope makers. Except for a few breaks, the Stellafane Convention has been held every summer since, making it the longest-running astronomy convention in the United States. Porter also built unusual telescopes there, including the Porter Turret Telescope of 1930, where the observer sits inside a warm room while the telescope points at the sky outside.",
+        "The movement spread across America thanks to Albert Ingalls, an editor at the magazine Scientific American, who wrote articles about Porter's group and helped put together a famous how-to book called Amateur Telescope Making. Thousands of people, many of them teenagers, learned to grind their own mirrors. Porter himself later went to California to help design the giant 200-inch Palomar telescope, which you will meet in part 13, and his detailed cut-away drawings of it are famous.",
+        "Decades later, a very different person made big telescopes cheap for everyone. John Dobson was born in 1915 in Beijing, China, the son of missionary parents. In 1944 he joined a Hindu monastery of the Vedanta Society in San Francisco as a monk. There he started building telescopes from whatever he could find: glass from old ship portholes ground into mirrors, cardboard tubes meant for pouring concrete, plywood scraps and even plumbing parts. He was so keen to share the sky that, after he had to leave the monastery in 1967, he helped found the San Francisco Sidewalk Astronomers in 1968. They set up big telescopes on city sidewalks and invited anyone walking by to look at the Moon and planets, for free.",
+        "Dobson's real gift was a design. Instead of a complicated, expensive mount, he put his telescope tube in a simple wooden box that swung up and down and turned left and right on smooth pads, like a cannon. It was cheap, sturdy and easy to use. Today, telescopes of this type are called Dobsonians, and they are among the most popular telescopes in the world for anyone who wants a big mirror for not much money. Dobson kept showing people the sky until he died in 2014, aged 98.",
+        "Amateur astronomers are not just hobbyists. They still make real discoveries. On the night of 23 July 1995, two American amateurs, Alan Hale in New Mexico and Thomas Bopp in Arizona, independently spotted the same new comet. Bopp, who did not own a telescope, was looking through a homemade Dobsonian telescope, 44 centimetres across, that belonged to his friend Jim Stevens. Comet Hale-Bopp grew into one of the brightest comets of the twentieth century, and in 1997 millions of people around the world could see it with their own eyes. Amateurs also find exploding stars in distant galaxies, track asteroids and watch for changes on the planets.",
+        "From the captain's brass spyglass to the surveyor's theodolite, from opera glasses to a cardboard-tube Dobsonian on a city sidewalk, telescopes had spread into every corner of everyday life. Meanwhile, professional astronomers wanted something no backyard could hold: telescopes so big they needed their own buildings and their own mountains."
+      ]
+    }
+  ],
+  "deepDive": "Why was longitude so hard, and why did the Jupiter method fail at sea? Because Earth turns 15 degrees per hour, each 4 minutes of time error equals 1 degree of longitude. At the equator, 1 degree is about 111 kilometres, so a clock that is wrong by only 1 minute puts a ship about 28 kilometres off. The 1714 Longitude Act offered 10,000 pounds for a method accurate to within 1 degree and 20,000 pounds for within half a degree, which meant keeping time to within about 2 minutes after weeks at sea. Galileo's Jupiter-moon clock was accurate enough in principle, because the moons' eclipses happen at the same instant for every observer. The problem was practical. Seeing the moons needs magnification of at least about 20 to 30 times, and at that power a slight movement of the observer's head sweeps Jupiter right out of view; a ship's roll makes it hopeless. Jupiter is also invisible for weeks at a time when it is near the Sun in the sky. On land, the method worked very well. After Cassini's 1668 tables and Rømer's discovery that light takes time to cross the solar system (which slightly shifts eclipse times), Jupiter's moons became a standard tool for mapping coastlines and continents into the 1800s. At sea, the race was between Harrison's chronometers and the lunar distance method. Chronometers were more precise but expensive at first; lunar distances needed only a sextant, an almanac and lots of arithmetic. Most navies used both well into the 1800s. Historians also discuss the Nelson story. Several people at Copenhagen later described Nelson's joke about his blind eye, but accounts differ in wording, and some historians think Parker's signal was intended to be discretionary, meaning Nelson was allowed to ignore it if he judged it safe to keep fighting. Finally, a note on binocular numbers: a pair's exit pupil is the objective diameter divided by magnification. Young eyes in the dark open to about 7 millimetres, but the maximum pupil size shrinks with age, so many adults gain less from very large exit pupils than young people do.",
+  "funFact": "Comet Hale-Bopp, found partly through a friend's homemade backyard telescope, stayed visible to the naked eye for about 18 months, a record for any comet.",
+  "check": {
+    "q": "Which Italian inventor patented the prism system used in classic binoculars in 1854?",
+    "a": "Ignazio Porro",
+    "wrong": [
+      "Galileo Galilei",
+      "Giovanni Cassini",
+      "Jesse Ramsden"
+    ]
+  },
+  "sources": [
+    {
+      "title": "History of longitude",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_longitude"
+    },
+    {
+      "title": "Royal Observatory, Greenwich",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Royal_Observatory,_Greenwich"
+    },
+    {
+      "title": "Ramsden theodolite",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ramsden_theodolite"
+    },
+    {
+      "title": "Binoculars",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Binoculars"
+    },
+    {
+      "title": "Battle of Copenhagen (1801)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Copenhagen_(1801)"
+    },
+    {
+      "title": "Stellafane",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stellafane"
+    },
+    {
+      "title": "John Dobson (amateur astronomer)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Dobson_(amateur_astronomer)"
+    },
+    {
+      "title": "Comet Hale-Bopp",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp"
+    }
+  ],
+  "pics": [
+    {
+      "want": "An antique brass naval spyglass (collapsible draw-tube telescope) from the 1700s or 1800s in a museum",
+      "search": "naval telescope brass draw tube"
+    },
+    {
+      "want": "The Royal Observatory at Greenwich, Flamsteed House with its red time ball",
+      "search": "Flamsteed House Greenwich time ball"
+    },
+    {
+      "want": "Diagram or cutaway of Porro prism binoculars showing the light path through the prisms",
+      "search": "Porro prism binoculars diagram"
+    }
+  ]
+}

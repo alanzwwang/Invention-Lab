@@ -1,0 +1,150 @@
+{
+  "n": 6,
+  "title": "Punched Cards, Logic and Brass Brains",
+  "when": "1847 – 1930s",
+  "summary": "George Boole showed that true and false could be written as 1 and 0 and worked out like sums. Herman Hollerith built electric machines that read holes in cards and counted the whole United States in record time; his company grew into IBM. Meanwhile clever brass machines predicted the tides and solved hard equations.",
+  "sections": [
+    {
+      "heading": "A Shoemaker's Son Who Turned Thinking into Algebra",
+      "paragraphs": [
+        "In the cathedral city of Lincoln, in the east of England, a boy named George Boole was born on 2 November 1815, just five weeks before Ada Lovelace. Their lives could hardly have been more different. Ada was the daughter of a lord, with private tutors and grand houses. George was the son of John Boole, a shoemaker who loved science and gadgets more than shoes, and whose business never made much money. There was no money for university. George would have to teach himself almost everything.",
+        "And he did. As a boy he taught himself Latin and Greek, then French, German and Italian, borrowing books wherever he could. When his father's business failed, George, aged just 16, started working as an assistant teacher to support his family. By 19 he was running his own small school. In the evenings, after the pupils had gone home, he studied the hardest mathematics books he could find, including works by great French mathematicians such as Laplace and Lagrange. Soon he was writing original research papers and sending them to journals. In 1844 the Royal Society, Britain's top scientific society, awarded him a gold medal for a paper on mathematics. Not bad for someone who had never been to university.",
+        "Boole became fascinated by an old question: what are the rules of correct reasoning? For more than two thousand years, since the Greek philosopher Aristotle, logic had been taught mostly with words, in patterns like 'All birds have feathers; a robin is a bird; so a robin has feathers.' Boole wondered whether logic could be written as algebra, with letters and symbols that obey rules, just like numbers do. In 1847 he published a short book, The Mathematical Analysis of Logic, which showed how. Two years later, in 1849, he became the first professor of mathematics at the new Queen's College in Cork, Ireland. In 1854 he published his masterpiece, a book usually known by its short title, The Laws of Thought.",
+        "Boole's private life was happy for a while. In 1855 he married Mary Everest, a lively and clever woman who later became a writer and teacher about how children learn mathematics. She was the niece of George Everest, the surveyor after whom the world's highest mountain was named. They had five daughters, several of whom became remarkable in their own right. Sadly, in late 1864 Boole walked about three miles through heavy rain to give a lecture, and taught in his wet clothes. He fell ill with a fever, developed pneumonia, and died on 8 December 1864, aged only 49."
+      ]
+    },
+    {
+      "heading": "TRUE, FALSE, 1 and 0",
+      "paragraphs": [
+        "So what exactly was Boole's big idea? Let's try it. Imagine a letter x stands for 'things that are red' and y stands for 'things that are round'. Boole wrote xy, which looks like multiplication, to mean things that are both red AND round: a red ball, a cherry, a tomato. He used x + y, which looks like addition, for things in one class or the other (Boole himself was fussy that the two classes should not overlap, but later logicians relaxed that rule, and modern Boolean algebra uses OR to mean 'one or the other or both'). The number 1 meant 'everything we are talking about', and 0 meant 'nothing at all'. So 1 minus x meant 'everything that is NOT red'.",
+        "Here is the surprising part. In ordinary arithmetic, x times x is x squared, which is usually a different number. But in Boole's logic, 'red AND red' is just 'red'. So in his algebra x times x equals x. Which ordinary numbers obey that rule? Only two: 0 and 1, because 0 times 0 is 0 and 1 times 1 is 1. Boole noticed this and realised that his logic was like an arithmetic that used only 0 and 1. We could say 1 means TRUE (or yes, or on) and 0 means FALSE (no, off).",
+        "Now you can turn questions of reasoning into calculation. Take two statements, 'It is raining' and 'I have an umbrella'. Each is either true (1) or false (0). The statement 'It is raining AND I have an umbrella' is true only when both parts are true: 1 times 1 gives 1, while anything times 0 gives 0. The statement 'It is raining OR I have an umbrella' is true if at least one part is true. And NOT simply flips 1 into 0 and 0 into 1. These three little rules, AND, OR and NOT, are the building blocks of every decision a computer makes.",
+        "In Boole's own time, very few people thought his algebra had any practical use. It was admired by some logicians, including Augustus De Morgan, Ada Lovelace's tutor, who was working on similar questions. But it seemed like a beautiful puzzle for philosophers, nothing more. Nobody imagined that switches could follow the same rules. It would take until 1937, when a young American engineer named Claude Shannon looked at telephone switching circuits, for anyone to show clearly that Boole's algebra describes exactly how on-off switches can be wired together to make decisions. You will meet Shannon in the next part. Today, every chip inside every phone and laptop contains billions of tiny switches arranged into Boole's ANDs, ORs and NOTs."
+      ]
+    },
+    {
+      "heading": "Eight Years to Count a Country",
+      "paragraphs": [
+        "Now cross the Atlantic to the United States. Its Constitution demands that every ten years the government counts every person living in the country. This census decides how many representatives each state gets in Congress, so it really matters. In 1790, the first census counted just under 4 million people. But the country grew at astonishing speed, with families moving west and millions of immigrants arriving from Europe. By 1880, the census found over 50 million people.",
+        "Counting them was only the first step. The government also wanted to know their ages, jobs, birthplaces, languages, whether they could read, and much more, and then to make tables combining these facts: how many farmers in Ohio were born in Germany, how many children in Texas went to school. Census clerks did this by hand, making tally marks on huge sheets of paper. From the 1870s they had a little help from a simple tallying device, said to have been invented by a census official named Charles Seaton, which used rollers to bring different tally sheets close together, but it was still mostly human hands and eyes. The 1880 census took so long to process that its last volumes were not published until 1888, and it is usually said to have taken about eight years in total.",
+        "Officials did the sums and were alarmed. The population was growing so quickly that the 1890 census, done the same way, might not be finished before the 1900 census began. The government needed a faster way to count. It held a competition in 1889 to test new methods, and the winner, by a large margin, was a young engineer who had once been one of those weary census clerks himself."
+      ]
+    },
+    {
+      "heading": "Herman Hollerith and the Electric Census",
+      "paragraphs": [
+        "Herman Hollerith was born in 1860 in Buffalo, New York, to parents who had come from Germany. He studied engineering at the Columbia School of Mines in New York, graduating in 1879, and soon afterwards took a job working on the 1880 census. He saw at first hand how slow and tiring the hand counting was. Later he taught mechanical engineering at the Massachusetts Institute of Technology (MIT) from 1882, where he began experimenting with a better way.",
+        "His big idea came from an everyday sight. On American railways, conductors used a hand punch to make holes in passengers' tickets, and some tickets recorded details about the traveller by where the holes were punched. Hollerith realised that holes could store information about a person, and that a machine could read the holes far faster than a clerk could read handwriting. He also knew about punched cards on looms. Unlike Jacquard's cards, which controlled a machine, Hollerith's cards would store data to be counted.",
+        "Here is how his system worked. Each person counted in the census got one card, about 3¼ by 6⅝ inches (roughly 8 by 17 centimetres). The card had places for holes arranged in 12 rows and 24 columns, and each place stood for a fact: male or female, an age group, a state, a job and so on. Clerks punched the holes with a hand-operated punch. Then came the clever part, the tabulator. An operator placed a card in a press and pulled down a handle. A plate full of spring-loaded metal pins came down onto the card. Where there was no hole, a pin was simply pushed back. Where there was a hole, the pin went straight through and dipped into a tiny cup of mercury underneath. Mercury is a liquid metal that conducts electricity, so the pin completed an electric circuit.",
+        "Each completed circuit sent a pulse to an electromagnet, which nudged the hand of a counting dial forward by one, rather like a clock. The tabulator had 40 of these dials, each able to count up to 9,999. A bell rang to tell the operator that the card had been read properly. The machine could even open the lid of one compartment in a sorting box beside it, so the operator could drop the card into the right pile for the next round of counting. With relays, the machine could also count combinations, for example only people who were both married and foreign-born. That was Boole's AND, built into a counting machine, decades before anybody described it that way.",
+        "Hollerith patented his system, receiving US patent number 395,782 in 1889, and his machines won the government's test that year. For the 1890 census, the Census Office leased a whole fleet of them. A rough first total was announced only about six weeks after the processing began: about 62.9 million people. The final official count was 62,979,766. Many people did not believe it, because they had expected the nation to be bigger. The detailed tables, using tens of millions of punched cards, followed. The Census Bureau later said the work was finished months ahead of schedule and far under budget, and the full processing took about six years instead of the eight or more that had been feared. Hollerith became famous; Columbia University even awarded him a doctorate for the system in 1890."
+      ]
+    },
+    {
+      "heading": "From Hollerith's Company to IBM",
+      "paragraphs": [
+        "Other countries noticed. Census offices in Europe and in Canada leased Hollerith's machines for their own counts in the 1890s. Railway companies used them to keep track of freight. In 1896 Hollerith founded his own business, the Tabulating Machine Company, to make and lease his machines and to sell the cards. Leasing turned out to be a brilliant business model: customers paid every year to use the machines, and they had to keep buying fresh cards, which were used once and filed away.",
+        "The machines kept improving. For the 1900 census Hollerith built a tabulator that fed cards in automatically instead of one at a time by hand. By 1906 an automatic tabulator could handle about 150 cards a minute, and it had a plugboard, a panel of sockets where operators connected wires to decide which holes should go to which counters. Changing the wiring changed what the machine did, a little like changing its program.",
+        "In 1911, a businessman named Charles Flint arranged a merger of Hollerith's company with several others that made time clocks, weighing scales and other office equipment. The new firm had a clumsy name: the Computing-Tabulating-Recording Company, or CTR. In 1914 a talented salesman named Thomas J. Watson joined to run it, and he pushed the tabulating business hard. In 1924 he gave the company a grand new name: International Business Machines, or IBM. Hollerith, who had retired from running things, died in 1929.",
+        "IBM went on to become one of the most important computer companies in the world, and punched cards stayed at the centre of its business for decades. In 1928 it introduced a new card with 80 columns of rectangular holes, which became the standard for half a century. Later, each card commonly held one line of a computer program. When the United States began its Social Security system in the 1930s, keeping records for tens of millions of workers required enormous numbers of punched-card machines. By 1937, IBM's presses in Endicott, New York, were printing between 5 and 10 million cards every day. Hollerith had competitors too, such as the inventor James Powers, whose machines later became part of the Remington Rand company. But the name 'Hollerith card' stuck for generations."
+      ]
+    },
+    {
+      "heading": "Offices Full of Clattering Machines",
+      "paragraphs": [
+        "Step into a large insurance office in the 1920s or 1930s. The room is full of noise: the thump of keypunches, the whirr and clatter of sorters, the rattling of tabulators printing totals onto long sheets of paper. Rows of operators, many of them young women, sit at keypunch machines copying information from paper forms into holes. Others carry trays of cards from machine to machine. Each step is simple, but together they process information about hundreds of thousands of customers.",
+        "Punched-card machines spread into almost every kind of big organisation. Railways used them to track freight wagons and tickets. Insurance companies used them to work out premiums and payments for policyholders. Factories used them for payrolls and stock lists, so that every worker's hours and every bolt in the warehouse could be counted. Electricity and gas companies used them for bills, libraries used them to keep track of books, and police forces used them for records. Governments used them for taxes, armies and statistics of every kind.",
+        "A typical job worked in stages. First, a keypunch operator turned each record into a card. Next, a sorter, which could sort a stack of cards into piles by the holes in one column at a time, put the cards into order, say by customer number or by town. Then a tabulator or accounting machine read the sorted cards, added up totals, and printed reports. By 1928, IBM's accounting machines could subtract as well as add and print net balances while listing about 100 cards a minute.",
+        "Notice what these machines could and could not do. They were fast and tireless, and they used electricity, relays and wiring. But they were not computers in the modern sense. Each machine did one kind of job, set up by its plugboard, and people carried the cards between steps. There was no stored program and no machine that could decide for itself what to do next. Still, this world of punched cards trained a whole generation of engineers, operators and companies in the business of processing information, and the first electronic computers would read and write the very same cards."
+      ]
+    },
+    {
+      "heading": "Brass Brains: Analog Computers",
+      "paragraphs": [
+        "Hollerith's machines were digital: they counted separate steps, one hole, one click of a dial at a time. But in this same period, scientists built another kind of calculating machine, the analog computer. Analog machines work with smoothly changing quantities, such as the angle of a turning shaft, the length of a cord or the strength of a voltage. Instead of counting, they build a physical model that behaves the way the mathematics says it should, and then measure the answer. Think of the difference between a digital clock, which jumps from 10:41 to 10:42, and an old clock with hands, which sweep smoothly round.",
+        "One of the most beautiful analog machines was built to predict the tides. Tides are made by the pulls of the Moon and the Sun, which change in many overlapping cycles. A clever trick shows that a complicated tide pattern can be broken into a number of simple, regular waves, each rising and falling with its own rhythm, which add together to make the real tide. The physicist William Thomson, later Lord Kelvin, designed a machine to do that adding mechanically. The first one was built in 1872 and 1873. Each simple wave was produced by a crank turning at its own speed and moving a pulley up and down. A long cord or chain ran over and under all the pulleys, so its free end moved by the sum of all the waves, and a pen attached to it drew the predicted tide on a moving roll of paper.",
+        "The early machines handled around 8 to 10 tidal components and could draw a whole year's tides for a port in about four hours, a job that would take a human computer weeks. Bigger machines followed. In the United States, a machine designed by Rollin Harris and completed in 1912 was nicknamed 'Old Brass Brains'. It was kept secret during the Second World War, when tide predictions were vital for planning beach landings, and machines based on Thomson's design are credited with the tide forecasts for the D-Day landings in Normandy in June 1944. Old Brass Brains was used until 1965, and some tide machines kept working into the 1970s.",
+        "Thomson's brother James had described another important device in 1876: an integrator, which uses a small wheel pressing on a spinning disc. If you slide the wheel closer to or further from the centre of the disc, the wheel turns faster or slower. That lets a machine add up a smoothly changing quantity over time, which is what mathematicians call integration, the key step in solving equations about motion and change. These equations, called differential equations, describe falling objects, swinging pendulums, electric circuits and flying shells, and they are very hard to solve by hand.",
+        "At MIT, the engineer Vannevar Bush and his student Harold Hazen built a machine of linked integrators between 1928 and 1931. It was called the differential analyzer. Picture a long table-like frame, filling a room, crisscrossed with steel shafts, gears and six wheel-and-disc integrators. Special torque amplifiers boosted the tiny turning force of each integrator wheel so it could drive other parts. To 'program' it, engineers spent hours or days connecting shafts and gears to match the equation, then let it run while a pen traced the answer. The whole machine was big and very heavy. Copies and imitations were soon built elsewhere: in 1934, Douglas Hartree and Arthur Porter in Manchester built a working model largely out of Meccano, a children's construction toy, and it was accurate enough for real research. Differential analyzers computed firing tables for artillery, studied electric power grids and helped design aircraft.",
+        "Analog computers were often fast and elegant, but they had a weakness. Their answers could only be as precise as the parts were made and measured, usually to about three or four significant figures. Wear, slack and friction crept in. And each machine modelled one kind of problem. Digital machines, which count exact steps, could in principle be made as precise as you like by adding more digits. That is one big reason why the future would belong to digital computers, though analog machines stayed useful in some jobs, such as flight simulators, for decades."
+      ]
+    },
+    {
+      "heading": "A Spanish Engineer and a Chess-Playing Machine",
+      "paragraphs": [
+        "In Madrid there lived an engineer with a remarkable imagination: Leonardo Torres Quevedo, born in 1852. He designed cable cars, airships and calculating machines. In 1903 he demonstrated the Telekino, one of the first radio remote-control systems, which used coded radio signals to steer things such as boats. His cable car over the whirlpool below Niagara Falls, the Spanish Aero Car, opened in 1916 and still carries tourists today.",
+        "In 1912 Torres Quevedo completed a machine that astonished visitors: El Ajedrecista, Spanish for 'The Chess Player'. It played a simple chess ending, with the machine's king and rook against a human's lone king. The human moved; the machine sensed where the pieces were through electrical contacts, worked out its reply by following fixed rules built into its mechanism, and moved its own pieces with a mechanical arm. It always managed to checkmate the human eventually. If the human made an illegal move, a light came on, and after three illegal moves the machine stopped playing. A later version, designed in 1922 and improved by his son Gonzalo, moved pieces with magnets under the board and announced checkmate by playing a recording. It was not thinking; it was following rules. But it showed that a machine could make decisions based on a situation, which is exactly what Ada Lovelace had said rules on symbols could do.",
+        "Two years later, in 1914, Torres Quevedo published Essays on Automatics. In it he discussed Babbage's Analytical Engine and argued that, with electrical switches instead of only gears, it should be possible to build machines that calculated automatically and made choices along the way. He even described a way of storing numbers as a fixed number of digits plus a separate exponent, an idea similar to the floating-point numbers that modern computers use for decimals. In 1920 he demonstrated an electromechanical arithmometer in Paris: a typewriter connected to a calculating machine, so you could type a sum and have the answer printed. It showed in a small way how a person could give instructions to a machine through a keyboard.",
+        "By the 1930s, then, the pieces of the computer were scattered across the world like parts of a puzzle. Boole had the logic. Babbage and Lovelace had described a programmable engine. Hollerith had shown that electric machines could read cards and process information on a giant scale. Kelvin and Bush had built machines that solved equations. Torres Quevedo had shown how electromechanical switches might do it all. What nobody had yet done was answer a deep question underneath all of it.",
+        "In 1935, a 23-year-old mathematician at the University of Cambridge was thinking about a puzzle set by one of the greatest mathematicians in the world. It sounded simple, but it went to the very bottom of mathematics. What exactly does it mean to compute something, and is there anything that can never be computed at all? His name was Alan Turing."
+      ]
+    }
+  ],
+  "deepDive": "Why did digital machines win? In the early twentieth century it was not obvious that they would. Analog computers such as Kelvin's tide predictor and Bush's differential analyzer were often faster for the problems they were built for, because the physics of the machine did the mathematics continuously. A differential analyzer could integrate an equation in one smooth run, while a punched-card installation needed many separate passes. But analog machines have a built-in ceiling on accuracy. Every shaft has a little slack, every disc slips a little, every measurement scale has a limit, so results were typically good to about three or four significant figures, and errors could build up through a long calculation. Making an analog machine ten times more accurate means making every part ten times more precise, which quickly becomes impossible. Digital machines work differently: they represent numbers as separate digits, and each digit only has to be told apart from a few others (or, in binary, just 0 from 1). To get more precision you add more digits, and small electrical noise does not matter as long as each switch can still tell on from off. Digital machines are also more flexible: Hollerith's plugboards, and later stored programs, let one machine do many different jobs, while an analog machine had to be physically rebuilt for each new equation. Historians also stress the business side. Hollerith's leasing model created an industry, IBM, with customers, salespeople, service engineers and card factories, which was ready to sell electronic computers when they arrived in the 1950s. Boole's algebra, meanwhile, waited more than eighty years for its moment: when engineers needed a way to design networks of on-off switches, his 0-and-1 logic turned out to be exactly the right mathematics. Analog computing never fully vanished; electronic analog machines were used for flight simulation and control systems well into the 1980s, and some researchers today are exploring analog chips again for low-power artificial intelligence.",
+  "funFact": "George Boole and Ada Lovelace were born in the same year, 1815, only about five weeks apart.",
+  "check": {
+    "q": "What did a pin do in Hollerith's tabulator when it passed through a hole in a census card?",
+    "a": "It dipped into a cup of mercury, completing an electric circuit that moved a counting dial",
+    "wrong": [
+      "It cut the card in half to mark it as counted",
+      "It rang a telephone at the Census Office",
+      "It wound up a spring that printed the person's name"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Herman Hollerith",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Herman_Hollerith"
+    },
+    {
+      "title": "Tabulating machine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tabulating_machine"
+    },
+    {
+      "title": "1890 United States census",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1890_United_States_census"
+    },
+    {
+      "title": "The punched card",
+      "publisher": "IBM",
+      "url": "https://www.ibm.com/history/punched-card"
+    },
+    {
+      "title": "George Boole",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_Boole"
+    },
+    {
+      "title": "Tide-predicting machine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tide-predicting_machine"
+    },
+    {
+      "title": "Differential analyser",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Differential_analyser"
+    },
+    {
+      "title": "Leonardo Torres Quevedo",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leonardo_Torres_Quevedo"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Hollerith's electric tabulating machine with its sorting box, as used for the 1890 US census",
+      "search": "Hollerith tabulating machine 1890 census"
+    },
+    {
+      "want": "Lord Kelvin's tide-predicting machine with its pulleys and cranks, in the Science Museum, London",
+      "search": "Kelvin tide predicting machine"
+    },
+    {
+      "want": "Vannevar Bush's differential analyzer at MIT, a room-sized machine of shafts and integrators",
+      "search": "differential analyzer MIT Bush"
+    }
+  ]
+}

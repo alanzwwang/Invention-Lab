@@ -1,0 +1,889 @@
+[
+  {
+    "id": "soap",
+    "name": "Soap",
+    "emoji": "🧼",
+    "year": -2800,
+    "when": "around 2800 BCE",
+    "where": "Babylon, Mesopotamia (modern Iraq)",
+    "who": "Unknown — ancient Babylonians",
+    "category": "Home & Everyday",
+    "kid": "Soap is a slippery helper that grabs dirt and grease so water can wash them away. People in ancient Babylon were making soap-like stuff almost 5,000 years ago. Washing your hands with soap is one of the best ways to stay healthy!",
+    "explorer": "The oldest evidence of soap-making comes from ancient Babylon, around 2800 BCE, where clay containers held a soap-like material. Early soap was made by boiling animal fat or plant oil with ashes, which contain alkali. Ancient Egyptians described a similar recipe in the Ebers Papyrus, a medical scroll from around 1550 BCE. For a long time soap was used mostly for cleaning wool and cloth or as medicine, and only later became an everyday way to wash bodies.",
+    "expert": "Soap is the product of saponification: fats or oils (triglycerides) react with a strong alkali such as lye, producing salts of fatty acids plus glycerol. Archaeological residues from Babylon around 2800 BCE and written recipes from Mesopotamia and Egypt show the chemistry was discovered empirically long before anyone understood it. In medieval times, soap-making centres such as Aleppo in Syria and later Marseille and Castile were famous for olive-oil soaps. Mass production came after chemists such as Nicolas Leblanc found ways to make alkali (soda ash) cheaply in the late 1700s. A common misunderstanding is that ordinary soap mainly kills germs; mostly it lifts them off the skin so they rinse away, although it can also break apart the fatty outer coat of some viruses. Public handwashing campaigns in the 19th and 20th centuries made soap one of the cheapest and most effective public-health tools ever.",
+    "how": "A soap molecule has a head that loves water and a long tail that loves oil and grease. The tails dig into greasy dirt and the heads face outward, wrapping the dirt in tiny balls called micelles. Water can then carry those balls away down the drain.",
+    "before": "People rinsed with plain water, scraped their skin, or rubbed themselves with oils, sand or ash. Ancient Romans and Greeks often oiled their skin and scraped it clean with a curved tool called a strigil.",
+    "impact": "Soap made cleaning clothes, homes and bodies much easier. Regular handwashing with soap helps prevent the spread of many diseases and saves many lives every year.",
+    "facts": [
+      "Soap molecules are shaped a bit like tadpoles, with a water-loving head and a grease-loving tail.",
+      "Ancient Egyptians recorded a way of mixing oils with alkaline salts in a medical scroll called the Ebers Papyrus.",
+      "Soap can break apart the fatty outer layer of some viruses, including coronaviruses.",
+      "Aleppo soap from Syria, made with olive oil and laurel oil, has been made for many centuries."
+    ],
+    "ledTo": [],
+    "wiki": "Soap",
+    "quiz": [
+      {
+        "q": "Where does the oldest evidence of soap-making come from?",
+        "a": "Ancient Babylon",
+        "wrong": [
+          "Ancient Japan",
+          "Medieval France",
+          "The Aztec Empire"
+        ]
+      },
+      {
+        "q": "What does soap mostly do to germs on your hands?",
+        "a": "Lifts them off to rinse away",
+        "wrong": [
+          "Freezes them solid",
+          "Turns them into vitamins",
+          "Makes them glow"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "flush-toilet",
+    "name": "Flush Toilet",
+    "emoji": "🚽",
+    "year": 1596,
+    "when": "1596",
+    "where": "England",
+    "who": "Sir John Harington (1596); Alexander Cumming patented the S-bend trap (1775)",
+    "category": "Home & Everyday",
+    "kid": "A flush toilet uses a rush of water to whisk waste away down a pipe. An Englishman named John Harington built one and is said to have set one up for Queen Elizabeth I more than 400 years ago. Today flush toilets help keep towns clean and people healthy.",
+    "explorer": "In 1596 Sir John Harington described a flushing toilet with a water tank and a valve, and he built one at his own house; he is also said to have made one for his godmother, Queen Elizabeth I. Few people copied it at the time, because most homes had no running water or sewers. In 1775 Alexander Cumming patented the S-shaped bend in the pipe, which traps water and blocks smelly gases. Flush toilets became common in the late 1800s once cities built sewer systems.",
+    "expert": "Water-flushed latrines are much older than Harington: cities of the Indus Valley civilisation, such as Mohenjo-daro (around 2500 BCE), had toilets draining into covered sewers, and the Minoan palace at Knossos had water-flushed drains. Harington's 1596 device, which he jokingly called the 'Ajax', is usually credited as the first modern-style flush toilet with a cistern and valve. Alexander Cumming's 1775 S-trap patent solved the smell problem, and later improvements by Joseph Bramah and others made toilets reliable. Contrary to popular myth, Thomas Crapper did not invent the flush toilet, although his Victorian plumbing company did patent improvements and helped popularise them. The real breakthrough for health was the combination of toilets with sewers and clean water supplies, which cut deadly outbreaks of diseases such as cholera. Even today, billions of people still lack safely managed sanitation, which is why the United Nations marks World Toilet Day every 19 November.",
+    "how": "Pressing the handle lets water rush from the tank into the bowl, pushing waste through a curved pipe. The curve, called a trap, refills with water afterward and acts as a seal that keeps sewer smells out of the room.",
+    "before": "People used chamber pots, outdoor privies or cesspits, and waste was often dumped into streets or rivers. This spread smells and dangerous diseases.",
+    "impact": "Together with sewers and clean water, flush toilets made cities far healthier. They helped stop outbreaks of water-borne diseases like cholera and typhoid.",
+    "facts": [
+      "John Harington nicknamed his flushing toilet the 'Ajax', a pun on 'jakes', an old English slang word for toilet.",
+      "Thomas Crapper did not invent the flush toilet, though his company sold and improved them.",
+      "Cities of the ancient Indus Valley had toilets connected to drains more than 4,000 years ago.",
+      "The United Nations celebrates World Toilet Day every year on 19 November."
+    ],
+    "ledTo": [],
+    "wiki": "Flush toilet",
+    "quiz": [
+      {
+        "q": "Which queen had one of the first flush toilets?",
+        "a": "Queen Elizabeth I",
+        "wrong": [
+          "Queen Victoria",
+          "Cleopatra",
+          "Marie Antoinette"
+        ]
+      },
+      {
+        "q": "What does the S-bend in a toilet pipe do?",
+        "a": "Traps water to block smells",
+        "wrong": [
+          "Makes the water warm",
+          "Counts each flush",
+          "Adds soap to the water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lock-and-key",
+    "name": "Lock and Key",
+    "emoji": "🔑",
+    "year": -700,
+    "when": "by around 700 BCE (likely earlier)",
+    "where": "Mesopotamia and Egypt",
+    "who": "Unknown — ancient Mesopotamians and Egyptians; later improved by Joseph Bramah and Linus Yale Sr. and Jr.",
+    "category": "Home & Everyday",
+    "kid": "A lock keeps a door or box shut, and only the right key can open it. The first locks were made of wood thousands of years ago. Today's keys still use a clever idea from those ancient locks: little pins that must line up just right.",
+    "explorer": "One of the oldest known locks was found in the ruins of Nineveh, the capital of ancient Assyria, in modern Iraq. Ancient Egyptians also used big wooden locks with pins that dropped into holes, and a wooden key lifted them out of the way. The Romans made smaller metal locks and keys, and some keys were even worn as rings. In the 1800s Linus Yale Sr. and his son Linus Yale Jr. in the United States developed the pin-tumbler cylinder lock that most front doors still use.",
+    "expert": "Ancient pin locks from Mesopotamia and Egypt used wooden bolts held by pins that a key with matching pegs could lift, a principle remarkably close to modern pin-tumbler designs; exact dates for the very first locks are uncertain. Roman metalworkers introduced warded locks, where obstacles inside block the wrong key, and these dominated for centuries even though they were fairly easy to pick. In 1784 Joseph Bramah in England patented a high-security lock, and from 1790 his shop window displayed a challenge lock offering 200 guineas to anyone who could pick it; it was not opened until the American locksmith Alfred Hobbs succeeded in 1851, after about 51 hours of work spread over roughly two weeks. Linus Yale Sr. patented a pin-tumbler lock in the 1840s, and Linus Yale Jr. developed the compact cylinder lock with a small flat key in the 1860s. Security is always a contest: every improvement in locks has been followed by new picking techniques, which is why modern systems add electronic keys, codes and alarms.",
+    "how": "Inside a pin-tumbler lock, small spring-loaded pins of different lengths block a cylinder from turning. The bumps on the correct key push every pin up to exactly the right height, so the gap between the pins lines up and the cylinder can turn to open the lock.",
+    "before": "People guarded valuables with guards, heavy bars across doors, or knotted ropes and seals that showed if something had been tampered with.",
+    "impact": "Locks made it possible to protect homes, shops and treasures without someone standing guard. They became a basic part of private property and everyday security.",
+    "facts": [
+      "Some ancient Romans wore small keys as rings on their fingers.",
+      "Joseph Bramah's 'unpickable' challenge lock sat in his shop window for about 60 years before Alfred Hobbs picked it in 1851.",
+      "Joseph Bramah also invented an important hydraulic press and improvements to the flush toilet.",
+      "Most front-door locks today still use the pin-tumbler idea developed by the Yale family in the 1800s."
+    ],
+    "ledTo": [],
+    "wiki": "Lock and key",
+    "quiz": [
+      {
+        "q": "What were the earliest locks mostly made of?",
+        "a": "Wood",
+        "wrong": [
+          "Plastic",
+          "Glass",
+          "Aluminum"
+        ]
+      },
+      {
+        "q": "Which family developed the modern pin-tumbler cylinder lock?",
+        "a": "The Yale family",
+        "wrong": [
+          "The Wright family",
+          "The Ford family",
+          "The Edison family"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "matches",
+    "name": "Friction Matches",
+    "emoji": "🔥",
+    "year": 1826,
+    "when": "1826",
+    "where": "Stockton-on-Tees, England",
+    "who": "John Walker (friction match, 1826); safety match by Gustaf Erik Pasch (1844), improved by Johan Edvard Lundström",
+    "category": "Home & Everyday",
+    "kid": "A match is a little stick with a special tip that bursts into flame when you strike it. An English chemist named John Walker made the first strike-anywhere matches in 1826. Matches made lighting a fire super quick — but they are tools for grown-ups to use carefully!",
+    "explorer": "John Walker, a chemist in Stockton-on-Tees, England, discovered in 1826 that a stick coated with certain chemicals would catch fire when scraped across a rough surface. He sold them as 'Friction Lights' but never patented them, so others soon copied the idea. Later matches used white phosphorus, which lit easily but was poisonous to factory workers. In Sweden in the 1840s and 1850s, Gustaf Erik Pasch and Johan Edvard Lundström developed the safety match, which only lights on the special strip of the box.",
+    "expert": "Fire-starting sticks tipped with sulfur were used in China centuries earlier, but they had to be touched to an existing ember; Walker's 1826 match was the first practical one to ignite purely from friction, using a head of potassium chlorate and antimony sulfide. Rivals soon sold copies as 'Lucifers', and in the 1830s matches with white phosphorus heads became popular because they lit on almost any surface. White phosphorus caused a terrible bone disease in match workers known as 'phossy jaw', and poor conditions led to the famous London matchgirls' strike of 1888; white phosphorus matches were eventually banned by international agreement in the early 1900s. The safety match separates the chemistry: the head contains an oxidiser such as potassium chlorate, while non-toxic red phosphorus sits on the box's striking strip, so the match lights only when the two meet. Sweden became the world centre of safety-match manufacturing in the late 1800s.",
+    "how": "Rubbing the match head on the striking strip creates heat from friction. On a safety match, this heat turns a little red phosphorus from the strip into a form that catches fire, which sets off the chemicals in the head and then lights the wooden stick.",
+    "before": "People made fire with a tinderbox, striking flint against steel to throw sparks onto dry tinder, or they kept a fire or ember burning all the time.",
+    "impact": "Matches made fire instantly available for cooking, lighting candles and lamps, and heating homes. They saved huge amounts of time and effort in daily life.",
+    "facts": [
+      "John Walker never patented his friction match, so other people copied and sold it.",
+      "The safety match lights only on the box because the red phosphorus is on the striking strip, not the match head.",
+      "Poisonous white phosphorus matches caused a disease in workers called 'phossy jaw' and were later banned.",
+      "Sweden became famous worldwide for making safety matches in the 1800s."
+    ],
+    "ledTo": [],
+    "wiki": "Match",
+    "quiz": [
+      {
+        "q": "Who invented the first friction match?",
+        "a": "John Walker",
+        "wrong": [
+          "Isaac Newton",
+          "Thomas Edison",
+          "Louis Pasteur"
+        ]
+      },
+      {
+        "q": "Which country made the safety match famous?",
+        "a": "Sweden",
+        "wrong": [
+          "Brazil",
+          "Egypt",
+          "Australia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tin-can",
+    "name": "Tin Can",
+    "emoji": "🥫",
+    "year": 1810,
+    "when": "1810",
+    "where": "London, England (based on a method from France)",
+    "who": "Peter Durand (patent, 1810), building on Nicolas Appert's food-preserving method",
+    "category": "Home & Everyday",
+    "kid": "A tin can is a sealed metal container that keeps food safe to eat for a very long time. It was invented in 1810, when people needed food that would last on long trips and voyages. Funny thing: the can opener wasn't invented until decades later!",
+    "explorer": "In 1810 a French cook named Nicolas Appert showed that food sealed in glass jars and then heated would not spoil, winning a prize from the French government. That same year, Peter Durand in England patented the idea of using tin-coated iron cans instead of breakable glass. By 1813 a factory in London run by Bryan Donkin and John Hall was supplying canned food to the British Navy. Early cans were so thick that people opened them with a hammer and chisel.",
+    "expert": "Appert's method worked by heating sealed food, which killed microbes and prevented new ones getting in, but nobody knew why until Louis Pasteur's work on microorganisms in the 1860s. Durand's 1810 patent covered several container materials, and he sold it to Donkin and Hall, whose cannery supplied the Royal Navy and polar expeditions. Early cans were heavy, handmade and soldered shut, and some were sealed with lead solder, which could contaminate food — an issue fixed much later as manufacturing improved. Dedicated can openers did not appear until the 1850s, and the familiar rotating-wheel opener came later still. Today's 'tin cans' are mostly steel with a very thin tin coating, or aluminium, and they are among the most recycled packages in the world.",
+    "how": "Food is sealed inside an airtight metal can and then heated to a high temperature. The heat kills bacteria and other microbes, and the seal stops new ones from getting in, so the food stays safe without a fridge.",
+    "before": "People preserved food by drying, salting, smoking, pickling or packing it in sugar or fat. Sailors on long voyages often ate hard biscuits and salted meat.",
+    "impact": "Canning made it possible to store and ship food safely for months or years. It fed armies, explorers and cities, and made many foods available all year round.",
+    "facts": [
+      "The can opener was invented decades after the tin can — early cans were opened with a hammer and chisel.",
+      "Nicolas Appert won a prize from the French government for his method of preserving food.",
+      "Most 'tin cans' today are actually steel with a thin coating of tin, or aluminium.",
+      "Nobody knew why canning worked until Louis Pasteur showed that microbes cause food to spoil."
+    ],
+    "ledTo": [],
+    "wiki": "Tin can",
+    "quiz": [
+      {
+        "q": "In what year was the tin can patented?",
+        "a": "1810",
+        "wrong": [
+          "1610",
+          "1910",
+          "1969"
+        ]
+      },
+      {
+        "q": "How did people open the earliest cans?",
+        "a": "With a hammer and chisel",
+        "wrong": [
+          "With a pull tab",
+          "With a microwave",
+          "With a magnet"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "refrigerator",
+    "name": "Refrigerator",
+    "emoji": "🧊",
+    "year": 1834,
+    "when": "1834",
+    "where": "London, England",
+    "who": "Jacob Perkins (first working vapor-compression machine, 1834); later John Gorrie, Carl von Linde and many others",
+    "category": "Home & Everyday",
+    "kid": "A fridge keeps food cold so it stays fresh for longer. It doesn't really make cold — it pumps heat out of the box and lets it go out the back. The first working cooling machine was built in 1834, and home fridges became common about 100 years ago.",
+    "explorer": "In 1834 Jacob Perkins, an American inventor living in London, patented the first working machine that cooled things using vapor compression, the same basic idea fridges use today. Later inventors such as John Gorrie in Florida and Carl von Linde in Germany built ice-making and cooling machines for hospitals, breweries and meat packers. Electric home refrigerators appeared in the 1910s and became common in many homes from the 1920s onward. Before that, families used iceboxes filled with blocks of ice.",
+    "expert": "The vapor-compression cycle relies on a simple fact of physics: a liquid absorbs heat when it evaporates and gives off heat when it is compressed back into a liquid. Perkins built a working machine in 1834, but it was not a commercial success; industrial refrigeration grew in the late 1800s, especially for brewing and shipping meat, aided by Carl von Linde's efficient designs. Early home fridges used toxic gases such as ammonia, methyl chloride or sulfur dioxide, and leaks could be dangerous. Chlorofluorocarbons (CFCs) such as Freon, introduced around 1930, were safer at home but were later found to damage the ozone layer, so the 1987 Montreal Protocol phased them out. Their replacements (HFCs) are strong greenhouse gases and are now also being phased down. Refrigeration also built the 'cold chain' that moves food and vaccines around the world.",
+    "how": "A special fluid called a refrigerant flows in a loop. Inside the fridge it evaporates and soaks up heat, then a compressor squeezes it so it releases that heat through coils at the back. The cooled fluid returns inside to repeat the cycle.",
+    "before": "People kept food in cellars, cool streams or iceboxes filled with ice cut from frozen lakes in winter. They also dried, salted and pickled food so it would last.",
+    "impact": "Refrigerators cut food waste and food poisoning and let families shop less often. Refrigeration also made it possible to ship fresh food and store medicines and vaccines safely.",
+    "facts": [
+      "A fridge doesn't make cold — it moves heat from inside to outside, which is why the back feels warm.",
+      "Albert Einstein and Leó Szilárd patented a refrigerator design with no moving parts in 1930.",
+      "Before fridges, ice cut from frozen lakes was shipped from New England as far away as India.",
+      "Chemicals once used in fridges damaged the ozone layer, so countries agreed to ban them in the Montreal Protocol."
+    ],
+    "ledTo": [
+      "air-conditioning",
+      "blood-bank"
+    ],
+    "wiki": "Refrigerator",
+    "quiz": [
+      {
+        "q": "What does a refrigerator actually do with heat?",
+        "a": "Moves it outside the box",
+        "wrong": [
+          "Destroys it completely",
+          "Turns it into light",
+          "Stores it in the food"
+        ]
+      },
+      {
+        "q": "What did families use before electric fridges?",
+        "a": "Iceboxes with blocks of ice",
+        "wrong": [
+          "Microwave ovens",
+          "Solar panels",
+          "Electric fans only"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sewing-machine",
+    "name": "Sewing Machine",
+    "emoji": "🧵",
+    "year": 1846,
+    "when": "1846",
+    "where": "United States",
+    "who": "Elias Howe (1846 patent), with earlier work by Thomas Saint, Barthélemy Thimonnier and Walter Hunt; popularised by Isaac Singer",
+    "category": "Home & Everyday",
+    "kid": "A sewing machine stitches cloth together much faster than a person sewing by hand. Its needle has the hole near the pointy tip, not at the top! Sewing machines made clothes cheaper and quicker to make for everyone.",
+    "explorer": "Several inventors worked on sewing machines. In France, Barthélemy Thimonnier built a working machine around 1830, but tailors who feared losing their jobs attacked his workshop. In the United States, Elias Howe patented a lockstitch machine in 1846, using two threads that lock together. Isaac Singer improved the design in 1851, and his company sold machines to homes using payment plans, making them hugely popular.",
+    "expert": "Thomas Saint described a sewing machine in an English patent in 1790, but there is no evidence he built a working one. Walter Hunt in New York made a lockstitch machine in the 1830s but did not patent it. Elias Howe's 1846 patent covered the key combination of an eye-pointed needle and a shuttle carrying a second thread, and he sued Singer and others for infringement, leading to the so-called 'Sewing Machine War'. In 1856 the main patent holders formed the Sewing Machine Combination, an early patent pool that let manufacturers license all the patents together. Singer's company also pioneered selling expensive machines to families through installment payments. Sewing machines transformed the clothing industry, but they also fuelled crowded, low-paid garment workshops, a problem that still exists in parts of the world today.",
+    "how": "The needle pushes a loop of upper thread down through the cloth. Underneath, a hook or shuttle catches the loop and wraps it around a second thread from a small spool called a bobbin, locking the two threads together into a stitch.",
+    "before": "Every piece of clothing was sewn by hand with a needle and thread, stitch by stitch. Making a shirt could take many hours.",
+    "impact": "Sewing machines made clothes much faster and cheaper to produce. They led to ready-made clothing sold in shops instead of everything being made at home or by tailors.",
+    "facts": [
+      "A sewing machine needle has its eye near the point, the opposite of a hand-sewing needle.",
+      "French tailors once attacked Barthélemy Thimonnier's workshop because they feared his machines would take their jobs.",
+      "The Singer company was one of the first to let families pay for expensive items in installments.",
+      "Sewing machine makers formed one of the first patent pools in 1856 to end their legal fights."
+    ],
+    "ledTo": [],
+    "wiki": "Sewing machine",
+    "quiz": [
+      {
+        "q": "Who patented the lockstitch sewing machine in 1846?",
+        "a": "Elias Howe",
+        "wrong": [
+          "Henry Ford",
+          "Alexander Graham Bell",
+          "Samuel Morse"
+        ]
+      },
+      {
+        "q": "Where is the hole on a sewing machine needle?",
+        "a": "Near the pointed tip",
+        "wrong": [
+          "At the very top",
+          "In the middle",
+          "There is no hole"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "zipper",
+    "name": "Zipper",
+    "emoji": "🤐",
+    "year": 1913,
+    "when": "1913",
+    "where": "United States",
+    "who": "Gideon Sundback (1913), building on Whitcomb Judson's 1893 'clasp locker'",
+    "category": "Home & Everyday",
+    "kid": "A zipper joins two edges together with rows of tiny teeth that lock like puzzle pieces. A Swedish-American engineer named Gideon Sundback made the modern zipper in 1913. Zip, zip — no more fiddly buttons!",
+    "explorer": "In 1893 Whitcomb Judson patented a 'clasp locker' for shoes, but it often jammed or popped open. Gideon Sundback, an engineer working for Judson's company, designed a much better version in 1913 with small interlocking teeth, called the 'Hookless Fastener'. The name 'zipper' came in the 1920s, when the B.F. Goodrich company used it for rubber boots with these fasteners. Zippers appeared on trousers and jackets in the 1930s.",
+    "expert": "Elias Howe, the sewing-machine inventor, patented an 'Automatic, Continuous Clothing Closure' in 1851, but never sold it. Judson's clasp locker of the 1890s used hooks and eyes and was unreliable; it is often said to have been shown at the 1893 Chicago World's Fair, but historians have found little firm evidence of that. Sundback's 1913 design used identical, cup-shaped teeth that nest into one another, and his 1917 patent for the 'Separable Fastener' is essentially the modern zipper; he also designed the machines that made it cheaply. B.F. Goodrich's trademarked name 'Zipper' came from the sound it makes and quickly became the common word. Early uses were boots and tobacco pouches; tailors were slow to adopt it in clothes until the 1930s. Today one Japanese company, YKK, makes a large share of the world's zippers.",
+    "how": "Each side of a zipper has a row of small teeth. The slider has a Y-shaped channel that pushes the two rows together at just the right angle, so each tooth hooks into the gap between two teeth on the other side; pulling it the other way wedges them apart.",
+    "before": "Clothes, boots and bags were fastened with buttons, laces, hooks and eyes, or buckles, which took longer to do up.",
+    "impact": "Zippers made clothing, bags, tents and luggage quick to open and close. They are now one of the most common fasteners in the world.",
+    "facts": [
+      "Elias Howe, the sewing machine inventor, patented a zipper-like fastener in 1851 but never sold it.",
+      "The word 'zipper' was first a brand name used by the B.F. Goodrich company for boots.",
+      "Gideon Sundback also invented the machine that made zippers quickly and cheaply.",
+      "The Japanese company YKK makes a large share of all the zippers in the world."
+    ],
+    "ledTo": [],
+    "wiki": "Zipper",
+    "quiz": [
+      {
+        "q": "Who designed the modern zipper in 1913?",
+        "a": "Gideon Sundback",
+        "wrong": [
+          "George de Mestral",
+          "Isaac Singer",
+          "John Deere"
+        ]
+      },
+      {
+        "q": "What were early zippers used on, before trousers?",
+        "a": "Boots and tobacco pouches",
+        "wrong": [
+          "Spacesuits",
+          "Smartphones",
+          "Car tires"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "washing-machine",
+    "name": "Washing Machine",
+    "emoji": "🫧",
+    "year": 1908,
+    "when": "1908 (electric)",
+    "where": "United States",
+    "who": "Many inventors; Alva J. Fisher is often credited with the electric 'Thor' (1908), though earlier electric machines existed",
+    "category": "Home & Everyday",
+    "kid": "A washing machine sloshes and spins your clothes with water and soap until they are clean. Electric washing machines appeared in the early 1900s. Before that, washing clothes by hand could take a whole day of hard work!",
+    "explorer": "People tried hand-cranked washing machines in the 1700s and 1800s, using wooden tubs and paddles. In the early 1900s, inventors added electric motors, and Alva J. Fisher's 'Thor' machine of 1908 is often called one of the first. Early electric washers still needed a hand-fed wringer to squeeze out water. Automatic machines that filled, washed, rinsed and spun on their own became popular after the 1940s.",
+    "expert": "There is no single inventor of the washing machine: hand-powered drum and paddle washers were patented in Britain and the United States from the 1700s onward, and several companies sold electric models in the first decade of the 1900s, so Fisher's credit is disputed. Early electric machines had exposed parts and wringers that could be dangerous. The fully automatic machine, launched commercially in the late 1930s and spreading after World War II, was the real turning point. Historians and economists often point to the washing machine as a technology that freed up enormous amounts of time, mostly for women, who traditionally did the laundry. Modern machines use far less water and energy than older ones, and front-loaders generally use less water than traditional top-loaders.",
+    "how": "A motor turns a drum or a paddle called an agitator, tumbling clothes through soapy water so the detergent can loosen dirt. The machine then drains the water, rinses with clean water and spins the drum very fast so the water is flung out through tiny holes.",
+    "before": "Clothes were scrubbed by hand on washboards or rocks, boiled in big pots, and wrung out by hand or with a mangle. Laundry day was one of the hardest chores of the week.",
+    "impact": "Washing machines saved families many hours of heavy work every week. That freed time for school, paid jobs and other activities, especially for women.",
+    "facts": [
+      "Before washing machines, laundry was often a full day's hard work each week.",
+      "Early electric washers had a hand-fed wringer of two rollers to squeeze out the water.",
+      "A spinning drum pushes water out of clothes the same way a spinning salad spinner dries lettuce.",
+      "Many modern washing machines have computer chips that sense the load and adjust the water."
+    ],
+    "ledTo": [],
+    "wiki": "Washing machine",
+    "quiz": [
+      {
+        "q": "What did people scrub clothes on before washing machines?",
+        "a": "A washboard",
+        "wrong": [
+          "A keyboard",
+          "A skateboard",
+          "A dartboard"
+        ]
+      },
+      {
+        "q": "When did electric washing machines first appear?",
+        "a": "The early 1900s",
+        "wrong": [
+          "The early 1700s",
+          "The 1960s",
+          "The 1990s"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vacuum-cleaner",
+    "name": "Vacuum Cleaner",
+    "emoji": "🧹",
+    "year": 1901,
+    "when": "1901",
+    "where": "London, England",
+    "who": "Hubert Cecil Booth (powered vacuum, 1901); James Murray Spangler (portable electric, 1907), sold to Hoover",
+    "category": "Home & Everyday",
+    "kid": "A vacuum cleaner sucks up dust and crumbs like a giant hungry straw. The first powered one, built in 1901, was so big it was pulled by horses and parked outside the house! Long tubes went in through the windows to clean the rooms.",
+    "explorer": "In 1901 the English engineer Hubert Cecil Booth patented a powerful machine that sucked dirt out of carpets instead of just blowing it around. It was so huge that it sat on a cart in the street, with long hoses fed through windows. In 1907 James Murray Spangler, a janitor in Ohio, built a portable electric vacuum. He sold his patent to William Hoover, whose company made vacuums so popular that in Britain people still call vacuuming 'hoovering'.",
+    "expert": "Earlier American inventors made carpet sweepers and hand-pumped suction devices in the 1860s, such as Ives McGaffey's 1869 'Whirlwind', but they were weak and tiring to use. Booth's 1901 machine used a petrol engine (later electric motors) and a strong suction pump, and his company offered cleaning as a service; it was famously used to clean Westminster Abbey's carpets before Edward VII's coronation in 1902. A popular story says Booth tested the idea by sucking dust through a handkerchief from a restaurant chair. Spangler, who reportedly suffered from asthma made worse by dust, built a lightweight upright model from a fan motor, a box and a pillowcase; his relative by marriage William Hoover bought the patent in 1908. Modern advances include bagless cyclonic vacuums and robot vacuums, which became widely sold after iRobot's Roomba in 2002.",
+    "how": "An electric fan inside the vacuum pushes air out, lowering the air pressure inside the machine. The higher pressure of the air in the room then rushes in through the nozzle, carrying dust with it into a bag or bin while a filter lets the clean air escape.",
+    "before": "People swept floors with brooms and took rugs outside to beat the dust out with a carpet beater. This stirred dust into the air rather than removing it.",
+    "impact": "Vacuum cleaners made homes cleaner and less dusty, which helped people with allergies and asthma. They also saved time on one of the most common household chores.",
+    "facts": [
+      "Hubert Booth's first powered vacuum was so big it was pulled by horses and parked in the street.",
+      "In Britain, people often call vacuuming 'hoovering', after the Hoover company.",
+      "A vacuum doesn't really 'suck' — the air in the room pushes dust in because the pressure inside is lower.",
+      "Robot vacuums that drive themselves around the house became popular in the early 2000s."
+    ],
+    "ledTo": [],
+    "wiki": "Vacuum cleaner",
+    "quiz": [
+      {
+        "q": "What pulled Hubert Booth's first powered vacuum?",
+        "a": "Horses",
+        "wrong": [
+          "Elephants",
+          "A steam train",
+          "Dogs"
+        ]
+      },
+      {
+        "q": "Who bought James Spangler's vacuum patent?",
+        "a": "William Hoover",
+        "wrong": [
+          "Henry Ford",
+          "Thomas Edison",
+          "Willis Carrier"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "air-conditioning",
+    "name": "Air Conditioning",
+    "emoji": "❄️",
+    "year": 1902,
+    "when": "1902",
+    "where": "Brooklyn, New York, USA",
+    "who": "Willis Carrier",
+    "category": "Home & Everyday",
+    "kid": "Air conditioning cools down hot rooms and makes the air less sticky. Willis Carrier built the first modern system in 1902 — not for people, but to stop paper going wavy in a printing factory! Now it keeps homes, schools and hospitals cool.",
+    "explorer": "In 1902 a young engineer named Willis Carrier designed a machine for a printing company in Brooklyn, New York. Hot, humid air was making paper swell and the colored inks print out of line. His system cooled the air and removed moisture, solving the problem. Soon factories, then cinemas, offices and finally homes added air conditioning.",
+    "expert": "People have cooled buildings for thousands of years with clever design: ancient Egyptians hung wet reeds in windows, and Persian architects built wind-catching towers and underground water channels to cool air. In the 1840s the Florida doctor John Gorrie used ice-making machines to cool hospital rooms. Carrier's 1902 system was important because it controlled both temperature and humidity, and the term 'air conditioning' was coined around 1906 by textile engineer Stuart Cramer. Air conditioning changed where people live and work, helping hot regions grow rapidly. It also has costs: it uses a lot of electricity, especially during heat waves, and the refrigerants used in many units are powerful greenhouse gases if they leak, so engineers are working on more efficient designs and safer refrigerants.",
+    "how": "An air conditioner uses the same cycle as a refrigerator. A refrigerant evaporates inside cold coils that soak up heat from indoor air blown across them, and moisture condenses out of the air too. A compressor then pumps the heat outside, where it is released by a second set of coils and a fan.",
+    "before": "People used fans, shade, thick walls, open windows, wet cloths and building designs like wind-catching towers. In the hottest times, they rested during the middle of the day.",
+    "impact": "Air conditioning made hot climates more comfortable and helped protect people from deadly heat. It also allowed computer rooms, hospitals and factories to run at steady temperatures.",
+    "facts": [
+      "The first modern air conditioner was built to stop paper changing shape in a printing plant.",
+      "Air conditioners also dry the air, which is why water drips from them.",
+      "Ancient Persian buildings used tall towers called windcatchers to cool rooms without electricity.",
+      "Cinemas were among the first public places to advertise air conditioning to attract summer audiences."
+    ],
+    "ledTo": [],
+    "wiki": "Air conditioning",
+    "quiz": [
+      {
+        "q": "What was the first modern air conditioner built for?",
+        "a": "A printing company",
+        "wrong": [
+          "A royal palace",
+          "A spaceship",
+          "An ice cream shop"
+        ]
+      },
+      {
+        "q": "Who invented modern air conditioning in 1902?",
+        "a": "Willis Carrier",
+        "wrong": [
+          "Percy Spencer",
+          "Nikola Tesla",
+          "John Deere"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "microwave-oven",
+    "name": "Microwave Oven",
+    "emoji": "📡",
+    "year": 1945,
+    "when": "1945",
+    "where": "Massachusetts, USA",
+    "who": "Percy Spencer, at the Raytheon company",
+    "category": "Home & Everyday",
+    "kid": "A microwave oven heats food using invisible waves that make the water inside the food jiggle and warm up. Percy Spencer discovered the idea in the 1940s while working on radar equipment. The first microwave oven was nearly as tall as a fridge!",
+    "explorer": "Percy Spencer was an engineer at Raytheon who worked with magnetrons, the devices that make microwaves for radar. According to the famous story, he noticed a candy bar in his pocket had melted while he stood near one. He experimented with popcorn kernels and other foods, and Raytheon filed a patent in 1945. The first commercial microwave oven, the 'Radarange', came out in 1947 and was about 1.8 metres tall.",
+    "expert": "Spencer's discovery came out of World War II radar research, where Raytheon mass-produced magnetrons. The 1947 Radarange weighed about 340 kilograms and needed water cooling, so it was used in restaurants, ships and trains rather than homes. Compact countertop models, such as the Amana Radarange of 1967, brought microwave ovens into kitchens, and they became common in the 1970s and 1980s. Household microwave ovens usually work at about 2.45 gigahertz, which heats water, fats and sugars efficiently. A widespread misconception is that microwaves cook food 'from the inside out'; in fact, they penetrate only a few centimetres, and the centre of thick food heats mainly by conduction. Microwaves are non-ionising radiation, so they do not make food radioactive.",
+    "how": "A device called a magnetron produces microwaves, which bounce around the metal box. The waves make water molecules in the food rapidly twist back and forth, and that motion turns into heat. A turntable helps spread the waves evenly.",
+    "before": "Food was heated on stoves and in ovens using fire, gas or electric heating elements, which took longer, especially to reheat leftovers.",
+    "impact": "Microwave ovens made heating and reheating food fast and easy. They changed eating habits, leading to ready meals and microwave popcorn.",
+    "facts": [
+      "The first commercial microwave oven weighed about 340 kilograms — about as much as five grown-ups.",
+      "The metal mesh in a microwave's door has holes too small for the microwaves to escape.",
+      "Microwaves do not cook food from the inside out; they heat the outer few centimetres first.",
+      "Popcorn was one of the first foods Percy Spencer tried cooking with microwaves."
+    ],
+    "ledTo": [],
+    "wiki": "Microwave oven",
+    "quiz": [
+      {
+        "q": "In the famous story, what melted in Percy Spencer's pocket?",
+        "a": "A candy bar",
+        "wrong": [
+          "A crayon",
+          "An ice cube",
+          "A plastic toy"
+        ]
+      },
+      {
+        "q": "What was the first microwave oven called?",
+        "a": "Radarange",
+        "wrong": [
+          "Zapmaster",
+          "Heatwave 1",
+          "Quickcook"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ballpoint-pen",
+    "name": "Ballpoint Pen",
+    "emoji": "🖊️",
+    "year": 1938,
+    "when": "1938",
+    "where": "Budapest, Hungary (developed further in Argentina)",
+    "who": "László and György Bíró (1938), after an earlier patent by John J. Loud (1888)",
+    "category": "Home & Everyday",
+    "kid": "A ballpoint pen has a tiny metal ball at its tip that rolls ink onto the paper. A Hungarian newspaper writer named László Bíró and his brother György invented the modern one in 1938. Unlike old fountain pens, ballpoints rarely smudge or leak.",
+    "explorer": "László Bíró worked for a newspaper and noticed that newspaper ink dried quickly and didn't smudge. With his chemist brother György, he designed a pen using thick, quick-drying ink and a tiny rolling ball, patenting it in 1938. The brothers moved to Argentina, where they improved the pen in the 1940s. In 1950 the French company BIC launched the cheap BIC Cristal, which became one of the best-selling pens ever.",
+    "expert": "The rolling-ball idea was not new: in 1888 John J. Loud patented a ballpoint for marking rough surfaces like leather, but it was too crude for writing on paper. The Bíró brothers' key advance was matching a precisely made ball with a thick, oil-based ink that would not leak but still flowed by gravity and capillary action. The British Royal Air Force adopted their pens during World War II partly because they worked better at high altitude than fountain pens. After the war, cheap mass production — especially by Marcel Bich's BIC company — turned the ballpoint into a throwaway everyday item, and in Britain 'biro' became a common word for any ballpoint. Argentina celebrates Inventors' Day on 29 September, László Bíró's birthday. A popular myth says NASA spent millions on a space pen while the Soviets used pencils; in fact the Fisher Space Pen was developed privately and both countries ended up buying it.",
+    "how": "A tiny metal ball sits in a socket at the tip of the pen. As you write, the ball rolls and picks up thick ink from the tube behind it, then spreads a thin line onto the paper. The ball also acts like a cap, stopping the ink from drying out or leaking.",
+    "before": "People wrote with quill pens, dip pens and fountain pens that had to be refilled with liquid ink. They often blotted, smudged and leaked.",
+    "impact": "Ballpoint pens made writing cheap, clean and easy for almost everyone. They became one of the most used tools in schools and offices worldwide.",
+    "facts": [
+      "László Bíró got his idea from the fast-drying ink used to print newspapers.",
+      "Argentina celebrates Inventors' Day on 29 September, László Bíró's birthday.",
+      "More than 100 billion BIC Cristal pens have been sold.",
+      "In Britain, people often call any ballpoint pen a 'biro'."
+    ],
+    "ledTo": [],
+    "wiki": "Ballpoint pen",
+    "quiz": [
+      {
+        "q": "What is at the tip of a ballpoint pen?",
+        "a": "A tiny rolling ball",
+        "wrong": [
+          "A feather",
+          "A small sponge",
+          "A magnet"
+        ]
+      },
+      {
+        "q": "What job did László Bíró have?",
+        "a": "Newspaper journalist",
+        "wrong": [
+          "Astronaut",
+          "Farmer",
+          "Ship captain"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pencil",
+    "name": "Pencil",
+    "emoji": "✏️",
+    "year": 1565,
+    "when": "1560s (modern clay-and-graphite lead in 1795)",
+    "where": "England (graphite) and France (modern lead)",
+    "who": "Many inventors; Nicolas-Jacques Conté created the modern graphite-and-clay lead (1795)",
+    "category": "Home & Everyday",
+    "kid": "A pencil has a stick of graphite inside — not lead! In the 1500s, people in England found a big chunk of pure graphite and used it to write and draw. Pencils can be erased, sharpened and even used upside down.",
+    "explorer": "In the mid-1500s, a large deposit of very pure graphite was found at Borrowdale in England. People cut it into sticks and wrapped them in string or wood to write with, and a Swiss scientist described a wooden pencil in 1565. Because graphite looked like lead, people called it 'black lead', and the name stuck. In 1795 Nicolas-Jacques Conté in France found a way to mix powdered graphite with clay and bake it, which is still how pencil leads are made today.",
+    "expert": "The Borrowdale graphite was so pure and valuable that it was guarded and smuggled, and England had a near-monopoly on good pencils for a long time. Conté developed his graphite-clay process during the French Revolutionary Wars, when France was cut off from English graphite; changing the ratio of clay to graphite controls the hardness, which is the origin of grading systems like HB and 2B. Germany became a major pencil-making centre, and companies such as Faber began mass production. In 1858 Hymen Lipman of Philadelphia patented a pencil with an attached eraser. Pencil 'lead' has never contained lead, though some old pencils had lead-based paint on the outside. Graphite is a form of carbon, the same element that makes up diamonds.",
+    "how": "The core is a mix of graphite and clay, baked hard and fitted inside a wooden case. Graphite is made of thin, slippery layers of carbon, and as you press and drag the pencil, layers flake off and stick to the paper as a grey line.",
+    "before": "People wrote with quills and ink, sticks of charcoal, chalk, or metal styluses made of lead or silver that left faint marks.",
+    "impact": "Pencils made writing and drawing cheap, portable and erasable. Artists, architects, engineers and schoolchildren have relied on them for centuries.",
+    "facts": [
+      "Pencil 'lead' is actually graphite mixed with clay and contains no lead at all.",
+      "The Borrowdale graphite mine in England was so valuable that it was guarded against thieves.",
+      "Graphite is a form of carbon, the same element that makes up diamonds.",
+      "Pencils can write upside down because they don't need ink to flow down to the tip."
+    ],
+    "ledTo": [],
+    "wiki": "Pencil",
+    "quiz": [
+      {
+        "q": "What is the 'lead' in a pencil really made of?",
+        "a": "Graphite and clay",
+        "wrong": [
+          "Real lead metal",
+          "Coal and sugar",
+          "Iron and salt"
+        ]
+      },
+      {
+        "q": "Who made the modern graphite-and-clay pencil lead?",
+        "a": "Nicolas-Jacques Conté",
+        "wrong": [
+          "Louis Pasteur",
+          "Isaac Singer",
+          "László Bíró"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "velcro",
+    "name": "Velcro (Hook-and-Loop Fastener)",
+    "emoji": "🪝",
+    "year": 1955,
+    "when": "idea in the 1940s, patented 1955",
+    "where": "Switzerland",
+    "who": "George de Mestral",
+    "category": "Home & Everyday",
+    "kid": "Velcro has one side covered in tiny hooks and the other in tiny loops, and they grab each other when pressed together. A Swiss engineer got the idea after prickly burrs stuck to his dog's fur on a walk. Riiip — that's the sound of nature-inspired engineering!",
+    "explorer": "After a walk in the countryside in the 1940s, Swiss engineer George de Mestral noticed burdock burrs stuck to his clothes and his dog. Under a microscope he saw that the burrs had tiny hooks that caught on loops of fabric and fur. He spent years figuring out how to copy this with fabric, finding that nylon worked best. He patented his hook-and-loop fastener in the 1950s and named it Velcro.",
+    "expert": "Velcro is a classic example of biomimicry — copying a design from nature. The hardest part for de Mestral was manufacturing: he needed a reliable way to make millions of tiny, strong hooks, and he eventually found that loops of nylon thread, sewn under infrared light and then cut, could form durable hooks. His Swiss patent was granted in 1955, and he founded a company to make it. The name combines the French words 'velours' (velvet) and 'crochet' (hook). Sales were slow at first because it looked odd on clothing, but it was taken up for ski suits, diving gear and spaceflight — NASA used it in Apollo spacecraft to hold equipment in place. Velcro is a trademark; the general name is 'hook-and-loop fastener'.",
+    "how": "One strip is covered in thousands of tiny stiff hooks, and the other in soft fuzzy loops. Pressing them together lets many hooks catch many loops, and pulling them apart stretches the hooks open so they let go — making the ripping sound.",
+    "before": "Things were fastened with buttons, laces, buckles, snaps or zippers, which can be hard for small children or people with weak hands.",
+    "impact": "Hook-and-loop fasteners made shoes, bags, jackets and medical straps quick to open and close. They are especially helpful for young children and people with disabilities.",
+    "facts": [
+      "Velcro was inspired by burdock burrs that stuck to George de Mestral's dog.",
+      "The name 'Velcro' comes from the French words 'velours' (velvet) and 'crochet' (hook).",
+      "NASA used hook-and-loop fasteners in Apollo spacecraft to stop items floating away.",
+      "Copying ideas from nature like this is called biomimicry."
+    ],
+    "ledTo": [],
+    "wiki": "Hook-and-loop fastener",
+    "quiz": [
+      {
+        "q": "What plant inspired Velcro?",
+        "a": "Burdock burrs",
+        "wrong": [
+          "Sunflowers",
+          "Cactus spines",
+          "Bamboo"
+        ]
+      },
+      {
+        "q": "Which country was George de Mestral from?",
+        "a": "Switzerland",
+        "wrong": [
+          "Canada",
+          "Japan",
+          "Italy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plow",
+    "name": "Plow",
+    "emoji": "🐂",
+    "year": -4000,
+    "when": "around 4000 BCE (exact date uncertain)",
+    "where": "Mesopotamia and nearby regions (Middle East)",
+    "who": "Unknown — early farmers in the ancient Middle East",
+    "category": "Food & Farming",
+    "kid": "A plow digs and turns over the soil so farmers can plant seeds. The first plows were simple wooden hooks pulled by oxen, about 6,000 years ago. Plows helped farmers grow much more food than they could by digging with sticks.",
+    "explorer": "The earliest plows, called ards, were pointed wooden tools dragged through the soil by people or oxen to scratch a furrow. They appeared in the ancient Middle East several thousand years ago, after people had tamed cattle. Later plows had iron blades and a curved board called a moldboard that flips the soil over. In 1837 John Deere in Illinois made a steel plow that could cut through the tough, sticky soil of the American prairie.",
+    "expert": "The scratch plow or ard was used in Mesopotamia and spread widely; its exact date is uncertain, but plowing with oxen was established in the region by roughly the 4th millennium BCE. Ards break up the surface without turning it, which suited light, dry soils. Chinese farmers were using iron plows with curved moldboards over 2,000 years ago, and heavy wheeled plows that turned deep, wet soils spread in medieval Europe, helping farming expand in the north. In the 1790s Thomas Jefferson designed a moldboard shape using mathematics to reduce drag, and John Deere's polished steel plow of 1837 opened the prairie soils of the American Midwest. Plowing has downsides: it exposes soil to wind and water erosion — a major cause of the 1930s Dust Bowl in the United States, together with drought — which is why many farmers now use reduced-tillage or no-till methods.",
+    "how": "A sharp blade called a share cuts horizontally through the soil, while a curved moldboard lifts and flips the slice over. This buries weeds and old plant stalks, loosens the earth and makes a clean furrow for planting seeds.",
+    "before": "Farmers broke up the ground by hand using digging sticks, hoes and spades, which was slow and limited how much land they could plant.",
+    "impact": "Plows let farmers cultivate much larger fields with the help of animals, producing extra food. This surplus helped villages grow into towns and cities.",
+    "facts": [
+      "The earliest plows, called ards, scratched the soil rather than turning it over.",
+      "Thomas Jefferson used mathematics to design a better plow moldboard.",
+      "John Deere's 1837 steel plow was polished so sticky prairie soil would slide off it.",
+      "Too much plowing in dry, windy weather helped cause the Dust Bowl in the 1930s."
+    ],
+    "ledTo": [
+      "tractor"
+    ],
+    "wiki": "Plough",
+    "quiz": [
+      {
+        "q": "What animals pulled most early plows?",
+        "a": "Oxen",
+        "wrong": [
+          "Camels",
+          "Wolves",
+          "Ostriches"
+        ]
+      },
+      {
+        "q": "Who made a famous steel plow in 1837?",
+        "a": "John Deere",
+        "wrong": [
+          "Henry Ford",
+          "Isaac Singer",
+          "Fritz Haber"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "irrigation",
+    "name": "Irrigation",
+    "emoji": "💧",
+    "year": -6000,
+    "when": "around 6000 BCE",
+    "where": "Mesopotamia (modern Iraq and Iran) and Egypt",
+    "who": "Unknown — early farmers in Mesopotamia and Egypt",
+    "category": "Food & Farming",
+    "kid": "Irrigation means bringing water to crops when rain isn't enough. Thousands of years ago, farmers dug little canals from rivers to water their fields. Today, irrigation helps grow a big part of the world's food.",
+    "explorer": "Some of the earliest farmers, in Mesopotamia and Egypt, lived near big rivers in dry lands. They dug canals and ditches to lead river water to their crops, and in Egypt they flooded fields along the Nile in basins. Clever tools helped lift water, such as the shaduf, a bucket on a long pole with a counterweight. Today farmers also use sprinklers and drip pipes that deliver water right to the roots.",
+    "expert": "Archaeological evidence shows irrigation in Mesopotamia and nearby regions from around the 6th millennium BCE, and managing shared canals may have helped give rise to early governments and laws. Ancient engineers developed many methods: Egyptian basin irrigation, the shaduf, Persian qanats (underground tunnels carrying groundwater), and water-lifting devices such as the Archimedes screw and water wheels. Modern drip irrigation, developed in Israel in the 1960s, can greatly reduce water waste. According to the UN Food and Agriculture Organization, irrigated land makes up about 20 percent of cultivated land but produces about 40 percent of the world's food, and agriculture accounts for about 70 percent of freshwater withdrawals. Poorly managed irrigation can cause salt to build up in soil and can drain rivers and lakes — the shrinking of the Aral Sea in Central Asia is a famous example.",
+    "how": "Water is moved from rivers, lakes, reservoirs or underground wells to fields using canals, pipes, pumps or gravity. It is spread over the land by flooding, sprinklers, or drip systems that release small amounts right at each plant's roots.",
+    "before": "Farmers relied entirely on rain or seasonal river floods, so a dry year could mean crop failure and hunger.",
+    "impact": "Irrigation made it possible to farm dry lands and grow crops reliably every year. It helped early civilisations grow and still feeds billions of people today.",
+    "facts": [
+      "The shaduf, an ancient water-lifting tool, is still used by some farmers today.",
+      "Agriculture uses about 70 percent of all the fresh water people take from rivers, lakes and underground.",
+      "Drip irrigation delivers water drop by drop to plant roots and can save a lot of water.",
+      "The Aral Sea shrank dramatically after rivers feeding it were diverted to irrigate cotton fields."
+    ],
+    "ledTo": [
+      "water-wheel"
+    ],
+    "wiki": "Irrigation",
+    "quiz": [
+      {
+        "q": "What is a shaduf used for?",
+        "a": "Lifting water",
+        "wrong": [
+          "Grinding grain",
+          "Telling time",
+          "Catching fish"
+        ]
+      },
+      {
+        "q": "About how much of people's fresh water goes to farming?",
+        "a": "About 70 percent",
+        "wrong": [
+          "About 5 percent",
+          "About 20 percent",
+          "Exactly 100 percent"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pasteurization",
+    "name": "Pasteurization",
+    "emoji": "🥛",
+    "year": 1864,
+    "when": "1864",
+    "where": "France",
+    "who": "Louis Pasteur",
+    "category": "Food & Farming",
+    "kid": "Pasteurization means gently heating food or drinks to kill harmful germs. The French scientist Louis Pasteur came up with it in the 1860s — and it's named after him! Look on a milk carton and you'll probably see the word 'pasteurized'.",
+    "explorer": "In the 1860s Louis Pasteur discovered that tiny living microbes made wine and beer go sour. He found that heating them to a moderate temperature for a short time killed most of those microbes without boiling or ruining the drink. Later, the same idea was used for milk, which often carried dangerous germs. Pasteurized milk helped prevent illnesses such as tuberculosis and typhoid.",
+    "expert": "Pasteur developed the process around 1864 to stop the spoilage of French wine, and only later was it widely applied to milk, starting in the 1880s and spreading in the early 1900s as cities fought milk-borne diseases. Common modern methods include 'high temperature, short time' pasteurisation (about 72 °C for 15 seconds) and ultra-high temperature (UHT) treatment, which heats milk to around 135 °C for a few seconds so that sealed cartons can last for months unopened. Pasteurisation is not the same as sterilisation: it kills disease-causing microbes and many spoilage ones, so pasteurised milk still needs refrigeration. The method also supported Pasteur's wider germ theory work, which showed that microbes cause fermentation, spoilage and many diseases. Some people prefer raw milk, but public health agencies warn it carries a much higher risk of food poisoning.",
+    "how": "A food or drink is heated to a set temperature, held there for a set time, and then cooled quickly. The heat kills most harmful bacteria and other microbes, while staying low enough to keep the taste and nutrients mostly unchanged.",
+    "before": "Milk often spoiled quickly and could spread serious diseases. People boiled it, drank it fresh from local farms, or turned it into cheese and butter that kept longer.",
+    "impact": "Pasteurization made milk and many other foods much safer, saving countless lives, especially among children. It also let food be transported and stored for longer.",
+    "facts": [
+      "Pasteurization was first used on wine and beer, not milk.",
+      "Pasteurized milk still needs a fridge because the process doesn't kill every microbe.",
+      "UHT milk is heated so hot, for a few seconds, that sealed cartons can last for months.",
+      "The word 'pasteurization' comes from the name of the scientist Louis Pasteur."
+    ],
+    "ledTo": [],
+    "wiki": "Pasteurization",
+    "quiz": [
+      {
+        "q": "What was pasteurization first used on?",
+        "a": "Wine and beer",
+        "wrong": [
+          "Orange juice",
+          "Ice cream",
+          "Bread"
+        ]
+      },
+      {
+        "q": "Which country was Louis Pasteur from?",
+        "a": "France",
+        "wrong": [
+          "Germany",
+          "Spain",
+          "Sweden"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "haber-bosch-fertilizer",
+    "name": "Haber-Bosch Fertilizer",
+    "emoji": "🌾",
+    "year": 1909,
+    "when": "1909 (factory production from 1913)",
+    "where": "Karlsruhe and Ludwigshafen, Germany",
+    "who": "Fritz Haber (chemistry, 1909) and Carl Bosch (industrial scale-up at BASF)",
+    "category": "Food & Farming",
+    "kid": "Plants need nitrogen to grow, and the air is full of it — but plants can't use it straight from the air. In 1909 two German scientists found a way to turn air's nitrogen into fertilizer. Today this fertilizer helps grow food for billions of people.",
+    "explorer": "In 1909 the chemist Fritz Haber showed in his lab that nitrogen from the air and hydrogen could be combined into ammonia, using high pressure, heat and a metal catalyst. Carl Bosch, an engineer at the company BASF, figured out how to do it in giant steel machines, and the first factory opened in 1913. Ammonia is used to make fertilizers that help crops grow much bigger. Both men won Nobel Prizes for their work.",
+    "expert": "Before Haber-Bosch, farmers depended on manure, crop rotation with legumes, and imported nitrogen sources such as Peruvian guano and Chilean saltpetre, which were running short. The process reacts nitrogen and hydrogen at high pressure (roughly 150–300 atmospheres) and around 400–500 °C over an iron-based catalyst; Bosch's team had to invent new high-pressure equipment to make it work. Haber received the 1918 Nobel Prize in Chemistry and Bosch shared the 1931 prize. Scientists estimate that roughly half of the world's population is fed thanks to nitrogen fertiliser from this process. Its legacy is mixed: ammonia was also used to make explosives in World War I, and Haber led Germany's poison-gas programme. Today the process uses about 1–2 percent of the world's energy, mostly from natural gas, and excess fertiliser washing into rivers and seas causes algae blooms and low-oxygen 'dead zones'.",
+    "how": "Nitrogen gas from the air and hydrogen gas (usually made from natural gas) are pumped into a reactor at very high pressure and temperature. An iron catalyst helps them join into ammonia, which is then cooled into a liquid and turned into fertilizers.",
+    "before": "Farmers fertilized fields with manure and compost, rotated crops with beans or clover, or bought expensive bird droppings (guano) and saltpetre shipped from South America.",
+    "impact": "Cheap nitrogen fertilizer dramatically increased crop yields and helped the world's population grow from under 2 billion to over 8 billion. It also brought pollution and climate challenges that scientists are still working to solve.",
+    "facts": [
+      "About 78 percent of the air we breathe is nitrogen, but most plants can't use it directly.",
+      "Before Haber-Bosch, countries imported huge amounts of seabird droppings called guano as fertilizer.",
+      "Scientists estimate about half the world's people are fed thanks to fertilizer from this process.",
+      "Both Fritz Haber and Carl Bosch won Nobel Prizes in Chemistry."
+    ],
+    "ledTo": [],
+    "wiki": "Haber process",
+    "quiz": [
+      {
+        "q": "What chemical does the Haber-Bosch process make?",
+        "a": "Ammonia",
+        "wrong": [
+          "Oxygen",
+          "Table salt",
+          "Gold"
+        ]
+      },
+      {
+        "q": "Where does the nitrogen in this process come from?",
+        "a": "The air",
+        "wrong": [
+          "Volcanoes",
+          "The Moon",
+          "Seawater salt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tractor",
+    "name": "Tractor",
+    "emoji": "🚜",
+    "year": 1892,
+    "when": "1892",
+    "where": "Iowa, USA",
+    "who": "John Froelich (first practical gasoline tractor, 1892); earlier steam traction engines by many makers",
+    "category": "Food & Farming",
+    "kid": "A tractor is a strong farm vehicle that pulls plows and other machines across fields. In 1892 John Froelich in Iowa built one of the first gasoline-powered tractors. One tractor can do the work of many horses!",
+    "explorer": "In the 1800s, farmers used huge steam engines on wheels, but they were heavy, expensive and could set fires. In 1892 John Froelich in Iowa built a gasoline-powered tractor that could move forward and backward. In 1917 Henry Ford's Fordson tractor was small and cheap enough for ordinary farmers to buy. Later, Harry Ferguson's three-point hitch let tractors attach and lift tools like plows more safely and easily.",
+    "expert": "Steam traction engines worked on large farms from the mid-1800s, but they were dangerous and impractical on most fields. Froelich's 1892 machine is often called the first practical gasoline tractor, and the company he co-founded, the Waterloo Gasoline Engine Company, was bought by John Deere in 1918. The word 'tractor' is often credited to the Hart-Parr company in the early 1900s. Mass-produced tractors such as the Fordson (1917) and later the Farmall made mechanisation affordable, and Harry Ferguson's three-point hitch, developed in the 1920s and 1930s, became a world standard. Tractors replaced millions of horses and mules and sharply reduced the number of people needed on farms: in the United States about 40 percent of workers were in farming in 1900, compared with under 2 percent by 2000. Modern tractors can steer themselves using satellite positioning, and engineers are developing electric and self-driving models.",
+    "how": "A powerful engine, usually diesel, turns big rear wheels with deep treads that grip soft soil. A hitch at the back pulls or lifts tools such as plows and seeders, and a spinning shaft called a power take-off can drive the machines it tows.",
+    "before": "Farmers used horses, oxen and mules to pull plows and wagons, and much of the work was done by hand by large numbers of farm workers.",
+    "impact": "Tractors let one farmer work far more land and produce much more food. Millions of people who were no longer needed on farms moved to cities and new jobs.",
+    "facts": [
+      "Ferruccio Lamborghini built tractors before he started making famous sports cars.",
+      "In 1900 about 40 percent of American workers were farmers; by 2000 it was under 2 percent.",
+      "Henry Ford's company made a cheap tractor called the Fordson starting in 1917.",
+      "Many modern tractors can steer themselves using satellite navigation."
+    ],
+    "ledTo": [],
+    "wiki": "Tractor",
+    "quiz": [
+      {
+        "q": "Who built an early gasoline tractor in 1892?",
+        "a": "John Froelich",
+        "wrong": [
+          "Willis Carrier",
+          "Percy Spencer",
+          "Louis Pasteur"
+        ]
+      },
+      {
+        "q": "What did tractors mostly replace on farms?",
+        "a": "Horses, oxen and mules",
+        "wrong": [
+          "Windmills",
+          "Sewing machines",
+          "Bicycles"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,148 @@
+{
+  "n": 11,
+  "title": "Hello, Central! Switchboards and Operators",
+  "when": "1878 – 1920s",
+  "summary": "Once lots of people had telephones, someone had to connect them. In 1878 a town in Connecticut built the first public switchboard, where a person called an operator plugged cords into holes to join two callers together. Soon thousands of operators, most of them young women, were saying \"Number, please?\" all day long.",
+  "sections": [
+    {
+      "heading": "The Problem of Too Many Wires",
+      "paragraphs": [
+        "At the end of the last part, we left the telephone with a very practical problem. In 1877 and early 1878, if you wanted a telephone, you rented a pair of them. One went in your shop and the other went in your house, or one went in a factory office and the other in the warehouse down the street. Then you paid someone, usually a telegraph contractor, to string a wire between the two. Your telephone could talk to exactly one other telephone, and nothing else in the world.",
+        "That was useful, but think about what happens when you want to talk to more people. Suppose a small town has just five families with telephones, and every family wants to be able to call every other family. Family A needs wires to B, C, D and E. Family B already has a wire to A, but still needs wires to C, D and E. If you count them all up, five homes need ten separate wires. That does not sound too bad.",
+        "Now try it with 100 homes. Every home needs a wire to 99 others. Count each wire only once and you get 4,950 wires. With 1,000 homes you would need almost half a million wires, and every house would need a wall covered in 999 different telephones or a giant pile of switches. Mathematicians have a neat formula for this: with n homes you need n times (n minus 1), divided by 2, wires. The number grows much faster than the number of homes. Long before a city filled up with telephones, the sky would be black with wire.",
+        "The solution was beautifully simple. Instead of running wires from every home to every other home, run one wire from each home to a single central room. In that room, a person can join any two wires together whenever someone wants to talk. With 100 homes you need just 100 wires, one from each house to the middle. With 1,000 homes you need 1,000. That central room is called an exchange, because it is where conversations are exchanged and connected. The panel inside it, where the wires end and can be joined, is called a switchboard. And the person who does the joining is called an operator.",
+        "This idea was not completely new. Telegraph companies and district messenger services already had central offices where lines came together, and burglar-alarm companies ran wires from shops to a central alarm office. Several people in Europe and America had the same thought about telephones at almost the same moment in 1877. A Hungarian engineer named Tivadar Puskas, who was working with Thomas Edison, proposed the idea of a telephone exchange that year. An experimental exchange based on such ideas was tried in Boston in 1877, and in Germany a state-run exchange opened on November 12, 1877, in Friedrichsberg, near Berlin. But the honour of opening the first commercial telephone exchange, one that ordinary paying customers could join, belongs to a small town in Connecticut and a man with a very short name: George Coy."
+      ]
+    },
+    {
+      "heading": "Teapot Lids and Carriage Bolts in New Haven",
+      "paragraphs": [
+        "George W. Coy was a veteran of the American Civil War who managed a telegraph office in New Haven, Connecticut. On April 27, 1877, he went to hear Alexander Graham Bell give one of his popular lectures about the telephone at the Skiff Opera House in New Haven. Bell showed off his talking wire, and Coy left the hall with a business idea buzzing in his head. If a telegraph office could send messages for a whole town, why not a central office that could connect telephones for a whole town?",
+        "Coy moved fast. On November 3, 1877, he received permission, called a franchise, from the Bell Telephone Company to run telephone service in New Haven and Middlesex counties. In return, the Bell company would own 35 percent of his new business. With two partners, the businessman Herrick P. Frost and Walter Lewis, who was superintendent of the New Haven Clock Company, he set up the District Telephone Company of New Haven on January 15, 1878.",
+        "Then came the most famous part: the switchboard itself. There were no switchboard factories in 1878, because there had never been a telephone switchboard to make. So Coy built one himself out of whatever he could find. According to the University of Connecticut Libraries, which look after the company's historic records, he used carriage bolts (the round-headed bolts used to build horse carriages), handles taken from teapot lids, lengths of wire and other spare parts. It was the kind of clever, homemade gadget that any young inventor with a junk drawer would be proud of. All the furniture in the office, including the switchboard, was reportedly worth less than about forty dollars.",
+        "Coy's board was tiny compared with what came later. It had just eight lines for its 21 customers and reportedly could connect only two conversations at the same time, and each call needed several separate connections to be made by hand. But it worked, and that was what mattered. On January 28, 1878, the District Telephone Company of New Haven opened for business in a rented storefront in the Boardman Building, at the corner of Chapel and State Streets. It had 21 subscribers, which means 21 customers who paid for the service. Each one paid $1.50 a month.",
+        "Imagine standing in that little office on a winter day in 1878. A wire from a doctor's house, a wire from a drugstore, a wire from the police office and more all run along poles and in through the wall to Coy's board. A bell rings. Coy, or one of his helpers, answers and asks who the caller wants. Then he joins the right wires with his teapot-lid handles, and two people across town suddenly hear each other's voices. For the first time, a telephone could reach not just one other telephone, but a whole community.",
+        "The idea caught on almost instantly. Within less than a month the company had 50 subscribers. On February 21, 1878, it printed what is generally called the world's first telephone directory. It was a single sheet of paper, a one-page flyer, listing 50 people and businesses in New Haven, including doctors, dentists, stores, a meat market, the police and the post office, and the three founders themselves. There were no phone numbers on it. You did not need them. You simply told the operator the name of the person you wanted. Only two copies of that first directory are known to survive today, and one of them is kept at the University of Connecticut.",
+        "Coy's little company grew up quickly. By 1880 it had the rights to serve all of Connecticut and western Massachusetts, and in 1882 it was renamed the Southern New England Telephone Company, a business that went on to operate for more than a hundred years. The Boardman Building itself was later named a National Historic Landmark, but sadly it was knocked down in 1973 to make space for a parking garage. Other towns were close behind New Haven. In 1878 an exchange in Lowell, Massachusetts, opened with about 50 subscribers, and exchanges using Bell's patents opened in London and Manchester in 1879. Within a few years, nearly every sizeable city in North America and Europe had one."
+      ]
+    },
+    {
+      "heading": "Inside the Switchboard: Lamps, Cords and Jacks",
+      "paragraphs": [
+        "So how did a switchboard actually work? Let's walk up to one from the early 1900s, when the design had settled down. It looks a bit like a huge wooden desk with a tall back. On the upright back panel are rows and rows of small round holes. Each hole is called a jack, and each jack is the end of one customer's telephone line. If an exchange has 500 customers, there are 500 jacks. Next to or above each jack is a tiny signal that tells the operator when that customer wants to make a call.",
+        "On the earliest boards that signal was a drop. A drop was a little metal flap held up by a catch. When a customer at home turned the crank on the side of their telephone, the crank spun a small electric generator called a magneto and sent a pulse of current down the line. At the exchange, that current energised a small electromagnet behind the drop, which released the catch, and the flap fell open with a clack. The operator would glance up, see which flap had fallen, and know exactly which line was calling. Later switchboards replaced drops with small electric lamps that lit up instead. A lit lamp was quicker to notice and did not need to be pushed back up by hand.",
+        "On the flat desk in front of the operator were pairs of cords. Each cord was a flexible, cloth-covered cable with a metal plug at its end, and the cords came in pairs: one for the caller and one for the person being called. Behind the desk, each cord ran down over a pulley with a small weight, so that when the operator let go of a plug the cord slid neatly back into its hole in the desk instead of tangling into a mess. In front of each cord pair sat a few small switches, called keys, which let the operator talk to the caller, listen to the line and ring the other telephone.",
+        "Here is how a call went. A lamp lights up above jack number 47. The operator picks up the back cord of a free pair and plugs it into jack 47. She flips the talk key and says the famous words: \"Number, please?\" The caller answers, \"Give me 112.\" The operator reaches across the board, takes the front cord of the same pair, and plugs it into jack 112. Then she pulls a key to send a ringing current down line 112, and a bell jangles in someone's kitchen. When that person picks up, the two cords form a complete electrical path from one home, through the switchboard, to the other home, and the two people can talk.",
+        "When the call was over and both people hung up, small supervision lamps on the desk lit up to tell the operator that the line was free. She pulled out both plugs, the weights drew the cords back down, and the pair was ready for the next call. A busy operator might repeat this whole routine hundreds of times in a single shift. The plugs themselves were cleverly designed. Each had three separate metal parts called the tip, the ring and the sleeve. The tip and ring carried the voice and the ringing current, and the sleeve could signal whether a line was already busy. Modern headphone plugs still use the same tip, ring and sleeve names.",
+        "Where did the electricity come from? On the earliest systems, every telephone had its own batteries at home to power the microphone, plus the hand-cranked magneto for ringing. Customers had to replace their batteries, which was messy and unreliable. Engineers soon came up with a smarter plan called common battery. Big batteries in the exchange sent power down every line at about 48 volts, so the telephones at home needed no batteries at all. The first battery-operated switchboard of this kind was installed by the New England Telephone and Telegraph Company in Lexington, Massachusetts, in 1894. That same idea is why old landline phones kept working during power cuts: the power came from the exchange, not from the wall socket.",
+        "As cities grew, switchboards grew too, until they became enormous. A large city exchange might have long rows of boards with dozens of operators sitting side by side. Because a single operator can only reach so far, engineers invented the multiple switchboard, in which every customer's jack appeared again and again along the row, so that any operator could reach any line within arm's length. Some systems divided the work, with one team of operators answering calls and another team completing them. Calls between different exchanges travelled on special connecting lines called trunks, and needed operators at both ends to cooperate. Long-distance calls could take a very long time: in 1918, an average long-distance connection took about 15 minutes to set up."
+      ]
+    },
+    {
+      "heading": "Rude Boys and the Arrival of Emma Nutt",
+      "paragraphs": [
+        "Who should sit at these new switchboards? In 1878 the obvious answer seemed to be teenage boys. Boys had already worked for years as telegraph messengers and telegraph operators, they were cheap to hire, and companies assumed they would be good with the new machines. So the first telephone exchanges in Boston and elsewhere hired boys to answer the calls.",
+        "It did not go well. Telegraph work was done in code, without hearing the customer's voice, but telephone work meant talking to real people all day long, and many of the boys were not ready for that. Accounts from the time describe operators who were impatient, cheeky and sometimes downright rude. Some swore at customers, some played pranks such as connecting people to the wrong number on purpose, and some wrestled or shouted across the room when they should have been working. A grumpy businessman who wanted to reach his bank quickly did not enjoy being teased by a fourteen-year-old.",
+        "The managers of a Boston company called the Edwin Holmes Telephone Despatch Company decided to try something different. On September 1, 1878, they hired a young woman named Emma Nutt. She was about eighteen years old, came originally from Perry, Maine, and had been working at a telegraph office. Many accounts say Alexander Graham Bell himself was involved in hiring her. Emma Nutt is remembered as the world's first woman telephone operator. Just a few hours after she started, her sister Stella Nutt was hired too, so Stella became the second woman operator in history and the Nutt sisters became the first sister operators.",
+        "Emma was very good at the job. Customers praised her calm, soothing voice and polite manner, and she was said to be able to remember every number in the company's directory, which by then was no small list. Her pay, according to the usual accounts, was 10 dollars a month for a 54-hour working week. That was a long week, but office work for young women was still rare at the time, and telephone work was seen as a respectable job. Emma stayed with telephones for more than thirty years, retiring sometime between about 1911 and 1915. Stella, on the other hand, left after a few years.",
+        "The experiment worked so well that companies across North America and Europe copied it. Within a few years, the image of the telephone operator was almost always a young woman wearing a headset. People started greeting the exchange with \"Hello, Central!\", because the operator sat in the central office, and in the United States operators were often nicknamed \"hello girls\". There was another, less admirable reason companies liked to hire women: they could pay them much less. Historians note that women operators were often paid between a half and a quarter of what a man would earn. Even so, telephone operating soon became one of the biggest sources of jobs for women in many countries, opening the door to paid work outside the home for hundreds of thousands of them."
+      ]
+    },
+    {
+      "heading": "Number, Please! Life at the Board",
+      "paragraphs": [
+        "What was it like to be an operator in, say, 1910? First, you would have to be hired, and many telephone companies were very picky. Rules varied from company to company, but operators were often expected to be young and unmarried, to have clear speech and good manners, and to be quick with their hands. Some companies checked that new operators were tall enough, or had arms long enough, to reach the highest and farthest jacks on the board without standing up. New operators went to training classes to learn exactly how to handle each type of call.",
+        "At the board, the rules were strict. Operators were usually taught to use only a set of approved phrases, such as \"Number, please?\" and \"I will ring them again.\" Chatting with customers, arguing with them or giving opinions was forbidden. A supervisor walked slowly up and down behind the row of operators, watching how fast each one answered, and could plug in to listen to their calls. In many offices operators needed permission to leave their seats, even for a short break. The company wanted every call answered within a few seconds, and the best operators could handle a light every few seconds during the busiest hours of the morning.",
+        "They also stood up for themselves. As the job grew, operators formed unions to push for better pay and working conditions. In New England, an operator named Julia O'Connor led a strike of telephone operators in 1919 that won negotiations with the company after five days, showing that the women at the switchboards were a force to be reckoned with. Another operator, Harriot Daley, started as the first operator at the United States Capitol in 1898, when the switchboard there had just 51 telephones. By 1937 she was chief operator, in charge of 37 operators handling about 1,200 telephone extensions. The job had grown from a single board to a whole department."
+      ]
+    },
+    {
+      "heading": "The Hello Girls Go to War",
+      "paragraphs": [
+        "When the United States joined the First World War in 1917, its army in France faced a serious communication problem. The commander of the American Expeditionary Forces, General John J. Pershing, needed to coordinate huge numbers of soldiers spread across the country, and the telephone was by now the fastest way to pass orders. But the French telephone system worked in French, the American army worked in English, and the soldiers trying to run the switchboards were slow and inexperienced. In November 1917 Pershing asked for women telephone operators to be sent to France, and he specified that they should speak French and English equally well.",
+        "The response was huge. More than 7,000 women applied. The Army Signal Corps, the part of the army responsible for communication, chose about 450 of them for training, and about 223 eventually went overseas, according to the usual counts. They were the first American women to serve in the army as something other than nurses. They wore uniforms, followed army rules and swore an oath of service. People soon called them the \"Hello Girls\", the old nickname for telephone operators.",
+        "The first group, Telephone Unit No. 1, was made up of 33 operators led by Chief Operator Grace Banker. Banker was a college graduate from Barnard College in New York who had worked for AT&T teaching people how to use switchboards. Her unit sailed from New Jersey on March 6, 1918. In France they worked at Paris, at General Pershing's headquarters in the town of Chaumont, and at about 75 other places, and some served in British cities as well.",
+        "Their work made an enormous difference. By July 1918, after the women operators arrived, the American army's daily number of telephone calls in France had roughly tripled, because calls were now connected quickly and correctly. During the great battles of St. Mihiel and the Meuse-Argonne in the autumn of 1918, Grace Banker and a team of operators ran switchboards at First Army headquarters, close enough to the fighting to hear the guns. They worked long shifts, sometimes through the night, connecting commanders to units at the front, often translating between French and American officers as they did. For her service, Grace Banker received the Distinguished Service Medal in 1919, one of the army's high honours.",
+        "Sadly, when the Hello Girls came home, the army decided they had been civilian contract workers rather than real soldiers. That meant they were not given veterans' benefits or official recognition, even though they had worn uniforms and taken an oath. Some of them, especially a former operator named Merle Egan Anderson, spent decades campaigning for the truth to be recognised. Finally, in November 1977, President Jimmy Carter signed a law that recognised them as veterans. By then, most of the Hello Girls had already died. Their story is a reminder that operators were not just friendly voices; in a crisis, they were an essential part of how a country communicated."
+      ]
+    },
+    {
+      "heading": "Party Lines and the First Pay Phone",
+      "paragraphs": [
+        "Not everyone could afford a private telephone line all to themselves. Running a separate wire to every farmhouse along a country road was expensive, so telephone companies offered a cheaper choice: the party line. A party line was one telephone line shared by several homes. Party lines began with the very first switchboards in 1878, and for much of the twentieth century they were common, especially in the countryside. In 1943, for example, nearly three-quarters of homes with telephones in the state of Pennsylvania were on party lines.",
+        "How did each house know when a call was for them? On many party lines, every home's bell rang for every call, but each house had its own ring pattern, a kind of code. One family's ring might be two long rings, another family's two short rings, and another's one long and two short. A phone number might look like 93R22, meaning subscriber number 93, ring two long and two short. When the bell jingled, everyone in every house on the line counted the rings to see whose call it was. Later, engineers found clever ways to ring only the right house on lines with two, four or even eight parties, by sending the ringing current down different wires or at different frequencies.",
+        "Party lines had one obvious problem: there was no privacy at all. When your phone rang with someone else's pattern, nothing stopped you from quietly lifting your receiver and listening. Eavesdropping on the party line was a famous small-town pastime, and gossip travelled fast. There were practical problems too. If a neighbour was chatting for an hour, nobody else on the line could make a call. Some companies asked customers to keep calls to five minutes, and many places passed laws requiring people to hang up and free the line if someone else needed it for an emergency. Party lines slowly disappeared as private lines became cheaper, and by the late 1980s most were gone.",
+        "The other great way to share a telephone was to put one in a public place and let anyone pay to use it. In 1889 the Southern New England Telephone Company, the same company that grew from George Coy's exchange, installed a coin-operated public telephone in the Hartford Bank in Hartford, Connecticut. The coin mechanism was the work of an inventor named William Gray. A story often told about him says he came up with the idea after struggling to find a telephone to call a doctor when his wife was ill, but that tale is hard to check. What is certain is that his early machine was a post-pay telephone: you made your call first, and at the end, when the operator asked, you dropped your coins into the slot.",
+        "How could the operator know you had really paid? Gray's design, patented in 1891, rang a bell inside the telephone each time a coin went in, and the operator listened for the right number of dings. It was simple, but it worked. That same year Gray founded the Telephone Pay Station Company, and coin telephones began to spread to railway stations, hotels, drugstores and street corners. By the mid-1990s there were more than two million payphones in the United States alone. For a century, the pay phone was the way to call home if you were away, and it all started with a bell that went ding for every coin.",
+        "By the early 1900s, then, the telephone network had become a vast web of wires, all meeting at central exchanges where operators connected every single call by hand. It worked, but it needed enormous numbers of people, and it meant that a stranger connected every call you made. Not everyone was happy about that. In Kansas City, Missouri, an undertaker who ran a funeral business was growing more and more angry. According to a popular story, he believed his customers' calls were being sent to a rival, and he decided the answer was to get rid of human operators altogether. His name was Almon Strowger, and his invention would change telephones for the next hundred years."
+      ]
+    }
+  ],
+  "deepDive": "Why did the exchange matter so much? Network engineers point to a simple bit of arithmetic. Connecting n telephones directly to each other needs n(n-1)/2 links, so the cost explodes as the network grows: 10 phones need 45 links, 100 need 4,950, and 10,000 need almost 50 million. A star-shaped network with an exchange in the middle needs only n links. That change, from a mesh to a star, is what made a telephone in every home economically possible, and the same star-and-hub shape still underlies telephone and internet networks today. The value of the network also rises as more people join, which helps explain why New Haven grew from 21 to 50 subscribers in under a month. Manual switching, though, created its own scaling problem. Each operator could only handle a limited number of calls an hour, so the number of operators had to rise with the number of calls, and calls between exchanges needed operators at both ends. Multiple switchboards, common-battery power (from about 1894) and lamp signalling made each operator faster, but they could not remove the human from every call. Historians of labour also study the operator workforce closely. Companies chose women partly because customers preferred them and partly because they could be paid much less; the job offered respectable wages and independence to many young women, yet came with intense supervision, timed performance and strict rules about speech and behaviour. The 1919 New England operators' strike led by Julia O'Connor is often cited as an important moment for women in organised labour. The Hello Girls are a further case study: numbers vary slightly between sources (most accounts give about 223 women serving overseas out of roughly 450 trained), and their long fight for veteran status, finally won in 1977, has become a key example in discussions about how women's military service was recognised. Finally, a note on firsts: New Haven is widely credited with the first commercial exchange and the first printed directory, but other exchanges, including a state-run one near Berlin in November 1877 and an experimental one in Boston, appeared at almost the same time, showing once again that inventions usually have many parents.",
+  "funFact": "The world's first telephone directory, printed in New Haven on February 21, 1878, was a single sheet listing 50 names and contained no telephone numbers at all.",
+  "check": {
+    "q": "Who is remembered as the world's first woman telephone operator, hired in Boston on September 1, 1878?",
+    "a": "Emma Nutt",
+    "wrong": [
+      "Grace Banker",
+      "Mabel Hubbard",
+      "Harriot Daley"
+    ]
+  },
+  "sources": [
+    {
+      "title": "First Commercial Telephone Exchange – Today in History: January 28",
+      "publisher": "Connecticut Humanities (ConnecticutHistory.org)",
+      "url": "https://connecticuthistory.org/the-first-commercial-telephone-exchange-today-in-history"
+    },
+    {
+      "title": "First Telephone Exchange",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/First_Telephone_Exchange"
+    },
+    {
+      "title": "Telephone exchange",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Telephone_exchange"
+    },
+    {
+      "title": "Emma Nutt",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Emma_Nutt"
+    },
+    {
+      "title": "Switchboard operator",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Switchboard_operator"
+    },
+    {
+      "title": "Hello Girls",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hello_Girls"
+    },
+    {
+      "title": "Party line (telephony)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Party_line_(telephony)"
+    },
+    {
+      "title": "Payphone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Payphone"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Historic photograph of rows of women telephone operators wearing headsets at a large manual switchboard, early 1900s",
+      "search": "telephone operators switchboard women 1900s"
+    },
+    {
+      "want": "The first telephone directory from New Haven, Connecticut, February 1878, a single printed page of names",
+      "search": "first telephone directory New Haven 1878"
+    },
+    {
+      "want": "Photograph of the 'Hello Girls', US Army Signal Corps women telephone operators at a switchboard in France during World War I",
+      "search": "Hello Girls Signal Corps telephone operators France"
+    }
+  ]
+}

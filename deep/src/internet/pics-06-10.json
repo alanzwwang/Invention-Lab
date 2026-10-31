@@ -1,0 +1,107 @@
+{
+  "06-1": {
+    "file": "CerfKahnMedalOfFreedom.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:CerfKahnMedalOfFreedom.jpg",
+    "author": "Paul Morse",
+    "license": "Public domain",
+    "caption": "Vint Cerf (left) and Bob Kahn (middle), co-designers of TCP/IP, receive the Presidential Medal of Freedom in 2005."
+  },
+  "06-2": {
+    "file": "SRI Packet Radio Van.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:SRI_Packet_Radio_Van.jpg",
+    "author": "SRI International",
+    "license": "CC BY-SA 3.0",
+    "caption": "SRI's packet radio van, the \"Internet van\" used in the first three-network Internet demonstration in 1977."
+  },
+  "06-3": {
+    "file": "Casa de Tableta, Portola Valley, California.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Casa_de_Tableta,_Portola_Valley,_California.jpg",
+    "author": "W Nowicki",
+    "license": "CC BY 3.0",
+    "caption": "The Alpine Inn (formerly Rossotti's) in Portola Valley, California, where the van sent messages in 1977."
+  },
+  "07-1": {
+    "file": "Ip-header-format.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Ip-header-format.png",
+    "author": "Gustinoob",
+    "license": "CC BY-SA 4.0",
+    "caption": "The IPv4 packet header, drawn as in RFC 791: fields like Time to Live, Source Address and Destination Address."
+  },
+  "07-2": {
+    "file": "DE-CIX GERMANY - Switch Rack (6218137120).jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:DE-CIX_GERMANY_-_Switch_Rack_(6218137120).jpg",
+    "author": "Stefan Funke from Frankfurt, Germany",
+    "license": "CC BY-SA 2.0",
+    "caption": "Network switch racks full of yellow fibre cables at DE-CIX in Frankfurt, one of the world's biggest Internet exchanges."
+  },
+  "07-3": {
+    "file": "Fibreoptic4.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Fibreoptic4.jpg",
+    "author": "BigRiz",
+    "license": "CC BY-SA 3.0",
+    "caption": "A bundle of thin glass optical fibres, each glowing at its tip with light that has travelled along it."
+  },
+  "08-1": {
+    "file": "Jon Postel sitting in office.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Jon_Postel_sitting_in_office.jpg",
+    "author": "Carl Malamud",
+    "license": "CC BY 2.0",
+    "caption": "Jon Postel, longtime RFC editor and caretaker of Internet addresses and names, in his office full of binders."
+  },
+  "08-2": {
+    "file": "Domain name space.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Domain_name_space.svg",
+    "author": "",
+    "license": "Public domain",
+    "caption": "The Domain Name System as a tree: one root at the top, branching into zones, each looked after by a name server."
+  },
+  "08-3": {
+    "file": "Symbolics LISP Workstation (Computer History Museum).jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Symbolics_LISP_Workstation_(Computer_History_Museum).jpg",
+    "author": "Thomas Conté",
+    "license": "CC BY-SA 2.0",
+    "caption": "A 1983 Symbolics 3620 Lisp workstation at the Computer History Museum. Symbolics owned symbolics.com, the first .com name."
+  },
+  "09-1": {
+    "file": "Hayes Smartmodem 1982 (1).jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Hayes_Smartmodem_1982_(1).jpg",
+    "author": "Aeroid",
+    "license": "CC BY-SA 4.0",
+    "caption": "A 1982 Hayes Smartmodem 300 with its row of red status lights, which let home computers talk over phone lines."
+  },
+  "09-2": {
+    "file": "Minitel 1 La Radiotechnique.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Minitel_1_La_Radiotechnique.jpg",
+    "author": "DMontagne en résidence",
+    "license": "CC BY 4.0",
+    "caption": "A French Minitel 1 terminal made by La Radiotechnique, with its small screen and built-in keyboard, in a museum case."
+  },
+  "09-3": {
+    "file": "NSFNET-traffic-visualization-1991.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:NSFNET-traffic-visualization-1991.jpg",
+    "author": "Transferred from en.wikipedia to Commons by Fredlyfish4 using CommonsHelper.",
+    "license": "CC BY-SA 3.0",
+    "caption": "A 1991 picture of the NSFNET T1 backbone (white lines) floating above the USA, with traffic to regional networks below."
+  },
+  "10-1": {
+    "file": "First Web Server.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:First_Web_Server.jpg",
+    "author": "User:Coolcaesar at en.wikipedia",
+    "license": "CC BY-SA 3.0",
+    "caption": "The NeXTcube at CERN that became the first web server, with its \"Do not power it down!!\" sticker."
+  },
+  "10-2": {
+    "file": "Sir Tim Berners-Lee.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Sir_Tim_Berners-Lee.jpg",
+    "author": "Paul Clarke",
+    "license": "CC BY-SA 4.0",
+    "caption": "Sir Tim Berners-Lee, inventor of the World Wide Web, at London's Guildhall in 2014."
+  },
+  "10-3": {
+    "file": "Douglas Engelbart's prototype mouse, angled - Computer History Museum.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Douglas_Engelbart%27s_prototype_mouse,_angled_-_Computer_History_Museum.jpg",
+    "author": "Michael Hicks from Saint Paul, MN, USA",
+    "license": "CC BY 2.0",
+    "caption": "Douglas Engelbart's wooden 1960s mouse design, with one red button and a cable, on display at the Computer History Museum."
+  }
+}

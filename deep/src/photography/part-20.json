@@ -1,0 +1,142 @@
+{
+  "n": 20,
+  "title": "Every Pocket a Studio, and Tomorrow's Pictures",
+  "when": "1997 – today and the future",
+  "summary": "Today the camera lives in your pocket, inside your phone. You can snap a photo, film a movie and share it with the whole world in seconds. Giant telescopes take pictures of things no eye has ever seen, and new tools may change pictures again, so we must use them honestly and kindly.",
+  "sections": [
+    {
+      "heading": "A Newborn Baby and a Tangle of Wires",
+      "paragraphs": [
+        "On 11 June 1997, in a hospital in California, a software inventor named Philippe Kahn was waiting for his daughter to be born. Kahn was not just a nervous dad. For almost a year he had been building a system he called Picture Mail, a computer server at his home that could receive pictures and share them. He had a plan, and he had brought a bag of gadgets.",
+        "When his daughter Sophie arrived, Kahn took her picture with a small digital camera. Then he did something nobody had done in quite this way before. Using a laptop, some homemade connections and his mobile phone, he rigged the camera and the phone together and sent the photos through the phone network to his server. From there, the pictures of baby Sophie went out to more than 2,000 friends, family members and colleagues, almost as soon as she was born. Kahn later said he had always wanted to have it working in time to share his daughter's birth photo. In 2016, Time magazine included that picture in its list of the 100 most influential photos of all time.",
+        "It is a lovely bookend to our story. The first digital scan, back in 1957, was a picture of a baby. One of the first instantly shared phone photos was a picture of a baby too. People have always wanted to show the ones they love to others, and every new technology in this Deep Dive, from the daguerreotype portrait studio to the Brownie camera, has been used for exactly that.",
+        "Kahn's setup was a clever hack, not a product. Companies soon raced to put the camera right inside the phone. In May 1999, the Japanese company Kyocera released the Visual Phone VP-210, with a small color camera on the front, meant for video calls and pictures. In June 2000, Samsung's SCH-V200 in South Korea could take and store photos, though not send them over the network. Then, in November 2000, J-Phone in Japan launched the Sharp J-SH04. Its camera had about 110,000 pixels, roughly 0.11 megapixels, and its screen could show only 256 colors. That sounds tiny now, but this phone could snap a picture and send it straight to a friend's phone. J-Phone called the service 'sha-mail', from the Japanese word for photo. It is often described as the first mass-market camera phone.",
+        "The idea spread across Japan and South Korea and then the world. By 2003, camera phones were outselling stand-alone digital cameras worldwide. By 2010, there were more than a billion camera phones on the planet. Picture this: in less than ten years, a camera went from being something you remembered to pack for a holiday to something nearly everyone carried every minute of the day.",
+        "In January 2007, Apple's Steve Jobs announced the first iPhone, which went on sale in the United States on 29 June 2007. Its camera, honestly, was not impressive even then. It had 2 megapixels, no flash, no zoom, and it could not record video. What made the iPhone and the smartphones that followed so important for photography was everything around the camera: a big touchscreen to view pictures, a fast internet connection, and soon, apps. The camera was suddenly connected to the whole world."
+      ]
+    },
+    {
+      "heading": "Nineteen Seconds at the Zoo",
+      "paragraphs": [
+        "At 8:31 in the evening, Pacific Time, on 23 April 2005, a young man named Jawed Karim uploaded a video to a brand-new website he had helped start. The video is 19 seconds long. Karim stands in front of the elephants at the San Diego Zoo, and his high school friend Yakov Lapitsky holds the camera. Karim says, more or less, that the cool thing about the elephants is that they have really, really long trunks. That's it. That's the whole film. Its title is 'Me at the zoo', and it was the first video on YouTube.",
+        "Compare that with the first public film screening in this Deep Dive, the Lumières' show at the Grand Café in Paris in 1895. That needed a special camera-projector, a rented room and paying customers. 'Me at the zoo' needed a small camera and an internet connection, and it has now been watched hundreds of millions of times. Anyone, anywhere, could now be a filmmaker and a broadcaster at the same time.",
+        "Photos joined the party. On 6 October 2010, Kevin Systrom and Mike Krieger launched an iPhone app called Instagram. At first every picture had to be square, 640 pixels wide, which oddly echoed the square-ish pictures of old Kodak Instamatic and Polaroid cameras. Users could add filters that made photos look warm, faded or old-fashioned, as if they had been taken on film decades ago. Instagram gained a million users in about two months. In 2012 Facebook bought it for about a billion dollars, and by 2018 it had a billion users.",
+        "Phones also made it easy to turn the camera around. The front-facing camera turned the self-portrait into a daily habit. Robert Cornelius had to sit still for minutes in Philadelphia in 1839 to make his early self-portrait. Now people could do it in a fraction of a second. The word 'selfie' became so popular that Oxford Dictionaries named it the word of the year for 2013.",
+        "Serious filmmakers noticed too. In 2015, director Sean Baker premiered a feature film called Tangerine at the Sundance Film Festival. He and cinematographer Radium Cheung shot the whole movie on three iPhone 5s phones, using an app called FiLMiC Pro and an add-on lens adapter that gave the pictures a wide, cinematic shape. The film cost about $100,000 to make, very little for a feature film, and critics praised it. Its success showed that the gear no longer decided who could make a movie. What mattered most was the story and the people telling it.",
+        "All of this created an ocean of images. Researchers and industry analysts estimate that people now take more than a trillion photos every year, and most of them are taken on phones. Billions of short videos are uploaded too. For better and for worse, our age is the most photographed time in human history."
+      ]
+    },
+    {
+      "heading": "The Camera That Thinks",
+      "paragraphs": [
+        "Here is a puzzle. A phone camera's lens is tiny, often only a few millimeters across, and its sensor is much smaller than a fingernail. By the old rules of photography, small lenses and small sensors should mean dim, grainy, blurry pictures in poor light. So how can a modern phone take a clear picture of a dark street at night? The answer is that the phone is not just a camera anymore. It is a camera joined to a powerful computer. This combination is called computational photography.",
+        "Start with HDR, which stands for high dynamic range. Imagine taking a picture of a friend standing in front of a bright window. If the camera sets the exposure for the window, your friend becomes a dark silhouette. If it sets the exposure for your friend, the window turns into a blank white blob. Your eyes handle this scene easily, but a single exposure cannot. An HDR camera takes several pictures very quickly, some darker and some brighter, then combines them, keeping the best-exposed parts of each. Photographers in the 1850s did something similar by hand. Gustave Le Gray printed seascapes from two glass negatives, one for the bright sky and one for the darker sea. Your phone does it automatically, in a blink.",
+        "Night modes go further. In 2018 Google introduced a feature called Night Sight for its Pixel phones. When you press the button in a dark place, the phone captures a burst of up to 15 frames while you hold it. Each frame on its own would be dim and speckled with noise, the random grainy dots that appear when very little light reaches the sensor. The phone's software lines the frames up, carefully skipping parts that moved, and averages them together. Because the noise is random but the real scene stays the same, averaging cancels much of the noise and leaves a cleaner picture. The software even measures how much your hands are shaking and how much the scene is moving, and chooses longer exposures if the phone is steady, such as on a tripod.",
+        "Portrait mode creates the soft, blurry background you see in professional portraits. With a big camera, that blur comes naturally from a large lens with a wide aperture, which can only keep a thin slice of distance in sharp focus. A phone lens is too small to do this. So the phone fakes it intelligently. It works out how far away each part of the scene is, using two cameras side by side, special pixels that see from slightly different angles, or software trained to recognize people. Then it keeps the person sharp and blurs everything behind them on purpose.",
+        "Modern phones use machine learning, a kind of artificial intelligence, for many other jobs too: adjusting colors, recognizing faces, brightening skies, and sharpening zoomed images by combining several frames. This raises an interesting question, one that connects back to the chapter on photographic truth. When the phone combines fifteen frames, brightens shadows and blurs a background, is the result still a 'photograph' of what was in front of it? Most people would say yes, because it is built from real light that entered the lens. But the line between capturing a picture and creating one is getting harder to see."
+      ]
+    },
+    {
+      "heading": "Pictures No Eye Could Ever See",
+      "paragraphs": [
+        "Cameras have also traveled where no person can go. On 24 April 1990, the Space Shuttle Discovery carried the Hubble Space Telescope into orbit, a few hundred kilometers above Earth. Hubble's main mirror is 2.4 meters across. Above the blurring and twinkling of Earth's air, it was supposed to take the sharpest pictures of the universe ever made. Then came an embarrassing surprise: the mirror had been ground to slightly the wrong shape. Its outer edge was too flat by about 2.2 micrometers, a tiny fraction of the width of a human hair, but enough to make the first pictures fuzzy.",
+        "In December 1993, astronauts on the shuttle Endeavour flew up and installed corrective optics, a set of small mirrors that worked like a pair of glasses for the telescope's instruments, and a new main camera with its own correction built in. The fix worked brilliantly. Hubble went on to take some of the most famous pictures in history, from towering clouds of gas where stars are born to deep views showing thousands of faraway galaxies in a patch of sky so small you could cover it with a speck held at arm's length. And here is the link to the previous chapter: Hubble's cameras use the same kind of CCD sensors that Boyle and Smith dreamed up in 1969.",
+        "In 2019, scientists did something many people thought was impossible: they took a picture of a black hole. A black hole's gravity is so strong that not even light can escape it, so you cannot photograph the hole itself. But you can photograph its shadow against the glowing gas swirling around it. The target was a giant black hole at the center of a galaxy called Messier 87, or M87, in the constellation Virgo, about 55 million light-years away. It is roughly 6.5 billion times as massive as our Sun.",
+        "The problem was size. Even though the black hole is enormous, it is so far away that it looks unimaginably small from Earth, like trying to see a doughnut on the surface of the Moon. To see detail that fine, you would need a telescope as big as the whole planet. So the Event Horizon Telescope team created one. In April 2017, radio telescopes in several places around the world, from Hawaii and Arizona to Chile, Mexico, Spain and the South Pole, all observed M87 at the same time, recording radio waves about 1.3 millimeters long. Each site kept extremely precise time with atomic clocks.",
+        "The amount of data was so huge that it was faster to fly hard drives to computing centers than to send the data over the internet. At MIT's Haystack Observatory in the United States and the Max Planck Institute for Radio Astronomy in Germany, supercomputers combined the recordings as if they had come from one Earth-sized telescope. Then teams of scientists, working separately so they would not influence each other, used different computer methods to turn the data into a picture. One of the people who helped develop the imaging methods was a young researcher named Katie Bouman, but she was one of more than 200 scientists in the collaboration. On 10 April 2019, they revealed a blurry orange ring around a dark center. It was the first image of a black hole. In May 2022, the same team released an image of Sagittarius A*, the black hole at the center of our own Milky Way.",
+        "On Christmas Day 2021, the James Webb Space Telescope launched on an Ariane 5 rocket from French Guiana. Webb's mirror is 6.5 meters across and made of 18 six-sided segments of beryllium coated with a thin layer of gold, which reflects infrared light very well. It had to fold up to fit inside the rocket and unfold in space. Webb orbits around a point about 1.5 million kilometers from Earth, shaded by a five-layer sunshield about the size of a tennis court that keeps its instruments extremely cold.",
+        "Webb sees mainly infrared light, which our eyes cannot detect. Infrared can pass through dust clouds that block visible light, and light from the most distant galaxies has been stretched into infrared on its long journey across the expanding universe. On 11 July 2022, the first Webb image was shown to the public: a deep field crowded with thousands of galaxies, some seen as they were more than 13 billion years ago. More images followed the next day. Because the light is infrared, scientists translate it into colors we can see, usually giving the shortest wavelengths blue and the longest red. So these pictures are real data, but their colors are a careful translation. That is a good reminder that every photograph, even a scientific one, involves choices."
+      ]
+    },
+    {
+      "heading": "Tomorrow's Pictures: What Might Happen Next",
+      "paragraphs": [
+        "Predicting the future of photography is risky. In 1975, few people guessed that film would almost disappear from cinemas within 40 years. So everything in this section is a possibility, not a promise. But some changes have already begun.",
+        "The biggest is artificial intelligence. Computer programs can now create realistic-looking pictures and videos from a typed description, with no camera involved at all. They learn by studying enormous numbers of existing images. This can be wonderful for art, games, design and imagination. It also raises hard questions. Who should get credit when a program learns from the work of millions of photographers and artists? And how can anyone trust that a picture shows something that really happened?",
+        "That second question is serious because of deepfakes. The word, a blend of 'deep learning' and 'fake', appeared in 2017 to describe videos where software swapped one person's face onto another's. Today, AI tools can make fake videos and voices of real people that are very hard to spot. They have been used for scams, bullying and spreading false news. The chapter on truth and tricks showed that faked photos are as old as photography, from spirit photographs to the Cottingley Fairies. What is new is how fast, cheap and convincing the fakes can be.",
+        "People are working on answers. In 2019, the software company Adobe, together with The New York Times and Twitter, started the Content Authenticity Initiative. In 2021, a wider group of technology and news organizations, including Microsoft and the BBC, formed a standards body called the C2PA. Their idea is called content credentials: a kind of digital label, sealed with cryptography, that can record which camera or program made an image and how it was edited. If someone changes the file, the seal shows it. Some newer cameras and phones can add these labels when you take a photo. But a label can only tell you where a picture came from, not whether its message is true, and it only helps if people check it. Learning to ask 'Where did this picture come from?' may become one of the most important skills of the century.",
+        "Moviemaking is changing too. For the TV series The Mandalorian, first shown in 2019, Industrial Light and Magic built a stage called the Volume, surrounded by giant walls of LED screens. Instead of acting in front of a green screen and adding the background months later, the actors performed in front of moving computer-generated landscapes, rendered in real time by a video game engine. When the camera moved, the background shifted to match, as if the scene were real. The glowing screens even lit the actors with the colors of the alien sky. Many films and shows now use similar 'virtual production' stages.",
+        "Other possibilities are on the horizon. Virtual reality headsets can place you inside a 360-degree video. Phones and special cameras can capture objects and rooms in 3D, so you could one day walk around a memory instead of just looking at it. Some researchers are working on cameras that can see around corners by timing how light bounces, or capture images using tiny flat lenses thinner than a sheet of paper. Which of these will become everyday tools, and which will stay experiments, nobody knows yet.",
+        "And yet, some people are choosing the old ways. Director Christopher Nolan filmed Oppenheimer (2023) on large-format film, including IMAX film cameras. Kodak created a special black-and-white IMAX film stock for the movie, the first time black-and-white IMAX film had been used in this way. Many young photographers love film cameras, instant cameras and even pinhole cameras, because the slow, careful process feels special. New technology rarely wipes out the old completely. More often, it gives people more choices."
+      ]
+    },
+    {
+      "heading": "From a Pinhole to a Pixel",
+      "paragraphs": [
+        "Let's take one last walk through the whole story. More than 2,000 years ago, thinkers in China and Greece noticed that light passing through a small hole paints an upside-down picture. Around the year 1000, Ibn al-Haytham used dark rooms to study how light travels in straight lines. Renaissance scholars added lenses and smaller openings to make the image brighter and sharper. Artists traced it. But for centuries nobody could keep it.",
+        "Then came the chemists. Schulze showed light darkens silver salts. Wedgwood and Davy made shadow pictures that faded. Niépce let the sun harden tar on a pewter plate for hours, possibly days, and saved the view from his window. Daguerre made his mirror with a memory, Talbot invented the negative so pictures could be copied, and Herschel found the fixer that made them last. Glass plates, dry plates and Eastman's roll film made cameras faster and easier, until anyone could press the button.",
+        "Next, pictures began to move. Muybridge froze a galloping horse, Le Prince, Dickson, the Skladanowsky brothers and the Lumières turned strips of film into moving pictures, and Méliès and Alice Guy-Blaché used them to tell stories. Color arrived, then sound, then cartoons, then television, widescreen, videotape and computer effects. Finally, pictures turned into numbers: Kirsch's pixels, Boyle and Smith's CCD, Fossum's CMOS sensor, Bayer's checkerboard and Sasson's toaster-sized camera. Today the whole journey fits inside a phone.",
+        "Look closely, though, and the same basic ideas are still there. Every phone camera has a lens that bends light, just like Cardano's lens in a camera obscura around 1550. It has an aperture that controls how much light comes in, and a light-sensitive surface that records the image, today a silicon sensor instead of silver or tar. Even the upside-down picture is still there: the lens projects an inverted image onto the sensor, and the phone's software simply flips it the right way up. The camera obscura never really went away. It just shrank to the size of a pea.",
+        "The story also shows how pictures carry power. Photographs helped end child labor, protect Yosemite, reveal the horrors of war and show us our fragile planet from space. They have also been faked, used to spread prejudice and taken without permission. That power now sits in almost everyone's hands. Using it well means asking simple questions. Is this true? Did this person agree to be photographed? Would I want this picture of me shared? A camera can be used to show the world as it is, to remember the people we love, and to help others see what we see. That is worth doing honestly and kindly.",
+        "So here is your final challenge. Put down this story, pick up a camera, or a phone, or even a box with a pinhole in it, and go take a picture. Find something that interests you: a sunbeam on the floor, a friend laughing, a bug on a leaf, the sky at sunset. And when you press that button, remember what you are holding. Inside it are the dark rooms of ancient thinkers, the silver of Schulze's bottle, Niépce's patient sunlight, Daguerre's mirror, Talbot's negative, Eastman's roll of film, the Lumières' flickering screen and the buckets of electrons on a silicon chip. You are holding more than 2,000 years of human curiosity about light. Now go and catch some."
+      ]
+    }
+  ],
+  "deepDive": "Is a computational photograph still a photograph? Philosophers and photography historians have argued about this question for decades, but smartphones have made it urgent. A traditional photograph has what some theorists call an indexical link to reality: light from the scene physically changed the film, the way a footprint is made by a foot. A phone image is still built from real photons hitting real pixels, but it is often assembled from many frames, with noise averaged away, shadows lifted, skies recolored and backgrounds blurred by software that learned from millions of other pictures. Some phones have been criticized for 'enhancing' zoomed shots of the Moon with detail drawn partly from learned patterns rather than from the frame itself, which shows how blurry the line can get. Defenders point out that darkroom printers always dodged, burned and retouched, and that the human eye and brain also edit what we see. The science side is just as interesting. Burst averaging works because random noise shrinks roughly with the square root of the number of frames combined, so merging 15 frames reduces random noise to about a quarter of a single frame's. The Event Horizon Telescope used a technique called very-long-baseline interferometry: by combining signals from dishes thousands of kilometers apart, its sharpness depends on the distance between the dishes rather than the size of any single one, reaching an angular resolution of about 25 microarcseconds. But such an array only samples parts of the incoming waves, so turning the data into an image requires filling the gaps with careful assumptions, which is why the EHT used independent teams and several algorithms and checked that they agreed. Finally, the estimate that more than a trillion photos are taken each year comes from industry analysts rather than an exact count, so it should be treated as an order-of-magnitude figure. Even so, it suggests that more pictures are now taken every few days than in the first several decades of photography combined.",
+  "funFact": "The very first video ever uploaded to YouTube, 'Me at the zoo', is only 19 seconds long and shows a man talking about elephants' long trunks.",
+  "check": {
+    "q": "How did the Event Horizon Telescope get enough detail to photograph a black hole's shadow?",
+    "a": "It linked radio telescopes around the world to act like one Earth-sized telescope",
+    "wrong": [
+      "It flew a camera close to the black hole",
+      "It used a single giant mirror on the Moon",
+      "It took a very long exposure with a phone camera"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Camera phone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Camera_phone"
+    },
+    {
+      "title": "Philippe Kahn",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Philippe_Kahn"
+    },
+    {
+      "title": "Me at the zoo",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Me_at_the_zoo"
+    },
+    {
+      "title": "Night Sight: Seeing in the Dark on Pixel Phones",
+      "publisher": "Google Research",
+      "url": "https://research.google/blog/night-sight-seeing-in-the-dark-on-pixel-phones/"
+    },
+    {
+      "title": "Event Horizon Telescope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Event_Horizon_Telescope"
+    },
+    {
+      "title": "James Webb Space Telescope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope"
+    },
+    {
+      "title": "Hubble Space Telescope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "title": "Content Authenticity Initiative",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Content_Authenticity_Initiative"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The Sharp J-SH04 mobile phone from 2000, an early mass-market camera phone sold by J-Phone in Japan",
+      "search": "Sharp J-SH04 camera phone"
+    },
+    {
+      "want": "The Event Horizon Telescope's 2019 image of the black hole M87*, an orange ring around a dark center",
+      "search": "Black hole M87 Event Horizon Telescope"
+    },
+    {
+      "want": "The James Webb Space Telescope's gold hexagonal mirror segments",
+      "search": "James Webb Space Telescope mirror"
+    }
+  ]
+}

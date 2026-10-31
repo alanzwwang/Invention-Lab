@@ -1,0 +1,153 @@
+{
+  "n": 9,
+  "title": "Beep, Beep: Sputnik and Laika",
+  "when": "1957 – 1958",
+  "summary": "In 1957 a shiny metal ball called Sputnik zoomed around the Earth, beeping on the radio, and the whole world listened. A brave little dog named Laika rode the next Soviet satellite. Then the Americans raced to launch their own satellite and started a brand-new space agency called NASA.",
+  "sections": [
+    {
+      "heading": "A Ball That Changed the World",
+      "paragraphs": [
+        "Imagine standing on a flat, windy plain in Kazakhstan on the night of 4 October 1957. In the darkness ahead stands Sergei Korolev's giant R-7 rocket, the same rocket that had made its first successful flight as a missile only about six weeks earlier. Its frosty sides steam as super-cold liquid oxygen boils off. Engineers in a concrete bunker watch through periscopes. Then the engines roar to life, the night turns as bright as day, and the rocket climbs on a pillar of flame.",
+        "The launch site was near a railway stop called Tyuratam. The Soviet government, which loved secrets, told the world the rockets flew from Baikonur, the name of a small mining town hundreds of kilometres away, to confuse anyone trying to find the base. The name stuck, and today the place is still known as the Baikonur Cosmodrome, the oldest spaceport on Earth.",
+        "About five minutes after liftoff, the rocket's engines shut down and a small object separated from its nose. It was a polished metal ball only about 58 centimetres across, a bit bigger than a beach ball, with four long, thin antennas sweeping back from it like the whiskers of a cat. It weighed 83.6 kilograms, about as much as a grown man. Its name was Sputnik, a Russian word that means something like 'fellow traveller' or 'companion'. Today we call it Sputnik 1, because more followed.",
+        "Inside the ball there was not much: silver-zinc batteries, two small radio transmitters, a fan to keep things cool, and sensors for temperature and pressure. The transmitters sent out short pulses of radio sound, about a third of a second long, on two frequencies, 20.005 and 40.002 megahertz. On a radio speaker they sounded like a steady 'beep... beep... beep...'. That simple sound proved Sputnik was really up there.",
+        "And it was. Sputnik followed an oval-shaped orbit that swooped as low as about 215 kilometres above the ground and climbed as high as about 940 kilometres. It went all the way around the planet roughly every 96 minutes, at a speed of about 29,000 kilometres per hour. In the time it takes to watch a long movie, it crossed oceans, deserts and both of the world's rival superpowers.",
+        "Sputnik was actually a backup plan. Korolev's team had been building a big, heavy scientific satellite, packed with instruments, for a worldwide science project called the International Geophysical Year. But that satellite was running late, and Korolev was worried the Americans might launch first. So he got permission to build what his engineers called the 'simplest satellite' (PS-1 for short) in just a few weeks. It turned out that simple was enough to make history.",
+        "Sputnik 1 was the first artificial satellite, the first human-made object to orbit the Earth. (It was not the first human-made object to reach space; a German V-2 test rocket had shot up past 100 kilometres in 1944 and fallen back down. The difference is that Sputnik stayed up, going around and around.) Its batteries ran out on 26 October 1957, after about three weeks, and the beeping stopped. The silent ball kept circling until drag from the thin upper air slowly pulled it down. It burned up as it fell back into the atmosphere on 4 January 1958, after about three months and well over a thousand trips around the world."
+      ]
+    },
+    {
+      "heading": "The Whole World Listens",
+      "paragraphs": [
+        "News of Sputnik raced around the planet almost as fast as Sputnik itself. The Soviet news agency TASS announced the launch, and within hours radio stations were playing the beeping sound for their listeners. In the United States, millions of people heard the eerie 'beep-beep' on the evening news. It was the first time ordinary people could hear something that came from space and was made by humans.",
+        "At that very moment, a group of scientists from many countries were gathered at a party at the Soviet embassy in Washington, DC, at the end of a week of meetings about the International Geophysical Year. A New York Times reporter named Walter Sullivan was called to the telephone and told the news. He whispered it to the American scientist Lloyd Berkner, who tapped a glass, asked for quiet, and announced that a Soviet satellite was circling the Earth. He then congratulated the Soviet scientists in the room. Imagine the gasps and the clinking of glasses.",
+        "Amateur radio fans, often called 'hams', became part of the story. All over the world, people with radio sets in their garages and attics tuned to 20 and 40 megahertz and listened for the beeps. Because Sputnik's signal grew louder as it approached and fainter as it moved away, and its pitch shifted slightly as it passed (the same effect that makes a racing car's 'neeeee-owww' change tone), listeners could even help work out its path. Scientists at universities used these tricks to track the satellite precisely.",
+        "Many people also wanted to see Sputnik. Through the Smithsonian Astrophysical Observatory, volunteer teams called Operation Moonwatch had been set up in towns around the world to spot satellites with small telescopes. Now they had something real to watch. Here is a surprising twist: the small, shiny Sputnik ball was hard to see with the naked eye. The bright 'star' that many people saw sliding across the evening sky was usually the R-7 rocket's huge central stage, which had also reached orbit and was much bigger. It tumbled along nearby, catching the sunlight, until it fell back to Earth in early December.",
+        "In the Soviet Union, the newspaper Pravda first printed only a short report about the launch. When the leaders saw how amazed the rest of the world was, they realised what a huge propaganda victory they had won, and Sputnik became a national celebration. Soviet leader Nikita Khrushchev began boasting that his country's science and rockets were the best on Earth.",
+        "In the United States, the mood was very different. Many Americans were shocked, and some were frightened. The United States thought of itself as the world's leader in technology, with its cars, televisions, refrigerators and jet planes. Now its great rival had beaten it into space. A NASA historian, Roger Launius, has written that Sputnik had a 'Pearl Harbor' effect on American public opinion, meaning it felt like a sudden surprise attack, even though it was harmless. Senator Lyndon B. Johnson, who later became president, remembered looking up at the night sky in Texas and feeling that, as he put it, 'Now, somehow, in some new way, the sky seemed almost alien.'",
+        "This wave of worry became known as the 'Sputnik crisis'. The fear was not really about a beeping ball. It was about the rocket that carried it. If the Soviets had a rocket powerful enough to throw an 84-kilogram satellite into orbit, it could surely throw a nuclear bomb across the ocean to an American city. Sputnik showed that the R-7 was a working intercontinental ballistic missile, an ICBM, and there was no way to stop one."
+      ]
+    },
+    {
+      "heading": "Laika, the Little Barker",
+      "paragraphs": [
+        "Khrushchev was delighted with Sputnik, and he wanted another space spectacular quickly, in time for the 40th anniversary of the Russian Revolution on 7 November 1957. That left Korolev's exhausted team less than a month. They decided to send up something even more astonishing than a beeping ball: a living animal.",
+        "Soviet scientists had already been sending dogs on short up-and-down rocket flights since 1951, so they knew dogs well. They chose small female dogs from the streets of Moscow. Stray dogs, they reasoned, were already used to surviving cold winters and hunger, so they might cope better with harsh conditions. Females were picked partly because the special suit and waste-collecting equipment were easier to design for them.",
+        "One of the dogs was a quiet, calm mixed-breed of about three years old, weighing only about 5 kilograms, part husky or terrier perhaps. Her first name was Kudryavka, meaning 'Little Curly'. But after she barked on a radio broadcast, she became known as Laika, which means 'barker' in Russian, and that is the name history remembers. Two other dogs, Albina and Mushka, trained alongside her as backups and helpers.",
+        "Training was tough. To get the dogs used to the tiny cabin, they were kept in smaller and smaller cages for days at a time. They were spun in centrifuges, big machines that whirl round to copy the heavy push of a rocket launch, and placed in machines that imitated the noise and shaking of liftoff. They learned to eat a special jelly-like food and to wear a harness and sensors that measured their heartbeat, breathing and blood pressure. One of the doctors, Vladimir Yazdovsky, later said he took Laika home to play with his children shortly before the flight, because he wanted to do something nice for her.",
+        "Sputnik 2 launched on 3 November 1957, less than a month after Sputnik 1. It was far bigger: about 508 kilograms, six times heavier than the first satellite. Inside a cone-shaped body sat instruments to study the Sun's radiation and cosmic rays, and a padded, pressurised cabin, just big enough for Laika to stand, sit or lie down. It had an air-freshening system, a supply of food and water, and a radio system that sent her heartbeat and breathing back to Earth.",
+        "Laika became the first animal to orbit the Earth. Her heart raced during the noisy launch, then slowly calmed down when she reached weightlessness. Scientists on the ground could see from her signals that a living creature could survive the launch and the strange floating feeling of orbit, at least for a while. That was important news for anyone hoping to send people one day."
+      ]
+    },
+    {
+      "heading": "A One-Way Trip",
+      "paragraphs": [
+        "Here is the sad part of Laika's story, and it is important to tell it honestly. Sputnik 2 was never designed to come back. In 1957 nobody yet knew how to bring a spacecraft safely back through the fiery heat of re-entry, and there was no time to invent a way in less than a month. Everyone who built the spacecraft knew from the start that Laika would not return.",
+        "For many years the Soviet government said that Laika had lived for several days in orbit and had died peacefully, perhaps when her oxygen ran low or by a planned dose of food. That was not true. In 2002, at a space conference in Houston, Texas, a Russian scientist who had worked on the mission, Dimitri Malashenkov, explained what really happened. Part of the rocket had not separated properly, and the cooling system could not cope. The cabin grew hotter and hotter. Laika died from overheating and stress within a few hours, probably five to seven hours after launch, on only her fourth trip or so around the Earth.",
+        "Even in 1957, without knowing all of this, many people were upset. Animal-welfare groups in Britain and other countries protested about sending a dog into space with no way home. Newspapers nicknamed her 'Muttnik'. Some of the Soviet scientists themselves felt sorry too. Years later, in 1998, Oleg Gazenko, one of the scientists who trained the space dogs, said that the more time passed, the more sorry he felt, and that they had not learned enough from the mission to justify the death of the dog.",
+        "Sputnik 2 kept circling the Earth for about five months, about 2,570 orbits, until it fell back and burned up in the atmosphere on 14 April 1958. Laika's body burned up with it, high above the Earth.",
+        "Laika is still remembered. She appeared on stamps and posters in many countries. In 2008, a small statue of her standing on top of a rocket was unveiled in Moscow, near the military research institute where she was trained. Her flight taught scientists that a living body could survive launch and weightlessness, and it made engineers determined that the next animals, and later the first humans, would come home safely. Just under three years later, two other Soviet space dogs, Belka and Strelka, would do exactly that, as you will see in Part 11."
+      ]
+    },
+    {
+      "heading": "Flopnik: America's Fiery Flop",
+      "paragraphs": [
+        "So where was the American satellite? The United States had announced back in 1955 that it would launch a small scientific satellite during the International Geophysical Year. The job went to the US Navy's Naval Research Laboratory and a new rocket called Vanguard. The government chose Vanguard partly because it was not based on a weapon, so the satellite would look like peaceful science rather than a military threat.",
+        "The trouble was that Vanguard was brand new, and building a new rocket from scratch takes time. Meanwhile, the US Army had a team led by Wernher von Braun, the German engineer brought to America after World War II, who had a powerful missile called the Redstone, a descendant of the V-2. Von Braun believed his team could launch a satellite quickly, but for a long time they were told to stay out of the satellite business. Some historians think the Army could have reached orbit before Sputnik if it had been allowed to try, though that will always remain a 'what if'.",
+        "After Sputnik, the pressure on Vanguard was enormous. On 6 December 1957, at Cape Canaveral in Florida, the rocket called Vanguard TV-3 stood ready to carry a tiny test satellite, a metal ball only about 15 centimetres (6 inches) across that weighed about 1.4 kilograms (3 pounds). It was meant to be a test flight, but newspapers and television crews treated it as America's answer to Sputnik. Cameras were pointing at the pad, and the countdown was broadcast to the nation.",
+        "At ignition, the engine roared, and the rocket rose... about 1.2 metres (4 feet). Then it lost thrust, sank back onto the launch pad and exploded in a huge ball of orange fire and black smoke. It was all over in a couple of seconds. The little satellite was thrown clear and landed nearby, where, according to the famous story, it lay in the scrub still beeping. It was too damaged to fly again and today it is displayed at the Smithsonian's National Air and Space Museum in Washington.",
+        "The newspapers were merciless. They called the failed rocket 'Flopnik', 'Kaputnik' and 'Stayputnik'. Around the world, people laughed, and Americans felt even more embarrassed. It showed that launching a satellite was very hard, and that having several different military teams working separately was not a good way to win a space race.",
+        "Vanguard's engineers did not give up. After another failure in February 1958, a Vanguard rocket finally put a grapefruit-sized satellite, Vanguard 1, into orbit on 17 March 1958. Khrushchev made fun of its small size, but Vanguard 1 was the first satellite powered by solar cells, and it was placed in such a high orbit that it is still up there today. It is the oldest human-made object still circling the Earth."
+      ]
+    },
+    {
+      "heading": "Explorer 1 and the Hidden Radiation Belts",
+      "paragraphs": [
+        "Even before the Vanguard explosion, the US government had finally given von Braun's Army team the go-ahead to try for orbit. They had a rocket ready: the Jupiter-C, a stretched Redstone missile with extra stages on top. For the satellite launch it was called Juno I. Its first stage burned liquid fuel. On top sat a spinning 'tub' holding a cluster of 11 small solid-fuel rockets, then a ring of 3 more, and finally 1 on its own, carrying the satellite. Spinning the tub, like spinning a football when you throw it, kept the little stages pointing straight as they fired.",
+        "The satellite itself was built by the Jet Propulsion Laboratory (JPL) in Pasadena, California, led by William Pickering. It was a slim tube about 2 metres long and only about 15 centimetres wide, weighing about 14 kilograms (roughly 30 pounds). The front part held the science instruments, designed by physicist James Van Allen of the State University of Iowa. They included a cosmic-ray detector (a kind of Geiger counter, which clicks when tiny, fast-moving particles pass through it), temperature sensors, and a microphone to listen for hits from tiny space dust called micrometeorites.",
+        "The satellite was named Explorer 1, and it launched from Cape Canaveral at 10:48 pm Eastern time on 31 January 1958. It worked. The United States had its first satellite, less than four months after Sputnik. In the middle of the night, at a press conference in Washington, Pickering, Van Allen and von Braun held a full-size model of Explorer 1 high above their heads for the photographers. That photo, three grinning men lifting a satellite into the air like a trophy, became one of the most famous pictures of the early space age.",
+        "Explorer 1's orbit was a stretched oval, swinging from about 360 kilometres up to about 2,500 kilometres up, and it took around 115 minutes per lap. As it flew, Van Allen's detector sent back something puzzling. At lower heights it counted cosmic rays as expected. But at the highest parts of the orbit, the count sometimes dropped to zero. Had space suddenly gone empty?",
+        "Van Allen and his team came up with a clever explanation. The detector wasn't seeing too few particles; it was being swamped by far too many, so many that the counter jammed, a bit like a person so dazzled by bright light that they can't see anything. They realised Earth must be surrounded by zones filled with electrically charged particles, mostly from the Sun, trapped by our planet's magnetic field. Later satellites, beginning with Explorer 3 in March 1958, confirmed it. These two giant, doughnut-shaped zones circling the Earth are called the Van Allen radiation belts, after him.",
+        "This was the first major scientific discovery of the space age, and it mattered a lot. Spacecraft and astronauts need protection when they pass through the belts, and later Moon missions planned their paths to cross them quickly. Explorer 1 kept sending signals until its batteries died on 23 May 1958. It stayed in orbit, silent, for twelve more years, finally burning up in the atmosphere on 31 March 1970 after more than 58,000 orbits."
+      ]
+    },
+    {
+      "heading": "NASA Is Born, and Schools Change",
+      "paragraphs": [
+        "After Sputnik, American leaders decided they needed to organise their space efforts better. In November 1957 President Dwight D. Eisenhower appointed James Killian, president of the Massachusetts Institute of Technology, as his first special adviser for science and technology. In February 1958 the government created a new defence research office called ARPA (the Advanced Research Projects Agency), which, years later, also helped build ARPANET, an early ancestor of the internet.",
+        "Eisenhower wanted peaceful space exploration and science to be run by a civilian agency, not by the army, navy or air force. His advisers suggested building it around an older organisation called NACA, the National Advisory Committee for Aeronautics, which had been researching aircraft since 1915 in big laboratories with wind tunnels. Congress agreed and passed the National Aeronautics and Space Act, which Eisenhower signed on 29 July 1958. The new agency's job was to 'plan, direct, and conduct aeronautical and space activities'.",
+        "That agency was NASA, the National Aeronautics and Space Administration. It officially began work on 1 October 1958, less than a year after Sputnik. On its first day it took over NACA's three research centres and about 8,000 employees. Its first leader was T. Keith Glennan. Soon NASA also took over JPL and, in 1960, von Braun's rocket team in Huntsville, Alabama. Within its first weeks, NASA approved Project Mercury, its plan to put an American astronaut into orbit.",
+        "Sputnik changed classrooms too. Many Americans worried that Soviet schools were training more scientists and engineers than American schools. In September 1958 Congress passed the National Defense Education Act, which gave money for student loans, scholarships for advanced study, and better teaching of science, mathematics and foreign languages. Schools bought new lab equipment, and new science textbooks and courses were written by university scientists. Children who were in school in those years are sometimes called the 'Sputnik generation', and many of them grew up to become the engineers who built the Moon rockets.",
+        "In the Soviet Union, the launches kept coming too. On 15 May 1958, Sputnik 3, the big scientific laboratory that had been delayed, finally reached orbit. It weighed about 1,327 kilograms, more than fifteen times as heavy as Sputnik 1, and carried a dozen instruments. The space race was well and truly on. Both sides had satellites in orbit, both had sent up instruments, and one side had sent up a living animal.",
+        "Every one of these steps led to an obvious next question. Satellites could go up. A dog had reached orbit and her body had survived the launch. If a dog could go to orbit, when would a human being ride a rocket into space and come home again? And which country would get there first?"
+      ]
+    }
+  ],
+  "deepDive": "Historians now see the 'Sputnik crisis' as partly a crisis of perception. President Eisenhower was less alarmed than the public, partly because secret U-2 spy-plane flights had shown him that the Soviet missile force was smaller than people feared. He was also quietly pleased about one thing: Sputnik had flown over dozens of countries, including the United States, and nobody had objected. That set an important precedent, sometimes called 'freedom of space' — the idea that satellites may pass over any nation. Eisenhower's government wanted exactly that rule, because it was secretly developing spy satellites (the Corona program, which returned its first photographs in 1960). Because he could not reveal what he knew, Eisenhower looked complacent, and critics such as Senator John F. Kennedy later campaigned on a supposed 'missile gap'. In reality the United States had more long-range nuclear weapons than the Soviet Union in those years; the gap, where it existed, ran the other way.\n\nOn the Soviet side, historians such as Asif Siddiqi have shown how improvised the early triumphs were. Khrushchev at first saw the satellite as a minor sideshow to the R-7 missile program; only the world's reaction made Sputnik a political prize, after which he pushed Korolev for ever bigger 'firsts' on short deadlines. Sputnik 2 was designed and built in about four weeks, which helps explain why its thermal control failed. The R-7 itself was a poor weapon — it took many hours to fuel with liquid oxygen and needed huge, easily spotted launch pads — but it was a superb space launcher, and its descendants still fly as Soyuz rockets.\n\nThe physics of Sputnik's orbit also taught scientists something. By tracking how quickly the satellites' orbits shrank, researchers measured the density of the upper atmosphere far more accurately than before, finding it denser than many had expected. Small wobbles in satellite orbits soon revealed that the Earth is slightly flattened and very slightly pear-shaped — early 'satellite geodesy', the ancestor of today's GPS-based mapping. Vanguard 1's long-lived orbit was especially useful for this work.",
+  "funFact": "Vanguard 1, launched in March 1958, stopped transmitting in 1964 but is still orbiting the Earth today, making it the oldest human-made object in space.",
+  "check": {
+    "q": "What did James Van Allen's instrument on Explorer 1 help discover?",
+    "a": "Belts of charged particles trapped around Earth by its magnetic field (the Van Allen radiation belts)",
+    "wrong": [
+      "Water ice on the Moon",
+      "A hole in the ozone layer",
+      "The first planet beyond our Solar System"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Sputnik and the Origins of the Space Age",
+      "publisher": "NASA History Office (Roger D. Launius)",
+      "url": "https://www.nasa.gov/history/sputnik/sputorig.html"
+    },
+    {
+      "title": "60 Years Ago, the Space Age Began",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/history/60-years-ago-the-space-age-began"
+    },
+    {
+      "title": "60 Years Ago: Vanguard Fails to Reach Orbit",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/feature/60-years-ago-vanguard-fails-to-reach-orbit"
+    },
+    {
+      "title": "Explorer 1",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/mission/explorer-1"
+    },
+    {
+      "title": "Explorer 1",
+      "publisher": "NASA Jet Propulsion Laboratory",
+      "url": "https://www.jpl.nasa.gov/missions/explorer-1"
+    },
+    {
+      "title": "60 years ago: Sputnik 1 and the dawn of space",
+      "publisher": "FAI (World Air Sports Federation)",
+      "url": "https://www-2025.fai.org/news/60-years-ago-sputnik-1-and-dawn-space"
+    },
+    {
+      "title": "Sputnik 1",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sputnik_1"
+    },
+    {
+      "title": "Laika",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Laika"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A replica or photograph of Sputnik 1, the shiny metal ball with four long antennas",
+      "search": "Sputnik 1 replica satellite"
+    },
+    {
+      "want": "Photograph of Laika the dog, or a Soviet postage stamp showing Laika",
+      "search": "Laika dog Sputnik 2"
+    },
+    {
+      "want": "The famous photo of William Pickering, James Van Allen and Wernher von Braun holding up a model of Explorer 1",
+      "search": "Explorer 1 Pickering Van Allen von Braun"
+    }
+  ]
+}

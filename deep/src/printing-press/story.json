@@ -1,0 +1,483 @@
+{
+  "slug": "printing-press",
+  "title": "The Printing Press",
+  "emoji": "🖨️",
+  "tagline": "From clay marks to glowing screens: how words learned to multiply",
+  "intro": "Imagine a world where every single book had to be copied by hand, letter by letter, taking months of work. For most of human history, that was real life. In this Deep Dive we follow one of the biggest adventures in all of history: how people learned to record words and then copy them fast. We start with clay tablets in ancient Sumer, travel to China where paper and woodblock printing were born, visit Korea where metal type was cast long before Europe, and arrive in Mainz, Germany, where Johannes Gutenberg built a printing system that changed the world. Then we watch printing spread like wildfire, sparking arguments, science, newspapers and revolutions, before steam engines, giant rotary presses, photocopiers, laser printers and the internet take over. Along the way you will learn exactly how the machines work, who deserves the credit, what went wrong, and where printing might go next, even into 3D.",
+  "outline": [
+    {
+      "n": 1,
+      "title": "Before Books Were Easy",
+      "when": "about 40,000 BCE – 3000 BCE",
+      "covers": [
+        "Life before writing: memory, storytellers and oral tradition (songs, epics, family histories passed down by speaking)",
+        "Cave paintings and tally marks as early ways of storing information (e.g. Lascaux cave art, about 17,000 years old)",
+        "Sumer and the city of Uruk (in today's Iraq): clay tokens for counting goods turn into cuneiform writing around 3300–3200 BCE",
+        "How cuneiform worked: a reed stylus pressed wedge-shaped marks into wet clay; tablets dried in the sun or were baked",
+        "Cylinder seals (from about 3500 BCE): carved stone cylinders rolled across clay to make the same picture again and again — an early 'printing-like' idea of repeating an image",
+        "Egyptian hieroglyphs (about 3200 BCE) and scribes as a rare, highly trained profession"
+      ],
+      "keyFacts": [
+        "Cuneiform appeared in Uruk around 3300–3200 BCE and was used for about 3,000 years",
+        "Cylinder seals were used in Mesopotamia from about 3500 BCE to sign and seal documents",
+        "Many tens of thousands of clay tablets survive, including Ashurbanipal's library at Nineveh (600s BCE) — fire baked many tablets harder, helping them survive"
+      ],
+      "hook": "Clay was tough but heavy — so people began searching for lighter things to write on and simpler ways to write."
+    },
+    {
+      "n": 2,
+      "title": "Alphabets, Scrolls and the First Books",
+      "when": "about 3000 BCE – 400 CE",
+      "covers": [
+        "Papyrus in Egypt: made from strips of the papyrus reed pressed together, rolled into scrolls (papyrus is NOT true paper)",
+        "The alphabet: early alphabets (Proto-Sinaitic, about 1800s BCE) led to the Phoenician alphabet (about 1050 BCE), then Greek and Latin — far fewer symbols to learn than cuneiform or hieroglyphs",
+        "Parchment and vellum made from animal skins; the legend that parchment was invented at Pergamon when Egypt cut off papyrus (told by Pliny — label as a legend)",
+        "The Library of Alexandria (founded about 300 BCE) and copying scrolls by hand",
+        "The codex: pages stacked and bound on one side, replacing scrolls between about the 1st and 4th centuries CE",
+        "The mysterious Phaistos Disc from Crete (around 1700 BCE, date uncertain) whose symbols were pressed with stamps — a curiosity, not a real printing industry"
+      ],
+      "keyFacts": [
+        "The Phoenician alphabet had 22 letters, all consonants; the Greeks added vowels",
+        "By around 400 CE the codex had largely replaced the scroll for books in the Roman world",
+        "A big book on vellum could need the skins of dozens or even hundreds of animals"
+      ],
+      "hook": "Scrolls and skins were expensive — but far to the east, someone was about to make a cheap new writing material from plants and rags."
+    },
+    {
+      "n": 3,
+      "title": "The Paper Revolution in China",
+      "when": "about 200 BCE – 700 CE",
+      "covers": [
+        "Writing in early China on bamboo strips, wooden slips and silk — bamboo was heavy and silk expensive",
+        "Cai Lun, a Han dynasty court official, presented an improved papermaking method to Emperor He in 105 CE using tree bark, hemp, rags and old fishing nets",
+        "Older paper fragments found in China (e.g. Fangmatan, about 2nd century BCE) prove paper existed before Cai Lun — he improved and promoted it rather than inventing it from nothing",
+        "How paper is made (science, simply): fibers are beaten into a pulp in water, a screen scoops up a thin layer, water drains, fibers tangle and bond as they dry",
+        "Why paper was a big deal: light, cheap, smooth, and it takes ink well",
+        "Paper spreads within Asia to Korea and Japan (by around the 600s CE)"
+      ],
+      "keyFacts": [
+        "105 CE is the traditional date for Cai Lun's report to the emperor",
+        "Paper fibers stick together mainly through hydrogen bonds formed as the wet sheet dries",
+        "Cai Lun was later honored in China as the patron of papermakers"
+      ],
+      "hook": "For centuries papermaking was mostly an Asian skill — until it began travelling west along the Silk Road."
+    },
+    {
+      "n": 4,
+      "title": "Paper Travels the World",
+      "when": "about 700 – 1400",
+      "covers": [
+        "Paper reaches Samarkand in Central Asia; the famous story that Chinese prisoners from the Battle of Talas (751) taught papermaking is a traditional tale — historians think paper may have arrived earlier (label as tradition)",
+        "Baghdad's paper industry from around 794 under the Abbasid Caliphate (Harun al-Rashid's era); the House of Wisdom and a huge Islamic book culture",
+        "Paper in Cairo, North Africa and Muslim Spain — Xàtiva (Játiva) near Valencia was a paper center by the 1100s",
+        "Italy: Fabriano becomes a famous papermaking town by the late 1200s, adding water-powered hammer mills, gelatin sizing and watermarks",
+        "Watermarks explained: a wire design on the mould makes the paper thinner there, so it shows when held to light",
+        "Paper mills spread through Europe in the 1300s, so by 1400 Europe had a cheap surface ready for printing"
+      ],
+      "keyFacts": [
+        "Baghdad had paper production by around 794–795 CE",
+        "The earliest known European watermarks date from the late 1200s in Italy (around 1282)",
+        "European paper was made mostly from linen and cotton rags until the 1800s"
+      ],
+      "hook": "Paper was spreading everywhere — and in East Asia people had already found a way to stamp whole pages onto it."
+    },
+    {
+      "n": 5,
+      "title": "Woodblocks: Printing a Whole Page at Once",
+      "when": "about 600 – 1100",
+      "covers": [
+        "From seals and stone rubbings to woodblock printing in Tang dynasty China (by around the 600s–700s)",
+        "How woodblock printing works: text written on thin paper is pasted face-down on a wooden block, the carver cuts away everything except the raised mirror-image characters, then the block is inked and paper is rubbed on top with a brush",
+        "Korea's Mugujeonggwang Great Dharani Sutra, found in 1966 inside a pagoda at Bulguksa temple, printed before 751",
+        "Japan's Hyakumanto Darani: Empress Shōtoku ordered one million printed Buddhist charms placed in tiny wooden pagodas (about 764–770)",
+        "The Diamond Sutra of 868 — the oldest surviving printed book with an exact date — found in 1900 by Wang Yuanlu in a sealed cave at Dunhuang and taken to Britain by Aurel Stein in 1907; now in the British Library",
+        "Huge woodblock projects: the Korean Tripitaka Koreana (1200s), over 81,000 blocks still kept at Haeinsa temple"
+      ],
+      "keyFacts": [
+        "The Diamond Sutra scroll is over 5 meters long and dated to the year 868; its note says Wang Jie had it made for his parents",
+        "The Tripitaka Koreana has about 81,000 woodblocks, carved 1237–1248",
+        "Woodblock printing is still well suited to Chinese, which uses thousands of different characters"
+      ],
+      "hook": "Carving a whole new block for every page was slow — so a clever commoner in China wondered: what if each character was its own tiny piece?"
+    },
+    {
+      "n": 6,
+      "title": "Movable Type Is Born in Asia",
+      "when": "about 1040 – 1450",
+      "covers": [
+        "Bi Sheng invents movable type from baked clay (ceramic) during the 1040s; we know because Shen Kuo described it in his Dream Pool Essays (about 1088)",
+        "How Bi Sheng's system worked: characters set in an iron frame on a bed of wax and resin, warmed so type stuck, pressed flat, printed, then melted loose for reuse",
+        "Wang Zhen's wooden type (about 1297–1298) — over 60,000 characters arranged on revolving round tables so typesetters could reach them; described in his Nong Shu (1313)",
+        "Korea casts metal type: records mention a metal-type book in 1234 (now lost); Jikji, printed at Heungdeok Temple in Cheongju in 1377, is the oldest surviving book printed with movable metal type (kept in the National Library of France)",
+        "King Sejong and the invention of the Hangul alphabet (created 1443, announced 1446) — partly to make reading easier for ordinary people",
+        "Why movable type did not instantly take over in China: thousands of characters, plus woodblocks were cheap and flexible"
+      ],
+      "keyFacts": [
+        "Jikji (1377) is about 78 years older than the Gutenberg Bible and is on UNESCO's Memory of the World register (2001)",
+        "Bi Sheng's type dates to the Qingli reign period, 1041–1048",
+        "Hangul has 24 basic letters in modern use"
+      ],
+      "hook": "Meanwhile, in Europe, books were still being copied by hand — and demand was exploding."
+    },
+    {
+      "n": 7,
+      "title": "Europe's Hand-Copied Books",
+      "when": "about 500 – 1450",
+      "covers": [
+        "Monasteries and scriptoria: monks copying books with quills on parchment; illuminated manuscripts with gold and bright colors",
+        "The Book of Kells (around 800) as a famous example; one Bible could take a scribe many months to years",
+        "Universities (Bologna, Paris, Oxford) create new demand; the pecia system rented out sections of approved texts for students to copy; professional lay scribes and stationers",
+        "Rising literacy among merchants and townspeople in the 1300s–1400s, cheap paper arriving, and demand for prayer books (books of hours), schoolbooks and documents",
+        "Early European woodcut prints (around 1400s): religious pictures, playing cards, and 'block books' with text and pictures cut on one block",
+        "Medieval people were not 'all illiterate' or ignorant — but books were rare and costly"
+      ],
+      "keyFacts": [
+        "The Book of Kells was made around 800 by monks, probably at Iona and Kells",
+        "European block books mostly date from about the 1450s–1470s, around the same time as early type printing",
+        "Before 1450 a large library in Europe might hold only a few hundred books"
+      ],
+      "hook": "In the German city of Mainz, a goldsmith with big debts and a bigger idea was getting ready to change all of this."
+    },
+    {
+      "n": 8,
+      "title": "Gutenberg's Secret Project",
+      "when": "about 1400 – 1450",
+      "covers": [
+        "Johannes Gutenberg, born in Mainz around 1400 (exact year unknown) to a well-off family; trained in metalwork",
+        "His years in Strasbourg (1430s–1440s): a business making polished metal pilgrim mirrors for the Aachen pilgrimage",
+        "The 1439 Strasbourg lawsuit (after partner Andreas Dritzehn died): witnesses mention a press, metal forms and secret work — an early clue to his printing experiments",
+        "Return to Mainz around 1448; borrows money, including large loans from the businessman Johann Fust (800 guilders around 1450 and another 800 around 1452)",
+        "Why he needed so much money: metal, paper, vellum, workers and years of experiments before any profit",
+        "Early small printed items from Mainz: Latin grammar booklets (Donatus) and printed indulgences dated 1454"
+      ],
+      "keyFacts": [
+        "Gutenberg's birth year is unknown; historians say around 1400 (estimates range about 1394–1404)",
+        "Fust lent Gutenberg about 1,600 guilders in total — a huge sum, enough to buy several houses",
+        "Printed indulgence certificates from Mainz are dated 1454"
+      ],
+      "hook": "Gutenberg's real genius was not one machine but a whole system — starting with a tiny mould that could cast letters perfectly every time."
+    },
+    {
+      "n": 9,
+      "title": "How Gutenberg's System Worked",
+      "when": "about 1440 – 1455",
+      "covers": [
+        "The punch: a steel rod with a letter carved in mirror image at its tip",
+        "The matrix: the punch is struck into softer copper, leaving a letter-shaped dent",
+        "The hand mould: an adjustable two-part mould holding the matrix, so thousands of identical letters ('sorts') can be cast quickly with exact height",
+        "Type metal: an alloy of lead, tin and antimony — melts at a low temperature, flows into fine detail, and the antimony helps it expand slightly as it cools so letters come out sharp",
+        "Oil-based ink (like painters' varnish, with soot) that sticks to metal type, unlike the water-based inks used for woodblocks",
+        "The press: adapted from screw presses already used for wine, olive oil and papermaking — Gutenberg combined existing ideas in a new way",
+        "Fair credit: the system's big innovation was mass-producing reusable metal type in Europe; Korea had cast metal type earlier but by different methods"
+      ],
+      "keyFacts": [
+        "The Gutenberg Bible's typeface used around 290 different characters, including joined letters and abbreviations, to imitate handwriting",
+        "Lead melts at about 327 °C and tin at about 232 °C; the alloy melts lower than pure lead",
+        "Experts estimate around 100,000 pieces of type might be needed for a big job like the Bible"
+      ],
+      "hook": "With his system finally working, Gutenberg set out on the most daring project of all: a giant, beautiful Bible."
+    },
+    {
+      "n": 10,
+      "title": "The Gutenberg Bible and a Broken Partnership",
+      "when": "about 1452 – 1468",
+      "covers": [
+        "The 42-line Bible (named for the lines per column), completed in Mainz around 1454–1455, in two big volumes of about 1,280 pages",
+        "Copies on paper and on vellum; red headings and decorations often added by hand afterwards",
+        "Enea Silvio Piccolomini (later Pope Pius II) wrote in 1455 that he saw pages in Frankfurt so neat you could read them without glasses",
+        "Fust sued Gutenberg in 1455 to get his money back; Fust and Peter Schoeffer (a former scribe in the workshop) took over much of the equipment",
+        "Fust and Schoeffer's Mainz Psalter (14 August 1457): the first printed book with a printed date and printers' names, and with printed colored initials",
+        "Gutenberg's later years: kept printing on a smaller scale, received a court pension from the Archbishop of Mainz in 1465, died in February 1468, never rich",
+        "Rival claim: the Dutch legend that Laurens Janszoon Coster of Haarlem printed first — label as a legend without solid evidence"
+      ],
+      "keyFacts": [
+        "Estimates say about 160–180 copies were printed; 49 copies (or substantial parts) survive",
+        "Roughly three-quarters of the copies were on paper and the rest on vellum",
+        "In 1978 a Gutenberg Bible sold for about 2.2 million US dollars; one complete copy is in the Library of Congress"
+      ],
+      "hook": "Gutenberg's workshop was the start — but how did a busy print shop actually turn type into pages, day after day?"
+    },
+    {
+      "n": 11,
+      "title": "Inside an Early Print Shop",
+      "when": "about 1455 – 1800",
+      "covers": [
+        "The compositor picks letters from the type case into a composing stick, upside-down and backwards, line by line",
+        "Justification: adding spaces so every line is the same width; lines go into a galley, pages are locked into a metal frame (chase) to make a forme",
+        "Inking with leather ink balls; paper (often dampened) is placed on the tympan and held by the frisket, slid under the platen, and the pressman pulls the bar",
+        "Imposition: arranging pages so that when a big sheet is folded it reads in order — folio, quarto, octavo",
+        "Words that came from print shops: 'upper case' and 'lower case' from where capital and small letters were kept in the type cases",
+        "Teams of workers: compositors, pressmen, apprentices; proofreaders checking errors; type was distributed back into the cases after printing",
+        "The wooden hand press barely changed for about 350 years"
+      ],
+      "keyFacts": [
+        "A two-person press crew could print roughly 200–250 sheets on one side per hour",
+        "In an octavo, one big sheet folded three times makes 8 leaves (16 pages)",
+        "'Upper case' and 'lower case' come from the positions of the type cases on the compositor's stand"
+      ],
+      "hook": "Print shops did not stay in Mainz for long — and a war in 1462 helped scatter printers across Europe."
+    },
+    {
+      "n": 12,
+      "title": "Printing Spreads Like Wildfire",
+      "when": "1462 – 1500s",
+      "covers": [
+        "The sack of Mainz in 1462 scatters printers; presses open in Subiaco and Rome (Sweynheym and Pannartz, 1465), Venice (1469), Paris (1470) and many more towns",
+        "Venice becomes Europe's printing capital; Nicolas Jenson's beautiful roman type (1470)",
+        "Aldus Manutius and the Aldine Press: small, portable octavo books and the first italic type (1501, cut by Francesco Griffo)",
+        "William Caxton prints the first book in English (Recuyell of the Historyes of Troye, Bruges, about 1473–1474) and sets up England's first press in Westminster in 1476, printing Chaucer's Canterbury Tales",
+        "Incunabula: books printed before 1501",
+        "Book prices fall dramatically, and many more kinds of books appear: grammars, travel tales, calendars, medical and legal books"
+      ],
+      "keyFacts": [
+        "By 1500 printing presses were working in more than 250 European towns",
+        "Around 30,000 different editions of incunabula are known; estimates of total copies range roughly from 8 to 20 million",
+        "Caxton's press in Westminster started in 1476"
+      ],
+      "hook": "Cheap, fast printing meant new ideas could now spread faster than anyone could stop them — and an angry monk was about to prove it."
+    },
+    {
+      "n": 13,
+      "title": "Ideas Unleashed: Reformation and Science",
+      "when": "1517 – 1600s",
+      "covers": [
+        "Martin Luther's Ninety-five Theses (1517) are printed and spread across Germany within weeks; pamphlets and woodcut cartoons argue both sides",
+        "Luther's German New Testament (1522) and William Tyndale's English New Testament (1526, printed in Worms) bring the Bible to ordinary readers",
+        "The Catholic Church and rulers respond with censorship, licensing and the Index of Prohibited Books (1559)",
+        "Science: identical printed copies with accurate pictures let scholars check, compare and correct each other — Copernicus's On the Revolutions and Vesalius's Fabrica (both 1543)",
+        "Printed maps, tables and diagrams improve navigation and mathematics",
+        "Historian Elizabeth Eisenstein's idea (1979) that print was an 'agent of change' — and fair debate about how much print alone caused"
+      ],
+      "keyFacts": [
+        "Luther's writings made up a very large share of all printing in Germany in the early 1520s",
+        "Copernicus's book was published in 1543, the year he died",
+        "The Index of Prohibited Books lasted until 1966"
+      ],
+      "hook": "Printing was changing religion and science — next it would change everyday life with news, spelling, and print shops across the globe."
+    },
+    {
+      "n": 14,
+      "title": "News, Spelling and Print Around the World",
+      "when": "1500s – 1700s",
+      "covers": [
+        "The first newspapers: Johann Carolus's 'Relation' in Strasbourg (1605); the first English daily, the Daily Courant (1702)",
+        "Almanacs, broadsides, ballads and posters; Benjamin Franklin as a printer and publisher (Poor Richard's Almanack, 1732–1758)",
+        "Standardized spelling and dictionaries, e.g. Samuel Johnson's Dictionary (1755); more people learn to read",
+        "Copyright begins: Britain's Statute of Anne (1710) gives authors rights for a limited time",
+        "Printing reaches the world: Mexico City (Juan Pablos, 1539), Goa in India (1556), Cambridge, Massachusetts (Stephen Daye's press, Bay Psalm Book 1640)",
+        "The Ottoman Empire: İbrahim Müteferrika's press for Ottoman Turkish books (opened 1727, first book 1729), though Jewish, Armenian and Greek communities had presses earlier"
+      ],
+      "keyFacts": [
+        "The Relation of 1605 is recognized by the World Association of Newspapers as the first newspaper",
+        "The Bay Psalm Book (1640) was the first book printed in British North America",
+        "The Statute of Anne gave a 14-year term, renewable once"
+      ],
+      "hook": "For 350 years printers pulled wooden presses by hand — then came iron, steam and the Industrial Revolution."
+    },
+    {
+      "n": 15,
+      "title": "Steam, Iron and Endless Paper",
+      "when": "1800 – 1880",
+      "covers": [
+        "The all-iron Stanhope press (about 1800) prints bigger sheets with less effort",
+        "Friedrich Koenig's steam-powered cylinder press, first used to print The Times of London on 29 November 1814",
+        "Richard March Hoe's rotary press (1840s) and William Bullock's web press (1863) printing on long continuous rolls of paper; Bullock died in 1867 after an accident with one of his presses",
+        "The papermaking machine: Louis-Nicolas Robert's 1799 patent, developed in England by the Fourdrinier brothers and Bryan Donkin — making paper in continuous rolls",
+        "Paper from wood pulp (Friedrich Gottlob Keller, 1840s) replaces scarce rags, making paper very cheap",
+        "Results: cheap 'penny papers', magazines, serialized novels (like Charles Dickens's), and mass schooling with textbooks"
+      ],
+      "keyFacts": [
+        "Koenig's press printed about 1,100 sheets per hour in 1814, several times faster than a hand press",
+        "Rotary presses by the late 1800s could print tens of thousands of sheets per hour",
+        "Keller's wood-grinding method dates to 1844"
+      ],
+      "hook": "Presses were now lightning fast — but setting the type was still done by hand, one letter at a time, and pictures were hard to print."
+    },
+    {
+      "n": 16,
+      "title": "Typesetting Machines and Printed Pictures",
+      "when": "1796 – 1950",
+      "covers": [
+        "Alois Senefelder invents lithography (around 1796): drawing with greasy crayon on stone, using the fact that oil and water repel each other",
+        "Chromolithography and colorful posters, labels and cards in the 1800s",
+        "Ottmar Mergenthaler's Linotype (first used at the New York Tribune in 1886) casts a whole line of type ('line o' type') from a keyboard",
+        "Tolbert Lanston's Monotype (patented 1887) casts single letters, good for books",
+        "Halftones: turning photos into tiny dots of different sizes — the New York Daily Graphic printed an early halftone photo in 1880",
+        "Effects: huge newspapers with photographs, mass advertising, comics, and new jobs (and lost jobs) for typesetters"
+      ],
+      "keyFacts": [
+        "A Linotype operator could set type several times faster than a hand compositor",
+        "Halftone images look smooth because your eye blends dots too small to notice",
+        "Lithography means 'stone writing' in Greek"
+      ],
+      "hook": "Senefelder's oil-and-water trick was about to become the backbone of almost all modern printing."
+    },
+    {
+      "n": 17,
+      "title": "How Modern Printing Works",
+      "when": "1900 – today",
+      "covers": [
+        "Offset lithography: discovered around 1903–1904 when Ira Washington Rubel found an image transferred from the rubber blanket printed more clearly; ink goes from plate to rubber blanket to paper",
+        "The science of offset: plates have image areas that attract oily ink and non-image areas that hold water and repel it",
+        "Four-color (CMYK) printing: cyan, magenta, yellow and black halftone dots combine to make full-color pictures (subtractive color explained simply)",
+        "Other methods: flexography (packaging), gravure (engraved cylinders for long runs), screen printing (T-shirts)",
+        "Chester Carlson invents xerography in 1938; the Xerox 914 copier (1959) makes copying fast",
+        "Gary Starkweather's laser printer at Xerox PARC (1971); home inkjet and laser printers in the 1980s (e.g. HP LaserJet, 1984) — how static electricity and toner, or tiny ink droplets, form letters"
+      ],
+      "keyFacts": [
+        "Carlson's first xerographic copy read '10-22-38 Astoria' (22 October 1938)",
+        "Modern web offset presses can print tens of thousands of newspapers per hour",
+        "Inkjet printers fire droplets measured in picoliters (trillionths of a liter)"
+      ],
+      "hook": "Printing had become fast, colorful and everywhere — but all that power also brought serious problems."
+    },
+    {
+      "n": 18,
+      "title": "The Dark Side of Print",
+      "when": "1500s – today",
+      "covers": [
+        "Censorship and book burnings, e.g. the Nazi book burnings of 10 May 1933; banned books and jailed printers",
+        "Propaganda and fake news: printed lies, hate pamphlets, and hoaxes like the Great Moon Hoax in the New York Sun (1835)",
+        "Health dangers: lead poisoning in type foundries and print shops; toxic solvents and inks",
+        "Environment: trees, water and energy used for paper; chemical bleaching; recycling paper as a solution",
+        "Acid paper (roughly 1850–1980) slowly turning brittle and yellow in libraries, and efforts to save these books",
+        "Jobs lost to machines (scribes, later hand compositors, later Linotype operators) and fights over copyright and piracy"
+      ],
+      "keyFacts": [
+        "Acidic wood-pulp paper can crumble within decades; acid-free paper can last hundreds of years",
+        "Paper is one of the most recycled materials; fibers can usually be recycled several times (often quoted as about 5–7)",
+        "The Great Moon Hoax claimed in 1835 that life had been seen on the Moon"
+      ],
+      "hook": "Then computers arrived, and printing began to leave paper behind altogether."
+    },
+    {
+      "n": 19,
+      "title": "From Desktop to Digital Publishing",
+      "when": "1950s – today",
+      "covers": [
+        "Phototypesetting replaces hot metal type in the 1960s–1970s",
+        "Michael Hart starts Project Gutenberg in 1971 by typing up the US Declaration of Independence — the first free e-book library",
+        "Desktop publishing (1985): Apple Macintosh, Apple LaserWriter, Aldus PageMaker and Adobe's PostScript language (John Warnock and Charles Geschke) let anyone design pages",
+        "Tim Berners-Lee invents the World Wide Web (proposal 1989, first website 1991) — anyone can publish to the whole world",
+        "E-readers and e-ink (Sony Reader 2006, Amazon Kindle 2007), e-books, blogs, print-on-demand and self-publishing",
+        "Digital libraries and archiving (e.g. the Internet Archive, founded 1996) — and the challenge of keeping digital files readable for centuries"
+      ],
+      "keyFacts": [
+        "Project Gutenberg began on 4 July 1971 and now has tens of thousands of free e-books",
+        "The first website went online in 1991 at CERN",
+        "Printed books are still sold in very large numbers alongside e-books"
+      ],
+      "hook": "Printing now means words on screens — but the newest printers are not printing words at all."
+    },
+    {
+      "n": 20,
+      "title": "The Future of Printing — and the Big Picture",
+      "when": "today and tomorrow",
+      "covers": [
+        "3D printing: Chuck Hull's stereolithography (patent filed 1984, granted 1986) builds objects layer by layer; uses today from toys to rocket parts",
+        "Bioprinting (living cells for research tissues), printed electronics, flexible screens and electronic paper",
+        "Will paper survive? Printed books, libraries and paper next to screens and AI-written text",
+        "Big lessons: inventions are built on earlier inventions (clay, paper, woodblocks, metal type, presses, computers), credit is shared across many cultures",
+        "Why copying words matters: freedom of speech, learning, science and memory — and the responsibility to publish truthfully",
+        "Tie the journey together from Uruk's clay tablets to the reader's own screen, inviting the reader to become a publisher too"
+      ],
+      "keyFacts": [
+        "3D printers make objects by adding thin layers, often a fraction of a millimeter thick",
+        "Writing is about 5,000 years old; printing with movable type in Asia about 1,000 years old; Gutenberg's press over 570 years old",
+        "Bioprinted tissues are used in research; printing whole working human organs is not yet possible"
+      ],
+      "hook": "End by reminding readers that every page they read — paper or screen — is the latest step in a 5,000-year story they can now add to."
+    }
+  ],
+  "people": [
+    "Cai Lun (about 50s–121 CE) — Han dynasty court official who in 105 CE reported an improved papermaking method; improved, did not first invent, paper",
+    "Empress Shōtoku of Japan (718–770) — ordered the one million printed Hyakumanto Darani charms",
+    "Wang Jie (lived around 868) — person named in the Diamond Sutra's note as having it made for his parents",
+    "Bi Sheng (about 970–1051) — Chinese commoner who invented clay (ceramic) movable type in the 1040s",
+    "Shen Kuo (1031–1095) — Chinese scholar-official whose Dream Pool Essays described Bi Sheng's type",
+    "Wang Zhen (active about 1290–1333) — Chinese official who made wooden movable type and revolving type tables",
+    "King Sejong the Great of Korea (1397–1450) — created the Hangul alphabet and supported printing",
+    "Wang Yuanlu (about 1849–1931) — Taoist monk who found the Dunhuang library cave in 1900",
+    "Aurel Stein (1862–1943) — Hungarian-British explorer who took the Diamond Sutra to Britain in 1907",
+    "Johannes Gutenberg (about 1400–1468) — Mainz goldsmith and inventor of Europe's movable-type printing system",
+    "Johann Fust (about 1400–1466) — Mainz businessman who financed Gutenberg, then sued him in 1455",
+    "Peter Schoeffer (about 1425–1503) — scribe turned printer who worked with Fust on the 1457 Mainz Psalter",
+    "Andreas Dritzehn (died 1438) — Gutenberg's Strasbourg partner whose death led to the 1439 lawsuit",
+    "Enea Silvio Piccolomini, later Pope Pius II (1405–1464) — wrote in 1455 about seeing Gutenberg Bible pages",
+    "Laurens Janszoon Coster (about 1370–1440) — Haarlem man said by Dutch legend to have printed before Gutenberg; no solid evidence",
+    "Konrad Sweynheym and Arnold Pannartz (active 1465–1470s) — set up Italy's first press at Subiaco",
+    "Nicolas Jenson (about 1420–1480) — French printer in Venice famed for roman type",
+    "Aldus Manutius (about 1450–1515) — Venetian publisher of pocket-size books and the first italic type",
+    "Francesco Griffo (about 1450–1518) — punchcutter who cut the first italic type for Aldus",
+    "William Caxton (about 1422–1491) — first printer of a book in English and of England's first press",
+    "Martin Luther (1483–1546) — German reformer whose printed writings spread rapidly",
+    "William Tyndale (about 1494–1536) — translated and printed the New Testament in English; executed for heresy",
+    "Nicolaus Copernicus (1473–1543) — astronomer whose sun-centered book was printed in 1543",
+    "Andreas Vesalius (1514–1564) — anatomist whose illustrated Fabrica was printed in 1543",
+    "Johann Carolus (1575–1634) — Strasbourg publisher of the 'Relation', the first newspaper (1605)",
+    "Juan Pablos (died 1560) — first printer in the Americas, in Mexico City from 1539",
+    "Stephen Daye (about 1594–1668) — ran the first press in British North America; printed the Bay Psalm Book",
+    "İbrahim Müteferrika (1674–1745) — founded the first Ottoman Turkish-language press",
+    "Benjamin Franklin (1706–1790) — American printer, publisher, scientist and statesman",
+    "Samuel Johnson (1709–1784) — compiled the influential English Dictionary of 1755",
+    "Alois Senefelder (1771–1834) — invented lithography",
+    "Charles Stanhope, 3rd Earl Stanhope (1753–1816) — built the iron Stanhope press",
+    "Louis-Nicolas Robert (1761–1828) — invented the continuous papermaking machine",
+    "Henry and Sealy Fourdrinier (1766–1854; 1773–1847) — English brothers who financed and developed Robert's paper machine",
+    "Bryan Donkin (1768–1855) — English engineer who built the Fourdrinier machines",
+    "Friedrich Koenig (1774–1833) — invented the steam-powered cylinder press",
+    "Friedrich Gottlob Keller (1816–1895) — invented making paper from ground wood pulp",
+    "Richard March Hoe (1812–1886) — American inventor of the rotary printing press",
+    "William Bullock (1813–1867) — invented the web rotary press using rolls of paper",
+    "Ottmar Mergenthaler (1854–1899) — German-American inventor of the Linotype",
+    "Tolbert Lanston (1844–1913) — American inventor of the Monotype",
+    "Ira Washington Rubel (died 1908) — American printer credited with discovering offset printing on paper",
+    "Chester Carlson (1906–1968) — inventor of xerography (photocopying)",
+    "Gary Starkweather (1938–2019) — inventor of the laser printer at Xerox",
+    "John Warnock (1940–2023) and Charles Geschke (1939–2021) — Adobe founders who created PostScript",
+    "Michael Hart (1947–2011) — founder of Project Gutenberg",
+    "Tim Berners-Lee (born 1955) — inventor of the World Wide Web",
+    "Chuck Hull (born 1939) — inventor of stereolithography 3D printing",
+    "Elizabeth Eisenstein (1923–2016) — historian who argued print was an 'agent of change'"
+  ],
+  "glossary": [
+    "cuneiform — wedge-shaped writing pressed into clay, first used in Sumer",
+    "papyrus — a writing material made from pressed strips of a reed plant; not true paper",
+    "parchment / vellum — writing material made from specially prepared animal skin (vellum is fine calfskin)",
+    "codex — a book with pages bound on one side, like books today",
+    "paper — a thin sheet made from plant fibers beaten in water, scooped onto a screen and dried",
+    "woodblock printing — carving a whole page in reverse on wood, inking it and pressing paper on it",
+    "movable type — separate pieces for each character that can be arranged, printed and reused",
+    "punch — a steel rod with a letter carved backwards on its tip, used to make a matrix",
+    "matrix — a piece of copper with a letter-shaped dent, used as the mould for casting type",
+    "type metal — an alloy of lead, tin and antimony used to cast metal type",
+    "compositor — the worker who sets type into lines and pages",
+    "forme — the locked-up pages of type ready to be inked and printed",
+    "platen — the flat plate in a press that pushes paper against the inked type",
+    "incunabula — books printed in Europe before 1501 ('cradle books')",
+    "lithography — printing from a flat surface using the fact that oil and water repel each other",
+    "offset printing — ink goes from a plate to a rubber blanket and then onto paper",
+    "halftone — a picture made of tiny dots of different sizes that the eye blends into shades",
+    "CMYK — cyan, magenta, yellow and black, the four inks used for full-color printing",
+    "xerography — copying with static electricity and powdered toner (how photocopiers and laser printers work)",
+    "3D printing — making a solid object by adding material one thin layer at a time"
+  ],
+  "doNotSay": [
+    "Do not say Gutenberg invented printing or movable type first — woodblock printing (China), ceramic movable type (Bi Sheng, 1040s) and metal type (Korea) came earlier",
+    "Do not say the Gutenberg Bible was the first printed book — the Diamond Sutra (868) and Jikji (1377) are older, and Mainz printed smaller items before the Bible",
+    "Do not say Cai Lun invented paper from nothing — older paper fragments exist; he improved and promoted it",
+    "Do not call papyrus 'paper' or say paper was invented in Egypt",
+    "Do not state as fact that Chinese prisoners from the Battle of Talas (751) brought papermaking west — it is a traditional story",
+    "Do not state as fact that parchment was invented at Pergamon because of a papyrus ban — it is a legend",
+    "Do not state as fact that Laurens Coster printed before Gutenberg — it is a legend",
+    "Do not say Gutenberg got rich or famous in his lifetime — he lost much of his business to Fust and was never wealthy",
+    "Do not give Gutenberg an exact birth date — it is unknown (around 1400)",
+    "Do not say Gutenberg invented the screw press — he adapted presses already used for wine, oil and paper",
+    "Do not state as certain that Luther hammered the Ninety-five Theses onto the Wittenberg church door — historians debate it; what is certain is that they were printed and spread quickly",
+    "Do not say everyone in the Middle Ages was illiterate or that the period was simply a 'Dark Age' with no learning",
+    "Do not say the printing press alone caused the Renaissance, Reformation or Scientific Revolution — it was a powerful helper among many causes",
+    "Do not give an exact number of surviving Gutenberg Bibles other than 'about 49' (complete and partial)",
+    "Do not say 3D printers can already print working human organs for transplant",
+    "Do not invent quotes; do not attribute famous lines (e.g. 'eighth wonder of the world' about the Linotype) to specific people without a reliable source"
+  ]
+}

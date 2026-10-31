@@ -1,0 +1,144 @@
+{
+  "n": 8,
+  "title": "The Long Race to a Gentle Glow",
+  "when": "1802 – 1879",
+  "summary": "For almost eighty years, inventors tried to make a tiny wire glow inside a glass bulb. Their wires kept burning up, melting or turning the glass black. Bit by bit, about twenty different people, from Scotland to Russia to Canada, inched closer to a light bulb that really worked.",
+  "sections": [
+    {
+      "heading": "Why Hot Things Glow",
+      "paragraphs": [
+        "Have you ever watched the rings of an electric cooker, or the bars of an old electric heater, warm up? First nothing seems to happen. Then a dull red glow appears. If the metal could get hotter still, it would turn orange, then yellow, and finally a brilliant white. Blacksmiths have known this for thousands of years: they judged the temperature of a horseshoe in the forge just by its colour.",
+        "Glowing because something is very hot has a scientific name: incandescence. It is the same reason the Sun shines, a candle flame glows yellow, and a fire's embers turn orange. Everything warm gives off some energy as invisible infrared rays (which is why you can feel the heat of a radiator from across a room). Make something hot enough, and some of that energy comes out as visible light too. The hotter it gets, the more light it gives, and the whiter that light looks.",
+        "Now remember what we learned about electric current. When current is pushed through a wire, the wire resists it a little, and that resistance turns some of the electrical energy into heat. Thick copper wires barely warm up. But a very thin wire, or one made of a material that resists current strongly, can get very hot indeed. If you could make such a wire hot enough, it would glow. That is the simple idea behind the incandescent light bulb: heat a thin strip, called a filament, with electricity until it shines.",
+        "People noticed this early. In 1761 the American experimenter Ebenezer Kinnersley, a friend of Benjamin Franklin, used electricity from Leyden jars to make a wire glow red-hot. And in 1802, just two years after Volta's pile, Humphry Davy at the Royal Institution in London passed current from a large battery through a thin strip of platinum. The strip glowed. Davy chose platinum because it melts only at a very high temperature, about 1,770 degrees Celsius, and does not rust or tarnish. The light was weak and did not last, and Davy soon turned his attention to the much brighter carbon arc. But he had shown the principle: electricity could make a solid strip glow without any flame.",
+        "So why did it take nearly eighty more years to turn that glowing strip into a bulb you could buy? To understand the long race, we first need to meet the three enemies that every filament-maker had to defeat."
+      ]
+    },
+    {
+      "heading": "Three Enemies of the Filament",
+      "paragraphs": [
+        "The first enemy was oxygen. About a fifth of the air around us is oxygen, and oxygen loves to combine with hot materials. That is what burning is. Heat a carbon thread in ordinary air and it simply catches fire and turns to ash in moments. Heat a metal wire and oxygen attacks its surface, making it crumble. A filament had to glow at well over 1,000 degrees Celsius to give useful light, and at those temperatures almost anything in air is destroyed quickly. The answer was to take the air away, sealing the filament inside glass and removing the air to make a vacuum, or replacing the air with a gas that does not react, such as nitrogen. But making a really good vacuum turned out to be one of the hardest parts of the whole problem.",
+        "The second enemy was heat itself. To give a good white light, a filament has to be extremely hot, and most metals melt before they get hot enough. Platinum could survive higher temperatures than most, but even platinum lamps had to be run carefully. A little too much current and the filament melted, breaking the circuit. Carbon was another favourite. It does not melt at ordinary pressures at all. Instead, at around 3,600 degrees Celsius it turns straight from solid to vapour, so it can be heated far more than platinum. But carbon had its own problems: it was brittle, hard to shape into thin threads, and in a poor vacuum it slowly turned to vapour even below that temperature.",
+        "The third enemy was blackening. When carbon or metal atoms escaped from the hot filament, they flew across the bulb and stuck to the cool glass, forming a dark film like soot on a chimney. The bulb got dimmer and dimmer, and the filament got thinner and thinner until it snapped. Hidden moisture and leftover air trapped inside the bulb, or soaked into the filament, made this worse, because when the lamp was switched on, the water was split, and the oxygen released attacked the filament.",
+        "And beyond these three enemies stood a fourth problem that had nothing to do with the bulb: where would the electricity come from? Before about 1870, most electricity came from batteries, which ate up expensive zinc and acid. Running even one lamp all evening from batteries cost far more than burning gas or oil. Until the dynamos of the 1860s and 1870s made cheap current possible, an electric lamp was a beautiful experiment that almost nobody could afford to use."
+      ]
+    },
+    {
+      "heading": "Platinum Under Glass: The First Lamp Patents",
+      "paragraphs": [
+        "Even so, determined inventors kept trying. In 1835, a schoolteacher in Dundee, Scotland, named James Bowman Lindsay showed a steady electric light at a public meeting and said he could read a book by it from about a foot and a half away. He never developed it into a product, and nobody is quite sure exactly how his lamp was made, but he was clearly thinking about lighting rooms with electricity decades ahead of most people. In 1838 a Belgian lithographer, Marcellin Jobard, suggested and experimented with a carbon filament glowing in a vacuum.",
+        "One of the earliest lamps we know well was made in about 1840 by Warren de la Rue, an English scientist born in Guernsey in 1815. De la Rue was a remarkable person. His family ran a famous London printing and stationery company, which printed playing cards and later stamps and banknotes, and he worked in the business. In his spare time he was a keen astronomer who became a pioneer of photographing the Moon and the Sun, and he photographed the total solar eclipse of 1860.",
+        "De la Rue's lamp was simple and clever. He coiled a thin platinum wire and sealed it inside a glass tube from which he had pumped out as much air as he could. Coiling the wire packed more glowing metal into a small space. Taking away the air meant there was less gas to carry heat away from the wire and less to react with it. When current flowed, the coil glowed. It worked! But platinum was, and still is, extremely expensive, far too costly for lamps that might be sold by the thousand. And the vacuum pumps of the time left plenty of air behind. De la Rue's lamp stayed a laboratory curiosity.",
+        "The first person to get a patent for an incandescent lamp was Frederick de Moleyns, in Britain, in 1841. A patent is an official document from a government that says an invention belongs to the person who registered it, so nobody else can copy and sell it for a number of years without permission. De Moleyns' lamp used platinum wires in a glass globe emptied of air, and he also used powdered carbon (charcoal), which was fed in to glow where the wires met. His bulbs are said to have quickly blackened as the carbon was thrown onto the glass, a sign of the third enemy at work.",
+        "Notice how many of these early attempts used either platinum or carbon. Inventors had worked out that they needed a material that could stand terrible heat. Platinum was reliable but too costly and melted too easily. Carbon was cheap and could take even more heat, but it burned in air and blackened the glass in a poor vacuum. For the next forty years, the race swung back and forth between these two materials, with carbon slowly taking the lead."
+      ]
+    },
+    {
+      "heading": "Carbon Takes the Stage",
+      "paragraphs": [
+        "In 1845 a young American from Cincinnati, Ohio, named John Wellington Starr took the carbon idea further. Instead of platinum, Starr used a small stick of carbon. To keep the oxygen away, he placed it in a vacuum made with mercury: a glass tube filled with mercury was turned upside down, and as the heavy mercury sank, it left an empty space at the top, called a Torricellian vacuum after the Italian scientist who first made one. Starr's carbon glowed brightly in this space. He travelled to England with his lamp, and a British patent for it was taken out in 1845, in the name of his backer, Edward King.",
+        "Sadly, Starr's story ended early. He died in November 1846, when he was only about twenty-four years old, and his lamps were never produced for sale. Yet his work did not vanish. Joseph Swan, a young chemist in the north of England whom you will meet properly in the next part, is often said to have been inspired as a young man by electric lamps demonstrated in the 1840s, possibly including Starr's. Ideas in science often travel like this, from one person's unfinished work into somebody else's notebook.",
+        "Other inventors kept experimenting during the 1850s. In 1851 the famous French stage magician Jean Eugène Robert-Houdin, who loved gadgets as much as tricks, showed off incandescent lamps on his estate near Blois in France. In 1859 an American inventor, Moses Farmer, lit a room in his house in Salem, Massachusetts with platinum lamps. Years later, a young Thomas Edison saw one of Farmer's lamps and asked him for advice. None of these lamps lasted long or cost little enough to sell, but each one taught inventors something.",
+        "You may sometimes read that a German-American watchmaker named Heinrich Göbel made a working bamboo-filament bulb in New York in the 1850s. That claim only appeared in 1893, during lawsuits about light bulb patents, and the courts did not believe it. Historians who have studied the evidence since have concluded the story is not supported, so it is best treated as a legend rather than a real invention."
+      ]
+    },
+    {
+      "heading": "From St Petersburg to Toronto",
+      "paragraphs": [
+        "By the early 1870s, the race had spread across the world. In Russia, a young engineer named Alexander Lodygin was working on electric light. Lodygin had been born in 1847 in the Tambov region, south-east of Moscow, and trained as an army officer before working at a weapons factory in Tula. He was an inventive dreamer who also designed a diving apparatus and an electric flying machine. But his most important work was his lamp.",
+        "Lodygin's lamp used a thin rod of carbon inside a sealed glass container. To protect the carbon, he tried both pumping out the air and filling the container with nitrogen, a gas that does not burn. He applied for a Russian patent in 1872 and showed his lamps at the St Petersburg Institute of Technology in 1873. In 1873 and 1874 his lamps were tried out in experiments in St Petersburg, including lighting in the city's streets and buildings. Imagine walking past at night and seeing a few small, steady white lights in a city lit by flickering gas jets!",
+        "In 1874 Lodygin was granted his Russian patent, and the Petersburg Academy of Sciences awarded him its Lomonosov Prize, an important Russian science award. He also took out patents in several other countries, including Austria, Britain, France and Belgium, and founded a company to make his lamps. But his carbon rods still did not last long enough, and the company struggled. Later, Lodygin moved to France and the United States, where he worked on lamps with filaments made of metals with very high melting points, including tungsten, which would become enormously important in the next century. He returned to Russia for a time and finally died in Brooklyn, New York, in 1923. Russians rightly remember him as one of the inventors of the light bulb.",
+        "Meanwhile, in Toronto, Canada, two men were having the same kind of idea. Henry Woodward, born in 1832, was the inventive one of the pair, and his partner Mathew Evans was a hotel keeper. In July 1874 they filed a Canadian patent for a lamp in which a piece of carbon glowed inside a glass container filled with nitrogen. The patent was granted in August 1874. They later obtained a United States patent as well.",
+        "Woodward and Evans had a working idea but very little money. They tried to find investors to help them build a business and could not. So in 1879 they sold the rights to their American patent to Thomas Edison, whose company wanted to be sure that nobody could block its own lamp in court. To this day, Canada honours Woodward and Evans as inventors of the light bulb. Like Lodygin, they reached the starting line of the real race but were held back by the same problems as everyone else: carbon that did not last, poor vacuums, and the high cost of electricity."
+      ]
+    },
+    {
+      "heading": "The Hidden Hero: Sprengel's Mercury Pump",
+      "paragraphs": [
+        "If you want to know who helped make the light bulb possible, here is a name you may never have heard: Hermann Sprengel. He was not trying to make lamps at all. He was a chemist, born in Hanover in Germany in 1834, who moved to England and worked in London laboratories. And in 1865 he invented a new kind of vacuum pump.",
+        "Older air pumps worked a bit like a bicycle pump in reverse, with pistons and valves sucking air out of a container. They could remove most of the air, but tiny leaks around the valves always let some back in, so they could never get the last traces. Sprengel came up with a completely different method that used falling drops of mercury, the heavy liquid metal.",
+        "Picture a tall, narrow glass tube standing upright. At the top, the tube is connected sideways to the container you want to empty, such as a lamp bulb. Mercury is allowed to drip, one drop at a time, down the tube. Each falling drop fills the tube like a tiny piston, and between one drop and the next, a little bubble of air from the bulb gets trapped. The drops carry the trapped bubbles down and out at the bottom. Drop after drop, bubble after bubble, the air is slowly carried away. The mercury is collected and poured back in at the top to be used again.",
+        "It was slow. Sprengel's early pump took about twenty minutes to empty a container of half a litre. But it had no leaky valves, and it could keep working until almost every last bit of air had gone. It produced a better vacuum than any machine before it, with the pressure inside falling to around a hundred-millionth of normal air pressure. Later inventors improved it further, and the English scientist William Crookes connected several Sprengel pumps in series to make the very empty tubes he used to study glowing electric discharges.",
+        "Here is why it mattered so much. With a really good vacuum, there was almost no oxygen left to attack a carbon filament, and far less gas to carry away the escaping carbon. The second and third enemies of the filament had suddenly become much weaker. By the late 1870s, inventors who used Sprengel-type pumps, and who learned to heat their filaments while pumping to drive out hidden gases, could keep a carbon filament glowing for hours, not minutes. The two most famous light bulb makers, Joseph Swan in England and Thomas Edison in America, both relied on mercury pumps of this kind to empty their bulbs. A great invention is often built on top of a quiet invention that most people never hear about.",
+        "At almost the same moment, the fourth problem was being solved too. As you saw in the last part, the self-exciting dynamos of Siemens, Wheatstone and others, and the smooth Gramme machine of 1871, had made electricity much cheaper to produce. By 1878 the pieces of the puzzle were finally on the table: good vacuums, cheap current from dynamos, and decades of experience with carbon."
+      ]
+    },
+    {
+      "heading": "Building a Lamp by Hand",
+      "paragraphs": [
+        "It is easy to say 'put a filament in a glass bulb and pump out the air', but think about what that really meant in a workshop of the 1870s. There were no factories making bulbs, no ready-made parts and no instruction books. Every lamp was made by hand, and every step was a puzzle of its own.",
+        "First came the glass. A glassblower heated a tube of glass in a hot flame until it was soft and glowing, then blew and turned it to shape a bulb, leaving a narrow neck. Glass is an excellent insulator, so it does not let current leak away, and it is clear, so light shines straight through. But it is also fragile, and it cracks if one part is heated much faster than another.",
+        "Next, the current had to get inside. That sounds simple until you remember that the bulb had to stay perfectly airtight. Two wires had to pass right through the hot glass and be sealed into it. Here inventors hit a surprising problem. When things warm up, they expand, and when they cool, they shrink. Most metals expand and shrink by a different amount from glass, so as a sealed lamp cooled, the metal pulled away from the glass, leaving tiny cracks that let air creep back in. Platinum, by lucky chance, expands and shrinks by almost exactly the same amount as ordinary glass. So even inventors who used carbon filaments usually used short platinum wires to carry the current through the glass. This is one reason platinum stayed in the story long after it was abandoned as a filament.",
+        "Then the filament had to be attached to those lead-in wires without breaking, because carbon threads and rods snapped easily. Inventors tried clamps, tiny screws, and pastes made of carbon to make a good electrical joint. A bad joint got hot, glowed in the wrong place, and failed.",
+        "Finally the bulb was connected to the pump. As the air was slowly removed, experimenters learned to switch the lamp on gently so the filament warmed up while the pump was still running. Heat drove out gases hidden inside the carbon and on the glass, and the pump carried them away. Only then was the narrow neck melted shut in a flame, sealing the vacuum in for good.",
+        "After all that, the lamp had to be tested. How bright was it? Inventors compared it with a standard candle, measuring its brightness in 'candlepower', and they timed how many minutes or hours it lasted before the filament broke or the glass went black. Most early lamps failed these tests quickly, and the inventor went back to the bench to try again. It is no wonder the race took so long."
+      ]
+    },
+    {
+      "heading": "A Bulb With Many Parents",
+      "paragraphs": [
+        "So who invented the light bulb? If you ask most people, they will say one name. But as you have seen, the true answer is long and crowded. Historians Robert Friedel and Paul Israel, who studied the history carefully, listed more than twenty people who built incandescent lamps before Joseph Swan and Thomas Edison made theirs. There were English, Scottish, French, Belgian, Russian, American, Canadian and other inventors, working over almost eighty years, from Davy's glowing platinum strip in 1802 to the late 1870s.",
+        "Each of them added something. Davy showed that a solid strip could glow. De la Rue showed the value of a vacuum and of coiling the wire. De Moleyns got the first patent. Starr and Jobard pushed carbon forward. Lodygin, Woodward and Evans tried nitrogen gas and took out patents in several countries. Sprengel, without meaning to, gave everyone a far better vacuum. And the dynamo builders made the current cheap. It is a bit like a relay race in which most of the runners are forgotten, even though without them nobody would have reached the finishing line.",
+        "Why did all these earlier lamps fail to become everyday products? Partly because the materials were not yet good enough, and partly because the technology around them did not exist. There was no electricity supply in homes, no meters, no sockets and no switches. A light bulb on its own is like a mobile phone in a world with no phone network: clever, but not very useful. The inventors who finally won would be the ones who solved the lamp and, at the same time, thought about the whole system needed to power it.",
+        "By the autumn of 1878, the race had reached its final lap. Newspapers were reporting on electric light almost every week. Gas company shares even wobbled on the stock markets as investors wondered whether electricity was about to put gas lighting out of business. And two men, working thousands of kilometres apart, were closing in on the prize at exactly the same time. One was a quiet, careful chemist in Newcastle upon Tyne, in the north of England, who had first tried carbon filaments nearly thirty years before. The other was a famous American inventor in New Jersey, with a team of skilled helpers and a habit of making bold promises to reporters. In the next part, we travel to Newcastle."
+      ]
+    }
+  ],
+  "deepDive": "Why is a hotter filament so much better? The physics of incandescence says that the total energy given off by a hot object rises extremely fast with temperature, roughly with the fourth power of its absolute temperature (the Stefan–Boltzmann law). At the same time, the peak of its glow shifts from invisible infrared towards visible light as it heats up (Wien's law). A filament at about 1,000 degrees Celsius glows dull red and sends out almost all of its energy as heat. At around 2,000 degrees, a larger share comes out as visible light, though still only a small fraction. This is why platinum, which melts at about 1,770 degrees Celsius, was a dead end: it simply could not run hot enough to be efficient. Carbon, which survives to around 3,600 degrees in a good vacuum, could in principle be pushed much harder, which is why most serious inventors after 1845 bet on it. The other key number was resistance. Early experimenters often used thick carbon rods with low resistance. A low-resistance lamp needs a large current to get hot, and large currents need thick, expensive copper wires to avoid wasting power as heat in the wiring. Historians emphasise that one key step at the end of the 1870s was the realisation that a high-resistance filament, thin and long, would let many lamps run side by side from one supply using much less copper. Robert Friedel and Paul Israel argue that the first truly practical lamp came from combining several factors at once: an effective carbon filament, a high vacuum, high resistance, and a design that suited a complete distribution system. Historians also debate how much credit each early inventor deserves. Patents are not proof that a lamp worked well, and some inventors' claims, such as Heinrich Göbel's, were made long after the event and have been rejected. Others, like Lodygin and Woodward and Evans, have strong documentation but never achieved commercial success. National pride plays a part too: Russian, Canadian, British and American accounts each tend to highlight their own pioneers. A fair summary is that the incandescent lamp was a cumulative invention, built step by step, and that the vacuum pump was as important as any filament.",
+  "funFact": "The Sprengel pump that helped make light bulbs possible worked by letting drops of liquid mercury fall down a glass tube, each drop carrying a tiny bubble of air away with it.",
+  "check": {
+    "q": "Why was Hermann Sprengel's 1865 mercury pump so important for light bulbs?",
+    "a": "It made a much better vacuum, so filaments were not burned up by oxygen",
+    "wrong": [
+      "It made the glass of the bulb stronger",
+      "It produced the electricity that lit the bulbs",
+      "It turned platinum into cheap carbon"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Incandescent light bulb",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Incandescent_light_bulb"
+    },
+    {
+      "title": "Sprengel pump",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sprengel_pump"
+    },
+    {
+      "title": "Alexander Lodygin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Lodygin"
+    },
+    {
+      "title": "Henry Woodward (inventor)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Henry_Woodward_(inventor)"
+    },
+    {
+      "title": "Warren De la Rue",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Warren_De_la_Rue"
+    },
+    {
+      "title": "John Wellington Starr",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Wellington_Starr"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A diagram or museum example of a Sprengel mercury vacuum pump with its tall glass tube",
+      "search": "Sprengel mercury vacuum pump"
+    },
+    {
+      "want": "An early Lodygin carbon incandescent lamp or a portrait photograph of Alexander Lodygin",
+      "search": "Lodygin lamp incandescent 1874"
+    },
+    {
+      "want": "The drawing from Woodward and Evans' 1874 electric lamp patent",
+      "search": "Woodward Evans light bulb patent 1874"
+    }
+  ]
+}

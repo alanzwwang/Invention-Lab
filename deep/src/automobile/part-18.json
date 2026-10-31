@@ -1,0 +1,158 @@
+{
+  "n": 18,
+  "title": "The Electric Comeback",
+  "when": "1990s – today",
+  "summary": "Electric cars were popular in 1900, then almost vanished. Thanks to a powerful new battery invented by three scientists, they came roaring (well, humming) back, and now millions of quiet electric cars are sold every year.",
+  "sections": [
+    {
+      "heading": "Parked, Not Forgotten",
+      "paragraphs": [
+        "Remember the quiet electric cars of 1900, gliding through New York and Paris while gasoline cars clattered and smoked? In Part 7 we saw them lose the race: their heavy lead-acid batteries could only carry them a short way, recharging took hours, and once cheap oil, long roads and the electric self-starter arrived, gasoline won. For most of the 20th century, electric vehicles survived only in quiet corners: milk floats delivering bottles in Britain, golf carts, forklift trucks in warehouses.",
+        "The real problem was always the battery. A battery stores energy in chemicals, and the question that matters for a car is how much energy you can pack into each kilogram. Gasoline is astonishingly good at this. A full tank holding about 50 litres, weighing less than an adult, can carry a car 600 kilometres or more. To store the same useful energy in old lead-acid batteries, you would need a pile weighing well over a tonne. An electric car of 1900, or even of 1990, simply could not carry enough energy to compete.",
+        "So for the electric car to come back, three things had to change. Batteries had to store much more energy for their weight. They had to become much cheaper. And someone had to want electric cars badly enough to build them. The push came first from the place where smog had been discovered: California.",
+        "In 1990 the California Air Resources Board, the agency Arie Haagen-Smit had once led, made a bold rule. To keep selling cars in California, the biggest carmakers would have to sell a small but growing share of zero-emission vehicles, cars with no exhaust at all. In practice, that meant electric cars. The same year, General Motors showed off a sleek electric concept car called the Impact at the Los Angeles Auto Show. The electric car was about to get a second chance."
+      ]
+    },
+    {
+      "heading": "The EV1: The Car That Was Crushed",
+      "paragraphs": [
+        "The Impact became a real car: the General Motors EV1, built from 1996 to 1999. It was a low, smooth two-seater shaped like a teardrop to slip through the air with as little drag as possible. It was built specially as an electric car from the start, not a gasoline car with its engine swapped out, and it was surprisingly quick and quiet. Drivers who tried it often loved it.",
+        "But the EV1 still had the old battery problem. The first version used lead-acid batteries and could go roughly 60 to 100 miles (about 100 to 160 kilometres) on a charge. A later version used nickel-metal hydride batteries, the same type later used in many hybrid cars, and could manage roughly 75 to 150 miles. Only 1,117 EV1s were built in total. And here is the unusual part: you could not buy one. The cars were only leased, which means drivers rented them for a few years and the cars still belonged to GM.",
+        "Meanwhile, carmakers fought the California rule, arguing that customers did not want electric cars and that the technology was not ready. The rule was weakened. GM ended the EV1 program and, between late 2003 and 2004, took back nearly all the cars from their drivers. Some drivers begged to buy their EV1s and were refused. Most of the cars were crushed and shredded. About forty were given to museums and universities with their electric drive systems disabled.",
+        "The end of the EV1 made many people angry. A 2006 documentary film was even titled 'Who Killed the Electric Car?'. GM said the cars were expensive to support and that it could not keep supplying spare parts for so few vehicles. Critics said the company had given up on a promising technology too soon. Either way, the EV1 proved two things. Electric cars could be fun and practical for daily driving, and they still needed a much better battery. That battery already existed. It was hiding inside people's video cameras and mobile phones."
+      ]
+    },
+    {
+      "heading": "The Rocking-Chair Battery",
+      "paragraphs": [
+        "The battery that brought electric cars back to life is the lithium-ion battery, the same kind that powers phones, laptops and cordless tools today. Its story stretches across three countries and three scientists, who shared the 2019 Nobel Prize in Chemistry for it.",
+        "Lithium is the lightest metal in the universe, and it gives up its electrons very eagerly, which makes it perfect for storing energy. But pure lithium metal is also dangerous: it reacts violently with water and can catch fire. In the 1970s, during the oil crisis described in Part 17, a British-born chemist named M. Stanley Whittingham, working for the oil company Exxon in the United States, built an early rechargeable lithium battery. It used a material called titanium disulfide that could soak up lithium between its layers. It worked, but with a lithium metal electrode it was costly and could catch fire, and Exxon dropped the project.",
+        "In 1980 John Goodenough, an American professor working at the University of Oxford in England, found a better material for the positive side of the battery: lithium cobalt oxide. It gave a much higher voltage, about 4 volts, so the battery could store far more energy. Goodenough was already in his late fifties when he made this discovery, and he kept working on batteries into his nineties. When he received the Nobel Prize in 2019 at the age of 97, he became the oldest person ever to win one.",
+        "The last piece came from Japan. In 1985 Akira Yoshino, a chemist at the company Asahi Kasei, replaced the dangerous lithium metal on the negative side with a form of carbon made from petroleum coke. Now neither side contained pure lithium metal. Instead, lithium ions, which are lithium atoms that have given away one electron, could travel back and forth between the two sides. In 1991 Sony, working with Asahi Kasei, began selling the first commercial lithium-ion batteries, at first for a Sony video camera.",
+        "Here is how it works. A lithium-ion battery has two electrodes with a liquid called an electrolyte between them. When you use the battery, lithium ions travel through the electrolyte from the negative side to the positive side, and tuck themselves between layers of the material there, while electrons flow the long way round, through the wires of your phone or car, doing useful work. When you charge it, electricity pushes the ions back the other way. Because the ions rock back and forth between the two sides, scientists sometimes call it a 'rocking-chair battery'.",
+        "Over the following decades, lithium-ion batteries kept getting better and cheaper. In the three decades after 1991 the amount of energy they could hold in the same space roughly tripled. According to the research company BloombergNEF, the average price of a lithium-ion battery pack fell to about 115 dollars per kilowatt-hour in 2024, roughly 90 percent cheaper than in 2010. That one change, more than anything else, is what made the electric comeback possible."
+      ]
+    },
+    {
+      "heading": "Hybrids, a Laptop-Battery Sports Car and the Leaf",
+      "paragraphs": [
+        "Before fully electric cars became practical, there was a halfway step: the hybrid, a car with both a fuel engine and an electric motor with a battery. As we saw in Part 7, Ferdinand Porsche had tried the idea around 1900. Almost a century later, Toyota made it a success. On 10 December 1997 the Toyota Prius went on sale in Japan, and it reached the rest of the world in 2000. Prius is a Latin word that means something like 'before' or 'first', and it was the first hybrid car built in really large numbers.",
+        "A Prius never needs to be plugged in. Its petrol engine and electric motor share the work, and a computer decides from moment to moment which to use. When the car pulls away slowly or creeps through traffic, it can run on electricity alone, silently. When it needs more power, the engine joins in. And when the driver brakes, the electric motor works backwards as a generator, turning the car's motion into electricity to recharge the battery instead of wasting it as heat. The result was a car that used far less fuel in city driving. By 2022 more than 5 million Prius cars had been sold, and hybrid systems spread to many other models.",
+        "The car that made electric cars exciting came from a small new company in California. Tesla Motors was founded on 1 July 2003 by two engineers, Martin Eberhard and Marc Tarpenning. Elon Musk invested millions of dollars and became the company's chairman in 2004, and later its chief executive. Their idea was bold: rather than wait for special car batteries, they would wire together thousands of the small cylindrical lithium-ion cells already being mass-produced for laptop computers.",
+        "The result was the Tesla Roadster, delivered to its first customers in 2008. It was a two-seat sports car built on a chassis based on the British Lotus Elise. Under its body sat a battery pack weighing about 450 kilograms, made of 6,831 laptop-style cells, each about the size of a thick marker pen. The Roadster could go about 393 kilometres (244 miles) on a charge, the first production electric car able to travel more than 200 miles, and it could accelerate from 0 to 60 miles per hour in under 4 seconds. It was very expensive, around 100,000 dollars, and only about 2,450 were sold. But it changed people's minds. Electric cars no longer looked like slow golf carts. They looked fast and fun.",
+        "Tesla's next car, the Model S, was a large family saloon that went on sale in June 2012. It was built in Fremont, California, in a factory Tesla had bought that had once belonged to General Motors and Toyota. The battery sat flat under the floor, leaving room for luggage at both ends. Tesla also started building its own network of fast chargers, called Superchargers, in 2012. The Model S was named Motor Trend's Car of the Year for 2013, and it stayed in production until May 2026.",
+        "Big, established carmakers were moving too. In 2009 Mitsubishi began selling the small i-MiEV, one of the first modern electric cars made in series for ordinary roads. In December 2010 Nissan started delivering the Leaf, a sensible five-door hatchback designed to be an everyday family car at a much lower price than a Tesla. The first Leaf could travel about 160 kilometres on a charge, enough for most people's daily driving. It was the world's best-selling electric car in its early years, and in September 2020 Nissan built its 500,000th Leaf."
+      ]
+    },
+    {
+      "heading": "China Plugs In, and the World Follows",
+      "paragraphs": [
+        "One of the biggest stories of the electric comeback started not in a car factory but in a battery factory. In 1995 a chemist named Wang Chuanfu founded a small company called BYD in Shenzhen, China, to make rechargeable batteries for mobile phones and other electronics. It grew into one of the world's largest battery makers. In 2003 BYD bought a small car company and began making cars of its own.",
+        "BYD moved quickly into electric power. In 2008 it showed the F3DM, described as the world's first production plug-in hybrid (though only small numbers were sold), and in 2009 it unveiled the e6, its first fully electric car. The company developed its own 'Blade' battery, using a chemistry called lithium iron phosphate, which contains no cobalt and is less likely to catch fire. In 2022 BYD stopped making cars that run only on petrol. Its sales rose from about 427,000 cars in 2020 to about 4.27 million in 2024, and in 2025 it overtook Tesla to become the world's largest maker of electric cars.",
+        "BYD is only one of many Chinese companies building electric cars, helped by years of government support, huge battery factories and a vast home market. In 2024 almost half of all new cars sold in China were electric or plug-in hybrid. Chinese cities also run enormous fleets of electric buses, taxis and scooters.",
+        "Around the world, the numbers have grown astonishingly fast. According to the International Energy Agency, more than 17 million electric cars, counting both fully electric cars and plug-in hybrids, were sold worldwide in 2024. That was about one in every five new cars. Ten years earlier, electric cars had been well under one percent of sales.",
+        "The country that went furthest is Norway. For years Norway made electric cars cheaper to buy by excusing them from big purchase taxes and from its 25 percent sales tax, and it let electric car drivers skip road tolls, park for free in many places and sometimes even use bus lanes. Norway set itself a goal that all new cars sold from 2025 should be zero-emission. In 2024 close to nine out of every ten new cars sold in Norway were fully electric. In the streets of Oslo today, a petrol car has become an unusual sight among new models.",
+        "Not every country is moving at the same speed. Electric cars are still a small share of sales in many parts of the world, where prices, charging networks and electricity supply are still catching up. But for the first time since 1900, the electric car is a serious contender in the race."
+      ]
+    },
+    {
+      "heading": "Under the Floor: How an Electric Car Works",
+      "paragraphs": [
+        "Lift the hood of an electric car and you may find... a storage box for your bag. Many electric cars have a small boot at the front, sometimes nicknamed a 'frunk', because there is no big engine to fill the space. So where is everything?",
+        "The heart of the car is the battery pack, usually spread flat across the floor between the wheels like a giant chocolate bar. It is made of hundreds or thousands of individual lithium-ion cells, grouped into modules and wrapped in a strong, sealed case with its own cooling system, because batteries work best and last longest when they are neither too hot nor too cold. Placing this heavy pack low down gives the car a low centre of gravity, which helps it grip corners and makes it harder to tip over.",
+        "The battery stores electricity as direct current, which flows in one direction. Most car motors run on alternating current, which switches direction many times a second. So a box of electronics called an inverter converts one into the other and controls exactly how much power reaches the motor when the driver presses the pedal.",
+        "The motor itself is beautifully simple. It has a fixed outer part called the stator, wrapped in coils of copper wire, and a spinning inner part called the rotor. When electricity flows through the coils in the right pattern, it creates a magnetic field that sweeps around in a circle, dragging the rotor along with it. A gasoline engine has pistons, valves, camshafts, spark plugs and hundreds of moving parts, while an electric motor's main moving part is the rotor itself. Most electric cars do not even need a multi-speed gearbox, because a motor can spin happily from zero to well over 10,000 turns a minute. One single gear is enough.",
+        "Electric motors are also very strong from the moment they start turning. A gasoline engine has to rev up before it gives its best pulling force, called torque. An electric motor gives strong torque instantly. That is why even an ordinary electric family car can feel surprisingly quick when the traffic light turns green.",
+        "The biggest advantage is efficiency. As we saw in Part 8, a gasoline engine wastes most of its fuel as heat, and according to the US Department of Energy only about 12 to 30 percent of the energy in the fuel ends up moving the wheels. Electric motors turn roughly 85 to 90 percent or more of their electrical energy into motion, and the same agency estimates that an electric car delivers more than 77 percent of the energy it takes from the grid to its wheels, even after charging and other losses.",
+        "Electric cars also have a clever trick called regenerative braking. When the driver lifts off the pedal or brakes, the motor switches roles and becomes a generator. The car's forward motion spins it, producing electricity that flows back into the battery, and the effort of generating that electricity slows the car down. In ordinary cars, braking turns motion into wasted heat in the brake discs. In an electric car, a good part of that energy is saved for later, which is especially useful in stop-and-go city traffic. Many electric cars offer 'one-pedal driving', where simply easing off the accelerator slows the car strongly, though normal friction brakes are still there for hard stops.",
+        "Finally, charging. Most owners who have a driveway or garage charge at home overnight, plugging in like a phone. A full charge from an ordinary home charger can take anywhere from about 3 to 12 hours, depending on the car and the charger. On long trips, drivers stop at fast chargers along highways, which can fill a battery from low to about 80 percent in roughly half an hour, time for a meal and a stretch. Engineers are working to make charging faster still."
+      ]
+    },
+    {
+      "heading": "Not So Simple: Mining, Money and Where the Power Comes From",
+      "paragraphs": [
+        "Electric cars are not magic, and they come with real challenges. The first that most people worry about is range: how far a car can go on one charge. Early cars like the first Leaf managed around 160 kilometres; many newer models can manage 400 kilometres or more, though cold weather, high speeds and heaters can reduce that. Charging still takes longer than filling a tank with petrol, and in some places there are not yet enough public chargers. Electric cars have also usually cost more to buy than similar petrol cars, mostly because of the battery, though prices have been falling and running costs are often lower.",
+        "Then there are the materials. Lithium-ion batteries need lithium, and many also use nickel, cobalt, manganese and graphite. All of these must be mined. In the salt flats of Chile's Atacama Desert, one of the driest places on Earth, lithium is produced by pumping up salty underground water and letting it evaporate in huge ponds, which uses large amounts of water in a region where water is scarce. Local communities have raised concerns about the effect on their land and wildlife.",
+        "Cobalt raises even harder questions. Most of the world's cobalt comes from the Democratic Republic of the Congo in central Africa. Some of it is dug by hand in small, unregulated mines where workers, sometimes including children, face dangerous conditions and toxic dust, as human-rights groups and journalists have documented. Carmakers and battery makers are under pressure to trace where their cobalt comes from, and many are switching to battery chemistries, such as lithium iron phosphate, that use no cobalt at all.",
+        "What happens to a battery when it is worn out? Car batteries last longer than many people expected: some studies of real cars have found that batteries often keep most of their capacity after many years of driving, and the US Department of Energy suggests they may last 12 to 15 years in moderate climates. Old car batteries can be given a 'second life' storing electricity for homes or power grids, and then recycled to recover valuable metals. Only a small share of old batteries used to be recycled, but large recycling plants are now being built, because recovered metals mean less new mining.",
+        "Finally, an electric car is only as clean as the electricity that charges it. A car with no exhaust pipe produces no pollution on the street, which is great for the air in cities. But if its electricity comes from a coal power station, some pollution and carbon dioxide are simply moved to the power station's chimney. Most studies find electric cars still produce less carbon dioxide over their whole lives than petrol cars in most countries, and the advantage grows as more electricity comes from wind, solar, hydro and other low-carbon sources. To get the full benefit, cleaner cars need cleaner power."
+      ]
+    },
+    {
+      "heading": "Hydrogen: The Other Car With No Exhaust",
+      "paragraphs": [
+        "Batteries are not the only way to make an electric car. Another idea is to carry hydrogen gas and turn it into electricity on board, using a device called a fuel cell. In a fuel cell, hydrogen from the tank meets oxygen from the air across a thin membrane. Each hydrogen atom is split into a proton, which passes through the membrane, and an electron, which cannot, so it flows out through a circuit instead, powering an electric motor. On the far side, the protons and electrons meet oxygen and join up to make water. The only thing that comes out of the tailpipe is water vapour, sometimes dribbling out as a few drops.",
+        "The best-known hydrogen car is the Toyota Mirai, whose name means 'future' in Japanese. It went on sale in Japan on 15 December 2014 and was described as the first fuel cell car to be mass-produced and sold to the public. The Mirai stores its hydrogen in strong tanks made of carbon fibre at an enormous pressure of about 700 times normal air pressure. Filling up takes only about 3 to 5 minutes, much like a petrol car, and the second-generation Mirai can travel about 650 kilometres on a full tank. In 2021 one set a record by driving about 1,360 kilometres on a single fill.",
+        "So why aren't hydrogen cars everywhere? The biggest problem is finding somewhere to fill up. Hydrogen stations are expensive to build, and there are very few of them. Most countries have almost none, and even California, one of the main markets for hydrogen cars, had only 33 stations at the end of 2017; in 2024 Mirai owners there even sued Toyota over how hard it was to find fuel. Making hydrogen also takes a lot of energy, and today most hydrogen is made from natural gas, which releases carbon dioxide. By late 2022 only about 21,500 Mirais had been sold worldwide, a tiny number compared with millions of battery cars. Hydrogen may prove more useful for big trucks, buses, ships and factories than for family cars, but engineers are still testing many ideas.",
+        "Today, the electric car has come full circle. More than a century after electric taxis hummed through New York and La Jamais Contente zoomed past 100 kilometres per hour, electric motors are once again moving millions of people. But the biggest change of all might be still to come. Engineers are not only changing what powers the car. They are asking whether the car needs a human driver at all."
+      ]
+    }
+  ],
+  "deepDive": "Why did lithium-ion batteries get so much cheaper? Economists describe a 'learning curve': each time the world's total production of something doubles, its cost tends to fall by a fairly steady percentage, because factories get bigger, processes get smarter and suppliers compete. For lithium-ion cells the drop has been roughly 19 percent per doubling, and cell prices have fallen by about 99 percent since 1991. BloombergNEF's surveys put average pack prices at about 115 dollars per kilowatt-hour in 2024, roughly a tenth of their 2010 level. Many analysts have treated about 100 dollars per kilowatt-hour as the point where an electric car can cost about the same to build as a comparable petrol car, though that depends on raw-material prices, which can swing sharply, as lithium did in 2022. Battery chemistry is another active debate. Nickel-rich cells (often called NMC or NCA) store more energy per kilogram and suit long-range cars, while lithium iron phosphate (LFP) cells are cheaper, longer-lasting, safer and cobalt-free but somewhat heavier for the same energy. Researchers are also developing sodium-ion batteries, which avoid lithium altogether, and solid-state batteries, which replace the liquid electrolyte with a solid. Comparing the climate impact of electric and petrol cars requires a 'life-cycle assessment' that counts emissions from mining, manufacturing, driving and disposal. Making a battery creates extra emissions, so an electric car starts life with a larger carbon 'debt'. It pays this back over time because it emits nothing while driving and uses energy far more efficiently. How quickly it pays back depends on the electricity mix: fast in places with lots of hydro or wind power, like Norway, and more slowly where coal dominates. Most published studies find that, over a typical lifetime, battery electric cars produce substantially lower greenhouse gas emissions than similar petrol cars in most regions, and the gap is widening as grids get cleaner. Hydrogen faces an efficiency challenge: turning electricity into hydrogen, compressing it, and turning it back into electricity in a fuel cell loses much more energy than simply storing electricity in a battery, which is one reason most carmakers have focused on batteries.",
+  "funFact": "When John Goodenough received the 2019 Nobel Prize in Chemistry for his work on lithium-ion batteries, he was 97 years old, the oldest person ever to win a Nobel Prize.",
+  "check": {
+    "q": "What does regenerative braking do in an electric car?",
+    "a": "It uses the motor as a generator to recharge the battery while slowing down",
+    "wrong": [
+      "It cools the battery with water from the brakes",
+      "It switches the car to a petrol engine for stopping",
+      "It pumps hydrogen into the fuel cell"
+    ]
+  },
+  "sources": [
+    {
+      "title": "General Motors EV1",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/General_Motors_EV1"
+    },
+    {
+      "title": "Lithium-ion battery",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lithium-ion_battery"
+    },
+    {
+      "title": "Lithium-ion Battery Pack Prices See Largest Drop Since 2017, Falling to $115 per Kilowatt-Hour",
+      "publisher": "BloombergNEF",
+      "url": "https://about.bnef.com/insights/clean-transport/lithium-ion-battery-pack-prices-see-largest-drop-since-2017-falling-to-115-per-kilowatt-hour-bloombergnef/"
+    },
+    {
+      "title": "Tesla Roadster (first generation)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tesla_Roadster_(first_generation)"
+    },
+    {
+      "title": "Toyota Prius",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Toyota_Prius"
+    },
+    {
+      "title": "BYD Auto",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/BYD_Auto"
+    },
+    {
+      "title": "All-Electric Vehicles",
+      "publisher": "US Department of Energy (fueleconomy.gov)",
+      "url": "https://www.fueleconomy.gov/feg/evtech.shtml"
+    },
+    {
+      "title": "Toyota Mirai",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Toyota_Mirai"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A General Motors EV1 electric car, for example one preserved in a museum",
+      "search": "General Motors EV1 electric car"
+    },
+    {
+      "want": "A first-generation Tesla Roadster electric sports car",
+      "search": "Tesla Roadster 2008"
+    },
+    {
+      "want": "An electric car plugged into a public charging station",
+      "search": "electric car charging station plug"
+    }
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "slug": "telescope",
+  "title": "The Telescope",
+  "emoji": "🔭",
+  "tagline": "Two lenses in a tube, and the whole universe opened up",
+  "intro": "Look up on a dark night and you can see a few thousand stars. Look through a telescope and you can see billions of galaxies. This Deep Dive is the story of how people learned to do that. It starts with polished crystals and Italian eyeglasses, jumps to a Dutch spectacle shop in 1608, and follows Galileo as he points a homemade spyglass at the sky and finds mountains on the Moon and moons around Jupiter. Then come Newton's mirror, telescopes longer than a ship, a musician who found a new planet, mountaintop giants, and the discovery that our Milky Way is just one galaxy among countless others. We will learn how lenses and mirrors really work, tune in to radio waves from space, fix a broken space telescope, unfold a golden mirror a million miles from home, and peek at the giant telescopes still being built. Twenty parts, 400 years, one amazing tube. Let's look!",
+  "outline": [
+    {
+      "n": 1,
+      "title": "Eyes on the Sky",
+      "when": "Ancient times – 1601",
+      "covers": [
+        "What people could see with only their eyes: Sun, Moon, about five planets, comets, and a few thousand stars on a dark night",
+        "Ancient sky-watchers: Babylonian astronomers recording planet positions on clay tablets; Greek ideas, including Ptolemy's Earth-centered system (Almagest, around 150 CE)",
+        "Islamic-world observatories such as Ulugh Beg's in Samarkand (1420s) and their careful star catalogs",
+        "Copernicus's 1543 book putting the Sun at the center, and why most people could not yet tell who was right",
+        "Tycho Brahe's giant naked-eye instruments on the island of Hven (1576–1597) and his record-breaking accuracy",
+        "The limits of the human eye: tiny pupil, blurry fine detail, the Milky Way seen only as a glowing cloud"
+      ],
+      "keyFacts": [
+        "Copernicus published On the Revolutions of the Heavenly Spheres in 1543, the year he died",
+        "Tycho Brahe measured star and planet positions to about 1 arcminute (about 1/30 the width of the full Moon) without any telescope",
+        "A fully dark-adapted human pupil opens to only about 7 mm wide",
+        "Tycho died in 1601; his assistant Johannes Kepler inherited his data"
+      ],
+      "hook": "The tools to see more were already sitting on people's noses, they just had to be put together in the right way."
+    },
+    {
+      "n": 2,
+      "title": "Magic Glass: Lenses and Spectacles",
+      "when": "About 750 BCE – 1500s",
+      "covers": [
+        "The Nimrud lens: a polished rock-crystal piece from ancient Assyria (around 750–710 BCE); experts still debate whether it was ever used to magnify",
+        "Roman writer Seneca noting that letters look bigger through a glass globe of water (1st century CE)",
+        "Ibn al-Haytham (Alhazen) and his Book of Optics (written around 1011–1021): light travels into the eye, and careful experiments about refraction",
+        "Medieval 'reading stones' and Roger Bacon's writing about magnifying with curved glass (1260s)",
+        "Eyeglasses invented in northern Italy around 1286, convex lenses for farsightedness; concave lenses for nearsightedness appear by the mid-1400s",
+        "Glassmaking skill in Venice and Murano, and spectacle-makers' shops spreading across Europe, including the Netherlands"
+      ],
+      "keyFacts": [
+        "A 1306 sermon by Friar Giordano da Pisa says eyeglasses had been invented less than 20 years earlier",
+        "Ibn al-Haytham lived about 965 to about 1040 and worked largely in Cairo",
+        "Convex lenses bend light inward (help farsighted people); concave lenses spread light outward (help nearsighted people)"
+      ],
+      "hook": "For 300 years, people held single lenses in their hands, until someone thought to hold two lenses in a line."
+    },
+    {
+      "n": 3,
+      "title": "1608: The Spyglass Appears",
+      "when": "1608 – 1609",
+      "covers": [
+        "Hans Lipperhey, a German-born spectacle maker in Middelburg, Netherlands, asks the government for a patent on a 'device for seeing far' on 2 October 1608",
+        "Jacob Metius of Alkmaar applies for a similar patent weeks later; the patent is refused because the idea was too easy to copy and others knew it",
+        "Zacharias Janssen's claim, made mostly later by his son, and why historians treat it with doubt",
+        "The first spyglass: a convex lens at the front, a concave lens near the eye, magnifying about 3 times",
+        "Why armies and navies cared: seeing enemy ships and soldiers before they could see you",
+        "How news spread fast: a 1608 newsletter about a visit of ambassadors from Siam to Prince Maurice; spyglasses were on sale in Paris by spring 1609",
+        "Thomas Harriot in England draws the Moon through a telescope in July 1609, months before Galileo's observations"
+      ],
+      "keyFacts": [
+        "Lipperhey's patent application is dated 2 October 1608, the earliest written record of a telescope",
+        "Metius applied on 17 October 1608",
+        "The Dutch government paid Lipperhey to build telescopes (including two-eyed versions) even though it denied the patent",
+        "Harriot's Moon sketch is dated 26 July 1609 (old-style English calendar)"
+      ],
+      "hook": "News of the Dutch tube reached a professor in Venice who did not just buy one, he decided to build a better one."
+    },
+    {
+      "n": 4,
+      "title": "Galileo Turns It Upward",
+      "when": "1609 – 1610",
+      "covers": [
+        "Galileo Galilei, math professor at Padua, hears of the spyglass in 1609 and works out how to build his own",
+        "Grinding his own lenses: from about 3x to about 8x, then about 20x by late 1609",
+        "Showing his telescope to Venetian senators in August 1609 and getting a raise and a lifetime job",
+        "The Moon has mountains, craters, and shadows; it is not a perfect smooth ball",
+        "The Milky Way is made of countless faint stars",
+        "Discovering four moons circling Jupiter starting 7 January 1610, and naming them the Medicean Stars after the Medici family",
+        "Publishing Sidereus Nuncius (The Starry Messenger) in March 1610, a short book that became an instant sensation"
+      ],
+      "keyFacts": [
+        "Galileo first saw Jupiter's moons on 7 January 1610",
+        "Sidereus Nuncius was published in Venice in March 1610",
+        "The four moons are now called Io, Europa, Ganymede and Callisto (names proposed by Simon Marius)",
+        "The word 'telescope' was coined in 1611 at a banquet of the Accademia dei Lincei honoring Galileo"
+      ],
+      "hook": "Moons around Jupiter showed not everything circles the Earth, and the next discoveries would put Galileo on a collision course with powerful people."
+    },
+    {
+      "n": 5,
+      "title": "Phases, Spots and Trouble",
+      "when": "1610 – 1642",
+      "covers": [
+        "Venus shows a full set of phases like the Moon (late 1610), which fits a Sun-centered system and not Ptolemy's",
+        "Sunspots and the argument with Jesuit astronomer Christoph Scheiner over who saw them first and what they were",
+        "Saturn looks like it has 'ears', a puzzle not solved for decades",
+        "Kepler confirms Jupiter's moons with a borrowed telescope (1610); some scholars refuse even to look",
+        "The Church's 1616 warning against teaching the Sun-centered idea as fact; Galileo's 1632 Dialogue; his 1633 trial and house arrest",
+        "Galileo's last years at Arcetri, blindness late in life, and death in 1642; the Church formally admitted its error in 1992",
+        "SAFETY box: never look at the Sun through any telescope or binoculars without a proper certified solar filter"
+      ],
+      "keyFacts": [
+        "Galileo was tried in Rome in 1633, forced to recant, and kept under house arrest until his death on 8 January 1642",
+        "Pope John Paul II acknowledged in 1992 that the Church had erred in condemning Galileo",
+        "The phases of Venus proved Venus orbits the Sun"
+      ],
+      "hook": "Galileo's tube had a hidden weakness, a tiny field of view, and his friend Kepler had already worked out a better design on paper."
+    },
+    {
+      "n": 6,
+      "title": "Kepler's Design and the Super-Long Telescopes",
+      "when": "1611 – 1690s",
+      "covers": [
+        "Kepler's book Dioptrice (1611): a telescope with two convex lenses, wider view but upside-down image (fine for stars)",
+        "Christoph Scheiner builds Keplerian telescopes; William Gascoigne adds crosshairs and a micrometer for measuring (around 1640)",
+        "Two big problems explained simply: spherical aberration (blurry focus from curved lenses) and chromatic aberration (rainbow fringes, because each color bends a different amount)",
+        "The weird fix: make lenses very weakly curved, which means very long telescopes; Johannes Hevelius's telescope about 150 feet long in Danzig",
+        "Christiaan Huygens discovers Titan (1655) and explains Saturn's 'ears' as a thin ring (1659); tubeless 'aerial telescopes' hung from poles",
+        "Giovanni Cassini finds four more moons of Saturn and the gap in its rings (Cassini Division, 1675)",
+        "Ole Rømer uses timings of Jupiter's moon Io to show light has a finite speed (1676)"
+      ],
+      "keyFacts": [
+        "Huygens discovered Titan, Saturn's largest moon, in 1655",
+        "Cassini discovered Iapetus (1671), Rhea (1672), Tethys and Dione (1684)",
+        "Rømer's 1676 work showed light takes minutes to cross the solar system; his estimate was too large but the idea was right",
+        "Paris Observatory was founded in 1667 and the Royal Observatory at Greenwich in 1675"
+      ],
+      "hook": "One young scientist in England decided lenses would never beat the rainbow problem, so he threw away the big lens and used a mirror instead."
+    },
+    {
+      "n": 7,
+      "title": "Newton's Mirror",
+      "when": "1663 – 1720s",
+      "covers": [
+        "Isaac Newton's prism experiments (mid-1660s): white light is a mix of colors, so lenses split it",
+        "James Gregory's 1663 design for a reflecting telescope, which he could not get built well",
+        "Newton builds the first practical reflecting telescope in 1668: a curved metal mirror plus a small flat mirror sending light to the side",
+        "Speculum metal (a mix of mostly copper and tin): shiny but tarnishes and reflects only part of the light",
+        "The Royal Society sees it in late 1671 and elects Newton a Fellow in early 1672",
+        "Laurent Cassegrain's 1672 design with a hole in the main mirror (used in many big telescopes today); John Hadley's much better reflector in 1721",
+        "How mirrors avoid the rainbow problem: reflection treats all colors the same"
+      ],
+      "keyFacts": [
+        "Newton's first reflector had a mirror only about 1.3 inches (33 mm) across and a tube about 6 inches long",
+        "It magnified about 35–40 times, as much as refractors many times longer",
+        "Newton was elected to the Royal Society in January 1672"
+      ],
+      "hook": "Newton thought lens telescopes could never be fixed, but he turned out to be wrong, thanks to two different kinds of glass."
+    },
+    {
+      "n": 8,
+      "title": "Fixing the Rainbow: Better Lenses",
+      "when": "1730s – 1838",
+      "covers": [
+        "The achromatic lens: pairing crown glass and flint glass so their color errors cancel out",
+        "Chester Moor Hall makes the first ones around 1733 but keeps quiet; John Dollond patents the idea in 1758, leading to lawsuits",
+        "Making flawless glass is hard: Pierre-Louis Guinand's stirring method for clear flint glass",
+        "Joseph von Fraunhofer, an orphan glassmaker apprentice who survived a building collapse and became a master optician",
+        "Fraunhofer maps hundreds of dark lines in sunlight's rainbow (1814), the start of spectroscopy",
+        "The Dorpat refractor (1824) with a clockwork drive to follow the stars",
+        "Friedrich Bessel uses a Fraunhofer-made instrument to measure the first star distance, 61 Cygni, in 1838"
+      ],
+      "keyFacts": [
+        "Dollond's achromatic lens patent was granted in 1758",
+        "Fraunhofer catalogued about 570 dark lines in the solar spectrum in 1814",
+        "The Dorpat refractor's lens was about 24 cm (9.6 inches) across",
+        "61 Cygni is about 11 light-years away; Bessel's 1838 result was close to that"
+      ],
+      "hook": "Lens-makers were winning in Germany, but in England a music teacher was secretly building the best mirror telescopes on Earth."
+    },
+    {
+      "n": 9,
+      "title": "The Herschels: A New Planet",
+      "when": "1770s – 1840s",
+      "covers": [
+        "William Herschel, German-born musician in Bath, England, grinds his own speculum mirrors, sometimes for 16 hours straight",
+        "Caroline Herschel, his sister, comes from Germany as a singer and becomes an astronomer",
+        "13 March 1781: William spots Uranus, first planet found with a telescope; at first he thought it was a comet",
+        "Named 'Georgium Sidus' after King George III; Johann Bode's name 'Uranus' won in the end; William becomes King's Astronomer",
+        "Caroline discovers comets (first in 1786) and nebulae, and becomes the first woman paid a salary for scientific work (1787)",
+        "The 40-foot telescope with a 48-inch mirror (1789), finding Saturn's moons Enceladus and Mimas",
+        "Star counts to map the shape of the Milky Way, and William's 1800 discovery of infrared light using thermometers and a prism"
+      ],
+      "keyFacts": [
+        "Uranus was discovered on 13 March 1781 with a homemade reflector about 6.2 inches across",
+        "The 40-foot telescope had a mirror about 48 inches (1.2 m) wide and was completed in 1789",
+        "Caroline Herschel discovered 8 comets and received the Royal Astronomical Society's Gold Medal in 1828",
+        "William discovered infrared radiation in 1800"
+      ],
+      "hook": "Telescopes were now finding planets, but they were also quietly changing life on Earth, on ships, maps, battlefields and backyards."
+    },
+    {
+      "n": 10,
+      "title": "Telescopes Change Life on Earth",
+      "when": "1600s – 1900s",
+      "covers": [
+        "Spyglasses on ships and battlefields; sailors and generals depending on them (the Nelson 'blind eye' story at Copenhagen in 1801 is a famous tale, label it as such)",
+        "The longitude problem: Galileo's idea of using Jupiter's moons as a sky clock; Cassini's tables used to map France on land; on ships, marine chronometers won instead",
+        "Royal Observatory, Greenwich (1675) and how careful star timing helped clocks and navigation",
+        "Surveying instruments with telescopic sights help map countries",
+        "Binoculars: Ignazio Porro's prism design (1854) and opera glasses for theaters",
+        "Ideas change too: Earth is not the center, the universe is bigger than anyone thought",
+        "Amateur astronomy: Russell Porter and the Stellafane telescope-makers in Vermont (1920s); John Dobson's cheap, simple telescopes (1960s)"
+      ],
+      "keyFacts": [
+        "Galileo proposed using Jupiter's moons to find longitude in 1612",
+        "John Flamsteed became the first Astronomer Royal at Greenwich in 1675",
+        "Ignazio Porro patented his prism system in 1854",
+        "Amateurs still discover comets, for example Comet Hale-Bopp, found in 1995 by Alan Hale and Thomas Bopp"
+      ],
+      "hook": "Meanwhile, astronomers wanted something no backyard could hold: telescopes so big they needed their own buildings and mountains."
+    },
+    {
+      "n": 11,
+      "title": "The Leviathan and the Great Refractors",
+      "when": "1845 – 1897",
+      "covers": [
+        "Lord Rosse (William Parsons) builds the 'Leviathan of Parsonstown' at Birr Castle, Ireland, in 1845, with a 72-inch mirror",
+        "Rosse sketches the spiral shape of the Whirlpool Galaxy (M51) in 1845, though nobody yet knew what spirals were",
+        "Neptune found in 1846 by Johann Galle (with Heinrich d'Arrest) in Berlin, using Urbain Le Verrier's math prediction; John Couch Adams also predicted it",
+        "Silver-coated glass mirrors (Steinheil and Foucault, 1856–57) replace heavy, tarnishing metal mirrors",
+        "Alvan Clark & Sons, American lens makers; the Lick Observatory 36-inch refractor (1888) on Mount Hamilton",
+        "The Yerkes 40-inch refractor (1897), the largest lens telescope ever used for astronomy",
+        "Why refractors hit a limit: big lenses sag under their own weight and absorb light"
+      ],
+      "keyFacts": [
+        "The Leviathan's mirror was 72 inches (about 1.8 m) across and it was the largest telescope in the world until 1917",
+        "Neptune was found on 23 September 1846, within about 1 degree of Le Verrier's predicted spot",
+        "The Yerkes refractor's lens is 40 inches (about 1 m) across"
+      ],
+      "hook": "Even the biggest eye forgets what it sees, so astronomers handed the job to something that never blinks: the camera."
+    },
+    {
+      "n": 12,
+      "title": "Cameras and Rainbows: Photography and Spectroscopy",
+      "when": "1840 – 1925",
+      "covers": [
+        "John William Draper's photo of the Moon (1840); Henry Draper's photo of the Orion Nebula (1880)",
+        "Long exposures collect light for hours, revealing things too faint for any eye",
+        "Kirchhoff and Bunsen (1859) show each chemical element makes its own pattern of spectral lines, like a barcode",
+        "William and Margaret Huggins prove some nebulae are glowing gas (1864); helium discovered in the Sun's spectrum in 1868, before it was found on Earth",
+        "The Doppler shift explained simply: light from things moving away is stretched redder",
+        "The Harvard 'computers': Williamina Fleming, Annie Jump Cannon (the OBAFGKM star classes), and Henrietta Swan Leavitt's Cepheid law (1912) that let astronomers measure huge distances",
+        "Cecilia Payne shows stars are made mostly of hydrogen and helium (1925); Vesto Slipher measures galaxy speeds (from 1912)"
+      ],
+      "keyFacts": [
+        "Kirchhoff and Bunsen published their spectrum work in 1859",
+        "Helium was spotted in the Sun's spectrum in 1868 (Janssen and Lockyer) and found on Earth in 1895",
+        "Leavitt published her period-luminosity relation for Cepheid stars in 1912",
+        "Annie Jump Cannon classified about 350,000 stars"
+      ],
+      "hook": "Leavitt's ruler was ready; now someone needed a telescope big enough to use it on the mysterious spiral clouds."
+    },
+    {
+      "n": 13,
+      "title": "Giant Mirrors and a Universe of Galaxies",
+      "when": "1904 – 1949",
+      "covers": [
+        "George Ellery Hale, the great telescope builder and fundraiser: Yerkes, then Mount Wilson's 60-inch (1908) and 100-inch Hooker telescope (1917)",
+        "The 1920 'Great Debate' between Harlow Shapley and Heber Curtis: are the spirals inside the Milky Way or separate galaxies?",
+        "Edwin Hubble finds a Cepheid star in the Andromeda 'nebula' in October 1923 and writes 'VAR!' on the photo plate",
+        "Result: Andromeda is far outside the Milky Way; the universe is full of galaxies",
+        "1929: Hubble and Milton Humason show farther galaxies move away faster; Georges Lemaître had predicted this in 1927; today called the Hubble-Lemaître law",
+        "The Palomar 200-inch: the Pyrex disk cast at Corning in 1934, carried across the country by train, dedicated in 1948 as the Hale Telescope (Hale died in 1938)"
+      ],
+      "keyFacts": [
+        "The Hooker telescope's mirror is 100 inches (2.5 m) across and saw first light in 1917",
+        "Hubble found the Andromeda Cepheid on a plate taken 6 October 1923",
+        "The Palomar mirror is 200 inches (5.1 m) across; it was the world's largest effective telescope for about 25 years",
+        "In 2018 the International Astronomical Union recommended the name Hubble-Lemaître law"
+      ],
+      "hook": "Before we go further, let's open up a telescope and see exactly how it pulls off its tricks."
+    },
+    {
+      "n": 14,
+      "title": "How a Telescope Really Works",
+      "when": "The science",
+      "covers": [
+        "Refraction: light bends when it passes between air and glass; a convex lens brings light to a focus",
+        "The two jobs: the objective (big lens or mirror) collects and focuses light; the eyepiece magnifies the image",
+        "Magnification = objective focal length divided by eyepiece focal length, with a worked example",
+        "The most important power is light-gathering, which grows with the area: double the width, four times the light; compare to the 7 mm pupil",
+        "Resolution: bigger apertures see finer detail, but air turbulence ('seeing') blurs it and makes stars twinkle",
+        "Four designs compared: Galilean, Keplerian, Newtonian, Cassegrain",
+        "Mounts: altazimuth (up-down, left-right) vs equatorial (tilted to follow Earth's spin); why too much magnification just makes a big blur"
+      ],
+      "keyFacts": [
+        "A 1,000 mm objective with a 10 mm eyepiece gives 100x magnification",
+        "A 200 mm (8-inch) telescope collects about 800 times more light than a 7 mm pupil ((200/7)^2 is about 816)",
+        "Visible light has wavelengths of about 400–700 nanometers"
+      ],
+      "hook": "But visible light is only a tiny slice of the light in the universe, and the first person to 'see' outside that slice was a phone engineer chasing static."
+    },
+    {
+      "n": 15,
+      "title": "Invisible Light: Radio Telescopes",
+      "when": "1932 – 2022",
+      "covers": [
+        "The electromagnetic spectrum: radio, microwave, infrared, visible, ultraviolet, X-ray, gamma ray, all the same kind of light with different wavelengths",
+        "Karl Jansky at Bell Labs builds a rotating antenna on wheels and finds radio waves from the center of the Milky Way (published 1933)",
+        "Grote Reber builds a 9-meter dish in his backyard in Wheaton, Illinois (1937) and makes the first radio maps of the sky",
+        "Jodrell Bank's 76-meter dish (1957) tracks Sputnik's rocket; Arecibo's 305-meter dish in Puerto Rico (1963)",
+        "Penzias and Wilson find the cosmic microwave background, the afterglow of the Big Bang (1964–65); Maarten Schmidt identifies quasars (1963)",
+        "Jocelyn Bell Burnell discovers pulsars as a PhD student (1967), nicknamed 'LGM-1' as a joke; the 1974 Nobel Prize went to Antony Hewish and Martin Ryle",
+        "Linking dishes together (interferometry): the Very Large Array (1980), China's 500-meter FAST (2016), and the Event Horizon Telescope's first image of a black hole's shadow (2019)"
+      ],
+      "keyFacts": [
+        "The jansky, a unit of radio brightness, is named after Karl Jansky",
+        "Penzias and Wilson won the 1978 Nobel Prize in Physics",
+        "Arecibo collapsed on 1 December 2020",
+        "The Event Horizon Telescope image of the black hole in galaxy M87 was released on 10 April 2019; the Milky Way's black hole Sagittarius A* followed in May 2022"
+      ],
+      "hook": "Radio waves pass through air, but X-rays, most ultraviolet and much infrared don't, so to see the whole sky, telescopes had to leave Earth."
+    },
+    {
+      "n": 16,
+      "title": "Above the Air: Hubble and the Space Telescopes",
+      "when": "1946 – today",
+      "covers": [
+        "Lyman Spitzer's 1946 paper arguing for a telescope in space; Nancy Grace Roman, NASA's first chief of astronomy, the 'mother of Hubble'",
+        "Early space telescopes, including the Uhuru X-ray satellite (1970)",
+        "Hubble launches on Space Shuttle Discovery on 24 April 1990 with a 2.4-meter mirror, and the shock: blurry images",
+        "The flaw explained: the mirror was ground very precisely to the wrong shape, off by about 2.2 micrometers (a tiny fraction of a hair) because a testing tool was set up wrong",
+        "The December 1993 rescue mission adds corrective optics like glasses; five servicing missions in all, the last in 2009",
+        "Big discoveries: the Hubble Deep Field (1995), the Pillars of Creation, helping pin the universe's age at about 13.8 billion years, and evidence for accelerating expansion (1998)",
+        "NASA's Great Observatories: Hubble, Compton, Chandra (X-rays) and Spitzer (infrared)"
+      ],
+      "keyFacts": [
+        "Hubble orbits about 540 km above Earth, circling roughly every 95 minutes",
+        "Servicing missions were flown in 1993, 1997, 1999, 2002 and 2009",
+        "The 1995 Hubble Deep Field, from about 10 days of observations of a tiny patch of sky, showed about 3,000 galaxies",
+        "Hubble is still working; since 2024 it uses just one gyroscope at a time to stretch its life"
+      ],
+      "hook": "Space wasn't the only place to fight the blur, back on Earth engineers learned to build mirrors in pieces and bend them to undo the twinkling."
+    },
+    {
+      "n": 17,
+      "title": "Mirrors in Pieces and Twinkle-Cancelling",
+      "when": "1969 – today",
+      "covers": [
+        "The CCD chip (invented 1969 by Willard Boyle and George Smith at Bell Labs) replaces photo plates; the same idea is in phone cameras",
+        "Keck I and II on Maunakea, Hawaii (1993 and 1996): 10-meter mirrors made of 36 hexagonal segments, designed by Jerry Nelson",
+        "Adaptive optics: measuring the air's wobble and bending a thin mirror hundreds to about a thousand times a second; laser guide stars",
+        "Best sites: high, dry, dark mountains like Maunakea, the Canary Islands and Chile's Atacama Desert",
+        "The Very Large Telescope (four 8.2-meter telescopes, Chile) and ALMA (66 antennas at about 5,000 m, inaugurated 2013)",
+        "The Vera C. Rubin Observatory, named after the astronomer whose galaxy measurements supported dark matter, releases first images in June 2025 with the largest digital camera ever built for astronomy",
+        "False color explained: many astronomy images assign colors to invisible light or filters; that is science, not trickery"
+      ],
+      "keyFacts": [
+        "Boyle and Smith shared the 2009 Nobel Prize in Physics for the CCD",
+        "Each Keck mirror segment is about 1.8 m across",
+        "Rubin's LSST camera has about 3,200 megapixels",
+        "Rubin's first images were released on 23 June 2025"
+      ],
+      "hook": "The boldest idea of all was to fold a giant segmented mirror like origami, rocket it into space, and unfold it a million miles away."
+    },
+    {
+      "n": 18,
+      "title": "JWST: The Golden Eye",
+      "when": "1989 – today",
+      "covers": [
+        "Why infrared: light from the earliest galaxies has been stretched into infrared by the expanding universe, and infrared sees through dust",
+        "The design: 6.5-meter mirror of 18 gold-coated beryllium hexagons; a five-layer sunshield the size of a tennis court; instruments kept extremely cold",
+        "A partnership of NASA, the European Space Agency and the Canadian Space Agency; delays and a cost of about 10 billion dollars",
+        "Launch on an Ariane 5 from French Guiana on 25 December 2021, and the nail-biting month of unfolding",
+        "Its home: orbiting around the L2 point about 1.5 million km from Earth, opposite the Sun",
+        "First images in July 2022; finds very early galaxies and detects carbon dioxide in an exoplanet's atmosphere (WASP-39b, 2022)",
+        "The naming debate about James Webb (NASA chief 1961–1968), described fairly; NASA kept the name after a 2022 review"
+      ],
+      "keyFacts": [
+        "JWST's mirror is 6.5 m across, versus Hubble's 2.4 m",
+        "The sunshield is about 21 m by 14 m",
+        "The first deep-field image was shown on 11 July 2022 and the rest of the first images on 12 July 2022",
+        "In 2024 JWST confirmed a galaxy (JADES-GS-z14-0) seen as it was about 300 million years after the Big Bang"
+      ],
+      "hook": "JWST shows how far telescopes have come, but building, placing and protecting telescopes has never been free of trouble."
+    },
+    {
+      "n": 19,
+      "title": "Trouble in Sight",
+      "when": "1600s – today",
+      "covers": [
+        "Light pollution: most people today can't see the Milky Way from home; effects on wildlife too",
+        "Satellite trails: thousands of new internet satellites (since 2019) streak across telescope images; radio interference from phones and electronics",
+        "Sacred mountains: protests by Native Hawaiians against the Thirty Meter Telescope on Maunakea, especially in 2019; respecting both science and culture",
+        "Expensive mistakes and losses: Hubble's flawed mirror, JWST's cost growth and near cancellation in 2011, the Arecibo collapse",
+        "Who gets the credit: Jocelyn Bell Burnell and the 1974 Nobel; women like the Harvard computers and Caroline Herschel overlooked for years",
+        "Telescopes and secrecy: military spyglasses then and spy satellites now",
+        "Short look back at Galileo's trial as the oldest telescope controversy (do not retell part 5 in detail)"
+      ],
+      "keyFacts": [
+        "A 2016 world atlas of night-sky brightness found more than 80% of the world's people live under light-polluted skies",
+        "That same study found about one-third of humanity cannot see the Milky Way from where they live",
+        "In 2018 Bell Burnell won the 3-million-dollar Breakthrough Prize and donated it to help underrepresented students become physicists"
+      ],
+      "hook": "Despite all the trouble, the biggest telescopes in history are being built right now, and the last part looks ahead and back."
+    },
+    {
+      "n": 20,
+      "title": "Tomorrow's Telescopes and the Big Picture",
+      "when": "Today – 2040s",
+      "covers": [
+        "The Extremely Large Telescope in Chile: a 39-meter mirror of 798 segments, first light planned for about 2029–2030",
+        "The Giant Magellan Telescope (seven 8.4-meter mirrors) and the uncertain future of the Thirty Meter Telescope",
+        "The Nancy Grace Roman Space Telescope (planned launch around 2026–2027) and the Square Kilometre Array being built in Australia and South Africa",
+        "Dream projects: NASA's Habitable Worlds Observatory idea to look for signs of life on Earth-like planets (2040s), radio telescopes on the far side of the Moon",
+        "New 'telescopes' for other messengers: gravitational-wave detectors (LIGO, 2015) and neutrino detectors like IceCube",
+        "Tie together: from a 3x Dutch spyglass to a 39-meter giant; each step solved a problem the last one couldn't (blur, color, faintness, air, invisible light)",
+        "Ending invitation: go outside, find the Moon or Jupiter with binoculars, and see what Galileo saw"
+      ],
+      "keyFacts": [
+        "ESO says the ELT will gather more light than all of today's 8–10 meter optical telescopes combined",
+        "Galileo's best telescope had a lens a few centimeters across; the ELT's mirror is 39 meters",
+        "LIGO first detected gravitational waves on 14 September 2015"
+      ],
+      "hook": "The final line should send the reader outside to look up."
+    }
+  ],
+  "people": [
+    "Ptolemy (about 100–170 CE) — Greek-Egyptian astronomer whose Earth-centered model ruled for 1,400 years",
+    "Ibn al-Haytham / Alhazen (about 965–about 1040) — Arab scientist whose Book of Optics founded the experimental study of light",
+    "Roger Bacon (about 1220–1292) — English friar who wrote about magnifying with lenses",
+    "Nicolaus Copernicus (1473–1543) — Polish astronomer who proposed the Sun-centered system",
+    "Tycho Brahe (1546–1601) — Danish astronomer, the most accurate naked-eye observer",
+    "Hans Lipperhey (about 1570–1619) — spectacle maker in Middelburg; first known telescope patent application, 1608",
+    "Jacob Metius (about 1571–1628) — Dutch instrument maker who also applied for a telescope patent in 1608",
+    "Zacharias Janssen (about 1585–about 1632) — Middelburg spectacle maker; his claim to the telescope is doubtful",
+    "Thomas Harriot (about 1560–1621) — English scientist who drew the Moon through a telescope in July 1609",
+    "Galileo Galilei (1564–1642) — Italian scientist who made the telescope a scientific tool and found Jupiter's moons",
+    "Johannes Kepler (1571–1630) — German astronomer who designed the two-convex-lens telescope (1611)",
+    "Simon Marius (1573–1625) — German astronomer who named Jupiter's four big moons",
+    "Christoph Scheiner (1573–1650) — Jesuit astronomer who studied sunspots and built Keplerian telescopes",
+    "William Gascoigne (1612–1644) — English astronomer who invented the telescope micrometer",
+    "Johannes Hevelius (1611–1687) — Danzig astronomer famous for extremely long telescopes and Moon maps",
+    "Christiaan Huygens (1629–1695) — Dutch scientist who found Titan and explained Saturn's rings",
+    "Giovanni Domenico Cassini (1625–1712) — Italian-French astronomer who found four Saturn moons and the Cassini Division",
+    "Ole Rømer (1644–1710) — Danish astronomer who showed light has a finite speed (1676)",
+    "James Gregory (1638–1675) — Scottish mathematician who designed a reflecting telescope in 1663",
+    "Isaac Newton (1643–1727) — English scientist who built the first practical reflecting telescope (1668)",
+    "Laurent Cassegrain (about 1629–1693) — French priest whose 1672 reflector design is used widely today",
+    "John Hadley (1682–1744) — English maker of the first really good reflecting telescope (1721)",
+    "John Flamsteed (1646–1719) — first Astronomer Royal at Greenwich",
+    "Chester Moor Hall (1703–1771) — English lawyer who first made achromatic lenses (around 1733)",
+    "John Dollond (1706–1761) — English optician who patented the achromatic lens (1758)",
+    "Pierre-Louis Guinand (1748–1824) — Swiss craftsman who improved optical glass making",
+    "Joseph von Fraunhofer (1787–1826) — German optician who mapped dark lines in sunlight and built superb refractors",
+    "Friedrich Bessel (1784–1846) — German astronomer who first measured a star's distance (1838)",
+    "William Herschel (1738–1822) — German-British musician-astronomer who discovered Uranus and infrared light",
+    "Caroline Herschel (1750–1848) — astronomer who discovered comets and nebulae; first woman paid for scientific work",
+    "Johann Bode (1747–1826) — German astronomer who proposed the name Uranus",
+    "Ignazio Porro (1801–1875) — Italian inventor of the prism system used in binoculars",
+    "William Parsons, 3rd Earl of Rosse (1800–1867) — built the 72-inch Leviathan and saw spiral nebulae",
+    "Urbain Le Verrier (1811–1877) — French mathematician who predicted Neptune's position",
+    "John Couch Adams (1819–1892) — English mathematician who also predicted Neptune",
+    "Johann Galle (1812–1910) — German astronomer who first saw Neptune (1846), helped by Heinrich d'Arrest (1822–1875)",
+    "Léon Foucault (1819–1868) and Carl August von Steinheil (1801–1870) — pioneers of silver-coated glass mirrors",
+    "Alvan Clark (1804–1887) — American lens maker whose firm made the Lick and Yerkes lenses",
+    "John William Draper (1811–1882) — took early photographs of the Moon (1840)",
+    "Henry Draper (1837–1882) — photographed the Orion Nebula (1880); a big star catalog is named for him",
+    "Gustav Kirchhoff (1824–1887) and Robert Bunsen (1811–1899) — showed elements have unique spectral lines (1859)",
+    "William Huggins (1824–1910) and Margaret Huggins (1848–1915) — pioneers of astronomical spectroscopy",
+    "Jules Janssen (1824–1907) and Norman Lockyer (1836–1920) — studied the 1868 solar spectrum line that led to helium",
+    "Edward Pickering (1846–1919) — Harvard Observatory director who hired the 'Harvard computers'",
+    "Williamina Fleming (1857–1911) — Harvard astronomer who classified thousands of stars and found the Horsehead Nebula",
+    "Annie Jump Cannon (1863–1941) — created the OBAFGKM star classification",
+    "Henrietta Swan Leavitt (1868–1921) — discovered the Cepheid period-luminosity relation (1912)",
+    "Cecilia Payne-Gaposchkin (1900–1979) — showed stars are mostly hydrogen and helium (1925)",
+    "Vesto Slipher (1875–1969) — measured the speeds of spiral galaxies from 1912",
+    "George Ellery Hale (1868–1938) — built Yerkes, Mount Wilson and planned Palomar",
+    "Harlow Shapley (1885–1972) and Heber Curtis (1872–1942) — opponents in the 1920 Great Debate",
+    "Edwin Hubble (1889–1953) — proved galaxies lie beyond the Milky Way and measured their recession",
+    "Milton Humason (1891–1972) — former mule driver at Mount Wilson who became Hubble's key observing partner",
+    "Georges Lemaître (1894–1966) — Belgian priest-physicist who first proposed the expanding universe (1927)",
+    "Russell W. Porter (1871–1949) — leader of amateur telescope making and Stellafane",
+    "John Dobson (1915–2014) — popularized simple, cheap 'Dobsonian' telescopes and sidewalk astronomy",
+    "Karl Jansky (1905–1950) — Bell Labs engineer who discovered cosmic radio waves",
+    "Grote Reber (1911–2002) — built the first dish radio telescope in his backyard (1937)",
+    "Bernard Lovell (1913–2012) — built the Jodrell Bank 76-meter radio telescope",
+    "Arno Penzias (1933–2024) and Robert Wilson (born 1936) — discovered the cosmic microwave background",
+    "Maarten Schmidt (1929–2022) — identified the first quasar (1963)",
+    "Jocelyn Bell Burnell (born 1943) — discovered pulsars as a PhD student (1967)",
+    "Antony Hewish (1924–2021) and Martin Ryle (1918–1984) — radio astronomers who shared the 1974 Nobel Prize",
+    "Lyman Spitzer (1914–1997) — proposed space telescopes in 1946",
+    "Nancy Grace Roman (1925–2018) — NASA's first chief of astronomy, the 'mother of Hubble'",
+    "Riccardo Giacconi (1931–2018) — pioneer of X-ray astronomy (Uhuru, Chandra)",
+    "Willard Boyle (1924–2011) and George Smith (1930–2025) — invented the CCD (1969)",
+    "Jerry Nelson (1944–2017) — designed the segmented mirrors of the Keck telescopes",
+    "Vera Rubin (1928–2016) — astronomer whose galaxy rotation measurements supported dark matter",
+    "James Webb (1906–1992) — NASA administrator 1961–1968, namesake of JWST"
+  ],
+  "glossary": [
+    "lens — a curved piece of clear glass that bends light",
+    "convex lens — bulges outward in the middle and brings light together to a focus",
+    "refraction — the bending of light when it passes from one material into another, like air into glass",
+    "refracting telescope (refractor) — a telescope that uses a lens to collect and focus light",
+    "reflecting telescope (reflector) — a telescope that uses a curved mirror to collect and focus light",
+    "objective — the big main lens or mirror that collects the light",
+    "eyepiece — the small lens you look through that magnifies the image",
+    "focal length — the distance from a lens or mirror to the point where it brings light into focus",
+    "magnification — how many times bigger something looks; objective focal length divided by eyepiece focal length",
+    "aperture — the width of the main lens or mirror; the most important number of any telescope",
+    "resolution — how fine a detail a telescope can show",
+    "chromatic aberration — rainbow-colored blurring because a lens bends each color by a different amount",
+    "achromatic lens — two lenses of different glass glued or set together so their color errors cancel",
+    "spectrum / spectroscopy — light spread into its colors; studying the lines in it to learn what things are made of and how they move",
+    "electromagnetic spectrum — the whole family of light, from radio waves to gamma rays; our eyes see only a thin slice",
+    "redshift — light stretched toward longer, redder wavelengths, usually because the source is moving away or space is expanding",
+    "interferometry — linking several telescopes so they act like one much bigger telescope for seeing fine detail",
+    "adaptive optics — a system that bends a flexible mirror many times a second to cancel the blur of Earth's air",
+    "CCD — a light-sensing electronic chip that turns light into a digital image",
+    "light-year — the distance light travels in one year, about 9.5 trillion km"
+  ],
+  "doNotSay": [
+    "Galileo invented the telescope (he improved it and used it for science; the first known telescopes appeared in the Netherlands in 1608)",
+    "Galileo was the first person to look at the sky through a telescope (Thomas Harriot drew the Moon earlier in 1609, and others probably looked too)",
+    "The story that Lipperhey got the idea from children playing with lenses in his shop is a legend, not a fact",
+    "Zacharias Janssen definitely invented the telescope (his claim is doubtful and came largely from his son years later)",
+    "Galileo was tortured or burned at the stake (he was threatened, forced to recant, and placed under house arrest; Giordano Bruno was the one burned, in 1600, for other reasons)",
+    "Galileo said 'And yet it moves' at his trial (this is a legend that first appears more than a century later)",
+    "Galileo went blind from looking at the Sun (he went blind late in life, likely from eye disease; the cause is not proven)",
+    "Newton invented the first reflecting telescope design (Gregory designed one earlier; Newton built the first practical working one)",
+    "Edwin Hubble discovered the expanding universe alone (Slipher, Humason and Lemaître made key contributions)",
+    "Hubble the scientist built or designed the Hubble Space Telescope (it was named after him; he died in 1953)",
+    "Space telescopes see better because they are closer to the stars (they see better because they are above Earth's blurring, light-blocking air)",
+    "A telescope's main job is to magnify (collecting light and showing fine detail matter more)",
+    "JWST replaced Hubble or Hubble has been shut down (both are working and do different jobs: Hubble mainly visible/ultraviolet, JWST infrared)",
+    "JWST orbits the Moon or sits perfectly still at L2 (it loops around the L2 point about 1.5 million km away)",
+    "Hubble's mirror was out of focus because someone forgot to focus it (it was ground very precisely to the wrong shape because a testing device was assembled wrongly)",
+    "Radio telescopes let us hear sounds from space (they detect radio waves, a kind of light; any sounds are made by converting the data)",
+    "Space pictures in false color are fake (colors are assigned to show real data, often from light our eyes can't see)",
+    "Arecibo was built to search for aliens (it was built mainly to study Earth's upper atmosphere and became a major radio and radar observatory; it sent one famous message in 1974)",
+    "The Yerkes telescope is the biggest telescope ever (it is the biggest refractor; mirror telescopes are far larger)",
+    "Caroline Herschel was only William's helper (she was a discoverer in her own right)",
+    "Exact dates for the Nimrud lens's use as a magnifier (its purpose is uncertain)",
+    "Stated launch or first-light dates for Roman, ELT, GMT or TMT as certain facts (they are plans that can change)"
+  ]
+}

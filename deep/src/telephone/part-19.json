@@ -1,0 +1,159 @@
+{
+  "n": 19,
+  "title": "The Future of Talking at a Distance",
+  "when": "2000s – the future",
+  "summary": "Today your voice can be chopped into tiny pieces of data, zoom across the internet and be glued back together in a blink. Old phone wires and phone booths are disappearing, while phones are learning to talk straight to satellites in space. Next come faster networks, instant translation and captions that help everyone join the conversation.",
+  "sections": [
+    {
+      "heading": "Your Voice, Chopped into Packets",
+      "paragraphs": [
+        "For about a hundred years, a telephone call worked like a private water pipe. When you called your grandmother, the exchanges connected a continuous path of wire from your phone to hers, and that path belonged to your call alone until you hung up. Engineers call this circuit switching. It was reliable, but wasteful: even when nobody was speaking, the whole circuit sat reserved, carrying silence.",
+        "The internet works in a completely different way, and since the 2000s more and more of our calls have moved onto it. The method is called Voice over Internet Protocol, or VoIP for short (people often say it like the word 'voyp'). Instead of reserving a pipe, VoIP turns your voice into numbers and mails those numbers across the network in thousands of tiny envelopes called packets.",
+        "Here is how it works, step by step. First, a microphone turns the air vibrations of your voice into a changing electric signal, just as Bell's transmitter did in 1876. Next, a chip measures that signal thousands of times every second and writes down each measurement as a number. This is called digitizing, and it turns an analog wave (smooth, like a hill) into digital data (a staircase of ones and zeros). Then a clever program called a codec squeezes the numbers so they take up less room, throwing away details our ears would never notice. Some codecs can shrink a voice down to only about 8,000 bits per second in each direction, a tiny trickle compared with a video stream.",
+        "Finally, the squeezed numbers are cut into small chunks. Each chunk goes into a packet with a label showing where it came from, where it is going and what order it belongs in. The packets are thrown onto the internet, and each one can take its own route through cables, routers and maybe even an undersea fiber before it reaches the other phone. There, the packets are put back in order, unsqueezed and turned back into sound in a speaker. All of this usually happens in a fraction of a second.",
+        "Packets do not always behave. Some arrive late, some arrive out of order and a few get lost entirely. If a phone waited for every lost packet to be sent again, the conversation would stutter and drag, so most voice systems simply skip the missing bits and keep going. To smooth out packets that arrive at uneven times (engineers call this unevenness jitter), the receiving phone keeps a tiny waiting room called a buffer. It holds the packets for a few hundredths of a second and then plays them out at a steady pace. That is why an internet call can sometimes sound a little robotic or choppy when your connection is weak: the waiting room has run empty.",
+        "The idea is older than you might think. In 1973 a computer scientist named Danny Cohen demonstrated sending voice in packets, and in August 1974 researchers tested a Network Voice Protocol over ARPANET, the American research network that grew into the internet. Their computers were so slow that speech had to be squeezed to only about 2,400 bits per second. In 1995 an Israeli company called VocalTec released Internet Phone, one of the first programs that let ordinary people talk through their home computers, if both people had the software, microphones and a lot of patience."
+      ]
+    },
+    {
+      "heading": "Skype and the Free Video Call",
+      "paragraphs": [
+        "Internet calling became famous thanks to a program with a bouncy name: Skype. It was founded in 2003 by two entrepreneurs, Niklas Zennström from Sweden and Janus Friis from Denmark, and the software itself was written by four programmers in Estonia: Ahti Heinla, Priit Kasesalu, Jaan Tallinn and Toivo Annus. The first public test version appeared on August 29, 2003.",
+        "Skype's big promise was simple: calls from one Skype user to another, anywhere in the world, were free. For families split between countries, this felt like magic. A student studying abroad in the 2000s might once have bought expensive phone cards and watched the minutes tick away. With Skype, the same student could talk to their parents for an hour and pay nothing extra beyond their internet connection. Soon Skype added video, and people could see each other's faces, wave at new babies and show off a new puppy across oceans.",
+        "Big companies noticed. The auction website eBay bought Skype in 2005 for about 2.6 billion US dollars, and in 2011 Microsoft bought it for 8.5 billion dollars. In January 2013 more than 50 million people were logged in to Skype at the same moment. But the story did not last forever. Many newer apps arrived, built into phones, social networks and work tools. Microsoft retired Skype on May 5, 2025, and pointed its users to its other calling app, Microsoft Teams.",
+        "Skype's disappearance does not mean internet calling failed. The opposite happened: it won so completely that it became invisible. In 2020, when schools and offices around the world closed during the COVID-19 pandemic, millions of people suddenly met their teachers, coworkers and grandparents through video-calling apps. Classes, birthday parties, doctor's appointments and even weddings happened on screens.",
+        "Even an ordinary call on a modern mobile phone is usually a packet call now. Recent mobile networks carry voice using systems called Voice over LTE (VoLTE) on 4G and Voice over New Radio on 5G. When you tap a contact's name and hear it ring, your voice is very likely being chopped into packets just like a Skype call. The telephone and the internet, which began as separate inventions, have quietly merged into one."
+      ]
+    },
+    {
+      "heading": "Goodbye, Copper Wire",
+      "paragraphs": [
+        "For more than a century, the main network of wired phones was called the public switched telephone network, or PSTN. It was built from copper wires running to homes, giant exchange buildings full of switches, and trunk lines tying cities together. Many of those copper pairs were laid decades ago, and in some neighborhoods the wire running to a house is older than the people living inside it.",
+        "Now many countries are switching that old network off and moving landline calls onto digital, internet-style connections. The reasons are practical. The old equipment is wearing out, spare parts are hard to find, and fewer engineers still know how to repair the ancient switches. Running two networks side by side, an old one and a new one, also costs a lot of money.",
+        "The United Kingdom gives a clear example. Its plan first aimed to retire the old copper landline network by December 2025, but the deadline was pushed back to January 2027 to give people more time to prepare. Customers are moved to digital phone lines that plug into a home broadband router instead of straight into the wall. By September 2026, the company that runs most British phone lines had converted about 90 percent of old lines in ten major cities and the areas around them. Countries such as the Netherlands, Germany, Estonia, Norway, Iceland, Spain and Portugal have also retired, or are retiring, their traditional networks, and many others are planning similar changes.",
+        "At the same time, many families have simply stopped having a home phone at all. In the United States, government health surveys have tracked this for years, and today well over half of adults live in homes that have only mobile phones and no landline. Around the world, mobile subscriptions now outnumber people, while the number of fixed lines has been shrinking.",
+        "The humble phone booth has faded even faster. In the United States there were somewhere around 2.2 to 2.6 million payphones between the mid-1990s and 2000. By 2018 only about 100,000 were left, and New York City removed its last regular public payphone in 2022. In Britain, many of the famous red telephone kiosks are still standing, but their phones are often gone. Local communities have adopted hundreds of them and turned them into tiny libraries, art galleries, information points or homes for defibrillators, the life-saving machines that can restart a heart. A box built for emergency calls can still help in emergencies, just in a new way."
+      ]
+    },
+    {
+      "heading": "Why Some People Still Love the Wire",
+      "paragraphs": [
+        "If the old landline is going away, why do some people want to keep it? The answer is that the old copper network had a few superpowers that are easy to forget.",
+        "The first superpower is electricity. A traditional landline phone gets its small amount of power through the phone line itself, sent out from batteries and generators at the telephone exchange. That means a simple corded phone often keeps working during a blackout, even when every light in the house is out. A digital phone line, by contrast, depends on a router plugged into the wall at home. When the power goes off, the router goes dark and so does the phone, unless there is a backup battery. That is why phone companies switching to digital lines often offer battery backup units, especially to older people, people with disabilities and people who have no mobile phone or poor mobile signal.",
+        "The second superpower is location. An old landline number is tied to a fixed address, so when someone dials an emergency number, the call taker can see where the call is coming from. An internet phone can be carried anywhere, and its network address does not reveal its street. In the United States, internet phone companies must ask customers for a registered address and pass it on to emergency services, but that only works if the address is kept up to date. Engineers are working hard to make every type of call reveal its location as reliably as the old wire did.",
+        "The third issue is the many machines that quietly use phone lines without anyone talking. Burglar alarms, lift emergency phones, some card payment machines and, most importantly, telecare alarms all used the old network. Telecare alarms are pendants or buttons that older or disabled people wear at home; if they fall, they press the button and the alarm phones a response center. Some of these older devices did not work properly on digital lines. Protecting the people who depend on them was one important reason the UK slowed down its switch-off and asked phone companies to check carefully before moving vulnerable customers.",
+        "None of this means the switch is a mistake. Digital lines can carry clearer sound, cost less to run and connect to the same networks that carry the internet. It simply shows a lesson that runs through this whole Deep Dive: when a communication system changes, the people who most need it must not be left behind."
+      ]
+    },
+    {
+      "heading": "Calling from Anywhere: Phones That Talk to Space",
+      "paragraphs": [
+        "Even today, there are huge parts of Earth with no phone towers at all: open oceans, deserts, polar ice, high mountains and remote forests. Cell towers usually reach only a few kilometres, and nobody is going to build one every few kilometres across the Pacific Ocean. For a sailor, a mountain climber or a scientist in Antarctica, the answer has long been a satellite phone.",
+        "A satellite phone skips the towers and talks directly to a satellite overhead. There are two main ways to do this. Some systems use satellites in geostationary orbit, about 36,000 kilometres (22,000 miles) above the equator. Up there, a satellite circles Earth exactly once a day, so it seems to hang still in the sky, and just a few of them can cover most of the planet. The catch is distance: a radio signal must travel up and down tens of thousands of kilometres, so there is a noticeable delay, the same slight echo-like pause you learned about with Telstar. Companies such as Inmarsat and Thuraya use this kind of orbit.",
+        "Other systems use satellites in low Earth orbit, usually a few hundred to a little over a thousand kilometres up. These satellites race around Earth in about an hour and a half, so no single one stays overhead for long. To give constant coverage, a company needs dozens of them working as a team, handing your call from one satellite to the next, a bit like cell towers handing off a call as you drive. Iridium and Globalstar launched systems like this in the late 1990s. Both companies ran into money trouble and went through bankruptcy before being rescued, because building a whole constellation of satellites costs billions of dollars and early customers were few.",
+        "Satellite phones have always had limits. They need a clear view of the sky, so they struggle indoors or in deep valleys. They carry mainly voice, text and slow data, and the calls are much more expensive than ordinary mobile calls. Some countries also restrict or license them. But when an earthquake knocks down towers, or a ship is far out at sea, they can be lifesavers.",
+        "The newest step is even more surprising: ordinary smartphones connecting to satellites directly. In 2022 Apple added a feature to the iPhone 14 that let people send emergency text messages by satellite when they had no mobile signal. The phone shows the user which way to point it to find a satellite, and the messages are squeezed very small because the link is so weak. In January 2024, SpaceX reported successful text-message tests between its Starlink satellites and ordinary phones on T-Mobile's network in the United States, and a commercial service followed. Other companies, such as AST SpaceMobile, are building satellites with enormous antennas to do the same thing.",
+        "How can a small phone reach something hundreds of kilometres away? The trick is mostly on the satellite's side. Each one carries a large, very sensitive antenna and behaves like a cell tower in space, listening for the faint whisper of an ordinary phone's radio. Right now these services mostly handle texts and some data, and they work best outdoors with open sky. Engineers hope that within the next few years, the phrase 'no signal' will become rare almost anywhere on Earth."
+      ]
+    },
+    {
+      "heading": "6G: The Next Generation",
+      "paragraphs": [
+        "Each new generation of mobile network has been given a number. 1G carried analog voice, 2G made calls digital and added texts, 3G brought the mobile internet, 4G made video streaming easy, and 5G, launched in 2019, added more speed and less delay. Engineers are already working on 6G, and it is widely expected to start appearing around 2030.",
+        "Who decides what counts as 6G? An important role belongs to the International Telecommunication Union (ITU), a United Nations agency whose history goes all the way back to 1865, when European countries met to agree on rules for the telegraph. The ITU calls the next generation IMT-2030. In November 2023 its members approved a framework describing what IMT-2030 should be able to do. The timeline then calls for companies and countries to submit candidate technologies between about February 2027 and February 2029, before the final standards are chosen.",
+        "The framework lists six main uses for future networks. One is immersive communication, such as calls that feel like being in the same room. Another is hyper-reliable, low-latency communication, for jobs where every thousandth of a second matters, like controlling machines in a factory or perhaps helping with remote surgery. Others include connecting enormous numbers of small sensors, giving coverage almost everywhere, combining networks with artificial intelligence, and something called integrated sensing, where the radio signals themselves help detect objects and movement around them, a little like radar.",
+        "A key word for 6G is latency, which means delay: how long it takes a signal to make the trip and come back. When you talk to someone, a delay of a quarter of a second already makes conversation awkward, because people start talking over each other. For a game, a robot or a self-driving machine, even tiny delays can matter. Each new generation of network has tried to push latency down, and 6G researchers hope to push it lower still.",
+        "Researchers are also testing higher radio frequencies than today's phones use. Higher frequencies can carry much more data, but they do not travel as far and are easily blocked by walls, leaves and even rain. That means 6G might need many more small antennas, smarter ways to aim signals, and a close partnership with satellites. All of these details are still being worked out, so any claims you read about exact 6G speeds are goals, not promises."
+      ]
+    },
+    {
+      "heading": "Words Without Borders: Translation, Captions and Holograms",
+      "paragraphs": [
+        "Alexander Graham Bell spent much of his life as a teacher of deaf students, and his wife Mabel was deaf. It would surely have fascinated him that some of the most exciting changes in calling today are about helping people who cannot easily hear, or who do not speak the same language.",
+        "One of these is the live caption. Modern phones and video-calling apps can listen to speech and turn it into text on the screen almost instantly, using speech-recognition software trained on huge amounts of recorded talk. Google introduced a Live Caption feature for Android phones in 2019, and many other companies now offer similar captions during calls and video meetings. For deaf and hard-of-hearing people, this builds on a long history that includes Robert Weitbrecht's TTY coupler of the 1960s and the relay services that followed, where a human operator would type out what a hearing caller said. Video calling has also been a big gift to Deaf people who use sign language, because for the first time they can sign to each other directly across long distances.",
+        "Captions are not perfect. They can stumble on accents, names, background noise and technical words, and they work better in some languages than others. That is why human captioners and interpreters still matter, especially for important conversations like medical or legal calls.",
+        "Another big change is machine translation during calls. Some phones and apps can now listen to one language, translate it and speak or display it in another, with only a short delay. Imagine a girl in Brazil talking to her new pen pal in Japan, each in her own language, with a computer translating in between. Today's versions are impressive but can still make funny or serious mistakes, especially with jokes, slang and words that have several meanings. Many people still find it best to learn a little of each other's language too.",
+        "And then there are holograms. Science fiction has long imagined three-dimensional images of callers standing in the room with you. Researchers and companies have built experimental 3D video booths and headset-based calls that make a distant person appear life-sized and solid-looking. These are still mostly demonstrations and expensive experiments, not something you can do from your phone. They are ideas for the future, and it is not yet clear whether they will ever become ordinary. But remember: in 1876 a talking wire also sounded like science fiction."
+      ]
+    },
+    {
+      "heading": "Hard Problems on the Line",
+      "paragraphs": [
+        "The future of calling is exciting, but it comes with serious problems that inventors still need to solve. Some of them may be problems that you will help fix.",
+        "The first is energy. Every call, video chat and message passes through data centers, routers, mobile towers and undersea cables, all of which need electricity, often around the clock. As more people stream more video and as networks grow faster, engineers are trying to make every part of the network do more work with less power, for example by putting quiet parts of a network to sleep when few people are using them.",
+        "The second is electronic waste, or e-waste: thrown-away phones, chargers, cables, computers and other gadgets. According to the Global E-waste Monitor, the world produced about 62 million tonnes of e-waste in 2022, and less than a quarter of it, about 22 percent, was properly collected and recycled. That number is expected to rise to about 82 million tonnes by 2030. Old phones contain useful metals such as copper, gold and cobalt, but also materials that can be harmful if dumped carelessly. Repairing phones, using them for longer and recycling them properly all help.",
+        "The third is keeping networks safe. Almost all intercontinental internet and call traffic travels through undersea cables, and most damage to them comes from accidents such as ship anchors and fishing gear. But governments also worry about deliberate harm. When several cables in the Baltic Sea were damaged in 2023 and 2024, investigators looked closely at ships that had passed overhead. Protecting cables, satellites and towers, and building backups so one break cannot cut off a whole country, has become a major job for engineers and governments.",
+        "The fourth is privacy and trust. Many apps now use end-to-end encryption, which scrambles a call so that only the two phones at the ends can unscramble it, not even the company in the middle. That protects ordinary people, though it also creates hard debates with police who want to investigate crimes. Meanwhile, scam calls keep changing, and computers can now imitate a real person's voice. Some families have agreed on a secret code word, so that if someone calls pretending to be a relative in trouble, they can check whether it is truly them.",
+        "From signal fires to satellites, every leap in communication has brought new benefits and new dangers. The telephone's next chapter will be written by people who keep both in mind.",
+        "Before we look ahead any further, though, it is worth pausing to look back. Picture it: a beacon fire flickering on a dark hilltop, and a satellite gliding silently overhead. Between those two lights lies one of the greatest stories in human invention, and in the final part we will travel the whole journey again, from start to finish."
+      ]
+    }
+  ],
+  "deepDive": "The move from circuit-switched telephony to packet-switched VoIP is a classic engineering trade-off. A traditional digital phone circuit reserved a constant 64 kilobits per second for each direction of a call: 8,000 samples per second, each recorded as an 8-bit number, a scheme standardized as G.711. That bandwidth was used whether anyone spoke or not. Packet networks share capacity among everyone, so idle moments cost almost nothing, and codecs can compress speech far below 64 kbit/s; G.729, for example, uses about 8 kbit/s, and modern adaptive codecs such as Opus adjust their bit rate to the connection. The price is unpredictability. The internet is a 'best-effort' network: it promises to try, not to deliver on time. Voice therefore usually travels over UDP, a protocol that does not resend lost packets, because a resent packet would arrive too late to be useful. Receivers use a jitter buffer, trading a little extra delay for smoother playback, and packet-loss concealment software guesses at missing fragments. The ITU's guidance has long suggested keeping one-way delay below roughly 150 milliseconds for comfortable conversation, which is one reason geostationary satellite links, with roughly 250 milliseconds of one-way delay from orbital distance alone, feel awkward. The switch-off of copper networks raises policy questions that are not purely technical. Copper lines delivered power from the exchange, so landline service survived local blackouts; digital lines depend on customer equipment, and regulators have had to decide how much battery backup providers must offer and to whom. Emergency-location rules differ by country, and the reliability of legacy devices such as telecare alarms has proved a real constraint on timetables. For 6G, the ITU's IMT-2030 framework (Recommendation ITU-R M.2160, approved in 2023) sets out usage scenarios and capabilities rather than a finished design. Candidate technologies are due later in the decade, which is why credible sources describe 6G as expected around 2030 and treat specific performance numbers as research targets rather than guarantees.",
+  "funFact": "When Skype was retired in May 2025, its software was older than many of the teenagers who had used it to call their grandparents: the first public test version came out on August 29, 2003.",
+  "check": {
+    "q": "In VoIP, what happens to your voice before it travels across the internet?",
+    "a": "It is turned into digital data and split into small packets",
+    "wrong": [
+      "It is sent as a continuous current along one reserved copper wire",
+      "It is turned into Morse code and tapped out by an operator",
+      "It is beamed only by geostationary satellites"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Voice over IP",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Voice_over_IP"
+    },
+    {
+      "title": "Skype",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Skype"
+    },
+    {
+      "title": "Public switched telephone network",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Public_switched_telephone_network"
+    },
+    {
+      "title": "Payphone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Payphone"
+    },
+    {
+      "title": "Satellite phone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Satellite_phone"
+    },
+    {
+      "title": "IMT towards 2030 and beyond (IMT-2030)",
+      "publisher": "International Telecommunication Union (ITU)",
+      "url": "https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2030/Pages/default.aspx"
+    },
+    {
+      "title": "The Global E-waste Monitor 2024",
+      "publisher": "UNITAR / ITU Global E-waste Monitor",
+      "url": "https://ewastemonitor.info/the-global-e-waste-monitor-2024/"
+    },
+    {
+      "title": "Starlink",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Starlink"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A red British K6 telephone kiosk that has been turned into a small community library or defibrillator box",
+      "search": "red telephone box library defibrillator"
+    },
+    {
+      "want": "An Iridium satellite phone handset with its thick antenna",
+      "search": "Iridium satellite phone handset"
+    },
+    {
+      "want": "A diagram of how Voice over IP sends voice as data packets across a network",
+      "search": "VoIP diagram network packets"
+    }
+  ]
+}

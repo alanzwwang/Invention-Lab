@@ -1,0 +1,153 @@
+{
+  "n": 16,
+  "title": "Problems, Fights and Hard Questions",
+  "when": "1880s – today",
+  "summary": "For about a hundred years, one giant company ran almost every phone in America, and you could not even buy your own telephone. People listened in on other people's calls, clever tricksters fooled the network with a toy whistle, and even Alexander Graham Bell had ideas that many people today think were badly wrong.",
+  "sections": [
+    {
+      "heading": "Ma Bell: One Company, Almost Every Phone",
+      "paragraphs": [
+        "Imagine if one company owned every phone line, every exchange, every long-distance cable and every single telephone in your country. It decided how much calls cost, which phones you could use and what colour they came in. For most of the twentieth century, that was close to the truth in the United States. The company was the Bell System, led by the American Telephone and Telegraph Company, or AT&T. People nicknamed it 'Ma Bell', as if it were everyone's slightly bossy mother.",
+        "The Bell System had several parts that fitted together like pieces of a machine. AT&T ran the long-distance network. Local 'Bell operating companies', such as New York Telephone or Pacific Telephone, ran service in different regions. Western Electric manufactured the telephones, switches and cables. And Bell Telephone Laboratories, or Bell Labs, did research, inventing things like the transistor. Not every American phone belonged to Bell — there were still independent companies, especially in small towns — but by the middle of the century the Bell System carried the great majority of the country's calls.",
+        "A business that controls almost a whole market is called a monopoly. Normally governments try to stop monopolies, because without competition a company can charge high prices or stop improving its products. The telephone was treated differently. Many people believed one unified network worked best, so that any phone could reach any other. In 1913, after the government threatened legal action, AT&T made a deal known as the Kingsbury Commitment: it agreed to give up control of the Western Union telegraph company and to let independent phone companies connect to its long-distance lines. In return, the Bell System was allowed to keep growing as a 'regulated monopoly', with government agencies watching its prices.",
+        "One of the strangest rules, by today's standards, was that you did not own your telephone. You rented it from the phone company, month after month, often paying the rent for decades, far more than the phone was worth. Most were heavy black desk phones made by Western Electric. They were built to last for years and were so tough you could drop one on the floor without much harm. If you wanted a different colour, a longer cord or an extra phone upstairs, you asked the phone company, and it usually charged you more.",
+        "You were also not allowed to plug your own equipment into the line. AT&T said that 'foreign attachments' — any device not made or approved by the Bell System — might damage the network or cause problems for other callers. There was some truth in the worry: a badly made device really could disturb a line. But the rule also protected AT&T from competition. For years, a company had sold a simple cup called the Hush-A-Phone that fitted onto the mouthpiece so people could talk without being overheard. AT&T objected, and in the 1950s the fight went to court. In 1956 a court decided that harmless attachments like this were allowed, but most electrical devices were still banned.",
+        "Was the Bell System good or bad? The honest answer is both. Because one company planned the whole network, American phone service became famous for being reliable: you picked up the receiver and almost always heard a dial tone. Bell Labs produced world-changing science. But a company with no real rivals had little reason to hurry. New ideas could take years to reach customers, and customers had very little choice. That tension — reliability and size on one side, competition and freedom on the other — sits at the heart of the next big fights."
+      ]
+    },
+    {
+      "heading": "The Carterfone Case: Opening the Door",
+      "paragraphs": [
+        "The real crack in the wall came from a Texan named Thomas Carter. Born in 1924 in Mabank, Texas, he loved radio all his life. During the Second World War he ran a radio station in Juneau, Alaska, that broadcast news and entertainment to troops in remote places. After the war, he ran a two-way radio business for customers such as oil drilling crews and ranchers, people who worked far from any telephone.",
+        "His customers had a problem. They could talk by radio to a base station, but they could not reach anyone on the ordinary phone network. So Carter invented a device he called the Carterfone. At the base station, the operator dialled a normal phone call, then set the telephone handset into a cradle on the Carterfone. The cradle connected the sound from the handset to the radio. A voice-activated switch flipped the radio between talking and listening, so the person in the oil field and the person on the telephone could take turns speaking. Nothing was wired directly into AT&T's lines.",
+        "Starting in 1959, Carter's company assembled Carterfones on wooden tables in a small brick building in Dallas and sold them. AT&T warned customers that anyone using a Carterfone might have their phone service cut off. Frightened customers started sending their devices back. In 1965 Carter sued.",
+        "On June 26, 1968, the Federal Communications Commission ruled in Carter's favour. The decision said that customers could connect devices that were not made by Bell to the telephone network, as long as they did not harm it. This became known as the Carterfone decision, and it changed everything. Over the next years, a flood of new products appeared that plugged into ordinary phone lines: answering machines, fax machines, cordless phones, and modems that let computers talk to each other over telephone lines — the same kind of connection that early home internet users would rely on.",
+        "Carter himself never made much money from his victory. He died in 1991. But in 2001 he was honoured in the Wireless Hall of Fame, and a Carterfone is on display at the Smithsonian's National Museum of American History. It is a good example of how one stubborn small-business owner can change a giant industry."
+      ]
+    },
+    {
+      "heading": "Breaking Up Ma Bell",
+      "paragraphs": [
+        "Carterfone opened the door for other companies to make telephones and gadgets. Soon others wanted to compete in long-distance calls too. A company called MCI built a microwave radio network between cities and fought with AT&T for the right to connect it to local phone lines. The bigger question was whether the Bell System had become too powerful.",
+        "In 1974 the United States Department of Justice sued AT&T under antitrust laws, the laws designed to stop monopolies from crushing competition. The case dragged on for years. Finally, in January 1982, AT&T agreed to a settlement. A federal judge, Harold H. Greene, supervised the details. It was one of the biggest business break-ups in history.",
+        "The break-up took effect on January 1, 1984. AT&T kept its long-distance service, its manufacturing arm Western Electric, and much of Bell Labs. But it had to give away its 22 local telephone companies. These were grouped into seven new regional companies, nicknamed the 'Baby Bells': Ameritech, Bell Atlantic, BellSouth, NYNEX, Pacific Telesis, Southwestern Bell and US West. Each one ran local phone service in its own part of the country.",
+        "What changed for ordinary people? Long-distance calls became cheaper as companies such as MCI and Sprint competed with AT&T, running adverts to win customers. People could buy their own phones instead of renting them, and shops filled with telephones of every shape: see-through phones, phones shaped like cartoon characters, phones with big buttons and memory for favourite numbers. On the other hand, local phone bills often went up, and many people found the new system confusing, with separate companies and separate bills.",
+        "History also has a twist here. Over the following decades, many of the Baby Bells merged back together. In 2005 one of them, by then called SBC Communications (it had grown out of Southwestern Bell), bought AT&T itself and took the famous AT&T name. Another group of former Baby Bells became part of Verizon. Today's phone companies are very different from Ma Bell, but some historians joke that the family got back together."
+      ]
+    },
+    {
+      "heading": "Who Else Is on the Line?",
+      "paragraphs": [
+        "In the early days, a telephone call was never truly private. Every call went through an operator, and the operator could, if she chose, stay on the line and listen. Telephone companies had strict rules forbidding this, and most operators followed them, but people knew it was possible. In a small town where the operator knew everyone, callers sometimes chose their words very carefully.",
+        "Party lines were even leakier. Remember that on a party line, every house heard every ring. Picking up the receiver quietly to listen to the neighbours was so common that people had a slang word for it: 'rubbernecking', after the way curious people stretch their necks to stare. You could sometimes hear a click as another person picked up, or the sound of a clock ticking or a baby crying in somebody else's kitchen. Gossip travelled fast. Some families invented private codes or spoke in another language when they wanted to keep something secret.",
+        "Operators and party lines were not the only leaks. In the early years, telephone wires hung on poles in the open air, and long lines ran side by side for kilometres. Sometimes the electrical signal from one wire leaked faintly into a neighbouring wire, so callers heard ghostly snatches of other people's conversations in the background. Engineers called this 'crosstalk'. Better cable designs, such as twisting each pair of wires around each other, greatly reduced it, but for decades many people simply assumed that someone, somewhere, might be overhearing them.",
+        "Then there was wiretapping, which means secretly connecting to a phone line to listen to calls. It started surprisingly early: police in the United States were already tapping telephone wires in the 1890s. In the 1920s, during Prohibition, when alcohol was illegal in the US, federal agents tapped the phones of a Seattle bootlegger named Roy Olmstead. He argued that this broke the Constitution's protection against unreasonable searches. In 1928, in the case Olmstead v. United States, the Supreme Court disagreed: it said listening to wires outside someone's home was not a 'search'.",
+        "That decision lasted almost forty years. In 1967, in Katz v. United States, the Supreme Court changed its mind. Charles Katz had been recorded making calls from a public phone booth. The court decided that the Constitution protects people, not just places, and that people using a phone have a reasonable expectation of privacy. Police would need a warrant — permission from a judge — before listening. In 1968 Congress passed a law setting out the rules for when and how wiretaps could be approved in criminal investigations.",
+        "These questions have never gone away. Today, arguments continue around the world about when governments should be allowed to collect information about phone calls, text messages and internet data, and how to balance catching criminals with protecting everyone's privacy. The technology is very different from a curious neighbour on a party line, but the basic question — who is allowed to listen? — is exactly the same."
+      ]
+    },
+    {
+      "heading": "Phone Phreaks and the 2600-Hertz Whistle",
+      "paragraphs": [
+        "To understand one of the most famous tricks in telephone history, you need to know how the old long-distance network talked to itself. When long-distance lines were idle and ready for a call, the switching machines signalled this using a musical tone at exactly 2,600 hertz, which means 2,600 vibrations per second. That is a high, piercing note, like a whistle. Other combinations of tones were used to send the digits of the number being called from one exchange to the next. The important thing is that these control tones travelled down the same line as people's voices. Engineers call this 'in-band signalling'.",
+        "That design had a hidden weakness. If the network listened for tones on the same channel as voices, then anybody who could make the right tone could talk to the machines. Around 1957, a blind seven-year-old boy named Joe Engressia, who had perfect pitch, discovered that whistling a particular note into the phone could make the network react. He had found the 2,600-hertz tone with his own voice.",
+        "Later, people discovered that a small plastic toy whistle given away in boxes of Cap'n Crunch breakfast cereal happened to produce almost exactly 2,600 hertz. A man named John Draper became so famous for using it that he took the nickname 'Captain Crunch'. People who explored and tricked the phone network like this were called 'phone phreaks', a mix of 'phone' and 'freak'. Some built electronic gadgets called 'blue boxes' that could produce all the control tones, letting them route calls around the world.",
+        "Ironically, part of what made this possible was information the Bell System had published itself. Its own technical journal printed articles explaining the signalling tones, intended for engineers. In October 1971, a magazine article by Ron Rosenbaum called 'Secrets of the Little Blue Box' told the world about phreaks. Two young friends in California read it: Steve Wozniak and Steve Jobs. They built and sold blue boxes for a while before going on to start a company called Apple.",
+        "Many phreaks said they were just curious explorers who loved understanding a giant, hidden machine. But using a blue box to make free long-distance calls was a crime: it was a way of stealing service that other people paid for, called toll fraud. Several phreaks, including Draper, were arrested and convicted. The phone companies also fixed the weakness. During the 1970s and 1980s, they moved the control signals onto a separate data network, away from the voice channel. This 'out-of-band' system, known as Signalling System No. 7, meant whistles and blue boxes no longer worked. The age of the phone phreak faded, but its spirit of curiosity fed into early computer hacking culture."
+      ]
+    },
+    {
+      "heading": "Today's Troubles: Scams, Screens and Old Phones",
+      "paragraphs": [
+        "Some telephone problems are very modern. If your family has a phone, you have probably heard it ring with a call nobody wanted: a recorded voice offering a prize, warning about a fake problem with a bank account, or pretending to be from the government. Automated calls like these are called robocalls. Scammers use computers to dial thousands of numbers cheaply over the internet, and they often fake the caller ID, the number shown on your screen, to look like a local or trusted number. This trick is called spoofing.",
+        "Governments have fought back. In the United States, the Telephone Consumer Protection Act of 1991 set rules for automated calls, and the National Do Not Call Registry, launched in 2003, lets people sign up to block sales calls. Because scammers simply ignore the rules, the US government later pushed phone companies to adopt a system called STIR/SHAKEN, which digitally checks whether a call really comes from the number it claims. The best protection is still simple: never give personal information, passwords or payment details to someone who calls you unexpectedly — hang up and check with a trusted adult or the real organisation.",
+        "Robocalls are not a small nuisance. In the United States, the government's communications agency has received hundreds of thousands of complaints a year about unwanted calls. Some scams target older people with frightening stories, such as a grandchild supposedly in trouble who needs money right away. Newer scams can even use computer-generated voices that sound like real people, which is why it is wise for families to agree on a simple rule: if a call asks for money or secrets in a hurry, stop and check first.",
+        "Phones have also made roads more dangerous. Talking on a phone while driving is linked to roughly four times the risk of a serious crash, and texting while driving to an even bigger risk. Studies have found that using a hands-free phone is not much safer, because the danger comes from the brain being busy with the conversation, not just from the hands holding the phone. That is why many countries ban holding a phone while driving; the UK did so in 2003, for example. In the US in 2009, distracted drivers were involved in crashes that killed more than 5,000 people.",
+        "Finally there is the question of what happens to old phones. Every phone, from an old dial telephone to a modern smartphone, contains metals and plastics, and some contain harmful substances such as lead or mercury. Broken and unwanted electronics are called e-waste. According to the World Health Organization, the world produced about 62 million tonnes of e-waste in 2022, and only about 22 percent of it was documented as properly collected and recycled. Much of the rest is dumped or taken apart by hand in unsafe conditions, sometimes by children, which can harm people's health. Recycling old phones properly, and keeping phones longer, are small ways everyone can help."
+      ]
+    },
+    {
+      "heading": "A Hard Look at Bell Himself",
+      "paragraphs": [
+        "It might feel strange to end a part about problems by looking at Alexander Graham Bell. He is the hero of much of this story: a brilliant teacher, a devoted husband to Mabel, a man who cared deeply about deaf people. All of that is true. But historians try to look at whole people, not just the shiny parts. And many Deaf people today have very mixed feelings about Bell.",
+        "To understand why, you need to know about a long argument in deaf education. One side believed deaf children should be taught mainly in sign language, a full language made with the hands, face and body. The other side, called 'oralism', believed deaf children should be taught to speak out loud and to lip-read, and that sign language should be discouraged or even banned in schools. Bell was one of the most famous supporters of oralism. He hoped it would help deaf people fit into the hearing world. He gave large amounts of money to promote the teaching of speech, and the organisation he founded is known today as the Alexander Graham Bell Association for the Deaf and Hard of Hearing.",
+        "Oralism became very powerful. In 1880 an international meeting of educators of the deaf, held in Milan, Italy, and attended mostly by hearing people, voted in favour of teaching by speech instead of signs. In the following decades, many schools around the world banned sign language. Deaf children were sometimes punished for signing, and many Deaf teachers lost their jobs. Many deaf students struggled to learn spoken language well enough to follow lessons, and their education suffered. Sign language survived anyway, passed secretly between students and kept alive in Deaf clubs and communities. From the 1960s, the work of researchers such as William Stokoe showed that American Sign Language is a complete language with its own grammar, and sign language slowly returned to classrooms. Many Deaf people see oralism as one of the darkest chapters in their history, and Bell as one of its leaders.",
+        "There is a second difficult subject: eugenics. Eugenics was a set of ideas, popular in the late 1800s and early 1900s, that claimed human society could be 'improved' by controlling who had children. These ideas are now rejected as scientifically wrong and deeply unfair, and in many countries they were used to justify terrible harm, including forcing people to be sterilised so they could not have children. In 1883 Bell gave a paper called 'Memoir upon the Formation of a Deaf Variety of the Human Race', in which he worried that deaf people marrying each other would lead to more deaf children. Later he chaired a scientific board for the Eugenics Record Office, a major American eugenics organisation, and in 1921 he was made honorary president of an international eugenics conference.",
+        "Historians point out important details here too. Bell wrote that society could not dictate whom people should marry, he opposed laws banning deaf people from marrying, and he never called for sterilisation. But his fame lent respectability to a movement that did cause great harm. As many historians have argued, Bell's legacy is complicated: he did real good for many deaf people, and he also helped spread ideas that hurt others. Learning about both sides does not mean we stop admiring the telephone. It means remembering that brilliant inventors are human beings who can be wrong, and that the people most affected by an idea deserve a voice in judging it."
+      ]
+    },
+    {
+      "heading": "Still Tied to the Wall",
+      "paragraphs": [
+        "By the 1970s, the telephone had survived monopolies, court battles, eavesdroppers and whistling tricksters. It had become cheaper, more open to new inventions and more available than ever. Yet for all its success, one big limit had never really been solved. Almost every telephone was still stuck to the wall by a wire. If you wanted to make a call, you had to go to where the phone was. Some engineers had been working for decades on a different dream: a phone that could leave the house and come with you."
+      ]
+    }
+  ],
+  "deepDive": "The Bell System monopoly is a classic case study in economics. Telephone networks have strong 'network effects': each new subscriber makes the network more valuable to everyone else. AT&T president Theodore Vail used this to argue for 'one system, one policy, universal service', and the 1913 Kingsbury Commitment created a regulated monopoly rather than open competition. Critics later argued that the arrangement slowed innovation in customer equipment. The 'foreign attachments' rule shows the tension clearly: AT&T claimed network protection, while the Hush-A-Phone ruling (1956) and the Carterfone decision (1968) pushed toward the principle that any device that did no harm could connect. The FCC later created a registration program so certified equipment could plug straight into standard jacks, which helped make modems, fax machines and answering machines common. Economists still debate the 1984 divestiture. Long-distance prices fell substantially and competition grew, but local rates rose, and the later re-merging of Baby Bells into a few giants (AT&T and Verizon) shows how strong the pull toward concentration remains. Phreaking illustrates a key principle in security engineering: never send control signals on the same channel that users can access. In-band signalling at 2,600 Hz and multifrequency digit tones let anyone who could reproduce the tones command the switches. Moving signalling out of band — first with Common Channel Interoffice Signalling and then Signalling System No. 7 — closed that hole, though researchers have since found different weaknesses in SS7 itself. On wiretapping, Olmstead (1928) treated privacy as tied to physical trespass, while Katz (1967) shifted to a 'reasonable expectation of privacy', a test still argued over in cases about phone records and mobile location data. Bell's legacy is debated in Deaf studies. Some historians stress that Bell explicitly opposed marriage restrictions and never advocated sterilisation; others, including Deaf scholars, argue that his research, prestige and campaigning against sign language did lasting harm to Deaf communities. Both points can be true at once.",
+  "funFact": "A toy whistle given away in Cap'n Crunch cereal boxes could produce a tone of almost exactly 2,600 hertz, close enough to control parts of America's long-distance telephone network.",
+  "check": {
+    "q": "What did the 1968 Carterfone decision allow?",
+    "a": "Connecting non-Bell devices to the phone network if they caused no harm",
+    "wrong": [
+      "Breaking AT&T into seven Baby Bells",
+      "Creating the 911 emergency number",
+      "Banning phone use while driving"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Thomas Carter",
+      "publisher": "Wireless History Foundation",
+      "url": "https://wirelesshistoryfoundation.org/thomas-carter/"
+    },
+    {
+      "title": "Carterfone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Carterfone"
+    },
+    {
+      "title": "Breakup of the Bell System",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Breakup_of_the_Bell_System"
+    },
+    {
+      "title": "Telephone tapping",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Telephone_tapping"
+    },
+    {
+      "title": "Phreaking",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Phreaking"
+    },
+    {
+      "title": "Electronic waste (e-waste) fact sheet",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/electronic-waste-(e-waste)"
+    },
+    {
+      "title": "Oralism and the Deaf Community",
+      "publisher": "Lifeprint (ASL University)",
+      "url": "https://www.lifeprint.com/asl101/topics/oralism-and-the-deaf-community.htm"
+    },
+    {
+      "title": "Alexander Graham Bell",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A blue box tone generator used by phone phreaks, such as the one built by Steve Wozniak, shown in a museum",
+      "search": "blue box Wozniak phreaking museum"
+    },
+    {
+      "want": "A black Western Electric Model 500 rotary desk telephone, the kind rented from the Bell System",
+      "search": "Western Electric 500 telephone black"
+    },
+    {
+      "want": "Photograph of a Carterfone acoustic coupler device linking a telephone handset to a radio",
+      "search": "Carterfone device telephone"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "n": 20,
+  "title": "The Electric Future — and the Whole Story",
+  "when": "Today – the future",
+  "summary": "Tomorrow's cars, heaters and even light bulbs will all talk to the grid and run on electricity. Scientists are trying to copy the Sun's power in tiny bright flashes, and to bring light to millions of families who still have none. And every time you flip a switch, you are joining a relay race that started with a piece of rubbed amber!",
+  "sections": [
+    {
+      "heading": "When the Wires Learn to Talk: The Smart Grid",
+      "paragraphs": [
+        "Picture the electricity grid your great-grandparents knew. Power flowed one way only: from a big power station, along high-voltage lines, through substations and transformers, down the street and into the house. Once a month or so, a person came round to read the meter, a little box with spinning dials, and the family got a bill. The grid had no idea who was using what, minute by minute. Engineers at the power station simply watched the frequency and the demand and turned generators up or down to keep everything balanced, just as you saw in Part 15.",
+        "That old one-way grid is now changing into what engineers call a smart grid. The big idea is that information, not just electricity, flows in both directions. Smart meters in homes send readings automatically, often every half-hour or even every few seconds, so the power company can see exactly when people use electricity, and families can see it on a little screen or a phone app. Sensors along the power lines can spot a fault, such as a tree branch falling on a wire, and switch the power around the broken section automatically. Engineers call this 'self-healing', and it can turn a long blackout into a flicker.",
+        "Electricity can now flow both ways, too. Millions of homes have solar panels on their roofs. On a sunny afternoon, when the family is out at school and work, those panels make more power than the house needs, and the spare electricity flows backward out of the house and into the street's wires for the neighbours to use. A house can be a customer in the evening and a tiny power station at lunchtime.",
+        "A smart grid also helps with the problem you met in Part 19: the Sun and wind cannot be switched on when we want them. Instead of only changing supply to match demand, a smart grid can gently nudge demand to match supply. This is called demand response. Electricity can be cheaper when there is plenty of wind and sunshine and more expensive at the busy evening peak, so a smart washing machine, dishwasher or car charger can wait and run at the cheapest, cleanest time. Some power companies can even ask thousands of air conditioners or water heaters to pause for a few minutes during an emergency, and nobody notices.",
+        "Then there are smart bulbs, the great-great-grandchildren of Swan's and Edison's lamps. Inside is an LED like the ones in Part 18, plus a tiny radio chip. You can dim them, change their colour from warm candle-orange to cool daylight-blue, set them to switch off at bedtime, or ask a voice assistant to turn them on. They can talk to each other and to other devices in the house. Imagine explaining that to Joseph Swan, who had to fight just to keep a carbon thread glowing for a few hours.",
+        "Smart grids have critics, and their worries are fair. A meter that records your electricity use every few minutes can reveal when you are home, asleep or away on holiday, so privacy matters. Anything connected to a network can be attacked by hackers, so cybersecurity is a huge concern for power companies. Engineers today spend as much time thinking about computer security as Edison's team spent thinking about fuses."
+      ]
+    },
+    {
+      "heading": "Electric Everything: Cars, Heat Pumps and the Plug-In World",
+      "paragraphs": [
+        "Here is a twist in our story. For a hundred years, electricity mostly ran lights, motors, machines and gadgets, while cars ran on petrol and most homes were heated by burning gas, oil, coal or wood. Now, all over the world, people are switching those jobs over to electricity too. Engineers call this electrification, and it means the grid will need to carry much more power in the future than it does today.",
+        "Electric cars are not new. Inventors were building electric carriages in the 1830s, and in 1881 the French inventor Gustave Trouvé showed a small electric vehicle in Paris. By 1897 electric taxis were driving around London and New York. They were quiet and did not smell, but their heavy lead-acid batteries ran out quickly, and cheap petrol and Henry Ford's mass-produced cars soon pushed them aside. For most of the twentieth century, electric cars were a curiosity.",
+        "What brought them back was the lithium-ion battery from Part 19, which got lighter, safer and much cheaper. In 2025, about 21 million plug-in electric cars were sold around the world, more than a quarter of all new cars. In some countries, such as Norway, almost every new car sold is now electric. China builds and buys more electric cars than anywhere else.",
+        "Electric cars are also much more efficient. A petrol engine turns only about 15 percent of the energy in its fuel into movement; the rest mostly escapes as heat from the engine and exhaust pipe. An electric car gets roughly three quarters or more of the energy in its battery to the wheels. Its motor is a direct descendant of Faraday's spinning wire from 1821 and Tesla's induction motor from 1888.",
+        "The other big change is the heat pump. A heat pump is basically a refrigerator working backwards. A fridge pulls heat out of its cold inside and dumps it into your kitchen through the coils at the back. A heat pump pulls heat out of the outdoor air, the ground or a lake, even on a cold day, and pumps it into your house. A special liquid called a refrigerant soaks up warmth outside and boils into a gas, an electric compressor squeezes that gas so it gets hotter, and the hot gas gives up its heat inside the house before going round again.",
+        "The amazing part is that a heat pump does not make heat; it moves it. For every unit of electricity it uses, a good air-source heat pump can deliver around three or four units of heat into the home. An ordinary electric heater can only ever give one unit of heat for one unit of electricity. Heat pumps provide only about a tenth of the world's heating today, but in the United States they now outsell gas furnaces, and many countries are encouraging them as a way to cut pollution. Add electric cars, electric buses, electric trains and electric factories, and you can see why many experts say the twenty-first century will be even more electric than the twentieth."
+      ]
+    },
+    {
+      "heading": "Big Ideas in the Laboratory: Starlight, Supercold Wires and Giant Batteries",
+      "paragraphs": [
+        "The Sun makes its energy by fusion: squeezing tiny hydrogen nuclei together so hard and so hot that they join and release energy. Scientists have dreamed for over seventy years of doing this on Earth. Fusion fuel can be made from forms of hydrogen found in seawater and from lithium, it releases no carbon dioxide, and it cannot run away in a chain reaction the way a fission reactor can. The problem is that it needs temperatures of many millions of degrees, hotter than the centre of the Sun.",
+        "On 5 December 2022, at the National Ignition Facility, or NIF, at Lawrence Livermore National Laboratory in California, scientists fired 192 giant laser beams at a target smaller than a pea. The lasers delivered 2.05 megajoules of energy into a small gold cylinder, which turned it into X-rays that crushed a tiny frozen fuel capsule inside. For a split second the capsule produced 3.15 megajoules of fusion energy, more than the laser energy that went in. Scientists call this 'ignition', and they had been chasing it for decades.",
+        "It was a real milestone, but it is important to understand what it did not do. The lasers themselves needed far more electricity from the grid than the experiment released, and NIF fires only a few shots a day; a power plant would need many shots every second, for years. Meanwhile, in southern France, about 35 countries, organised as seven members (China, the European Union, India, Japan, Russia, South Korea and the United States), are building ITER, a giant ring-shaped machine called a tokamak that holds super-hot gas in place with powerful magnets. Its goal is to produce 500 megawatts of fusion heat from 50 megawatts of heating, ten times more out than in. Its current plan is to begin full fusion experiments in the late 2030s. Fusion power stations, if they work, are probably still decades away.",
+        "Another dream is the superconductor. In 1911, the Dutch physicist Heike Kamerlingh Onnes cooled mercury to about minus 269 degrees Celsius, just above the coldest possible temperature, and found that its electrical resistance vanished completely. Not just small: zero. A current set going in a superconducting loop can keep flowing with no battery at all. In 1986 and 1987, scientists discovered new materials, ceramic compounds containing copper, that become superconductors at about minus 180 degrees Celsius, warm enough to be cooled with cheap liquid nitrogen. Superconducting magnets already sit inside every hospital MRI scanner and inside particle accelerators. Engineers have also built short test power cables from superconductors, which can carry several times more power than copper cables of the same size, but the cooling makes them expensive. A superconductor that worked at room temperature would transform the grid. Every few years someone claims to have found one, and so far every claim has failed when other scientists checked it.",
+        "The third big idea is storage on a giant scale. Engineers are building ever larger battery parks, and testing new chemistries such as sodium-ion batteries, which use cheap sodium from salt instead of lithium. Others are experimenting with storing energy as heat in hot sand or rocks, as compressed air in underground caves, or by using spare electricity to split water into hydrogen, Nicholson and Carlisle's experiment from Part 4 now done with whole wind farms. Nobody knows yet which ideas will win, which is exactly what makes this such an exciting time to be a young scientist."
+      ]
+    },
+    {
+      "heading": "Power for Everyone: The Last 666 Million",
+      "paragraphs": [
+        "It is easy to think everyone in the world has electricity. They do not. According to the World Bank and its partners, in 2023 about 666 million people still had no electricity at home. That is more than the populations of the United States, Brazil and Germany put together. About 565 million of them, roughly 85 percent, live in sub-Saharan Africa. In countries such as South Sudan, Chad, Burundi and Malawi, most families still live without power.",
+        "There has been real progress. In 2010 well over a billion people had no electricity, so hundreds of millions have been connected since. India alone brought power to many millions of rural homes during the 2010s. But the last people are the hardest to reach. They often live in villages far from any big power line, scattered across mountains, forests or deserts, and many are poor, so building a long high-voltage line to reach them can cost far more than they could ever pay back.",
+        "Imagine being a child in one of these homes. When the Sun sets, around six in the evening near the equator, your family might light a kerosene lamp, like the ones in Part 1, which is smoky, smelly and a fire risk, or a candle, or a cheap battery torch. Doing homework is hard. The local health clinic may not be able to keep vaccines cold in a fridge, or run a light for a baby born at night. A mobile phone, which many families do have, might need a long walk to a shop with a generator just to be charged.",
+        "This is where the price crash you saw in Part 19 matters most. Solar panels, LEDs and lithium batteries have become so cheap and so efficient that a single small panel on a roof, charging a battery, can now run several bright LED lamps, charge phones and power a radio or small television. These are called solar home systems. In East Africa and elsewhere, families can often pay for them in small amounts using their mobile phones, a bit at a time, like topping up a phone plan.",
+        "For whole villages, engineers build mini-grids: a little local grid, often running on a field of solar panels with batteries and sometimes a small hydro turbine or diesel backup, wired to houses, shops, schools and clinics nearby. By 2022 mini-grids served about 48 million people worldwide. It is the story of Godalming and Pearl Street from Part 12 happening again, only this time powered by sunshine. Between 2020 and 2022, small local renewable systems like these provided more than half of all new electricity connections in sub-Saharan Africa, and experts expect off-grid solar to be the cheapest way to reach about four in ten of the people who still have no power.",
+        "Bringing electricity to everyone is one of the United Nations' Sustainable Development Goals, with a target date of 2030. On current trends the world will probably miss it, but every year the numbers move in the right direction. Some of the most important electrical engineering of the twenty-first century is not happening in famous laboratories, but on rooftops in villages most of us will never visit."
+      ]
+    },
+    {
+      "heading": "What You Can Do: Be a Careful, Curious Electrician of Life",
+      "paragraphs": [
+        "You do not have to wait until you are grown up to be part of this story. Start with saving energy. Every unit of electricity you do not waste is one that no power station has to make. Switch off lights when you leave a room. Turn off games consoles and computers properly instead of leaving them on standby all night. If your family is buying new bulbs, choose LEDs, which, as you saw in Part 18, use about 75 percent less energy than old incandescent bulbs and last many times longer. Shut the fridge door quickly, and dry clothes on a line when the weather is good.",
+        "Next, stay safe. Electricity is just as powerful as it was when Georg Wilhelm Richmann was killed in 1753 studying lightning. Never poke anything into a socket. Keep water and electrical things apart: no phones charging in the bath, and no touching switches with wet hands. Never climb pylons, trees near power lines, or fences around substations, and never fly a kite or a drone anywhere near overhead lines. If you ever see a fallen power line, stay well away and tell an adult to call the emergency services. And when a thunderstorm comes, follow the old safety saying, 'When thunder roars, go indoors.' Remember that Franklin's kite was never actually hit by lightning; if it had been, he would very likely not have survived.",
+        "Most importantly, stay curious. Michael Faraday left school at about 13 with almost no maths. He was a bookbinder's apprentice who read the science books he was binding, went to Humphry Davy's lectures with free tickets, wrote out beautiful notes, and asked for a job. He went on to discover electromagnetic induction, the idea behind every generator on Earth, and he started the Royal Institution Christmas Lectures for young people, which still run today. You can do what he did: ask questions, test ideas with simple experiments, write down what you see, and do not be afraid to be wrong. Edmond Becquerel was 19 when he discovered the photovoltaic effect. Curiosity has no minimum age."
+      ]
+    },
+    {
+      "heading": "The Whole Story, from Amber to LEDs",
+      "paragraphs": [
+        "Before we end, let us walk back through the whole journey, like strolling through the rooms of a museum, one gallery for each great step.",
+        "In the first room, people sit around oil lamps, tallow candles and later gas jets, squinting at their work and worrying about fire. In the next, an ancient Greek, traditionally said to be Thales, rubs a lump of amber, the stone the Greeks called elektron, and watches bits of straw leap up to it. Centuries later, William Gilbert, the Queen's physician, gives the effect a name in 1600. Otto von Guericke spins a ball of sulfur to make sparks, Stephen Gray sends electricity along a thread more than 200 metres long, and Charles du Fay finds that there are two kinds of charge.",
+        "In the third room, a jar of water gives Pieter van Musschenbroek the shock of his life: the Leyden jar can store electricity. Benjamin Franklin names positive and negative charge and plans his famous experiments, and in 1752 a French team and Franklin's kite show that lightning is electricity. Then, in Bologna, a frog's leg twitches, Luigi Galvani and Alessandro Volta argue politely, and in 1800 Volta builds his pile of zinc and copper discs: the first battery and the first steady electric current.",
+        "Next door, Humphry Davy makes a blazing arc between two charcoal rods, Hans Christian Ørsted watches a compass needle swing beside a wire in 1820, and Michael Faraday makes a wire spin round a magnet in 1821. On 29 August 1831, Faraday winds two coils on an iron ring and discovers electromagnetic induction. Motion can make electricity. Maxwell turns his ideas into equations, and Hertz catches invisible radio waves.",
+        "Then electricity goes to work. Telegraph wires carry messages across countries and under oceans. Dynamos by Siemens and Gramme make strong, steady current, and Yablochkov's candles and Brush's arc lamps light up Paris and Cleveland. Dozens of inventors, from de la Rue and de Moleyns to Lodygin, Woodward and Evans, chase a gentle glowing filament, and Sprengel's pump gives them the vacuum they need. In 1878 and 1879 Joseph Swan in Newcastle and Thomas Edison's team at Menlo Park both get carbon filaments to glow. Swan lights his home, Cragside and the Savoy Theatre, while Edison's team, including Lewis Latimer, builds a whole system of lamps, sockets, fuses, meters and generators.",
+        "In the next gallery, Pearl Street Station hums into life in New York on 4 September 1882. But direct current cannot travel far, so transformers, the Ganz engineers, Stanley, Westinghouse and Tesla bring alternating current, and the War of the Currents rages until Niagara's power reaches Buffalo in 1896. Ferranti, Parsons and many others link power stations into grids that reach right across countries. Lifts, trams, vacuum cleaners, fridges, radios and X-ray machines change daily life. Then come the costs: shocks, smog, blackouts, light pollution and a warming climate. Engineers fight back with neon and fluorescent tubes, then with the LED, finally made white by the blue LEDs of Akasaki, Amano and Nakamura. And in the newest room, dams, wind turbines, solar cells, nuclear plants, batteries and HVDC cables reshape the way the world makes its power."
+      ]
+    },
+    {
+      "heading": "A Relay Race Across the Centuries",
+      "paragraphs": [
+        "Look at that list again and notice something. There is no single inventor of electricity, and there is no single inventor of the light bulb. Thales did not finish the job, and neither did Franklin, Volta, Faraday, Swan, Edison or Tesla. Each of them picked up the baton from someone earlier, ran their stretch of the race, and handed it on.",
+        "Notice, too, how many countries took part: ancient Greece, England, Scotland, Germany, the Netherlands, France, Italy, Denmark, America, Russia, Serbia and Croatia, Hungary, Belgium, Sweden, Japan, China and many more. Some of the runners were famous professors. Others were a dyer, a bookbinder's apprentice, a pharmacist, a draftsman whose parents had escaped slavery, a teenager working in his father's laboratory. Some made fortunes, and some died poor. Some, like Galvani and Volta, or Edison and Swan, argued fiercely, then turned out to have each been partly right, or ended up working together.",
+        "Many great ideas arrived in two places at once: Kleist and Musschenbroek with the Leyden jar, Faraday and Henry with induction, Swan and Edison with the bulb, Tesla and Ferraris with the induction motor, Blyth and Brush with wind power. That is not a coincidence. When enough people share their discoveries, write them down and publish them, the next step becomes possible for anyone clever and hard-working enough to take it. Science is a conversation that lasts for centuries.",
+        "Now, wherever you are reading this, find a light switch. Put your finger on it. Before you press it, think for a moment about what is waiting on the other side: copper wires inside the wall, a fuse or circuit breaker, a meter, a cable under the street, a transformer, a substation, high-voltage lines striding across the hills, a spinning turbine or a field of solar panels, and behind them all, two and a half thousand years of curious people asking 'what happens if...?'",
+        "Click. The room fills with light, instantly, silently, without a flame. For one second, remember the Greek with his amber, Franklin with his kite in the storm, Volta with his stack of coins, Faraday with his iron ring, Swan and Edison with their glowing threads, and all the engineers, miners, line workers and scientists whose names never made it into the history books. They made that light possible. And somewhere, perhaps reading these very words, is the person who will carry the baton next."
+      ]
+    }
+  ],
+  "deepDive": "Engineers sometimes say the twenty-first century challenge is 'electrify everything, and clean the electricity'. The logic is about efficiency as much as pollution. An internal-combustion car turns only around 15 percent of its fuel energy into motion, while an electric car delivers well over three quarters of its battery energy to the wheels; a heat pump with a coefficient of performance (COP) of 3 to 4 delivers three or four units of heat per unit of electricity, while burning gas can never give more heat than the fuel contains. So switching to electricity can cut total energy demand even before the power is clean. The difficulty is the grid. If cars and heating move to electricity, peak demand could rise sharply, especially on cold, still winter evenings when solar output is zero and wind may be low. Planners therefore combine several tools: more transmission (including HVDC) to share power between regions, storage from minutes (batteries) to seasons (perhaps hydrogen or large hydro), smart charging and demand response that shift flexible loads, and firm low-carbon sources such as hydro, geothermal or nuclear. Fusion is the most hyped possibility. The December 2022 NIF result reached a target gain of about 1.5 (3.15 MJ out for 2.05 MJ of laser energy), but the lasers drew vastly more energy from the grid, and a power plant would need high gain, repetition many times per second, and materials that survive intense neutron bombardment for years. Magnetic-confinement machines like ITER aim for Q = 10 but are not designed to make electricity. Most physicists therefore do not expect fusion to make a large contribution to world electricity before the second half of this century, although private companies are attempting faster timelines. Superconductors raise another debate: high-temperature superconducting cables exist, but cryogenic cooling and cost confine them to special cases, and claims of room-temperature superconductivity, such as the much-publicised LK-99 material in 2023, have not survived independent testing. Finally, energy access remains the fairness question: with about 666 million people still unconnected in 2023, the goal of universal access by 2030 looks likely to be missed, and decentralised solar is now central to most plans to close the gap.",
+  "funFact": "When the National Ignition Facility achieved fusion ignition in December 2022, its 192 laser beams were all focused on a target only about the size of a peppercorn.",
+  "check": {
+    "q": "About how many units of heat can a good air-source heat pump deliver for every unit of electricity it uses?",
+    "a": "About three or four",
+    "wrong": [
+      "Exactly one, like an electric heater",
+      "About one half",
+      "About fifty"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Lawrence Livermore National Laboratory achieves fusion ignition",
+      "publisher": "Lawrence Livermore National Laboratory",
+      "url": "https://www.llnl.gov/article/49306/lawrence-livermore-national-laboratory-achieves-fusion-ignition"
+    },
+    {
+      "title": "Tracking SDG 7: The Energy Progress Report 2025",
+      "publisher": "World Bank",
+      "url": "https://www.worldbank.org/en/topic/energy/publication/tracking-sdg-7-the-energy-progress-report-2025"
+    },
+    {
+      "title": "ITER",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ITER"
+    },
+    {
+      "title": "Superconductivity",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Superconductivity"
+    },
+    {
+      "title": "Smart grid",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Smart_grid"
+    },
+    {
+      "title": "Heat pump",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Heat_pump"
+    },
+    {
+      "title": "Electric car",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electric_car"
+    },
+    {
+      "title": "Mini-grid",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mini-grid"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Inside the National Ignition Facility target chamber at Lawrence Livermore, with the target positioner and many laser ports",
+      "search": "National Ignition Facility target chamber"
+    },
+    {
+      "want": "A rooftop solar home system or small solar panel on a house in a rural village in Africa",
+      "search": "solar panel rural village Africa house"
+    },
+    {
+      "want": "An electric car plugged in at a public charging station",
+      "search": "electric car charging station"
+    }
+  ]
+}

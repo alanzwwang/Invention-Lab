@@ -1,0 +1,159 @@
+{
+  "n": 9,
+  "title": "Android and the Phone Wars",
+  "when": "2003 – 2015",
+  "summary": "A tiny startup named after a robot made phone software that any company could use for free. Google bought it, and soon Android phones came in every size and price. Big companies went to court, and some old phone giants lost their crowns.",
+  "sections": [
+    {
+      "heading": "A Startup Named After a Robot",
+      "paragraphs": [
+        "Picture a small office in Palo Alto, California, in October 2003. There is no giant logo on the door and no crowd of reporters outside. Inside, a handful of engineers are starting a company called Android Inc. Its founders were Andy Rubin and Chris White, and they were soon joined by Rich Miner and Nick Sears. Nobody outside the technology world had heard of them. Within ten years, the software they started would be running on more pocket computers than any other system on Earth.",
+        "The company's name came from Andy Rubin himself. Back in 1989, when Rubin was a young engineer at Apple, his coworkers gave him the nickname 'Android' because he loved robots so much. He had already worked as a robotics engineer at the German optics company Carl Zeiss. The nickname stuck with him for years, and when he helped start a new company, he used it. That is why the Android software still has a little green robot as its mascot.",
+        "Rubin was not new to pocket gadgets. After Apple he worked at General Magic, a famous early-1990s company that tried to build a handheld 'personal communicator' long before the world was ready for one. Later he co-founded a company called Danger, which made the Hiptop, sold in the United States as the T-Mobile Sidekick. The Sidekick had a screen that flipped around to reveal a keyboard, and it was popular with teenagers and celebrities for sending messages and browsing a simple version of the web. Rubin left Danger in early 2004 to work full time on Android.",
+        "Here is a surprise: Android was not first meant for phones at all. The team's earliest plan was software for digital cameras, under a working name of FotoFrame. The idea was that a camera could run smart software and send photos to a computer or the internet. But digital cameras were a smaller business than the founders hoped, and phones were selling by the hundreds of millions. In April 2004 the team changed direction. They would make an operating system for mobile phones instead.",
+        "Remember from the glossary that an operating system, or OS, is the main software that runs a device and lets apps work on it. In 2004, almost every phone company built its own operating system, or used one that belonged to somebody else, like Symbian (shared by Nokia, Ericsson and others), Windows Mobile from Microsoft, or BlackBerry's own system. Writing an app that worked on all of them was a nightmare, because each one was different. Android's founders dreamed of one open system that many companies could share. It was a big idea for a tiny team that was running short of money."
+      ]
+    },
+    {
+      "heading": "Google Comes Knocking",
+      "paragraphs": [
+        "In July 2005, the internet search company Google quietly bought Android Inc. The price was not announced, but it is usually reported as at least 50 million US dollars. That sounds like a lot, but for Google it was a small purchase, and hardly anyone noticed at the time. Rubin, Miner, Sears and White all moved to Google, and Rubin went on to lead the Android project there.",
+        "Why would a search company want phone software? Google made most of its money from advertisements shown next to search results. Its leaders could see that people would soon be going online with phones instead of only with desktop computers. If phones were controlled by companies that preferred their own search engines and their own stores, Google might be shut out. Having its own phone software meant Google's search, maps and email would always have a home in people's pockets.",
+        "It is important to be fair about who made Android. Google did not invent it from nothing. It began as the startup Android Inc., and Google bought it and then spent years building on it with a much bigger team. Many of the most important later parts came from Google engineers, but the seed was planted by Rubin and his co-founders.",
+        "For the next two years the Android team worked in secret. According to later accounts by journalists and people who were there, their main test phone, nicknamed 'Sooner', looked a lot like a BlackBerry: a small screen with a full keyboard of tiny buttons below it, and no touchscreen. In early 2007 that seemed perfectly sensible, because keyboards were what serious smartphones had.",
+        "Then, on January 9, 2007, Steve Jobs walked onto a stage and showed the iPhone, as we saw in Part 8. It had a big multi-touch screen and no keyboard at all. Reports say the Android team realized at once that their plans had to change. They pushed harder on a second, touchscreen design that HTC was building. Android would still support keyboards, but from then on it was built for fingers on glass as well. The iPhone did not create Android, but it changed the direction Android took."
+      ]
+    },
+    {
+      "heading": "Free for Everyone: The Open Handset Alliance",
+      "paragraphs": [
+        "On November 5, 2007, Google finally told the world what it had been doing. It did not announce a 'Google phone'. Instead, it announced a group called the Open Handset Alliance, with 34 founding members. The list included phone makers such as HTC, Motorola, Samsung and Sony Ericsson; chip companies such as Qualcomm, Intel, Texas Instruments and NVIDIA; and mobile networks such as T-Mobile, Sprint, China Mobile and Japan's NTT Docomo. Together they promised to support Android as a shared platform.",
+        "What made Android so different was the word 'open'. Android was released as open-source software, which means its source code (the human-readable instructions that programmers write) was published for anyone to read, copy and change. Most of it was shared under a license called the Apache License 2.0, which lets companies use the code for free, even in products they sell. That is very different from Apple's iOS, which only Apple can put on a phone, or BlackBerry's system, which only BlackBerry used.",
+        "Android was built on top of Linux, a free operating system started in 1991 by a Finnish student named Linus Torvalds. The deepest part of Linux, called the kernel, is like the engine room of a ship. It controls the memory, decides which program gets to use the processor next, and talks to hardware such as the screen, the radio and the battery. By borrowing the Linux kernel, the Android team did not have to write all that difficult low-level code from scratch, and they got software that had already been tested on millions of computers.",
+        "A week later, on November 12, 2007, Google released a software development kit, or SDK: a free set of tools that let programmers start writing Android apps before any Android phone even existed. Google also ran a contest with prize money to encourage developers to build the first apps.",
+        "But wait: if Android was free, how did Google make money? The answer was its services. Phone makers that wanted the official Google apps, such as Gmail, Google Maps, YouTube and the app store, made agreements with Google, and Google earned money from the searches and advertisements people saw on their phones. The free software was a bit like giving away the road so that more people would drive to your shops.",
+        "For phone makers, this was a gift. Building an operating system costs huge amounts of time and money. Now a company in Taiwan, South Korea or China could take Android, add its own design touches, and sell a modern smartphone without writing a whole system itself. That one decision would shape the next decade of the phone industry."
+      ]
+    },
+    {
+      "heading": "Meet the G1: The First Android Phone",
+      "paragraphs": [
+        "On September 23, 2008, T-Mobile and the Taiwanese company HTC showed off the first phone to run Android. In the United States it was called the T-Mobile G1; HTC called it the HTC Dream. It went on sale in the US on October 20, 2008, for 179 dollars with a two-year T-Mobile contract, and in the UK in November 2008.",
+        "If you held a G1 today, it would feel like a strange cousin of a modern phone. It had a 3.2-inch capacitive touchscreen with 320 by 480 pixels, the same number of pixels as the first iPhone. But the whole screen slid sideways to reveal a full keyboard with five rows of keys, a reminder of the BlackBerry era. On the 'chin' below the screen sat a little clickable trackball for scrolling and selecting. It weighed about 158 grams and ran on a 528-megahertz Qualcomm processor with 192 megabytes of working memory and a 3.15-megapixel camera with autofocus.",
+        "Some things the G1 did better than the first iPhone. It worked on fast 3G networks, it had GPS, and its battery could be swapped out. It also came with Google's own apps built in: Gmail, Google Maps with Street View, and YouTube. Most important of all, it had the Android Market, an app store where people could download new programs. The Android Market opened in the autumn of 2008, just a few months after Apple's App Store (Part 16 tells the story of apps).",
+        "Other things were clumsy. The G1 had no normal headphone socket, so you needed an adapter to plug in ordinary headphones. At first you could only type on the slide-out keyboard, because there was no on-screen keyboard yet. Reviewers liked the ideas inside it but found the design a bit awkward. Even so, T-Mobile said in April 2009 that it had sold more than one million G1s in the US.",
+        "Android improved quickly. Version 1.5, released in April 2009, added an on-screen keyboard and the ability to record video. It was nicknamed 'Cupcake', starting a famous tradition: Android versions were named after sweet treats in alphabetical order. After Cupcake came Donut, Eclair, Froyo (frozen yogurt), Gingerbread, Honeycomb, Ice Cream Sandwich, Jelly Bean, KitKat, Lollipop, Marshmallow, Nougat, Oreo and Pie. In 2019 Google dropped the dessert names and simply called the next version Android 10, saying numbers were clearer for people around the world.",
+        "At the end of 2009, another phone showed how far Android had come. The Motorola Droid, sold by the US network Verizon, ran Android 2.0 and was backed by a huge advertising campaign with the slogan 'Droid Does', a cheeky way of pointing out things the iPhone could not do at the time. For the first time, Android looked like a real challenger."
+      ]
+    },
+    {
+      "heading": "Galaxies, Phablets and Phones for Everyone",
+      "paragraphs": [
+        "The company that gained the most from Android was Samsung, the South Korean electronics giant. On March 23, 2010, Samsung announced the Galaxy S. It went on sale in June 2010 with a 4-inch Super AMOLED screen (a kind of OLED display, which you will meet in Part 10), and it sold more than 24 million units. Each year a new Galaxy S followed, and within a few years Samsung was selling more smartphones than any other company in the world.",
+        "In 2011 Samsung tried something many experts thought was silly. At the IFA electronics show in Berlin, it revealed the Galaxy Note, a phone with a 5.3-inch screen. Today that sounds normal, maybe even small, but at the time it looked enormous next to a 3.5-inch iPhone. One review website called it 'positively gargantuan'. The Note also came with a stylus called the S Pen that could sense 128 different levels of pressure, so you could draw thin or thick lines like a real pen.",
+        "Reporters invented a word for this in-between gadget, half phone and half tablet: the 'phablet'. Many people laughed, but buyers did not. Samsung had sold about 10 million Galaxy Notes by August 2012. People liked bigger screens for watching videos, reading and looking at maps. Over the next few years almost every phone maker, including Apple with the iPhone 6 Plus in 2014, made bigger phones too. The phablet won so completely that the word has almost disappeared, because nearly every phone is now that size.",
+        "Android also made smartphones much cheaper. Because the software was free, companies could concentrate on building affordable hardware. In China, companies such as Huawei, Lenovo, ZTE, Oppo, Vivo and Xiaomi (founded in 2010) built phones for millions of first-time buyers. In India, companies such as Micromax sold Android phones for a small fraction of an iPhone's price. In 2014 Google launched a program called Android One, starting in India, to help local companies make decent low-cost phones.",
+        "This is one of Android's biggest effects on history. For many people in Asia, Africa and South America, their first computer of any kind was a cheap Android phone. Part 17 explores how that changed lives around the world.",
+        "Openness had a downside, though. With hundreds of companies making thousands of different Android models, each with its own screen sizes, chips and customized software, it was hard for apps to work perfectly everywhere. Programmers called this 'fragmentation'. Many phones also stopped receiving software updates after a year or two, because the phone maker and the mobile network both had to prepare each update. Google spent years trying to fix this, for example with a 2017 project called Treble that separated the phone maker's code from the main Android system so updates could arrive faster."
+      ]
+    },
+    {
+      "heading": "The Patent Wars",
+      "paragraphs": [
+        "As Android phones grew more popular, Apple grew angry. Steve Jobs believed Android had copied the iPhone. In his authorized biography, written by Walter Isaacson and published in 2011, Jobs is quoted as saying, 'I'm going to destroy Android, because it's a stolen product.' Instead of attacking Google directly, Apple went after the companies that made Android phones, especially Samsung.",
+        "To understand the fight, you need to know what a patent is. A patent is a legal right given by a government to an inventor. For a limited time, usually about 20 years for an invention, nobody else can use that invention without permission. There are utility patents, which protect how something works, and design patents, which protect how something looks. A company that thinks its patent has been copied can sue and ask a court for money or even a ban on selling the copying product.",
+        "In April 2011, Apple sued Samsung in a federal court in California. Apple said Samsung had copied iPhone features protected by its patents, such as the way a page 'bounces back' when you scroll past the end, tapping to zoom in, and the look of the phone itself: a flat rectangle with rounded corners, a grid of colorful icons and a single button at the bottom. Samsung fought back and sued Apple over some of its own patents, especially ones about mobile radio technology.",
+        "In August 2012 a jury in San Jose decided that Samsung had copied Apple's patents and awarded Apple about 1.05 billion dollars, one of the largest patent awards ever at that time. But that was far from the end. The judge, Lucy Koh, found mistakes in how the damages had been calculated and ordered parts of the case to be tried again, which cut the amount. The case climbed all the way to the US Supreme Court, which ruled 8 to 0 in December 2016 that design-patent damages might be based only on the copied part of a phone, such as its case and screen, rather than the whole phone. In a new trial in May 2018, a jury set the damages at about 539 million dollars. Then, in June 2018, after seven years of fighting, Apple and Samsung quietly settled. The details were kept secret.",
+        "The fight spread around the world, to courts in Germany, the Netherlands, South Korea, Japan, Australia and Britain. Results were mixed. In the UK, a judge decided that Samsung's Galaxy tablets did not copy the iPad, and Apple was ordered to post a notice on its own website saying so. Meanwhile, other companies sued each other too, which is why newspapers started calling this period the 'smartphone patent wars'.",
+        "Here is the strange part: during all these years in court, Samsung was also one of Apple's biggest suppliers, making chips and screens for iPhones. The two companies were enemies and business partners at the same time. In the end, the patent wars did not stop Android. They mostly made lawyers busy and showed how valuable a good design had become."
+      ]
+    },
+    {
+      "heading": "Giants Fall: Nokia and BlackBerry",
+      "paragraphs": [
+        "While Android and the iPhone rose, the old kings of the phone world struggled. In Part 7 we saw that Nokia was the world's biggest phone maker and BlackBerry ruled the business world. Their fall is one of the fastest in the history of any industry.",
+        "Nokia's smartphones ran Symbian, an operating system designed in an age of keyboards and small screens. It was hard to make it feel as smooth as an iPhone. In February 2011, Nokia's new boss, Stephen Elop, sent his staff a memo comparing the company to a man standing on a burning oil platform who must jump into the icy sea to survive. A few days later Nokia announced it would abandon Symbian for its best phones and use Microsoft's Windows Phone instead. Nokia's Lumia phones that followed had colorful designs and good cameras, but few app makers wrote apps for Windows Phone, and buyers mostly stayed with Android and the iPhone.",
+        "In September 2013, Microsoft agreed to buy Nokia's phone business. The deal was completed on April 25, 2014, for about 5.4 billion euros, including a license to use Nokia's patents. It did not work out. In 2015 Microsoft wrote off most of the value of the purchase, about 7.6 billion dollars, and announced thousands of job cuts. By 2017 it had stopped making new phones. Since 2016, phones carrying the Nokia name have been made by a different Finnish company, HMD Global, and many of them run Android.",
+        "BlackBerry's story was similar. Its company, Research In Motion, tried to answer the iPhone with the BlackBerry Storm (2008), a touchscreen BlackBerry that reviewers did not like much, and a tablet called the PlayBook (2011) that sold poorly. In January 2012 its co-leaders Mike Lazaridis and Jim Balsillie stepped down. A completely new system, BlackBerry 10, finally arrived in January 2013, and around that time the company renamed itself BlackBerry. By then it was too late. One estimate suggests BlackBerry's share of smartphone sales fell from about 20 percent in 2009 to around 1 percent by 2014.",
+        "BlackBerry even released Android phones, such as the Priv in 2015. In September 2016 it announced that it would stop designing its own phones and would let partner companies such as TCL make BlackBerry-branded phones instead. The company turned to security software for businesses and cars. In January 2022 it switched off the services that older BlackBerry phones needed, and those classic keyboard phones stopped working for data, calls and texts."
+      ]
+    },
+    {
+      "heading": "Two Giants Left Standing",
+      "paragraphs": [
+        "Android became the world's most used smartphone operating system around 2011, only three years after the G1. Today about 70 percent of the world's smartphones run Android, and almost all of the rest run Apple's iOS. Symbian, Windows Phone and BlackBerry's systems have all disappeared. Android is also used in tablets, televisions, cars and watches, and it has billions of users.",
+        "The two winners took opposite paths. Apple controls everything about the iPhone: the hardware, the software and the App Store, so its phones work smoothly together but come from just one company. Android is shared by many companies, so it comes in every size, color and price, from cheap phones to expensive folding ones, but it is less tidy. Neither approach is simply 'better'; they suit different people. Competition between them has pushed both to improve every year.",
+        "Google itself eventually started selling phones too, to show other companies what a 'pure' Android phone could be. The Nexus One, built for Google by HTC, appeared in January 2010, and later Nexus phones were made with partners such as Samsung, LG and Motorola. In 2016 Google launched its own Pixel phones, designed in-house. Even so, the vast majority of Android phones are still made by other companies, which was the whole point of an open platform from the start.",
+        "The lesson of this part is that being big today does not protect you tomorrow. In 2007 Nokia and BlackBerry looked unbeatable. A few years later, a small startup named after a robot, together with a computer company that had never made a phone before 2007, had taken their place. Being ready to change, as Android itself did when it switched from cameras to phones and from keyboards to touchscreens, mattered more than being first.",
+        "So far we have followed companies, inventors and business battles. Now it is time to open up the phone itself. We will start with the part you touch hundreds of times a day without thinking about it: the screen. How does a sheet of glass know exactly where your finger is?"
+      ]
+    }
+  ],
+  "deepDive": "Android's success is often explained with a simple business idea: platform economics. A platform becomes more valuable as more people use it, because more users attract more app developers, and more apps attract more users. Apple built this loop by controlling one premium product. Google built it by giving the software away. Phone makers paid nothing for the open-source code, but to ship Google's popular apps and the Play Store they signed agreements with Google, which earned money from search advertising and app sales. This model let Android spread from the most expensive phones down to devices costing well under 100 dollars, and it is the main reason Android holds roughly 70 percent of the global market today, while iOS earns a large share of the industry's profits by selling fewer, pricier phones. The openness also raised legal questions. Besides Apple v. Samsung, Oracle sued Google in 2010, claiming that Android copied parts of the Java programming language's structure. The case reached the US Supreme Court, which ruled 6 to 2 in Google's favor in 2021, finding that Google's use was 'fair use'. In Europe, regulators fined Google about 4.3 billion euros in 2018, saying it had used Android to unfairly push its own search and browser apps; Google appealed, and the fine was largely upheld in 2022. Historians of technology also debate why Nokia lost. Some point to Elop's 2011 switch to Windows Phone, which left Nokia dependent on a weak third platform. Others argue the damage started earlier, because Symbian was difficult for developers and Nokia's internal teams competed with one another. Most agree that the iPhone and Android changed what customers valued: from hardware features and battery life to software, apps and touchscreens, areas where the old leaders were weaker. The patent wars, meanwhile, revealed how much of a smartphone is covered by patents: estimates suggest a single smartphone may touch on tens of thousands of them, many licensed through industry standards for radio networks.",
+  "funFact": "Android got its name from co-founder Andy Rubin's old nickname: coworkers at Apple called him 'Android' in 1989 because he loved robots.",
+  "check": {
+    "q": "What was the name of the first phone to run Android, released in the US in October 2008?",
+    "a": "The T-Mobile G1 (HTC Dream)",
+    "wrong": [
+      "The Samsung Galaxy S",
+      "The Motorola Razr",
+      "The IBM Simon"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Android (operating system)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Android_(operating_system)"
+    },
+    {
+      "title": "HTC Dream",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/HTC_Dream"
+    },
+    {
+      "title": "Open Handset Alliance",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Open_Handset_Alliance"
+    },
+    {
+      "title": "Apple Inc. v. Samsung Electronics Co.",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Apple_Inc._v._Samsung_Electronics_Co."
+    },
+    {
+      "title": "Samsung Galaxy Note (original)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_(original)"
+    },
+    {
+      "title": "Microsoft Mobile",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Microsoft_Mobile"
+    },
+    {
+      "title": "BlackBerry Limited",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/BlackBerry_Limited"
+    },
+    {
+      "title": "Andy Rubin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Andy_Rubin"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Photo of the T-Mobile G1 / HTC Dream with its keyboard slid open",
+      "search": "T-Mobile G1 HTC Dream keyboard"
+    },
+    {
+      "want": "The green Android robot mascot logo, or a statue of it",
+      "search": "Android robot mascot logo"
+    },
+    {
+      "want": "Photo of the original Samsung Galaxy Note phablet with its S Pen stylus",
+      "search": "Samsung Galaxy Note GT-N7000 S Pen"
+    }
+  ]
+}

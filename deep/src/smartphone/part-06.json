@@ -1,0 +1,161 @@
+{
+  "n": 6,
+  "title": "Japan's Mobile Internet Leap",
+  "when": "1997 – 2006",
+  "summary": "In 1999, people in Japan started reading news, playing games and sending emails on their phones, years before most of the world. Japan also gave us emoji, the first popular camera phones, the first 3G network and phones you could pay with. Their phones were so special they were nicknamed after the Galápagos Islands!",
+  "sections": [
+    {
+      "heading": "A Crowded Train in Tokyo, and the Team Behind i-mode",
+      "paragraphs": [
+        "Imagine squeezing onto a commuter train in Tokyo at eight in the morning in 1999. The carriage is packed so tightly that you can barely lift your arms. Talking on the phone is considered rude on Japanese trains, so the carriage is strangely quiet. But look around: dozens of people are staring down at the small glowing screens of their mobile phones, thumbs tapping away. One person is reading the news headlines. Another is checking the weather. A teenager is sending an email to a friend, finished off with a tiny heart symbol. Someone is checking their bank balance, and someone else is playing a simple game.",
+        "In America and Europe at that time, almost nobody used the internet on a phone. In Japan, it was becoming normal. How did that happen?",
+        "Japan had several things going for it. Its cities were huge and crowded, and millions of people spent an hour or more each day on trains, with time to fill but no room to open a laptop. Fewer Japanese homes had personal computers than in the United States, so for many people a phone was the easiest way to go online. Japan had also built its own digital phone network, a second-generation (2G) standard called PDC (Personal Digital Cellular), which the biggest phone company, NTT Docomo, launched as its 'mova' service in March 1993. And Japan's mobile phone companies had a lot of power: they told phone makers like NEC, Panasonic, Fujitsu and Sharp exactly what features to build, so a new service could appear on many new phones at once.",
+        "The biggest of those companies was NTT Docomo, the mobile part of Japan's national telephone company. The company says its name comes from the first letters of the phrase 'Do Communications over the Mobile network', though many people also notice that 'doko mo' sounds like the Japanese for 'everywhere'. In the late 1990s, Docomo faced a problem that might sound surprising: so many people already had mobile phones that the number of brand-new customers would soon stop growing quickly. To keep growing, Docomo wanted people to do more with the phones they already had, not just make calls.",
+        "In 1997 Docomo set up a small new team to invent mobile services, led by an executive named Keiichi Enoki. He brought in people from outside the phone business, which was unusual for a big, traditional Japanese company.",
+        "The most famous was Mari Matsunaga. Born in 1954 in Sasebo, in southern Japan, she had studied French literature and spent twenty years at Recruit, a company that published magazines, including job-hunting magazines for young people and women. She was an expert at one thing engineers often forget: what ordinary people actually want. Matsunaga joined Docomo in July 1997, and she pushed the team to think like magazine editors rather than computer engineers. People did not want to 'access the internet', she argued; they wanted handy services, like checking a train time, a bank balance or a horoscope, as easily as flipping through a magazine. She is credited with coming up with the name 'i-mode'. The 'i' can stand for information, the internet, interactive, or simply 'I', as in me.",
+        "Another key person was Takeshi Natsuno, born in 1965, a young businessman with experience of the early internet business. He handled the business side, working out how Docomo and the companies providing content could all make money. Enoki oversaw the technical development and steered the project inside Docomo.",
+        "The team made some smart choices. Rather than inventing a new language for phone web pages, they used a simplified version of HTML, the language that ordinary web pages are written in. It was called Compact HTML, or cHTML. Because it was so close to normal HTML, any web designer could quickly learn to make i-mode pages. That was important: the more interesting sites there were, the more people would want i-mode.",
+        "In 2000, Fortune magazine ranked Mari Matsunaga as the most powerful businesswoman in Asia, largely because of i-mode. Not bad for someone who had never worked at a phone company before!"
+      ]
+    },
+    {
+      "heading": "February 1999: The Internet Arrives on the Phone",
+      "paragraphs": [
+        "NTT Docomo launched i-mode on February 22, 1999. Docomo calls it the world's first mobile internet services platform. To use it, you bought a new i-mode phone, which had a bigger screen than older models and a special 'i' button. Press it, and up popped a menu of services.",
+        "What could you do? You could send and receive short emails to other phones and to ordinary computer email addresses. You could read news and sports results, check the weather forecast, look up train timetables and restaurant guides, do your banking, buy concert tickets, download ringtones and wallpaper pictures for your screen, and play games. Toy and game companies like Bandai and Namco were among the early content providers. Over time, i-mode's official menu grew to more than 12,000 sites, and there were roughly 100,000 unofficial sites made by other companies and individuals.",
+        "Two ideas made i-mode very different from the dial-up internet of the time. First, it was 'always on'. With a home computer in 1999, you often had to dial up, wait for a screeching modem to connect, and pay for every minute you were online. i-mode used a packet system, which sends data in small bundles only when there is something to send. That meant your phone could stay connected without tying up a phone line.",
+        "Second, you paid for how much data you sent and received, not for how long you were connected. Reading a short weather report cost only a tiny amount. The basic monthly charge for i-mode was only a few hundred yen, a few US dollars. Many extra services, like a horoscope or a game, cost a small monthly fee on top, which Docomo added to your phone bill and passed on to the company that made the service, keeping a small share for itself. This made it easy for content companies to earn money, and easy for customers to pay. It was a little like the app stores that would appear almost a decade later.",
+        "The result was explosive. Within a few years, tens of millions of Japanese people were using i-mode. Rival companies quickly launched their own versions: KDDI's EZweb and J-Phone's J-Sky. By June 2006 these three mobile internet services together had more than 80 million subscribers in Japan. In a country of about 127 million people, that was a huge share of the whole population."
+      ]
+    },
+    {
+      "heading": "Tiny Pictures, Big Feelings: The Story of Emoji",
+      "paragraphs": [
+        "Text messages are short, and it is easy to sound grumpy by accident. 'OK.' might mean 'Great!' or 'Fine, whatever'. Japanese phone makers and phone companies found a clever solution: little pictures that could be typed like letters.",
+        "The word emoji is Japanese. 'E' means picture and 'moji' means character, so emoji means 'picture character'. Its similarity to the English word 'emotion' is a complete coincidence!",
+        "Emoji did not appear out of nowhere. Typed faces made from punctuation, like :-) , had been used on computers since 1982. Some Japanese electronic organizers in the late 1980s, such as the 1988 Sharp PA-8500, included small picture symbols. In 1997 the phone company J-Phone (later part of SoftBank) put a set of about 90 black-and-white picture characters on one of its phones, the DP-211SW. That was an early emoji set for phones, a couple of years before Docomo's.",
+        "The set that became world-famous was designed for i-mode in 1999 by a young Docomo employee named Shigetaka Kurita, born in 1972 in Gifu Prefecture. Kurita had already worked on a Docomo pager aimed at teenagers that could show a heart symbol, and he noticed how much young people loved it. For i-mode he designed a set of 176 colored pictograms.",
+        "Each one had to fit in a grid only 12 pixels wide and 12 pixels tall, just 144 tiny squares, each either colored in or blank. Try drawing a smiling face, an umbrella or a bicycle on a 12-by-12 piece of graph paper and you will see how hard that is. Kurita took ideas from manga comics, where symbols like a sweat drop or a light bulb show feelings, from weather forecast symbols, from Chinese characters, and from street signs. His set included weather symbols like sun, cloud, rain and snow; hearts; musical notes; vehicles; and signs for places like a restaurant or a hospital.",
+        "Interestingly, the round yellow smiley faces that most people picture when they hear the word emoji were not part of Kurita's original set. His pictograms were mostly practical symbols for weather, sports, activities, places and feelings like love. Many of the general-purpose emoji we still use, such as the sun, the umbrella or the musical note, can trace their family tree back to those little 12-by-12 drawings, while the huge range of faces came later as different companies added their own designs.",
+        "Emoji spread fast across Japan, and each phone company had its own set, which caused problems when sending messages between companies. The breakthrough for the rest of the world came when Apple and Google pushed to add emoji to Unicode, the international system that gives every letter and symbol in the world's languages its own code number so that all computers display them the same way. In October 2010, Unicode version 6.0 included 722 emoji. Apple's iPhone had first offered an emoji keyboard only in Japan in 2008, and made it available worldwide in 2011. From then on, emoji became a global language.",
+        "In 2016, the Museum of Modern Art in New York added Kurita's original 176 emoji to its collection, alongside famous paintings and design objects. Kurita is often called the creator of emoji. That gives him well-deserved credit for the most influential early set, but, as you have seen, picture symbols on Japanese devices and phones existed before his work."
+      ]
+    },
+    {
+      "heading": "Say Cheese! The First Camera Phones",
+      "paragraphs": [
+        "Today it seems obvious that a phone has a camera. In 1999 it was a brand-new idea, and once again Japan got there first.",
+        "There had been clever experiments before. On June 11, 1997, in a California hospital, a technology businessman named Philippe Kahn wanted to share the news of his newborn daughter Sophie. Sitting in the waiting room, he rigged up a way to connect his digital camera to his laptop and his mobile phone, and sent her first pictures to more than 2,000 family members, friends and colleagues. It worked, but it was a tangle of separate gadgets and cables. The next step was to build the camera right into the phone.",
+        "In May 1999, the Japanese company Kyocera released the Visual Phone VP-210. It worked on Japan's PHS network (Personal Handy-phone System), a cheaper, lower-power kind of mobile phone service popular in Japanese cities. The VP-210 had a small camera of about 110,000 pixels on the front, facing the user. It was sold as a 'mobile videophone': the idea was that two people with VP-210s could see each other while they talked, although the picture updated only about two times per second, more like a flip-book than a smooth video. It could also store up to 20 still photos as JPEG files, a common format for digital pictures, and send them by email.",
+        "A year later, in June 2000, Samsung in South Korea released the SCH-V200, which could take photos of about 350,000 pixels. But it could not send them over the phone network; you had to connect it to a computer to get the pictures out.",
+        "The camera phone that really started the craze was the Sharp J-SH04, sold by the phone company J-Phone in Japan in November 2000. Sharp describes it as the industry's first camera-equipped mobile phone, with an image sensor of about 110,000 pixels, or about 0.11 megapixels. For comparison, many phones today have main cameras of 12 to 200 megapixels, meaning more than 100 times as many pixels. J-SH04 photos were tiny and grainy by today's standards, just big enough to look good on the phone's own small color screen.",
+        "What made the J-SH04 special was not the picture quality but the sharing. J-Phone launched a service called Sha-mail, which comes from 'shashin', the Japanese word for photograph, plus 'mail'. You could snap a picture and send it straight to a friend's phone within seconds. Suddenly a phone was not just for telling people what you were doing; you could show them.",
+        "The idea caught on fast. Within about two years, more than half of J-Phone's customers were using camera phones. Rival phone companies rushed out their own. By 2003, more camera phones were being sold worldwide each year than standalone digital cameras, largely because of demand in Japan and South Korea. You will learn in Part 14 exactly how phone cameras capture light, but it all started with these grainy 0.11-megapixel snapshots."
+      ]
+    },
+    {
+      "heading": "FOMA: The World's First 3G Network",
+      "paragraphs": [
+        "i-mode worked on Japan's 2G network, which could carry only a small amount of data at a time. That was fine for short emails and text-heavy pages, but not for video, music or big pictures. Engineers around the world had been designing a third generation of mobile networks, called 3G, built from the start to carry data as well as voices.",
+        "Docomo wanted to be first. Its 3G service was called FOMA, short for Freedom of Mobile Multimedia Access, and it used a technology called W-CDMA (wideband code division multiple access). Without getting too technical, W-CDMA lets many phones share a wide band of radio frequencies at the same time, with each phone's signal marked by its own code so the network can tell them apart. Part 12 explains networks in more detail.",
+        "The launch did not go smoothly. Docomo had planned to start in May 2001 but postponed it. Instead, about 4,000 people tried out the service in a trial, and there were complaints about problems with the early phones; Docomo even recalled about 1,500 handsets. Finally, in October 2001, FOMA opened as a full commercial service, at first covering Tokyo and nearby Yokohama. It was the world's first commercial 3G mobile service.",
+        "FOMA could carry data much faster than Japan's 2G phones, with download speeds of up to a few hundred kilobits per second. That was fast enough for some FOMA phones to make video calls, where you could see the person you were talking to on your phone's screen, and to download music clips and short videos. Imagine making a video call from a Tokyo street corner in 2001, years before most people in the rest of the world had even heard of 3G.",
+        "Some numbers show the difference. Japan's PDC network could send ordinary data at 9.6 kilobits per second, and its packet data service at up to 28.8 kilobits per second. At 9.6 kilobits per second, a 100-kilobyte photo would take well over a minute to send. At a few hundred kilobits per second, the same photo could arrive in a few seconds. That jump is what made it practical to send pictures, music and video clips, not just words.",
+        "At first, though, FOMA was mostly for enthusiasts. The early handsets were bigger than 2G phones, their batteries ran down quickly, and the network covered only a few areas. It took until about 2004 for FOMA to become popular with ordinary customers. By September 2007 it had over 40 million subscribers. Today, every phone you can buy has data speeds that make early FOMA look slow, but FOMA showed that a phone network could be built mainly for data."
+      ]
+    },
+    {
+      "heading": "A Wallet in Your Phone",
+      "paragraphs": [
+        "In Japan in the early 2000s, many people were already used to tapping a card to pay. In November 2001, the East Japan Railway Company introduced Suica, a contactless card you could tap on ticket gates in the Tokyo area. Inside the card was a FeliCa chip, a contactless technology made by Sony. The card does not need a battery; the reader in the ticket gate sends out a radio signal that powers the chip for a split second and swaps information with it.",
+        "Docomo had a bright idea: why not put a FeliCa chip inside a phone? In July 2004 it launched Osaifu-Keitai, which means 'wallet phone' ('osaifu' is a wallet or purse, and 'keitai' is the everyday Japanese word for a mobile phone). On July 10, 2004, the Edy electronic money service started working on Docomo wallet phones. You loaded money onto your phone and then simply held it near a reader at a shop or a vending machine to pay.",
+        "The idea grew quickly. The other big Japanese phone companies added their own wallet phones in 2005. On January 28, 2006, Mobile Suica launched, so commuters could walk through Tokyo's ticket gates by tapping their phones. Wallet phones were soon also used for credit card payments, shop loyalty cards, airline check-in and even as membership cards.",
+        "Think about how far ahead this was. Apple Pay, which let iPhone owners tap to pay, arrived in 2014, a full ten years after Osaifu-Keitai. Phone payments are now common in many countries, but Japanese commuters were tapping their phones at train gates and convenience stores in the mid-2000s."
+      ]
+    },
+    {
+      "heading": "The Galápagos Phones",
+      "paragraphs": [
+        "By the mid-2000s, Japanese phones were arguably the most advanced in the world. A typical Japanese phone might have a high-resolution color screen, a camera with millions of pixels, a wallet chip, 3G internet, email with emoji, and, from 2006, a tuner that could show live digital TV through a service called One Seg. Some were waterproof so you could use them in the bath. Many people in Europe and America, holding phones with tiny screens and basic cameras, would have been amazed.",
+        "Yet hardly anyone outside Japan owned a Japanese-style phone. Why not? There were several reasons. Japan's 2G network, PDC, was used essentially only in Japan, while most of the world used GSM. Japanese phones were designed for the wishes of Japanese phone companies, which decided which features each phone had, and many services, like i-mode and Osaifu-Keitai, depended on the Japanese networks and companies behind them. Docomo did try to export i-mode. It licensed the service to phone companies in about 17 markets, including parts of Europe, but i-mode never became popular outside Japan, partly because the world's biggest phone makers made few phones for it.",
+        "People began calling this the 'Galápagos' effect. The Galápagos Islands, in the Pacific Ocean, are famous because Charles Darwin found animals there, like giant tortoises and unusual finches, that had evolved in their own special way because they were cut off from the mainland. Japan's phones, too, had evolved into amazing creatures that were perfectly suited to their home but did not spread elsewhere. Takeshi Natsuno, one of the creators of i-mode, later compared Japanese phones to the unique species Darwin found. In Japan, old-style flip phones are still jokingly called 'garakei', short for 'Galápagos keitai' (Galápagos mobile phone).",
+        "The Galápagos story has a bittersweet ending. When touchscreen smartphones with app stores arrived, starting in 2008, many Japanese customers switched to them, and Japanese phone makers lost ground. Usage of i-mode peaked around 2008. In 2019 Docomo announced that the i-mode service would finally close on March 31, 2026, more than 27 years after it began. Yet much of what Japan pioneered lives on in your pocket: mobile email and web, emoji, camera phones with instant photo sharing, 3G networks, and tap-to-pay wallets.",
+        "There is a lesson here that echoes the story of the IBM Simon in Part 5. Simon was ahead of its time but arrived before the world was ready. Japan's phones arrived at the right time for Japan, and millions of people loved them, but they were built for one country's networks and companies. To change the whole world, an invention needs both good timing and the ability to travel."
+      ]
+    },
+    {
+      "heading": "Meanwhile, in North America",
+      "paragraphs": [
+        "While Japanese commuters were sending emoji, snapping Sha-mail photos and tapping their phones on ticket gates, life looked rather different across the Pacific Ocean. In the United States and Canada, most people used their phones for calls and, increasingly, text messages. Mobile web browsing was rare.",
+        "But in offices, airports and boardrooms, a new habit was spreading. Lawyers, bankers, politicians and business travelers were becoming hooked on a small device made by a company in a quiet Canadian university town. It had a tiny keyboard where every letter had its own little key, perfect for typing with two thumbs, and it delivered email the instant it arrived. Some users checked it so often that people gave it a nickname suggesting it was almost addictive. As the story is often told, its name came from the way its keys looked like the little bumps on a piece of fruit. That device, and the company that made it, are where our journey goes next."
+      ]
+    }
+  ],
+  "deepDive": "Why did Japan leap ahead? Business historians usually point to the way Japan's mobile market was organized. In most of Europe, phone makers like Nokia and Ericsson designed handsets and sold them to many operators. In Japan, operators such as NTT Docomo wrote detailed specifications, subsidized handsets heavily and had makers like NEC, Panasonic, Sharp and Fujitsu build to order. That 'operator-led' model let Docomo launch i-mode, emoji, FeliCa wallets and 3G on many phones at once, and it controlled billing, so it could collect small monthly fees for content companies. This created a working mobile content economy around a decade before Apple's App Store. The technology choices were pragmatic. i-mode used Compact HTML, a subset of ordinary HTML, while Europe's rival WAP used a new markup language (WML) and a gateway approach that many developers and users found awkward. i-mode was also packet-based and billed by data volume, so users could stay connected without paying for airtime by the minute. The same model had a downside. Because handsets were tailored to Japanese networks and services, built on the Japan-only PDC 2G standard, they had little export market; i-mode licensing reached about 17 markets but never caught on abroad. Economists describe this as path dependence: early, locally successful choices can lock an industry into a path that fails to transfer. When open platforms (iOS from 2007 and Android from 2008) separated the phone's software from the operator, the advantage of operator control disappeared, and Japanese makers lost share. Numbers also show how quickly technology moved. The Sharp J-SH04's camera, at about 0.11 megapixels, captured around 110,000 pixels per photo; a 12-megapixel phone camera captures over 100 times as many pixels. FOMA's early W-CDMA speeds of a few hundred kilobits per second were a big jump over 2G but are thousands of times slower than good 5G connections today. Historians still debate how much credit Japan deserves for the modern smartphone, but there is wide agreement that mobile email, emoji, camera-phone sharing and contactless phone payments were popularized in Japan first.",
+  "funFact": "Shigetaka Kurita's original 176 emoji for i-mode were each drawn on a grid of just 12 by 12 pixels, and in 2016 New York's Museum of Modern Art added them to its collection.",
+  "check": {
+    "q": "What was the name of NTT Docomo's mobile internet service launched in February 1999?",
+    "a": "i-mode",
+    "wrong": [
+      "FOMA",
+      "Sha-mail",
+      "Symbian"
+    ]
+  },
+  "sources": [
+    {
+      "title": "i-mode",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/I-mode"
+    },
+    {
+      "title": "Company history",
+      "publisher": "NTT Docomo",
+      "url": "https://www.docomo.ne.jp/english/corporate/about/outline/history/"
+    },
+    {
+      "title": "A Sharp Journey: Sharp's 'Only One' products (Industry's first camera-equipped mobile phone J-SH04)",
+      "publisher": "Sharp Corporation",
+      "url": "https://global.sharp/corporate/info/history/only_one/"
+    },
+    {
+      "title": "Shigetaka Kurita",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shigetaka_Kurita"
+    },
+    {
+      "title": "Emoji",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Emoji"
+    },
+    {
+      "title": "Camera phone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Camera_phone"
+    },
+    {
+      "title": "FOMA",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/FOMA"
+    },
+    {
+      "title": "Osaifu-Keitai",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Osaifu-Keitai"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Chart or image of Shigetaka Kurita's original 1999 NTT Docomo i-mode emoji set",
+      "search": "NTT Docomo emoji 1999 Kurita"
+    },
+    {
+      "want": "Photo of the Sharp J-SH04 camera phone sold by J-Phone in 2000",
+      "search": "Sharp J-SH04 camera phone"
+    },
+    {
+      "want": "Photo of a Japanese commuter tapping a phone or Suica card on a ticket gate reader",
+      "search": "Mobile Suica ticket gate"
+    }
+  ]
+}

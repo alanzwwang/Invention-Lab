@@ -1,0 +1,149 @@
+{
+  "n": 19,
+  "title": "Smart Planes and Drones",
+  "when": "1918 – today",
+  "summary": "Today's planes have computer brains that help pilots fly, find their way by satellite and even land themselves in fog. Some aircraft have no pilot on board at all: they are drones, from buzzing camera quadcopters to delivery planes. And in 2021 a tiny helicopter called Ingenuity flew on Mars!",
+  "sections": [
+    {
+      "heading": "A Computer Between the Pilot and the Wings",
+      "paragraphs": [
+        "Imagine climbing into the cockpit of an Airbus A320, one of the most common airliners on Earth. There is no big steering wheel. Instead, beside each pilot's seat is a small joystick, called a sidestick, that looks a bit like a game controller. When the captain gently pushes it to one side, no steel cable runs from the stick to the wings. The stick sends an electrical signal to a set of computers, and the computers decide exactly how far to move the ailerons, the elevator and the rudder. This system is called fly-by-wire: the pilot's commands travel to the control surfaces as electronic messages instead of through mechanical links.",
+        "Why replace cables and rods with wires and computers? There are several good reasons. Electrical wiring is lighter than cables and rods, and lighter planes burn less fuel. Fewer moving parts means fewer parts to wear out. A computer can also make thousands of tiny corrections every second, far faster than any person, smoothing out bumps and gusts before the passengers even notice. Most importantly, the computer can act as a guardian. Every airplane has a 'flight envelope', a set of safe limits for speed, angle and how hard the structure can be bent. On many fly-by-wire airliners, the computers will not let the pilot push the plane outside that envelope. Pull back on the stick too hard, and the computer will stop the wing from reaching the steep angle where it would stall (remember from Part 9 that a stall is a sudden loss of lift on the wing, not an engine stopping).",
+        "The idea grew step by step. In 1958 the Avro Canada CF-105 Arrow, a Canadian fighter, became the first non-experimental aircraft designed and flown with a fly-by-wire system. In the 1960s, NASA built strange-looking Lunar Landing Research and Training Vehicles so that Apollo astronauts, including Neil Armstrong, could practise landing on the Moon; these machines were flown entirely through electronics. In 1972 NASA flew a modified F-8 Crusader fighter that used a digital computer, with no mechanical backup at all, to send the pilot's commands to the controls. Its first computer was borrowed from the Apollo Moon program. Concorde, the supersonic airliner you met in Part 16, used an older analog (non-digital) fly-by-wire system, and the American F-16 fighter became the first production aircraft with digital fly-by-wire. The F-16 was deliberately designed to be slightly unstable, which made it very nimble; its computers constantly kept it steady, rather like a person balancing a broom on one finger.",
+        "Then came the big leap for passenger planes. The Airbus A320 first flew on 22 February 1987 and began carrying passengers with Air France in April 1988. It was the world's first airliner with a digital fly-by-wire flight control system, and the first airliner to use sidesticks. Many pilots were nervous at first, but the A320 family went on to become the best-selling airliner ever built, with more than 12,000 delivered. Boeing adopted fly-by-wire on the Boeing 777, which first flew in 1994, though Boeing chose to keep a traditional control wheel and to give pilots more freedom to override the computer's protections. Pilots and engineers still enjoy debating which approach is better.",
+        "A sensible question is: what happens if a computer breaks? Designers plan for exactly that. A fly-by-wire airliner carries several flight control computers, each able to take over if another fails, with separate power supplies and separate wiring routes. In some designs, the computers even use different kinds of processors and software written by different teams, so that a single hidden bug cannot knock them all out at once. This idea of having backups for the backups is called redundancy, and it is one reason modern airliners are so safe."
+      ]
+    },
+    {
+      "heading": "Finding the Way: Autopilots, GPS and Autoland",
+      "paragraphs": [
+        "In Part 11 you met Lawrence Sperry, who in 1914 amazed a crowd in Paris by standing up in the cockpit while a gyroscope kept his plane flying straight. That gyroscopic autopilot was the great-grandparent of the systems inside every airliner today. A modern autopilot is linked to a flight management computer. Before departure, the pilots type in the planned route, a chain of invisible waypoints across the sky, and the computer can fly the plane along it, climbing, turning and descending as planned. On a long flight the autopilot may do most of the hands-on flying while the pilots watch the instruments, talk to air traffic control, check the weather and keep thinking ahead. Pilots still usually fly the takeoff by hand, and they must always be ready to take over.",
+        "Early airmail pilots followed railway lines, and ocean navigators once measured the stars with a sextant. Today the answer comes from a new kind of landmark: satellites. The United States Department of Defense started the Global Positioning System, or GPS, in 1973. The first prototype satellite was launched in 1978, and a full set of 24 satellites was working by 1993. Today about 31 operational GPS satellites circle the Earth at roughly 20,200 kilometres up. Each one carries extremely precise atomic clocks and constantly broadcasts the time and its own position. A receiver on a plane, a ship or your phone listens for those signals and measures how long each one took to arrive. Radio signals travel at the speed of light, about 300,000 kilometres per second, so even a timing mistake of one millionth of a second would put you about 300 metres off. With signals from at least four satellites, the receiver can work out its position in three dimensions, including its height.",
+        "The most impressive trick of all is autoland, where the plane lands itself. It was developed largely in Britain, where thick winter fog, made worse by smoke from coal fires, often shut down airports such as London Heathrow. A government team called the Blind Landing Experimental Unit, set up just after World War II, spent years testing the idea. In March 1964, a British European Airways Hawker Siddeley Trident made a full automatic landing at the test airfield at Bedford, and on 10 June 1965 a Trident flying passengers from Paris to Heathrow landed itself, with pilots Eric Poole and Frank Ormonroyd watching closely. Autoland follows invisible radio beams from the runway's Instrument Landing System, which tell the plane whether it is left or right of the centreline and too high or too low. Today many large airliners can touch down automatically in fog so thick the pilots may barely see the runway until the wheels are on it, a long way from Jimmy Doolittle's daring 'blind' flight in 1929."
+      ]
+    },
+    {
+      "heading": "Plastic Planes? The Carbon-Fibre Revolution",
+      "paragraphs": [
+        "The Wright Flyer was built of wood and cotton cloth, and from the 1930s shiny aluminium ruled the skies. Then a new material crept in. A composite is made by combining two different materials so that together they are better than either one alone. The most important one in aviation is carbon-fibre-reinforced plastic. Its secret ingredient is carbon fibre, threads of carbon each much thinner than a human hair. Thousands of these fibres are bundled, laid in careful layers and soaked in a sticky resin, a kind of plastic glue. The part is then baked under heat and pressure, often inside a giant oven-like pressure chamber called an autoclave. The fibres carry the pulling and bending loads, and the hardened resin holds them in shape. The result can be stronger and stiffer than aluminium for the same weight, and it does not rust or corrode.",
+        "At first, composites were used for small, less critical parts, such as fairings, floor panels and tail surfaces. The big step came with the Boeing 787 Dreamliner. It first flew on 15 December 2009 from Paine Field in Everett, Washington, and entered passenger service with All Nippon Airways on 26 October 2011, flying from Tokyo's Narita Airport to Hong Kong. About half of the 787's structure by weight is composite, and by volume the figure is about 80 percent. Its fuselage is built as large one-piece barrel sections, wound and baked as whole tubes, instead of being riveted together from thousands of separate aluminium sheets.",
+        "Lighter, stronger materials helped make the 787 much more efficient. Boeing aimed for about 20 percent better fuel efficiency than the older 767 it replaced, thanks to the composites, newer engines and better aerodynamics. Passengers noticed differences too. Because the carbon-fibre fuselage is very strong and does not corrode, the cabin can be kept at a pressure closer to what you would feel on the ground and the air can be kept a little less dry. The windows are larger than on most airliners, and instead of plastic shades they have an electronic dimming button that makes the glass slowly darken."
+      ]
+    },
+    {
+      "heading": "Planes With No One Inside: The First Drones",
+      "paragraphs": [
+        "The first serious pilotless airplane came from Dayton, Ohio, the Wright brothers' hometown. In November 1917, during World War I, the US Army asked the inventor Charles Kettering for an unmanned aircraft that could hit a target about 40 miles (about 65 kilometres) away. Kettering was already famous for inventing the electric self-starter for cars. He worked with the Dayton-Wright Airplane Company; Orville Wright advised on the aeronautics, and Elmer Sperry, father of Lawrence Sperry, designed the gyroscope guidance system. Their machine was officially called the Kettering Aerial Torpedo, but everyone nicknamed it the 'Bug'.",
+        "The Bug was surprisingly simple. Its body was made of wood laminate and papier-mache, its wings of cardboard, and it was pushed along by a 40-horsepower engine. Loaded, it weighed about 240 kilograms (530 pounds). It took off from a little wheeled trolley that ran along a track. Before launch, technicians worked out how many turns of the engine would carry it to the target, taking the wind into account. A counter ticked off the engine's revolutions, and when it reached the right number, the engine was switched off and the bolts holding the wings were released. The wings fell away and the body dropped onto the target with its explosive load. The first test flight, on 2 October 1918, failed when the Bug climbed too steeply, stalled and crashed. Later tests went better, and about 45 were built, but the war ended in November 1918 before any were used. The Bug is remembered as an ancestor of today's cruise missiles, and a full-size reproduction has been on display at the National Museum of the United States Air Force in Dayton since 1964.",
+        "The word 'drone' itself seems to come from Britain in the 1930s. The Royal Air Force and Royal Navy needed realistic targets for anti-aircraft gunners to practise on. De Havilland built a radio-controlled target plane called the Queen Bee, using the wings of its famous Tiger Moth training biplane and a wooden body based on its earlier Moth design. It could be flown by radio from the ground, and more than 400 were built from 1935. In a beehive, male bees are called drones, and the story often told is that when Americans began building their own target planes, they named them 'drones' as a nod to the Queen Bee. Historians cannot be completely sure that is how the word began, but it is the most commonly given explanation."
+      ]
+    },
+    {
+      "heading": "Drones in War, and a Hard Debate",
+      "paragraphs": [
+        "In the 1990s, drones became an important part of armed forces, especially in the United States. The best-known early example was the General Atomics Predator. It first flew on 3 July 1994 in the Mojave Desert of California and entered service in 1995, when it was sent to watch over the war-torn Balkans in Europe. At first the Predator carried only cameras and other sensors. It could circle over one area for many hours, sending pictures back to its crew.",
+        "The Predator's crew did not sit in the aircraft at all. They worked in a ground control station that looked like a small office filled with screens, with a pilot who flew the drone and a sensor operator who aimed its cameras. Thanks to satellite links, the crew could be thousands of kilometres away from the drone itself. In 2001 the Predator was fitted to carry missiles, turning a watching machine into an armed one. The US Air Force retired the Predator in 2018 and replaced it with a larger, more powerful drone called the MQ-9 Reaper. In more recent conflicts, such as the war that followed Russia's invasion of Ukraine in 2022, many small and cheap drones, including adapted quadcopters, have been used in huge numbers.",
+        "Military drones have started one of the most serious debates about any flying machine. Supporters argue that drones keep pilots out of danger, and that because a drone can watch an area for a long time, its operators may be able to check more carefully before they act. Critics worry about other things. They point out that people who are not fighters have sometimes been harmed in drone strikes. They ask whether making war less risky for one side could make it easier for leaders to start or continue fighting. They also worry about secrecy, and about who is responsible when something goes wrong."
+      ]
+    },
+    {
+      "heading": "Four Rotors and a Clever Brain: The Quadcopter",
+      "paragraphs": [
+        "The drone most people picture today is the quadcopter: a small, light machine with four spinning propellers, one at each corner. Look closely and you will notice something clever. Two of the propellers spin clockwise and two spin anticlockwise. Every spinning propeller tries to twist the drone's body the opposite way, just as a helicopter's main rotor tries to spin the helicopter's body (which is why ordinary helicopters need a small tail rotor). On a quadcopter, the clockwise and anticlockwise twists cancel each other out, so the body stays still. Quadcopters became a hugely popular hobby in the 2010s, once cheap sensors, chips and batteries developed for smartphones made them affordable: the French company Parrot launched its phone-controlled AR.Drone in 2010, and the Chinese company DJI released its Phantom camera drone in 2013.",
+        "A quadcopter steers simply by changing how fast each motor spins. If all four spin a little faster, the drone rises; a little slower, and it sinks. To tilt forward, the flight computer speeds up the two back rotors and slows the two front ones, so the drone leans forward and some of its thrust now pushes it along. Tilting left or right works the same way. To turn on the spot, it speeds up the two clockwise propellers and slows the two anticlockwise ones. Now the twists no longer cancel out, and the whole drone slowly rotates. This is pitch, roll and yaw again, the same three axes the Wright brothers mastered, but achieved with no hinged surfaces at all.",
+        "There is a catch. A quadcopter is naturally unstable, and no human could adjust four motors fast enough to keep it level. The real pilot is a tiny flight computer. It reads an inertial measurement unit, a chip containing gyroscopes that sense spinning and accelerometers that sense tilting and speeding up, much like the chips that let a phone know which way up it is. Hundreds of times every second, the computer compares how the drone is actually moving with how it should be moving and makes tiny corrections to each motor. Many drones also carry GPS to hold their position, a barometer to sense height from air pressure, a compass, and downward-facing cameras or sensors. If the radio link is lost, many can fly themselves back to the spot where they took off.",
+        "Drones now do an astonishing range of jobs. Film-makers use them for sweeping shots that once needed a helicopter. Farmers fly them over fields with special cameras that can show which plants are thirsty or sick, and some drones spray crops. Surveyors use them to make detailed maps and 3D models of land and buildings. Engineers send them to inspect bridges, wind turbines and power lines without climbing. Search-and-rescue teams fly drones with heat-sensing cameras that can spot a lost hiker's body warmth in the dark.",
+        "Deliveries are one of the most exciting uses. In October 2016 a company called Zipline began delivering blood and medical supplies to rural clinics in Rwanda. Its drones are actually small fixed-wing airplanes, not quadcopters. An electric catapult flings each one into the air at about 108 kilometres per hour, and when it reaches the clinic it drops its package by paper parachute into a landing zone only about 5 metres across, then flies home and is caught by a hook that snags a line, a little like a plane landing on an aircraft carrier. Zipline went on to work in several countries and reported its millionth delivery in April 2024. For a patient who urgently needs blood, a drone that can skip muddy, winding roads can save precious time."
+      ]
+    },
+    {
+      "heading": "Rules of the Sky for Drone Pilots",
+      "paragraphs": [
+        "With millions of drones now sold, the sky has become much busier, and that brings real risks. Even a small drone can badly damage an airliner's engine or windshield if they collide, and a falling drone can hurt someone on the ground. In December 2018, reports of drones near London's Gatwick Airport stopped flights there for about a day and a half, disrupting the journeys of many thousands of passengers just before Christmas. Events like that convinced governments around the world to make clear rules for drone flying.",
+        "The details are different in every country, but the main ideas are similar almost everywhere. First, register. In the United States, drones heavier than 250 grams must be registered with the Federal Aviation Administration, and recreational flyers must pass a short free online safety test. In the United Kingdom, drone users need IDs from the Civil Aviation Authority, and the Flyer ID involves an online theory test; children can take that test, but a parent or guardian must handle the registration of the drone itself. The European Union has similar rules, with online exams for pilots of heavier drones.",
+        "Second, keep it in sight. Recreational pilots are generally required to keep their drone within visual line of sight, meaning they can see it with their own eyes, not just on a screen. Third, keep it low. In the UK and EU the usual limit is 120 metres above the ground, and in the US it is 400 feet, almost the same height. That keeps drones well below most crewed aircraft, except near airports where planes are low.",
+        "Fourth, stay away from airports. The United Kingdom made it illegal in 2018 to fly near airport boundaries without permission and later widened the restricted zones, and in the EU drones heavier than 250 grams must stay at least 5 kilometres from airports and airfields in most cases. Fifth, keep away from people. Drone rules forbid flying over crowds and set safe distances from people who are not part of the flight. Pilots must also respect privacy and never fly near emergencies such as fires or accidents, where firefighting and rescue helicopters may be working. Since 2021, the US has also required most drones over 250 grams to broadcast a 'Remote ID', a kind of electronic licence plate that tells officials where the drone and its pilot are.",
+        "If you get a drone, the best plan is simple: fly with an adult, read the official rules for your own country before your first flight, use an approved map or app to check where flying is allowed, and practise in a big open space far from people, roads and buildings. Real pilots follow checklists and rules, and the best drone pilots do too."
+      ]
+    },
+    {
+      "heading": "A Helicopter on Mars",
+      "paragraphs": [
+        "Now travel hundreds of millions of kilometres from Earth to a dusty, orange crater on Mars called Jezero. It is 19 April 2021. On the rusty ground stands a small machine with spindly legs and two rotors stacked one above the other. Its name is Ingenuity, and it is about to try something no aircraft had ever done: fly under its own power on another planet.",
+        "Flying on Mars is fiendishly difficult. The Martian air is only about 1 percent as thick as Earth's air at sea level, roughly like the air about 27 kilometres above Earth, far higher than any airliner flies. With so little air to push against, an ordinary helicopter would never get off the ground. Ingenuity's engineers at NASA's Jet Propulsion Laboratory in California made it extremely light, about 1.8 kilograms, and gave it two rotors about 1.2 metres across that spin in opposite directions, cancelling each other's twist just as a quadcopter's propellers do. To grip the thin air, the blades spin incredibly fast, about 2,400 revolutions per minute, many times faster than a passenger helicopter's rotor. Luckily, Mars's gravity is only about 38 percent of Earth's.",
+        "Ingenuity rode to Mars folded up under the belly of NASA's Perseverance rover, which landed in Jezero Crater on 18 February 2021. On 3 April the rover gently dropped it onto the surface and drove away. The first challenge was simply surviving the night, when temperatures can plunge to around minus 90 degrees Celsius. A solar panel above the rotors recharged six small lithium-ion batteries during the day, and some of that energy powered heaters to keep its electronics alive in the cold.",
+        "Ingenuity could not be steered with a joystick from Earth. Radio messages between the two planets take several minutes or more each way, so by the time a command arrived, the flight would be over. Instead, the helicopter flew itself. Its computer, using a processor similar to those found in smartphones, watched the ground through a downward-pointing camera, tracked how surface features moved below it, and adjusted the rotors many times a second. On 19 April 2021, Ingenuity rose about 3 metres into the Martian sky, hovered, turned, and landed after roughly 40 seconds. It was the first powered, controlled flight of an aircraft on another planet. The project team, led by project manager MiMi Aung, with chief engineer Bob Balaram and chief pilot Havard Grip, celebrated in the control room when the data came in.",
+        "NASA named the little patch of Martian ground where the flight happened Wright Brothers Field. There was a reason it felt so fitting. Tucked under Ingenuity's solar panel, wrapped around a cable, was a tiny piece of the cotton fabric from the wing of the 1903 Wright Flyer, about the size of a postage stamp. A scrap of the cloth that had lifted Orville Wright into the air at Kill Devil Hills had now flown on another world. It was not the first time the Flyer had travelled into space: in 1969, Neil Armstrong carried pieces of its wood and fabric to the Moon.",
+        "Ingenuity was a technology demonstration, planned to make no more than five test flights over about 30 days. It kept going. It became an aerial scout for Perseverance, photographing the land ahead and helping the rover's team choose routes and interesting rocks. In all, Ingenuity made 72 flights over almost three years, spent about 2 hours and 8 minutes in the air and travelled more than 17 kilometres. On its 72nd flight, on 18 January 2024, its navigation system struggled over a stretch of smooth, featureless sand ripples that gave its camera few landmarks to track. It came down hard, and its rotor blades were damaged. NASA announced the end of the mission on 25 January 2024. The little helicopter that was supposed to fly five times had flown more than fourteen times as often.",
+        "Ingenuity proved that flying machines can help explore other worlds. NASA is studying larger Mars helicopters that could carry scientific instruments, and a rotorcraft called Dragonfly is being prepared to explore Titan, Saturn's largest moon. Barely more than a century after a 12-second hop on a windy beach, the story of flight had leapt to another planet. So here is a question to carry into the final part: if we can fly on Mars, what will flying on Earth look like when you are grown up?"
+      ]
+    }
+  ],
+  "deepDive": "Fly-by-wire and quadcopters both rest on a branch of engineering called control theory: measure what a system is doing, compare it with what it should be doing, and correct the difference, over and over. A typical small drone runs a feedback loop hundreds of times a second, often using a 'PID' controller that reacts to the present error (proportional), the build-up of past error (integral) and how fast the error is changing (derivative). Because computers can react so quickly, designers can build aircraft that are deliberately less stable, like the F-16, which makes them more agile and can reduce drag. Airliners use computers mostly for smoothness and protection instead. This has created a long-running design debate. Airbus fly-by-wire 'hard' protections normally stop pilots from exceeding certain limits, while Boeing's approach generally lets pilots override protections with enough force. Accident investigators have studied cases on both sides, including situations where crews were confused about what the automation was doing, which is why training now stresses understanding the automation, not just using it. Composites raise their own engineering questions: they resist fatigue and corrosion well, but impact damage can hide below an undamaged-looking surface, so inspection methods such as ultrasound matter. Ingenuity is a showcase of extreme aerodynamics. With rotors about 1.2 metres across spinning at roughly 2,400 rpm, the blade tips move at about 150 metres per second. On Mars, where the cold, carbon-dioxide air carries sound at only about 240 metres per second, that is around two-thirds of the local speed of sound, so the team had to keep tip speeds below the range where shock waves would form. The thin air also means the blades work at very low 'Reynolds numbers', a regime in which air behaves more like a thick, sticky fluid relative to the blade, and wing shapes that work well on Earth perform poorly. Finally, the ethics of military drones remain contested: scholars debate whether remote warfare lowers the threshold for using force, how international law applies to targeted strikes, and whether future autonomous weapons should be restricted by treaty. Discussions on autonomous weapons have continued at the United Nations for years without a final agreement.",
+  "funFact": "In 1944 an army photographer snapped pictures of a young woman working at the Radioplane drone factory in California; her name was Norma Jeane Dougherty, and she later became the film star Marilyn Monroe.",
+  "check": {
+    "q": "What did the Mars helicopter Ingenuity carry from the 1903 Wright Flyer?",
+    "a": "A tiny piece of the Flyer's wing fabric",
+    "wrong": [
+      "One of the Flyer's wooden propellers",
+      "A spark plug from the Flyer's engine",
+      "Orville Wright's pilot's goggles"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ingenuity (helicopter)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ingenuity_(helicopter)"
+    },
+    {
+      "title": "Ingenuity Mars Helicopter",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/"
+    },
+    {
+      "title": "Fly-by-wire",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fly-by-wire"
+    },
+    {
+      "title": "Airbus A320 family",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Airbus_A320_family"
+    },
+    {
+      "title": "Boeing 787 Dreamliner",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_787_Dreamliner"
+    },
+    {
+      "title": "Kettering Bug",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kettering_Bug"
+    },
+    {
+      "title": "Quadcopter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Quadcopter"
+    },
+    {
+      "title": "Regulation of unmanned aerial vehicles",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Regulation_of_unmanned_aerial_vehicles"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Photo of the Ingenuity Mars helicopter standing on the Martian surface, taken by the Perseverance rover",
+      "search": "Ingenuity helicopter Mars Perseverance"
+    },
+    {
+      "want": "The Kettering Bug pilotless aerial torpedo reproduction at the National Museum of the US Air Force",
+      "search": "Kettering Bug aerial torpedo"
+    },
+    {
+      "want": "Airbus A320 cockpit showing the sidestick controllers beside the pilot seats",
+      "search": "Airbus A320 cockpit sidestick"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "n": 13,
+  "title": "How It Works: Batteries and Power",
+  "when": "1970s – today",
+  "summary": "Inside every phone is a flat battery where tiny lithium particles swim back and forth to make electricity. It took three scientists from three countries, and a Nobel Prize, to make it safe and powerful. Let's find out how it works, why it gets tired, and how to look after it!",
+  "sections": [
+    {
+      "heading": "A Box of Bottled Chemistry",
+      "paragraphs": [
+        "Pick up a smartphone and feel its weight. Roughly a quarter of that weight, sometimes more, is a flat, silvery rectangle hidden behind the screen: the battery. It is the phone's fuel tank, and every single thing we have explored so far in this Deep Dive, from the glowing pixels of Part 10 to the billions of transistors of Part 11 and the radio chatter of Part 12, drinks from it. When the battery is empty, the most powerful pocket computer ever built becomes a very expensive paperweight.",
+        "So what is a battery, really? It is not a little tank of electricity, the way a bottle holds water. Electricity is hard to store directly. Instead, a battery stores chemical energy, the same kind of energy locked inside food, wood or petrol, and it turns that chemical energy into electricity only at the moment you need it.",
+        "The idea is more than two hundred years old. In 1800 the Italian scientist Alessandro Volta stacked discs of copper and zinc with pieces of paper soaked in salty water between them. His 'voltaic pile' produced a steady electric current, the first battery in history. The unit we use to measure the push of electricity, the volt, is named after him. Volta did not fully understand why his pile worked, but we now know the secret: a chemical reaction in which tiny charged particles move from one material to another.",
+        "Every battery, from Volta's pile to the one in your phone, has the same three main parts. There are two electrodes, which are pieces of material that electricity flows in and out of. One is called the negative electrode (or anode) and the other the positive electrode (or cathode). Between them sits the electrolyte, a substance that lets charged atoms called ions drift across, but does not let electrons through.",
+        "Here is the clever trick. The chemicals in a battery 'want' to react with each other, a bit like a ball wants to roll downhill. To react, two things have to travel from the negative side to the positive side: ions and electrons. The ions can take the short route straight through the electrolyte. But the electrons cannot pass through it, so they are forced to take the long way round, through a wire outside the battery. That stream of electrons flowing through the wire is an electric current, and along the way we can make it do work: light a screen, run a chip, or send a radio signal.",
+        "In a phone's lithium-ion battery, the travelling ions are lithium ions. A lithium ion is simply a lithium atom that has lost one electron, so it carries a positive charge. When you use your phone, lithium ions leave the negative electrode, swim through the electrolyte and tuck themselves into the positive electrode. At the very same time, their missing electrons rush through the phone's circuits to meet them on the other side.",
+        "Charging runs the whole film backwards. When you plug in, the charger pushes electrons back into the negative electrode, and the lithium ions are pulled back across the electrolyte to join them. The energy from the wall socket is stored once more as chemical energy, ready for tomorrow. Because the ions shuttle back and forth again and again, scientists sometimes call lithium-ion batteries 'rocking-chair' batteries.",
+        "One more part keeps everything safe: a thin plastic sheet called the separator, full of microscopic holes. It sits between the two electrodes, lets ions slip through, and stops the electrodes from ever touching. If they did touch, the energy could rush out all at once as heat. Remember the separator, because it will become very important later in this story."
+      ]
+    },
+    {
+      "heading": "Before Lithium: Heavy Batteries for Heavy Phones",
+      "paragraphs": [
+        "Batteries that can be recharged are called secondary batteries, and the oldest kind is the lead-acid battery, invented in the 1850s and still used to start most petrol cars today. It is cheap and reliable, but enormously heavy. Nobody wants a lump of lead in their pocket.",
+        "For decades, portable gadgets that needed recharging used nickel-cadmium batteries, usually shortened to NiCd. Later came nickel-metal hydride, or NiMH, batteries; the first consumer NiMH cells went on sale in 1989. You may still have NiMH batteries at home, in the shape of rechargeable AA cells for toys and remote controls. Many of the chunky mobile phones of the 1980s and early 1990s ran on nickel-based batteries, and that is one reason they were so bulky and needed charging so often.",
+        "Nickel batteries had annoying habits. Each cell gave only about 1.2 volts, so several had to be stacked together to get a useful push. They were heavy for the energy they held. And if you kept recharging them before they were fully empty, they could seem to 'forget' part of their capacity and give out early. People called this the memory effect, and owners of early phones and laptops were often told to run their batteries completely flat before recharging. (Scientists now say that much of what people blamed on 'memory' was a different, reversible problem, but the advice stuck around for years.)",
+        "Engineers dreamed of something better, and they knew which element to look at: lithium. Lithium is the lightest metal in the universe; a block of it would float on water. It is number 3 on the periodic table, so each atom is tiny. And lithium is extremely eager to give away its outer electron, which means a battery built around it can produce a much bigger voltage than a nickel cell. Light weight plus high voltage equals lots of energy in a small, light package. That is exactly what a pocket phone needs.",
+        "The trouble is that lithium's eagerness is also its danger. Pure lithium metal reacts with water and air, and it can catch fire. Building a battery around it that would be safe to carry in your pocket, recharge thousands of times and sell by the billion took three brilliant scientists, on three continents, about fifteen years. Their story begins with an oil crisis."
+      ]
+    },
+    {
+      "heading": "Whittingham's Spark: An Oil Company Builds a Battery",
+      "paragraphs": [
+        "In the early 1970s the world suddenly worried about running out of oil. In 1973 oil prices shot up, and long queues formed at petrol stations in many countries. Even big oil companies started asking a surprising question: what if the future ran on something other than petrol? Exxon, one of the largest oil companies on Earth, hired young scientists to investigate new kinds of energy, including better batteries.",
+        "One of them was M. Stanley Whittingham, a chemist born in 1941 in Nottingham, England, who had studied at the University of Oxford. Whittingham was interested in a strange property of certain materials: they are built from layers, like a stack of paper or the pages of a book, and small atoms can slide into the gaps between the layers and slide out again without wrecking the structure. Chemists call this intercalation, which roughly means 'putting something in between'.",
+        "Whittingham found that a material called titanium disulfide was perfect for this. It formed neat layers, and lithium ions could slip in and out of the spaces between them again and again. He used titanium disulfide as the positive electrode of a new battery. For the negative electrode he used lithium metal (in the version Exxon developed, a mixture of lithium and aluminium). The result, announced in the mid-1970s, was the first rechargeable lithium battery. It produced a little over 2 volts per cell, already better than nickel batteries.",
+        "Imagine the lab at Exxon in New Jersey: a team of chemists, glove boxes filled with dry gas to protect the reactive lithium from moist air, and test cells being charged and discharged over and over. It was exciting work, but there was a serious problem. When a lithium metal electrode is recharged many times, the lithium does not always settle back smoothly. It can grow into tiny, needle-like spikes called dendrites. If a dendrite grows long enough to pierce the separator and touch the other electrode, the battery short-circuits, heats up, and can catch fire.",
+        "Exxon's interest faded in the late 1970s, partly because the market for such batteries looked small and oil prices settled down. It licensed the technology to other companies, and Whittingham later became a professor at Binghamton University in New York State. But the dendrite danger did not go away. In 1989 a Canadian company called Moli Energy, which made rechargeable batteries with lithium metal electrodes, had to stop sales and recall tens of thousands of phones after one of its batteries caught fire. The company went bankrupt. The lesson was clear: to make a truly safe rechargeable lithium battery, scientists would need to get rid of the lithium metal altogether.",
+        "Still, Whittingham had proved the key idea: a rechargeable battery could work by tucking lithium ions into the layers of a material and pulling them out again. Every lithium-ion battery since then is built on that idea."
+      ]
+    },
+    {
+      "heading": "Goodenough, Yoshino and Sony: Building the Battery That Changed the World",
+      "paragraphs": [
+        "The next big step happened at the University of Oxford in England, led by an American physicist with a wonderful name: John B. Goodenough. He was born in 1922 in Jena, Germany, to American parents. As a schoolboy he struggled with dyslexia, a difference in how the brain handles reading and spelling, which nobody diagnosed at the time. He taught himself to write well enough to get into a top school, worked as a meteorologist (a weather scientist) for the US Army Air Corps during the Second World War, and became an expert on how atoms are arranged inside solid materials.",
+        "Goodenough had a hunch. Whittingham's titanium disulfide worked, but Goodenough reasoned that a metal oxide, a compound of a metal with oxygen, could hold lithium ions with a much stronger 'pull'. A stronger pull would mean a higher voltage, and a higher voltage would mean more energy from the same size of battery. In 1980, working with Koichi Mizushima and other colleagues, he showed that lithium cobalt oxide made an excellent positive electrode. Batteries using it could produce about 4 volts, nearly double Whittingham's cell. Lithium cobalt oxide, and close relatives of it, is still used in phone batteries today.",
+        "There is a slightly sad twist. The University of Oxford decided not to patent the discovery. Goodenough and his co-workers signed their rights over to a British government research laboratory, and they received no royalties as their invention went on to earn companies enormous sums. It is a reminder that great inventors do not always become rich from their inventions.",
+        "One piece was still missing: a safe negative electrode. Goodenough's cathode came out of the factory already full of lithium, so the battery no longer needed a chunk of dangerous lithium metal on the other side. The negative side just needed a material that could soak up the lithium ions when the battery was charged. That puzzle was solved in Japan.",
+        "Akira Yoshino was born in 1948 in Suita, near Osaka. As a schoolboy, a teacher gave him The Chemical History of a Candle, a famous set of lectures by the British scientist Michael Faraday, and it made him fall in love with chemistry. He spent his career at the Japanese chemical company Asahi Kasei. Starting in 1981 he experimented with a plastic that conducts electricity, called polyacetylene, as the negative electrode, but it was too bulky and not stable enough. So he switched to a special kind of carbon, with layers that lithium ions could slip between.",
+        "In 1985 Yoshino combined his carbon negative electrode with Goodenough's lithium cobalt oxide positive electrode and built the first practical lithium-ion battery. There was no pure lithium metal anywhere inside it, only lithium ions moving between two layered materials. He also designed it with long electrode sheets rolled up into a coil, like a Swiss roll, so there was a large surface for the ions to cross. To prove it was much safer than lithium-metal batteries, his team tested prototypes harshly, including dropping a heavy lump of iron onto them; the lithium-metal cells burst into flames, while his did not.",
+        "Then came the leap from lab to shop. In 1991 Sony, the Japanese electronics company, began selling the first commercial lithium-ion batteries. Over the following years lithium-ion batteries spread into laptops, mobile phones, cameras and music players. Since 1991 the amount of energy packed into a given volume has roughly tripled, while the cost has fallen roughly tenfold. Today the same chemistry also powers electric cars, electric bikes and giant batteries that store solar and wind power.",
+        "In October 2019 the three pioneers, Whittingham, Goodenough and Yoshino, were awarded the Nobel Prize in Chemistry 'for the development of lithium-ion batteries'. Goodenough was 97 years old, making him the oldest person ever to win a Nobel Prize. He kept going to work at the University of Texas at Austin into his late 90s and died in 2023, aged 100. Think about that the next time you plug in your phone: the battery inside depends on ideas from a British chemist working for an oil company, an American physicist at Oxford, and a Japanese chemist inspired by a book about candles."
+      ]
+    },
+    {
+      "heading": "Why Your Battery Gets Tired",
+      "paragraphs": [
+        "Look at a phone's specifications and you will usually see a battery number such as 4,000 mAh. The letters stand for milliampere-hours. An ampere (or amp) measures how much electric current flows, and a milliampere is a thousandth of an amp. A 4,000 mAh battery could, in theory, supply a current of 4,000 milliamps for one hour, or 400 milliamps for ten hours. Most smartphone batteries today hold somewhere between about 2,500 and 6,000 mAh.",
+        "But mAh does not tell the whole story. It measures electric charge, not energy. To know the energy, you also need the voltage, because energy equals charge multiplied by push. Engineers therefore often use watt-hours (Wh) instead. A typical phone cell works at about 3.7 volts, so a 4,000 mAh battery stores about 15 watt-hours. That is roughly the energy a 15-watt light bulb uses in one hour, and it is enough to run a smartphone through a whole day, which shows how amazingly efficient phones have become.",
+        "Every time you drain a battery and fill it back up, you use a charge cycle. Half a drain plus half a recharge on two different days counts as one cycle in total. Lithium-ion batteries can survive hundreds to more than a thousand cycles, but each cycle wears them down a tiny bit. Battery makers usually say a battery has reached the end of its normal life when it can hold only about 80 percent of its original charge.",
+        "Why does this happen? Inside the battery, a very thin crust slowly builds up on the surface of the negative electrode. Chemists call it the solid electrolyte interphase. A little of this crust is actually helpful, because it protects the electrode. But as it grows, it traps lithium that can then no longer carry charge, and it makes it harder for ions to move. The electrode materials also swell and shrink slightly every cycle as ions move in and out, and over time tiny cracks appear. Slowly, the battery holds less and delivers its energy less easily.",
+        "Heat speeds all of this up. Chemical reactions run faster when it is warm, including the unwanted ones that age a battery. That is why leaving a phone on a car dashboard in summer sunshine, or gaming for hours while it charges under a pillow, is bad for it. Batteries are also stressed when they sit for long periods completely full or completely empty. Cold is a different problem: in freezing weather a battery cannot deliver its energy easily, so a phone may suddenly switch off on a ski slope even though it showed plenty of charge, and then recover once it warms up.",
+        "Modern phones are designed to protect their batteries. Their charging chips slow down as the battery gets close to full, and many phones can learn your habits, holding the charge at around 80 percent overnight and finishing the last part just before your usual wake-up time. Some let you cap charging at 80 percent permanently. So you do not need to panic about charging overnight; the phone's electronics are watching. A few sensible habits help a battery last longer: avoid extreme heat, do not let it sit at zero for days, and use a decent charger. And the old advice about draining batteries completely before recharging? That was for nickel batteries. Lithium-ion batteries are happier with frequent top-ups."
+      ]
+    },
+    {
+      "heading": "When Batteries Go Wrong: The Galaxy Note 7",
+      "paragraphs": [
+        "A lithium-ion battery packs a lot of energy into a small space, and its liquid electrolyte can burn. Almost all of the time, that energy comes out slowly and safely through the phone's circuits. Battery fires are rare, considering that billions of these batteries are in use. But when something does go wrong inside a cell, the result can be dramatic, and one famous phone taught the whole industry a hard lesson.",
+        "In August 2016 Samsung, by then the world's biggest smartphone maker, launched the Galaxy Note 7. It was a big, powerful, beautifully made phone with a stylus, and the early reviews were excellent. Within days, though, reports began to appear of Note 7 phones becoming dangerously hot and catching fire. On 2 September 2016, only about two weeks after it went on sale, Samsung stopped sales and announced a recall, offering to swap customers' phones for new ones with batteries from a different supplier. About 2.5 million phones were covered by that first recall.",
+        "Then something even more worrying happened: some of the replacement phones overheated too. In October 2016 Samsung asked everyone to stop using the Note 7 and, on 11 October, stopped making it altogether. Airlines around the world banned the phone from flights, even switched off. Samsung expected its profits to fall sharply because of the disaster, and analysts estimated that it lost billions of dollars.",
+        "In January 2017, after a long investigation, Samsung explained what had happened. There were two different problems in batteries from two different suppliers. In the first batch, the battery was slightly too large for its case, and the electrodes could be bent and pressed together at a corner, causing a short circuit. In the replacement batteries, some cells had rough spots left by the welding process that could poke through the thin separator, along with missing insulating tape. In both cases, the positive and negative sides could touch inside the battery. That is the separator's job, remember: to keep them apart.",
+        "When a short circuit happens inside a lithium-ion cell, energy pours out as heat in one spot. The heat can trigger more chemical reactions that release even more heat, a runaway chain called thermal runaway. The electrolyte can boil and vent hot gases, and the cell can catch fire. Engineers learned from the Note 7: Samsung introduced an eight-point battery safety check, and the whole industry paid even closer attention to testing, battery design and the space left around batteries inside thin phones.",
+        "There are sensible lessons here for everyone. If a phone battery becomes swollen, so the back of the phone bulges or the screen lifts, stop using it and take it to a repair shop; do not press on it or try to puncture it. Do not use a phone that has been badly crushed or bent. Use chargers and cables from trustworthy makers rather than the cheapest possible unbranded ones. And never throw old phones or batteries in the ordinary rubbish bin, where they can be crushed in a garbage truck and start fires; take them to an electronics recycling point instead. With a little care, a phone battery is a safe and very reliable companion."
+      ]
+    },
+    {
+      "heading": "Making Every Drop Count",
+      "paragraphs": [
+        "Phone batteries have improved, but much more slowly than chips have. So a huge part of the reason phones last all day is not bigger batteries, but smarter ways of spending energy.",
+        "The biggest energy users in a phone are usually the screen, the radios and the main chip. The screen is the hungriest when it is bright. Phones with OLED screens have a special trick: as we saw in Part 10, each OLED pixel makes its own light, so a black pixel is simply switched off and uses almost no power. That is why dark mode can save energy on OLED phones. A 2021 study by researchers at Purdue University measured it carefully. At everyday brightness levels of about 30 to 50 percent, switching from light mode to dark mode saved only about 3 to 9 percent of the power on average. At full brightness, though, the savings jumped to roughly 39 to 47 percent. On older LCD screens, where a backlight shines behind every pixel all the time, dark mode saves very little.",
+        "Chips save energy too. Modern phone processors contain a mix of big, powerful cores for hard jobs like games and small, thrifty cores for easy jobs like checking messages. When you are not touching the phone, it drops into a deep sleep, waking for a split second now and then to check for new messages or calls. The chip can also lower its speed and voltage when it does not need full power. Radios matter as well: a phone on the edge of coverage has to shout louder to reach a distant tower, which is why your battery drains faster in places with weak signal.",
+        "Charging has changed a lot. Lithium-ion batteries are charged in two stages: first with a steady current, which fills them quickly, then with a steady voltage while the current gradually tapers off as the battery nears full. That is why a phone often races from 0 to 50 percent, then slows down for the last part. Fast chargers push more power during the early stage. Many phones now charge at 20 to 45 watts, and some models go much higher, while chips inside the phone and charger 'talk' to each other to agree how much power is safe and watch the battery temperature.",
+        "Wireless charging is not really wireless; it just has no plug. Inside the charging pad is a coil of wire carrying an alternating current, which makes a rapidly changing magnetic field. A second coil inside the phone sits in that field, and the changing magnetism creates a current in it, a principle called electromagnetic induction that was discovered by Michael Faraday in the 1830s. Most phones use a standard called Qi (pronounced 'chee'), from a group called the Wireless Power Consortium. The Nokia Lumia 920 of 2012 was one of the first phones to build it in. The basic version delivered 5 watts, and later versions added more, and in 2023 the Qi2 standard added magnets, based on Apple's MagSafe design, to snap the phone into exactly the right spot. Wireless charging is convenient, but some energy is lost as heat, so it is usually a little less efficient than a cable.",
+        "Then there is the cable itself. For years every phone brand seemed to use a different plug, and drawers filled up with tangled, useless chargers. In 2022 the European Union passed a law requiring new phones sold in the EU to charge through a common connector, USB-C, by the end of 2024, with laptops following in 2026. The aim was to save money for shoppers and cut electronic waste from abandoned chargers. Apple, the last big holdout, began moving its iPhones to USB-C in 2023, as Part 19 explains.",
+        "Look back at how far we have come. The Motorola DynaTAC of 1983 offered about 30 minutes of talking after a long recharge. A modern smartphone, with a battery thinner than a chocolate bar, can stream video, navigate, take photos and chat all day. And some of that power goes to the feature many people use even more than calling. Open the camera app, and the phone's battery, chip and screen all burst into action at once. How does a lens no bigger than a lentil take photos that can rival a big camera? That is where we are heading next."
+      ]
+    }
+  ],
+  "deepDive": "Why did lithium-ion win? The answer is energy density: how much energy a battery stores per kilogram or per litre. Nickel-metal hydride cells store roughly 46 to 120 watt-hours per kilogram; lithium-ion cells typically store about 160 to 300, and some specialist cells more. Two factors explain the gap. Lithium is the lightest metal, so the charge carriers add very little mass, and lithium-based electrodes give a cell voltage of about 3.6 to 3.7 volts instead of about 1.2 volts for a nickel cell. Since energy is charge multiplied by voltage, tripling the voltage roughly triples the energy from the same amount of charge. The key chemical idea is intercalation: lithium ions slot into the gaps of layered host materials (graphite on the negative side, a metal oxide such as lithium cobalt oxide or a nickel-manganese-cobalt mix on the positive side) without the host's structure collapsing. Because no lithium metal is plated during normal use, the dendrite problem that doomed early lithium-metal cells is largely avoided, though it can return if a cell is charged very fast, overcharged, or charged in freezing cold, when lithium may plate onto the graphite instead of sliding into it. Battery ageing is an active research field. A major cause is the slow thickening of the solid electrolyte interphase on the graphite, which consumes lithium; its growth is often modelled as roughly proportional to the square root of time. Heat accelerates these side reactions, and so does sitting at a high state of charge, which is why phones now pause charging around 80 percent overnight. There are also debates about materials. Cobalt is expensive and much of it is mined in the Democratic Republic of the Congo, raising human-rights concerns discussed in Part 18, so makers are shifting toward cathodes with less cobalt, and toward lithium iron phosphate in many electric cars. The next big hope is the solid-state battery, which replaces the flammable liquid electrolyte with a solid; it promises more energy and better safety, but making it cheaply and reliably at scale is still a challenge (Part 19). Finally, a note on credit: the Nobel committee honoured three people, but many others contributed, including Jürgen Besenhard, who studied lithium intercalation in graphite in the 1970s, and the Sony engineers who turned a prototype into a mass-produced product in 1991.",
+  "funFact": "John Goodenough was 97 when he won the 2019 Nobel Prize in Chemistry, making him the oldest Nobel laureate ever, and he kept working on new battery ideas until nearly 100.",
+  "check": {
+    "q": "In a lithium-ion battery, what moves through the electrolyte from one electrode to the other?",
+    "a": "Lithium ions",
+    "wrong": [
+      "Drops of water",
+      "Tiny pieces of copper wire",
+      "Light particles called photons"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Lithium-ion battery",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lithium-ion_battery"
+    },
+    {
+      "title": "John B. Goodenough",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_B._Goodenough"
+    },
+    {
+      "title": "M. Stanley Whittingham",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/M._Stanley_Whittingham"
+    },
+    {
+      "title": "Akira Yoshino",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Akira_Yoshino"
+    },
+    {
+      "title": "Samsung Galaxy Note 7",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_7"
+    },
+    {
+      "title": "Dark mode may not save your phone's battery life as much as you think",
+      "publisher": "Purdue University",
+      "url": "https://www.purdue.edu/newsroom/releases/2021/Q3/dark-mode-may-not-save-your-phones-battery-life-as-much-as-you-think,-but-there-are-a-few-silver-linings.html"
+    },
+    {
+      "title": "Qi (standard)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Qi_(standard)"
+    },
+    {
+      "title": "Moli Energy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Moli_Energy"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Portrait photograph of John B. Goodenough, co-inventor of the lithium-ion battery",
+      "search": "John Goodenough chemist portrait"
+    },
+    {
+      "want": "Labelled diagram of a lithium-ion battery showing the graphite anode, cobalt oxide cathode, electrolyte and lithium ions moving between them",
+      "search": "lithium ion battery diagram anode cathode"
+    },
+    {
+      "want": "A cylindrical or flat lithium-ion battery cell, such as a smartphone battery pack removed from a phone",
+      "search": "smartphone lithium ion battery pack"
+    }
+  ]
+}

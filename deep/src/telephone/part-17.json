@@ -1,0 +1,156 @@
+{
+  "n": 17,
+  "title": "Phones That Leave the House",
+  "when": "1946 – 1983",
+  "summary": "For 70 years every telephone was tied to a wall by a wire. Then engineers put phones in cars, came up with a clever honeycomb of 'cells', and in 1973 a man walked down a New York street talking into a phone the size of a brick. Ten years later, anyone with a few thousand dollars could buy one!",
+  "sections": [
+    {
+      "heading": "A Phone Call from a Car: St. Louis, 1946",
+      "paragraphs": [
+        "Picture a warm summer day in St. Louis, Missouri, on June 17, 1946. World War II has been over for less than a year. A man sits in a parked car, reaches under the dashboard and lifts out a telephone handset, curly cord and all. There is no wire running from the car to any wall. He makes a call, and on the other end an ordinary telephone rings. It sounds like nothing special to us, but at that moment it was something new: a regular telephone service you could use from a moving vehicle.",
+        "The service was called Mobile Telephone Service, or MTS. It was opened by Southwestern Bell, one of the local companies that made up the giant Bell System run by AT&T. Engineers at Bell Labs and the factory company Western Electric had spent years getting it ready. It was not the first time anyone had used a radio to talk from a car. Police departments had been using two-way car radios since the 1930s. What made MTS different was that it connected a car to the whole telephone network, so a driver could call any home or office with a phone.",
+        "The way it worked was very different from a phone in your pocket today. The car carried a two-way radio: a transmitter to send your voice out as radio waves and a receiver to pick up the other person's voice. Somewhere high above the city, on a tall building or tower, stood one powerful antenna that served the whole metropolitan area. Your car's radio talked to that antenna, the antenna was wired into a telephone exchange, and a human mobile operator connected your call to the ordinary wired network, just like the switchboard operators you met in Part 11.",
+        "The equipment was enormous. A complete car phone set weighed about 36 kilograms (80 pounds), heavier than many ten-year-olds. Most of it was a box of radio gear, full of glowing vacuum tubes, that lived in the car's trunk. Only the handset and a small control unit sat up front with the driver. The tubes used so much electricity that leaving the phone switched on for a long time with the engine off could drain the car's battery.",
+        "Talking was a little like using a walkie-talkie. Early sets had a push-to-talk button: you pressed it to speak and let go to listen, because the system could not easily send and receive at the same moment. To call out, you picked up the handset and asked the mobile operator for the number you wanted. To call a car, a person on an ordinary phone asked the operator, who sent out a radio call to that vehicle.",
+        "The very first customers are said to have included the Monsanto Chemical Company and a local building contractor, who could now reach his work crews and office while driving around the city. The price was steep: according to accounts of the time, about 15 dollars a month plus 30 to 40 cents or so for each local call, at a time when a whole family's monthly phone bill at home was usually only a few dollars. Even so, the idea spread fast. By the end of 1946, AT&T had opened similar services in about 25 American cities, and by 1948 mobile service reached around 100 towns and stretches of highway.",
+        "Who wanted a car phone? Doctors who needed to be reached in an emergency, delivery companies, utility crews fixing power lines, newspaper reporters chasing stories, and a few wealthy people who liked having the newest gadget. Notice one important thing, though. These were radio telephones, or car phones, not cell phones. That is why historians are careful about the famous 1973 call you will read about later in this part: it was not the first mobile phone call ever, but the first public call on a handheld cellular phone."
+      ]
+    },
+    {
+      "heading": "Three Channels for a Whole City",
+      "paragraphs": [
+        "To understand the biggest problem with car phones, you need to know a little about radio. Radio waves are invisible waves of energy that travel at the speed of light. Each radio signal has a frequency, which is how many waves pass a point every second, measured in hertz. MTS used frequencies around 150 megahertz, which means about 150 million waves every second. Your car radio, a TV station, a police radio and an airplane's radio all use different frequencies so they do not get mixed up.",
+        "A radio channel is a narrow slice of those frequencies, set aside for one conversation. You can think of channels as lanes on a highway or as the numbered channels on a pair of walkie-talkies. If two people try to use the same channel in the same place at the same time, their voices crash into each other and nobody can understand anything. So every phone call needed its own channel for as long as the call lasted.",
+        "MTS in St. Louis started with six channels, but the signals on neighboring channels leaked into each other, causing a messy kind of interference called crosstalk. Bell's engineers ended up using only three. Think about what that means: in an entire city, only three car phone conversations could happen at once. If a fourth customer picked up the handset, he simply had to wait until a channel was free. Imagine a city of hundreds of thousands of people sharing three phone lines!",
+        "Privacy was another problem. Every call was broadcast through the air, so anyone with the right kind of radio receiver could listen in. In a way, the car phone was like the old party lines from Part 11, except the 'party' could include anyone in the city with a scanner.",
+        "Why not just add more channels? Because the radio spectrum, the whole range of usable radio frequencies, is limited, and lots of other users need it too: radio and TV stations, police and fire services, the military, ships and aircraft, taxi companies and more. In the United States, a government agency called the Federal Communications Commission (FCC) decides who gets which frequencies. For decades it gave mobile telephones only a small slice.",
+        "So mobile phones stayed rare. In the late 1940s there were only about 5,000 customers across the country, making roughly 30,000 calls a week. In the mid-1960s the Bell companies introduced Improved Mobile Telephone Service (IMTS), starting in Harrisburg, Pennsylvania, in 1964. It was a real upgrade: you could dial numbers yourself without an operator, the phone hunted automatically for a free channel, and you could talk and listen at the same time like a normal phone. But IMTS still used one big transmitter for a whole city. In big cities, large numbers of customers still had to share only a handful of channels, so the 'all channels busy' problem was common. Many people who wanted a car phone sat on waiting lists, sometimes for years.",
+        "Engineers could see the trap clearly. With one giant tower per city, more customers just meant more waiting. To give mobile phones to millions of people, they would need a completely different idea."
+      ]
+    },
+    {
+      "heading": "A Honeycomb over the City",
+      "paragraphs": [
+        "That different idea had actually been written down years earlier. In December 1947, two engineers at Bell Labs, Douglas H. Ring and W. Rae Young, described a new plan in an internal company memo. Instead of one powerful transmitter shouting across a whole city, why not cover the city with many small, low-power transmitters? Each one would serve only a small area, called a cell. A phone in a car would talk to whichever cell's antenna was closest.",
+        "On maps, engineers drew cells as hexagons, the six-sided shape of a honeycomb. Real radio coverage is not a perfect hexagon, of course; it is shaped by hills, buildings and weather. But hexagons fit together with no gaps and no overlaps, and they are close to the shape of a circle, so they make a handy way to plan a network on paper.",
+        "Here is the clever part, called frequency reuse. Because each cell's transmitter is weak, its signal fades out after a few kilometres. That means two cells that are far enough apart can use exactly the same channel at the same time without bothering each other. Imagine a huge school hall. If one person shouts, nobody else can be heard. But if small groups sit in far-apart corners and speak quietly, many groups can talk at once, and two groups can even be saying the same words without any confusion.",
+        "In practice, engineers split the available channels into groups and gave each cell in a small cluster a different group, often seven cells per cluster. Then the pattern repeated across the city like tiles on a floor. If a city had 50 cells, each channel could be used about seven times at once instead of just once. And here is the best part: when a city got too busy, the company could split crowded cells into smaller ones and add more towers. Smaller cells meant even more reuse and room for even more callers.",
+        "So why did nobody build it in 1947? There were two big obstacles. The first was the problem of movement. If you are driving while talking, you will leave one cell and enter the next. The network must notice, pick a free channel in the new cell, and switch your call over in a fraction of a second, without you hearing a break. In 1947 there were no small, fast computers to do that kind of quick decision-making. In fact, the transistor, the tiny electronic switch that eventually made such computers possible, was first demonstrated at Bell Labs only a couple of weeks after the cellular memo was written.",
+        "The second obstacle was the radio spectrum. A cellular network needed a large block of frequencies, and the FCC was not ready to hand one over. Arguments about who should get which frequencies, and whether one company should control mobile phones, went on for many years.",
+        "Meanwhile Bell Labs kept working. In the late 1960s and 1970s, engineers including Richard Frenkiel and Joel Engel worked out how a full cellular system could actually function, with the towers, switching centres and computer control it would need. Another Bell Labs engineer, Amos Joel, patented a switching system (issued in 1972) for passing calls between cell sites as a vehicle moved. The FCC eventually set aside frequencies around 800 megahertz for cellular service, and Bell's design became known as AMPS, the Advanced Mobile Phone System. In 1978 a test system began running in the Chicago area. Bell Labs was thinking mostly about phones built into cars. But a company in Illinois had a different dream."
+      ]
+    },
+    {
+      "heading": "Hello, Joel, It's Marty",
+      "paragraphs": [
+        "Motorola, based near Chicago, already knew a lot about portable radios. It made two-way radios for police officers, walkie-talkies, and pagers, the little beeping boxes that told doctors to call the hospital. One of its engineers was Martin Cooper, born in Chicago in 1928 to Ukrainian Jewish immigrant parents. Cooper studied engineering at the Illinois Institute of Technology, served as an officer on a submarine during the Korean War, and joined Motorola in 1954. By the early 1970s he was leading the company's work on portable communication.",
+        "Cooper and his team had a strong opinion. AT&T's plans focused on car phones, but Cooper liked to argue that people, not places or cars, should have phone numbers. A phone, he believed, should go wherever you go: into a shop, down the street, into a park. If AT&T won the right to run cellular service built only around car phones, Motorola, which made portable radios, could lose out. So Motorola decided to show the world, and the government officials in Washington, that a truly handheld cellular phone was possible.",
+        "The prototype they built was called the DynaTAC, short for Dynamic Adaptive Total Area Coverage. It was about 25 centimetres (10 inches) tall, not counting its antenna, and weighed about 1.1 kilograms (2.5 pounds), with much of that weight in the battery. People nicknamed it 'the brick' or 'the shoe'. The battery gave about 30 minutes of talk time and then needed around 10 hours to recharge. Cooper later joked that the short battery life did not matter much, because the phone was too heavy to hold up to your ear for longer than that anyway.",
+        "On April 3, 1973, Cooper stood on Sixth Avenue in midtown Manhattan, near the New York Hilton hotel, shortly before a press conference to show off the new phone. Motorola had put a base station, the radio equipment a cell phone talks to, on the roof of a nearby skyscraper called Burlington House, and connected it into the ordinary landline telephone network. Cooper took out the prototype, punched in a number, and made the first public call on a handheld cellular phone.",
+        "Whom did he call? His rival. On the other end was Joel Engel, the head of the cellular project at Bell Labs. As Cooper remembers it, he said something like, 'Joel, this is Marty. I'm calling you from a cell phone, a real handheld portable cell phone.' Cooper recalls there was silence on the line. Engel has said he does not remember the call at all, which is a funny reminder that historic moments do not always feel historic to everyone involved. People walking past on the busy New York sidewalk stared at the man talking into a big plastic block with no wire.",
+        "It is important to be precise about what this call was. It was not the first mobile phone call; car phones had been working since 1946. It was not on a commercial network that ordinary people could join; it was a demonstration. What made it historic was that it was the first public call made from a handheld phone on a cellular-style system, a phone you could carry in your hand while walking around.",
+        "Motorola hoped handheld phones would be in shops within a few years. Instead it took a whole decade. The company had to make the phone smaller and more reliable, wait for the FCC to make decisions about frequencies, and wait for someone to build actual cellular networks. Inside Motorola, prototypes kept being improved from 1973 all the way to 1983."
+      ]
+    },
+    {
+      "heading": "An Actress, a Composer and a Secret Radio Idea",
+      "paragraphs": [
+        "Long before Martin Cooper's call, a very different inventor had been thinking about radio. Hedy Lamarr was born Hedwig Kiesler in Vienna, Austria, in 1914 and became a famous Hollywood film star. She was also deeply curious about how things worked and loved tinkering with ideas.",
+        "During World War II, Lamarr wanted to help the Allies. She had learned, through her first husband's work with weapons makers, that navies wanted a way to guide torpedoes by radio. The trouble was jamming: an enemy could blast noise on the same radio frequency and block the control signal, sending the torpedo off course.",
+        "Lamarr teamed up with her friend George Antheil, an American composer. Together they came up with a plan called frequency hopping. Instead of using one frequency, the transmitter and the receiver would jump from frequency to frequency many times, following the same secret pattern. An enemy who did not know the pattern could not follow the signal and would have great trouble jamming it. To keep the transmitter and receiver in step, they borrowed an idea from Antheil's music: he had once tried to synchronize several player pianos, which are pianos that play automatically from punched paper rolls. Their design described hopping among 88 frequencies, the same number as the keys on a piano.",
+        "They received US Patent 2,292,387, titled 'Secret Communication System', on August 11, 1942. It was issued under Lamarr's married name at the time, Hedy Kiesler Markey. The US Navy did not use it during the war; it reportedly considered the system too bulky to fit inside a torpedo. Years later, after the patent had expired, similar frequency-hopping techniques began appearing in military communication systems in the early 1960s.",
+        "Lamarr's work was not widely recognized until late in her life. In 1997 she and Antheil received a Pioneer Award from the Electronic Frontier Foundation, and in 2014 Lamarr was added to the National Inventors Hall of Fame.",
+        "You may hear people say that Hedy Lamarr invented Wi-Fi, Bluetooth or the cell phone. That is not true. The idea of frequency hopping had been explored by others before her, and modern wireless systems were built by thousands of engineers using many different methods. What is fair to say is that the Lamarr and Antheil patent was one early, inventive ancestor of the 'spread spectrum' radio techniques used later. Bluetooth, for example, hops between frequencies, and some later cell phone systems also spread signals across wide bands. Her story is a great reminder that good ideas can come from unexpected people."
+      ]
+    },
+    {
+      "heading": "Tokyo and the Nordic Countries Go First",
+      "paragraphs": [
+        "Here is a surprise: even though the cellular idea was born at Bell Labs in New Jersey, the first commercial cellular networks opened outside the United States.",
+        "In 1979, Japan's national telephone company, Nippon Telegraph and Telephone (NTT), launched the world's first commercial cellular network in Tokyo. It was an analog system, meaning voices were sent as smoothly changing radio waves, a copy of the shape of the sound, just like in the older wired telephones. At first it served car phones. Over the next few years NTT spread the network across the country, making Japan the first nation with a full-scale cellular system.",
+        "In northern Europe, the telephone authorities of Sweden, Norway, Denmark and Finland had been planning together since the late 1960s. Their system was called NMT, short for Nordic Mobile Telephone. Interestingly, the Swedish company Ericsson opened the very first NMT network not in Scandinavia but in Saudi Arabia, on September 1, 1981, as a pilot with about 1,200 users. A month later, in October 1981, NMT opened in Sweden, then in Norway in November. Denmark and Finland followed in 1982.",
+        "NMT had some features that were remarkable for the time. Calls were handed over automatically from one cell to the next as you travelled. Because all four countries used the same system, you could take your phone across the border and keep using it, an early form of what we now call roaming. The NMT rules were also open, so many different companies could build phones for it. Ericsson and Mobira, a Finnish company that became part of Nokia, both made NMT phones, and the competition helped bring prices down.",
+        "The first version, NMT-450, used frequencies around 450 megahertz. Lower frequencies travel farther, which suited countries with long distances, forests, mountains, fjords and scattered villages. A single NMT cell could cover anything from about 2 kilometres to 30 kilometres. By 1985 about 110,000 people in the Nordic countries were using NMT, which made it the world's largest mobile network at the time.",
+        "Most early NMT phones were still car phones or heavy 'portable' units carried like a small suitcase. But the Nordic countries built a habit of using mobile phones that would later help Finnish and Swedish companies become world leaders. NMT kept running for decades in some places. Finland switched its NMT network off at the end of 2002 and Sweden at the end of 2007, and the very last NMT-450 base station in Russia was switched off in 2017."
+      ]
+    },
+    {
+      "heading": "The Brick Goes on Sale",
+      "paragraphs": [
+        "In the United States, the long arguments about frequencies and licences finally ended in the early 1980s. The FCC decided that each city would have two cellular companies, so customers would have some choice. On October 13, 1983, commercial AMPS cellular service opened in Chicago, run by Ameritech Mobile Communications. News reports from the time say that at the opening ceremony at Soldier Field, an Ameritech executive placed a call to a grandson of Alexander Graham Bell, a nice link back to where the whole story began.",
+        "AMPS, the Advanced Mobile Phone System, used frequencies in the 800 megahertz range, divided into channels each 30 kilohertz wide. Each of a city's two cellular companies started with 666 channels, increased to 832 in 1989. Compare that with the three channels of 1946 St. Louis! And because of frequency reuse, every one of those channels could be used again and again in different cells across the city.",
+        "Now ordinary customers could finally buy a handheld cellular phone. The FCC approved Motorola's DynaTAC 8000X on September 21, 1983. It went on sale for 3,995 dollars, which is well over 10,000 dollars in today's money. It was about 25 centimetres tall, offered around 30 minutes of talk time, and needed about 10 hours on its charger. Its small glowing red LED display showed the numbers you dialled, and it could remember 30 phone numbers. Motorola had spent about ten years developing it.",
+        "Despite the price, people put their names on waiting lists to get one. Owning a brick phone became a status symbol for business people, stockbrokers and estate agents. Yet most early cellular customers actually chose car phones, which were cheaper, had stronger transmitters and could run from the car's battery. Calls were also expensive, often costing much more per minute than calls from home.",
+        "First-generation, or 1G, cellular networks such as AMPS, NMT and NTT's system were all analog, and that brought problems. Calls could be noisy and full of static. Anyone with a radio scanner could tune in and listen to private conversations. Criminals learned to copy the identification numbers broadcast by phones, a trick called cloning, so they could make calls charged to someone else's account. In the 1990s cloning cost American phone companies millions of dollars. Different countries also used different systems, so a phone from one country often would not work in another.",
+        "Still, a giant step had been taken. In less than 40 years, phones had gone from a 36-kilogram box in a car trunk to a 1-kilogram brick you could hold in one hand. And the brick was about to start shrinking fast. Through the rest of the 1980s, phones got smaller, lighter and cheaper. Soon engineers would turn voices into digital numbers, and phones would learn a brand-new trick: sending short typed messages, not just voices."
+      ]
+    }
+  ],
+  "deepDive": "Why did the cellular idea need 36 years to go from a memo to a shop counter? Engineers usually point to capacity math, while historians point to regulation. Start with the math. In an old MTS-style system, a city's capacity equals the number of channels, because each channel can carry only one call across the whole area. In a cellular system, capacity is roughly the number of channels multiplied by the number of times each channel can be reused. If channels are split among clusters of N cells, each channel is reused about once per cluster, so a city with C cells has around C divided by N times the capacity of a single-tower system. Shrink the cells and C rises, so capacity rises too, at the price of more towers and more handoffs. Martin Cooper later summed up the long-term trend as 'Cooper's law': the number of conversations that the usable radio spectrum can carry in a given area has doubled roughly every 30 months since the early days of radio, and most of that gain came from smaller cells and smarter reuse rather than from new spectrum. The engineering challenge was handoff. A network needs to measure signal strength continually, choose a new cell and channel, and retune the phone, which demanded fast switching computers that did not exist in 1947. The regulatory story was just as important. The FCC spent years debating how much spectrum to give mobile telephony, whether AT&T should be allowed to dominate it, and how licences should be divided; it eventually created two licences per market, one usually going to a local telephone company. Motorola's 1973 demonstration was partly aimed at these debates, to show that portable phones, not just car phones, were realistic. Historians also debate 'firsts'. Ring and Young described the cellular layout, Bell Labs engineers designed AMPS, Motorola built the first public handheld, NTT ran the first commercial cellular network, and NMT offered early cross-border roaming. Each is a genuine first of a different kind. Hedy Lamarr's patent belongs to a separate line of thinking about secure, jam-resistant radio, which later fed into spread-spectrum methods; it did not create cellular networks.",
+  "funFact": "Douglas Ring's memo describing a cellular phone network was written in December 1947, the same month that Bell Labs first demonstrated the transistor, the tiny part that would eventually make handheld cell phones possible.",
+  "check": {
+    "q": "Whom did Martin Cooper call on April 3, 1973, during the first public handheld cellular phone call?",
+    "a": "Joel Engel, his rival at Bell Labs",
+    "wrong": [
+      "Alexander Graham Bell's grandson",
+      "The President of the United States",
+      "His mother in Chicago"
+    ]
+  },
+  "sources": [
+    {
+      "title": "History of mobile phones",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_mobile_phones"
+    },
+    {
+      "title": "First networks",
+      "publisher": "Ericsson",
+      "url": "https://www.ericsson.com/en/about-us/history/changing-the-world/small-steps-great-advances/first-networks"
+    },
+    {
+      "title": "Martin Cooper (inventor)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Martin_Cooper_(inventor)"
+    },
+    {
+      "title": "Motorola DynaTAC",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Motorola_DynaTAC"
+    },
+    {
+      "title": "Hedy Lamarr",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hedy_Lamarr"
+    },
+    {
+      "title": "Nordic Mobile Telephone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nordic_Mobile_Telephone"
+    },
+    {
+      "title": "Advanced Mobile Phone System",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Advanced_Mobile_Phone_System"
+    },
+    {
+      "title": "Cellular network",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cellular_network"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Martin Cooper holding the Motorola DynaTAC prototype brick phone",
+      "search": "Martin Cooper DynaTAC prototype"
+    },
+    {
+      "want": "A Motorola DynaTAC 8000X brick cell phone from 1983, photographed as a museum object",
+      "search": "Motorola DynaTAC 8000X"
+    },
+    {
+      "want": "Diagram of a hexagonal cellular network showing frequency reuse with numbered cells",
+      "search": "frequency reuse hexagonal cells diagram"
+    }
+  ]
+}

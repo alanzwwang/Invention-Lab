@@ -1,0 +1,144 @@
+{
+  "n": 5,
+  "title": "Ada Lovelace and the Poetry of Numbers",
+  "when": "1833 – 1852",
+  "summary": "Ada Lovelace was the daughter of a famous poet, but her mother made sure she studied maths. When she met Charles Babbage and his calculating machine, she understood it better than almost anyone. In 1843 she wrote a famous set of notes showing how the machine could be given step-by-step instructions, and she even imagined it making music.",
+  "sections": [
+    {
+      "heading": "The Poet's Daughter Who Was Given Mathematics",
+      "paragraphs": [
+        "On 10 December 1815, in a grand house in London, a baby girl was born into one of the most famous and most gossiped-about families in Britain. Her name was Augusta Ada Byron, and everyone soon called her Ada. Her father was George Gordon, Lord Byron, the most celebrated poet of the age. Young people copied his hairstyle and his moody looks, and his long poems sold like modern bestsellers. Her mother was Anne Isabella Milbanke, usually called Annabella, a clever, serious woman who had studied mathematics with a private tutor. Byron himself teasingly called her his 'Princess of Parallelograms'.",
+        "The marriage was a disaster. When Ada was only about five weeks old, on 16 January 1816, her mother packed up and left with the baby for her own family's home at Kirkby Mallory in Leicestershire. A few months later, in April 1816, Byron left England for good. Ada never saw her father again. He travelled through Europe, wrote some of his greatest poems, and died in Greece in April 1824, when Ada was eight years old. It is often said that his portrait in her home was kept covered, and his name was surrounded by whispers.",
+        "Lady Byron had a plan for her daughter. She worried that Ada might inherit what she saw as her father's wild, poetic temperament, so she gave the girl a strict diet of the most orderly subjects she could think of: arithmetic, geometry, science and music practice. Ada had lessons every day and a timetable that left little room for idleness. It was an unusual education. In the early 1800s most girls, even rich ones, learned French, drawing, needlework and piano, and were not expected to go deep into mathematics at all.",
+        "The plan did not stamp out Ada's imagination. Instead, imagination and mathematics got tangled together in the most interesting way. Around the age of twelve, in 1828, Ada decided she wanted to fly. She studied the bodies of birds to see how their wings were shaped and how big they were compared with their bodies. She thought about materials such as paper, silk and feathers, and she imagined a flying machine, perhaps powered by steam, in the shape of a horse. She even planned to write a book about it, to be called Flyology. She was approaching the question like an engineer: look closely at nature, measure, compare, then design.",
+        "Then illness struck. In 1829, after a bout of measles, Ada became paralysed and spent nearly a year confined to bed. It took years for her to recover fully; by 1831 she could walk with crutches. Being stuck in bed for so long is miserable for anyone, but for a bright teenager it also meant long hours alone with books, and Ada kept studying. She had a string of tutors over the years, including William Frend, a mathematician who had once been Lady Byron's own teacher, and a doctor named William King, who helped her with mathematics and science. Later on she would find two much greater teachers."
+      ]
+    },
+    {
+      "heading": "Mary Somerville and Augustus De Morgan",
+      "paragraphs": [
+        "As Ada grew into her late teens she came to know Mary Somerville, and this friendship mattered enormously. Somerville, born in Scotland in 1780, was one of the most respected scientific writers in Europe. As a girl she had been told that too much study was bad for women, so she had taught herself algebra and geometry in secret, partly from books that her younger brother's tutor found for her. By the 1830s she had translated and explained the French mathematician Pierre-Simon Laplace's enormous work on the motions of the planets, and written a popular book about how all the physical sciences connect. In 1835 she and Caroline Herschel became the first two women made honorary members of the Royal Astronomical Society.",
+        "For Ada, Somerville was proof that a woman could be a real scientist. They talked about mathematics, went to scientific lectures and demonstrations together, and wrote letters. Somerville lent her books and encouraged her to keep going when the work got hard. Through Somerville's circle, Ada met many of the scientists and inventors of London.",
+        "Her other great teacher came later. In the early 1840s, already married and a mother, Ada studied advanced mathematics with Augustus De Morgan, a professor at University College London and one of the leading logicians in Britain. Much of their teaching happened by letter, almost like a correspondence course. Ada would work through calculus problems, get stuck, and write long letters full of questions; De Morgan would reply with explanations. He was impressed. In a letter to Lady Byron he suggested that if a young man had shown such power of thinking, it might have made him an original mathematician of the first rank. That was high praise from a strict professor, even though it shows how differently men and women were judged at the time.",
+        "De Morgan's help would turn out to be important for one particular topic: a strange and famous sequence of fractions called the Bernoulli numbers. Ada would later choose those very numbers for the most famous example in her writing. Remember them; we will meet them again.",
+        "Somerville also showed Ada that science could be shared. Her books were written so that ordinary educated readers, not just experts, could follow the newest discoveries. Years later, Ada would try to do the same thing for a machine that almost nobody understood."
+      ]
+    },
+    {
+      "heading": "A Party, and a Machine That Calculated",
+      "paragraphs": [
+        "Picture a London drawing room in the early summer of 1833. Candles glow, people in fine clothes chatter, and in one corner stands a gleaming arrangement of brass wheels and columns. This was the world of Charles Babbage, the mathematician you met in the last part. Babbage held famous evening parties, and the cleverest people in London liked to be invited: scientists, writers, politicians and travellers. On 5 June 1833, seventeen-year-old Ada Byron met him for the first time.",
+        "Soon afterwards, Ada and her mother were shown the small finished section of Babbage's Difference Engine, the demonstration piece that had been assembled before work on the full machine stopped. Babbage would turn a handle, the wheels would click round, and numbers would appear on the columns, each one calculated by the brass mechanism itself. Many visitors saw it as a clever toy. Sophia Frend, who later married Augustus De Morgan, remembered the scene years afterwards: while other visitors gaped at the moving parts the way people stare at a magic trick, young Ada understood how it worked and saw why it was beautiful.",
+        "That meeting began a friendship that lasted the rest of her life. Babbage was a bit over forty, Ada was seventeen, and they wrote to each other for years about mathematics, machines, music, science and the latest news. Babbage was by then working on his much more ambitious design, the Analytical Engine, which could be given instructions on punched cards and make choices based on its own results. Very few people understood what he was trying to do. Ada wanted to.",
+        "Life kept moving too. On 8 July 1835, Ada married William King, a quiet, kindly nobleman (not the same William King who had been her tutor). In 1838 he was made Earl of Lovelace, which made Ada the Countess of Lovelace, the name history remembers her by. They had three children: Byron, born in 1836, Annabella, born in 1837, and Ralph, born in 1839. For a few years, babies, illness and running large households took most of her time. But she never let go of mathematics, and around 1840 she wrote to Babbage hinting that she would like to help him in some way. Her chance came from an unexpected direction: Italy."
+      ]
+    },
+    {
+      "heading": "An Article from Turin, and Notes Three Times Longer",
+      "paragraphs": [
+        "In 1840 Babbage travelled to Turin, in northern Italy, to present his ideas about the Analytical Engine to a gathering of Italian scientists. It was the only time he explained the Engine in detail to a big scientific meeting. In the audience sat a young military engineer named Luigi Menabrea, who took careful notes. Menabrea would later become a general and, from 1867 to 1869, prime minister of Italy, but in 1842 he was simply a clever engineer who wanted to explain what he had heard. He wrote an article in French describing the Analytical Engine, and it was published in October 1842 in a Swiss journal, the Bibliothèque universelle de Genève.",
+        "Ada read it and decided to translate it into English. A friend of Babbage's, the scientist Charles Wheatstone, encouraged the idea, because almost nothing about the Engine had been published in Britain. Ada spent about nine months, from late 1842 into 1843, on the job. When Babbage saw the translation he asked her why she had not written an original paper of her own, since she understood the machine so well. Ada's answer was to add her own explanations to the translation, as a series of notes.",
+        "Those notes grew, and grew, and grew. In the end there were seven of them, labelled A to G, and together they were about three times as long as Menabrea's original article. Ada and Babbage sent letters and drafts back and forth through the spring and summer of 1843, sometimes several times in a week. Babbage supplied facts about the design and checked details; Ada wrote, argued, corrected and polished. At one point she was furious when Babbage wanted to add a complaint about the government to the publication without signing it, and she refused to let her work be used that way. She was proud of the Notes and determined that they should be about the ideas.",
+        "The translation and Notes were published in 1843 in a series called Scientific Memoirs, edited by Richard Taylor, which printed translations of important foreign science papers. They were signed only with her initials: A.A.L., for Augusta Ada Lovelace. At the time it was unusual and could be awkward for an aristocratic woman to publish science under her full name, but among scientists in London it soon became known who A.A.L. was.",
+        "What was in the Notes? Note A explained the big difference between Babbage's two machines. The Difference Engine could only do one kind of job, building tables by adding differences. The Analytical Engine was general: it could be told, by punched cards, to carry out any sequence of arithmetic operations. Ada compared the Engine with the Jacquard loom, which you met in Part 3, and she did it in one of the most quoted sentences in the history of computing: 'We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard-loom weaves flowers and leaves.' Other notes explained how cards for operations and cards for variables worked together, how the same set of cards could be used again and again, and how results from one step could be stored and fed into the next."
+      ]
+    },
+    {
+      "heading": "Note G: A Recipe for the Bernoulli Numbers",
+      "paragraphs": [
+        "The last and longest note, Note G, contains the part that made Ada famous among computer scientists: a detailed, step-by-step plan for the Analytical Engine to calculate a series of numbers called the Bernoulli numbers.",
+        "First, what are they? The Bernoulli numbers are named after the Swiss mathematician Jacob Bernoulli, who wrote about them in a book published in 1713. They pop up in many corners of mathematics, for example when you want a quick formula for adding up the first hundred squares or cubes. The first few look friendly (1, then minus one half, then one sixth), but they soon become wild fractions with large numerators and denominators. Working them out by hand is slow and easy to get wrong. That made them a perfect showcase: a calculation hard enough to impress, with a clear pattern a machine could follow.",
+        "Ada did not just say 'the Engine could do this'. She laid out the whole process in a large table. Each row was one operation, numbered in order. The columns showed which operation the mill should perform (add, subtract, multiply or divide), which numbered storage places, called variables, should supply the inputs, where the answer should be stored, and how the stored values changed after each step. This is very close to what we now call an algorithm, a precise list of steps that solves a problem, written out so that something with no understanding at all could follow it.",
+        "Two ideas in Note G look strikingly modern. The first is the loop. Ada pointed out that a group of operations needed to be repeated over and over, with slightly different numbers each time, and that the Engine could reuse the same cards instead of needing a fresh set for every repetition. Today every programmer uses loops, which tell a computer to 'do this again until you are finished'. The second idea is reusing memory: once a stored number was no longer needed, its place could be cleared and used for something new.",
+        "Her table targets the Bernoulli number she called B7, which modern mathematicians usually call B8, and its correct value is minus one thirtieth. Because the Analytical Engine was never built, her program was never run in her lifetime. In recent years, people have typed Ada's table into modern computers to test it, and they found a small slip: in operation number 4, two variables in a division appear in the wrong order. Written that way, the program would give a wrong answer. It is almost certainly a printing or copying mistake, exactly the kind of tiny bug that every programmer still makes today, and it does not change the fact that the method itself is sound.",
+        "Babbage, writing about these events years later in his memoir of 1864, said that he had suggested several examples but that the choice was entirely hers, and that she worked out the algebra herself, except for the Bernoulli numbers, which he had offered to do to save her the trouble. She sent his working back to him, he wrote, because she had found a grave mistake he had made in the process. That story says a lot about how they worked together: not as master and helper, but as two people checking each other's thinking.",
+        "To picture how this would have worked, imagine the Engine's store as a long row of numbered boxes, each holding one big number. The operation cards are like a list of verbs: add, multiply, divide. The variable cards are like a list of addresses: take the number from box 2, combine it with the number in box 5, put the answer in box 13. Put together in the right order, the two stacks of cards would tell the mill exactly what to do at every moment, and the store would keep the partial answers until they were needed again. A modern processor works in a very similar way, only billions of times faster."
+      ]
+    },
+    {
+      "heading": "Beyond Numbers: Music, Symbols and Poetical Science",
+      "paragraphs": [
+        "If Note G was the most detailed part of Ada's writing, her boldest idea appeared in Note A. Almost everyone, including most of the scientists who admired Babbage, thought of his Engine as a super-calculator, a machine for numbers. Ada saw something bigger. The Engine, she explained, works by following rules on symbols. Numbers are one kind of symbol, but they are not the only kind. If other things, such as the notes and harmonies of music, could be expressed as symbols with exact rules about how they combine, then the Engine could work on those too. In her words, the Engine 'might compose elaborate and scientific pieces of music of any degree of complexity or extent'.",
+        "That is a remarkable leap. Today your phone uses the same kind of chip to play songs, show photos, translate languages and run games. All of them are turned into numbers and symbols that the processor manipulates by rules. Ada glimpsed this in 1843, more than a hundred years before the first electronic computers. The Computer History Museum describes her as the first person to clearly express the idea that a machine could manipulate symbols, not just quantities, which marks the shift from calculation to computation.",
+        "Ada also gave an important warning. She wrote that the Analytical Engine 'has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform.' In other words, the Engine would not have ideas of its own; it would only follow its instructions, however clever they were. More than a century later, in 1950, Alan Turing discussed this sentence in his famous paper about whether machines can think, and he called it 'Lady Lovelace's Objection'. People still argue about it whenever a computer does something surprising.",
+        "Ada had a phrase for her own way of thinking: 'poetical science'. She believed that imagination was not the enemy of mathematics but one of its most important tools, because it lets a scientist see connections nobody else has noticed. In a way, she had turned her mother's plan on its head. Lady Byron had tried to use mathematics to keep poetry out of her daughter. Ada used poetry and imagination to see further into mathematics. Babbage, delighted by her Notes, called her in a letter the 'Enchantress of Number'."
+      ]
+    },
+    {
+      "heading": "Who Was the First Programmer? A Fair Look",
+      "paragraphs": [
+        "Ada Lovelace is often called the first computer programmer. You will see the title in books, on posters and in museums. It is a wonderful story, but historians disagree about whether it is exactly right, and it is worth seeing why.",
+        "The main point is this: Babbage himself had sketched programs for the Analytical Engine before 1843. In 1990 the historian Allan Bromley, who studied Babbage's papers in great detail, pointed out that Babbage had prepared a number of sample programs between about 1837 and 1840, years before the Notes. Bromley argued that almost all of the example calculations in the Notes had first been worked out by Babbage. Other writers, such as Dorothy Stein, went further and argued that Ada's mathematical skills were weaker than her admirers claim.",
+        "On the other side, many historians and scientists point out that the Bernoulli program in Note G is far longer and more complicated than Babbage's earlier sketches, that her letters show her driving its details and even catching one of his mistakes, and that it was the first such program to be published for anyone to read. The computer scientist Stephen Wolfram, after reading her letters, concluded that she was the one who drove the Bernoulli calculation forward. And nearly everyone agrees on one thing: the vision in the Notes, that a computing machine could handle any kind of symbol and could be useful far beyond arithmetic, is credited to Ada. Babbage never wrote about his machine that way.",
+        "So what is fair to say? Ada Lovelace did not invent the computer; Babbage designed the Engine. She may not have written the very first program; Babbage had sketched some earlier, which is why the title is debated. But she wrote the first published, detailed program for a general-purpose computer, she explained the Engine more clearly than anyone of her time, and she saw what computers could become better than almost anyone for a hundred years. That is a large enough achievement for anyone."
+      ]
+    },
+    {
+      "heading": "A Short Life and a Long Legacy",
+      "paragraphs": [
+        "Ada's health was never strong, and in her last years things grew harder. She was often ill and was given medicines such as laudanum, a form of opium, for pain, which was common at the time. She also got involved in betting on horse races and ran up large debts, which caused her family great worry. In 1851 she became seriously ill with cancer of the womb. Doctors of the day had few useful treatments, and some, such as bleeding patients, may have made her weaker.",
+        "Ada Lovelace died on 27 November 1852 in London. She was 36 years old, the same age at which her father had died. At her own request she was buried next to him, the father she had never known, in the Church of St Mary Magdalene at Hucknall in Nottinghamshire.",
+        "For about a hundred years her Notes were mostly forgotten, along with Babbage's Engines. Then, in 1953, as the first electronic computers were being built, the British scientist B. V. Bowden reprinted the Notes in a book about the new machines called Faster Than Thought. Computer pioneers were astonished to find that someone had described programming in the 1840s.",
+        "Her name now lives on in many ways. In the late 1970s the US Department of Defense sponsored a new programming language for reliable, safety-critical software, the kind that runs aircraft, trains and military systems. It was named Ada in her honour, and its official reference manual was approved on 10 December 1980, her 165th birthday. Since 2009, Ada Lovelace Day, now held on the second Tuesday of October, has celebrated women in science, technology, engineering and mathematics. Her portrait has appeared on stamps, in the names of computer chips and buildings, and in countless classrooms.",
+        "Babbage outlived her by almost nineteen years. He kept refining his designs, drawing thousands of pages of plans, but he never found the money or the support to build the Analytical Engine. When he died in 1871, his Engines sank into near-obscurity, admired by a few but copied by nobody. Yet one of the ideas both he and Ada had borrowed from the Jacquard loom was about to come roaring back. Within twenty years, holes punched in cards would be counting an entire nation."
+      ]
+    }
+  ],
+  "deepDive": "How much of the 1843 Notes was Ada's own work? The debate is lively because the evidence is tangled. Babbage and Lovelace exchanged dozens of letters while she wrote, and Babbage reviewed drafts, supplied technical facts and, by his own 1864 account, offered to work out the algebra for the Bernoulli calculation himself. The historian Allan Bromley, studying Babbage's manuscripts, found sample programs for the Analytical Engine that Babbage had drafted between about 1837 and 1840, and argued that the Notes' examples largely came from that earlier work. Dorothy Stein's 1985 biography painted Ada as a struggling student whose mathematics depended on others. Later scholars, using the letters edited by Betty Alexandra Toole and Ada's correspondence with De Morgan, have pushed back. They point to the length and structure of the Bernoulli program, which is far longer than Babbage's sketches and uses a repeating cycle, to Ada catching an error in Babbage's working, and above all to the conceptual passages. Babbage described a machine for calculating; Ada described a machine for manipulating symbols according to rules, and suggested that music or other non-numerical material could be encoded and processed. That idea, the separation between a general machine and the meaning of the symbols it handles, is at the heart of modern computer science, and later thinkers such as Alan Turing engaged directly with her writing. Most historians now settle on a balanced view: the Engine and its first program sketches were Babbage's, the published Bernoulli program was a joint effort that Ada carried through and explained, and the far-reaching vision of general-purpose computing is hers. The 'first programmer' label is therefore best seen as a fair shorthand that needs a footnote. It is also worth remembering the limits of all this: the Analytical Engine was never built, so none of these programs ran until modern enthusiasts simulated them, revealing that small slip in operation 4 of Note G's table.",
+  "funFact": "The official US military standard for the Ada programming language was numbered MIL-STD-1815, after the year Ada Lovelace was born.",
+  "check": {
+    "q": "Which numbers did Ada Lovelace's Note G show the Analytical Engine how to calculate?",
+    "a": "The Bernoulli numbers",
+    "wrong": [
+      "The prime numbers",
+      "The digits of pi",
+      "The tide tables for London"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ada Lovelace",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ada_Lovelace"
+    },
+    {
+      "title": "Note G",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Note_G"
+    },
+    {
+      "title": "Ada Lovelace (The Babbage Engine)",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/babbage/adalovelace/"
+    },
+    {
+      "title": "Analytical Engine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Analytical_engine"
+    },
+    {
+      "title": "Ada (programming language)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ada_(programming_language)"
+    },
+    {
+      "title": "Mary Somerville",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mary_Somerville"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Portrait of Ada Lovelace painted by Margaret Carpenter in 1836",
+      "search": "Ada Lovelace portrait Margaret Carpenter"
+    },
+    {
+      "want": "Ada Lovelace's Note G table (diagram for the computation of Bernoulli numbers) from the 1843 Notes",
+      "search": "Lovelace Note G Bernoulli diagram"
+    },
+    {
+      "want": "Portrait of Mary Somerville, Scottish scientist and Ada's mentor",
+      "search": "Mary Somerville portrait"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "n": 18,
+  "title": "Bugs, Waste and Worries",
+  "when": "1980s – today",
+  "summary": "Computers are amazing, but they are not perfect. One tiny number mistake blew up a rocket, and a mix-up between two different measuring units lost a spacecraft at Mars. Computers also create rubbish, use lots of electricity and are not shared fairly, so people are working hard to make them safer, greener and fairer.",
+  "sections": [
+    {
+      "heading": "Thirty-Seven Seconds Over the Jungle",
+      "paragraphs": [
+        "On the morning of 4 June 1996, a brand-new rocket stood on the launch pad at Kourou, in French Guiana, on the north-east coast of South America, surrounded by tropical forest. It was Ariane 5, the European Space Agency's biggest rocket so far, the result of about ten years of work. Packed inside its nose were four scientific satellites called Cluster, built to study how the Sun's stream of charged particles interacts with Earth's magnetic field.",
+        "The engines lit and the rocket rose smoothly. Then, about 37 seconds after lift-off, it suddenly swung sideways. The huge forces of the air rushing past began tearing it apart, and its automatic safety system blew it up. Burning pieces fell into the swamps near the launch site. The rocket and its satellites, worth more than 370 million US dollars, were gone. Nobody was hurt, but it was one of the most expensive software mistakes in history.",
+        "An inquiry board led by the French mathematician Jacques-Louis Lions investigated. What they found was almost unbelievably small. To understand it, you need to know about variables. A variable is a named box in a computer's memory that holds a number. Each box has a fixed size. A 16-bit box can hold whole numbers only from about minus 32,768 to plus 32,767. That is plenty for many jobs, but not if the number gets bigger.",
+        "Part of Ariane 5's guidance software had been copied from the older, smaller Ariane 4 rocket, where it had worked perfectly for years. One piece of that code took a measurement related to the rocket's sideways (horizontal) speed, stored as a large, precise number, and squeezed it into a 16-bit box. On Ariane 4 the number never grew big enough to overflow. But Ariane 5 was more powerful and picked up sideways speed much faster. The number became too big for its box, an error called an overflow.",
+        "The computer in the rocket's inertial reference system, the unit that tracks the rocket's position and movement, stopped with an error. There was a backup unit, but it ran exactly the same software, so it had already failed in exactly the same way a fraction of a second earlier. Worse, the failed unit sent out a pattern of error-checking data, and the main flight computer misread it as real flight information. It thought the rocket was badly off course and swung the engine nozzles hard to correct it. That violent swing doomed the rocket.",
+        "The strangest part was that the calculation that overflowed was not even needed after lift-off. It was a leftover from Ariane 4 that kept running for a short time after launch. The inquiry said the system had treated the software as correct until it was shown to be at fault, when it should have been checked more carefully. Engineers around the world learned important lessons: never assume old code is safe in a new situation, test with realistic conditions, and make sure a backup is not a perfect copy of the same mistake. Happily, the Cluster scientists did not give up. Replacement satellites, Cluster II, were launched successfully in 2000 and studied space around Earth for many years."
+      ]
+    },
+    {
+      "heading": "Pounds, Newtons and a Lost Spacecraft",
+      "paragraphs": [
+        "Three years later, NASA lost a spacecraft because two teams were using different units of measurement. It sounds like a mistake from a school maths test, but it happened to a mission that cost hundreds of millions of dollars.",
+        "The Mars Climate Orbiter was launched from Cape Canaveral, Florida, on 11 December 1998. Its job was to circle Mars, study its thin atmosphere and weather, and act as a radio relay for a lander due to arrive later. For more than nine months it sailed through space toward Mars, with small rocket thrusters firing now and then to adjust its path.",
+        "To steer a spacecraft, navigators on Earth need to know exactly how much each small thruster firing has pushed it. That push is called an impulse. Scientists normally measure it in newton-seconds, which is part of the metric system (also called SI units). The spacecraft's builder, the company Lockheed Martin, provided software on the ground that reported these pushes in pound-force seconds, a unit from the older imperial system used in the United States. NASA's navigation software expected newton-seconds. One pound-force second equals about 4.45 newton-seconds, so the size of every small push was underestimated by that factor of about 4.45.",
+        "Each error was tiny, but over months they added up. On 23 September 1999 the orbiter fired its main engine to slip into orbit around Mars. The plan was to pass about 226 kilometres above the surface. In fact, later calculations showed it was heading to within about 57 kilometres, far too low. At that height, the Martian atmosphere would have heated and battered the spacecraft. It went behind the planet as planned, and was never heard from again. It was most likely destroyed in the atmosphere, or possibly knocked back out into space.",
+        "Investigators pointed out that the unit mix-up was the direct cause, but that it was not the only failure. There had been signs that the path was drifting, and checks that should have caught the problem did not. NASA reported the total cost of the orbiter and its sister lander mission, including launch, as about 327.6 million dollars. Today, the Mars Climate Orbiter is a favourite example in science and engineering classes. Teachers use it to show why units matter, why teams must agree on them in writing, and why it is important to speak up when numbers look strange."
+      ]
+    },
+    {
+      "heading": "The Millennium Bug",
+      "paragraphs": [
+        "As the year 2000 got closer, many people became worried about a computer problem with a catchy name: the Y2K bug, short for 'Year 2 thousand'. Some newspapers warned that planes might fall from the sky, power stations might shut down and bank accounts might vanish at midnight on 31 December 1999. What was going on?",
+        "The problem went back to the early days of computing, when memory and storage were very expensive. To save space, programmers often stored years using only the last two digits: 65 for 1965, 99 for 1999. That worked fine for decades. But when the clock rolled over from 99 to 00, many programs would read 00 as 1900, not 2000. A computer might decide that someone born in 1990 was minus 90 years old, that a bill paid in 2000 was a century overdue, or that a date in January 2000 came before one in December 1999. Programs that sorted, compared or counted dates could produce nonsense or crash.",
+        "Nobody knew exactly how many programs were affected, because the two-digit habit was everywhere, in banks, governments, airlines, hospitals, power companies and factory equipment, often in very old code that few people still understood. So, during the late 1990s, armies of programmers combed through billions of lines of code, fixing dates, testing systems and replacing old equipment. Some programmers who knew old languages such as COBOL were brought out of retirement. Governments set up special committees, and companies practised what they would do if things went wrong.",
+        "It was hugely expensive. Estimates suggest that the world spent more than 300 billion US dollars getting ready. Then midnight came, time zone by time zone, starting in the Pacific, and very little happened. There were some small glitches. In Japan, ticket machines at 13 train stations briefly stopped working. In Greece, about 30,000 cash registers printed receipts dated 1900. A German bank briefly made a wrong transfer, which was quickly fixed. One video shop in the United States reportedly tried to charge a customer a late fee of $91,250, because its system believed a film was 100 years overdue.",
+        "Afterwards, people argued about Y2K. Some said the danger had been exaggerated, and that the media had frightened people unnecessarily. Others replied that things went smoothly precisely because so much careful repair work had been done in advance, like a flood that never happens because people built the wall in time. Most computer experts think the truth includes both: some fears were overblown, but the fixing work was real and necessary.",
+        "And the story is not completely over. Many computers count time as the number of seconds since 1 January 1970. Older systems store that count in a 32-bit box, which will overflow at 3:14:07 in the morning (Universal Time) on 19 January 2038. Engineers call this the Year 2038 problem, and they are already fixing it, by switching to bigger boxes that will last for billions of years."
+      ]
+    },
+    {
+      "heading": "Viruses, Worms and Keeping Safe",
+      "paragraphs": [
+        "A bug is an accident. But some computer problems are made on purpose. Malware, short for 'malicious software', is the name for programs written to cause trouble: to damage files, spy on people, steal information or lock a computer until someone pays money.",
+        "One of the earliest self-copying programs was an experiment called Creeper, written in 1971 by Bob Thomas at a company called BBN. It travelled between computers on ARPANET, an early network, and displayed a cheeky message. It did no real harm, and another program, called Reaper, was written to chase it down and delete it. In 1982 a high-school student named Rich Skrenta wrote Elk Cloner for the Apple II. It spread on floppy disks, and on every 50th start-up it showed a short silly poem. It is often called one of the first personal-computer viruses to spread 'in the wild', meaning among ordinary users rather than in a lab.",
+        "In January 1986, two brothers in Lahore, Pakistan, Basit and Amjad Farooq Alvi, created a program known as Brain. It is considered the first virus for IBM PCs and compatible computers. Brain hid in the boot sector of a floppy disk, the first part the computer reads when it starts up, and copied itself onto other floppies. The brothers ran a business selling medical software and said they wrote it to discourage people from making illegal copies of their programs. Strangely, the virus contained a message with their real names, address and phone numbers. Brain was fairly mild compared with many later viruses, but it spread around the world and showed how easily a program could travel from computer to computer.",
+        "Around the same time, the researcher Fred Cohen published scientific papers on self-copying programs and helped make the word 'virus' popular, because these programs spread like germs. Computer scientists distinguish a few kinds. A virus attaches itself to another program or file and runs when that file runs. A worm is a separate program that spreads on its own across networks. A trojan, named after the wooden horse in the ancient Greek story, pretends to be something useful while hiding something harmful. Ransomware scrambles or locks a person's files and demands payment to unlock them.",
+        "As more of life moved onto computers, protecting information became very important. Antivirus programs look for known malware, a bit like a police officer with a book of 'wanted' photos, and also watch for suspicious behaviour. Software companies send out updates to fix security weaknesses, which is why updating your devices matters. Strong passwords help, especially long ones made of several random words, and so does two-step verification, where you need a code from another device as well as your password.",
+        "There is also a quieter worry: privacy. Many apps and websites collect information about what people search for, watch, buy and where they go. Some of this helps services work better, but it can also be used to target advertising or, if leaked or stolen, to cause harm. Many countries now have laws about what data companies may collect and how they must protect it. A good everyday rule is to share as little personal information online as you need to, and to ask a trusted adult if something seems odd."
+      ]
+    },
+    {
+      "heading": "Where Gadgets Come From, and Where They Go",
+      "paragraphs": [
+        "Every phone, laptop and games console begins in the ground. Its chips need very pure silicon, made from sand. Its wires use copper. Its battery may contain lithium and cobalt. Tiny parts called capacitors often use a metal called tantalum. There are traces of gold, silver, tin and rare earth elements too.",
+        "Getting some of these materials causes serious problems. The Democratic Republic of the Congo, in central Africa, supplies most of the world's cobalt, around two-thirds to three-quarters in recent years. Much of it comes from large industrial mines, but some is dug by hand by so-called artisanal miners, who often work in narrow tunnels without helmets, masks or proper ventilation. Studies have found high levels of cobalt in the bodies of people living near these sites, and campaign groups have reported children working in some mines. Tantalum comes partly from an ore called coltan, mined in the eastern part of the same country, where for years money from minerals has helped pay for armed groups. That is why people sometimes speak of 'conflict minerals'. Many electronics companies now try to trace where their materials come from, though this is difficult.",
+        "Then there is the other end of a gadget's life. When devices break or become old-fashioned, they often get thrown away. Discarded electronics are called e-waste. According to the Global E-waste Monitor 2024, a report produced with United Nations organisations, the world generated about 62 million tonnes of e-waste in 2022. That is an increase of 82 percent since 2010, and it is still growing by more than 2 million tonnes a year. Only about 22 percent of it was documented as properly collected and recycled.",
+        "Where does the rest go? Some sits forgotten in drawers. Some ends up in landfill. A lot is shipped to places where people take it apart by hand to recover valuable metals. At sites such as Agbogbloshie in Accra, Ghana, and Guiyu in southern China, workers have burned plastic-coated cables to get the copper out, or soaked circuit boards in acid, releasing toxic substances such as lead, mercury and cadmium into the air, soil and water. These are harmful especially to children.",
+        "It is also wasteful. A tonne of old electronics can contain far more gold than a tonne of gold ore dug from a mine. The 2024 report estimated that about 62 billion dollars' worth of recoverable materials in e-waste was not accounted for in 2022. Good recycling plants can recover many of these metals safely.",
+        "What helps? Using devices for longer is one of the best things anyone can do. Repairing them, instead of replacing them, keeps them out of the bin. A 'right to repair' movement is pushing companies to sell spare parts and share repair instructions, and some countries have passed laws to make this easier. Community 'repair cafés' let volunteers help people fix broken gadgets. Passing old devices on to someone who can use them, and handing in dead ones at proper recycling points, also make a difference."
+      ]
+    },
+    {
+      "heading": "Hungry, Thirsty Machines",
+      "paragraphs": [
+        "When you watch a video, send a message or ask a question online, the work does not happen only in your device. Somewhere, a data centre does a lot of it. A data centre is a building, sometimes as big as several football pitches, filled with rows of computers called servers, stacked in tall racks and connected by thousands of cables. They store photos and videos, run websites and games, and increasingly train and run artificial intelligence programs.",
+        "All those servers use electricity, and they also produce heat, which must be removed or the chips would be damaged. According to the International Energy Agency, data centres around the world used about 415 terawatt-hours of electricity in 2024, about 1.5 percent of all the electricity the world used. One terawatt-hour is a billion kilowatt-hours, so this is roughly comparable to the yearly electricity use of a large European country. Data centre use has been growing by around 12 percent a year, and the IEA expects it could roughly double by 2030, partly because of the rapid growth of AI.",
+        "Cooling often uses water. Many large data centres cool their machines by letting water evaporate, which carries heat away, just as sweating cools your skin. In some dry places, people have raised concerns about data centres competing with homes and farms for water. Engineers are trying many ideas: building in cool climates, using outside air, recycling waste water, and even dipping servers into special liquids that carry heat away efficiently. The best modern data centres waste much less energy on cooling than older ones.",
+        "Making chips also takes enormous resources. Chip factories, called fabs, run day and night, and they need huge amounts of electricity and ultra-pure water, which is cleaner than any drinking water, to rinse the silicon wafers during the hundreds of steps of manufacturing that you read about in Part 14. When a drought hits a region where many fabs are, chip companies may have to bring in water by truck.",
+        "The good news is that computers have also become much more efficient. A modern phone does vastly more work per unit of electricity than a 1990s desktop. Many tech companies buy electricity from wind and solar power. And computers help fight waste too, for example by running electricity grids more smoothly, designing better batteries and modelling the climate. The challenge is to make sure the benefits are bigger than the costs."
+      ]
+    },
+    {
+      "heading": "Who Gets to Use Computers, and Who Builds Them?",
+      "paragraphs": [
+        "Not everyone shares in the computer age equally. The gap between people who have good access to computers and the Internet and people who do not is called the digital divide. According to the International Telecommunication Union, a United Nations agency, about 67 percent of the world's population used the Internet in 2023, which left around 2.6 billion people offline, mostly in the poorest countries and in rural areas. Even within rich countries, some families cannot afford a laptop or fast connection, and some older people never learned to use them. When homework, job applications and doctors' appointments move online, people without access can be left behind.",
+        "There is a gender gap too. Worldwide, women are somewhat less likely than men to use the Internet, and the gap is largest in the lowest-income countries.",
+        "Another fairness question is about who designs computers and software. You have met many women in this story: Ada Lovelace, the Harvard star 'computers', the codebreakers of Bletchley Park, the six ENIAC programmers, Grace Hopper, Katherine Johnson, Dorothy Vaughan, Margaret Hamilton and Sophie Wilson. In the early days of computing, programming was often seen as suitable work for women.",
+        "But something changed. In the United States, the share of computer science bachelor's degrees earned by women grew through the 1970s and peaked at about 37 percent in 1984. Then it fell, to about 30 percent in 1990 and 27 percent by 1998. In the 2010s, fewer than 1 in 5 computer science students were women; one estimate for 2018 was 18 percent.",
+        "Researchers have suggested several reasons. In the 1980s, home computers were often advertised mainly as toys for boys, so many boys arrived at university with years of programming practice while many girls had been given less chance. A stereotype grew up of the programmer as an antisocial young man, and studies have shown that such images can discourage people who do not see themselves in them. Women also had few role models in films and TV, and some faced unwelcoming classrooms and workplaces.",
+        "Many people are working to change this, through coding clubs for girls, mentoring, and better teaching that welcomes beginners. Some universities have greatly increased the share of women in their computing courses by changing how they teach introductory classes. This matters not only for fairness. Computers are used by everyone, so they are better when they are designed by teams that include all kinds of people."
+      ]
+    },
+    {
+      "heading": "Screens, Safety and Balance",
+      "paragraphs": [
+        "Finally, there is a question that many families talk about: how much time should we spend on screens? There is no single answer that is right for everyone. Researchers are still studying how screen use affects people, and the results depend a lot on what someone is doing. Making a video, writing code, video-calling a grandparent or researching an invention for a website is very different from scrolling for hours without really choosing to.",
+        "Some sensible ideas come up again and again. Getting enough sleep matters, so many experts suggest putting screens away for a while before bed. Moving your body, being outdoors and spending time with friends and family in person are important for health and happiness. Taking regular breaks helps your eyes and your posture. And it is worth noticing how different apps make you feel, and whether you are using them or they are using you, because many are designed to keep people watching as long as possible.",
+        "Online safety matters too. Keep personal details such as your full name, address, school and passwords private. Be careful about who you talk to online, remember that people are not always who they say they are, and be kind, because there is a real person behind every screen. If something online feels wrong, scary or upsetting, tell a parent, teacher or another trusted adult. That is always the right thing to do, and you will not be in trouble for asking for help.",
+        "None of these worries mean that computers are bad. They are tools, extraordinarily powerful ones, and like all powerful tools they need care, rules and good judgement. Engineers learned from Ariane 5 and the Mars Climate Orbiter. Programmers fixed Y2K before it struck. People are designing safer software, greener data centres, better recycling and fairer classrooms. The problems are real, but so are the people solving them.",
+        "And some of the most powerful computers of all are being used to tackle the biggest questions. In the next part, we visit machines the size of a basketball court that forecast storms and simulate stars, and the new kind of 'thinking' software, called artificial intelligence, that they help to create."
+      ]
+    }
+  ],
+  "deepDive": "The failures of Ariane 5 and the Mars Climate Orbiter are classic case studies in software engineering because neither was caused by a careless typo. Both arose at interfaces: between old code and a new rocket, and between two organisations' software. In Ariane 5's case, the Lions report noted that the conversion from a 64-bit floating-point number to a 16-bit signed integer had been left unprotected on purpose, because analysis for Ariane 4 had shown the value could never get that large. That assumption was never revisited for the new rocket's flight profile. The redundant inertial units provided no protection because they ran identical software, an example of what engineers call common-mode failure. Modern safety-critical systems therefore use diverse redundancy, formal verification and testing with realistic simulated trajectories. The Mars Climate Orbiter mishap board likewise emphasised that the unit error was the root cause but that weak communication, training and review allowed it to survive for months. Y2K remains debated. Some researchers and commentators argued that the threat was overhyped, while many engineers who did the remediation found real faults that would have caused failures. Because fixed systems cannot show what would have happened, the question may never be settled; this is sometimes called the 'preparedness paradox'. The environmental numbers also need care. E-waste statistics are estimates, built from sales data and product lifetimes, and 'documented' recycling excludes some informal recycling that does recover materials, often at a high human cost. Data centre electricity estimates vary widely between studies, partly because companies do not always publish their figures, and projections depend heavily on how fast AI demand grows and how efficient chips become. Finally, the fall in women's share of US computer science degrees after 1984 is unusual: in medicine, law and the physical sciences, women's share kept rising during the same years. That contrast is why historians look for causes specific to computing culture rather than general explanations.",
+  "funFact": "The Brain computer virus of 1986 contained the real names, address and phone numbers of the two brothers in Lahore, Pakistan, who wrote it.",
+  "check": {
+    "q": "Why was the Mars Climate Orbiter lost in 1999?",
+    "a": "One team's software used imperial units (pound-force seconds) while NASA's expected metric units (newton-seconds)",
+    "wrong": [
+      "It was hit by a large meteorite on the way to Mars",
+      "A computer virus took control of it",
+      "Its batteries froze in the cold of space"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ariane flight V88",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ariane_flight_V88"
+    },
+    {
+      "title": "Mars Climate Orbiter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mars_Climate_Orbiter"
+    },
+    {
+      "title": "Year 2000 problem",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Year_2000_problem"
+    },
+    {
+      "title": "Brain (computer virus)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Brain_(computer_virus)"
+    },
+    {
+      "title": "The Global E-waste Monitor 2024",
+      "publisher": "Global E-waste Monitor (UNITAR / ITU)",
+      "url": "https://ewastemonitor.info/the-global-e-waste-monitor-2024/"
+    },
+    {
+      "title": "Data center",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Data_center"
+    },
+    {
+      "title": "Gender disparity in computing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gender_disparity_in_computing"
+    },
+    {
+      "title": "Mining industry of the Democratic Republic of the Congo",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mining_industry_of_the_Democratic_Republic_of_the_Congo"
+    }
+  ],
+  "pics": [
+    {
+      "want": "An Ariane 5 rocket on its launch pad or lifting off from Kourou, French Guiana",
+      "search": "Ariane 5 launch Kourou"
+    },
+    {
+      "want": "Artist's illustration of NASA's Mars Climate Orbiter spacecraft",
+      "search": "Mars Climate Orbiter spacecraft"
+    },
+    {
+      "want": "A pile of discarded electronics (e-waste) such as old computers and circuit boards awaiting recycling",
+      "search": "electronic waste computers recycling"
+    }
+  ]
+}

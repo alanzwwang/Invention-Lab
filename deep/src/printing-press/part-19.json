@@ -1,0 +1,150 @@
+{
+  "n": 19,
+  "title": "From Desktop to Digital Publishing",
+  "when": "1950s – today",
+  "summary": "Computers changed printing forever. Metal letters were swapped for flashes of light, then for numbers inside a computer, and suddenly anyone with a desk could design pages. Then the World Wide Web let people publish to the whole planet in a second, and e-readers put whole libraries in a pocket.",
+  "sections": [
+    {
+      "heading": "Goodbye Hot Metal, Hello Light",
+      "paragraphs": [
+        "Imagine walking into a big newspaper building in the 1950s. Down on the composing room floor, rows of Linotype machines clatter like a thunderstorm. Each one has a pot of melted lead bubbling inside it, kept at around 300 degrees Celsius, and the air smells of hot metal and oil. Every line of every story is cast in metal, used once, and then melted down again. This was called hot metal typesetting, and it had ruled printing for about seventy years. But a quiet new idea was about to make all that heat and noise disappear.",
+        "The idea was simple to say and hard to build: instead of casting letters in metal, why not make them out of light? This is called phototypesetting. In France, two engineers named René Higonnet and Louis Moyroud, working in Lyon, built a machine they called the Lumitype. They first showed it in 1946. French companies were not very interested, so the two inventors found backers in the United States, where the machine was developed further and renamed the Photon.",
+        "Here is how a machine like the Photon worked. Inside was a spinning glass disc. Around its edge were tiny photographic negatives of every letter, a bit like little stencils made of film: the letter was clear and everything around it was dark. When the operator typed a letter, the machine waited for exactly the right moment as the disc spun, then fired a very short flash of light, like a camera flash. The light shone through the clear letter shape, through a lens, and onto light-sensitive photographic film or paper. Move the film a tiny bit, flash the next letter, and line by line a whole page of text appeared, sharp and black, without a single drop of molten metal.",
+        "The lens was a clever bonus. By changing the lens, the same letter on the disc could be made bigger or smaller. A hot metal print shop needed a different set of metal type for every size of every font, which meant tons of lead and huge cabinets. A phototypesetter could make many sizes from one disc.",
+        "In 1953 the Lumitype-Photon set its first complete book, a science book called The Wonderful World of Insects by Albro T. Gaul. Other companies soon raced in. Mergenthaler, the same company that had built the Linotype, made a photo machine called the Linofilm, and the Monotype company made one called the Monophoto. Engineers had even tried the idea earlier: in Japan, Nobuo Morisawa and a partner named Ishii had applied for a patent in 1924 for a phototypesetting machine for Japanese characters. As so often in this story, good ideas popped up in more than one place.",
+        "Why did phototypesetting win? The answer connects back to Senefelder's oil-and-water trick from Part 16. By the 1950s and 1960s more and more printers were switching to offset lithography, which prints from a thin, flat plate rather than raised metal letters. Offset printers did not need metal type at all. They needed a clean, sharp picture of the page that could be photographed onto a plate. Phototypesetting produced exactly that. People called it cold type, because no hot metal was involved, and it could even be done in an ordinary office.",
+        "During the 1960s and 1970s computers made phototypesetting faster still. Instead of a spinning disc, later machines drew letters on a screen, called a cathode ray tube, or later with a laser, and computer programs worked out where to break lines and how much space to put between words. Workers cut out the printed columns of text and glued them onto big boards with hot wax, a job called paste-up, and those boards were photographed to make the printing plates.",
+        "The old hot metal world slowly closed down. One famous farewell came at The New York Times, which printed its last edition set in hot metal in July 1978 and switched to computer typesetting. Many skilled Linotype operators, who could set type at amazing speeds, had to learn completely new jobs or retire. It was the same story we saw with scribes and hand compositors: a new machine made words cheaper to produce, and the people who had mastered the old way had to adapt."
+      ]
+    },
+    {
+      "heading": "A Library Typed by Hand: Project Gutenberg",
+      "paragraphs": [
+        "Now let's jump to the University of Illinois in the summer of 1971. A student named Michael Hart had been given an account on a big computer called a Xerox Sigma V, a mainframe that filled a room in the university's Materials Research Lab. Computers back then were rare and expensive, and an account like his came with a lot of computer time. Hart wondered: what is the most valuable thing I could do with this?",
+        "His answer was surprising. He decided the most valuable thing a computer could store was not numbers or calculations, but books, because a book typed into a computer could be copied endlessly for free. The first text he chose was a copy of the United States Declaration of Independence. He typed it in himself and finished on 4 July 1971, Independence Day in the United States. That date is counted as the start of Project Gutenberg, the first free library of electronic books, or e-books.",
+        "The name was a tribute to Johannes Gutenberg, whom you met in Parts 8 to 10. Hart saw the computer as a new kind of printing press. Gutenberg's press had made copies cheap; a computer could make copies cost almost nothing at all. Once a book was typed in correctly, a million copies could be made as easily as one.",
+        "Hart's computer was connected to an early network called ARPANET, which later grew into the internet. At first he wanted to send the Declaration to everyone on the network as a message, but a colleague warned him that such a big message might jam the system. So instead he stored the file and told people where they could find it and copy it. It was a tiny file by today's standards, only about 5 kilobytes, less than a single small photo on a modern phone.",
+        "Project Gutenberg grew slowly at first. In 1972 Hart typed in the U.S. Bill of Rights, and in 1973 a volunteer typed in the U.S. Constitution. Volunteers typed in books of the Bible and works of Shakespeare. The rule was to use what Hart called Plain Vanilla ASCII, the simplest possible kind of computer text, so that any computer, old or new, cheap or expensive, could read the files. Where a printed book used italics or bold letters, the e-book used capital letters instead.",
+        "Project Gutenberg only shares books that are in the public domain. That means books whose copyright has run out, usually because they are old, so anyone is allowed to copy them. This links back to Part 14 and the Statute of Anne, which first gave authors rights for a limited time. Hart cared a lot about the public domain and worried when copyright terms were made longer, because that meant fewer old books could be shared freely.",
+        "Here is how the library grew, according to the project's own history. It reached 1,000 e-books in August 1997, 10,000 in October 2003, 20,000 in December 2006, and about 32,500 by early 2009. A big boost came in October 2000, when a volunteer named Charles Franks started Distributed Proofreaders, a website where thousands of people could each check a few scanned pages of a book against the typed text. Splitting the work into small pieces made it go much faster, a bit like the medieval pecia system from Part 7, where students copied sections of a book one piece at a time.",
+        "Today Project Gutenberg holds tens of thousands of free e-books, well over 70,000, from Alice's Adventures in Wonderland to Frankenstein, and anyone with an internet connection can read them. Michael Hart died in 2011, but the project he started by typing one famous document is still growing, run largely by volunteers."
+      ]
+    },
+    {
+      "heading": "Desktop Publishing: A Print Shop on Your Desk",
+      "paragraphs": [
+        "Even with phototypesetting, making a professional-looking magazine or leaflet in the early 1980s still needed expensive machines and trained specialists. If your school club wanted a newsletter, you probably used a typewriter and a photocopier, and it looked like it. Then, in just a couple of years, three inventions came together and changed that completely. Paul Brainerd, one of the people involved, later described them as a three-legged stool: a computer, a printer language and a page-design program.",
+        "The first leg was the computer. In January 1984 Apple launched the Macintosh. Unlike most computers of the time, which showed only rows of green or white letters, the Mac had a graphical screen, a mouse and a choice of fonts. What you saw on the screen looked a lot like what would come out on paper. People called this WYSIWYG, pronounced 'wizzy-wig', short for 'what you see is what you get'.",
+        "The second leg was a language for describing pages, and its story starts at Xerox's famous research center, Xerox PARC, in California. In 1978 Charles Geschke set up a lab there to study imaging and hired John Warnock. Between 1979 and 1981 they and other researchers designed a printing language called Interpress. Xerox was slow to share it with the world, so in December 1982 Warnock and Geschke left and started their own company, Adobe. In 1984 Adobe released PostScript.",
+        "PostScript is a page description language. Instead of telling a printer 'put a black dot here, and here, and here', it describes the page in mathematical shapes: draw this letter at this size, at this angle, in this place; draw this line; fill this circle with gray. The printer then works out the dots for itself. Because everything is described with math, a PostScript page can be printed on a cheap office printer or on a top-quality machine with far more dots per inch, and it simply looks sharper on the better one.",
+        "The secret ingredient was how Adobe described the letters themselves. Each letter's outline was stored as a set of smooth curves called Bezier curves. A Bezier curve is defined by a few points: two end points and some control points that pull the curve into shape, a bit like bending a flexible ruler. With a handful of these curves you can describe the graceful shape of a letter 'g' or 'S', and then make it any size without it going jagged. Adobe also used clever tricks, called hinting, to make small letters look neat even on printers with fewer dots. Warnock kept parts of this secret for many years.",
+        "The third leg was the page-design program. Paul Brainerd, who had worked in newspapers, founded a company in 1984 named Aldus, after Aldus Manutius, the Venetian printer of pocket books and italic type you met in Part 12. In July 1985 Aldus released PageMaker. With PageMaker you could place columns of text, headlines and pictures on a page by dragging them around with a mouse. Brainerd is usually credited with coining the phrase desktop publishing.",
+        "The final piece was the Apple LaserWriter printer, announced on 23 January 1985, the same day Aldus announced PageMaker, and shipped that March. It had PostScript built in. It cost 6,995 US dollars, which was a lot of money, but it was a tiny fraction of the cost of professional typesetting equipment, and several Macs on a network could share one LaserWriter. Its laser printing, which you learned about in Part 17, put down about 300 dots per inch. For finer work, the same PostScript file could be sent to a professional imagesetter, a high-quality machine that made film for offset printing at far higher resolutions.",
+        "Suddenly small businesses, schools, churches, clubs and even kids could design pages that looked professionally printed. An Adobe engineer, Doug Brotz, later said PostScript 'democratized the print world', meaning it put printing power into the hands of ordinary people. In the 1990s Warnock pushed for another invention built on PostScript ideas: the PDF, or Portable Document Format, which lets a page look the same on any computer. Today people create PDFs in enormous numbers every year. If you have ever downloaded a worksheet or a ticket, you have probably used one."
+      ]
+    },
+    {
+      "heading": "A Web Where Anyone Can Publish",
+      "paragraphs": [
+        "Desktop publishing let anyone design a page. The next invention let anyone share that page with the whole world, instantly, without paper at all. It was born at CERN, a huge physics laboratory on the border of Switzerland and France, where thousands of scientists from many countries study the tiniest particles in the universe.",
+        "In the late 1980s a British computer scientist at CERN named Tim Berners-Lee had a problem. Scientists came and went, used different kinds of computers, and stored their information in different ways. Finding a document, or knowing who had written what, was frustrating. In March 1989 Berners-Lee wrote a proposal for a system that would link documents on different computers together using hypertext. Hypertext is text with links in it: you click on a word and jump to another document. His boss did not say yes right away, but he let Berners-Lee keep working on the idea.",
+        "In 1990, using a powerful black NeXT computer, Berners-Lee wrote three key inventions that still run the web today. HTML, or HyperText Markup Language, is the way a web page is written, with little tags that say 'this is a heading' or 'this is a link'. HTTP, or HyperText Transfer Protocol, is the set of rules computers use to ask for pages and send them. And the URL, the web address, gives every page its own unique name, like a street address for a house. He also wrote the first web browser, to read pages, and the first web server, to send them out.",
+        "On 6 August 1991 the first website became available to people outside CERN. Its address was info.cern.ch, and its pages explained what the World Wide Web was, how to use a browser and how to set up your own web server. In other words, the very first website was a guide to making more websites. You can still visit a copy of it at the same address today, plain blue links on a white page.",
+        "Berners-Lee made a decision that mattered enormously: he did not patent the web. He wanted it to be open and free so that anyone could build on it without paying. In 1993 CERN made the web's software freely available for anyone to use. The same year, a team at the University of Illinois, the same university where Project Gutenberg began, released a browser called Mosaic that showed pictures and text together and was easy for ordinary people to use. The web exploded. In 1994 Berners-Lee founded the World Wide Web Consortium, called W3C, to look after the web's shared rules.",
+        "It is worth pausing to notice how big a change this was. In Gutenberg's day, to publish you needed a press, type, paper, ink, skilled workers and a lot of money, and printing was often controlled by licenses from rulers or churches, as you saw in Part 13. Even in 1985 you needed a computer and a printer and a way to hand out copies. On the web, one person with a computer could publish a page that could be read the same day in Tokyo, Lagos, Lima and Oslo. By 2004 there were more than 51 million websites.",
+        "New kinds of publishing grew from this. In the late 1990s people began keeping web logs, soon shortened to blogs, which were like public diaries or magazines written by one person. In 2001 Wikipedia started, an encyclopedia written by volunteers, a bit like a giant, never-ending version of the Distributed Proofreaders idea. Newspapers put their stories online. Scientists shared research papers in hours instead of months. Of course, as Part 18 showed, the same speed that spreads good information also spreads rumors and lies, which is why checking sources matters more than ever."
+      ]
+    },
+    {
+      "heading": "Electronic Paper and E-Readers",
+      "paragraphs": [
+        "Reading a long book on a glowing computer screen can be tiring, and computers are not something you can curl up with in a hammock. So inventors asked: could we make a screen that behaves like paper? This idea is called electronic paper, or e-paper, and researchers had been working on it since the 1970s.",
+        "A big step came in 1997, when Joseph Jacobson, a physicist at the MIT Media Lab in Massachusetts, started a company called E Ink with several colleagues, including two students, J.D. Albert and Barrett Comiskey. As one E Ink spokesperson later put it, the goal was 'one book that could be all books', a single object whose pages could change into any text.",
+        "Here is how E Ink works. Imagine millions of tiny bubbles, called microcapsules, each roughly as wide as a human hair, spread in a thin layer on plastic. Inside each bubble is a clear liquid with tiny white particles that carry a positive electric charge and tiny black particles that carry a negative charge. Behind the layer are electrodes, which can make a small electric field. Opposite charges attract and like charges repel, so if the field pulls the white particles to the top, that spot looks white; flip the field and the black particles rise, and that spot looks black. Millions of these spots together make letters and pictures.",
+        "E-paper has two big advantages. First, it does not shine light at you. Like real paper, it reflects the light around it, so it is easy to read in bright sunshine, though you need a lamp or a built-in front light in the dark. Second, once the particles have moved, they stay put without needing more power. The screen only uses energy when the page changes, which is why an e-reader's battery can last for weeks.",
+        "Sony released an e-paper reader called the Librie in Japan in 2004, and its Sony Reader came to the United States in 2006. Then, on 19 November 2007, the online store Amazon launched the Kindle at a price of 399 US dollars. It used an E Ink screen about 6 inches across, and its big trick was a built-in wireless connection: you could buy a book and download it in about a minute, without a computer. At launch, roughly 90,000 books were available, and the first batch reportedly sold out within hours. Later, phones and tablets with bright color screens also became popular ways to read e-books.",
+        "E-books changed publishing in other ways too. Authors who could not find a traditional publisher could now publish their own books online, called self-publishing, and sell them directly to readers. And a related idea, print-on-demand, used fast digital printers to print a paper book only when someone ordered it, one copy at a time. In Gutenberg's day a printer had to guess how many copies to make and risked being stuck with piles of unsold books. With print-on-demand, a book never has to go out of print.",
+        "Did e-books kill paper books? Not at all. Printed books are still sold in huge numbers, hundreds of millions of copies a year in the United States alone, and many readers use both: an e-reader for travel, a paper book for the bedside table. Instead of replacing the printed page, digital publishing joined it, just as printing once joined, rather than instantly ended, handwriting."
+      ]
+    },
+    {
+      "heading": "Will Our Digital Words Last?",
+      "paragraphs": [
+        "Remember the clay tablets from Ashurbanipal's library in Part 1? Some have survived about 2,600 years, and older ones even longer, because clay is tough, and a fire actually baked many of them harder. Now think about a file on a computer. Could you still read it in 2,600 years? Could you read it in 50? This is one of the biggest puzzles of digital publishing.",
+        "Digital files face dangers that clay and paper do not. Storage itself can fail: floppy disks, CDs and hard drives can wear out, and over time stored bits can flip or fade, a problem nicknamed bit rot. Even if the file survives perfectly, the machine to read it may vanish. Who still has a computer that can read an 8-inch floppy disk from the 1970s? And even with the right machine, you may need the right program, because file formats change. A document saved by a word processor in 1990 can be hard to open today.",
+        "A famous warning came from Britain. In 1986, to mark 900 years since the Domesday Book of 1086, the BBC created a modern Domesday Project, in which about a million people, many of them schoolchildren, recorded what life in Britain was like. It was stored on special laser discs that needed a particular computer setup. Within about fifteen years that equipment had become so rare that experts worried the whole project might become unreadable, while the original Domesday Book, written on parchment more than 900 years earlier, was still perfectly readable. Rescue teams eventually managed to copy the data into modern formats.",
+        "To fight this, people build digital libraries and archives. One of the largest is the Internet Archive, a nonprofit digital library founded in San Francisco in 1996 by a computer engineer named Brewster Kahle. Kahle's goal was to save a copy of the web itself, because web pages change and disappear all the time. In 2001 the Archive opened the Wayback Machine, which let the public look at old versions of websites going back to the mid-1990s; at the start it held over 10 billion web pages, and today it holds hundreds of billions. The Archive also scans books and keeps old films, music and software.",
+        "National libraries are working on the problem too, including the Library of Congress in the United States and the British Library, which keeps the Diamond Sutra from Part 5. Archivists use several strategies. Migration means regularly copying files onto new storage and converting them into new formats before the old ones die out. Emulation means writing programs that make a modern computer pretend to be an old one, so old software can still run. And many archives keep several copies in different places, so one fire or flood cannot destroy everything. There is an old idea behind this: the best way to save a text is to make many copies, which is exactly what printing did for books.",
+        "Simple, open formats help as well. Project Gutenberg's choice of Plain Vanilla ASCII back in 1971 looks very wise today: files from the 1970s can still be read on almost any device. PDF has a special archive version designed to be readable far into the future. The lesson is that publishing is not finished when words appear on a screen. Someone has to care for them, as monks once cared for manuscripts and librarians cared for printed books, or they can be lost.",
+        "From hot metal to flashes of light, from a typed Declaration to a web of billions of pages, the 1900s and 2000s turned printing into something that mostly happens inside computers. Printing now often means words on screens. But while some inventors were taking ink off the page, others were wondering something even stranger: what if a printer could build not letters, but solid objects?"
+      ]
+    }
+  ],
+  "deepDive": "Historians of technology like to point out that each new publishing technology cuts one cost almost to zero and moves the bottleneck somewhere else. Gutenberg's system made copying cheap but setting type was still slow; the Linotype sped up setting; phototypesetting removed the metal; desktop publishing removed the expensive specialist equipment; and the web removed the cost of distribution. What remains scarce today is attention and trust: anyone can publish, so readers must decide what is reliable. A technical heart of this story is the page description language. Before PostScript, a printer usually had to receive a bitmap, a grid saying which dots to ink, which tied a document to one machine's resolution. PostScript, which is actually a full programming language, describes shapes as mathematical paths, often built from cubic Bezier curves, each defined by two end points and two control points. The printer's interpreter converts these paths into dots at whatever resolution it has, which is why one file could print at about 300 dots per inch on a 1985 LaserWriter and at much higher resolution on a professional imagesetter. Font hinting adds instructions that nudge outlines to fit the pixel grid, so small letters stay even. PDF, introduced in the early 1990s, kept this imaging model but removed most of the programming, making files more predictable. Digital preservation raises a genuine debate. Some experts, including internet pioneer Vint Cerf, have warned of a possible 'digital dark age' in which future historians find our era poorly recorded because formats and devices became obsolete. Others argue the risk is manageable through migration, emulation, open standards and many distributed copies, a principle libraries call 'lots of copies keep stuff safe' (LOCKSS, also the name of a Stanford-based preservation program). There is also the question of what to save: the Internet Archive's Wayback Machine captures a huge but incomplete sample of the web, and pages behind logins or built by complicated programs are hard to archive. Finally, historians note that print did not vanish when screens arrived. Just as manuscripts were still made for decades after Gutenberg, printed books, newspapers and packaging continue alongside digital text, and many of the most popular e-book titles are also bestselling paper books.",
+  "funFact": "The world's first website, written by Tim Berners-Lee at CERN, can still be visited today at the address info.cern.ch.",
+  "check": {
+    "q": "What was the very first e-book that Michael Hart typed in to start Project Gutenberg in 1971?",
+    "a": "The United States Declaration of Independence",
+    "wrong": [
+      "The Gutenberg Bible",
+      "A Shakespeare play",
+      "The Diamond Sutra"
+    ]
+  },
+  "sources": [
+    {
+      "title": "History and Philosophy of Project Gutenberg",
+      "publisher": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/about/background/history_and_philosophy.html"
+    },
+    {
+      "title": "Project Gutenberg (1971-2009)",
+      "publisher": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/cache/epub/31632/pg31632.html"
+    },
+    {
+      "title": "PostScript: A Digital Printing Press",
+      "publisher": "Computer History Museum",
+      "url": "https://computerhistory.org/blog/postscript-a-digital-printing-press/"
+    },
+    {
+      "title": "Oral History of Paul Brainerd",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/collections/catalog/102657986"
+    },
+    {
+      "title": "Tim Berners-Lee",
+      "publisher": "World Wide Web Consortium (W3C)",
+      "url": "https://www.w3.org/People/Berners-Lee/"
+    },
+    {
+      "title": "The World's First Web Site",
+      "publisher": "History.com",
+      "url": "https://www.history.com/articles/the-worlds-first-web-site"
+    },
+    {
+      "title": "Electronic paper turns a page",
+      "publisher": "Science News Explores",
+      "url": "https://www.snexplores.org/article/electronic-paper-turns-page"
+    },
+    {
+      "title": "Wayback Machine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The NeXT computer that Tim Berners-Lee used as the first web server at CERN",
+      "search": "NeXT computer first web server CERN"
+    },
+    {
+      "want": "An Apple LaserWriter laser printer from the mid-1980s",
+      "search": "Apple LaserWriter printer 1985"
+    },
+    {
+      "want": "A first-generation Amazon Kindle e-reader with its E Ink screen",
+      "search": "Amazon Kindle first generation e-reader"
+    }
+  ]
+}

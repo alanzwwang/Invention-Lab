@@ -1,0 +1,149 @@
+{
+  "n": 4,
+  "title": "Babbage's Engines",
+  "when": "1821 – 1871 (and 1991)",
+  "summary": "Charles Babbage was fed up with mistakes in number books, so he designed giant brass machines to do the sums instead. His second, even bigger idea, the Analytical Engine, had a 'mill' and a 'store', just like the processor and memory in your computer. He never finished building them, but more than 100 years later a museum built one of his engines and it worked.",
+  "sections": [
+    {
+      "heading": "The Man Who Could Not Stand a Mistake",
+      "paragraphs": [
+        "Charles Babbage was born in London on 26 December 1791, the son of a wealthy banker. As a boy he was curious about how everything worked, and he later said he liked to take toys apart to find out what was inside. He loved mathematics so much that by the time he arrived at Trinity College, Cambridge, in 1810, he felt he already knew more of the newest maths than some of his teachers.",
+        "At Cambridge he made two lifelong friends, John Herschel (son of the astronomer William Herschel, who had discovered the planet Uranus) and George Peacock. In 1812 the three of them helped start the Analytical Society, a student club with a cheeky mission: to drag British mathematics up to date by using the clearer notation for calculus that mathematicians in France and Germany were using. Babbage married Georgiana Whitmore in 1814, and they had eight children, though sadly only four lived to grow up.",
+        "Babbage was brilliant, inventive and restless. He wrote about economics, factories, insurance, codebreaking, lighthouses, geology and railway safety. He was a founder of the Astronomical Society (later the Royal Astronomical Society) and of the Statistical Society. From 1828 to 1839 he held the Lucasian Professorship of Mathematics at Cambridge, the same post once held by Isaac Newton, although he gave hardly any lectures. In London he threw famous Saturday evening parties where scientists, writers, politicians and aristocrats came to talk and, often, to look at his latest machine.",
+        "He could also be prickly. He argued with government officials, with fellow scientists, and most famously with the street musicians and organ grinders who played under his windows. He claimed their noise destroyed a large share of his working time, and he campaigned to have them banned, which made him a figure of fun in the newspapers. But that same impatience with anything sloppy or wasteful drove his greatest work.",
+        "As you saw at the end of the last part, the spark came in 1821. Babbage and Herschel were checking two sets of hand-calculated astronomical tables for the Astronomical Society, comparing them line by line, and finding error after error. Babbage, by his own later account, exclaimed that he wished to God the calculations had been executed by steam. Whether or not the words were exactly those, the idea stuck. Babbage set out to build a machine that would calculate tables automatically and, just as importantly, print them, so that no human hand could introduce an error anywhere between the sum and the page."
+      ]
+    },
+    {
+      "heading": "A Machine That Only Needs to Add",
+      "paragraphs": [
+        "Making a machine that adds was not new. Pascal and Leibniz had done it in the 1600s. But a table of logarithms or of the Moon's position needs far harder maths than adding: multiplying, dividing, powers and roots. Gears that multiply are complicated and slow. Babbage's clever move was to use a trick that turns many of these hard calculations into nothing but repeated addition. It is called the method of finite differences, and it is the reason his first machine was named the Difference Engine. It is also the same trick that let Prony's hairdressers make logarithm tables by adding and subtracting.",
+        "Here is how it works, with a simple example. Take the rule 'square the number and add 4'. Mathematicians write it as x squared plus 4. For x = 1, 2, 3 and 4, the answers are 5, 8, 13 and 20. Now look at the gaps between those answers. From 5 to 8 is 3, from 8 to 13 is 5, and from 13 to 20 is 7. These gaps are called the first differences. Now look at the gaps between the gaps: from 3 to 5 is 2, and from 5 to 7 is 2 again. These second differences never change. They are always 2.",
+        "That pattern is the key. If you know the last answer (20), the last first difference (7) and the constant second difference (2), you can produce the next answer without ever squaring anything. Add 2 to 7 to get the next difference, 9. Add 9 to 20 to get the next answer, 29. Check it: 5 squared is 25, plus 4 is 29. Correct! Do it again: 9 plus 2 is 11, and 29 plus 11 is 40. And 6 squared plus 4 is indeed 40. Every new line of the table comes from two simple additions.",
+        "This works for any polynomial, which is a formula built from a number, its square, its cube and so on. A formula with squares needs two columns of differences; one with cubes needs three; one with powers up to the seventh needs seven. And here is the really useful part: many important functions, such as logarithms and sines, can be approximated very accurately by polynomials over short stretches. So a machine that could add differences, column into column, again and again, could in principle produce almost any table that navigators, astronomers and engineers needed.",
+        "Babbage pictured a machine with several columns of number wheels standing side by side, one column for the answer and one for each order of difference. Each column held one long number, with each digit shown on a toothed wheel numbered 0 to 9. Turn a crank, and the machine would add the bottom difference into the one above it, then that into the next, and so on up to the answer column, handling all the 'carrying' automatically. Each full cycle would produce the next line of the table, ready to be printed. No tiredness, no boredom, no slipped digits."
+      ]
+    },
+    {
+      "heading": "Building Difference Engine No. 1",
+      "paragraphs": [
+        "In 1822 Babbage built a small working model to show the idea and wrote a public letter to Sir Humphry Davy, the President of the Royal Society, explaining how machinery could calculate and print mathematical tables. Scientists were impressed. In 1823 the British government, which badly wanted reliable tables for the Navy and for navigation, gave him £1,700 to build a full-sized engine. In 1824 the Astronomical Society awarded him a Gold Medal for the invention. It looked like the beginning of a great success.",
+        "Babbage needed a master craftsman, and he chose Joseph Clement, one of the finest toolmakers and engineering draughtsmen in Britain. This was a huge challenge. In the 1820s there were no standard screws and bolts, no mass-produced gears, and few machines precise enough to cut thousands of parts that were all exactly the same shape. Clement and his workers had to invent and build many of their own machine tools just to make the parts for Babbage's engine. Historians think this work helped push British precision engineering forward. A young mechanic named Joseph Whitworth, who later became famous for creating a standard system of screw threads, worked in Clement's workshop during these years.",
+        "The design grew and grew. By 1830 Difference Engine No. 1 was planned to handle numbers with 16 or more digits and six orders of difference, and to have a printing section built in. It would have needed about 25,000 parts, stood roughly 2.4 metres (8 feet) high, and weighed several tonnes. The government kept paying, in instalments, as the years went by.",
+        "In 1832 Clement's workshop assembled a small section of the engine, about one-seventh of the calculating part, as a demonstration piece. It has about 2,000 parts, gleaming brass wheels in stacked columns inside a frame of polished metal. It calculates with six-digit numbers, and it still works perfectly today. It is often described as one of the finest pieces of precision engineering of its time. Babbage placed it in his drawing room, and guests at his Saturday parties would gather round to watch it calculate. For many of them it was the first time they had ever seen a machine do mathematics.",
+        "Then, in 1833, everything stopped. Babbage and Clement quarrelled about money, especially about who should pay to move Clement's workshop to a fireproof building near Babbage's house in Dorset Street. Under the customs of the time, an engineer owned the tools he made, even if a customer had paid for them, so Clement kept the specialised machine tools. He dismissed his workers and stopped. Work on the engine never really restarted. Roughly 12,000 finished parts that had never been assembled were eventually melted down for scrap.",
+        "By the time the government officially gave up on the project in 1842, it had spent about £17,000, a gigantic amount of money. In 1831 that would have bought around 22 new steam locomotives from Robert Stephenson's factory. Babbage had spent large sums of his own money as well. There was no finished engine to show for it, only the demonstration piece, piles of beautiful drawings, and a reputation that the whole thing was an expensive failure. Babbage felt deeply wronged. But by then his mind had already raced on to something far more ambitious."
+      ]
+    },
+    {
+      "heading": "The Analytical Engine: A Mill and a Store",
+      "paragraphs": [
+        "While the Difference Engine sat unfinished, Babbage began, in 1834, to imagine a completely different kind of machine. The Difference Engine could only do one thing: add differences to make tables. It was a very clever calculator with one fixed job. What if a machine could be told to do any calculation at all, in any order, simply by giving it different instructions? He called this new design the Analytical Engine, and he kept working on it, filling thousands of pages of notes and hundreds of drawings, for the rest of his life.",
+        "Babbage borrowed words from the factories of his day to describe its two main parts. The first was the 'store'. This was where numbers were kept, waiting to be used: rows of columns of figure wheels, each column holding one number. His plans called for a store that could hold 1,000 numbers, each up to 40 decimal digits long. In modern terms that is roughly 16 kilobytes of memory, built entirely from brass. The second part was the 'mill', where the actual arithmetic happened. Numbers were brought from the store into the mill, added, subtracted, multiplied or divided, and the results were sent back to the store.",
+        "If that sounds familiar, it should. The mill is what we now call the CPU or processor, and the store is the memory. Keeping the place where numbers are worked on separate from the place where they are kept is exactly how almost every computer since the 1940s has been organised. Babbage got there about a century early, using gears instead of electronics.",
+        "How would you tell the engine what to do? Babbage's answer came straight from the silk workshops of Lyon. He would use punched cards, just like Jacquard's loom. There would be different kinds of cards. 'Operation cards' told the mill which calculation to carry out: add, subtract, multiply or divide. 'Variable cards' told the engine which places in the store to fetch numbers from and where to put the answers. Other cards could feed in fixed numbers. Change the cards and you change the job. Ada Lovelace later described this link with the loom in words that became famous, as you will see in the next part.",
+        "The most remarkable feature was that the engine could make decisions. It could check a result, for example whether a number had become negative or reached zero, and then choose what to do next, such as jumping forward or backward to a different set of cards. That meant it could repeat a set of steps over and over (what programmers call a loop) and take different paths depending on the answers (a conditional branch). These two abilities are what separate a true general-purpose computer from a calculator. In modern language, the Analytical Engine as designed would have been Turing-complete, able in principle to carry out any calculation that any computer can, given enough time and memory. Alan Turing, who you will meet in part 7, would only define that idea a century later.",
+        "Babbage also planned ways for the engine to share its results. It would print answers on paper, punch them onto new cards to be used later, make stereotype moulds for printing books of tables, draw curves with a plotter, and even ring a bell to call for attention, for instance when it needed a human to supply a new card. Between 1837 and 1840 he wrote out around two dozen example programs showing how the engine would solve different problems.",
+        "It would have been slow by our standards. The Italian engineer Luigi Menabrea, who heard Babbage describe the engine in Turin in 1840 and wrote the first published account of it, reported that multiplying two 20-digit numbers would take about three minutes. That sounds sluggish, but the engine would never tire, never lose its place and never make a careless slip. And it would have been huge: the mill alone was planned as a tower of gears, and the store, with its 1,000 columns, would have stretched many metres. Babbage expected it to be power-driven, most likely by steam, rather than cranked by hand."
+      ]
+    },
+    {
+      "heading": "Why the Engines Were Never Finished",
+      "paragraphs": [
+        "So why don't history books show a photo of Babbage standing proudly beside a working Analytical Engine? Because it was never built. Not in his lifetime, and not since. Several problems piled on top of each other.",
+        "The first was money. After spending about £17,000 on Difference Engine No. 1 with nothing finished, the government had lost patience. In 1842 the government of Prime Minister Sir Robert Peel decided not to fund any more of Babbage's machines. Babbage could not afford to build the Analytical Engine himself.",
+        "The second problem was Babbage himself. He was a perfectionist and never stopped improving his ideas. Every time he thought of a faster way to carry digits or a neater mechanism, he redrew the plans. That made the designs better and better, but it also meant they were never 'frozen' long enough to build. He was also not good at keeping powerful friends. His public quarrels made officials less willing to help.",
+        "The third was sheer size. The Analytical Engine would have needed many tens of thousands of precisely made parts, more than any machine of the time. Building it would have been a massive project for any workshop in the world. It was not impossible, but it would have needed huge sums of money, years of skilled labour and a determined team.",
+        "Between 1847 and 1849, Babbage went back and used ideas from the Analytical Engine to design a better, simpler Difference Engine, which he called Difference Engine No. 2. It could calculate with 31-digit numbers and seven orders of difference, yet needed only about a third as many parts as the first engine. He offered the plans to the government in 1852. Again, they said no.",
+        "Others did build difference engines, though. In Sweden, a printer named Per Georg Scheutz read about Babbage's work and, with his son Edvard, built a simpler version. Their larger engine, which could print its own results, was finished in the 1850s and sold to the Dudley Observatory in Albany, New York, and a copy was made in Britain for the General Register Office, where it was used to help compute life tables, which show how long people tend to live. Babbage, to his credit, supported the Scheutzes.",
+        "Babbage died at his home in Marylebone, London, on 18 October 1871, aged 79. He felt that the world had never understood his engines. Half of his brain is still on display at the Science Museum in London. His youngest surviving son, Henry Prevost Babbage, did not let the dream disappear. He used leftover parts from the first engine to assemble several small demonstration pieces and sent them to universities, and one of them ended up at Harvard, where decades later it caught the eye of a young computer pioneer named Howard Aiken. Henry also built part of the Analytical Engine's mill, working on and off from about 1880 to 1910. It could do some arithmetic, but it had no store and could not be programmed. It, too, is now at the Science Museum."
+      ]
+    },
+    {
+      "heading": "Proving Babbage Right",
+      "paragraphs": [
+        "For more than a century after Babbage's death, people argued about him. Was he a genius who was simply unlucky? Or were his designs too complicated ever to work? Some suggested that Victorian workshops could not possibly have made parts accurate enough. Nobody could be sure, because nobody had tried to build one of his complete designs.",
+        "In 1985 the Science Museum in London decided to find out. Led by Doron Swade, the museum's curator of computing, a small team set out to build Difference Engine No. 2 exactly as Babbage had drawn it in 1847 to 1849. Their deadline was 1991, the 200th anniversary of Babbage's birth.",
+        "The team studied Babbage's original drawings in fine detail. The drawings were not complete enough to build from directly, so they produced new working drawings for every one of the parts. They found and fixed a small number of slips along the way. They analysed the metals in Babbage's surviving pieces so they could use similar bronze, cast iron and steel. And, very importantly, they made sure that no part was made more precisely than a good Victorian engineer like Clement could have managed. Modern machines were used to save time, but the accuracy was kept to 19th-century standards. If the engine worked, it would show that Babbage's design could have been built in his own lifetime.",
+        "The calculating section was finished in 1991, in time for the anniversary. And it worked. The finished engine is a mesmerising thing to watch: a long frame of polished columns, eight of them, each a stack of bronze figure wheels, with cams and levers rippling along its length as an operator turns the crank. Each turn of the handle moves the whole mechanism through its cycle, and the numbers climb the columns as the differences are added. The engine works with 31-digit numbers and seventh-order differences, more precision than most of the tables of Babbage's time ever needed.",
+        "Babbage's design also included an output apparatus that printed results on paper and pressed them into soft moulds for making printing plates, so that tables could go straight from the machine to the printing press with no human copying. The museum's team built that too; it was completed in 2002. The whole engine, with its printer, has about 8,000 parts, roughly half in the calculating section and half in the output section. It weighs about 5 tonnes and is about 3.4 metres (11 feet) long and 2.1 metres (7 feet) high.",
+        "A second complete copy, which its builders called a 'second original', was later made for the American technologist Nathan Myhrvold. It was displayed and demonstrated at the Computer History Museum in Mountain View, California, from 2008 to 2016, where visitors could watch it calculate and print. Babbage had been right all along. His engine was not a fantasy; it was a working machine that had simply arrived a century and a half before anyone was ready to pay for it.",
+        "The Analytical Engine remains unbuilt. In 2010 a group of enthusiasts, including the programmer John Graham-Cumming, launched a project called Plan 28 to study Babbage's plans in detail, with the long-term hope of building one some day. Babbage's drawings for it are so vast and so often revised that even deciding which version to build is a big research task."
+      ]
+    },
+    {
+      "heading": "A Visitor at the Party",
+      "paragraphs": [
+        "Let's go back to one of Babbage's crowded Saturday evening parties in London, in June 1833. Candles flicker, people chatter about science and politics, and in the corner the gleaming demonstration piece of the Difference Engine is clicking through its sums. Most guests watch for a minute, say how clever it is, and drift off to the refreshments.",
+        "But one 17-year-old girl does not drift away. She studies the wheels closely, asks sharp questions and seems to grasp at once how the machine works and why it matters. Her name is Ada Byron, the daughter of the famous poet Lord Byron. Babbage is delighted. Over the next ten years, she will understand his engines better than almost anyone alive, and she will write about the Analytical Engine with a vision that reaches far beyond anything Babbage himself put into words. She is about to become Ada Lovelace."
+      ]
+    }
+  ],
+  "deepDive": "The method of finite differences rests on a neat mathematical fact: for any polynomial of degree n, the nth differences of evenly spaced values are constant. A table of values can therefore be generated by n repeated additions per entry, provided the starting value and the starting differences are set correctly. Difference Engine No. 2 holds eight 31-digit numbers, one value plus seven differences, so it can tabulate any polynomial up to the seventh power exactly. Functions such as logarithms are not polynomials, so in practice an engine would be reset with fresh starting values every so often, with each short stretch of the table fitted by a polynomial; this resetting is where human mathematicians still came in. Babbage arranged the additions in alternating phases so that the whole table advanced one line per crank cycle, and devised elaborate mechanisms to handle carries quickly and reliably, which was the hardest engineering problem in the design. Historians continue to debate why the engines failed. Older accounts blamed Victorian engineering, but the Science Museum's build, held to tolerances of the 1840s, showed that the precision was achievable. Most historians, including Doron Swade, now point to a mix of causes: the dispute with Clement over money and ownership of tools; the Treasury's frustration with a project whose cost kept rising; Babbage's habit of redesigning instead of finishing; and his difficult relationships with officials and scientific rivals. There is also a debate about influence. Babbage's work was well known in the 19th century, but the builders of the first electronic computers in the 1940s mostly reinvented his ideas independently. Howard Aiken did come to admire Babbage after learning of him, and Lovelace's Notes were rediscovered and republished in the 1950s, but the direct line from Babbage to modern computers is thinner than the family resemblance suggests. Even so, the Analytical Engine's separation of store and mill, its punched-card program and its conditional branching mean it is fairly described as the first design for a general-purpose programmable computer. Its store of 1,000 numbers of 40 digits is about 16.6 kilobytes in modern terms, and Menabrea reported a multiplication time of about three minutes for two 20-digit numbers.",
+  "funFact": "When the government stopped funding Difference Engine No. 1, it had spent about £17,000, roughly the price of 22 new steam locomotives in 1831, and around 12,000 unused finished parts were later melted down for scrap.",
+  "check": {
+    "q": "What did Babbage call the two main parts of his Analytical Engine, which match a modern computer's processor and memory?",
+    "a": "The mill and the store",
+    "wrong": [
+      "The loom and the shuttle",
+      "The crank and the boiler",
+      "The table and the column"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Charles Babbage",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charles_Babbage"
+    },
+    {
+      "title": "Difference engine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Difference_engine"
+    },
+    {
+      "title": "Analytical engine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Analytical_engine"
+    },
+    {
+      "title": "The Babbage Engine: A Brief History",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/babbage/history/"
+    },
+    {
+      "title": "The Babbage Engine: The Engines",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/babbage/engines/"
+    },
+    {
+      "title": "The Babbage Engine: How It Works",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/babbage/howitworks/"
+    },
+    {
+      "title": "The Babbage Engine: A Modern Sequel",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/babbage/modernsequel/"
+    },
+    {
+      "title": "The Babbage Engine: Overview",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/babbage/overview/"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Charles Babbage's Difference Engine No. 2, built by the Science Museum London (or the copy shown at the Computer History Museum)",
+      "search": "Babbage Difference Engine No 2 Science Museum"
+    },
+    {
+      "want": "The 1832 demonstration piece of Babbage's Difference Engine No. 1, with its brass columns of figure wheels",
+      "search": "Babbage difference engine 1832 fragment"
+    },
+    {
+      "want": "Photograph portrait of Charles Babbage around 1860",
+      "search": "Charles Babbage portrait 1860"
+    }
+  ]
+}

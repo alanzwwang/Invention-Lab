@@ -1,0 +1,158 @@
+{
+  "n": 3,
+  "title": "The Engine That Burns Inside",
+  "when": "1860 – 1885",
+  "summary": "Steam engines had to boil water in a big, heavy boiler before they could do anything. Then inventors in France and Germany had a cleverer idea: why not burn the fuel right inside the engine? Their new engines puffed and thumped in factories all over Europe, and one of them, the 'Silent Otto', became the great-great-grandparent of the engine in almost every car today.",
+  "sections": [
+    {
+      "heading": "Fire Outside, Fire Inside",
+      "paragraphs": [
+        "Imagine you want to push a toy car across the floor using a fire. With a steam engine, you would light the fire under a kettle, wait for the water to boil, pipe the steam into a cylinder, and let the steam shove a piston. The fire is outside the engine, in a separate firebox, and all the hard work is passed along through hot water and steam. That is why engineers call a steam engine an external combustion engine: combustion, the scientific word for burning, happens outside the part that actually moves.",
+        "Now imagine a very different idea. Instead of heating water, you squirt a little burnable gas and air straight into the cylinder, close it up, and light it. The hot gases expand in a flash and push the piston themselves. There is no boiler, no water to wait for and no separate fire to tend. This is an internal combustion engine, an engine where the fuel burns inside the cylinder and pushes the piston directly.",
+        "That one change sounds small, but it solved the biggest problems you met in Part 2. Cugnot's fardier and the British steam coaches had to carry heavy boilers, tons of water and coal, and they needed time to build up pressure before they could move at all. An engine that burned its fuel inside could, in theory, be much smaller and lighter, and it could start working almost as soon as it was lit. Part 8 will take an engine apart piece by piece; for now, the only thing you need to remember is this: steam engines burn outside, internal combustion engines burn inside.",
+        "The idea was not brand new in the 1860s. People had been trying it for well over half a century. In 1807 two French brothers, Nicéphore and Claude Niépce, built a strange engine they called the Pyréolophore, which used little explosions of burning dust to push a boat along the river Saône. (Nicéphore Niépce is better known today for taking one of the first photographs.) In the same years a Swiss inventor named François Isaac de Rivaz built an engine that burned hydrogen gas, set off by an electric spark, and around 1808 he fitted it to a crude wooden cart that could lurch a short distance. In 1823 the Englishman Samuel Brown patented a gas engine that was actually used for pumping water, and in the 1850s two Italians, Eugenio Barsanti and Felice Matteucci, patented an engine driven by gas explosions.",
+        "None of these early machines caught on. Some were too weak, some kept breaking, some were too expensive to run, and none could compete with the steam engine, which by then was powering mills, ships and railways across the world. What was needed was an internal combustion engine that a factory owner could actually buy, install and rely on every day. In 1860, in Paris, someone finally built one."
+      ]
+    },
+    {
+      "heading": "Monsieur Lenoir's Gas Engine",
+      "paragraphs": [
+        "Jean Joseph Étienne Lenoir was born on 12 January 1822 in the village of Mussy-la-Ville, in a region that today is part of Belgium. As a young man he moved to Paris, a city buzzing with new inventions, where he became a self-taught engineer with a talent for electrical gadgets. He worked on electroplating and on telegraph machines. But the invention that made his name was an engine.",
+        "In 1860 Lenoir received a patent for an engine that ran on coal gas. Coal gas, also called town gas or illuminating gas, was made by heating coal in closed ovens, and in the 1800s it was piped under the streets of big cities to light lamps in houses, shops and street corners. That meant a factory in Paris could simply connect Lenoir's engine to the gas main, the way you might plug a machine into a wall socket today. No coal shovelling, no boiler, no stoker.",
+        "Lenoir's engine looked a lot like a small steam engine lying on its side, and in fact it borrowed much of its design from steam engines. Inside, a piston slid back and forth in a cylinder. As the piston moved along, it drew in a mixture of gas and air. Partway through its movement, an electric spark from a device called a Ruhmkorff coil lit the mixture. The burning gas expanded and pushed the piston the rest of the way. Then the same thing happened on the other side of the piston, so the engine got a push in each direction, just like a double-acting steam engine. A heavy flywheel kept everything turning smoothly between pushes.",
+        "Notice something missing: Lenoir's engine did not squeeze the gas-and-air mixture before lighting it. It simply drew it in at ordinary pressure and set it alight. As you will see, this turned out to be its great weakness. Without squeezing, the burning mixture gave only a gentle shove, and most of the energy in the gas escaped as heat. Historians usually estimate that Lenoir's engine turned only about 4 percent of the fuel's energy into useful work. The other 96 percent or so warmed up the engine, the cooling water and the room.",
+        "It also gobbled gas. Lenoir's advertisements promised that his engine would be cheap to run, but when real engines were measured, they turned out to use several times more gas than claimed. The engines got so hot that they needed a steady flow of cooling water, and if that ran out they could seize up. Even so, Lenoir's engine had real advantages for a small workshop. It was fairly quiet, it started quickly, and it did not need a licensed boiler or a full-time engine driver.",
+        "That was enough to make it the first commercially successful internal combustion engine, meaning the first one that was sold in real numbers to real customers. By 1865 about 143 had been sold in Paris alone, and in total probably a few hundred were built (fewer than 500), including some made under licence in Germany. They were modest machines by factory standards, and they ran printing presses, lathes, pumps and other workshop machines. For the first time, people who had never owned a steam engine could buy mechanical power."
+      ]
+    },
+    {
+      "heading": "The Hippomobile Goes for a Drive",
+      "paragraphs": [
+        "Lenoir was not only thinking about factories. If his engine could turn a lathe, why not a wheel? Around 1863 he built a three-wheeled vehicle powered by a one-cylinder version of his gas engine, rated at only about 1.5 horsepower. It became known as the Hippomobile, a playful name built from the Greek word for horse, hippos, as if to say it was a horse that moved by itself.",
+        "Picture a day in 1863 on the dusty roads east of Paris. A clattering cart with an engine thumping away on its frame sets off from the city toward Joinville-le-Pont, a small town on the river Marne. The engine is slow and gas-hungry, the road is rough, and the passengers bounce along on hard seats. Accounts of the journey disagree about the exact distance, giving figures from about 9 kilometres to nearly 18, but most agree on one thing: the trip took around three hours. At best, that is about the speed of a person strolling, and at worst rather slower.",
+        "So was the Hippomobile the first car? It certainly deserves a place in the story. It was a road vehicle that carried people using an internal combustion engine, more than twenty years before Karl Benz's famous machine. Near the end of Lenoir's life, in July 1900, the Automobile Club de France honoured him with a silver-gilt plaque as an inventor of the gas engine and a builder of an early motor vehicle.",
+        "But the Hippomobile was more of an experiment than a useful vehicle. Its engine was designed to run on gas from city pipes, so carrying enough fuel for a long trip was a real problem. It was heavy for its power and painfully slow. Lenoir did not go on to build and sell cars. He sold his gas-engine patents in 1863, turned back to electrical inventions such as an automatic telegraph, which was used during the Franco-Prussian War of 1870 to 1871, and later experimented with engines for boats. He became a French citizen in 1870 and received the Legion of Honour in 1881, yet like many inventors he did not grow rich from his engine and was poor in his later years. He died in 1900.",
+        "The Hippomobile showed that an internal combustion engine could move a vehicle. It also showed, very clearly, that the engines of 1860 were not good enough yet. Something important was missing, and a French engineer had already worked out what it was."
+      ]
+    },
+    {
+      "heading": "An Idea on Paper: Beau de Rochas",
+      "paragraphs": [
+        "Alphonse Eugène Beau de Rochas was born on 9 April 1815 in Digne, a small town in the mountains of south-eastern France. He was an engineer who worked on railways and many other projects, and he was full of ideas. Some of his ideas he built. One of the most important ones he never built at all.",
+        "In 1862, just two years after Lenoir's patent, Beau de Rochas filed a French patent that described a better way to run an engine that burned fuel inside a cylinder. Instead of letting each push of the piston do everything at once, he split the job into four separate movements of the piston. First, the piston moves outward and draws in the fuel and air. Second, it moves back and squeezes, or compresses, the mixture into a small space. Third, the squeezed mixture is lit, and the burning gases drive the piston outward with great force. Fourth, the piston moves back again and pushes the burnt gases out. Then the whole cycle starts over.",
+        "Those four steps are what we now call the four-stroke cycle: intake, compression, power and exhaust, or, as mechanics sometimes say, suck, squeeze, bang, blow. Part 8 will look at each stroke in detail. The key new step was the second one, compression. Squeezing the mixture before lighting it makes it burn hotter and push much harder, so far more of the fuel's energy ends up turning the engine instead of just heating it. Beau de Rochas understood this, and he also described other conditions for a good engine, such as making the cylinder's shape keep heat losses small and letting the gases expand as much as possible.",
+        "There was one big gap. Beau de Rochas never built a working engine to test his idea. He did not have the money or the workshop, and his patent was printed as a short booklet that few people read. For about fourteen years, his clear description of the four-stroke principle sat quietly in the French patent records while other inventors struggled on.",
+        "It is a pattern you will see again and again in the history of invention. Having an idea and writing it down is important, and it can earn you a patent. Turning that idea into a machine that works reliably, day after day, in someone else's factory is a different and often much harder job. In this story, that second job was done in Germany, by a former grocery salesman with no engineering degree at all."
+      ]
+    },
+    {
+      "heading": "A Salesman, a Sugar-Maker and a Factory at Deutz",
+      "paragraphs": [
+        "Nicolaus August Otto was born in 1832 in the small German village of Holzhausen. He left school early and became a travelling salesman, selling coffee, tea, sugar and other colonial goods to shops in the Rhineland. He had no university training in engineering. What he did have was curiosity, patience and a stubborn streak.",
+        "Around 1860 Otto read newspaper reports about Lenoir's gas engine in Paris and was fascinated. With his brother, he built a copy of it and began experimenting. He wanted an engine that could run on liquid fuel, so that it would not depend on city gas pipes, but his patent application for that idea was turned down. In 1861 he noticed something important: when the gas mixture was squeezed before it was lit, the explosion was far more powerful. He tried to build an engine using compression in 1862, but the violent explosions wrecked it after only a few minutes of running. Compression clearly worked, but he did not yet know how to control it.",
+        "In 1864 Otto met Eugen Langen, a businessman and engineer from Cologne. Langen's family ran a sugar refinery, and Langen himself had invented a way of making sugar cubes, a method he later sold to the English sugar maker Henry Tate. Langen could see that Otto's engine had a future, and he had money and technical knowledge to offer. On 31 March 1864 the two men founded a company called N. A. Otto and Cie. It is often described as the first factory in the world devoted entirely to building internal combustion engines.",
+        "Their first big success was not a four-stroke engine. It was a tall, odd-looking machine called the atmospheric engine. Inside a tall vertical cylinder, a small explosion of gas threw a heavy piston upward. As the gases cooled, the pressure under the piston dropped, and the weight of the air above, the atmosphere, pushed the piston back down. On the way down, the piston engaged a toothed rack and a gear that turned the engine's shaft. It was clattery and very loud, but it used much less gas than Lenoir's engine. Its efficiency was about 12 percent, three times better.",
+        "At the 1867 World Exhibition in Paris, Otto and Langen's engine won a gold medal, beating Lenoir's design on its home ground. Orders poured in. By the mid-1870s the company was building more than 600 atmospheric engines a year, and by the time production stopped in 1882 about 2,650 had been made. In 1869 the factory moved across the river Rhine from Cologne to the industrial suburb of Deutz, and the business was reorganised as the Gasmotoren-Fabrik Deutz, the Deutz Gas Engine Factory. The company still exists today as Deutz AG.",
+        "In 1872 the company hired two men who would later become world-famous. Gottlieb Daimler, an experienced engineer who had trained as a gunsmith, studied mechanical engineering and worked in factories in England, was put in charge of running the factory. He brought with him a young designer named Wilhelm Maybach, whom he had met years earlier and who had grown up as an orphan in a children's home. Daimler organised the factory; Maybach improved the engines. For the next decade the Deutz works would be the best school for engine builders anywhere in the world."
+      ]
+    },
+    {
+      "heading": "1876: The Silent Otto",
+      "paragraphs": [
+        "The atmospheric engine sold well, but it had clear limits. It was tall, noisy and could not be made very powerful; in its whole fifteen-year life it never went beyond about 3 horsepower. Otto kept returning to the idea that had wrecked his engine back in 1862: compression. If only he could tame it.",
+        "On 9 May 1876 Otto completed a new engine that did just that. It worked on the four-stroke cycle: intake, compression, power, exhaust. Each cycle took two turns of the crankshaft, and only one stroke in four actually pushed, so the engine needed a heavy flywheel to keep spinning steadily through the other three. To stop the compressed mixture from exploding too violently, Otto used a clever trick he called a stratified, or layered, charge. He arranged for the mixture to be weak near the piston and richer near the place where it was lit, so it burned progressively, more like a quick, strong shove than a sudden bang. The engine ran on town gas and was lit by a small gas flame that was let into the cylinder at just the right moment through a sliding valve. Engineers at Deutz, including Franz Rings and Hermann Schumm, helped turn Otto's experimental engine into a product that could be built and sold.",
+        "Compared with the banging atmospheric engine, the new machine ran so smoothly and quietly that it went on sale in late 1876 as the Otto Silent Engine. People soon called it the Silent Otto. It used far less gas for each unit of work, and, unlike the atmospheric engine, it could be scaled up to give much more power. Otto applied for a German patent, which was granted in 1877, and the four-stroke cycle is still often called the Otto cycle in his honour.",
+        "The Silent Otto was a huge success. In the seventeen years after it appeared, Deutz and companies licensed by Deutz built more than 50,000 engines of Otto's type. They drove machinery in workshops, small factories, printing works, flour mills, breweries and water pumping stations across Europe and America. For a small business, a gas engine was a wonderful thing: you could start it in a few minutes, stop it when you did not need it, and you never had to keep a boiler fire going all night.",
+        "But look closely at a Silent Otto in a museum and you will see why nobody put one in a carriage. These engines were heavy iron machines bolted to stone or concrete floors. They turned slowly, often around 150 to 200 revolutions per minute, and they were connected by pipes to the town gas supply. Their size and weight were fine in a factory, where the engine never had to move. For a vehicle, which has to carry its own engine and its own fuel up hills and over bumps, they were hopeless."
+      ]
+    },
+    {
+      "heading": "Who Gets the Credit? The Patent Battle",
+      "paragraphs": [
+        "Otto's 1877 patent was worth a fortune. In theory, anyone who wanted to build a four-stroke engine in Germany had to buy a licence from Deutz or face a lawsuit. Other engine makers were not happy about this, and some went looking for a way around it.",
+        "They found one in the old French patent of Alphonse Beau de Rochas. His 1862 description of intake, compression, power and exhaust had been published fourteen years before Otto's engine. If the idea had already been described in public, the challengers argued, then Otto could not claim to have invented it, no matter how well his engine worked.",
+        "The case was fought out in German courts and the patent office during the 1880s. In 1886 the German patent office decided against Deutz and cancelled the key part of Otto's patent, which would otherwise have lasted until 1891. Deutz had argued that Otto's layered charge was different from what Beau de Rochas had described, but it could not convince the judges. Once the protection was gone, anyone was free to build four-stroke engines. By 1889 more than 50 companies were making engines of the Otto type.",
+        "So who really deserves the credit? The fairest answer is both of them, for different things. Beau de Rochas was the first to describe the four-stroke principle clearly, in writing, in 1862. Otto, working on his own and apparently without knowing about the French patent, built the first practical four-stroke engine in 1876, solved the problems of making it run smoothly, and turned it into a machine that sold by the tens of thousands. Many historians also point out that the work of engineers at Deutz, including Daimler, Maybach, Rings and Schumm, was part of the success.",
+        "Otto was deeply hurt by the decision. He felt that his life's work had been taken away from him. Even so, his reputation survived. In 1882 the University of Würzburg had already given him an honorary doctorate, and when he died in Cologne in 1891 his engines were running all over the world. Langen, meanwhile, went on to other big projects, including the famous hanging railway, the Schwebebahn, in the German city of Wuppertal, which he started working on in the 1890s and which still carries passengers today."
+      ]
+    },
+    {
+      "heading": "Small, Fast and Ready to Move",
+      "paragraphs": [
+        "Inside the Deutz works, there was a growing disagreement. Gottlieb Daimler believed the future lay in small, light engines that turned quickly and could power vehicles: carriages, boats, perhaps even flying machines one day. Otto and the company's directors were more interested in the big, profitable stationary engines they were already selling. The two men also clashed personally. Daimler felt he was not given proper credit, and Otto kept Daimler's name off his engine patents.",
+        "In the early 1880s the quarrel came to a head, and Daimler left the company (some accounts say he was dismissed). He received a large payment in Deutz shares, worth about 112,000 gold marks, as compensation for patents he and Maybach had contributed. In the summer of 1882 he used the money to buy a villa with a large garden in Cannstatt, near Stuttgart, in southern Germany. Wilhelm Maybach followed him there that autumn. In a summer house at the bottom of the garden, the two men set out to build exactly the kind of engine Deutz did not want: small, light and fast enough to move itself. Their story belongs to Part 6, but keep them in mind, because they were working at the same time as the hero of Part 4.",
+        "Meanwhile, in Vienna, another inventor was also experimenting with petrol-powered vehicles. Siegfried Marcus was born in 1831 to a Jewish family in Malchin, in northern Germany, trained as a mechanic, and moved to Vienna in 1852. He was a remarkable inventor who held more than 130 patents in 16 countries, including devices for setting off explosive charges and ignition systems for engines. He also designed a petrol engine and a clever device that mixed petrol with air, called a carburettor.",
+        "Marcus built at least two vehicles. The first, around 1870, was a simple handcart with a petrol engine, which he later took apart. The second, a four-wheeled car, still exists and is kept at the Technical Museum in Vienna. For many years people claimed it had been built as early as 1864 or 1875, which would make it older than Benz's car. Most historians today think those early dates are a myth, and that the surviving Marcus car was built around 1888 or 1889. His claim to an early place in the story is real, but exactly how early is still debated.",
+        "Marcus's story has a sad twist. After the Nazis took over Austria in 1938, they wanted to erase the achievements of Jewish people from history. His memorial in Vienna was removed, and in 1940 the German propaganda ministry ordered that his name be taken out of encyclopedias and replaced with the names of Daimler and Benz. Museum staff hid his car to protect it, and it survived the war. Today his work is remembered again, a reminder that history books can be changed for bad reasons, and that historians have to check the evidence carefully.",
+        "By the early 1880s, then, the pieces were nearly in place. Thanks to Lenoir, Beau de Rochas, Otto, Langen and the engineers of Deutz, the world had a reliable engine that burned its fuel inside. Tens of thousands of them were thumping away in workshops. But they were heavy, slow-turning machines, chained by pipes to the gas supply and bolted to factory floors. Someone needed to make one light enough to carry itself, its fuel and its passengers down a road. And in the city of Mannheim, a young engineer who had been dreaming of horseless carriages since his student days was about to try."
+      ]
+    }
+  ],
+  "deepDive": "Why did compression make such a difference? An engine is a machine for turning heat into motion, and the amount of work it can squeeze out depends on how much the hot gases expand while they are pushing the piston. In Lenoir's engine, the gas-air mixture was drawn in at normal atmospheric pressure, lit partway through the stroke, and then had only the rest of that stroke to expand. The burnt gases left the cylinder still very hot, carrying most of their energy away. That is why estimates of his engine's efficiency are only about 4 percent. Otto and Langen's atmospheric engine of 1867 did better, roughly 12 percent, by letting the gases expand a long way up a tall cylinder and then using the pressure of the air to do the work on the return. The four-stroke engine went further still. By squeezing the mixture into a small space before lighting it, the engine starts the power stroke with much higher pressure and temperature, and the gases then expand over a large ratio as the piston moves outward. Physicists later showed with the idealised 'Otto cycle' that the theoretical efficiency rises as the compression ratio rises. Real engines fall well short of the ideal because of friction, heat leaking into the cylinder walls and incomplete burning, but the principle explains why every modern petrol engine compresses its charge. Compression also has a limit: squeeze a fuel-air mixture too hard and it can ignite by itself or burn violently in uncontrolled pockets, a problem called knocking, which Part 8 explores. Otto's layered charge was his attempt to control this. Historians still debate how much credit each person deserves. Beau de Rochas clearly described the four-stroke sequence and the value of compression first, in 1862, and the 1886 decision against Deutz rested on that earlier publication. Yet a patent description is not a working engine, and there is little evidence that his booklet influenced Otto, who reached his design through years of experiments. Others had also compressed charges earlier; the Englishman William Barnett described compression in an 1838 patent. The story of the internal combustion engine is therefore a good example of how inventions usually happen: through overlapping ideas, partial successes and practical engineering, rather than a single flash of genius by one person.",
+  "funFact": "Eugen Langen, who helped pay for the first engine factory, had already made his mark on breakfast tables: he invented a way of making sugar cubes and sold it to the English sugar maker Henry Tate.",
+  "check": {
+    "q": "Which French engineer described the four-stroke principle in a patent in 1862 but never built an engine?",
+    "a": "Alphonse Beau de Rochas",
+    "wrong": [
+      "Étienne Lenoir",
+      "Nicolaus Otto",
+      "Nicolas-Joseph Cugnot"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Étienne Lenoir",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Étienne_Lenoir"
+    },
+    {
+      "title": "Hippomobile",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hippomobile"
+    },
+    {
+      "title": "Alphonse Beau de Rochas",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alphonse_Beau_de_Rochas"
+    },
+    {
+      "title": "Nicolaus Otto",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nicolaus_Otto"
+    },
+    {
+      "title": "Otto engine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Otto_engine"
+    },
+    {
+      "title": "Eugen Langen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eugen_Langen"
+    },
+    {
+      "title": "Gottlieb Daimler",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gottlieb_Daimler"
+    },
+    {
+      "title": "Siegfried Marcus",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Siegfried_Marcus"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A Lenoir gas engine of the 1860s, a horizontal cylinder with flywheel, in a museum or an old engraving",
+      "search": "Lenoir gas engine 1860"
+    },
+    {
+      "want": "Nicolaus August Otto's four-stroke 'Silent Otto' gas engine of 1876, preserved in a museum",
+      "search": "Otto four-stroke engine 1876 Deutz"
+    },
+    {
+      "want": "The surviving second Siegfried Marcus car in the Technical Museum Vienna",
+      "search": "Marcus Wagen Technisches Museum Wien"
+    }
+  ]
+}

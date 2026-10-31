@@ -1,0 +1,537 @@
+{
+  "slug": "automobile",
+  "title": "The Automobile",
+  "emoji": "🚗",
+  "tagline": "From a clanking steam wagon to cars that drive themselves",
+  "intro": "Buckle up! For almost all of human history, the fastest way to travel over land was on the back of a horse. Then, in just a couple of hundred years, people built machines that could carry a whole family hundreds of kilometres in a day, without a single oat. In these 20 parts you will ride along with a French army engineer and his huge steam wagon, a German inventor named Karl Benz, and the brave Bertha Benz, who took his car on the world's first long road trip. You'll see Henry Ford's assembly line spit out a new car every few minutes, peek inside an engine to see how tiny explosions turn wheels, and watch roads, traffic lights, racing and seatbelts change the world. Then we'll face the problems too: crashes, smog and oil. And finally we'll zoom into the future of electric and self-driving cars. Start your engines!",
+  "outline": [
+    {
+      "n": 1,
+      "title": "Before the Car: Hooves, Sails and Daydreams",
+      "when": "about 3500 BCE – 1700s",
+      "covers": [
+        "The invention of the wheel and wheeled carts in Mesopotamia and nearby regions (around 3500 BCE), and how for thousands of years land travel depended on people, oxen and horses",
+        "Roman roads: built for armies and trade, some still traceable today; after Rome, most European roads were mud tracks for centuries",
+        "Life with horses: stagecoaches, how far a horse can go in a day, the cost of feeding and stabling horses, and the dirt and smell of horse-filled towns",
+        "Early dreams of self-moving vehicles: Leonardo da Vinci's sketch of a spring-driven self-propelled cart (a design on paper only; modern models have been built from it)",
+        "Simon Stevin's wind-powered 'sailing chariot' on the Dutch beaches around 1600",
+        "Ferdinand Verbiest, a Jesuit missionary in China, who is reported to have built a small steam-powered cart as a toy for the Kangxi Emperor around 1672 (about 65 cm long, too small to carry a person)",
+        "Why none of these became real cars: no small, strong engine existed yet"
+      ],
+      "keyFacts": [
+        "The oldest known wheels date to around 3500 BCE",
+        "The Romans built tens of thousands of kilometres of paved roads (estimates of the main network are around 80,000 km)",
+        "Simon Stevin's sailing chariot reportedly carried about two dozen passengers along the beach around 1600",
+        "Verbiest described his steam cart in a book written in the 1680s; it is the earliest known design of a steam-powered vehicle, but it was a toy"
+      ],
+      "hook": "End with the missing piece—an engine—and tease that the first real self-moving vehicle would be a giant, clanking steam machine built to drag cannons."
+    },
+    {
+      "n": 2,
+      "title": "Cugnot's Steam Monster and the Red Flag",
+      "when": "1769 – 1896",
+      "covers": [
+        "Nicolas-Joseph Cugnot, a French army engineer, and his steam 'fardier' (heavy wagon) built to haul cannons: a test model in 1769 and a full-size version in 1770; three wheels, a huge copper boiler hanging off the front",
+        "Its problems: walking-pace speed, needing to stop every 10–15 minutes to build up steam, very hard to steer; the army lost interest; the 1770 fardier survives in a museum in Paris (Musée des Arts et Métiers)",
+        "Richard Trevithick's 'Puffing Devil' (Camborne, Cornwall, 1801) and London Steam Carriage (1803)",
+        "Steam coaches in Britain in the 1820s–1830s: Goldsworthy Gurney and Walter Hancock ran steam carriages and buses on real routes",
+        "Why steam road vehicles faded in Britain: high road tolls, opposition from horse-coach and railway interests, and the Locomotive Acts—the 1865 'Red Flag Act' limited speeds to 4 mph in the country and 2 mph in towns and required a person walking ahead (60 yards ahead, carrying a red flag)",
+        "1878 amendment made the red flag optional and shortened the distance; the walking person rule ended with the 1896 Locomotives on Highways Act, celebrated by the London-to-Brighton 'Emancipation Run' on 14 November 1896 (still re-enacted today)",
+        "Briefly: Amédée Bollée's steam carriage 'L'Obéissante' in France (1873) shows steam was still being improved—but steam needed heavy boilers and long warm-up times. (Do not explain steam engine science in depth—Invention Lab has a separate Steam Engine Deep Dive; one simple sentence on boiling water pushing a piston is enough.)"
+      ],
+      "keyFacts": [
+        "Cugnot's full-size fardier (1770) is often estimated to have moved at only about 4 km/h (2–3 mph)",
+        "Trevithick's Puffing Devil carried passengers up a hill in Camborne on Christmas Eve 1801",
+        "The 1865 Locomotive Act set limits of 4 mph (about 6 km/h) in the country and 2 mph (about 3 km/h) in towns",
+        "The 1896 Act raised the speed limit to 14 mph (about 22 km/h)"
+      ],
+      "hook": "End by asking: what if, instead of boiling water in a heavy boiler outside the engine, you could burn the fuel right inside the engine itself?"
+    },
+    {
+      "n": 3,
+      "title": "The Engine That Burns Inside",
+      "when": "1860 – 1885",
+      "covers": [
+        "The idea of internal combustion versus external combustion (steam) explained in one simple comparison—save the detailed working for Part 8",
+        "Étienne Lenoir's gas engine (patented 1860), the first commercially successful internal combustion engine; his 'Hippomobile' vehicle trip from Paris to Joinville-le-Pont around 1863 (about 9 km, roughly 3 hours)",
+        "Alphonse Beau de Rochas, who described the four-stroke principle in a French patent in 1862 but never built an engine",
+        "Nicolaus August Otto and Eugen Langen's company in Deutz (near Cologne); Otto's four-stroke engine of 1876, nicknamed the 'Silent Otto'",
+        "Otto's 1876 patent was later challenged in court and partly overturned in Germany in 1886 because of Beau de Rochas's earlier description—fair credit to both",
+        "Gottlieb Daimler and Wilhelm Maybach working at Deutz before leaving in 1882 to build smaller, faster engines (their cars belong in Part 6)",
+        "Siegfried Marcus in Vienna, who built early petrol-powered vehicles; his dates are disputed (his surviving car is probably from the late 1880s), and the Nazis later erased him from German histories because he was Jewish—say his claims are debated"
+      ],
+      "keyFacts": [
+        "Lenoir's engine ran on coal gas and was only about 4% efficient",
+        "Otto's four-stroke engine was first built in 1876 and German patent granted in 1877",
+        "Tens of thousands of Otto-type engines were sold for factories and workshops, but they were big and stationary, running slowly on town gas"
+      ],
+      "hook": "End with the challenge: engines were now powerful but heavy and fixed to factory floors—someone needed to make one light enough to move itself, and a young engineer in Mannheim was about to try."
+    },
+    {
+      "n": 4,
+      "title": "Karl Benz and the Patent-Motorwagen",
+      "when": "1844 – 1888",
+      "covers": [
+        "Karl Benz's childhood in Karlsruhe (born 1844; father a railway engine driver who died when Karl was two; his mother sacrificed to pay for his education)",
+        "His struggling early businesses in Mannheim; making stationary two-stroke engines to earn money; Bertha Ringer's dowry and money that kept his work alive (they married in 1872)",
+        "Designing a whole vehicle around the engine, not just putting an engine on a carriage: tubular steel frame, three wire wheels, a single-cylinder four-stroke engine mounted at the back, a big horizontal flywheel, electric ignition, water cooling by evaporation, chain drive",
+        "German patent DRP No. 37435, applied for on 29 January 1886—often called the 'birth certificate' of the automobile",
+        "The first public drive on Mannheim's Ringstrasse on 3 July 1886; newspapers and the public were not impressed; people laughed or were frightened",
+        "Fair credit: Benz built the first practical car powered by an internal combustion engine designed as one whole vehicle, but others (Daimler and Maybach, Marcus, steam builders) were working at the same time"
+      ],
+      "keyFacts": [
+        "The Patent-Motorwagen's engine was about 954 cc and produced roughly 0.75 horsepower (about 0.55 kW)",
+        "Top speed was about 16 km/h (10 mph)",
+        "Benz built improved versions: Model II and Model III (1888)",
+        "Patent DRP 37435 was filed on 29 January 1886"
+      ],
+      "hook": "End with Karl unsure the world would ever want his car—and his wife Bertha quietly deciding to prove it would."
+    },
+    {
+      "n": 5,
+      "title": "Bertha Benz's Daring Drive",
+      "when": "August 1888",
+      "covers": [
+        "Bertha Benz (born Bertha Ringer, 1849) as investor and partner: under the law of the time a married woman could not hold a patent, but her money helped fund the work",
+        "Early one morning in August 1888, according to family accounts without telling Karl in advance, she set off with sons Eugen (15) and Richard (14) in a Model III Motorwagen from Mannheim to her mother's home in Pforzheim",
+        "Problems solved on the road: buying ligroin (a petroleum solvent used as fuel) at the town pharmacy in Wiesloch—often called the world's first filling station; topping up water for cooling; the boys pushing up hills",
+        "Famous fixes (as told in the family's story): clearing a blocked fuel line with a hatpin, insulating a wire with a garter, and having a shoemaker nail leather onto the wooden brake blocks—an early brake lining",
+        "Sending a telegram to Karl when they arrived; the return trip a few days later by a different route",
+        "Why it mattered: it showed the car could make a real long journey, gave Karl ideas (a lower gear for hills), and got publicity; today's Bertha Benz Memorial Route follows her path (opened 2008)"
+      ],
+      "keyFacts": [
+        "The one-way trip was about 106 km (about 65 miles)",
+        "It is considered the first long-distance journey by automobile",
+        "The trip took most of a day (from early morning until dusk)",
+        "Bertha Benz lived until 1944, long enough to see cars become common"
+      ],
+      "hook": "End with the news spreading—and with two other German engineers, just 100 km away, racing to build a car of their own."
+    },
+    {
+      "n": 6,
+      "title": "Daimler, Maybach and the First Mercedes",
+      "when": "1882 – 1926",
+      "covers": [
+        "Gottlieb Daimler and Wilhelm Maybach's workshop in a garden greenhouse in Cannstatt (near Stuttgart); their fast-running, light 'grandfather clock' engine (1885)",
+        "The Reitwagen ('riding car', 1885)—a wooden two-wheeler often called the first motorcycle—and the four-wheeled motor carriage of 1886 (a horse carriage fitted with an engine)",
+        "Daimler and Benz worked only about 100 km apart but reportedly never met; their companies were rivals",
+        "Selling engine licences to France: Panhard et Levassor and Peugeot; the 1891 'Système Panhard' layout (engine at the front, gearbox, drive to rear wheels) that most cars followed for decades",
+        "Emil Jellinek, a businessman and racing fan in Nice, who ordered a fast, low car and asked that it be named after his daughter Mercedes; the 1901 Mercedes 35 hp designed by Maybach (low frame, honeycomb radiator, pressed-steel chassis) is often called the first modern car",
+        "Daimler died in 1900; in 1926 Daimler-Motoren-Gesellschaft and Benz & Cie. merged to form Daimler-Benz, whose cars carry the Mercedes-Benz name"
+      ],
+      "keyFacts": [
+        "Daimler and Maybach's 1885 engine ran at around 600 revolutions per minute—much faster than Otto's engines of about 150–200 rpm",
+        "Daimler-Motoren-Gesellschaft (DMG) was founded in 1890",
+        "The Mercedes 35 hp of 1901 could reach about 85–90 km/h",
+        "Mercedes Jellinek (1889–1929) was about 11 years old when the car was named after her"
+      ],
+      "hook": "End around 1900 with a surprise: in many cities the most popular cars were not gasoline cars at all, but quiet electric and puffing steam cars."
+    },
+    {
+      "n": 7,
+      "title": "Steam, Electric or Gasoline? The Great Race of 1900",
+      "when": "about 1880 – 1915",
+      "covers": [
+        "Early electric cars: Gustave Trouvé's electric tricycle (Paris, 1881), Thomas Parker's electric vehicles in England (1880s), electric taxis in New York from 1897",
+        "Camille Jenatzy and his bullet-shaped electric 'La Jamais Contente', the first car to go faster than 100 km/h (April 1899)—this is the ONLY part that tells this record in detail",
+        "Steam cars: the Stanley twins' Stanley Steamer; in 1906 a Stanley driven by Fred Marriott set a land speed record of about 205 km/h (127 mph) at Ormond Beach, Florida; White steam cars",
+        "Pros and cons of each: electrics were quiet, clean and easy but had short range and slow charging; steam was powerful but needed warm-up time and water; gasoline cars were smelly, noisy and hard to start with a hand crank but could go far",
+        "Ferdinand Porsche's Lohner-Porsche (around 1900), with electric motors in the wheel hubs and later a petrol engine to make electricity—an early hybrid",
+        "What tipped the race: cheap oil after the Spindletop gusher in Texas (1901), better roads between towns needing long range, the Model T's low price (Part 11), and Charles Kettering's electric self-starter, first offered on the 1912 Cadillac, which ended hand-cranking"
+      ],
+      "keyFacts": [
+        "La Jamais Contente reached about 105.9 km/h (65.8 mph) in 1899",
+        "Around 1900, gasoline cars were a minority of US cars; steam and electric together made up the majority of the few thousand cars built (exact shares vary by source—say 'roughly')",
+        "The Stanley steam car's 1906 record of about 127 mph stood as the steam-car record for over 100 years (until 2009)",
+        "Kettering's starter used an electric motor powered by a battery that the engine then recharged with a generator"
+      ],
+      "hook": "End with the gasoline engine winning—and invite the reader to lift the hood and find out exactly how it works."
+    },
+    {
+      "n": 8,
+      "title": "Inside the Engine: Tiny Explosions, Big Power",
+      "when": "science (developed 1876 – today)",
+      "covers": [
+        "The four-stroke cycle step by step: intake (suck), compression (squeeze), power (bang), exhaust (blow)",
+        "Key parts: cylinder, piston, connecting rod, crankshaft turning up-and-down motion into spinning, valves and camshaft, flywheel",
+        "Mixing fuel and air: Maybach's spray-nozzle carburetor (1893); modern fuel injection controlled by computers",
+        "Making the spark: Robert Bosch's company and engineer Gottlob Honold's high-voltage magneto and spark plug (1902); knocking and why fuel has an octane rating",
+        "Keeping cool: radiator, water pump, fan—why an engine would melt without cooling; oil for lubrication",
+        "Rudolf Diesel's engine (patent 1892, first working engine 1897): no spark, air squeezed so hard it becomes hot enough to ignite fuel; more efficient, used in trucks, ships and trains",
+        "Horsepower explained (James Watt's unit) and multi-cylinder engines for smoothness"
+      ],
+      "keyFacts": [
+        "A typical modern gasoline car engine turns its crankshaft about 700–6,000+ times per minute",
+        "Gasoline engines usually turn only about 20–35% of the fuel's energy into motion; the rest is mostly lost as heat",
+        "Diesel's first working engine ran at Augsburg (Maschinenfabrik Augsburg, later MAN) in 1897 with about 26% efficiency—very high for the time",
+        "One horsepower is about 746 watts"
+      ],
+      "hook": "End with the crankshaft spinning furiously—but a spinning shaft isn't a moving car yet; how does that power reach the wheels and how do you steer and stop?"
+    },
+    {
+      "n": 9,
+      "title": "From Engine to Wheels: Gears, Tires, Steering and Brakes",
+      "when": "science (1818 – today)",
+      "covers": [
+        "The clutch (connecting and disconnecting the engine) and the gearbox: low gears for climbing hills and starting, high gears for speed—link back to Bertha's hills in one line",
+        "The differential: why the outside wheel must turn faster on a curve; Onésiphore Pecqueur's French patent of 1827",
+        "Ackermann steering geometry (patented in Britain by Rudolph Ackermann in 1818 for Georg Lankensperger's design) so both front wheels follow the curve",
+        "Tires: Robert William Thomson's air-filled tire patent (1845); John Boyd Dunlop's pneumatic bicycle tire (1888); André and Édouard Michelin's air-filled car tires in the 1895 Paris–Bordeaux race (many punctures!)",
+        "Brakes: wooden blocks to drum brakes (around 1900–1902; Maybach and Louis Renault), hydraulic brakes (Malcolm Loughead's patent 1917; Duesenberg 1921 among the first cars with four-wheel hydraulic brakes), disc brakes",
+        "Suspension springs and shock absorbers for bumpy roads; the automatic transmission (General Motors' Hydra-Matic offered on 1940 Oldsmobiles)"
+      ],
+      "keyFacts": [
+        "Dunlop made his pneumatic tire in 1888 for his young son's tricycle",
+        "The Michelin brothers' car 'L'Éclair' finished the 1895 Paris–Bordeaux–Paris race despite many punctures",
+        "Ackermann's steering patent dates from 1818",
+        "Hydraulic brakes work because liquid cannot be squeezed smaller, so pressing a small piston pushes larger pistons at each wheel"
+      ],
+      "hook": "End by noting that all these clever parts were still expensive and hand-built—then jump across the Atlantic, where Americans were about to catch car fever."
+    },
+    {
+      "n": 10,
+      "title": "America Catches Car Fever",
+      "when": "1893 – 1908",
+      "covers": [
+        "Charles and Frank Duryea's gasoline car in Springfield, Massachusetts (1893); the Duryea Motor Wagon Company (1895), one of the first American companies to build and sell cars",
+        "The Chicago Times-Herald race on Thanksgiving Day, 28 November 1895, run in snow, won by Frank Duryea",
+        "Henry Ford's early life on a Michigan farm, job at the Edison Illuminating Company in Detroit, and his Quadricycle (1896); two failed car companies before the Ford Motor Company (1903)",
+        "Ransom E. Olds and the Curved Dash Oldsmobile (1901): one of the first cars built in large numbers, using a stationary assembly method",
+        "The Selden patent fight: George Selden's 1895 patent and the licence fees carmakers paid; Ford refused, and won on appeal in 1911",
+        "Horatio Nelson Jackson and mechanic Sewall Crocker made the first car crossing of the United States in 1903 (San Francisco to New York in about 63 days) with their dog Bud",
+        "In 1909 Alice Ramsey became the first woman to drive across the United States (save her for here; Part 14 may mention her in one line only)"
+      ],
+      "keyFacts": [
+        "Ford's Quadricycle ran on four bicycle wheels and had no reverse gear",
+        "Olds built about 425 Curved Dash cars in 1901 and several thousand a year by 1903–1904",
+        "Alice Ramsey's 1909 drive from New York to San Francisco took 59 days",
+        "In 1900 there were only about 8,000 cars registered in the US"
+      ],
+      "hook": "End with Henry Ford's big promise: to build 'a motor car for the great multitude'—a car ordinary families could afford."
+    },
+    {
+      "n": 11,
+      "title": "The Model T and the Moving Assembly Line",
+      "when": "1908 – 1927",
+      "covers": [
+        "The Model T launched on 1 October 1908: simple, tough, high off the ground for rough country roads, easy to repair; vanadium steel; nicknamed the 'Tin Lizzie'",
+        "Ideas Ford's team borrowed and combined: interchangeable parts, Chicago meatpacking 'disassembly' lines, conveyor belts, time-and-motion study; engineers like Charles Sorensen and others (credit the team, not just Ford)",
+        "The Highland Park factory and the moving assembly line (1913): first for parts like the magneto, then the whole chassis",
+        "The $5 workday (announced January 1914) to stop workers quitting the boring, exhausting line—and the downsides: strict rules, monotony, Ford's Sociological Department checking on workers' home lives",
+        "Prices falling year after year; farmers using the Model T to power machines; the 'any color so long as it is black' line and the truth about colors",
+        "The end: by 1927 customers wanted more style and comfort; the Model T was replaced by the Model A"
+      ],
+      "keyFacts": [
+        "Assembly time for a Model T chassis fell from about 12.5 hours to about 1.5 hours (93 minutes)",
+        "The Model T touring car cost about $850 in 1908; the runabout fell to about $260 by 1925",
+        "More than 15 million Model Ts were built between 1908 and 1927",
+        "Black was the only color offered from about 1914 to 1925 because black paint dried fastest; earlier and later Model Ts came in other colors"
+      ],
+      "hook": "End with a rival quietly overtaking Ford by offering something the Model T never did: choice."
+    },
+    {
+      "n": 12,
+      "title": "A Car for Every Purse: GM, the Beetle and the World's Carmakers",
+      "when": "1908 – 1980s",
+      "covers": [
+        "William C. Durant founds General Motors (1908); Alfred P. Sloan's strategy of 'a car for every purse and purpose' (Chevrolet up to Cadillac), yearly model changes, styling (Harley Earl), and buying on credit (GMAC, 1919)",
+        "Small cars in Europe: Austin 7 (1922), Citroën 2CV (1948), Fiat 500 (1957), and Alec Issigonis's Mini (1959) with its space-saving sideways engine",
+        "The Volkswagen Beetle: designed by Ferdinand Porsche's team for the Nazi government's 'people's car' plan in the 1930s, hardly any delivered to ordinary buyers before the war; after 1945 British Army officer Major Ivan Hirst restarted production; it became a worldwide hit",
+        "Japan's rise: Kiichiro Toyoda founds Toyota's car business (1937); Taiichi Ohno's Toyota Production System ('just-in-time', fixing problems right away); the Toyota Corolla (1966)",
+        "Car factories in wartime (briefly, as a business story): civilian car production in the US stopped in 1942 as plants built tanks, jeeps and bombers (Ford's Willow Run B-24 plant)",
+        "How the 1973 oil crisis (detailed in Part 17) helped small, fuel-efficient Japanese cars win buyers worldwide—mention in one sentence only"
+      ],
+      "keyFacts": [
+        "About 21.5 million original Beetles were built; production ended in Mexico in 2003",
+        "The Beetle passed the Model T's production record in 1972",
+        "The Toyota Corolla has sold more than 50 million cars, the best-selling car nameplate ever",
+        "Chevrolet outsold Ford in the US in 1927 as Ford shut down to switch to the Model A"
+      ],
+      "hook": "End with millions of new cars pouring out of factories—and asking: where on earth were they all going to drive?"
+    },
+    {
+      "n": 13,
+      "title": "Roads, Rules and Traffic Lights",
+      "when": "1820s – 1970s",
+      "covers": [
+        "Road surfaces: John Loudon McAdam's layered-stone 'macadam' roads (from about 1820); dust problems with cars; Edgar Purnell Hooley's tar-bound 'Tarmac' patent (1902), asphalt and concrete",
+        "Long roads: the Lincoln Highway (1913, Carl Fisher), Route 66 (1926); Dwight Eisenhower's 1919 Army truck convoy across the US took 62 days and later inspired him",
+        "Motorways: Germany's first autobahn section, Cologne–Bonn (opened 1932, before the Nazis came to power, though they later used autobahns for propaganda); the US Federal-Aid Highway Act of 1956 creating the Interstate system",
+        "Traffic signals: J. P. Knight's gas-lit semaphore signal outside Parliament in London (1868) which exploded weeks later; electric traffic light in Cleveland (1914); three-colour lights in Detroit (around 1920); Garrett Morgan's 1923 patented traffic signal—an important improvement, not the first traffic light",
+        "Rules of the road: the first speeding fine (Walter Arnold, Kent, England, January 1896, about 8 mph in a 2 mph zone); driving licences and tests; number plates; stop signs (Detroit, 1915); driving on the left or right",
+        "Fuel: from pharmacies to purpose-built filling stations (one of the earliest in St. Louis, 1905; drive-in stations around 1913)"
+      ],
+      "keyFacts": [
+        "Walter Arnold was fined one shilling plus costs in 1896",
+        "The 1956 US Interstate plan called for about 41,000 miles (66,000 km) of highways; the system today is about 48,000 miles",
+        "London's 1868 signal was operated by a police officer and was lit by gas at night",
+        "Edgar Hooley's Tarmac patent was granted in 1902"
+      ],
+      "hook": "End with smooth new highways stretching to the horizon—and families loading up the car to see how it would change where and how they lived."
+    },
+    {
+      "n": 14,
+      "title": "How the Car Changed Everyday Life",
+      "when": "1900s – 1970s",
+      "covers": [
+        "Cities before cars: tens of thousands of horses in big cities, manure, flies and dead horses in the street—cars were first seen as the cleaner option",
+        "Suburbs, shopping centres, parking lots, the drive-in movie theatre (Richard Hollingshead, Camden, New Jersey, 1933), the first 'motel' (Milestone Mo-Tel, San Luis Obispo, California, 1925), fast-food drive-ins, road trips",
+        "Farms and the countryside: rural families no longer isolated; doctors' house calls; mail and school buses",
+        "Freedom and fairness: women gaining independence by driving; the Negro Motorist Green Book (Victor Hugo Green, from 1936) helping Black American travellers find safe places during segregation",
+        "Downsides in cities: neighbourhoods cut through by highways, streetcars disappearing, streets redesigned for cars rather than people walking and playing",
+        "Cars in conflict (brief): the 'Taxis of the Marne' (1914) and the Jeep in World War II—keep factory/war production to Part 12"
+      ],
+      "keyFacts": [
+        "A working horse produces roughly 7–15 kg of manure a day",
+        "By 1929 there were about 23 million cars registered in the United States",
+        "The Green Book was published from 1936 to 1966",
+        "Today there are roughly one and a half billion motor vehicles in the world (estimates vary)"
+      ],
+      "hook": "End with people wanting not just to go places, but to go FAST—and the drivers willing to risk everything to be the fastest of all."
+    },
+    {
+      "n": 15,
+      "title": "Racing: The Need for Speed",
+      "when": "1894 – today",
+      "covers": [
+        "Paris–Rouen (22 July 1894), organised by the newspaper Le Petit Journal: a reliability contest; Count de Dion's steam tractor arrived first but top prize was shared by Peugeot and Panhard et Levassor",
+        "Paris–Bordeaux–Paris (June 1895): Émile Levassor drove about 1,178 km in about 48¾ hours, almost without rest",
+        "City-to-city races turn deadly: Paris–Madrid (1903) stopped at Bordeaux after several deaths, including Marcel Renault; racing moves to closed tracks (Brooklands, England, 1907; Indianapolis, 1909)",
+        "First Indianapolis 500 (1911), won by Ray Harroun in the Marmon Wasp, who used a rear-view mirror instead of a riding mechanic (one of the first uses of one on a car); the 24 Hours of Le Mans (first held 1923); the Formula One World Championship (first race at Silverstone, 13 May 1950, champion Giuseppe Farina)",
+        "Land speed records: from Jenatzy (mention only in one line—told in Part 7) to Malcolm Campbell's Bluebirds to ThrustSSC, driven by Andy Green, the first car to break the sound barrier (15 October 1997)",
+        "How racing improved everyday cars: disc brakes proved at Le Mans (Jaguar C-Type, 1953), better tyres, aerodynamics, safety harnesses; the racing deaths that pushed safety forward"
+      ],
+      "keyFacts": [
+        "ThrustSSC reached about 1,228 km/h (763 mph) in Nevada's Black Rock Desert",
+        "Harroun averaged about 74.6 mph (120 km/h) in the 1911 Indy 500",
+        "Le Mans is a 24-hour endurance race held in France since 1923",
+        "Levassor averaged about 24 km/h (15 mph) in 1895"
+      ],
+      "hook": "End with the dark side of speed: as cars got faster and more common, crashes became one of the biggest dangers in everyday life."
+    },
+    {
+      "n": 16,
+      "title": "Crashes and the Fight for Safety",
+      "when": "1869 – today",
+      "covers": [
+        "Early deaths: Mary Ward, killed by an experimental steam car in Ireland in 1869 (often called the first known motor-vehicle death); Bridget Driscoll in London (17 August 1896), the first pedestrian in Britain killed by a petrol car",
+        "Early safety ideas: Mary Anderson's windshield wiper patent (1903); safety glass; electric headlights",
+        "Béla Barényi's crumple zone and rigid passenger cell (patented 1952; on Mercedes cars from 1959)",
+        "Nils Bohlin's three-point seatbelt for Volvo (1959); Volvo let other carmakers use the patent for free; lap belts existed earlier",
+        "Ralph Nader's book 'Unsafe at Any Speed' (1965), the US National Traffic and Motor Vehicle Safety Act (1966) and the safety agency NHTSA (1970); crash-test dummies; seatbelt laws",
+        "Airbags (widely fitted from the 1980s–1990s), anti-lock brakes (electronic ABS from Bosch on the Mercedes S-Class in 1978), electronic stability control, child car seats; drunk-driving campaigns",
+        "Today's numbers: road crashes still kill about 1.2 million people a year worldwide (WHO), though deaths per kilometre driven have fallen enormously in many countries"
+      ],
+      "keyFacts": [
+        "Volvo estimates the three-point seatbelt has saved more than a million lives",
+        "WHO's 2023 report estimated about 1.19 million road traffic deaths per year",
+        "Seatbelts reduce the risk of death for front-seat occupants by roughly 45–50%",
+        "Road injuries are a leading cause of death for children and young people aged 5–29 worldwide"
+      ],
+      "hook": "End with a different, invisible danger: what was coming out of the tailpipe."
+    },
+    {
+      "n": 17,
+      "title": "Smog, Lead and Oil: The Car's Hidden Costs",
+      "when": "1921 – today",
+      "covers": [
+        "Leaded gasoline: Thomas Midgley Jr. at General Motors found tetraethyl lead stopped engine knock (1921); worker poisonings at plants in 1924; Clair Patterson's research showing lead pollution everywhere; phased out in the US for road vehicles by 1996 and worldwide by 2021 (Algeria last, announced by the UN Environment Programme)",
+        "Los Angeles smog: Arie Haagen-Smit showed in the early 1950s that sunlight reacting with car exhaust made smog",
+        "Fighting back: the US Clean Air Act (1970), catalytic converters on most new US cars from 1975 (they need unleaded fuel—another reason lead was removed), emission tests",
+        "Oil and politics: the 1973 oil embargo, fuel lines and shortages, fuel-economy rules (US CAFE standards from 1975)",
+        "Carbon dioxide and climate change: burning a litre of gasoline makes about 2.3 kg of CO2; transport is one of the largest sources of greenhouse gases",
+        "The 'Dieselgate' scandal (2015): Volkswagen admitted software cheated on emissions tests in about 11 million cars—show that rules only work if tested honestly"
+      ],
+      "keyFacts": [
+        "A catalytic converter uses metals like platinum, palladium and rhodium to turn harmful gases into less harmful ones",
+        "UNEP announced the end of leaded petrol for cars worldwide in August 2021",
+        "Transport produces roughly a fifth to a quarter of energy-related CO2 emissions worldwide, mostly from road vehicles (IEA estimates)",
+        "Burning one litre of petrol releases about 2.3 kg of CO2"
+      ],
+      "hook": "End by asking whether the car could be reinvented without burning fuel—and remind readers that the answer had been parked in the past all along: electricity."
+    },
+    {
+      "n": 18,
+      "title": "The Electric Comeback",
+      "when": "1990s – today",
+      "covers": [
+        "Why early electrics lost (one-line recap of Part 7) and what had to change: batteries",
+        "Lithium-ion batteries: commercialised by Sony in 1991; the 2019 Nobel Prize in Chemistry to John Goodenough, M. Stanley Whittingham and Akira Yoshino",
+        "GM's EV1 (1996–1999), leased not sold, then mostly crushed; Toyota Prius hybrid (1997 in Japan); the Tesla Roadster (2008) and Model S (2012); the Nissan Leaf (2010); China's carmakers such as BYD",
+        "How an electric car works: battery pack, electric motor with very few moving parts, instant torque, regenerative braking that recharges the battery when slowing down; charging at home and fast chargers",
+        "Challenges: range, charging time, cost, mining lithium, cobalt and nickel (environmental and human-rights concerns), battery recycling; electricity needs to come from cleaner sources to get the full benefit",
+        "Hydrogen fuel-cell cars (Toyota Mirai, 2014) as another zero-exhaust option, with few refuelling stations"
+      ],
+      "keyFacts": [
+        "Average lithium-ion battery pack prices fell by roughly 90% between 2010 and the mid-2020s (BloombergNEF)",
+        "In 2024 about one in five new cars sold worldwide was electric (including plug-in hybrids), over 17 million cars (IEA)",
+        "In Norway close to 9 out of 10 new cars sold in 2024 were fully electric",
+        "Electric motors turn roughly 85–90% or more of their energy into motion, much more than a gasoline engine"
+      ],
+      "hook": "End with an even bigger change: what if the car didn't need a driver at all?"
+    },
+    {
+      "n": 19,
+      "title": "Cars That Drive Themselves",
+      "when": "1925 – today",
+      "covers": [
+        "Early dreams: a radio-controlled car driven through New York traffic in 1925 (Houdina Radio Control); General Motors' 'Futurama' exhibit at the 1939 New York World's Fair imagining automated highways",
+        "Ernst Dickmanns and his team at the Bundeswehr University Munich: camera-guided vans in the 1980s and a 1995 Mercedes trip from Munich to Denmark driven mostly by computer",
+        "Carnegie Mellon's Navlab and 'No Hands Across America' (1995), steering itself about 98% of the way while humans controlled speed",
+        "DARPA Grand Challenges: 2004 (no robot finished—the best went about 12 km/7.4 miles), 2005 (Stanford's 'Stanley', led by Sebastian Thrun, won), 2007 Urban Challenge (Carnegie Mellon's 'Boss' won)",
+        "How a self-driving car 'sees' and decides: cameras, radar, lidar, GPS and maps, and AI software that predicts what others will do",
+        "The SAE levels of driving automation (0–5); driver-assistance systems (Level 2) still need an attentive human; Google's project (2009) becoming Waymo, offering fully driverless public rides in parts of Phoenix from 2020 and later other cities; robotaxis in China",
+        "Hard questions: safety and accidents (for example, Cruise's California permit was suspended in 2023 after a pedestrian was dragged), weather, responsibility, jobs for drivers"
+      ],
+      "keyFacts": [
+        "The SAE driving-automation levels were first published in 2014 (standard J3016)",
+        "Stanley completed the 2005 DARPA course of about 212 km (132 miles) in under 7 hours",
+        "In 'No Hands Across America' the Navlab 5 traveled about 2,800 miles from Pittsburgh to San Diego",
+        "Most cars sold today with 'autopilot'-style features are Level 2: the human driver must keep watching the road"
+      ],
+      "hook": "End by zooming out: from Cugnot's wagon to robot taxis took about 250 years—so what will the next chapter look like, and what can we learn from the whole journey?"
+    },
+    {
+      "n": 20,
+      "title": "The Road So Far, and the Road Ahead",
+      "when": "1769 – the future",
+      "covers": [
+        "A quick timeline recap: Cugnot (1770), Benz's patent (1886), Bertha's drive (1888), Model T (1908), assembly line (1913), seatbelt (1959), electric comeback (2008–today), driverless rides (2020)",
+        "The big pattern: no single inventor made the car—it was built by many people across many countries, each solving one problem (engine, tires, brakes, starter, roads, safety)",
+        "Trade-offs we still debate: freedom and convenience versus crashes, pollution, traffic jams and land used for parking",
+        "Possible futures: cleaner electric cars with better batteries (for example solid-state batteries under development), shared and self-driving taxis, cities with more space for walking and cycling, electric air taxis, recycling of whole cars",
+        "Return to Bertha Benz's 1888 drive as a closing image—and the reader's role: the next problems (clean energy, safety, cities) will be solved by curious kids who grow up to be engineers and designers"
+      ],
+      "keyFacts": [
+        "Top speed rose from about 4 km/h (Cugnot, 1770) to about 1,228 km/h (ThrustSSC, 1997)",
+        "The world now has roughly one and a half billion motor vehicles",
+        "The Model T took about 1.5 hours of chassis assembly in 1914; modern factories finish a car roughly every minute on a busy line"
+      ],
+      "hook": "Finish on an inspiring line inviting the reader to imagine and design the car of the future."
+    }
+  ],
+  "people": [
+    "Leonardo da Vinci (1452–1519) — Italian artist-engineer who sketched a spring-driven self-moving cart (never built in his time)",
+    "Simon Stevin (1548–1620) — Flemish-Dutch engineer who built a wind-powered sailing chariot around 1600",
+    "Ferdinand Verbiest (1623–1688) — Flemish Jesuit missionary in China reported to have built a small steam-powered toy cart for the Kangxi Emperor",
+    "Nicolas-Joseph Cugnot (1725–1804) — French army engineer who built the steam 'fardier', the first full-size self-propelled road vehicle (1769–1770)",
+    "Richard Trevithick (1771–1833) — Cornish engineer who built high-pressure steam road carriages (1801, 1803) and an early railway locomotive",
+    "Goldsworthy Gurney (1793–1875) — British inventor who ran steam carriages in the 1820s–1830s",
+    "Walter Hancock (1799–1852) — British engineer who ran steam omnibus services in London in the 1830s",
+    "Amédée Bollée (1844–1917) — French bell-founder who built the steam carriage L'Obéissante (1873)",
+    "Étienne Lenoir (1822–1900) — Belgian-French engineer who built the first commercially successful internal combustion engine (1860)",
+    "Alphonse Beau de Rochas (1815–1893) — French engineer who described the four-stroke principle in 1862",
+    "Nicolaus August Otto (1832–1891) — German inventor who built the first practical four-stroke engine (1876)",
+    "Eugen Langen (1833–1895) — German engineer and Otto's business partner at Deutz",
+    "Siegfried Marcus (1831–1898) — Vienna-based inventor of early petrol vehicles whose dates and priority are debated",
+    "Karl Benz (1844–1929) — German engineer who built and patented the Benz Patent-Motorwagen (1886)",
+    "Bertha Benz (1849–1944) — Karl's wife, financial partner and the first person to make a long-distance car journey (1888)",
+    "Eugen Benz (1873–1958) and Richard Benz (1874–1955) — Bertha's teenage sons who rode with her in 1888",
+    "Gottlieb Daimler (1834–1900) — German engineer who, with Maybach, built fast light engines, the Reitwagen and a motor carriage",
+    "Wilhelm Maybach (1846–1929) — German designer of engines, the spray-nozzle carburetor and the 1901 Mercedes",
+    "Emil Jellinek (1853–1918) — businessman and racer who ordered the first Mercedes and named it after his daughter",
+    "Mercedes Jellinek (1889–1929) — the girl whose name became the Mercedes brand",
+    "René Panhard (1841–1908) and Émile Levassor (1843–1897) — French carmakers who created the front-engine 'Système Panhard'; Levassor won Paris–Bordeaux–Paris in 1895",
+    "Armand Peugeot (1849–1915) — French industrialist who turned his family firm to making cars",
+    "Gustave Trouvé (1839–1902) — French electrical engineer who built an electric tricycle in 1881",
+    "Thomas Parker (1843–1915) — English engineer who built early electric vehicles in the 1880s",
+    "Camille Jenatzy (1868–1913) — Belgian driver whose electric car first passed 100 km/h (1899)",
+    "Francis E. Stanley (1849–1918) and Freelan O. Stanley (1849–1940) — American twins who built Stanley steam cars",
+    "Ferdinand Porsche (1875–1951) — Austrian-German engineer of the Lohner-Porsche hybrid and the Volkswagen Beetle; he worked for the Nazi regime",
+    "Charles F. Kettering (1876–1958) — American engineer who developed the electric self-starter (1912 Cadillac)",
+    "Rudolf Diesel (1858–1913) — German engineer who invented the compression-ignition diesel engine",
+    "Robert Bosch (1861–1942) — German industrialist whose company made magnetos and spark plugs",
+    "Gottlob Honold (1876–1923) — Bosch engineer who developed the high-voltage magneto ignition with spark plug (1902)",
+    "James Watt (1736–1819) — Scottish engineer whose 'horsepower' unit is still used for engines",
+    "Onésiphore Pecqueur (1792–1852) — French engineer who patented the differential gear for vehicles (1827)",
+    "Rudolph Ackermann (1764–1834) and Georg Lankensperger (1779–1855) — Ackermann patented Lankensperger's steering design in Britain (1818)",
+    "Robert William Thomson (1822–1873) — Scottish inventor who patented the first air-filled tire (1845)",
+    "John Boyd Dunlop (1840–1921) — Scottish vet in Belfast who developed a practical pneumatic tire (1888)",
+    "André Michelin (1853–1931) and Édouard Michelin (1859–1940) — French brothers who put air-filled tires on cars",
+    "Charles Duryea (1861–1938) and Frank Duryea (1869–1967) — brothers who built early American gasoline cars",
+    "Henry Ford (1863–1947) — American industrialist whose company built the Model T and the moving assembly line; also known for antisemitic publications in the 1920s",
+    "Charles Sorensen (1881–1968) — Ford production chief who helped develop the moving assembly line",
+    "Ransom E. Olds (1864–1950) — American carmaker of the Curved Dash Oldsmobile",
+    "George B. Selden (1846–1922) — patent lawyer whose broad car patent was challenged by Ford",
+    "Horatio Nelson Jackson (1872–1955) — doctor who made the first US cross-country car trip (1903)",
+    "Alice Ramsey (1886–1983) — first woman to drive across the United States (1909)",
+    "William C. Durant (1861–1947) — founder of General Motors",
+    "Alfred P. Sloan (1875–1966) — GM leader who introduced model ranges and yearly model changes",
+    "Harley Earl (1893–1969) — GM's first head of car styling",
+    "Ivan Hirst (1916–2000) — British Army officer who restarted Volkswagen production after World War II",
+    "Alec Issigonis (1906–1988) — designer of the Mini",
+    "Kiichiro Toyoda (1894–1952) — founder of Toyota's car business",
+    "Taiichi Ohno (1912–1990) — Toyota engineer who shaped the Toyota Production System",
+    "John Loudon McAdam (1756–1836) — Scottish engineer of 'macadam' road-building",
+    "Edgar Purnell Hooley (1860–1942) — Welsh surveyor who patented Tarmac (1902)",
+    "Carl G. Fisher (1874–1939) — promoter of the Lincoln Highway and the Indianapolis Motor Speedway",
+    "Dwight D. Eisenhower (1890–1969) — US president who signed the 1956 Interstate highway law",
+    "John Peake Knight (1828–1886) — railway engineer behind London's 1868 traffic signal",
+    "Garrett Morgan (1877–1963) — African American inventor who patented an improved traffic signal (1923)",
+    "Walter Arnold (dates uncertain) — English driver who received the first recorded speeding fine (1896)",
+    "Victor Hugo Green (1892–1960) — creator of the Negro Motorist Green Book",
+    "Richard Hollingshead (1900–1975) — opened the first drive-in movie theatre (1933)",
+    "Marcel Renault (1872–1903) — co-founder of Renault, killed in the 1903 Paris–Madrid race",
+    "Louis Renault (1877–1944) — French carmaker and engineer, credited with early drum brake and gearbox work",
+    "Ray Harroun (1879–1968) — winner of the first Indianapolis 500 (1911)",
+    "Giuseppe Farina (1906–1966) — first Formula One World Champion (1950)",
+    "Malcolm Campbell (1885–1948) — British driver who set many land speed records in his Bluebird cars",
+    "Andy Green (born 1962) — RAF pilot who drove ThrustSSC through the sound barrier (1997)",
+    "Mary Ward (1827–1869) — Irish scientist and artist, the first known person killed by a motor vehicle",
+    "Bridget Driscoll (about 1851–1896) — first pedestrian in Britain killed by a petrol car",
+    "Mary Anderson (1866–1953) — American who patented a windshield wiper (1903)",
+    "Béla Barényi (1907–1997) — Mercedes-Benz engineer who invented the crumple zone",
+    "Nils Bohlin (1920–2002) — Volvo engineer who designed the modern three-point seatbelt",
+    "Ralph Nader (born 1934) — American consumer advocate who wrote 'Unsafe at Any Speed'",
+    "Thomas Midgley Jr. (1889–1944) — chemist who introduced leaded gasoline (and later CFCs)",
+    "Clair Patterson (1922–1995) — geochemist who measured Earth's age and campaigned against lead pollution",
+    "Arie Haagen-Smit (1900–1977) — Dutch-American chemist who discovered how car exhaust makes smog",
+    "John B. Goodenough (1922–2023), M. Stanley Whittingham (born 1941) and Akira Yoshino (born 1948) — Nobel-winning lithium-ion battery pioneers",
+    "Martin Eberhard (born 1960) and Marc Tarpenning (born 1964) — co-founders of Tesla (2003)",
+    "Elon Musk (born 1971) — early Tesla investor and chairman (2004), later CEO",
+    "Norman Bel Geddes (1893–1958) — designer of GM's 1939 Futurama exhibit",
+    "Ernst Dickmanns (born 1936) — German engineer who pioneered camera-guided self-driving cars",
+    "Sebastian Thrun (born 1967) — led Stanford's Stanley team and later Google's self-driving project"
+  ],
+  "glossary": [
+    "external combustion engine — an engine where fuel burns outside the cylinder, like a steam engine heating water in a boiler",
+    "internal combustion engine — an engine where fuel burns inside the cylinder, pushing a piston directly",
+    "piston — a plug that slides up and down inside the cylinder, pushed by the burning gases",
+    "crankshaft — a bent shaft that turns the piston's up-and-down motion into spinning motion",
+    "four-stroke cycle — the four steps of most car engines: intake, compression, power and exhaust",
+    "spark plug — a part that makes a tiny electric spark to light the fuel-air mixture",
+    "carburetor — a device that mixes fuel with air before it enters the engine (mostly replaced by fuel injection)",
+    "diesel engine — an engine that ignites fuel by squeezing air until it is very hot, with no spark",
+    "horsepower — a unit of power, about 746 watts, first used by James Watt to compare engines with horses",
+    "gearbox (transmission) — a set of gears that lets the engine turn wheels slowly with lots of force or fast with less force",
+    "clutch — a part that connects or disconnects the engine from the wheels so you can change gears",
+    "differential — gears that let the left and right wheels turn at different speeds on a curve",
+    "pneumatic tire — a tire filled with air to cushion bumps",
+    "assembly line — a way of building things where the product moves past workers who each do one job",
+    "crumple zone — front and rear parts of a car designed to crush in a crash, absorbing energy to protect people inside",
+    "catalytic converter — a device in the exhaust that uses special metals to turn harmful gases into less harmful ones",
+    "hybrid — a car with both a fuel engine and an electric motor with a battery",
+    "regenerative braking — when an electric car's motor works as a generator while slowing down, recharging the battery",
+    "lidar — a sensor that uses laser pulses to measure distances and make a 3D map of the surroundings",
+    "levels of driving automation — the SAE scale from 0 (no automation) to 5 (the car can drive itself everywhere with no human)"
+  ],
+  "doNotSay": [
+    "Do not say Henry Ford invented the car or the assembly line—he made cars affordable through mass production, combining existing ideas with his team",
+    "Do not say the Model T only ever came in black—black was the only color from about 1914 to 1925",
+    "Do not say Karl Benz alone invented 'the car'—say he built and patented the first practical automobile powered by an internal combustion engine (1886), while others worked on similar ideas",
+    "Do not present the story that Cugnot crashed his fardier into a wall as 'the first car accident' as fact—it is a legend/uncertain story",
+    "Do not repeat the 'Great Horse Manure Crisis of 1894' quote (that London would be buried under 9 feet of manure by 1950) as fact—no original source has been found",
+    "Do not say Garrett Morgan invented the traffic light—he patented an improved signal in 1923; earlier signals existed from 1868 and electric ones from 1914",
+    "Do not say electric cars are a new invention—they were popular around 1900",
+    "Do not say Volvo invented the seatbelt—lap belts existed earlier; Nils Bohlin designed the modern three-point belt (1959)",
+    "Do not say Leonardo da Vinci built a car—he only sketched a self-moving cart",
+    "Do not say Hitler designed the Volkswagen Beetle—Ferdinand Porsche's team designed it for the Nazi government's program",
+    "Do not call Verbiest's steam cart the first car—it was a small toy and its details are known only from his writings",
+    "Do not say today's cars with 'Autopilot' or similar features are fully self-driving—they are driver-assistance systems needing an attentive driver",
+    "Do not say Daimler and Benz worked together—their companies were rivals until merging in 1926, after Daimler's death; the two men reportedly never met",
+    "Do not say the Mercedes name comes from the Benz or Daimler family—it was the name of Emil Jellinek's daughter",
+    "Do not say Bertha Benz's drive was 'the first time a car was driven'—it was the first long-distance car journey",
+    "Do not give exact market shares for steam/electric/gasoline cars in 1900 as precise facts—sources differ; use 'roughly'",
+    "Do not invent dialogue or quotes for real people; only use well-documented quotes and label family stories as stories"
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "n": 13,
+  "title": "AC, DC and the Magic of Transformers",
+  "when": "Science + 1881 – 1886",
+  "summary": "Some electricity flows one way, like a river. Other electricity rocks back and forth, 50 or 60 times every second! The back-and-forth kind has a secret helper called a transformer, which can make electricity strong enough to travel for miles and then gentle enough to light your lamp.",
+  "sections": [
+    {
+      "heading": "One Way, or Back and Forth?",
+      "paragraphs": [
+        "At the end of the last part, Thomas Edison's shiny new power station at Pearl Street was humming away in New York. It worked. Lamps glowed, customers paid their bills, and newspapers wrote excited stories. But there was a catch hiding inside the copper cables under the street: the electricity could only travel about a mile before too much of it leaked away as heat. To understand why, and how engineers solved it, we need to learn about two different kinds of electric current. This part is a bit more science-heavy than the others, so get ready to think like an engineer.",
+        "The first kind is called direct current, or DC. In a DC circuit the electric charge flows around the loop in one direction only, always the same way, like a river that runs steadily downhill to the sea. A battery gives DC. So does a solar panel. So did Edison's big Jumbo dynamos at Pearl Street, which pushed current out through the cables to the lamps and back again, always in the same direction.",
+        "The second kind is called alternating current, or AC. In an AC circuit the charge does not travel steadily around the loop. Instead it rocks back and forth, first one way, then the other, then back again, over and over. Imagine a long rope stretched across a playground. If you pull the rope steadily toward you, that is like DC. If you shove it forward and yank it back again and again, the rope wiggles in place but still carries your effort to the person at the other end. That is like AC. Energy still gets delivered, even though nothing travels very far.",
+        "How fast does AC wiggle? Today, in Britain, Europe, China, India, Australia and much of the world, the current changes direction so that it completes 50 full back-and-forth cycles every second. In the United States, Canada, Mexico and some other countries it completes 60 cycles a second. Scientists measure this in hertz (Hz), a unit named after the German physicist Heinrich Hertz, whom you met when he made the first radio waves. So European sockets are 50 Hz and American ones are 60 Hz. Because each cycle has a forward push and a backward push, the current in a European lamp actually stops and reverses 100 times every second. It happens far too fast for your eyes to notice.",
+        "In the early days there was no agreement at all. Some early lighting systems ran at about 133 cycles a second, others at 125, others at 66 or 25. One study counted ten different frequencies in use in London alone as late as 1918. Lower frequencies were good for motors but made lamps flicker, because the glowing filament had time to cool down a tiny bit every time the current dropped to zero. Engineers slowly settled on 50 and 60 as a good compromise, and the rest of the world was split between them, mostly depending on which companies sold the first equipment.",
+        "You might think that a current that keeps changing its mind would be useless. Surely the steady one-way flow is better? For a battery-powered torch it is. But as you are about to see, the wiggling kind had a hidden superpower. It could be squeezed up to very high voltages and then let down again, and that made all the difference for sending electricity across long distances."
+      ]
+    },
+    {
+      "heading": "Spinning Magnets Make Wiggles",
+      "paragraphs": [
+        "Here is a surprise: AC is actually the natural kind of electricity for a generator to make. To see why, go back to Michael Faraday's great discovery of 1831, electromagnetic induction. Faraday found that when a magnet moves near a coil of wire, or a coil moves near a magnet, a current flows in the wire. The important word is moves. A magnet sitting still next to a coil does nothing. It is the change in magnetism passing through the coil that pushes the charge along.",
+        "Now picture a magnet spinning round and round inside a ring of wire coils, which is roughly what happens inside a modern generator. As the north pole of the magnet sweeps toward a coil, the magnetism through that coil grows, and current is pushed one way. As the north pole sweeps past and the south pole comes round, the magnetism through the coil flips, and current is pushed the other way. One full turn of the magnet gives one forward push and one backward push. Keep spinning, and you get current that swings back and forth smoothly, in a wave shape that mathematicians call a sine wave. A spinning generator makes AC all by itself.",
+        "The very first hand-cranked generator, built by the young French instrument maker Hippolyte Pixii in Paris in 1832, did exactly this. Turning the handle spun a horseshoe magnet past two coils, and the current came out alternating. At the time, scientists did not want wiggling current. They wanted steady current like a battery's, because that was what they knew how to use for experiments such as electrolysis. So a clever switching device called a commutator was added. It flipped the connections every half-turn so that the current always left the machine in the same direction. Most generators for the next fifty years, including Edison's dynamos, used commutators to turn their natural AC into DC.",
+        "Commutators worked, but they had drawbacks. They were made of copper segments rubbed by brushes of copper or carbon, and they sparked, wore out and needed constant care. They also became harder to build as machines grew bigger and voltages rose. An AC generator, often called an alternator, can skip the commutator and simply send its wiggling current straight out to the wires.",
+        "How fast the current wiggles depends on how fast the generator spins and how many magnetic poles it has. Many early lighting alternators had eight poles and spun at about 2,000 turns a minute, which works out at roughly 133 cycles per second. Today a big power station generator in Europe with just two poles spins at exactly 3,000 turns a minute to produce 50 Hz, and in America at 3,600 turns a minute for 60 Hz. Every generator connected to the grid has to spin in perfect step with all the others, like a giant team of rowers pulling together.",
+        "So the AC idea was not new in the 1880s, and no single person invented it. Alternating current had been coming out of generators since Pixii's day. What was missing was a reason to want it and a way to use it. That reason turned out to be a problem with wires."
+      ]
+    },
+    {
+      "heading": "Why Wires Waste Power",
+      "paragraphs": [
+        "No ordinary wire is perfect. Even copper, one of the best conductors there is, has some resistance, which means it holds back the flow of charge a little. As the current pushes through, the moving electrons keep bumping into the vibrating atoms of the metal, and some of the electrical energy turns into heat. You can feel this yourself: a phone charger cable or a laptop power lead often gets slightly warm. In a toaster or the filament of an old light bulb this heating is the whole point. In a long cable carrying power across a city, it is pure waste.",
+        "Now comes the key piece of science. The amount of heat wasted in a wire does not just go up with the current. It goes up with the current multiplied by itself, the current squared. Double the current, and the heat loss becomes about four times bigger. Triple the current, and it becomes nine times bigger. Ten times the current means a hundred times the waste. Engineers write this as a tiny formula, loss equals I squared times R, where I stands for current and R for the resistance of the wire.",
+        "There is a second rule to put next to it. The power delivered to a lamp or a motor, measured in watts, equals the voltage times the current. A 100-watt bulb could be fed by 100 volts and 1 amp, or by 10 volts and 10 amps, or by 1,000 volts and one tenth of an amp. Each gives the same 100 watts. This means there are two ways to send a lot of power: a big current at a low voltage, or a small current at a high voltage.",
+        "Put the two rules together and something wonderful happens. Imagine you want to send 10,000 watts, enough for a hundred old 100-watt bulbs, along a cable that has a resistance of half an ohm. At 100 volts you need a current of 100 amps. One hundred squared is 10,000, and half of that is 5,000 watts lost as heat in the cable. Half your power never reaches the customers. Now send the same 10,000 watts at 10,000 volts. You need only 1 amp. One squared is one, and half of that is half a watt lost. The waste has almost vanished, simply because the voltage went up and the current went down.",
+        "This is exactly why Edison's 110-volt DC system could only reach customers within about a mile of the power station. To carry more power farther at such a low voltage, he would have needed enormously thick copper cables, and copper was expensive. In fact, the cost of copper for the cables was one of the biggest worries in Edison's own calculations. A city lit the Edison way would have needed a power station every mile or so, each burning coal right in the middle of crowded neighbourhoods.",
+        "Of course, nobody wanted 10,000 volts running into their living room. A voltage that high could jump through the air and would be deadly to touch. Lamps and motors needed safe, low voltages. So engineers wanted something seemingly impossible: very high voltage on the long journey, and low voltage at the end. They needed a machine that could change voltage up and down like a gearbox changes the speed of a bicycle. That machine existed, but it only worked with alternating current."
+      ]
+    },
+    {
+      "heading": "The Transformer: A Gearbox for Electricity",
+      "paragraphs": [
+        "A transformer is one of the simplest important machines ever made. It has no moving parts at all. At its heart is a core of iron, usually a ring or a rectangle shape. Around one side of the core is wound a coil of insulated wire called the primary coil. Around the other side is wound a second, separate coil called the secondary coil. The two coils do not touch each other. There is no wire connecting them. And yet electrical energy jumps from one to the other.",
+        "Here is how. When alternating current flows in the primary coil, it turns the iron core into an electromagnet. Because the current keeps reversing, the magnetism in the core keeps growing, shrinking and flipping, many times a second. The iron guides this changing magnetism around the core and through the secondary coil. And as Faraday discovered, changing magnetism passing through a coil makes a current flow in it. So the secondary coil produces its own alternating current, at the same frequency as the first.",
+        "The magic is in the number of turns. If the secondary coil has ten times as many turns of wire as the primary, the voltage coming out is about ten times higher, and the current is about ten times lower. That is a step-up transformer. Swap the coils around, with fewer turns on the secondary, and you get a step-down transformer that lowers the voltage and raises the current. The power going in and the power coming out stay almost the same; a good transformer wastes only a tiny fraction as heat. It is like a gearbox: you can trade speed for strength, but you do not get extra energy for free.",
+        "Now you can see why a transformer cannot work with steady DC. Remember Faraday's famous experiment with two coils on an iron ring in August 1831? He found that the second coil only gave a quick flick of current at the moment he connected or disconnected the battery. While the current was steady, nothing happened. Steady current makes steady magnetism, and steady magnetism induces nothing. A transformer fed with DC would just sit there, getting warm. AC, which is changing all the time, keeps the transformer working every instant. Faraday's ring was, in fact, the first transformer, but it took fifty years for anyone to turn it into a practical machine.",
+        "With transformers, a whole new plan becomes possible. Generate AC at a power station. Use a step-up transformer to raise the voltage to thousands of volts. Send it along fairly thin wires for many miles, losing very little. Then, near the homes and shops, use step-down transformers to bring it back to a safe low voltage for lamps. This is still exactly how electricity reaches you today. Those grey boxes on poles or green metal cabinets on the pavement in your street are often step-down transformers, and the faint hum you sometimes hear from them is the iron core vibrating 100 or 120 times a second as its magnetism flips.",
+        "The question in the early 1880s was who could build a transformer good enough, cheap enough and safe enough to light a town. Several teams in different countries raced toward the answer at almost the same time."
+      ]
+    },
+    {
+      "heading": "Gaulard and Gibbs and the Secondary Generator",
+      "paragraphs": [
+        "The first team to make real headlines was an unlikely pair. Lucien Gaulard was a young French engineer, born in Paris in 1850, full of ideas and eager to make his name. John Dixon Gibbs was an English businessman and engineer, about sixteen years older, who had the money and connections to help turn ideas into products. Together, in the early 1880s, they built a device they called a secondary generator. Today we would call it a transformer.",
+        "They first exhibited it in London in about 1881 or 1882 (accounts differ) and applied for patents in 1882. Their design had a straight bundle of iron wires at its centre, with coils wound around it. Because the iron did not form a closed loop, engineers call this an open-core design. Much of the magnetism leaked out into the surrounding air instead of being guided neatly from one coil to the other, which made it less efficient than it could have been.",
+        "Gaulard and Gibbs also arranged their system in an unusual way. The primary coils of all their secondary generators were connected one after another, in a long chain called a series circuit, like old-fashioned Christmas tree lights. Each device had about the same number of turns on both coils, so it did not raise or lower the voltage very much. To adjust how much power a lamp got, you slid the iron core in or out of the coils. The trouble with a series chain is that everything depends on everything else: switch one group of lamps on or off, and the voltage for all the others changes too.",
+        "Many British engineers were not impressed, and the device was criticised at first. But in 1884 Gaulard and Gibbs took their system to an exhibition in Turin, in northern Italy, and there it shone. They built a demonstration line tens of kilometres long, much farther than any DC line of the time, running at high voltage and lighting lamps along the route. It proved that AC could carry power across real distances, and the system was adopted for electric lighting. One of the scientists who studied their device closely was a Turin professor named Galileo Ferraris, who will turn up again in the next part.",
+        "Sadly, the story did not end happily for Gaulard. His patents were challenged in court by other engineers, including the young British inventor Sebastian Ziani de Ferranti, who argued that the ideas were not truly new. The patents were overturned. Gaulard, who had put everything into his invention, became very unwell and died in a Paris hospital in November 1888, at just 38 years old. Historians still remember him as one of the true pioneers of AC power, even though others made the money from the ideas he helped launch."
+      ]
+    },
+    {
+      "heading": "Three Friends in Budapest",
+      "paragraphs": [
+        "While Gaulard and Gibbs were showing off their open-core device, a team in Budapest, the capital of Hungary, was working on something better. The Ganz Works was a big engineering company famous for making railway wheels and machinery. It had started making electric lighting equipment in 1878 and had installed more than fifty lighting systems in Austria-Hungary by 1883. Its electrical department was run by Károly Zipernowsky, an engineer born in 1853.",
+        "On 1 July 1883 a talented 22-year-old named Ottó Bláthy joined Zipernowsky's team, and soon a third engineer, Miksa Déri, was working with them too. Together they became known as the ZBD team, from the first letters of their surnames: Zipernowsky, Bláthy and Déri. They studied the Gaulard and Gibbs design and set out to improve it, and each brought a different strength.",
+        "Bláthy's big idea was the closed core. Instead of a straight bundle of iron with magnetism leaking out of the ends, the iron should form a complete loop, a ring or a rectangle, so that almost all the magnetism stays trapped inside the iron and passes through both coils. This is exactly the shape of Faraday's old ring of 1831. Zipernowsky's big idea was to connect the transformers side by side, in parallel, instead of in a long series chain. In a parallel system each transformer and each lamp gets the same steady voltage, and switching one on or off does not upset the others. Déri carried out many of the experiments that proved the ideas worked.",
+        "The Ganz factory shipped its first high-efficiency transformer on 16 September 1884. In early 1885 the team improved the iron core even further by making it from thin sheets, called laminations, stacked together, which cut down on wasted heat caused by swirling currents inside solid iron. They filed their patents in 1885. According to later accounts, the ZBD transformers were several times more efficient than the open-core devices of Gaulard and Gibbs. The ZBD engineers are also widely credited with making the word 'transformer' popular for this kind of machine, though the word had been used before.",
+        "Their system was shown off at the Budapest National Exhibition in May 1885, where it lit a large display of lamps from a high-voltage supply. The next year, in 1886, Ganz engineers installed a ZBD system for public lighting in Rome. Very soon Ganz transformers were being sold across Europe. Ottó Bláthy went on to a long career of inventions, including an AC electricity meter in 1889, which solved another problem for AC companies: how to measure what customers used so you could send them a bill.",
+        "The basic design of almost every power transformer in the world today, from the giant ones at power stations to the little ones inside old phone chargers, still follows the plan of the three friends from Budapest: a closed iron core, laminated to reduce losses, with coils connected in parallel."
+      ]
+    },
+    {
+      "heading": "Lights Along Main Street",
+      "paragraphs": [
+        "Across the Atlantic, one businessman was paying close attention. George Westinghouse, born in New York State in 1846, had already become rich from inventing the railway air brake in 1869, a system that let a driver stop a whole train at once using compressed air. He was bold, full of energy, and not afraid of a fight. In 1884 he had started to get involved in electric lighting, and he hired a gifted young engineer named William Stanley, born in Brooklyn in 1858.",
+        "In 1885 a young associate named Guido Pantaleoni told Westinghouse about the Gaulard and Gibbs transformer he had seen in Europe. Westinghouse imported several of the devices and some Siemens AC generators to study in Pittsburgh. Then he moved fast. He founded the Westinghouse Electric Company in Pittsburgh in 1886, and that February he bought the American rights to the Gaulard and Gibbs patents for 50,000 dollars, a fortune at the time.",
+        "William Stanley's job was to redesign the European transformer so it worked well in America. In December 1885 he moved his work to Great Barrington, a small town in the Berkshire hills of western Massachusetts where his family had a home. There he built improved transformers with soft iron cores, and an AC system to go with them.",
+        "On 20 March 1886 Stanley switched it on. A generator sent alternating current at about 500 volts along wires running roughly 4,000 feet, a little over a kilometre, down the town's Main Street. At the shops and offices, step-down transformers brought the voltage down to about 100 volts, safe enough for indoor lamps. Lights came on in 23 businesses along the street. Imagine being a shopkeeper in a quiet New England town that spring evening, watching a steady electric glow fill your shop window, powered from a generator out of sight down the road. It was the first complete AC lighting system with transformers in the United States.",
+        "Great Barrington was only a small demonstration, but it proved the whole plan: generate, step up, send, step down, use. That summer, Westinghouse tested the system in Pittsburgh with a new alternator designed by Stanley, and by the autumn of 1886 Westinghouse, Stanley and another engineer, Oliver Shallenberger, had installed the first commercial AC lighting system in the country, in Buffalo, New York. Orders poured in. By the end of 1887, Westinghouse had 68 AC power stations, while Edison's companies had 121 DC stations. The newcomer was catching up fast.",
+        "AC still had problems to solve. There was not yet a good AC motor, so AC was mostly useful for lighting, while DC could easily run factory machines and streetcars. And high voltages really were dangerous if wires were badly installed. But the advantages were huge: one AC power station could now light a whole town from miles away."
+      ]
+    },
+    {
+      "heading": "Two Views of the Future",
+      "paragraphs": [
+        "Thomas Edison watched all this with growing alarm. He had spent years and a great deal of money building his DC system: the dynamos, the underground cables, the meters, the fuses, the sockets, the whole careful design. His meters only worked with DC, and his companies owned the key patents. Many investors had trusted him. Now a rival was offering a completely different kind of electricity.",
+        "Edison also had a genuine worry that should not be dismissed. His DC system used about 110 volts, which can give a nasty shock but rarely kills. Early AC systems sent thousands of volts along wires, often hung on poles above crowded streets, sometimes with poor insulation. In the 1880s there were few safety rules and few standards. Edison believed that high-voltage AC wires would kill people, and he said so, loudly and often. He was not entirely wrong that badly installed high-voltage lines were dangerous. But he was also defending his business, and he greatly underestimated how safely AC could be handled with good transformers, insulation and rules.",
+        "George Westinghouse saw things differently. To him, AC was simply the future. With transformers, a single big power station could serve a whole city, or many towns, from far away, perhaps from a waterfall or a coal mine. Thin wires could replace fat copper cables. Electricity could become cheaper and spread much farther than Edison's system would ever allow. He was ready to bet his company on it.",
+        "Both men were brilliant, stubborn and convinced they were right. Both had armies of engineers, lawyers and investors behind them. One believed AC was dangerous. The other believed it was the future. Between them stood millions of dollars, thousands of jobs, and the question of how the whole world would get its electricity. The stage was set for one of the most famous battles in the history of technology: the War of the Currents."
+      ]
+    }
+  ],
+  "deepDive": "The physics behind the AC victory comes down to two simple relationships. Power delivered is P = V x I (voltage times current), while power lost as heat in a conductor is P_loss = I squared x R. For a fixed amount of power, raising the voltage by a factor of ten cuts the current by ten and the resistive loss by a hundred, using the same wire. Even if engineers then use a thinner, cheaper wire, the losses still fall a great deal. This is why modern transmission lines run at hundreds of thousands of volts; over a 160 km line carrying 1,000 megawatts, losses at 765 kilovolts can be around 1 percent, compared with about 4 percent at 345 kilovolts. Overall, the United States loses roughly 5 percent of its electricity between power station and customer. An ideal transformer obeys Vp/Vs = Np/Ns: the voltage ratio equals the ratio of turns on the primary and secondary coils, and because energy is conserved, the current changes by the opposite ratio. Real transformers lose a little energy in the copper windings and in the iron core. Core losses come partly from eddy currents, small whirlpools of current induced in the iron itself, which is why the ZBD team switched to thin insulated laminations in 1885, and partly from hysteresis, the energy needed to flip the iron's magnetism back and forth every cycle. Large modern transformers can exceed 99 percent efficiency. Historians argue about credit. Faraday's 1831 ring was physically a closed-core transformer, but he used only on-off pulses and never developed the turns-ratio idea. Gaulard and Gibbs demonstrated long-distance AC with an open core and series connection; the Ganz engineers contributed the closed core, lamination and, crucially, parallel connection, which made constant-voltage distribution practical; Stanley and Westinghouse turned these into a commercial American system. Patent battles (Gaulard's patents were overturned after challenges led by Ferranti and others) show how hard it can be to say who invented a technology that many people improved step by step. Frequency choice was also messy: early systems ran anywhere from about 16 to 133 cycles per second before 50 and 60 Hz won out.",
+  "funFact": "A transformer has no moving parts, and the two coils inside it never touch, yet energy jumps from one to the other through the changing magnetism in the iron core, and the hum you can hear from big transformers is that core vibrating twice per cycle, 100 times a second in Europe or 120 in North America.",
+  "check": {
+    "q": "Why does a transformer not work with steady direct current (DC)?",
+    "a": "Because a transformer needs changing magnetism to induce a current, and steady DC makes steady, unchanging magnetism.",
+    "wrong": [
+      "Because DC is too weak to pass through copper wire",
+      "Because DC flows too fast for the iron core to keep up",
+      "Because transformers were only allowed to be sold to AC companies"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Transformer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Transformer"
+    },
+    {
+      "title": "Alternating current",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alternating_current"
+    },
+    {
+      "title": "Electric power transmission",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electric_power_transmission"
+    },
+    {
+      "title": "Utility frequency",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Utility_frequency"
+    },
+    {
+      "title": "Lucien Gaulard",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lucien_Gaulard"
+    },
+    {
+      "title": "Ottó Bláthy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ott%C3%B3_Bl%C3%A1thy"
+    },
+    {
+      "title": "William Stanley Jr.",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Stanley_Jr."
+    },
+    {
+      "title": "War of the currents",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_currents"
+    }
+  ],
+  "pics": [
+    {
+      "want": "An early ZBD closed-core transformer made by the Ganz Works in Budapest, 1885, as a museum object",
+      "search": "ZBD transformer Ganz 1885"
+    },
+    {
+      "want": "Portrait photograph of the American engineer William Stanley Jr., who lit Great Barrington with AC in 1886",
+      "search": "William Stanley Jr engineer portrait"
+    },
+    {
+      "want": "Diagram of an ideal transformer showing primary and secondary coils wound on a closed iron core",
+      "search": "transformer diagram primary secondary coil core"
+    }
+  ]
+}

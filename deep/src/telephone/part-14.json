@@ -1,0 +1,148 @@
+{
+  "n": 14,
+  "title": "Voices Under the Ocean and Light in a Glass Thread",
+  "when": "1947 – today",
+  "summary": "In 1956 a long cable laid on the bottom of the Atlantic Ocean finally let people talk clearly between Europe and America. Soon after, a shiny ball-shaped satellite called Telstar bounced calls and TV pictures through space. Today, most calls and internet messages between continents race along as flashes of light inside glass threads thinner than a hair, lying on the sea floor.",
+  "sections": [
+    {
+      "heading": "A Christmas Present from Bell Labs",
+      "paragraphs": [
+        "By the 1940s the telephone network ran on two kinds of machinery: clattering electromechanical switches that connected calls, and glowing vacuum tubes that amplified voices along the way. Vacuum tubes had made the coast-to-coast call possible, but they had serious weaknesses. They were made of glass, so they could break. They needed a hot glowing filament, so they used a lot of power and gave off heat. And like light bulbs, they eventually burned out. In a network with many thousands of tubes, something was always failing somewhere.",
+        "At Bell Telephone Laboratories, the Bell System's huge research centre in Murray Hill, New Jersey, a team of scientists was hunting for a replacement. They were studying semiconductors, materials such as germanium and silicon that conduct electricity better than an insulator like rubber but not as well as a metal like copper. The group was organized by William Shockley. Two of its members, the theoretical physicist John Bardeen and the experimental physicist Walter Brattain, made the breakthrough.",
+        "On December 16, 1947, Bardeen and Brattain pressed two tiny gold contacts, extremely close together, onto a small slab of germanium. When they changed the voltage on one contact, it controlled a larger current flowing through the other. The little device amplified a signal, much as a vacuum tube did, but with no glass bulb, no glowing filament and no vacuum. On December 23 they showed it to their bosses, and Shockley later called it a magnificent Christmas present. Another Bell Labs engineer, John Pierce, came up with the name transistor. Bell Labs announced the invention to the world on June 30, 1948, and in 1956 Bardeen, Brattain and Shockley shared the Nobel Prize in Physics for it.",
+        "The first transistors were fiddly and expensive, but they improved quickly. Over the following decades they became smaller, cheaper, more reliable and far less power-hungry than tubes. Transistors would eventually replace tubes in telephone amplifiers, switching equipment, radios, satellites and computers, and billions of them now sit inside every mobile phone. But in the early 1950s, transistors were still brand new, and engineers did not yet trust them for the toughest job in telephone engineering: sitting at the bottom of the ocean for twenty years with nobody able to fix them."
+      ]
+    },
+    {
+      "heading": "Why a Voice Cable Under the Sea Was So Hard",
+      "paragraphs": [
+        "In the previous part we left engineers dreaming of a telephone cable along the floor of the Atlantic, like the old telegraph cables laid by the Great Eastern back in 1866. Those telegraph cables could carry only a slow trickle of clicks. Over thousands of kilometres, a voice signal would fade to nothing long before it reached the far shore. On land, the answer was to put amplifiers, or repeaters, in little buildings along the route. Under the ocean there are no buildings.",
+        "So the repeaters had to go into the cable itself, lying on the sea floor. Think about what that meant. In the deep Atlantic, the water is around 4 kilometres (2.5 miles) deep, almost completely dark, near freezing, and the pressure is hundreds of times greater than at the surface. Each repeater had to be sealed in a strong, watertight case that could survive being dropped over the side of a ship and sinking all the way down. It had to work non-stop for many years, because hauling a cable up from that depth to replace a part is slow, difficult and very expensive. And it needed electricity, but there are no power sockets on the sea floor, so power had to be sent from the shore along the same cable that carried the voices.",
+        "Engineers solved these problems with a design called a coaxial cable: a central copper conductor surrounded by a layer of insulation, then an outer conductor, all wrapped in protective layers. The insulation was no longer the gutta-percha tree sap of Victorian cables but a new plastic, polyethylene, which insulated better and did not rot. Short undersea telephone cables with repeaters had already been laid in calmer, shallower waters, such as between Florida and Cuba in 1950. The Atlantic was the great test.",
+        "Because transistors were too new to trust, Bell Labs engineers designed the Atlantic repeaters around specially made vacuum tubes. These were not ordinary tubes. They were built and tested with extraordinary care, using carefully chosen materials, so that they would last for decades without failing. The engineers chose tubes they had years of experience with over a newer device that might be better but had not yet proved itself, a careful choice that paid off."
+      ]
+    },
+    {
+      "heading": "TAT-1: The First Telephone Cable Across the Atlantic",
+      "paragraphs": [
+        "The project was called TAT-1, short for Transatlantic Telephone Cable No. 1. It was a partnership between AT&T, the British Post Office and the Canadian Overseas Telecommunication Corporation. The main cable ran from Gallanach Bay near Oban, on the west coast of Scotland, to Clarenville, in Newfoundland, Canada. From there, connections continued across the Cabot Strait to Nova Scotia and onward to the United States.",
+        "There was a clever trick in the design: TAT-1 was really two cables, laid side by side but some distance apart, one for each direction of conversation. That kept the electronics in the repeaters simpler, because each repeater only had to amplify signals flowing one way. Most of the laying was done in the summers of 1955 and 1956 by the British cable ship HMTS Monarch, which carried coils of cable in huge tanks in its hull and paid it out over the stern as it steamed slowly across the ocean.",
+        "The deep-sea section crossed more than 3,000 kilometres of ocean floor, and each cable is usually said to have contained about 51 repeaters, spaced roughly 70 kilometres apart. The repeaters were long, flexible units designed to bend around the cable-laying machinery on the ship, rather than bulky boxes. Each one quietly boosted the voices passing through, again and again, all the way across the ocean.",
+        "TAT-1 officially opened on September 25, 1956. It carried 36 telephone channels at first, meaning about 36 conversations could take place at once, compared with only a handful of crackly radio-telephone channels before. In its first 24 hours, it carried 588 calls between London and the United States and another 119 between London and Canada. People were thrilled by how clear the calls sounded; it was like talking to someone in the next town rather than through a storm.",
+        "Engineers kept squeezing more out of the cable. By narrowing the slice of sound frequencies given to each call slightly, they raised it to 48 channels. Then, in 1960, they added a clever system called TASI (time-assignment speech interpolation). It took advantage of the fact that in a normal conversation each person is silent much of the time, listening, pausing, or breathing. TASI handed those silent moments to other callers, so the same cable could carry about 72 conversations at once.",
+        "TAT-1 also played a part in world history. In 1963, after the Cuban Missile Crisis showed how dangerous slow communication between world leaders could be, a direct link was set up between Washington and Moscow, often called the hotline. Despite the movie image of a red telephone, it actually used teleprinters that typed out messages, and one of its routes ran through TAT-1. The cable served for 22 years and was retired in 1978, after newer cables with much more capacity had been laid alongside it. In 2006 it was honoured as an IEEE Milestone, an award for great achievements in engineering history."
+      ]
+    },
+    {
+      "heading": "Telstar: A Telephone Exchange in Space",
+      "paragraphs": [
+        "Just six years after TAT-1, engineers tried a completely different route across the ocean: up. In 1945 the science-fiction writer Arthur C. Clarke had suggested that satellites high above the Earth could relay radio signals between continents. By the early 1960s, rockets had made that idea possible to try.",
+        "Telstar 1 was built by Bell Labs and paid for by AT&T, working with NASA, which launched it and helped run the project. It was the first privately funded satellite. Telstar looked like a faceted ball about 88 centimetres (34.5 inches) across, covered in solar cells that turned sunlight into electricity, and it weighed about 77 kilograms (171 pounds). Inside, it carried a radio receiver, an amplifier and a transmitter, built mostly with transistors, the young invention from Bell Labs we met at the start of this part. It worked like a mirror in the sky: it caught a signal sent up from one ground station, made it stronger, and beamed it back down to another.",
+        "Telstar 1 was launched from Cape Canaveral in Florida on a Thor-Delta rocket early in the morning of July 10, 1962. On the ground, AT&T had built an enormous horn-shaped antenna at Andover, Maine, about seven storeys tall and weighing around 340 tonnes, inside a giant inflated dome to protect it from the weather. In Europe, matching stations stood at Pleumeur-Bodou in France and Goonhilly Downs in Cornwall, England.",
+        "Hours after launch, Telstar relayed its first test pictures, including an image of an American flag outside the Andover station, to France. On July 23, 1962, it carried the first publicly broadcast live television across the Atlantic, watched by millions in Europe and North America. The same day it relayed a telephone call between US Vice President Lyndon Johnson and AT&T's chairman, Frederick Kappel. Telstar also carried test telephone calls, data and photographs.",
+        "The public went wild for it. The idea of voices and pictures bouncing off a machine in space felt like science fiction come true. An instrumental pop song named after the satellite, “Telstar” by the British band the Tornados, shot to number one in Britain and then in the United States, the first record by a British group to top the American charts. Newspapers printed diagrams showing signals zigzagging up to the satellite and down again, and schoolchildren learned the names of the ground stations.",
+        "Telstar had a big limitation. It flew in a low, egg-shaped orbit, circling the Earth every couple of hours, so it was only in view of both sides of the Atlantic at once for short windows, about 18 to 20 minutes at a time. Then it dipped below the horizon and the link was lost. Its electronics were also damaged by radiation in space, made worse by a high-altitude nuclear test the United States had carried out shortly before the launch, and Telstar 1 stopped working in early 1963.",
+        "The solution was to put satellites much higher, about 35,800 kilometres (22,200 miles) above the equator, in what is called a geostationary orbit. At that height a satellite takes exactly one day to go around the Earth, so it seems to hang still in the sky, always in view. In 1965 Intelsat I, nicknamed Early Bird, became the first commercial communications satellite in that orbit, able to carry about 240 telephone conversations across the Atlantic.",
+        "But satellite calls had a curious side effect. A radio signal travels at the speed of light, about 300,000 kilometres per second, which sounds unbeatable. Yet going up 35,800 kilometres and back down again takes about a quarter of a second, and the reply has to make the same journey. That added up to roughly half a second between saying something and hearing the other person begin to answer. People on satellite calls often talked over each other, paused awkwardly, or heard a faint echo of their own voice coming back. Engineers built echo cancellers to tame the echo, but the delay itself could not be removed, because no one can make light go faster. That is one reason telephone companies kept laying cables, which are much closer to the ground and therefore much quicker."
+      ]
+    },
+    {
+      "heading": "Light in a Glass Thread",
+      "paragraphs": [
+        "The next revolution did not use electricity in copper at all. It used light. The idea is called fiber optics, and at its heart is a beautifully simple trick of physics called total internal reflection. If you shine a light down a thin, very clear strand of glass, and the glass in the middle (the core) is surrounded by a slightly different glass (the cladding), the light keeps bouncing off the boundary and stays trapped inside, even when the strand curves. It is a bit like water flowing through a hose: the light follows the fiber wherever it goes.",
+        "To send a phone call through a fiber, the voice is first turned into a digital signal, a stream of numbers made of ones and zeros. Then a tiny laser flashes on and off incredibly fast, with a flash for a one and darkness for a zero, billions of times every second. At the far end, a light detector turns the flashes back into electrical ones and zeros, and the equipment rebuilds the sound of the voice. A fiber can be thinner than a human hair, yet it can carry far more conversations than a thick bundle of copper wires.",
+        "In the early 1960s, there was a serious problem. The best glass of the day was nowhere near clear enough. Light fading inside it lost almost all its strength within a few metres. Most experts thought glass fibers would never be useful for long-distance communication.",
+        "Charles Kuen Kao thought otherwise. Born in Shanghai, China, in 1933, Kao studied electrical engineering in London and worked at Standard Telecommunication Laboratories in Harlow, England. With his colleague George Hockham, he investigated why the light faded. Their answer, published in July 1966, was that the glass itself was not the problem. The problem was impurities, tiny traces of metals like iron mixed into the glass. If glass could be made pure enough, they calculated, light could travel a kilometre and still keep about one percent of its strength, which was good enough for long-distance links. At the time, the best glass was so cloudy that this seemed like a fantasy, but Kao travelled around the world urging glassmakers to try.",
+        "About four years later, in 1970, scientists at the Corning Glass Works company in New York State made fibers clear enough to meet Kao's target. Within a decade, fibers had become so pure that light could travel many kilometres before fading noticeably. Imagine a window made of such glass that was several kilometres thick, and you could still see through it. Around the same time, small semiconductor lasers were developed that could switch on and off fast enough to send signals. In 2009 Kao was awarded half of the Nobel Prize in Physics for his groundbreaking work on the transmission of light in fibers for optical communication. He is often called the father of fiber optics.",
+        "How fast is a call through a fiber? Light slows down a little inside glass, travelling at roughly 200,000 kilometres per second, about two thirds of its speed in empty space. A cable crossing the Atlantic is around 6,000 kilometres long, so a flash of light takes only about three hundredths of a second to cross the whole ocean. That is far quicker than the trip up to a geostationary satellite and back. On a fiber call between London and New York, the delay is too short for most people to notice at all, and conversations feel just as natural as talking to someone across town."
+      ]
+    },
+    {
+      "heading": "TAT-8 and the Hidden Web on the Sea Floor",
+      "paragraphs": [
+        "On December 14, 1988, the first transatlantic fiber-optic cable, TAT-8, went into service. It was built by AT&T, British Telecom and France Télécom, and it cost about $335 million. It linked Tuckerton, New Jersey, in the United States with Widemouth Bay in Cornwall, England, and Penmarch in Brittany, France, splitting on the sea floor using a branching unit, a kind of underwater junction. TAT-8 could carry about 40,000 telephone conversations at once. Compare that with TAT-1's 36 channels just over thirty years earlier: more than a thousand times as many calls on a single cable.",
+        "TAT-8 still needed repeaters, but now they were electronic boxes that turned the weak light back into electrical signals, cleaned them up, and sent them on as fresh laser flashes. In the 1990s, a clever invention removed even that step. Optical amplifiers, made from a short length of special fiber containing a rare element called erbium, could strengthen the light directly, without turning it into electricity first. Engineers also learned to send many different colours of laser light down the same fiber at once, each colour carrying its own stream of information. Capacity exploded. TAT-8 was retired in 2002, already completely outclassed by newer cables.",
+        "Today the ocean floors are crisscrossed by hundreds of undersea fiber-optic cables, together more than a million kilometres long. They carry almost all the voice calls, video calls, emails, videos and web pages that travel between continents, roughly 99 percent of intercontinental data. Satellites still matter for ships, planes and remote places, but they carry only a tiny fraction of the traffic. Every time someone in Europe video-chats with a cousin in America, their voices are very likely racing as flashes of light through glass on the bottom of the Atlantic.",
+        "A modern deep-sea cable is surprisingly thin, often about the thickness of a garden hose, roughly 2 to 2.5 centimetres. Most of that is protection. At the centre are the fibers themselves, surrounded by a tube, a copper layer that carries the electric power for the amplifiers, and a tough plastic jacket. Near the coast, where the danger is greater, cables get extra layers of steel armour wires and are often buried in the seabed by an underwater plough towed behind the cable ship."
+      ]
+    },
+    {
+      "heading": "Anchors, Earthquakes and the Occasional Shark",
+      "paragraphs": [
+        "Undersea cables lie in one of the most remote places on Earth, but they are not safe from harm. Around the world, cables suffer well over a hundred faults every year. Most of the damage is caused by people, not nature. According to the International Cable Protection Committee, an organisation of cable owners and operators, ship anchors being dragged along the seabed and fishing gear such as heavy trawl nets cause about 65 to 75 percent of all cable faults. That is why most damage happens in fairly shallow water near coasts, where ships anchor and fishing boats work.",
+        "Nature causes some breaks too. Undersea earthquakes and landslides can trigger fast-moving underwater avalanches of mud and sand. A famous example came in 1929, when an earthquake off the Grand Banks of Newfoundland set off one of these avalanches, and telegraph cables on the sea floor snapped one after another as it rushed downhill. Scientists later used the timing of the breaks to work out how fast the avalanche had travelled, turning a disaster into a discovery about the ocean floor.",
+        "And sharks? It is true that sharks and other fish have occasionally bitten cables. In the 1980s, an early experimental fiber-optic cable was damaged several times by bites, which some experts think came from deep-sea sharks attracted by the cable's weak electric field. Cable makers responded by adding tougher protective layers. In recent years, cable experts say fish bites have caused almost no faults at all. Sharks make a great story, but they are a tiny danger compared with anchors and fishing nets.",
+        "When a cable does break, a special repair ship sets out. Engineers on shore first send test signals down the cable and time how long it takes for them to bounce back from the break, which tells them roughly where the damage is. The ship sails to the spot and lowers a grappling hook called a grapnel to snag the cable on the seabed, sometimes kilometres below. It hauls one end up to the deck, where technicians in a clean workroom carefully splice the hair-thin fibers back together by melting their ends and joining them, then do the same with the other end, adding a new piece of cable if needed. Finally the repaired cable is lowered back into the sea. A repair can take days or weeks, especially in deep water or stormy weather.",
+        "Because cables are so important, networks are designed with backups. Traffic can usually be rerouted through other cables when one breaks, so most people never notice a fault on the other side of the world. Still, places served by only one or two cables, such as some small island nations, can lose much of their connection to the outside world until a repair ship arrives.",
+        "From TAT-1's 36 conversations in 1956 to today's fibers carrying vast amounts of data, the ocean floor has become the hidden backbone of how humanity talks. Yet all this amazing engineering exists for a very human reason: so that ordinary people can reach each other. In the next part, we zoom back up from the dark sea floor to living rooms, offices, farms and fire stations, to see how all these connections changed everyday life."
+      ]
+    }
+  ],
+  "deepDive": "Kao and Hockham's 1966 argument turned on a number: attenuation, measured in decibels per kilometre (dB/km). A loss of 10 dB means only one tenth of the light power survives; 20 dB means one hundredth. The best optical glass in the mid-1960s lost something like 1,000 dB/km, so after a single kilometre essentially nothing was left. Kao and Hockham argued that intrinsic losses in silica glass were far lower, and that the excess came from impurities, especially transition-metal ions such as iron and copper, and from water. If loss could be brought below about 20 dB/km, a fiber link with repeaters every few kilometres would be practical. Corning's Robert Maurer, Donald Keck and Peter Schultz beat that target in 1970, and by the late 1970s fibers reached about 0.2 dB/km at a wavelength near 1,550 nanometres, close to the physical limit set by Rayleigh scattering (light bouncing off tiny density variations frozen into the glass). Today's submarine systems rely on several further ideas. Erbium-doped fiber amplifiers, introduced into transoceanic cables in the 1990s, amplify a broad band of wavelengths around 1,550 nm at once. Wavelength-division multiplexing puts many independent channels, each on its own wavelength, into one fiber. Modern 'coherent' transmission encodes data in the phase as well as the brightness of light, and spatial-division cables carry many fiber pairs. Some recent transatlantic cables are rated at hundreds of terabits per second. By contrast, TAT-1's analog coaxial system carried 36 voice channels of roughly 4 kHz each. Satellites remain essential for coverage, but geostationary physics imposes a round-trip delay of roughly half a second for a two-way exchange, which is why low-orbit satellite constellations have attracted interest. Historians also note the strategic side of cables: from the Victorian telegraph to today, governments have regarded them as critical infrastructure, and cable protection, routing diversity and repair capacity are active policy issues.",
+  "funFact": "The first transatlantic telephone cable, TAT-1, was laid as two separate cables, one for each direction of conversation.",
+  "check": {
+    "q": "What did Charles Kao show in 1966 was the main reason light faded quickly inside glass fibers?",
+    "a": "Impurities in the glass, not the glass itself",
+    "wrong": [
+      "Sharks biting the cables",
+      "The fibers were too thin to carry light",
+      "Light cannot travel around bends"
+    ]
+  },
+  "sources": [
+    {
+      "title": "1947 - Invention of the Point-Contact Transistor",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/siliconengine/invention-of-the-point-contact-transistor/"
+    },
+    {
+      "title": "Telstar Opened Era of Global Satellite Television",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/history/telstar-opened-era-of-global-satellite-television"
+    },
+    {
+      "title": "Optical Fiber Pioneer Shares Physics Nobel",
+      "publisher": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/amp/optical-fiber-pioneer-shares-physics-nobel-2650252235"
+    },
+    {
+      "title": "TAT-1",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/TAT-1"
+    },
+    {
+      "title": "TAT-8",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/TAT-8"
+    },
+    {
+      "title": "Telstar 1",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Telstar_1"
+    },
+    {
+      "title": "Don't blame sharks for Asian Internet problems, experts say",
+      "publisher": "Computerworld",
+      "url": "https://www.computerworld.com/article/1618278/dont-blame-sharks-for-asian-internet-problems.html"
+    },
+    {
+      "title": "Submarine communications cable",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Submarine_communications_cable"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The Telstar 1 communications satellite, a faceted sphere covered in solar cells (museum backup unit or 1962 photo)",
+      "search": "Telstar 1 satellite 1962"
+    },
+    {
+      "want": "The giant horn antenna and radome at the Andover Earth Station in Maine used to communicate with Telstar",
+      "search": "Andover Earth Station horn antenna radome"
+    },
+    {
+      "want": "A cross-section of a modern submarine fiber-optic communications cable showing its protective layers",
+      "search": "submarine communications cable cross section"
+    }
+  ]
+}

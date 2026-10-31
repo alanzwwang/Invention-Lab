@@ -1,0 +1,151 @@
+{
+  "n": 19,
+  "title": "Trouble in Sight",
+  "when": "1600s – today",
+  "summary": "Telescopes are amazing, but they have caused plenty of arguments. City lights hide the stars, new satellites draw streaks across the sky, and some telescopes were built on mountains that people hold sacred. Some telescopes broke, some cost far too much, and some brilliant people were left out when the prizes were handed out.",
+  "sections": [
+    {
+      "heading": "The Oldest Telescope Argument",
+      "paragraphs": [
+        "From the very first day, the telescope has been a troublemaker. Not because a tube with two lenses is dangerous, but because of what it shows, who gets to use it, where it is built and who gets the praise afterwards. Every time telescopes grew more powerful, new kinds of arguments grew with them.",
+        "The oldest of these arguments is the one you already met in Part 5. In 1633, Galileo Galilei stood before Church officials in Rome because his telescope observations, and his book defending a Sun-centered universe, clashed with the teaching of the time. He was made to take back his views and spent his last years under house arrest near Florence. We will not retell that story here. What matters for this chapter is the lesson it started: a telescope does not just collect light. It collects trouble too, because the things it reveals can upset what powerful people believe, want or own.",
+        "Four hundred years later, the arguments look very different. Nobody is put on trial for saying the Earth goes around the Sun. Instead, astronomers worry about city glow, swarms of shiny satellites, sacred mountains, runaway budgets, broken giants and discoverers who never got fair credit.",
+        "None of this means telescopes are bad. It means they are part of the real world, and a good scientist looks at the trouble honestly. So let's take a tour of the problems, starting with the one you can probably see from your own window tonight."
+      ]
+    },
+    {
+      "heading": "Where Did the Milky Way Go?",
+      "paragraphs": [
+        "Step outside on a clear night in a big city and count the stars. You might find twenty, or fifty if you are lucky. Your great-great-great-grandparents, standing in the same spot two hundred years ago, would have seen thousands of stars and a pale river of light stretching from one side of the sky to the other: the Milky Way, the glow of hundreds of billions of distant suns in our own galaxy. Many children today have only seen it in photos.",
+        "The thief is light pollution. That means artificial light that spills where it is not needed: upward from streetlights, sideways from car parks and stadiums, out of billboards and office windows that stay lit all night. Some of that light bounces off dust and water droplets in the air and turns the whole sky into a dim gray or orange dome. Astronomers call this skyglow. It is like trying to spot a firefly while someone shines a flashlight in your face.",
+        "In 2016, a team of scientists led by the Italian researcher Fabio Falchi published a new world atlas of night-sky brightness. They combined satellite measurements of light coming up from the ground with thousands of measurements taken by people on the ground. The results were startling. More than 80 percent of the world's people live under skies brightened by artificial light. About one-third of all humans, including roughly 80 percent of North Americans and about 60 percent of Europeans, can no longer see the Milky Way from where they live. The atlas found that Singapore was the most light-polluted country of all; there, the sky never gets truly dark.",
+        "Astronomers measure how dark a place is with tools such as the Bortle scale, a nine-step rating invented by the American amateur astronomer John Bortle. Class 1 is a pristine sky crowded with stars; class 9 is an inner-city sky showing only the Moon, planets and the brightest stars. To see the Milky Way clearly, you generally need a sky of about class 4 or darker; by class 7 it has almost or completely vanished.",
+        "And the problem is growing. Studies based on satellite images found that the world's artificial light increased by at least 49 percent between 1992 and 2017. A citizen-science project called Globe at Night, in which ordinary people around the world report how many stars they can see, suggested that the sky seen by human eyes may be brightening by around 10 percent a year.",
+        "Light pollution is not only a problem for astronomers. Many animals depend on darkness. Baby sea turtles hatch on beaches at night and crawl toward the brightest horizon, which should be the moonlit sea. Bright beachfront lights can lead them inland instead, toward roads and danger. Migrating birds, many of which fly at night, can become confused by brightly lit towers and buildings, circling them until they are exhausted or crash into glass. Moths and other insects swarm around lamps instead of feeding and pollinating flowers, and scientists think artificial light is one of several reasons insect numbers have fallen in many places. Even people are affected: bright light late at night can upset the body's sleep signals.",
+        "The good news is that light pollution is one of the easiest kinds of pollution to fix. Light does not linger like smoke or plastic. Switch it off, and the sky clears instantly. Lamps can be shielded so they shine down onto the street instead of up into space. Warmer, more orange bulbs scatter less in the air than harsh blue-white ones. Timers and motion sensors can turn lights off when nobody needs them. In 2001, Flagstaff, Arizona, home of Lowell Observatory, became the world's first International Dark Sky City, and today hundreds of parks, towns and reserves around the world have been recognized for protecting their night skies. France cut its light pollution by about a third in less than ten years with new lighting rules. The stars are not gone. They are just waiting for us to turn down the glare."
+      ]
+    },
+    {
+      "heading": "Streaks Across the Sky",
+      "paragraphs": [
+        "On 24 May 2019, a SpaceX rocket lifted off from Florida carrying 60 flat-packed satellites for a new internet service called Starlink. A few nights later, people around the world spotted something strange: a line of bright dots gliding across the sky one after another, like a string of pearls or a train of glowing carriages. It was beautiful, and alarming.",
+        "The reason is simple geometry. Shortly after sunset and before sunrise, the ground where you stand is already dark, but satellites a few hundred kilometres up are still lit by the Sun. They reflect it down and shine like moving stars. A few satellites would not matter much. But companies were now planning thousands, then tens of thousands. By late 2026, Starlink alone had roughly 11,000 satellites in orbit, and other companies in the United States, Europe and China are launching their own swarms, often called megaconstellations.",
+        "To a big observatory camera, a passing satellite is a vandal with a marker pen. A telescope often stares at the same patch of sky for many minutes, collecting the faint light of distant galaxies. If a satellite crosses the field of view during that time, it leaves a bright streak right across the picture. In November 2019, just a week after a new batch of Starlinks was launched, a camera on the 4-meter Blanco Telescope in Chile recorded an image crossed by 19 bright lines from a single satellite train. Astronomers shared it around the world as a warning of what might come.",
+        "Survey telescopes, which photograph huge areas of sky night after night, are hit hardest. The Vera C. Rubin Observatory, which you met in Part 17, has an enormous field of view, so almost every image taken in twilight may catch at least one satellite. Software can find and hide streaks, but every hidden stripe is lost data.",
+        "Astronomers and satellite companies have tried to work together. SpaceX tested a satellite with a dark coating, nicknamed DarkSat, which was about half as bright as a normal one, but it was still too bright and got too hot. Next came VisorSat, with a sunshade that folded out to block sunlight from hitting the shiniest parts. Later satellites used special mirror-like surfaces that bounce sunlight away from Earth rather than toward it, and studies found some of these newer models were only about one-fifth as bright as the very first design. That helps, but they can still be seen, and the sheer number keeps rising. In 2022 the International Astronomical Union, the worldwide club of professional astronomers, set up a special center to protect the 'dark and quiet sky', working with companies and governments and building tools that let astronomers predict when satellites will pass.",
+        "Notice that word 'quiet'. Radio telescopes face their own invisible traffic jam. As you learned in Part 15, radio telescopes catch incredibly weak radio waves from space, often billions of times weaker than the signals from a mobile phone. Every phone, Wi-Fi router, car radar, microwave oven, power line and satellite transmitter on Earth leaks radio noise that can drown those signals out. That is why many radio observatories are built in remote places. Around the Green Bank Observatory in West Virginia, the United States set up the National Radio Quiet Zone in 1958, an area of about 13,000 square miles where powerful transmitters are tightly limited, and near the telescope itself even ordinary Wi-Fi and microwave ovens are discouraged.",
+        "But satellites are overhead everywhere, even above the most remote desert. In 2023, astronomers reported that unintended radio leakage from Starlink satellites could be brighter than any natural radio source in that part of the sky. Nobody is breaking the rules on purpose; the satellites' electronics simply hum, the way an old television buzzes. Engineers are now studying how to quiet them down. Satellite internet helps remote schools and villages, so the challenge is to share the sky fairly."
+      ]
+    },
+    {
+      "heading": "A Mountain That Is More Than a Mountain",
+      "paragraphs": [
+        "Maunakea, on the Big Island of Hawaii, is one of the best places on Earth to look at the stars. Its summit rises about 4,200 meters above the Pacific Ocean, above most of the clouds and much of the water vapor in the air. The ocean around it keeps the air smooth and steady, and the island is far from big cities. Since the 1960s, about a dozen telescopes have been built near its top, including the giant Keck telescopes from Part 17.",
+        "But Maunakea is not just a telescope site. For many Native Hawaiians, it is the most sacred mountain in the islands. In traditional Hawaiian belief, the summit is a place of the gods, linked to Wākea, the sky father, and it is the home of ancestors and burial sites. Some describe it as the piko, the navel or connecting point, of the islands. Imagine how you might feel if someone built a large factory on top of a cathedral, a temple or a family grave, even if the factory did important work. That feeling helps explain why the telescopes have become a painful issue.",
+        "For decades, many Native Hawaiians felt ignored as more domes appeared. Their concerns were also tied to a much longer history. The Hawaiian Kingdom was overthrown in 1893 with the help of American businessmen and troops, and many Hawaiians feel that land and culture were taken from them without fair consent. A telescope on the sacred summit became, for some, a symbol of that history.",
+        "The biggest clash came over the Thirty Meter Telescope, or TMT, an enormous telescope planned by universities and partners from the United States, Canada, Japan, India and, at first, China. Its mirror would be built from 492 hexagon-shaped pieces. On 7 October 2014, protesters gathered on the mountain and interrupted the groundbreaking ceremony. In the spring of 2015, people blocked the road to stop construction crews, and police arrested dozens of protesters. In December 2015, the Hawaii Supreme Court cancelled the telescope's building permit because the proper legal steps had not been followed. A new permit was approved, and the court upheld it in October 2018.",
+        "Then, in July 2019, when construction was about to restart, thousands of people gathered at the base of the access road. Native Hawaiian elders, called kūpuna, sat in the road to block it. On 17 July 2019, police arrested 33 of them, many in their seventies and eighties, some carried away in wheelchairs. Pictures of elders being arrested for peacefully defending their sacred mountain spread across the world. The protest camp grew into a gathering place for Hawaiian language, dance and teaching, and it stayed for months. In December 2019, with no construction starting, the state reopened the road and police withdrew.",
+        "Since then, things have slowly changed. In 2023, a new state authority began a five-year process to take over the management of Maunakea, with Native Hawaiian members on its board and the idea that culture, nature and science should share control of the mountain. In 2024, the TMT's project manager publicly apologized for having 'contributed to division in the community'. Some older telescopes on the summit are being taken down and their sites restored. And in 2025, the United States National Science Foundation chose to support a different giant telescope in Chile instead of the TMT, leaving its future very uncertain.",
+        "It is important to know that people do not all agree. Some Native Hawaiians support astronomy on Maunakea and point out that their own ancestors were among the greatest sky-watchers in history, navigating thousands of kilometers of ocean by the stars. Others oppose any new building on the summit. The lesson is not that science and culture must be enemies. It is that discovering the universe does not give anyone the right to ignore the people who live on the land below it."
+      ]
+    },
+    {
+      "heading": "Expensive Oops and Sad Goodbyes",
+      "paragraphs": [
+        "Big telescopes are some of the most complicated machines humans have ever built, and complicated machines can go wrong in spectacular ways.",
+        "The most famous mistake belongs to the Hubble Space Telescope. You read in Part 16 how its main mirror was polished beautifully but to slightly the wrong shape, so its first pictures came back blurry in 1990. The trouble that followed was not only scientific. An investigation called the Allen Commission found that a testing device had been put together with one lens about 1.3 millimeters out of place, and it blamed weak checking by the mirror's maker and by NASA, which had relied on a single test. Politicians asked whether NASA could be trusted with taxpayers' money. Comedians made jokes about it. Then came the happy ending: the 1993 repair mission fixed the eyesight, and Hubble became one of the most loved scientific instruments of all time. A spare mirror made by the Kodak company, which was never used, now sits in the Smithsonian's National Air and Space Museum.",
+        "The James Webb Space Telescope, from Part 18, had a different kind of trouble: its price kept growing. In the 1990s, early ideas for the telescope talked about a cost of around 500 million dollars. By 1999 the planners hoped to launch in 2007 for about 1 billion dollars. But a giant folding gold mirror that works at minus 230 degrees Celsius proved much harder to build than expected. The launch date slipped again and again, and the cost climbed. In 2010 the science magazine Nature called it 'the telescope that ate astronomy', because its huge budget was swallowing money that might have gone to other projects.",
+        "In July 2011, a committee of the United States House of Representatives proposed cancelling the telescope altogether, calling it billions of dollars over budget and badly managed. Astronomers, engineers and supporters in Congress fought back, and in November 2011 Congress saved the project, but put a limit on how much more it could cost. More problems followed, including a sunshield that tore during a practice unfolding in 2018. In the end, Webb launched on Christmas Day 2021 for a total of almost 10 billion dollars, about twenty times the earliest guesses. It works brilliantly, but scientists still debate how to keep future giant projects from growing out of control.",
+        "And sometimes, a great telescope simply dies. The Arecibo Telescope in Puerto Rico was built in a natural sinkhole in the hills and opened in 1963. Its dish was 305 meters across, and for more than fifty years it was the largest single-dish radio telescope in the world. It was first planned to study the upper atmosphere as part of a defense research program, but it became a scientific giant. Its radar showed in 1965 that Mercury spins once every 59 days, not 88 as people had thought. It found the first pulsar orbiting another star, a discovery that later earned a Nobel Prize, and it helped find the first planets ever confirmed around another star, circling a pulsar, in the early 1990s. In 1974 it beamed a famous coded picture-message toward a star cluster 25,000 light-years away.",
+        "Arecibo's instrument platform, weighing about 900 tons, hung about 140 meters above the dish from thick steel cables strung between three concrete towers. In 2017, Hurricane Maria damaged part of the telescope. Then, on 10 August 2020, one cable slipped out of its socket and tore a 30-meter gash in the dish. On 7 November 2020, a main cable snapped. Engineers decided the structure was too dangerous to repair, and on 19 November the National Science Foundation announced it would be carefully taken down. It never got the chance. On the morning of 1 December 2020, the remaining cables gave way and the giant platform crashed into the dish below. Thankfully, nobody was hurt, because the area had already been cleared. For many people in Puerto Rico, where Arecibo was a great source of pride, it felt like losing a friend. In 2022, the foundation decided not to rebuild a telescope there, but to turn the site into a center for science education."
+      ]
+    },
+    {
+      "heading": "Who Gets the Credit?",
+      "paragraphs": [
+        "In science, the glory often lands on just one or two names, even when others did key work. The best-known modern example is Jocelyn Bell Burnell. In 1967 she was a 24-year-old PhD student at the University of Cambridge, helping to build a radio telescope made of more than a thousand posts and lots of wire spread over a field. Her job included checking the telescope's output, which came out as wiggly ink lines on paper charts, hundreds of meters of it. On 28 November 1967 she confirmed that a strange 'bit of scruff' she had noticed weeks earlier was a signal pulsing with amazing regularity, about once every 1.33 seconds. It was the first pulsar, a spinning, collapsed star. In 1974, the Nobel Prize in Physics went to her supervisor, Antony Hewish, and to Martin Ryle. Bell Burnell was not included.",
+        "Many scientists, including the famous astronomer Fred Hoyle, criticized the decision. Bell Burnell herself responded with remarkable generosity. In 1977 she said it would 'demean Nobel Prizes if they were awarded to research students, except in very exceptional cases, and I do not believe this is one of them.' Later in life she also said that being a student and a woman probably lowered her standing in the eyes of others at the time. She went on to a long, distinguished career, and in 2018 she won a special Breakthrough Prize worth 3 million dollars. She gave every penny away to set up a fund, run by the Institute of Physics, that helps women, students from under-represented ethnic groups and refugees train to become physics researchers.",
+        "Go back a century and you find the Harvard computers from Part 12. Edward Pickering, director of Harvard College Observatory, hired more than eighty women to study and measure tens of thousands of glass photographic plates of the sky. They were usually paid about 25 to 50 cents an hour, around what an unskilled worker earned and much less than a man would have been paid for the same job. That meant Pickering could afford more of them. Williamina Fleming, who began as a maid in Pickering's house, classified about 10,000 stars and became curator of Harvard's photographs. Annie Jump Cannon built the star-sorting system still used today, but it became known as the Harvard system, not the Cannon system. Antonia Maury's work was not always published under her own name.",
+        "Henrietta Swan Leavitt discovered the rule linking how fast a Cepheid star pulses to how bright it really is, the cosmic measuring stick that later let Edwin Hubble prove other galaxies exist. Her famous 1912 result was published in a short Harvard circular signed by Pickering, with a note saying Leavitt had prepared it. She died of cancer in 1921. A few years later, a Swedish mathematician wrote to Harvard hoping to nominate her for a Nobel Prize, not knowing she had already died; the prize cannot be given after death. Cecilia Payne, who in 1925 showed that stars are made mostly of hydrogen and helium, was persuaded by a senior astronomer to call her result 'almost certainly not real' in her thesis. A few years later, that same astronomer reached the same conclusion himself.",
+        "Even earlier, Caroline Herschel, from Part 9, discovered comets and nebulae and was paid a salary by King George III from 1787, making her the first woman known to be paid for scientific work. She was often described as her brother's helper, yet she won the Royal Astronomical Society's Gold Medal in 1828. In 1835, she and the mathematician Mary Somerville became the society's first women honorary members. Telling these stories properly today is not about blaming people from the past. It is about getting the history right, and making sure the next discoverer gets the credit she or he deserves."
+      ]
+    },
+    {
+      "heading": "Telescopes That Keep Secrets",
+      "paragraphs": [
+        "Remember the very first telescope patent in 1608? The Dutch government was interested in Hans Lipperhey's device for one big reason: war. The Dutch were fighting for independence from Spain, and a tube that let a lookout see enemy ships or soldiers before they came close was a precious military secret. The government paid Lipperhey to make more, but the idea leaked out within months, because once people knew two lenses in a tube could do the trick, anyone with spectacle lenses could copy it. Commanders have carried telescopes ever since, from sailing warships to submarine periscopes.",
+        "Today, some of the most powerful telescopes ever built point not out at the universe, but down at the Earth. These are spy satellites. In 1960, the United States recovered the first photographs from a secret satellite program called Corona. The satellite took pictures on film, and capsules full of exposed film dropped back through the atmosphere on parachutes, where aircraft tried to snag them in midair. The program was kept secret for decades; its images were only made public in 1995.",
+        "In December 1976, the United States launched the first KH-11 satellite, which used electronic sensors instead of film and could send pictures back to the ground almost immediately. Few details have ever been officially released, but these satellites are believed to be similar in size and shape to the Hubble Space Telescope, with main mirrors thought to be roughly 2.4 meters across or a little larger. In 2019 a photo believed to be from one of these satellites, showing a damaged rocket launch pad in Iran, was posted publicly by the US president, and experts were amazed at how sharp it was.",
+        "Here is a surprising twist. In 2011 and 2012, the National Reconnaissance Office, the American agency that runs spy satellites, gave NASA two spare telescopes it no longer needed, each with a 2.4-meter mirror, the same size as Hubble's. One of them became the heart of the Nancy Grace Roman Space Telescope, which you will meet in the next part. A telescope first built to keep secrets will instead spend its life sharing discoveries with the whole world.",
+        "That might be the best summary of this whole chapter. Telescopes have been used for war and for wonder, built with care and with carelessness, celebrated and protested. Each problem has taught people something: to test more carefully, manage money better, share credit fairly, protect the dark sky and listen to the people whose land lies beneath the domes. Despite all the trouble, the biggest telescopes in history are being built right now, and the last part of our story looks ahead to them, and back at the long road that brought us here."
+      ]
+    }
+  ],
+  "deepDive": "How much do satellite streaks and skyglow actually hurt astronomy? Astronomers measure brightness on the magnitude scale, where every 5 magnitudes means a factor of 100 in brightness, and bigger numbers mean fainter objects. A truly dark, natural sky glows at about 22 magnitudes per square arcsecond; a suburban sky might be 19 or 20, and a city center 17 or brighter. That sounds like a small difference, but 22 versus 17 is a factor of 100. Since a faint galaxy must be detected against this background, the brighter the sky, the longer you must expose to reach the same depth, and for the faintest targets an observatory near a city would need many times more telescope time to do what a dark site does in one night. That is why professional observatories retreat to remote deserts and mountaintops, and why places like Chile and Hawaii protect their skies with lighting laws. Satellites add a different problem. The first Starlink satellites were easily visible to the naked eye from dark sites, especially soon after launch. After astronomers raised concerns, darkened and shaded designs cut the brightness by roughly 0.8 to 1 magnitude or more, and later models with mirror-like surfaces reached about one-fifth of the original brightness. Astronomers at international workshops have suggested that satellites at around 550 km should ideally be fainter than about magnitude 7, too dim for the naked eye and less likely to saturate camera pixels. The real issue is scale: a small number of streaks can be masked, but tens of thousands of satellites mean a growing share of wide-field twilight images will be crossed, and every masked stripe is lost data. Radio astronomy faces a parallel challenge. Rules agreed through the International Telecommunication Union protect a few narrow frequency bands for radio astronomy, but leakage outside a satellite's intended frequencies, from onboard electronics, is not well covered by older rules. Debates continue over who should pay for mitigation, whether limits should be voluntary or legally required, and how to balance global internet access with humanity's shared view of the sky. Historians note that this is an old pattern in a new form: from Galileo's trial to Maunakea, the telescope's story has always been entangled with power, money and whose values decide how a shared resource is used.",
+  "funFact": "In 2015, astronomers finally solved the mystery of strange radio bursts called perytons at Australia's Parkes radio telescope: they came from staff opening the observatory's microwave oven door before it had finished heating their lunch.",
+  "check": {
+    "q": "What happened to the Arecibo radio telescope on 1 December 2020?",
+    "a": "Its cables failed and its huge instrument platform fell into the dish",
+    "wrong": [
+      "It was shut down to make room for the Thirty Meter Telescope",
+      "It was moved by ship to Chile",
+      "It was destroyed by a volcanic eruption"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Light pollution",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Light_pollution"
+    },
+    {
+      "title": "Starlink (impact on astronomy)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Starlink"
+    },
+    {
+      "title": "Thirty Meter Telescope protests",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thirty_Meter_Telescope_protests"
+    },
+    {
+      "title": "James Webb Space Telescope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope"
+    },
+    {
+      "title": "Arecibo Telescope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Arecibo_Telescope"
+    },
+    {
+      "title": "Jocelyn Bell Burnell",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell"
+    },
+    {
+      "title": "Harvard Computers",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Harvard_Computers"
+    },
+    {
+      "title": "KH-11 KENNEN",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/KH-11_KENNEN"
+    }
+  ],
+  "pics": [
+    {
+      "want": "An astronomical telescope image crossed by bright diagonal streaks from a train of Starlink satellites",
+      "search": "Starlink satellite trails telescope image"
+    },
+    {
+      "want": "The observatory domes on the summit of Maunakea, Hawaii, above the clouds",
+      "search": "Mauna Kea observatories summit"
+    },
+    {
+      "want": "The Arecibo radio telescope dish after the instrument platform collapsed in December 2020",
+      "search": "Arecibo Observatory collapse 2020"
+    }
+  ]
+}

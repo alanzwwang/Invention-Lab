@@ -1,0 +1,507 @@
+{
+  "slug": "vaccines",
+  "title": "Vaccines",
+  "emoji": "💉",
+  "tagline": "How people learned to train the body to beat deadly diseases",
+  "intro": "For thousands of years, a disease called smallpox swept through towns and cities, killing about three in every ten people it infected and scarring many survivors. Nobody knew what caused it, and nobody could stop it. Then people around the world noticed something strange: if you survived smallpox once, you almost never caught it again. That clue started one of the greatest detective stories in history. In these 20 parts you will travel from ancient Egypt to Chinese and African healers, from an English country doctor and a milkmaid to Louis Pasteur's laboratory in Paris. You will find out how your immune system remembers its enemies, watch scientists race to stop polio, and join the worldwide team that wiped smallpox off the planet. Finally you will see how mRNA vaccines were built in record time, and what scientists are working on next. This is a story about history and science, not medical advice.",
+  "outline": [
+    {
+      "n": 1,
+      "title": "The Speckled Monster",
+      "when": "Ancient times – 1700s",
+      "covers": [
+        "What smallpox was: a disease caused by the variola virus, spread from person to person, causing fever and then a rash of fluid-filled bumps (pustules) that left scars",
+        "Two forms: variola major (deadly, about 30% of cases died) and variola minor (much milder)",
+        "Ancient clues: the mummy of Egyptian pharaoh Ramses V (died around 1145 BCE) has marks that may be smallpox scars, but this is not proven",
+        "How smallpox travelled with trade, armies and explorers, including its devastating arrival in the Americas after 1492, where Indigenous peoples had no previous exposure",
+        "Famous victims and survivors (e.g. Queen Elizabeth I survived it in 1562; young George Washington survived it in 1751 in Barbados)",
+        "The key observation people made everywhere: survivors almost never caught smallpox a second time"
+      ],
+      "keyFacts": [
+        "Variola major killed roughly 30% of the people it infected; many survivors were left scarred and some blinded",
+        "By the late 1700s smallpox is estimated to have killed around 400,000 Europeans a year",
+        "The oldest confirmed smallpox virus DNA comes from Viking-age skeletons around 1,400 years old (a 2020 study)",
+        "In the 20th century alone, smallpox is estimated to have killed about 300 million people"
+      ],
+      "hook": "End with the puzzle: if surviving smallpox protects you, could people get a mild case on purpose?"
+    },
+    {
+      "n": 2,
+      "title": "Fighting Fire with Fire: Variolation",
+      "when": "1500s – early 1700s",
+      "covers": [
+        "Define variolation (also called inoculation): deliberately giving a healthy person material from a smallpox sore to cause a usually milder infection that left them immune",
+        "China: powdered smallpox scabs blown into the nose; reliable written descriptions date from the mid-1500s; stories of much earlier origins (around the 900s–1000s) are legends without firm evidence",
+        "India: material scratched into the skin; described by European visitors in the 1700s, though the practice was likely much older",
+        "Africa and the Middle East: inoculation by scratching the skin was widely practised; in the Ottoman Empire it was done by local women healers",
+        "Reports to Europe: doctors Emanuel Timoni and Giacomo Pylarini described Ottoman inoculation to London's Royal Society in 1714–1716",
+        "The risks: variolated people could still die (about 1–2%) and could spread real smallpox to others while sick"
+      ],
+      "keyFacts": [
+        "Variolation killed roughly 1–2 in 100 people, compared with about 30 in 100 for natural variola major",
+        "Variolated people were contagious and needed to be kept apart from others while they recovered",
+        "The word 'variolation' comes from 'variola', the Latin-based name for smallpox"
+      ],
+      "hook": "End as news of this strange practice reaches a determined English noblewoman living in Constantinople."
+    },
+    {
+      "n": 3,
+      "title": "Lady Mary and Onesimus",
+      "when": "1706 – 1722",
+      "covers": [
+        "Lady Mary Wortley Montagu: scarred by smallpox in 1715, watched inoculation in Constantinople and had her son inoculated there in 1718 by surgeon Charles Maitland",
+        "Her daughter's inoculation in London in 1721 during an epidemic, and how Lady Mary promoted the practice in England",
+        "The 'Royal Experiment' of August 1721: six condemned prisoners at Newgate Prison were inoculated and promised freedom; all survived (explain that such tests would be unethical today)",
+        "Caroline, Princess of Wales, then had her own daughters inoculated in 1722, making it fashionable",
+        "Onesimus, an enslaved African man in Boston, told minister Cotton Mather around 1706 how he had been inoculated in Africa as a child",
+        "The Boston epidemic of 1721: Dr Zabdiel Boylston inoculated about 240 people, facing angry crowds (a bomb was thrown into Mather's house)"
+      ],
+      "keyFacts": [
+        "In Boston 1721, about 2% of inoculated people died versus about 14% of those who caught smallpox naturally",
+        "Lady Mary's son was inoculated in March 1718 and her daughter in April 1721",
+        "The Newgate prisoners were inoculated in August 1721 and all six survived"
+      ],
+      "hook": "End by noting that inoculation was spreading, but it was still risky, expensive and controversial."
+    },
+    {
+      "n": 4,
+      "title": "Empresses, Armies and a Dangerous Gamble",
+      "when": "1720s – 1790s",
+      "covers": [
+        "How inoculation spread in Europe and the American colonies through the 1700s, with inoculation houses where people stayed for weeks",
+        "Catherine the Great of Russia was inoculated in 1768 by English doctor Thomas Dimsdale",
+        "George Washington ordered inoculation of the Continental Army in 1777 during the American Revolution",
+        "Benjamin Franklin's son Francis died of smallpox in 1736 at age four, uninoculated; Franklin later regretted it and supported inoculation",
+        "Problems: cost, weeks of illness, the 1–2% death rate, and outbreaks started by inoculated people",
+        "Scientists like Daniel Bernoulli (1760) used early mathematics to argue inoculation saved lives overall"
+      ],
+      "keyFacts": [
+        "Catherine the Great was inoculated in October 1768",
+        "Washington ordered the army inoculated in early 1777",
+        "Inoculation preparation in England sometimes included weeks of special diets and bleeding that did not help"
+      ],
+      "hook": "End in the English countryside, where milkmaids whispered that catching cowpox from cows protected them from smallpox."
+    },
+    {
+      "n": 5,
+      "title": "The Milkmaid's Secret: Edward Jenner",
+      "when": "1774 – 1798",
+      "covers": [
+        "Country folklore: milkmaids who caught cowpox (a mild disease from cows' udders) seemed protected from smallpox",
+        "Benjamin Jesty, a Dorset farmer, deliberately gave cowpox to his wife and two sons in 1774 but did not publish it",
+        "Edward Jenner, a doctor in Berkeley, Gloucestershire, who had himself been variolated as a boy",
+        "14 May 1796: Jenner took material from cowpox sores on the hand of milkmaid Sarah Nelmes (who caught it from a cow named Blossom) and put it into cuts on the arm of 8-year-old James Phipps, his gardener's son",
+        "July 1796: Jenner exposed James to smallpox material and he did not become ill; explain this test would not be allowed today",
+        "1798: Jenner published 'An Inquiry into the Causes and Effects of the Variolae Vaccinae' after testing more people; the word 'vaccine' comes from Latin 'vacca', cow",
+        "Fair credit: Jenner was not the first to notice or try cowpox, but he tested it carefully, published it, and spent years promoting it"
+      ],
+      "keyFacts": [
+        "James Phipps was vaccinated on 14 May 1796",
+        "Jenner's Inquiry was published in 1798",
+        "Benjamin Jesty used cowpox about 22 years before Jenner's experiment",
+        "Vaccination with cowpox was far safer than variolation and did not spread smallpox to others"
+      ],
+      "hook": "End with the big problem: how do you send a living vaccine around the world without refrigerators?"
+    },
+    {
+      "n": 6,
+      "title": "Around the World, Arm to Arm",
+      "when": "1798 – 1900",
+      "covers": [
+        "How vaccination spread fast across Europe and America after 1798; Thomas Jefferson vaccinated his family and wrote to Jenner in 1806 praising him",
+        "Arm-to-arm vaccination: keeping vaccine alive by passing it from one vaccinated person's sore to the next person every week or so",
+        "The Balmis Expedition (1803–1806): Spanish doctor Francisco Javier de Balmis and nurse Isabel Zendal carried vaccine to the Americas and the Philippines using 22 orphan boys vaccinated one after another during the voyage",
+        "Later improvements: growing vaccine on the skin of calves (from the mid-1800s) and preserving it in glycerin",
+        "Fear and opposition: James Gillray's 1802 cartoon showing people sprouting cows; England's compulsory vaccination laws (1853) and the Anti-Vaccination League; the big Leicester march of 1885; the 1898 'conscientious objector' clause",
+        "The mystery of the modern vaccine virus 'vaccinia': it is related to cowpox, but genetic studies suggest it is closer to horsepox, and its exact origin is uncertain"
+      ],
+      "keyFacts": [
+        "The Balmis Expedition left Spain in November 1803",
+        "England made infant smallpox vaccination compulsory in 1853",
+        "The Leicester demonstration of 1885 drew many thousands of protesters (estimates vary widely)"
+      ],
+      "hook": "End by pointing out that nobody yet knew WHY vaccination worked, or what actually caused disease."
+    },
+    {
+      "n": 7,
+      "title": "Invisible Enemies: Germ Theory",
+      "when": "1840s – 1890s",
+      "covers": [
+        "Old ideas about disease, such as 'miasma' (bad air)",
+        "Ignaz Semmelweis showed in 1847 that doctors washing hands in chlorine solution cut deaths of new mothers, but was widely ignored",
+        "Louis Pasteur's experiments in the 1860s showing microbes come from other microbes, not from nowhere (disproving spontaneous generation)",
+        "Robert Koch proved in 1876 that a specific bacterium causes anthrax, and in 1882 identified the bacterium that causes tuberculosis",
+        "Koch's postulates: rules for proving a particular germ causes a particular disease",
+        "Explain the difference between bacteria and viruses (viruses were too small for light microscopes; first described in the 1890s)"
+      ],
+      "keyFacts": [
+        "Koch announced the tuberculosis bacterium on 24 March 1882 (now World Tuberculosis Day)",
+        "Dmitri Ivanovsky (1892) and Martinus Beijerinck (1898) found that tobacco mosaic disease was caused by something smaller than bacteria",
+        "Pasteur and Koch were rivals, partly because of tension between France and Germany"
+      ],
+      "hook": "End with Pasteur asking: if germs cause disease, could a weakened germ protect you the way cowpox did?"
+    },
+    {
+      "n": 8,
+      "title": "Pasteur's Weakened Germs",
+      "when": "1879 – 1888",
+      "covers": [
+        "Chicken cholera (around 1879–1880): old, weakened cultures failed to make chickens sick and then protected them; the popular story that this was discovered by accident after a holiday should be told as 'according to the story'",
+        "Pasteur named such preparations 'vaccines' to honour Jenner (1881)",
+        "The public anthrax trial at Pouilly-le-Fort, May–June 1881: vaccinated sheep survived, unvaccinated ones nearly all died; fair credit to his team (Émile Roux, Charles Chamberland) and rival Jean-Joseph-Henri Toussaint, and note Pasteur kept details of his method private",
+        "Rabies: Pasteur's team weakened the virus by drying infected rabbit spinal cords (they could not see the virus)",
+        "6 July 1885: 9-year-old Joseph Meister, bitten by a rabid dog, was given 13 injections over about 10 days and survived; Pasteur was not a medical doctor, so physicians gave the injections",
+        "The Pasteur Institute opened in Paris in 1888"
+      ],
+      "keyFacts": [
+        "Joseph Meister was bitten on 4 July 1885 and treatment began on 6 July",
+        "Shepherd boy Jean-Baptiste Jupille was the second person treated, in October 1885",
+        "Rabies in humans is almost always fatal once symptoms appear, which is why treatment soon after a bite matters"
+      ],
+      "hook": "End with scientists realising that some bacteria hurt us with poisons (toxins), opening a whole new way to fight them."
+    },
+    {
+      "n": 9,
+      "title": "Antitoxins, Toxoids and a New Wave of Vaccines",
+      "when": "1890 – 1940s",
+      "covers": [
+        "Diphtheria, a bacterial disease that killed many children by blocking their throats",
+        "Emil von Behring and Kitasato Shibasaburō (1890) discovered antitoxins in the blood of immunised animals; Behring won the first Nobel Prize in Medicine (1901); antitoxin is a treatment, not a vaccine",
+        "The 1925 'Great Race of Mercy' dog-sled relay carrying diphtheria antitoxin to Nome, Alaska (Balto and Togo)",
+        "Toxoids: Gaston Ramon (1920s) made toxins harmless with formaldehyde and heat, creating diphtheria and tetanus vaccines",
+        "Other vaccines: typhoid (Almroth Wright, 1896), cholera and plague (Waldemar Haffkine, 1890s, tested in India), BCG for tuberculosis (Calmette and Guérin, first used 1921), yellow fever 17D (Max Theiler, 1937, Nobel Prize 1951)",
+        "Pearl Kendrick and Grace Eldering developed an effective whooping cough (pertussis) vaccine in the 1930s and ran careful controlled trials; later combined into DTP in the 1940s",
+        "Ernest Goodpasture's method (1931) of growing viruses in fertilised chicken eggs, used for influenza vaccines in the 1940s"
+      ],
+      "keyFacts": [
+        "The Nome serum run in January–February 1925 covered about 1,085 km (674 miles) in about five and a half days",
+        "Haffkine tested his cholera vaccine on himself in 1892 before using it in India",
+        "Influenza vaccines were first widely used by the US military in the 1940s"
+      ],
+      "hook": "End with the question all these inventors faced: what exactly is going on inside the body when a vaccine works?"
+    },
+    {
+      "n": 10,
+      "title": "Your Body's Defence Force, Part 1",
+      "when": "1880s – today (science)",
+      "covers": [
+        "Barriers first: skin, mucus, tears, stomach acid",
+        "Innate immunity: fast, general defenders such as phagocytes that swallow germs, inflammation and fever",
+        "Élie Metchnikoff discovered phagocytes in 1882 by poking a rose thorn into transparent starfish larvae and watching cells swarm it",
+        "Paul Ehrlich's ideas about antibodies (side-chain theory); Metchnikoff and Ehrlich shared the 1908 Nobel Prize",
+        "Antigens (the 'name tags' on germs) and antibodies (Y-shaped proteins that lock onto specific antigens like a key in a lock)",
+        "Why innate immunity alone is not always enough against dangerous germs"
+      ],
+      "keyFacts": [
+        "An antibody is a Y-shaped protein; each type fits one particular shape of antigen",
+        "A healthy adult makes roughly 100 billion new white blood cells every day (well-established order of magnitude; use 'roughly')",
+        "Metchnikoff's starfish-larva experiment took place in Messina, Sicily, in 1882"
+      ],
+      "hook": "End by introducing the slower but smarter 'special forces' of the immune system that can remember."
+    },
+    {
+      "n": 11,
+      "title": "Your Body's Defence Force, Part 2: Memory",
+      "when": "1950s – today (science)",
+      "covers": [
+        "Adaptive immunity: B cells (make antibodies) and T cells (helper T cells coordinate; killer T cells destroy infected cells)",
+        "Clonal selection (Frank Macfarlane Burnet, 1957): the matching cell is chosen and copies itself many times",
+        "Memory cells: why the second response is faster and stronger (primary vs secondary response)",
+        "How a vaccine works: it shows the immune system a harmless version or piece of a germ so it builds memory without the person having the disease",
+        "Why some vaccines need more than one dose or later boosters, and why flu vaccines are updated each year (the virus changes)",
+        "Herd (community) immunity: when enough people are immune, a germ struggles to spread, which also protects people who cannot be vaccinated"
+      ],
+      "keyFacts": [
+        "A first immune response to a new germ typically takes one to two weeks to build up",
+        "Measles is so contagious that about 95% of people need to be immune to stop it spreading",
+        "Burnet shared the 1960 Nobel Prize with Peter Medawar for work on immune tolerance"
+      ],
+      "hook": "End by asking: if vaccines just need to show the body a 'wanted poster', how many ways are there to make one?"
+    },
+    {
+      "n": 12,
+      "title": "Inside a Vaccine: Types, Making and Testing",
+      "when": "1900s – today (science)",
+      "covers": [
+        "Vaccine types with real examples: live attenuated (measles, yellow fever), inactivated (Salk polio, many flu shots), toxoid (tetanus), subunit/protein (hepatitis B), conjugate (Hib), viral vector and mRNA (introduced only briefly, explained in part 18)",
+        "What else is in a vaccine and why, in simple terms: adjuvants (help the immune response), stabilisers, and preservatives in some multi-dose vials",
+        "How vaccines are grown: eggs, cell cultures, yeast",
+        "How vaccines are tested: lab and animal studies, then clinical trial Phases 1, 2 and 3 with more people each time, placebo groups and 'blinding'",
+        "Approval by regulators and safety monitoring after approval (Phase 4)",
+        "The cold chain: keeping vaccines at the right temperature from factory to clinic; vaccine vial monitors that change colour if a vial gets too warm"
+      ],
+      "keyFacts": [
+        "Phase 3 trials often include thousands to tens of thousands of volunteers",
+        "Most vaccines must be kept between 2°C and 8°C",
+        "Developing a vaccine traditionally took 10 years or more"
+      ],
+      "hook": "End by travelling back to the 1950s, when summer meant fear of a disease that could paralyse children."
+    },
+    {
+      "n": 13,
+      "title": "The Summer Plague: Polio",
+      "when": "1890s – 1952",
+      "covers": [
+        "What polio is: a virus spread mainly through contaminated hands, water and food that usually causes mild or no illness, but in a small fraction of cases attacks nerves and causes paralysis",
+        "Why epidemics grew in the 1900s (better sanitation meant babies met the virus later, without protection passed from their mothers — explain this is the leading explanation)",
+        "The 1916 New York epidemic; closed swimming pools and summer fear",
+        "Franklin D. Roosevelt became paralysed in 1921 at age 39 (diagnosed as polio; some modern researchers suggest it may have been Guillain-Barré syndrome) and founded what became the March of Dimes (1938)",
+        "The iron lung (Philip Drinker and Louis Shaw, 1928) breathing for paralysed patients",
+        "John Enders, Thomas Weller and Frederick Robbins grew poliovirus in non-nerve tissue cultures in 1949 (Nobel Prize 1954), making a vaccine possible"
+      ],
+      "keyFacts": [
+        "Most polio infections (around 70%) cause no symptoms; fewer than 1% cause paralysis",
+        "The US 1952 epidemic had about 58,000 reported cases",
+        "The 1916 US epidemic caused about 27,000 cases and 6,000 deaths"
+      ],
+      "hook": "End with two scientists, Jonas Salk and Albert Sabin, racing toward a vaccine with very different ideas."
+    },
+    {
+      "n": 14,
+      "title": "Salk, Sabin and the Polio Pioneers",
+      "when": "1952 – today",
+      "covers": [
+        "Jonas Salk's inactivated (killed) polio vaccine; HeLa cells from Henrietta Lacks (taken without her knowledge in 1951) were used to grow poliovirus for testing",
+        "The 1954 field trial led by Thomas Francis Jr., involving about 1.8 million children called 'Polio Pioneers'",
+        "12 April 1955: the vaccine was announced 'safe, effective and potent'; Salk's answer 'Could you patent the sun?' when asked who owned the patent",
+        "The Cutter incident (1955): some batches from one company contained live virus, causing about 40,000 mild cases, about 200 children paralysed and 10 deaths; it led to much stricter safety rules",
+        "Albert Sabin's oral live-weakened vaccine (drops or sugar cube), tested on millions in the Soviet Union with Mikhail Chumakov in 1959, licensed in the US in the early 1960s",
+        "The trade-off: oral vaccine is cheap and easy and stops spread, but very rarely the weakened virus can cause paralysis, which is why many countries now use Salk's injected vaccine"
+      ],
+      "keyFacts": [
+        "The 1955 announcement was made at the University of Michigan, on the 10th anniversary of Roosevelt's death",
+        "US polio cases fell from about 58,000 in 1952 to under 1,000 by 1962",
+        "Wild poliovirus types 2 and 3 were declared eradicated in 2015 and 2019"
+      ],
+      "hook": "End by asking: if polio could be beaten in one country, could a disease be beaten everywhere, forever? Smallpox was the first target."
+    },
+    {
+      "n": 15,
+      "title": "Wiping Smallpox Off the Earth",
+      "when": "1958 – 1980",
+      "covers": [
+        "Soviet scientist Viktor Zhdanov proposed global smallpox eradication to the World Health Organization in 1958; WHO's Intensified Eradication Programme began in 1967 led by D.A. Henderson",
+        "Tools: heat-stable freeze-dried vaccine and Benjamin Rubin's bifurcated (two-pronged) needle, which used less vaccine and was easy to teach",
+        "Surveillance and containment ('ring vaccination'): William Foege's strategy in Nigeria — find each case, then vaccinate everyone around it",
+        "Thousands of local health workers, recognition cards with pictures, rewards for reporting cases",
+        "Rahima Banu, a toddler in Bangladesh, had the last natural case of variola major in 1975; Ali Maow Maalin, a hospital cook in Merca, Somalia, had the last natural case (variola minor) in October 1977 and later worked for polio eradication",
+        "1978: Janet Parker died after a laboratory-linked infection in Birmingham, UK, the last known smallpox death; WHO certified eradication in December 1979 and the World Health Assembly declared it on 8 May 1980",
+        "Remaining virus samples are kept only at two labs (CDC in Atlanta, USA, and VECTOR in Russia); the debate about destroying them"
+      ],
+      "keyFacts": [
+        "In 1967 smallpox was still endemic in 31 countries, with an estimated 10–15 million cases a year",
+        "Smallpox was the first human disease ever eradicated; rinderpest (a cattle disease) was the second disease eradicated, in 2011",
+        "Routine smallpox vaccination stopped around the world after eradication"
+      ],
+      "hook": "End by noting that while smallpox was being chased down, scientists were creating vaccines for many other childhood diseases."
+    },
+    {
+      "n": 16,
+      "title": "The Golden Age of Childhood Vaccines",
+      "when": "1954 – 2000s",
+      "covers": [
+        "Measles: John Enders and Thomas Peebles isolated the virus from 13-year-old David Edmonston in 1954; vaccine licensed in 1963",
+        "Maurice Hilleman developed more than 40 vaccines, including mumps from his daughter Jeryl Lynn's virus sample (1963, licensed 1967) and the combined MMR (1971)",
+        "Rubella vaccine (late 1960s) after a 1964–65 epidemic harmed many unborn babies; chickenpox vaccine by Michiaki Takahashi in Japan (1974)",
+        "Hepatitis B: Baruch Blumberg's discovery of the Australia antigen (1965); the first recombinant (genetically engineered) vaccine, made in yeast, licensed in 1986 — the first vaccine that helps prevent a cancer (liver cancer)",
+        "Conjugate vaccines (Hib, late 1980s) that protect babies from meningitis",
+        "Getting vaccines to everyone: WHO's Expanded Programme on Immunization (1974) and Gavi, the Vaccine Alliance (2000)"
+      ],
+      "keyFacts": [
+        "Before the measles vaccine, measles caused an estimated 2.6 million deaths a year worldwide",
+        "A 2024 WHO-led study estimated vaccines saved at least 154 million lives over the previous 50 years",
+        "When EPI began in 1974, fewer than 5% of the world's infants were fully immunised against the main childhood diseases"
+      ],
+      "hook": "End by noting that as diseases disappeared, people forgot how frightening they were, and new worries about vaccines grew."
+    },
+    {
+      "n": 17,
+      "title": "Side Effects, Myths and Trust",
+      "when": "1970s – today",
+      "covers": [
+        "Common side effects are usually mild (sore arm, fever); rare serious ones exist, which is why monitoring systems (like VAERS in the US, Yellow Card in the UK) track reports",
+        "Real problems that were caught and acted on: the 1976 US swine flu vaccine and a small increased risk of Guillain-Barré syndrome; the RotaShield vaccine withdrawn in 1999 over a rare bowel problem; rare problems with some COVID-19 vaccines (blood clots with some viral-vector vaccines, heart inflammation mostly in young males with mRNA vaccines, usually mild)",
+        "Andrew Wakefield's 1998 paper claiming a link between MMR and autism: found to be dishonest, retracted by The Lancet in 2010, and Wakefield was struck off the UK medical register; huge studies found no link",
+        "How fear led to measles outbreaks returning in places where vaccination dropped",
+        "Why trust matters: past medical abuses (such as the Tuskegee syphilis study, not a vaccine study) and fair reasons people ask questions; how scientists check claims with large studies",
+        "Laws and choices: compulsory vaccination debates from 1853 to today, told fairly without telling readers what to do"
+      ],
+      "keyFacts": [
+        "A 2019 Danish study of about 650,000 children found no link between MMR and autism",
+        "WHO listed 'vaccine hesitancy' as one of ten threats to global health in 2019",
+        "Thimerosal (a mercury-containing preservative) was removed from US routine childhood vaccines by 2001 as a precaution, and autism rates did not fall afterwards"
+      ],
+      "hook": "End in early 2020, when a new coronavirus began to spread and the world needed a vaccine faster than ever before."
+    },
+    {
+      "n": 18,
+      "title": "The mRNA Breakthrough",
+      "when": "1990s – 2021",
+      "covers": [
+        "What mRNA is: a short-lived set of instructions cells use to build proteins; an mRNA vaccine tells cells to make a harmless piece of a germ (like the coronavirus spike protein) for the immune system to learn; the mRNA breaks down within days and does not enter the cell nucleus or change DNA",
+        "Katalin Karikó's decades of struggle for funding; with Drew Weissman she found in 2005 that modified building blocks (pseudouridine) stopped mRNA from causing harmful inflammation; Nobel Prize 2023",
+        "Lipid nanoparticles: tiny fat bubbles that protect mRNA and carry it into cells (work by Pieter Cullis and others)",
+        "Barney Graham and Jason McLellan's work stabilising coronavirus spike proteins in their 'prefusion' shape",
+        "The race: the virus's genetic sequence was shared online on 11 January 2020; Moderna and the US NIH started a first human trial on 16 March 2020; BioNTech (Uğur Şahin and Özlem Türeci) with Pfizer; viral-vector vaccines like Oxford-AstraZeneca (Sarah Gilbert's team) and protein vaccines too",
+        "Big trials (tens of thousands of volunteers), about 95% efficacy against symptomatic illness in the Pfizer-BioNTech trial; UK authorisation on 2 December 2020; Margaret Keenan, 90, got the first authorised dose outside trials on 8 December 2020",
+        "Why it was fast without skipping trial phases: years of earlier research, phases overlapping, huge funding, and making doses before results were in"
+      ],
+      "keyFacts": [
+        "Over 13 billion COVID-19 vaccine doses were given worldwide",
+        "Modelling studies estimate COVID-19 vaccines prevented around 14–20 million deaths in their first year",
+        "Karikó and Weissman's key paper was published in 2005; they won the Nobel Prize in Physiology or Medicine in 2023"
+      ],
+      "hook": "End by asking what else this new toolbox, and the older ones, might beat next."
+    },
+    {
+      "n": 19,
+      "title": "New Frontiers",
+      "when": "2006 – the future",
+      "covers": [
+        "HPV vaccine (first approved 2006), built from virus-like particles developed by Ian Frazer and Jian Zhou, which helps prevent cervical and other cancers",
+        "Ebola: the rVSV-ZEBOV vaccine tested with ring vaccination in Guinea in 2015 and approved in 2019",
+        "Malaria: the first malaria vaccines (RTS,S recommended by WHO in 2021, R21 in 2023) — the first vaccines against a parasite in humans",
+        "RSV vaccines for older adults approved in 2023; work on better tuberculosis vaccines",
+        "Research goals described as research, not promises: universal flu vaccines, cancer vaccines tailored to a patient's tumour, needle-free patches and nasal sprays, vaccines that don't need refrigeration",
+        "Preparing for the next pandemic: CEPI (founded 2017) and the '100 Days Mission' goal; finishing polio eradication"
+      ],
+      "keyFacts": [
+        "Wild polio remains only in Pakistan and Afghanistan (as of the mid-2020s)",
+        "WHO recommended the RTS,S malaria vaccine in October 2021",
+        "Malaria kills around 600,000 people a year, most of them young children in Africa"
+      ],
+      "hook": "End by turning back to look at the whole journey, from scab powder to mRNA."
+    },
+    {
+      "n": 20,
+      "title": "From Scabs to Code: The Whole Story",
+      "when": "Ancient times – today",
+      "covers": [
+        "Recap the chain of ideas: surviving protects you → variolation → Jenner's cowpox → Pasteur's weakened germs → toxoids → understanding immune memory → cell culture → polio vaccines → eradication → genetic engineering → mRNA",
+        "Credit the many people, famous and forgotten: Onesimus, Lady Mary, Benjamin Jesty, Isabel Zendal, Pearl Kendrick and Grace Eldering, Henrietta Lacks, local smallpox workers, trial volunteers",
+        "How vaccines changed daily life: fewer children dying, smallpox gone, polio nearly gone",
+        "Lessons: careful testing, honest science, ethics, sharing vaccines fairly between rich and poor countries, and trust",
+        "Inspire the reader: science is a team effort built over centuries; curious kids today could solve the next challenge",
+        "A reminder that questions about one's own health and vaccines belong with a doctor and trusted adults"
+      ],
+      "keyFacts": [
+        "Smallpox took about 180 years to eradicate after Jenner's 1796 experiment (last natural case 1977)",
+        "Wild polio cases fell by more than 99% from about 350,000 a year in 1988",
+        "A 2024 WHO-led study estimated vaccines saved at least 154 million lives over 50 years"
+      ],
+      "hook": "Finish with a memorable closing image: James Phipps's arm in 1796 connected to billions of arms today."
+    }
+  ],
+  "people": [
+    "Lady Mary Wortley Montagu (1689–1762) — English writer who survived smallpox and promoted inoculation in Britain after seeing it in Constantinople",
+    "Onesimus (late 1600s – after 1716) — enslaved West African man in Boston who described African inoculation to Cotton Mather",
+    "Cotton Mather (1663–1728) — Boston minister who pushed for inoculation during the 1721 epidemic",
+    "Zabdiel Boylston (1679–1766) — Boston doctor who inoculated about 240 people in 1721 and recorded the results",
+    "Charles Maitland (around 1668–1748) — surgeon who inoculated Lady Mary's children and the Newgate prisoners",
+    "Emanuel Timoni (died around 1718) and Giacomo Pylarini (1659–1718) — doctors who reported Ottoman inoculation to the Royal Society",
+    "Caroline of Ansbach (1683–1737) — Princess of Wales who had her daughters inoculated in 1722",
+    "Benjamin Franklin (1706–1790) — American statesman who lost his son to smallpox and later supported inoculation",
+    "Daniel Bernoulli (1700–1782) — Swiss mathematician who calculated the benefits of inoculation in 1760",
+    "Thomas Dimsdale (1712–1800) — English doctor who inoculated Catherine the Great",
+    "Catherine the Great (1729–1796) — Empress of Russia, inoculated in 1768",
+    "George Washington (1732–1799) — smallpox survivor who ordered the Continental Army inoculated in 1777",
+    "Benjamin Jesty (1736–1816) — Dorset farmer who used cowpox on his family in 1774",
+    "Edward Jenner (1749–1823) — English country doctor who tested and published cowpox vaccination (1796–1798)",
+    "James Phipps (1788–1853) — the 8-year-old boy Jenner vaccinated in 1796",
+    "Sarah Nelmes — milkmaid whose cowpox sores supplied Jenner's 1796 vaccine",
+    "Thomas Jefferson (1743–1826) — US president who promoted vaccination",
+    "Francisco Javier de Balmis (1753–1819) — Spanish doctor who led the 1803–1806 vaccine expedition",
+    "Isabel Zendal (around 1773 – after 1811) — nurse who cared for the orphan boys on the Balmis Expedition",
+    "James Gillray (1756–1815) — British cartoonist who mocked vaccination in 1802",
+    "Ignaz Semmelweis (1818–1865) — Hungarian doctor who showed handwashing saved mothers' lives",
+    "Louis Pasteur (1822–1895) — French chemist and microbiologist; anthrax and rabies vaccines",
+    "Émile Roux (1853–1933) and Charles Chamberland (1851–1908) — Pasteur's key collaborators",
+    "Jean-Joseph-Henri Toussaint (1847–1890) — French veterinarian who worked on an anthrax vaccine at the same time as Pasteur",
+    "Joseph Meister (1876–1940) — 9-year-old boy treated for rabies in 1885",
+    "Robert Koch (1843–1910) — German doctor who proved specific bacteria cause anthrax and tuberculosis",
+    "Dmitri Ivanovsky (1864–1920) and Martinus Beijerinck (1851–1931) — scientists whose work led to the discovery of viruses",
+    "Emil von Behring (1854–1917) — German scientist; diphtheria antitoxin; first Nobel Prize in Medicine (1901)",
+    "Kitasato Shibasaburō (1853–1931) — Japanese bacteriologist; co-discovered antitoxins",
+    "Gaston Ramon (1886–1963) — French vet who developed toxoids",
+    "Almroth Wright (1861–1947) — British doctor who developed a typhoid vaccine",
+    "Waldemar Haffkine (1860–1930) — scientist who developed cholera and plague vaccines used in India",
+    "Albert Calmette (1863–1933) and Camille Guérin (1872–1961) — French scientists who created the BCG tuberculosis vaccine",
+    "Pearl Kendrick (1890–1980) and Grace Eldering (1900–1988) — American scientists who developed a whooping cough vaccine",
+    "Ernest Goodpasture (1886–1960) — American scientist who grew viruses in chicken eggs",
+    "Max Theiler (1899–1972) — South African-born scientist; yellow fever vaccine; Nobel Prize 1951",
+    "Élie Metchnikoff (1845–1916) — scientist who discovered phagocytes; Nobel Prize 1908",
+    "Paul Ehrlich (1854–1915) — German scientist who developed early antibody theory; Nobel Prize 1908",
+    "Frank Macfarlane Burnet (1899–1985) — Australian scientist; clonal selection theory",
+    "Franklin D. Roosevelt (1882–1945) — US president paralysed in 1921; founded the March of Dimes",
+    "Philip Drinker (1894–1972) and Louis Agassiz Shaw Jr. (1886–1940) — inventors of the iron lung",
+    "John Enders (1897–1985), Thomas Weller (1915–2008) and Frederick Robbins (1916–2003) — grew poliovirus in tissue culture; Nobel Prize 1954",
+    "Henrietta Lacks (1920–1951) — African American woman whose cells (HeLa), taken without her consent, were used in polio research and much more",
+    "Jonas Salk (1914–1995) — American scientist; inactivated polio vaccine",
+    "Thomas Francis Jr. (1900–1969) — American scientist who led the 1954 polio vaccine trial",
+    "Albert Sabin (1906–1993) — American scientist; oral polio vaccine",
+    "Mikhail Chumakov (1909–1993) — Soviet scientist who led huge trials of Sabin's vaccine",
+    "Viktor Zhdanov (1914–1987) — Soviet scientist who proposed global smallpox eradication",
+    "D.A. Henderson (1928–2016) — American doctor who led WHO's smallpox eradication programme",
+    "William Foege (1936–2026) — American doctor who developed surveillance-and-containment for smallpox",
+    "Benjamin Rubin (1917–2010) — American microbiologist who invented the bifurcated needle",
+    "Rahima Banu (born around 1972) — Bangladeshi girl who had the last natural case of variola major (1975)",
+    "Ali Maow Maalin (1954–2013) — Somali hospital cook who had the last natural smallpox case (1977) and later worked against polio",
+    "Janet Parker (1938–1978) — medical photographer, the last known person to die of smallpox",
+    "Thomas Peebles (1921–2010) — American doctor who helped isolate the measles virus",
+    "Maurice Hilleman (1919–2005) — American scientist who developed more than 40 vaccines including MMR",
+    "Michiaki Takahashi (1928–2013) — Japanese scientist who developed the chickenpox vaccine",
+    "Baruch Blumberg (1925–2011) — American scientist who discovered the hepatitis B surface antigen",
+    "Ian Frazer (born 1953) and Jian Zhou (1957–1999) — scientists whose virus-like particle work led to the HPV vaccine",
+    "Andrew Wakefield (born 1956) — former British doctor whose retracted 1998 paper falsely linked MMR to autism; struck off in 2010",
+    "Katalin Karikó (born 1955) — Hungarian-American biochemist; mRNA pioneer; Nobel Prize 2023",
+    "Drew Weissman (born 1959) — American immunologist; mRNA pioneer; Nobel Prize 2023",
+    "Pieter Cullis (born 1946) — Canadian biochemist; lipid nanoparticle research",
+    "Barney Graham (born 1953) and Jason McLellan — scientists who designed stabilised coronavirus spike proteins",
+    "Uğur Şahin (born 1965) and Özlem Türeci (born 1967) — founders of BioNTech",
+    "Sarah Gilbert (born 1962) — British vaccinologist who led the Oxford COVID-19 vaccine team",
+    "Margaret Keenan (born 1930) — first person to receive an authorised COVID-19 vaccine outside a trial (8 December 2020)"
+  ],
+  "glossary": [
+    "smallpox — a deadly disease caused by the variola virus, now eradicated",
+    "variolation (inoculation) — deliberately infecting someone with material from a smallpox sore to cause a usually milder case and lifelong protection",
+    "cowpox — a mild disease of cows (and the people who catch it) related to smallpox",
+    "vaccine — something that safely teaches the immune system to recognise a germ before a real infection; from Latin 'vacca', cow",
+    "immune system — the body's defence network of cells, tissues and proteins that fights germs",
+    "germ (pathogen) — a microbe, such as a bacterium or virus, that can cause disease",
+    "virus — a tiny particle that can only copy itself inside living cells",
+    "antigen — a molecule (often on a germ's surface) that the immune system recognises, like a name tag",
+    "antibody — a Y-shaped protein made by B cells that locks onto one specific antigen",
+    "B cell / T cell — white blood cells of the adaptive immune system; B cells make antibodies, T cells coordinate defence or destroy infected cells",
+    "memory cell — a long-lived immune cell that remembers a germ so the body can respond faster next time",
+    "attenuated — weakened so it causes little or no illness but still trains the immune system",
+    "inactivated — killed, so it cannot cause infection",
+    "toxoid — a bacterial poison (toxin) made harmless, used as a vaccine",
+    "antitoxin — antibodies against a toxin, given as a treatment (not a vaccine)",
+    "adjuvant — an ingredient that helps the immune system respond more strongly to a vaccine",
+    "herd (community) immunity — when enough people are immune that a disease struggles to spread",
+    "clinical trial — a careful scientific test of a medicine or vaccine in volunteers, in phases",
+    "eradication — removing a disease from the whole world permanently",
+    "mRNA — messenger RNA, a short-lived set of instructions a cell uses to build a protein"
+  ],
+  "doNotSay": [
+    "Never give medical advice or tell readers whether they or anyone should or should not get a vaccine; health questions belong with a doctor and trusted adults",
+    "Do not say Jenner 'invented' the idea or was the first to use cowpox (Benjamin Jesty and others did earlier); say he tested and published it",
+    "Do not say Jenner was the first to protect people against smallpox (variolation came centuries before in Asia and Africa)",
+    "Do not state legends of 10th-century Chinese variolation as proven fact",
+    "Do not say Ramses V definitely had smallpox — say 'may have'",
+    "Do not say the modern smallpox vaccine is simply cowpox; it is vaccinia, whose exact origin is uncertain",
+    "Do not say vaccines cause autism; the 1998 Wakefield paper was fraudulent and retracted, and large studies found no link",
+    "Do not say mRNA vaccines change your DNA or enter the cell nucleus",
+    "Do not say COVID-19 vaccines skipped safety testing or trial phases",
+    "Do not say vaccines are 100% effective or have zero side effects; most side effects are mild and serious ones are rare",
+    "Do not say Pasteur personally gave the rabies injections (he was not a medical doctor) or that he worked alone",
+    "Do not say the Nome serum run carried a vaccine; it carried diphtheria antitoxin, a treatment",
+    "Do not say Salk's vaccine was a live virus or that Sabin's was killed (Salk = inactivated injection, Sabin = live weakened oral)",
+    "Do not say polio is eradicated; wild polio still exists in Pakistan and Afghanistan (smallpox is the only eradicated human disease)",
+    "Do not say Roosevelt definitely had polio without noting some researchers suggest Guillain-Barré syndrome",
+    "Do not say Henrietta Lacks gave consent or donated her cells",
+    "Do not present the chicken-cholera 'holiday accident' story as certain; label it 'according to the story'",
+    "Do not describe Jenner's test on James Phipps or the Newgate experiment as acceptable today; modern ethics would forbid them",
+    "Do not use graphic or frightening images of disease beyond what is needed; keep descriptions age-appropriate"
+  ]
+}

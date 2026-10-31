@@ -1,0 +1,150 @@
+{
+  "n": 12,
+  "title": "How It Works: Radio Waves, Cells and Networks",
+  "when": "1947 – today",
+  "summary": "When you talk on a phone, your voice turns into invisible radio waves that zoom to a nearby tower at the speed of light. Towers are spread out like a honeycomb, and as you move, your call is passed from one tower to the next like a baton in a relay race!",
+  "sections": [
+    {
+      "heading": "Your Voice Becomes a Wave",
+      "paragraphs": [
+        "Imagine calling your grandmother from the back seat of a car on a highway. You say 'Hi, Grandma!' and less than a second later she hears you in her kitchen hundreds of kilometers away. No wire connects your phone to hers. So how does your voice escape from the car?",
+        "It starts with the microphone. Sound is a wave of pressure in the air. When you speak, the air pushes on a tiny flexible part inside the microphone, and the microphone turns those pushes into a changing electrical signal. Modern phones then measure that signal thousands of times every second and turn each measurement into a number. This is the digital idea from Part 3: instead of sending a smooth copy of the wave, the phone sends a long stream of 1s and 0s. Clever software squeezes, or compresses, the numbers so they take up less room, and adds extra checking information so mistakes can be spotted and fixed. The same thing happens to a photo, a text message or a video. Everything becomes data.",
+        "Next, the phone's modem and radio turn those 1s and 0s into radio waves. Radio waves are a kind of electromagnetic wave, the same family as visible light, microwaves and X-rays. They are invisible, and they are the longest waves in that family. They travel at the speed of light: about 300,000 kilometers every second. That is fast enough to circle the Earth about seven and a half times in one second.",
+        "Two words help describe any wave. The frequency is how many waves pass a point each second, measured in hertz. One hertz means one wave per second; a megahertz (MHz) is a million waves a second and a gigahertz (GHz) is a billion. The wavelength is the distance from the top of one wave to the top of the next. Because all radio waves travel at the same speed, higher frequency means shorter wavelength. You can even work it out yourself: divide the speed of light by the frequency. A phone signal at 700 MHz has waves about 43 centimeters long. At 2 GHz the waves are about 15 centimeters long. Some 5G signals at around 28 GHz have waves only about one centimeter long.",
+        "How do you hide information in a wave? Think of a flashlight in the dark. You could send a message by switching it on and off, or by making it brighter and dimmer. Radios do something similar but much more cleverly. They make tiny, rapid changes to the wave's strength, to its exact timing, called its phase, or to its frequency. Each kind of change stands for a few bits. A modern phone can change its signal in so many carefully measured ways that each little piece of the wave carries many bits at once.",
+        "Different frequencies behave differently, and engineers choose them carefully. Lower frequencies, with longer waves, travel farther and slip through walls and around hills more easily, which is good for covering the countryside. Higher frequencies carry more data but fade quickly and are blocked more easily, even by leaves, windows or your own hand. Governments divide up the radio spectrum like land and decide who can use which frequencies, so that phones, TV, aircraft radios, police and satellites do not drown each other out. Mobile network companies often pay billions of dollars at auctions for the right to use a slice of it."
+      ]
+    },
+    {
+      "heading": "The Honeycomb Idea: How Cells Work",
+      "paragraphs": [
+        "Remember the big problem from Parts 1 and 2? Early car phones used one powerful transmitter for a whole city, and there were only a handful of channels, so only a few people could talk at once. The solution was written down on December 11, 1947, in an internal memo by Douglas H. Ring at Bell Labs, with his colleague W. Rae Young. Their idea: instead of one giant transmitter, cover the land with many small areas, each served by its own low-power station. They called these areas cells, which is why we have cellular networks and cell phones.",
+        "On diagrams, engineers draw cells as hexagons fitting together like a honeycomb. Real cells are not neat hexagons, of course. Their edges are bumpy and blurry, shaped by hills, buildings and trees. But the hexagon picture makes the idea easy to see, because hexagons cover a flat surface with no gaps and no overlaps.",
+        "Each cell has a cell tower, also called a base station: antennas, usually on a tall mast, a rooftop or even disguised as a fake tree or church tower, connected to radio equipment. The base station talks to all the phones in its cell. Behind it, cables or microwave links connect it to the rest of the network, which routes your call or data across the country or around the world, often through fiber-optic cables that carry information as flashes of light.",
+        "Here is the clever part, called frequency reuse. Neighboring cells use different sets of frequencies so they do not interfere with each other. But because each base station only whispers rather than shouts, its signal fades before it gets very far. So a cell a few steps away across the honeycomb can use exactly the same frequencies again. Engineers group cells into clusters. In a classic arrangement, a cluster of seven cells shares out the available frequencies, and the pattern repeats over and over across the map. That way the same handful of frequencies can carry thousands of conversations across one city, instead of just a few.",
+        "Even better, when an area gets crowded, engineers can split a busy cell into several smaller cells, each with its own base station. Smaller cells mean more reuse, and more reuse means more people can talk at the same time. That is why a big city has towers every few hundred meters, while a farm region might have one tower covering many kilometers. Cells can be as large as about 30 kilometers across in empty countryside, or tiny: microcells cover a few blocks, picocells serve a building or a stadium, and femtocells are small boxes that cover one home.",
+        "Your phone, meanwhile, is always quietly listening, even when you are not using it. Every few moments it checks which nearby towers it can hear and how strong each signal is. It tells the network roughly where it is, as a member of a group of cells. When someone calls you, the network sends a 'paging' message out through all the towers in that group, a bit like an announcement over a school's loudspeakers: 'Phone number such-and-such, please answer!' Your phone hears its name, replies, and the call is connected."
+      ]
+    },
+    {
+      "heading": "Handoff: Passing the Baton",
+      "paragraphs": [
+        "Back in the car on the highway: you are talking to Grandma, and you are moving at 100 kilometers an hour. Every few minutes, you drive out of one cell and into the next. So why doesn't the call cut off?",
+        "The answer is the handoff, also called handover. While you talk, your phone keeps measuring the signals from the tower it is using and from neighboring towers on a list the network gives it. It reports those measurements back. When the signal from the next tower becomes clearly stronger, the network tells your phone to switch, and your call moves to a new channel on the new tower. It happens in a fraction of a second, and usually you never notice. It is like a relay race, with each tower passing the baton to the next runner without stopping the race.",
+        "Building a system that could keep track of moving phones and switch them between towers was a hard problem in the 1960s and 1970s, when computers were still large and slow. Amos Joel, an engineer at Bell Labs, worked on the switching system that made it possible, and his patent, granted in 1972, is often cited as a key part of the cellular handoff story. Many other engineers at Bell Labs, Motorola and elsewhere also solved pieces of the puzzle.",
+        "There are two main styles of handoff. In a hard handoff, the phone lets go of the old tower and grabs the new one, an approach engineers call 'break before make'. It is simple, but if something goes wrong at that instant, the call can drop. In a soft handoff, used by some 3G systems, the phone talks to two or more towers at the same time for a moment, 'make before break', so there is always at least one good link. That is more reliable but uses more network resources.",
+        "Handoffs do not only happen when you move. If one cell gets too crowded, say at a football game when 50,000 fans are posting videos at half-time, the network may move some phones to a neighboring cell that has spare room. And sometimes a phone right on the edge between two cells keeps flipping back and forth. Engineers call that ping-ponging, and they tune their networks carefully to avoid it."
+      ]
+    },
+    {
+      "heading": "1G to 5G: Five Generations in Forty Years",
+      "paragraphs": [
+        "Mobile networks are grouped into generations, shortened to G. Each new generation is not just a little faster; it usually changes the way signals are sent. Here is the family tree, from grandparent to the newest child.",
+        "1G, the analog generation. The first commercial cellular networks opened in Tokyo in 1979, run by NTT, followed by the Nordic NMT system in 1981 and the AMPS network in Chicago in October 1983 (Part 2 tells that story). These phones sent your voice as an analog radio wave, a smooth copy of the sound. That had problems. Calls could crackle and fade, each conversation used up a whole radio channel, and anyone with the right radio scanner could listen in. The early networks also used different systems in different countries, so a phone from one country often would not work in another.",
+        "2G, the digital generation. In Finland on July 1, 1991, the first call was made on a GSM network, run by the company Radiolinja. 2G phones turned voices into numbers before sending them. Digital signals can be compressed, so several calls can share one channel by taking turns in tiny time slots, thousands of times a second. They can also be scrambled, or encrypted, which made eavesdropping much harder. And 2G brought text messaging (Part 3). Data was very slow at first, roughly 10 kilobits per second, enough for a few words but painfully slow for pictures.",
+        "3G, the mobile internet generation. NTT Docomo in Japan opened the world's first commercial 3G network, called FOMA, in October 2001 (Part 6). 3G was designed from the start to carry data as well as voice. Speeds of a few hundred kilobits per second, and later several megabits, made it practical to browse real web pages, download music and make video calls. The first iPhone in 2007 did not have 3G, but its successor, the iPhone 3G in 2008, did, and 3G helped turn smartphones into internet machines.",
+        "4G, the fast data generation. On December 14, 2009, the Nordic company TeliaSonera opened the first commercial LTE networks, in Stockholm, Sweden, and Oslo, Norway. LTE stands for Long Term Evolution, a slightly dull name for a big change. The idea had been proposed as an international standard by NTT Docomo in 2004. Unlike older systems, LTE treats everything, even voice calls, as internet-style data packets. That early Stockholm network was designed to reach about 50 megabits per second downloads, and later LTE versions could reach hundreds of megabits per second in ideal conditions. 4G made streaming video, video chat and live maps feel normal on a phone. (Engineers still argue about whether the first LTE networks truly met the official 4G definition, but the name stuck.)",
+        "5G, the newest generation. On April 3, 2019, South Korea switched on a nationwide 5G service, and within hours Verizon began a smaller 5G service in a few US cities. 5G uses a wider range of frequencies than before. Its lower and middle frequencies reach about as far as 4G but carry more data. Its very high 'millimeter wave' frequencies, above about 24 gigahertz, can deliver several gigabits per second but travel only short distances and are blocked by walls, windows and even trees. In real life, average 5G speeds have often been in the low hundreds of megabits per second, such as about 430 megabits per second in South Korea in 2022. 5G also aims for very short delays, called latency, and for connecting huge numbers of devices at once, from phones to sensors in factories.",
+        "To get a feel for the progress: downloading a 4-minute song file of about 4 megabytes would take around an hour on early 2G data, a minute or two on early 3G, a second or two on good 4G, and a blink on good 5G. In just a few decades, wireless data became tens of thousands of times faster."
+      ]
+    },
+    {
+      "heading": "The SIM Card: How the Network Knows It's You",
+      "paragraphs": [
+        "Billions of phones are switched on around the world right now. When your phone connects, how does the network know it is you, and not someone pretending to be you to make calls on your account?",
+        "The answer lives on the SIM card, short for subscriber identity module. The first SIMs were made in 1991 by Giesecke+Devrient, a company in Munich, Germany, which sold 300 of them to Radiolinja in Finland for the world's first GSM network. Early SIM cards were the size of a credit card. Over the years they shrank: the mini-SIM in 1996, the micro-SIM in 2003 and the tiny nano-SIM in 2012, all with the same gold contact pads in the same arrangement. Since 2016 many phones also use an eSIM, a SIM chip built permanently inside the phone that can be set up by downloading your account details.",
+        "A SIM is actually a tiny computer with its own processor and memory. It stores a number called the IMSI, which identifies you as a subscriber; it starts with a code for your country and a code for your mobile network. It also stores a secret: a 128-bit key, a string of 128 ones and zeros, that only your SIM and your network company know. The SIM is designed so that this key is very hard to copy or read out.",
+        "When your phone joins the network, it plays a kind of secret-handshake game called challenge and response. The network sends the phone a random number, the challenge. The SIM mixes that random number with its secret key using a special mathematical recipe and sends back the answer. The network does the same calculation on its own computers. If the answers match, the network knows the SIM must hold the right key, so the phone is let in. The secret key itself never travels through the air. The same calculation also produces a fresh temporary key used to scramble your calls and data, so people nearby cannot easily listen in.",
+        "Early GSM security had weaknesses that researchers later discovered, and newer generations have made the handshake stronger, for example by letting the phone check that the network is genuine too, not just the other way round. A PIN code can also lock the SIM so that a stranger who finds your phone cannot simply use your account."
+      ]
+    },
+    {
+      "heading": "Wi-Fi and Bluetooth: The Short-Range Radios",
+      "paragraphs": [
+        "A smartphone is not one radio but a whole bundle of them. Besides talking to cell towers, it also has radios for Wi-Fi, Bluetooth, GPS (Part 15) and often NFC, the very-short-range radio used for tap-to-pay.",
+        "Wi-Fi connects your phone to a wireless router at home, at school or in a cafe, which is in turn connected to the internet by cable. Its rules were written by a committee of the Institute of Electrical and Electronics Engineers, or IEEE, which published the first version of its 802.11 wireless standard in 1997. That first version managed only 1 or 2 megabits per second. An earlier wireless network product called WaveLAN, developed by NCR and AT&T engineers in the Netherlands around 1991, helped pave the way. Vic Hayes, a Dutch engineer who chaired the 802.11 committee for ten years, is often called the father of Wi-Fi. The 802.11b version, from 1999, reached 11 megabits per second and became the first truly popular one. The same year, a group of companies formed what is now the Wi-Fi Alliance to test equipment and look after the catchy name Wi-Fi. Modern Wi-Fi uses frequency bands at 2.4, 5 and 6 gigahertz, and the newest versions, Wi-Fi 6 and Wi-Fi 7, can in theory reach many gigabits per second, though real speeds are lower.",
+        "Bluetooth is for even shorter distances, usually less than 10 meters: connecting earbuds, smartwatches, game controllers, car stereos and wireless speakers. Its story began at the Swedish company Ericsson in Lund, where in the 1990s the Dutch engineer Jaap Haartsen, working with Sven Mattisson, developed the key ideas for a cheap, low-power radio to replace cables. In May 1998, Ericsson, IBM, Intel, Nokia and Toshiba formed the Bluetooth Special Interest Group to turn it into a shared standard.",
+        "And the name? In 1997 Jim Kardach of Intel suggested 'Bluetooth' as a temporary code name, after Harald Bluetooth, a Danish king of the 10th century who was remembered for uniting Danish tribes into one kingdom. Just as Harald united Danes, the technology was meant to unite computers, phones and gadgets. The code name was only supposed to be a placeholder, but it stuck. Even the Bluetooth logo comes from the king: it combines the two Viking runes for his initials, H and B.",
+        "Bluetooth uses the 2.4 gigahertz band, which is shared with Wi-Fi and even microwave ovens. To avoid getting drowned out, classic Bluetooth uses a trick called frequency hopping. It splits the band into 79 channels and jumps from one channel to another, usually 1,600 times every second, in a pattern that both connected devices know. If one channel is noisy, the next hop is only a split second away. That idea of hopping between frequencies has a surprising history, which leads us to a Hollywood film star."
+      ]
+    },
+    {
+      "heading": "Hedy Lamarr's Secret Communication System",
+      "paragraphs": [
+        "In the 1940s, Hedy Lamarr was one of the most famous film stars in Hollywood. Born in Vienna, Austria, in 1914, she had moved to the United States and starred in many movies. Few of her fans knew that in her spare time she loved inventing things.",
+        "During the Second World War, Lamarr worried about a weakness in radio-controlled torpedoes. If a torpedo was steered by a radio signal on one fixed frequency, an enemy could simply blast noise on that frequency, called jamming, and send the torpedo off course. Her idea was to make the signal jump rapidly from frequency to frequency in a secret pattern that only the ship and the torpedo knew. An enemy would not know where to aim the noise.",
+        "The hard part was keeping the transmitter and receiver hopping in perfect step. Here her friend George Antheil helped. Antheil was an avant-garde composer whose piece 'Ballet Mecanique' was written for several player pianos, machines that play themselves from punched paper rolls, which had to be kept in sync. Their design used a similar idea of synchronized, punched-paper patterns to keep both ends hopping together. On August 11, 1942, they received US patent 2,292,387 for a 'Secret Communication System', filed under her married name, Hedy Kiesler Markey.",
+        "The US Navy did not use it during the war; it was reportedly considered too bulky to fit in a torpedo. Lamarr and Antheil never made money from it, and the patent expired. Similar frequency-hopping technology came into military use only in the 1960s, developed independently by other engineers. Much later, people rediscovered her patent, and in 1997 Lamarr and Antheil received a Pioneer Award from the Electronic Frontier Foundation. In 2014, years after her death, Lamarr was inducted into the National Inventors Hall of Fame.",
+        "You may hear people say that Hedy Lamarr invented Wi-Fi or Bluetooth. That is not accurate. Those technologies were developed decades later by large teams of engineers, and they do not use her particular design. What is true is that her patent was an early example of frequency hopping, one member of a wider family of spread-spectrum radio techniques that are used today, for example in Bluetooth and in early versions of Wi-Fi. She was a creative inventor who had a clever idea years ahead of its time, and that is impressive enough.",
+        "Think about everything we have seen in this part. Every second, your phone is listening to towers, measuring signals, doing secret handshakes, hopping between frequencies, and firing radio waves into the air through several radios at once, all while its chip crunches numbers and its bright screen glows. All of that takes energy, and lots of it. So where does a phone, cut off from any wall socket, get its power? Turn the page to find out what is inside the battery."
+      ]
+    }
+  ],
+  "deepDive": "Why do mobile networks keep chasing more spectrum and more towers? The answer lies in a formula from information theory. In 1948, the Bell Labs mathematician Claude Shannon showed that the maximum amount of data a channel can carry depends on two things: its bandwidth (how wide a slice of frequencies it uses) and its signal-to-noise ratio (how loud the signal is compared with background noise). Capacity grows in direct proportion to bandwidth, but only logarithmically with signal strength, so doubling the transmitter power helps far less than doubling the bandwidth. That is why each generation hunts for wider channels: GSM channels were 200 kilohertz wide, LTE channels up to 20 megahertz, and 5G channels up to 100 megahertz in the middle bands and 400 megahertz in millimeter-wave bands. Wide channels are mostly available at higher frequencies, but higher frequencies have short ranges, which forces networks to build many more, smaller cells. Engineers have three main levers to increase capacity: more spectrum, better spectral efficiency (more bits per hertz, through cleverer modulation and coding), and more cells reusing the same frequencies. Engineers often point out that, historically, the third lever, cell splitting, has delivered the biggest gains. A fourth trick is MIMO, multiple-input multiple-output, in which many antennas send separate data streams at the same frequency at once; 5G's 'massive MIMO' base stations can use dozens of antenna elements and steer focused beams toward individual phones, a technique called beamforming. Debates continue. Spectrum is a limited public resource, and governments must balance mobile networks against satellites, weather radar and aviation; in the United States, for example, aviation authorities raised concerns in 2021 and 2022 about some 5G frequencies near aircraft altimeters, leading to temporary limits near airports. Public worries about radio waves and health have also surfaced; the US FDA and other health bodies have found no reliable evidence that 5G exposure at permitted levels harms health, yet false rumors linking 5G to COVID-19 in 2020 led to arson attacks on dozens of phone masts in the UK and elsewhere.",
+  "funFact": "Bluetooth is named after Harald Bluetooth, a 10th-century Danish king, and its logo is made by combining the Viking runes for his initials, H and B.",
+  "check": {
+    "q": "What is it called when your call is passed from one cell tower to the next as you move?",
+    "a": "A handoff (or handover)",
+    "wrong": [
+      "A text message",
+      "A frequency auction",
+      "A SIM swap"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cellular network",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cellular_network"
+    },
+    {
+      "title": "Handover",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Handover"
+    },
+    {
+      "title": "LTE (telecommunication)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/LTE_(telecommunication)"
+    },
+    {
+      "title": "5G",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/5G"
+    },
+    {
+      "title": "SIM card",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/SIM_card"
+    },
+    {
+      "title": "Bluetooth",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bluetooth"
+    },
+    {
+      "title": "IEEE 802.11",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/IEEE_802.11"
+    },
+    {
+      "title": "Hedy Lamarr",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hedy_Lamarr"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A mobile phone mast (cell tower) with panel antennas against the sky",
+      "search": "cell tower antennas mobile phone mast"
+    },
+    {
+      "want": "Diagram of a hexagonal cellular network showing frequency reuse in clusters of cells",
+      "search": "cellular network hexagon frequency reuse diagram"
+    },
+    {
+      "want": "Drawing from Hedy Lamarr and George Antheil's 1942 'Secret Communication System' patent",
+      "search": "Hedy Lamarr patent 2292387 secret communication system"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "n": 7,
+  "title": "The Wind Tunnel Secret",
+  "when": "1901 – 1902",
+  "summary": "Wilbur and Orville built a little wooden wind tunnel in their bicycle shop and tested about 200 tiny wings. They found out that the old flying numbers were wrong, so they worked out better ones. In 1902 their new glider flew beautifully, and they became the best pilots in the world.",
+  "sections": [
+    {
+      "heading": "Back Home with a Big Problem",
+      "paragraphs": [
+        "In late August 1901, Wilbur and Orville Wright rode the train home from the sand dunes of North Carolina feeling beaten. Their new glider had been the largest anyone had ever flown, with wings 22 feet (6.7 metres) across, and it had been a disappointment. It lifted only about a third as much as their calculations promised. It bucked and dipped in strange ways. Once or twice it had turned the wrong way when Wilbur tried to tilt it into a turn. The brothers had come home with sunburn, mosquito bites and a heap of puzzling notes.",
+        "Back in Dayton, Ohio, life carried on around them. Their bicycle shop on West Third Street still had to make money. Customers came in for tyres, chains and new spring models. But in the evenings, and in every spare moment, the two brothers kept turning the problem over. Why had the glider failed to lift as much as it should?",
+        "There were only two possibilities. Either the brothers had built their glider badly, or the numbers they had used to design it were wrong. Those numbers came from the most respected experts of the day, including the German glider pioneer Otto Lilienthal, who had made more than 2,000 glides before his death in 1896. Saying that Lilienthal's tables might be wrong felt a bit like a pair of school students announcing that the textbook had a mistake in it.",
+        "Then came an invitation that forced them to think even harder. Octave Chanute, the Chicago engineer who had become their friend and adviser, asked Wilbur to give a talk to the Western Society of Engineers in Chicago. On 18 September 1901 Wilbur stood up in front of a room of professional engineers and described the brothers' gliding experiments. The talk, later printed as 'Some Aeronautical Experiments', was honest about what had gone wrong. Preparing it made Wilbur look very carefully at the old figures, and he grew more and more suspicious of them.",
+        "Imagine being Wilbur at that moment. You are 34 years old, you never went to university, and you run a bicycle shop. Yet you are starting to believe that some of the most famous data in the young science of flight cannot be trusted. You could give up, as many people before you had. Or you could do something almost nobody in America had done: build your own laboratory and measure the air yourself."
+      ]
+    },
+    {
+      "heading": "The Bicycle That Tested Wings",
+      "paragraphs": [
+        "The Wrights' first test machine was wonderfully odd. They took a bicycle and fixed a third wheel flat, lying sideways like a little table, above the front of the frame. On the rim of this wheel they mounted two small test surfaces. One was a small curved wing, the kind of shape they wanted to study. The other was a flat plate used as a reference. The two were arranged so that the wind would push them in opposite directions and try to turn the wheel.",
+        "Then one of the brothers pedalled hard down the streets of Dayton, at up to about 15 miles per hour (24 km/h). As the bicycle rushed forward, air flowed over both surfaces. If the curved wing pushed harder than the flat plate, the wheel would turn one way. If the plate won, it would turn the other way. By changing the angle of the curved wing until the wheel stopped turning, they could compare the two forces. It was a kind of tug-of-war, played by the wind.",
+        "The neighbours must have wondered what on earth the bicycle men were up to. But the strange machine did its job. The results were rough, because a bicycle on a street meets gusts, bumps and swirling air from passing carts. Still, they were good enough to show something important: the curved wing was not producing the lift that Lilienthal's table said it should at that angle. The old data really did look wrong.",
+        "The brothers knew they needed a steadier, more controlled stream of air. They needed a place where the wind would always blow at the same speed, in the same direction, and where they could repeat a test as many times as they liked. In other words, they needed a wind tunnel.",
+        "A wind tunnel was not a new idea. In 1871 a British engineer named Francis Wenham had built what is usually called the first enclosed wind tunnel, a long box with a fan driven by a steam engine. Wenham and his colleague John Browning had even noticed that long, narrow wings seemed to work better than short, stubby ones. A few other experimenters had built tunnels since. But in America they were still very rare, and nobody had used one to collect the kind of complete, practical design data the Wrights now wanted."
+      ]
+    },
+    {
+      "heading": "A Wooden Box and Two Hundred Tiny Wings",
+      "paragraphs": [
+        "In the autumn of 1901 the brothers built their main wind tunnel in the back room of the bicycle shop. It was a plain wooden box about 6 feet (1.8 metres) long, with a square opening about 16 inches (roughly 40 centimetres) across inside. A glass window on top let them peer down at the model being tested. At one end a metal fan blew air through the box. The fan was not electric: it was turned by a belt from the small gasoline engine that already powered the lathe, drill press and other tools in the workshop.",
+        "The air rushed through the tunnel at roughly 25 to 30 miles per hour (about 40 to 48 km/h), similar to a strong breeze on the dunes at Kitty Hawk. Early tests showed that the air came out of the fan swirling and uneven, which would spoil the measurements. So the brothers added screens and a grid shaped like a honeycomb to straighten the flow before it reached the models. Even something as simple as where they stood mattered: if one of them moved around the room, the air in the shop shifted and the readings could change. So they learned to stay in exactly the same place during every test.",
+        "The cleverest part of the tunnel was not the box at all. It was the measuring device inside it, called a balance. A balance is a tool that measures the pushes of the air on a model. The Wrights made theirs from whatever was lying around a bicycle shop: lengths of bicycle spoke wire and bits of scrap metal (many accounts say old hacksaw blades too), bent and soldered together. NASA engineers who studied the Wrights' work much later called the balance the heart of any successful wind tunnel.",
+        "The brothers built two balances. One was for lift, the upward push that holds a wing up. The other was for drag, the backward push of the air that slows a wing down. The lift balance worked much like the bicycle test, only far more precisely. A small test wing was hung on one side of the balance and a set of flat plates on the other. When the wind blew, the wing and the plates pushed against each other, and a pointer moved across a scale marked in degrees. Reading the pointer told the brothers how strong the lift of the test wing was compared with the push on a flat plate facing straight into the wind.",
+        "This trick was very smart. The balance did not measure forces in pounds or grams directly. Instead, it measured ratios: how many times stronger or weaker one force was than another. That meant the brothers did not have to know the exact wind speed perfectly, because it cancelled out. It is a good lesson for any young scientist: sometimes the smartest experiment is one designed so that the things you cannot control do not matter.",
+        "From October to December 1901 the back room of the bicycle shop became one of the most important science laboratories in the world, although almost nobody knew it. The brothers cut small model wings out of sheet steel with tin snips and hammered them into shape. Some were flat. Some were gently curved. Some were deeply curved, with the highest point of the curve near the front edge, and others with it further back. Some were square, some long and thin, some had rounded tips, some had pointed ones. A few were even stacked one above another, like a tiny biplane.",
+        "Altogether they tried about 200 different wing shapes. Many got a quick first test to see if they were worth studying. Then they picked several dozen (around 38 to 50, depending on how they are counted) of the most interesting and tested each one carefully at many angles, from flat to steeply tilted, writing every pointer reading into notebooks in neat columns. Each wing might need dozens of readings. It was slow, patient, repetitive work, the kind that does not look exciting in a film but wins in real science.",
+        "Their sister Katharine, a schoolteacher who lived with them in the family home on Hawthorn Street, watched her brothers disappear into the shop night after night. Charlie Taylor, the mechanic they had hired to help run the bicycle business, kept customers happy so the brothers could keep experimenting. Without that help, the testing could never have been squeezed into just a few months.",
+        "By Christmas 1901 they had what no one else in the world possessed: tables of carefully measured numbers showing how dozens of wing shapes behaved at many different angles. In effect, they had written their own design handbook for wings. And then they stopped. The bicycle season was coming, money mattered, and Wilbur felt they had learned what they needed. Their wind tunnel work had taken only about three months."
+      ]
+    },
+    {
+      "heading": "The Mistake Hidden in an Old Number",
+      "paragraphs": [
+        "To understand the brothers' biggest discovery, you need to know about a number with an old-fashioned name: the Smeaton coefficient. In the 1750s an English engineer named John Smeaton, who built windmills and lighthouses, had studied how hard moving air pushes on a flat surface. Engineers used his findings to create a number for the push of the wind. For more than 100 years, nearly everyone working on flight plugged this number into their lift formula. The value commonly used was about 0.005 (often written as 0.0054).",
+        "Here is the idea, without the hard maths. To predict how much lift a wing would make, designers of the 1890s multiplied together several things: the area of the wing, the speed of the air squared, a number for the wing's shape and angle, and the Smeaton coefficient. If any one of those numbers was wrong, the whole answer would be wrong, a bit like a recipe where the amount of flour is misprinted.",
+        "The Wrights' tests, together with their careful measurements from the dunes, pointed to a surprising conclusion. Lilienthal's numbers for how a curved wing behaved were actually fairly good for the kind of wing he had tested. The real culprit was the old Smeaton number that everybody, including the Wrights, had been using. Their results showed that a value of about 0.0033 was much closer to the truth. The old figure was too high by more than half again, which meant designers had been expecting far more lift than wings could really give. Octave Chanute had collected as many as 50 different values for this coefficient from various experimenters, which shows how confused the subject was.",
+        "There was another lesson too. Lilienthal's wings had a particular shape, and the Wrights' 1901 glider had a different one, with a different curve and a different outline. Copying numbers measured for one wing and using them for another, quite different wing simply did not work. Every wing shape needed its own measurements. That is exactly what the brothers' tables now gave them.",
+        "Today, engineers no longer use the Smeaton coefficient at all. They use the density of air and something called a lift coefficient, measured for each wing shape in modern wind tunnels and with computer models. But the method of testing many shapes carefully and trusting measurements over old assumptions is the same method the Wrights used in their back room."
+      ]
+    },
+    {
+      "heading": "Long, Thin and Gently Curved",
+      "paragraphs": [
+        "The tiny steel wings taught the brothers two big design rules, and both are still followed today.",
+        "The first rule was about the shape of the wing seen from above. Engineers call this the aspect ratio. It compares a wing's span (how far it stretches from tip to tip) with its chord (how deep it is from the front edge to the back edge). A long, narrow wing has a high aspect ratio. A short, stubby wing has a low one. The Wrights found that long, narrow wings gave much more lift for the amount of drag they made. Their 1901 glider had wings 22 feet long and 7 feet deep, an aspect ratio of about 3. For 1902 they planned wings about 32 feet (9.8 metres) long but only about 5 feet (1.5 metres) deep, an aspect ratio of about 6.",
+        "Why does this work? At the tips of a wing, air from the higher-pressure region underneath curls around into the lower-pressure region on top, making whirlpools of air called wingtip vortices. These vortices waste energy and add drag. A long, narrow wing has less of its area close to the tips, so less is lost. Look at an albatross, which can glide over the ocean for hours: its wings are extremely long and narrow. Modern gliders and long-distance airliners have long, slender wings for the same reason.",
+        "The second rule was about camber, the gentle upward curve of a wing seen from the side. In 1901 the brothers had used a deep curve, about 1 in 12, meaning the hump of the wing was one-twelfth as high as the wing was deep. It had made the glider hard to control, because the push of the air shifted around unexpectedly as the angle changed. The wind tunnel showed that a much flatter curve worked better. For 1902 they chose a camber of about 1 in 24 or 25, with the highest point about a third of the way back from the front edge. That is very close to the shape of many wings used on light aircraft a century later.",
+        "They also learned that the front edge of a wing should be fairly thin and smoothly shaped, and that biplane wings could be placed one above the other with enough gap between them so they did not spoil each other's airflow. Each of these lessons went straight into the design of their next glider."
+      ]
+    },
+    {
+      "heading": "The 1902 Glider and the Mystery Spin",
+      "paragraphs": [
+        "In late August 1902 the brothers were back at Kill Devil Hills, about 4 miles (6 km) south of the village of Kitty Hawk on the Outer Banks of North Carolina. Their old camp shed had been battered by storms, so they repaired it and added a little kitchen and living area. They slept on bunks rigged up near the roof and cooked their meals in the shed. Then they assembled their new glider, the third they had built.",
+        "It was a beauty. The wings spanned 32 feet 1 inch (about 9.8 metres), with an area of about 305 square feet (28 square metres), yet the whole machine weighed only around 112 to 117 pounds (about 51 to 53 kg). It was made of spruce and ash wood, covered with tightly stretched cotton cloth. As in 1900 and 1901, the elevator, the surface that tilts the nose up or down, stuck out in front of the wings. The pilot lay flat on the lower wing, in a padded cradle around his hips. Sliding his hips to one side pulled wires that twisted (warped) the wingtips to tilt the glider left or right. And at the back, new for 1902, stood a tail: a fixed double rudder made of two tall, narrow upright fins.",
+        "From the very first glides in September, the new machine lifted beautifully, just as the wind tunnel had promised. But a frightening problem soon appeared. Sometimes, when the pilot warped the wings to level the glider after a gust, it did not straighten out. Instead it slid sideways, swung around, and spun down into the sand with one wingtip digging in. The brothers called this 'well digging', because the wingtip seemed to be drilling a hole in the ground. Luckily the glides were low and the sand was soft, but it was clearly dangerous. The brothers came to realise that, in some situations, the fixed tail was actually making things worse.",
+        "The cause turned out to be a subtle effect of the wing warping itself. When one wingtip was twisted to give it more lift, it also got more drag. That extra drag held the wing back, swinging the nose in the wrong direction. Engineers today call this adverse yaw. With fixed fins at the back, the problem could get worse: as the glider slipped sideways, the air pushed on the fins in a way that helped spin the glider round even more."
+      ]
+    },
+    {
+      "heading": "A Sleepless Night and a Movable Rudder",
+      "paragraphs": [
+        "According to a story the family told, Orville drank too much coffee one evening in early October 1902 and lay awake that night thinking about the spinning problem. By morning he had an answer: the fins at the back should not be fixed. They should move, so the pilot could swing the tail to stop the nose from turning the wrong way. His diary entry for 2 October 1902 notes that he had 'studied out a new vertical rudder'.",
+        "Wilbur liked the idea and added a brilliant improvement. Instead of giving the pilot yet another control to work, he suggested connecting the rudder to the same hip cradle that warped the wings. Then, whenever the pilot slid his hips to warp the wings, the rudder would automatically swing the right amount to cancel out the unwanted turning. The brothers took off one of the two fins and made the other movable, about 5 feet (1.5 metres) tall and 14 inches (36 centimetres) wide, able to swing about 30 degrees to either side. By 6 October it was ready.",
+        "The difference was dramatic. Now the glider could bank smoothly, turn and come out of the turn under control. On 9 October 1902 the brothers made what historians count as their first truly controlled turns. The 'well digging' problem was solved.",
+        "With this change, the Wrights had invented something that every airplane since has used: control around all three axes. Picture a plane with three imaginary lines through it. Turning around one line makes the nose go up or down. That is pitch, and the Wrights controlled it with their front elevator. Turning around the second line tilts the wings left or right. That is roll, which they controlled with wing warping. Turning around the third line swings the nose left or right. That is yaw, controlled by the new rudder. Later planes would use different parts, such as hinged ailerons instead of wing warping, but the idea of the pilot controlling all three at once is still the heart of how airplanes fly. You will explore the cockpit controls in detail in Part 12.",
+        "The brothers knew their idea was valuable. In March 1903 they applied for a patent on a 'Flying Machine' based on the 1902 glider. What it really protected was not a particular glider shape but their system of control, the idea of warping the wings together with a movable rudder."
+      ]
+    },
+    {
+      "heading": "The Best Pilots in the World",
+      "paragraphs": [
+        "Once the glider could be controlled, the brothers flew it again and again. Between 19 September and 24 October 1902 they made somewhere between about 700 and more than 1,000 glides, depending on which records and counts you use. Many came in the last few weeks of October, when the wind blew steadily over the dunes. Some glides were more than 600 feet (180 metres) long, and the longest lasted up to about 26 seconds, in winds of over 30 miles per hour (48 km/h).",
+        "Picture a typical glide. Two people grip the wingtips and run downhill into the wind on the side of Big Kill Devil Hill, a sand dune about 90 feet (27 metres) high. The pilot lies flat on the lower wing, chin forward, hands on the elevator lever. The wings bite into the wind and lift him off the sand. Then for many seconds he glides down the slope just a few feet above the ground, making small corrections with his hips and hands, until the skids hiss into the sand. Then everyone walks the glider back up the dune to do it all again.",
+        "The camp became busy that October. Octave Chanute visited, along with Augustus Herring, an experienced glider builder, and George Spratt, a young doctor fascinated by flight who had visited in 1901 too. The brothers' older brother Lorin also came along. Chanute had a glider of his own design brought along for testing, but it did not fly well. Watching the Wrights glide so easily, the visitors could see that the bicycle makers from Dayton had moved far ahead of everyone else.",
+        "This is one of the most important points in the whole story. Other inventors had built engines and machines and then hoped to learn flying afterwards, often in a single risky attempt. The Wrights did the opposite. They learned to fly first, safely, in hundreds of short, low glides on soft sand. By the end of 1902 they had more experience controlling a winged machine in the air than anyone else alive. They were not only the best designers of flying machines. They were also the most skilled pilots in the world.",
+        "Wilbur and Orville packed up camp at the end of October 1902 feeling very different from the year before. The wings worked. The controls worked. They knew how to fly. There was just one thing missing: power. They needed an engine to drive the glider forward, and propellers to turn that engine's power into thrust. They assumed they could simply buy a suitable engine. They wrote to engine makers asking for one that weighed no more than about 180 pounds (82 kg) yet produced at least 8 horsepower. The replies were disappointing. Nobody could sell them the right engine. And when they looked for a book that explained how to design airplane propellers, they discovered there was no such book at all."
+      ]
+    }
+  ],
+  "deepDive": "Historians of technology often say the Wrights' greatest invention was not the airplane but their method. Before 1901, most designers worked with a lift equation of the form L = k S V squared CL, where L is lift, S is wing area, V is airspeed, CL is a coefficient for the wing shape and angle, and k is the 'Smeaton coefficient', a number meant to capture the pressure of moving air. The traditional value of k, about 0.005 in the units of the time, came from 18th-century work on windmills, and it was never checked very carefully for small, slow wings. Combining their 1901 kite measurements with their tunnel data, Wilbur concluded k was nearer 0.0033. Modern values work out at about 0.00326 in the same units, so their estimate was remarkably good. Because the old k was more than 50 percent too high, designers had been overestimating lift by the same amount. The tunnel itself was modest: a roughly 6-foot box with a 16-inch square test section and air at around 25 to 35 mph. Its genius was the balances. Rather than measuring forces directly, which was very hard with 1901 instruments, the lift balance compared the test wing with flat reference plates, and the drag balance measured the ratio of drag to lift. Ratios cancel out errors in wind speed and air density, which is exactly why the Wrights could trust their numbers. They tested about 200 models in quick screening runs and took detailed measurements of about 38. The results confirmed what Wenham and Browning had suggested decades earlier: high aspect ratio wings give a better lift-to-drag ratio, which NASA estimates rose to about 8 for the 1902 glider, roughly a third better than their previous gliders. Historians still debate how much the Wrights' data departed from Lilienthal's. The modern view is that Lilienthal's tables were fairly accurate for his own wing shape and test method, but the Wrights had applied them to a different wing with a different aspect ratio, and combined them with a wrong value of k. The deeper lesson, one that engineers still teach, is that data measured under one set of conditions cannot be blindly reused under another.",
+  "funFact": "The Wrights' wind tunnel balances, which helped produce the data for the world's first successful airplane, were built from bicycle spoke wire and scrap metal, including (according to many accounts) old hacksaw blades.",
+  "check": {
+    "q": "After their wind tunnel tests, what value did the Wrights decide was closer to the correct Smeaton coefficient?",
+    "a": "About 0.0033",
+    "wrong": [
+      "About 0.05",
+      "Exactly 1",
+      "About 0.0054"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Wright brothers",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wright_brothers"
+    },
+    {
+      "title": "History of Wind Tunnels",
+      "publisher": "NASA Glenn Research Center",
+      "url": "https://www.grc.nasa.gov/WWW/K-12/WindTunnel/history.html"
+    },
+    {
+      "title": "Wright glider (1900, 1901, 1902 and 1911 gliders)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wright_Glider_of_1902"
+    },
+    {
+      "title": "Wind tunnel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wind_tunnel"
+    },
+    {
+      "title": "Wright Brothers National Memorial",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wright_Brothers_National_Memorial"
+    },
+    {
+      "title": "The First Flight",
+      "publisher": "National Park Service, Wright Brothers National Memorial",
+      "url": "https://www.nps.gov/wrbr/learn/historyculture/thefirstflight.htm"
+    },
+    {
+      "title": "Researching the Wright Way",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/researching-wright-way"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A replica of the Wright brothers' 1901 wooden wind tunnel with its fan and glass viewing window",
+      "search": "Wright brothers wind tunnel replica 1901"
+    },
+    {
+      "want": "Historic 1902 photograph of the Wright glider flying low over the sand dunes at Kill Devil Hills with a pilot lying on the lower wing",
+      "search": "Wright 1902 glider Kill Devil Hills flight"
+    },
+    {
+      "want": "Replica of the Wright brothers' wind tunnel lift balance made of thin metal strips and wires",
+      "search": "Wright brothers wind tunnel balance"
+    }
+  ]
+}

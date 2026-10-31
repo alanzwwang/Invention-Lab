@@ -1,0 +1,160 @@
+{
+  "n": 17,
+  "title": "Computers Everywhere",
+  "when": "1962 – 2020s",
+  "summary": "Computers escaped from big labs and offices. They turned into games on TV screens, laptops you could carry, phones in your pocket and tiny hidden brains inside cars, washing machines and toys. Today most of the computers around you are ones you never even notice.",
+  "sections": [
+    {
+      "heading": "Duelling Spaceships at MIT",
+      "paragraphs": [
+        "Imagine walking into a room at the Massachusetts Institute of Technology in the spring of 1962. There is a computer about the size of a few big fridges, humming and blinking. Its name is the PDP-1, made by a company called Digital Equipment Corporation, or DEC. It cost a fortune, and most people used it for serious work. But on its round screen, two tiny spaceships are circling a glowing star, firing torpedoes at each other, while a crowd of students laughs and shouts.",
+        "The game was called Spacewar!, with an exclamation mark as part of its name. It was designed mainly by a young programmer named Steve Russell, working with friends from a group of computer fans that included Martin Graetz and Wayne Wiitanen, with help from Bob Saunders and Steve Piner. Others, such as Dan Edwards and Peter Samson, added improvements later. They wrote it in assembly language, the low-level code you met in the story of software, which talks to the processor almost directly. The game was finished and shown off around April 1962.",
+        "Spacewar! was surprisingly clever. One ship was nicknamed 'the needle' and the other 'the wedge'. Each had a limited number of torpedoes and a limited amount of fuel. The ships obeyed something like real physics: once they started moving they kept drifting, unless the player fired the thrusters to change direction. The star in the middle pulled both ships toward it with gravity, so a careless pilot could fall in and be destroyed. If things got desperate, a player could press a button to jump into 'hyperspace' and reappear somewhere else on the screen, though in some versions that jump was risky.",
+        "At first, players had to steer using the switches on the computer's control panel, which was awkward and tiring. So Bob Saunders built separate hand controls that could be held away from the machine. You could say these were some of the first game controllers. Peter Samson also added a realistic background of stars, based on real star positions in the night sky.",
+        "Only 53 PDP-1 computers were ever sold, so very few people could play the original game. But the code was shared freely, and programmers copied it to other computers at universities and research labs. For many young engineers in the 1960s, Spacewar! was the first time they saw that a computer could be playful, interactive and exciting, not just a calculator for scientists. Later arcade games, including Computer Space in 1971 and the hit Asteroids, borrowed ideas from it. In 2018 Spacewar! was inducted into the World Video Game Hall of Fame."
+      ]
+    },
+    {
+      "heading": "Pong, Brown Boxes and the Living Room Revolution",
+      "paragraphs": [
+        "Spacewar! needed a computer that cost as much as a house. For games to reach ordinary people, they had to become cheap. Two very different paths led there: one into living rooms and one into bars and arcades.",
+        "The living-room path began with an engineer named Ralph Baer. In August 1966, while working at a defence electronics company called Sanders Associates in New Hampshire, he had an idea: millions of homes already had a television set, so why not use it to play games? Baer and a small team built a series of prototypes. The seventh, finished in January 1969, was nicknamed the 'Brown Box' because it was covered in wood-grain stickers. The TV company Magnavox agreed to make it, and in September 1972 the Magnavox Odyssey went on sale in the United States. It is usually called the first commercial home video game console.",
+        "The Odyssey was simple. It could show a few white squares and a line on the screen, but no colour and no score. To make the games look like something, players stuck thin plastic sheets called overlays onto their TV screens, held on by static electricity. One overlay might show a tennis court, another a haunted house. Magnavox sold about 69,000 consoles in the first year and roughly 350,000 by the time it stopped making them in 1975.",
+        "The arcade path belonged to a young company called Atari, started by Nolan Bushnell and Ted Dabney. Bushnell had played the table-tennis game on the Odyssey, and he gave a new engineer, Allan Alcorn, a 'practice project': build a simple ping-pong game. Alcorn had never made a video game before, but the result, Pong, was so much fun that Atari decided to sell it.",
+        "In August 1972 they put a test machine into a bar in Sunnyvale, California, called Andy Capp's Tavern. Crowds gathered around it. A few days later the machine stopped working. When Alcorn opened it up, he found the problem: the coin box was so stuffed with quarters that it had jammed. Pong was officially released on 29 November 1972, and it helped launch the whole video game industry. A home version of Pong, sold through the Sears department store in 1975, sold about 150,000 units that holiday season.",
+        "After that, game machines kept getting more powerful: the Atari 2600 in 1977, the Nintendo Entertainment System in the 1980s, the Sega and Sony consoles of the 1990s, and many more. Games became one of the hungriest users of computing power. Players wanted smoother movement, more colours and, by the mid-1990s, 3D worlds that you could explore. Drawing 3D scenes many times every second takes a huge number of calculations, so companies designed special chips just for graphics. In 1994 Sony used the term 'GPU', short for graphics processing unit, for the graphics chip inside its first PlayStation.",
+        "Those game chips became so good at doing thousands of simple sums at the same time that, in the 2000s, scientists started using them for other jobs, from studying the weather to searching for oil. You will see in the next parts how chips built to make games look beautiful ended up powering some of today's most important computer research. It is a good reminder that playing is often how new technology begins."
+      ]
+    },
+    {
+      "heading": "Point, Click and Drag: Windows for Everyone",
+      "paragraphs": [
+        "In the last part you saw the Apple Macintosh arrive in 1984 with its mouse, windows and little pictures called icons. Those ideas had been developed earlier by Douglas Engelbart's team and at Xerox PARC. But for the next ten years, most of the world's personal computers were IBM PCs and compatible 'clones' running Microsoft's MS-DOS. To use MS-DOS you had to type commands such as 'dir' or 'copy' after a blinking prompt. If you made a typing mistake, the computer simply said something like 'Bad command or file name'.",
+        "Microsoft wanted to give PC users a friendlier, picture-based way of working. Its answer was Windows. Windows 1.0 was released on 20 November 1985 for $99. It ran on top of MS-DOS and let people open programs in rectangles on the screen and use a mouse. It came with a set of small programs that you may still recognise: a Calculator, a Notepad for text, a drawing program called Paint (black and white only), a Clock, and a game called Reversi.",
+        "Windows 1.0 had some odd limits. Its windows could not overlap. Instead, they were arranged side by side like tiles on a floor. The computers of the time were slow, and many reviewers were not impressed. The New York Times compared its speed to 'pouring molasses in the Arctic', and there were few programs written to use it. Still, about half a million copies had been sold by early 1987. Microsoft kept improving it, and versions 3.0 (1990) and 3.1 (1992) became very popular.",
+        "The big moment came on 24 August 1995, with Windows 95. Its launch was one of the loudest in computer history. Microsoft used the Rolling Stones song 'Start Me Up' in its advertising, because of a brand-new feature: the Start button. In New York, the Empire State Building was lit up in the colours of the Windows logo. One million copies shipped around the world in the first four days.",
+        "Windows 95 introduced the taskbar along the bottom of the screen, where every open program had its own button, and the Start menu, which gathered your programs in one place. These ideas were so useful that they are still part of Windows today, and similar ideas appear on other systems. By the end of 1998, Windows 95 was the most used desktop operating system in the world. Pointing and clicking, once an experiment in a research lab, had become the normal way that hundreds of millions of people used computers."
+      ]
+    },
+    {
+      "heading": "Computers You Can Carry",
+      "paragraphs": [
+        "Early personal computers sat on desks and plugged into the wall. Could you take one with you on a trip? On 3 April 1981, a company started by a writer and businessman named Adam Osborne launched the Osborne 1, designed by engineer Lee Felsenstein. It is widely seen as the first commercially successful portable computer.",
+        "'Portable' meant something rather different then. The Osborne 1 weighed about 11 kilograms (24.5 pounds), roughly as much as a big bag of potatoes or a small dog. It folded up like a suitcase, with the keyboard forming the lid. Inside was a tiny screen only about 5 inches (13 centimetres) across, two floppy-disk drives and a Zilog Z80 processor running at 4 megahertz. It had no battery at all, so you had to find a power socket wherever you went. People joked that it was 'luggable' rather than portable.",
+        "What made the Osborne 1 a hit was its price: $1,795, with a bundle of useful software included, such as the WordStar word processor and the SuperCalc spreadsheet. Those programs alone were worth about 1,500 dollars in the shops, nearly as much as the computer itself. Around 11,000 were sold in its first eight months, and at its peak the company was selling about 10,000 a month.",
+        "Then the company made a famous mistake. It announced a better model too early, and many customers stopped buying the old one while they waited for the new one. Sales collapsed. Business writers still call this the 'Osborne effect'. Competitors such as the Kaypro II and later the IBM-compatible Compaq Portable (1983) took over the market.",
+        "Through the 1980s and 1990s, engineers kept shrinking portable computers. Flat liquid-crystal screens replaced bulky picture tubes. Batteries improved. Hard disks got smaller. Computers that folded up like a book and weighed a few kilograms became known as laptops and notebooks. By the 2000s, laptops were common in schools, offices and homes, and in many countries more laptops were being sold than desktop computers. Each step needed the same two things: chips that could do more work, and chips that used less electricity, so the battery would last. That second need led to one of the most important chips ever designed, and it came from a small British company."
+      ]
+    },
+    {
+      "heading": "The Little Chip That Sips Power",
+      "paragraphs": [
+        "In Part 16 you met the BBC Micro, the computer that taught a generation of British children to program. It was made by Acorn Computers in Cambridge, England. In the early 1980s, Acorn's engineers wanted a faster processor for their next machines, but they did not like any of the chips they could buy. So they decided to design their own, which was a bold thing for such a small company to try.",
+        "Two people led the work. Sophie Wilson, born in Leeds in 1957, had already written BBC BASIC, the programming language built into the BBC Micro. Steve Furber, born in Manchester in 1953, was a hardware engineer who had helped design the BBC Micro itself. Before starting, they read research papers from the University of California, Berkeley, about a design idea called RISC, which stands for Reduced Instruction Set Computer. They also visited a small American chip company and were amazed to find that a tiny team could design a processor. If they could do it, perhaps Acorn could too.",
+        "The RISC idea is easier to understand with a kitchen example. Imagine two cooks. The first knows hundreds of fancy, complicated recipes, each with many steps. The second only knows a small number of very simple actions, like 'chop', 'stir' and 'pour', but can do each one extremely quickly. For many jobs, the second cook finishes first, because simple actions can be done in a smooth, fast rhythm. A RISC processor is like the second cook: it has a smaller set of simple instructions that it can carry out very efficiently.",
+        "Wilson designed the instruction set, the list of commands the chip would understand, starting in October 1983. Remarkably, she tested her design by writing a simulation of the processor in BBC BASIC, running on a BBC Micro. Furber worked out how the hardware would be arranged. A company called VLSI Technology manufactured the first chips. On 26 April 1985 the first ARM chip (ARM stood for Acorn RISC Machine) was tested, and it worked correctly the very first time. In chip design, where a single tiny mistake can ruin months of work, that is a rare and celebrated result.",
+        "The early ARM chips were small and simple. The ARM2 had only about 30,000 transistors, compared with roughly 68,000 in a popular rival processor of the time, the Motorola 68000. Fewer transistors meant the chip used very little electricity and gave off little heat. In the mid-1980s that seemed like a nice bonus. Nobody guessed how important it would become.",
+        "In 1990 Acorn, together with Apple and the chip maker VLSI, set up a new company called Advanced RISC Machines, later known simply as Arm. Its first well-known customer product was Apple's Newton, a handheld computer from 1993. Arm had an unusual business plan: instead of making chips itself, it designed them and sold licences, letting other companies build their own chips using Arm designs. That meant hundreds of companies around the world could use the same family of designs.",
+        "When mobile phones arrived, the low-power ARM design was perfect. A phone has to run for a long time on a small battery and must not get hot in your hand. By 2005, about 98 percent of mobile phones sold contained at least one ARM processor. By the 2020s, more than 230 billion ARM-based chips had been made, which is roughly 30 for every person on Earth. They are in almost every smartphone, and also in tablets, smartwatches, cars, TVs, game consoles and many laptops. A design tested on a school computer in Cambridge ended up being one of the most widely used inventions in history."
+      ]
+    },
+    {
+      "heading": "A Computer in Your Pocket",
+      "paragraphs": [
+        "Think about what a smartphone is: a phone, a camera, a map, a music player, a games console, a library and a computer, all in one thin slab of glass. But the idea took a long time to come together.",
+        "One early attempt was the IBM Simon Personal Communicator. It was first shown as a prototype in 1992 and went on sale in the United States on 16 August 1994. It had a long, narrow touchscreen about 4.5 inches (11 centimetres) tall, which you tapped with a plastic stylus. Besides making calls, it could send faxes and emails and had a calendar, an address book, a calculator and a notepad. That is why many people call it the first smartphone. But it weighed about half a kilogram, cost $899 or more, and its battery lasted only about an hour of use. About 50,000 were sold before it was discontinued in early 1995.",
+        "Over the next ten years, phones became smaller and smarter. Some had tiny keyboards for email. Others had small cameras, colour screens and simple games. But the screens were small, the web pages were hard to read and the buttons were fiddly.",
+        "On 9 January 2007, at a conference in San Francisco, Steve Jobs of Apple announced the iPhone. It had a 3.5-inch touchscreen that you used with your fingers, not a stylus, and it could understand two fingers at once, so you could pinch to zoom in on a photo or a map. It went on sale in the US on 29 June 2007. Inside was an ARM-based processor made by Samsung. In July 2008 Apple opened the App Store, where outside programmers could sell or give away their own apps. Suddenly, a phone could become almost any tool someone could think up.",
+        "Google took a different path. It developed Android, an operating system that many different phone makers could use. The first Android phone, the HTC Dream, sold in the United States as the T-Mobile G1, was announced in September 2008 and went on sale on 20 October 2008. It had a slide-out keyboard. Because so many companies could make Android phones, at many different prices, Android became the most widely used phone system in the world.",
+        "Tablets followed. Apple's iPad, launched in 2010, was like a big phone without the phone calls, and many other tablets appeared soon after. Today there are billions of smartphones in use. For many people, especially in places where desktop computers were always too expensive, a phone is their first and only computer. Compare that with the 1940s, when a computer filled a room and only a few experts could use it."
+      ]
+    },
+    {
+      "heading": "Hidden Computers All Around You",
+      "paragraphs": [
+        "Here is a surprising fact: most computers are not laptops or phones. They are hidden inside other things. These are called embedded computers or embedded systems, which means small computers built into a larger machine to do one particular job. They usually have no keyboard and no screen of their own, and many people never realise they are there.",
+        "Some of the earliest embedded computers were built for rockets and spacecraft. The Autonetics D-17, released in 1961, guided the Minuteman missile, and was an early example made in large numbers. The Apollo Guidance Computer, which you met in Part 13, steered astronauts to the Moon and back, and is often called one of the first recognisably modern embedded systems.",
+        "Today embedded computers are everywhere. A modern car contains many small computers, controlling the engine, the anti-lock brakes that stop the wheels skidding, the airbags, the air conditioning and the entertainment screen. A washing machine uses one to choose water temperatures, spin speeds and timings. A microwave oven has one behind its buttons. So do digital watches, TV remote controls, traffic lights, lifts, toys, electric toothbrushes and smart speakers. In hospitals, embedded computers run heart monitors, insulin pumps and the huge MRI and CT scanners that take pictures inside the body. Pacemakers, tiny devices placed inside people's chests to keep their hearts beating steadily, contain computer chips too.",
+        "An estimate from 2009 suggested that about 98 percent of all microprocessors manufactured end up in embedded systems rather than in personal computers. The exact number today is hard to measure, but the idea is clear: if you counted all the computers in your home, the ones you can see would be only a small part of the total.",
+        "Small, cheap computers also became a great way to learn. In 2012 a charity called the Raspberry Pi Foundation, set up in Cambridge by a group that included engineer Eben Upton, launched the Raspberry Pi. It was a bare circuit board about the size of a credit card, with an ARM-based processor, and it cost about $35. The goal was to help young people learn how computers really work and how to program them, a bit like the BBC Micro had done thirty years before. People plug in a keyboard, a mouse and a TV, then use it to code games, build robots, run weather stations or control lights. By 2026, more than 75 million Raspberry Pi computers had been sold, and many are now used in factories and businesses as well as classrooms."
+      ]
+    },
+    {
+      "heading": "How Computers Changed Work and Science",
+      "paragraphs": [
+        "As computers spread, they changed almost every kind of job. In offices, typewriters and filing cabinets gave way to word processors, spreadsheets and email. Accountants who once spent days adding up columns by hand could let a spreadsheet update every total in an instant. Architects and engineers started using CAD, which stands for computer-aided design, to draw buildings, bridges, cars and aeroplanes on screen in 3D, testing them before anything was built.",
+        "In factories, computer-controlled machines cut metal with great accuracy, and industrial robots weld car bodies and paint them. In banks, computers keep track of billions of payments, and cash machines let people take out money at any hour. Shops use barcodes, scanned by computer, to keep track of what they sell. Newspapers, films, music and video games are all made on computers now. Even farms use computers to guide tractors and measure the soil.",
+        "Science changed too. Astronomers use computers to steer telescopes and to sort through enormous amounts of data. Biologists use them to read the genetic code of living things. Doctors use them to look inside the body and to study diseases. Weather forecasters feed millions of measurements into computer models to predict tomorrow's rain. Many experiments that would be too dangerous, too expensive or too slow to do for real can now be tried first as computer simulations.",
+        "There is another huge part of this story: computers joining together into networks, and those networks becoming the Internet and then the World Wide Web. That is such a big and important tale that it has its own separate Deep Dive, so we will not tell it here. Just remember that the Internet and the Web are not the same thing, and that both depend on the computers you have been reading about.",
+        "In about sixty years, computers went from a single PDP-1 at MIT with a spaceship game, to billions of devices in pockets, kitchens, cars and hospitals. They made life easier, faster and often more fun. But anything this powerful and this common also brings new problems, from tiny software mistakes that destroy rockets to mountains of old gadgets thrown away. That is where we go next."
+      ]
+    }
+  ],
+  "deepDive": "Why did ARM, rather than the most powerful desktop chips, end up in nearly every phone? The answer lies in a trade-off that engineers call performance per watt. A processor's power use rises with the number of transistors switching and with how fast its clock ticks. Intel's x86 chips for desktop PCs were optimised for raw speed, with complex instructions inherited from the 1970s. The RISC approach behind ARM kept the instruction set small and regular, so the first ARM chips needed only around 25,000 to 30,000 transistors, a fraction of their rivals. When battery life became the deciding factor in the 1990s and 2000s, ARM's efficiency mattered more than raw speed. The business model was just as important as the engineering. Arm licenses its designs instead of manufacturing chips, so Apple, Samsung, Qualcomm, MediaTek and many others can each build their own system-on-a-chip (a single chip containing the processor, graphics, memory controllers and radios) around an Arm core. That flexibility let thousands of products share one software ecosystem. In 2020 Apple began moving its Mac computers from Intel processors to its own Arm-based chips, a sign that efficiency had become important even in laptops and desktops. Historians of technology also point out how many 'firsts' in this part are debatable. The Simon is often called the first smartphone, but its name was not used then, and other devices such as personal digital assistants had already combined several functions. The Odyssey was the first commercial home console, but earlier experiments, including William Higinbotham's 'Tennis for Two' (1958), displayed games on screens. Embedded systems blur the line further: is a washing-machine controller a 'computer'? By the glossary's definition, which says a computer follows a stored list of instructions to process information, yes. That is why counting the world's computers is so hard, and why estimates run into the tens of billions of devices.",
+  "funFact": "A few days after the first Pong machine was installed in a California bar in 1972, it stopped working because its coin box was jammed full of quarters.",
+  "check": {
+    "q": "Which British company's engineers, Sophie Wilson and Steve Furber, designed the low-power ARM chip that now runs almost every smartphone?",
+    "a": "Acorn Computers",
+    "wrong": [
+      "IBM",
+      "Atari",
+      "Osborne Computer Corporation"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Spacewar!",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spacewar!"
+    },
+    {
+      "title": "Pong",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pong"
+    },
+    {
+      "title": "Magnavox Odyssey",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Magnavox_Odyssey"
+    },
+    {
+      "title": "ARM architecture family",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ARM_architecture_family"
+    },
+    {
+      "title": "Sophie Wilson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sophie_Wilson"
+    },
+    {
+      "title": "Osborne 1",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Osborne_1"
+    },
+    {
+      "title": "IBM Simon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/IBM_Simon"
+    },
+    {
+      "title": "Raspberry Pi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Raspberry_Pi"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Spacewar! running on the round screen of a DEC PDP-1 computer at the Computer History Museum",
+      "search": "Spacewar PDP-1 Computer History Museum"
+    },
+    {
+      "want": "The Osborne 1 portable computer opened up, showing its small screen, floppy drives and keyboard lid",
+      "search": "Osborne 1 portable computer"
+    },
+    {
+      "want": "A Raspberry Pi circuit board, the credit-card-sized computer for learning",
+      "search": "Raspberry Pi Model B board"
+    }
+  ]
+}

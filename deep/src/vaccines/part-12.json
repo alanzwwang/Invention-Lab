@@ -1,0 +1,148 @@
+{
+  "n": 12,
+  "title": "Inside a Vaccine: Types, Making and Testing",
+  "when": "1900s – today (science)",
+  "summary": "There are lots of ways to make a vaccine: weakened germs, killed germs, harmless germ pieces and even instructions for your cells. Vaccines are grown in eggs, in cells and even in yeast, then tested very carefully on volunteers. Finally they travel all the way to clinics in a chain of fridges that must never get too warm.",
+  "sections": [
+    {
+      "heading": "Many Ways to Make a Wanted Poster",
+      "paragraphs": [
+        "At the end of the last part we learned that a vaccine is really a wanted poster: something that shows the immune system what a germ looks like, without the danger of the real disease. But there are many ways to make a poster. You could use a photograph, a pencil sketch, a description of one striking feature, or even a set of instructions for drawing the face yourself. Vaccine scientists have found ways to do all of these, and each kind of vaccine has its own strengths.",
+        "The oldest kind is the live attenuated vaccine. Attenuated means weakened. These vaccines contain a living germ that has been tamed so it can still multiply a little inside the body but causes little or no illness. Jenner's cowpox was a sort of natural cousin of this idea, and Pasteur deliberately weakened germs in his laboratory. Today the measles, mumps and rubella vaccines are live attenuated vaccines, and so is Max Theiler's yellow fever vaccine, 17D, which you met in part 9. Theiler weakened the yellow fever virus by growing it again and again in tissue from mouse and chicken embryos, passing it from one culture to the next many times over, until a version appeared that no longer caused serious illness.",
+        "Because a live attenuated germ copies itself for a while, the immune system sees it in much the way it would see a real infection, and the memory it builds is often strong and long-lasting. One or two doses may be enough. The trade-off is that live vaccines are usually not given to people whose immune systems are seriously weakened, since even a tamed germ could cause trouble in a body that cannot control it. Many live vaccines are also fussy about temperature, as we will see later.",
+        "The next kind is the inactivated vaccine. Inactivated means killed. The germ is grown in large amounts and then treated with heat or chemicals, such as formaldehyde, so that it can no longer multiply at all. The killed germ still wears its name tags, so the immune system can learn from it. Jonas Salk's polio vaccine, which you will meet in part 14, works this way, as do the hepatitis A vaccine, rabies vaccines and many flu shots. Inactivated vaccines cannot cause the disease, but because the germ does not multiply, they often need several doses or boosters to build strong memory.",
+        "A third kind, the toxoid, is for bacteria whose main weapon is a poison. In part 9 you read how Gaston Ramon learned to treat toxins with formaldehyde and heat so they lost their poison but kept their shape. The tetanus and diphtheria vaccines are toxoids. They do not teach the body to attack the bacteria themselves, but to neutralise the toxin, which is the part that makes people ill."
+      ]
+    },
+    {
+      "heading": "Just the Pieces: Subunits, Sugars and New Ideas",
+      "paragraphs": [
+        "Scientists then asked a clever question: does the immune system really need the whole germ? Maybe just one well-chosen piece would be enough, like a wanted poster that shows only the thief's unmistakable tattoo. This idea led to subunit vaccines, which contain only selected parts of a germ, usually proteins.",
+        "The hepatitis B vaccine is a famous example. Hepatitis B is a virus that attacks the liver. The first hepatitis B vaccine, approved in the United States in 1981, was made by collecting the virus's surface protein from the blood plasma of people who already carried the virus, and purifying it very carefully. It worked, but people worried about anything made from human blood. So scientists turned to genetic engineering. They took the gene for the virus's surface protein and placed it inside baker's yeast, the same kind of yeast used to make bread rise. The yeast cells then manufactured the viral protein, and nothing else from the virus. On 23 July 1986 the US Food and Drug Administration approved this yeast-made vaccine, developed with Maurice Hilleman's team at Merck. It was the first human vaccine made using recombinant DNA, which means DNA cut and joined in the laboratory. Part 16 tells more of this story.",
+        "Some subunit vaccines use a neat trick: virus-like particles. The HPV vaccine, which you will meet in part 19, contains copies of a virus's outer shell protein that clump together into tiny hollow balls that look like the virus from the outside but have no genes inside. To the immune system they look just like the real thing, but they are as empty as a chocolate egg with no toy.",
+        "Then there are germs that hide behind a coat of sugar. Some dangerous bacteria, such as Haemophilus influenzae type b, called Hib for short, wrap themselves in a slippery sugar capsule. A vaccine made only of that sugar was licensed in the United States in 1985, but it worked poorly in children under about 18 months, exactly the age group most at risk of Hib meningitis, a serious infection of the lining around the brain. The reason was that babies' immune systems cannot easily get T cell help against plain sugars, so they built weak, short memory. The solution was the conjugate vaccine. Conjugate means joined. Scientists chemically attached the sugar to a protein, such as tetanus toxoid, which the immune system responds to strongly. The protein brings in helper T cells, and the babies' B cells learn to make good antibodies and memory cells against the sugar. The first Hib conjugate vaccine was licensed in the United States in 1987. Afterwards, serious Hib disease in American children fell by more than 97 percent.",
+        "Finally there are two newer approaches, which you will explore properly in part 18. Viral vector vaccines use a harmless virus, often a weakened type of adenovirus, as a delivery van that carries a gene for one germ protein into our cells. Messenger RNA, or mRNA, vaccines skip the van and send the instructions themselves, wrapped in tiny bubbles of fat. In both cases, our own cells briefly make a harmless germ protein, which the immune system then learns to recognise. Instead of handing over a wanted poster, these vaccines hand the body a drawing kit and instructions."
+      ]
+    },
+    {
+      "heading": "What Else Is in the Vial?",
+      "paragraphs": [
+        "A vaccine dose is tiny, often about half a millilitre, which is less than a tenth of a teaspoon. The most important ingredient is the antigen, the part that does the teaching. But a few other ingredients are usually there too, each with a particular job. Knowing what they are takes away a lot of the mystery.",
+        "Adjuvants are helpers that make the immune system respond more strongly to the antigen. The word comes from the Latin for 'to help'. Scientists stumbled on adjuvants in the early 1900s when they noticed that some batches of vaccine worked better than others, and that certain impurities seemed to boost the response. In 1926 the British scientist Alexander Glenny and his colleagues reported that diphtheria toxoid mixed with a form of aluminium called alum gave a stronger immune response. Aluminium salts, such as aluminium hydroxide and aluminium phosphate, are still the most commonly used adjuvants in human vaccines today. They seem to work partly by keeping the antigen at the injection site for longer and by alerting local immune cells, like a flashing light that says: pay attention here! The amount of aluminium is very small; the WHO notes that babies take in far more aluminium from food than from vaccines. Newer adjuvants include oil-in-water emulsions and special mixtures used in some shingles and malaria vaccines. Adjuvants are especially useful in subunit vaccines, because a lone protein piece can be too quiet to wake the immune system on its own.",
+        "Stabilisers keep the vaccine working while it travels and waits on a shelf. Many antigens are delicate proteins that can fall apart or stick to the walls of the vial. Common stabilisers include sugars such as sucrose and lactose, amino acids such as glycine, gelatin, and proteins such as albumin. Surfactants, which are a bit like a very gentle soap, help keep the mixture evenly blended so it does not clump or settle.",
+        "Preservatives stop bacteria and fungi from growing in multi-dose vials, which hold several doses and are opened again and again with fresh needles. Without a preservative, a single slip could let germs into the vial and harm the next people to receive a dose. Examples include 2-phenoxyethanol and thiomersal, also called thimerosal. Single-dose vials and syringes often contain no preservative at all, because they are used only once.",
+        "There may also be tiny traces of materials used during manufacturing, called residuals. These can include small amounts of egg protein, yeast or antibiotics, measured in parts per million or even parts per billion. Some vaccines are dried into a powder and come with a diluent, usually sterile water, that is mixed in just before the vaccine is given. Every ingredient is listed on the official information sheet for each vaccine, and regulators check them all."
+      ]
+    },
+    {
+      "heading": "Vaccine Farms: Eggs, Cells and Yeast",
+      "paragraphs": [
+        "Before you can make millions of doses of a vaccine, you need to grow the antigen in huge amounts. Viruses are especially awkward, because, as you learned in part 7, they can only multiply inside living cells. So vaccine makers need a supply of living cells for the virus to grow in. Over the past century, they have used three main kinds of 'farm'.",
+        "The first is the humble chicken egg. In part 9 you met Ernest Goodpasture, whose team showed in 1931 that viruses could be grown inside fertilised hens' eggs, and Frank Macfarlane Burnet, from part 11, also became an expert in egg methods. Flu vaccines are still made this way in enormous numbers. Picture a factory where trays of fertilised eggs roll past machines. Each egg gets a tiny injection of flu virus. The eggs are then kept warm for several days while the virus multiplies in the fluid inside. Afterwards the virus-filled fluid is collected, and for most flu shots the virus is killed, purified and split into pieces. Up to three eggs can be needed to make one dose of some flu vaccines, and roughly 600 million eggs are used for flu vaccines around the world each year. This method has been in use for more than 70 years. It is reliable, but it is slow, and it needs a steady supply of special eggs months in advance.",
+        "The second kind of farm is cell culture: living animal or human cells grown in sterile flasks or giant steel tanks called bioreactors, bathed in a nutrient soup. This became possible thanks to John Enders, Thomas Weller and Frederick Robbins, who showed in 1949 that poliovirus could grow in cultures of non-nerve tissue, a breakthrough you will read about in part 13. Polio, measles, rubella, chickenpox and rabies vaccines have all been made using cell cultures. In 2012 the US approved the first flu vaccine made in cell culture instead of eggs. Cell culture can be scaled up faster, and it avoids the problem that flu viruses sometimes change slightly as they adapt to growing in eggs.",
+        "The third kind of farm uses genetic engineering to make only the antigen, with no virus involved at all. As you saw with hepatitis B, the gene for one germ protein can be placed into yeast cells, which then churn out that protein as they grow in big fermentation tanks, a bit like brewing. Other recombinant vaccines use insect cells or bacteria as the factory. A recombinant flu vaccine approved in the United States in 2013 is made by putting the gene for the flu virus's main surface protein into insect cells using a harmless insect virus as a carrier. No eggs or flu viruses are needed at any stage.",
+        "Growing the antigen is only the beginning. It must then be purified to remove almost everything else, carefully measured, mixed with the other ingredients, and filled into sterile vials or syringes in super-clean rooms where workers wear full-body suits. Every batch, called a lot, is tested for purity, strength and safety. In many countries, including the United States, government regulators can review the test results and check samples of a lot before it is released. Making and checking a batch of some vaccines can take many months from start to finish, and a large share of that time goes into testing rather than making."
+      ]
+    },
+    {
+      "heading": "Testing, Testing: From Lab Bench to Phase 3",
+      "paragraphs": [
+        "Before a new vaccine can be used, scientists must answer two big questions with real evidence. Is it safe? And does it work? Answering them carefully is a long journey with several stages, and many candidate vaccines fail along the way.",
+        "The journey starts in the laboratory with what is called preclinical research. Scientists test whether the vaccine candidate triggers an immune response in cells and in animals such as mice, and whether it causes any obvious harm. If the results look promising, the vaccine makers ask regulators for permission to begin testing in people. Tests in people are called clinical trials, and they happen in phases, with more volunteers each time.",
+        "In Phase 1, a small group of healthy adult volunteers, often about 20 to 100 people, receives the vaccine. The main goals are to check safety, to find out what side effects occur, and to look at what dose seems right. Volunteers are watched closely, and the trial can be paused at once if anything worrying happens.",
+        "In Phase 2, the vaccine is given to several hundred people, often including people more like those who would eventually receive it, such as different age groups. Scientists continue to check safety, compare doses and schedules, and measure the immune response, for example by counting antibodies in blood samples.",
+        "Phase 3 is the big test. It often involves thousands to tens of thousands of volunteers, sometimes in many countries. The volunteers are divided randomly into groups, a bit like flipping a coin for each person. One group receives the vaccine. The other group receives a placebo, a dummy injection such as salt water, or sometimes an existing vaccine against a different disease. Random assignment matters because it makes the groups as similar as possible, so any difference between them is likely to be caused by the vaccine and not by something else, such as age or where people live.",
+        "Many Phase 3 trials are also double-blind. This means that neither the volunteers nor the doctors and nurses checking on them know who got the real vaccine and who got the placebo. Why go to such trouble? Because people's expectations can sneak into results without anyone meaning them to. A volunteer who knows they got the real vaccine might report symptoms differently, and a doctor who knows might examine them differently. Blinding protects the trial from these hidden biases. A separate, independent safety board can look at the unblinded data along the way to make sure nobody is being put at risk.",
+        "At the end, scientists compare how many people in each group caught the disease. Here is a simple example. Suppose 100 people in the placebo group fall ill, but only 10 in the same-sized vaccine group do. The vaccine group had 90 percent fewer cases, so the vaccine's efficacy would be about 90 percent. Phase 3 trials are also large enough to spot side effects that are fairly uncommon, perhaps affecting one person in a thousand.",
+        "All of this takes time and money. Traditionally, developing a vaccine from the first idea to approval took 10 years or more, often between 10 and 15 years, and many candidates fail somewhere along the way. Part 18 explains how, in an emergency, some of these steps were overlapped and run in parallel, without skipping any phase."
+      ]
+    },
+    {
+      "heading": "Approval and Watching for Years Afterwards",
+      "paragraphs": [
+        "When the trials are finished, the vaccine maker sends all the results to regulators, the government agencies whose job is to decide whether a medicine is safe and effective enough to be used. Examples include the Food and Drug Administration in the United States, the European Medicines Agency in Europe, and the Medicines and Healthcare products Regulatory Agency in the United Kingdom. The WHO also runs a process called prequalification, which checks vaccines that United Nations agencies buy for lower-income countries. Regulators' experts go through the data in great detail, often thousands of pages, and they inspect the factories too. Separately, expert committees advise on who should be offered a vaccine and at what ages.",
+        "Approval is not the end of the story. Even a trial with 30,000 people cannot reveal a side effect that happens to only one person in a million. Such very rare effects only show up once a vaccine is given to millions. So vaccines keep being watched after approval, a stage often called Phase 4 or post-marketing surveillance.",
+        "Many countries run systems that collect reports of health problems after vaccination. In the United States, the Vaccine Adverse Event Reporting System, VAERS, accepts reports from anyone, including doctors, patients and parents. In the United Kingdom, the Yellow Card scheme does a similar job for all medicines. A report does not prove that a vaccine caused a problem, because people fall ill for all sorts of reasons and some events would have happened anyway. Instead, these reports act like smoke alarms. When a pattern appears, scientists investigate using other systems, such as the US Vaccine Safety Datalink, which links medical records from millions of people so researchers can compare vaccinated and unvaccinated groups.",
+        "This watching really works. Over the years, monitoring has spotted rare problems with particular vaccines, which led to changes in advice and in a few cases to vaccines being withdrawn. Part 17 tells some of those stories and explains how scientists separate real warning signs from coincidences."
+      ]
+    },
+    {
+      "heading": "The Cold Chain: Keeping Vaccines Cool",
+      "paragraphs": [
+        "Imagine you have made a perfect vaccine. Now you have to get it from a factory in one country to a small clinic in a village hundreds of kilometres from the nearest city, perhaps across deserts, mountains or rivers. And all the way, it must stay at just the right temperature. This journey is called the cold chain, and every link matters: factory, airport, national store, regional store, local clinic, and finally the cool box carried by a health worker on foot, by bicycle, by motorbike or by boat.",
+        "Most vaccines must be kept between 2 and 8 degrees Celsius, about the temperature inside a normal kitchen fridge. If they get too warm, the delicate antigens can slowly break down, and the vaccine loses its power, even though it may look exactly the same. Some vaccines, such as certain chickenpox vaccines, are stored frozen, at around minus 15 degrees or colder. A few need extreme cold: the Pfizer-BioNTech COVID-19 vaccine was first shipped at around minus 70 degrees, colder than an Antarctic winter night, which needed special ultra-cold freezers that many countries did not have.",
+        "Too cold can be a problem as well. Some vaccines, especially those containing aluminium adjuvants, are damaged if they freeze, so health workers must be careful that vials do not sit right against ice packs. Getting the temperature right in hot countries with unreliable electricity is a real engineering challenge. Engineers have developed fridges powered by solar panels, cold boxes that stay cool for days, and portable carriers padded with insulation.",
+        "One of the smartest inventions in the whole cold chain is tiny: the vaccine vial monitor, or VVM. It is a small sticker printed on the label or cap of a vaccine vial, showing a square inside a circle. The square is made of a special heat-sensitive material that slowly darkens as it is exposed to heat over time, and faster if it is hotter. As long as the square is lighter than the circle around it, the vaccine is fine to use. If the square becomes as dark as the circle, or darker, the vaccine has had too much heat and should be thrown away.",
+        "The VVM was developed by the organisation PATH working with the WHO and industry partners, and it was first used on vaccines in 1996. By 2017, more than 6.6 billion VVMs had been used. Before VVMs, a health worker could not easily tell whether a vial had been damaged on the way, so some good vaccine was wasted out of caution, and some damaged vaccine may have been given by mistake. With a glance at a tiny square, a nurse in a remote village can now know that the vaccine in their hand still works.",
+        "So a vaccine is much more than a few drops of liquid. It is a carefully chosen antigen, helped by adjuvants and stabilisers, grown in eggs, cells or yeast, tested on thousands of volunteers, checked by regulators, watched for years, and carried through a chain of fridges to the arm of one person. Now let us travel back to the 1950s, when all this science was put to its most famous test, at a time when summer meant fear of a disease that could paralyse children."
+      ]
+    }
+  ],
+  "deepDive": "Vaccine design is a series of trade-offs between how strongly a vaccine stimulates immunity, how safe it is, and how practical it is to make and deliver. Live attenuated vaccines mimic natural infection, generating antibodies, T cell responses and often mucosal immunity, so single doses can give long protection. But attenuation is empirical: historically it was achieved by repeatedly passaging viruses through unnatural hosts or cell cultures until mutations reduced virulence, without knowing exactly which mutations mattered. That is why live vaccines must be checked for genetic stability and are generally avoided in people with seriously weakened immune systems. Inactivated, subunit and toxoid vaccines cannot replicate and are inherently safer in that sense, but they often need adjuvants and multiple doses. Conjugate vaccines solve a specific immunological problem: polysaccharide antigens activate B cells without T cell help, giving weak, short-lived responses in infants. Linking the sugar to a carrier protein lets B cells present carrier peptides to helper T cells, producing class-switched, high-affinity antibodies and memory. Clinical trial design also involves debate. Efficacy, measured in controlled trials, is calculated as 1 minus the ratio of attack rates in vaccinated and placebo groups; effectiveness, measured afterwards in real-world use, can differ because populations, circulating strains and conditions vary. Placebo-controlled trials raise ethical questions when an effective vaccine already exists; in such cases trials often compare against the existing vaccine instead. Endpoints matter too: a vaccine may prevent severe disease better than mild infection, and trials sized to detect one outcome may be underpowered for another. Rare adverse events at rates of one in 100,000 or less cannot be detected reliably by trials of 30,000 people, which is why post-licensure systems combine passive reporting, such as VAERS and Yellow Card, with active surveillance using linked health records. Finally, logistics shape global impact. Heat-stable formulations, freeze-dried products, multi-dose vials and devices like vaccine vial monitors may sound unglamorous, but they often decide whether a vaccine reaches the children who need it most.",
+  "funFact": "Roughly 600 million chicken eggs are used every year to help make flu vaccines around the world.",
+  "check": {
+    "q": "What does it mean when the square on a vaccine vial monitor becomes as dark as the circle around it?",
+    "a": "The vaccine has been exposed to too much heat and should not be used",
+    "wrong": [
+      "The vaccine is fully mixed and ready to use",
+      "The vaccine has been frozen and must be warmed up",
+      "The vaccine has passed its Phase 3 trial"
+    ]
+  },
+  "sources": [
+    {
+      "title": "How are vaccines developed?",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news-room/feature-stories/detail/how-are-vaccines-developed"
+    },
+    {
+      "title": "Influenza vaccine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Influenza_vaccine"
+    },
+    {
+      "title": "Immunologic adjuvant",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Immunologic_adjuvant"
+    },
+    {
+      "title": "Hepatitis B vaccine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hepatitis_B_vaccine"
+    },
+    {
+      "title": "Hib vaccine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hib_vaccine"
+    },
+    {
+      "title": "How influenza (flu) vaccines are made",
+      "publisher": "CDC",
+      "url": "https://www.cdc.gov/flu/vaccine-process/index.html"
+    },
+    {
+      "title": "Vaccine Development, Testing, and Regulation",
+      "publisher": "History of Vaccines (College of Physicians of Philadelphia)",
+      "url": "https://www.historyofvaccines.org/content/articles/vaccine-development-testing-and-regulation"
+    },
+    {
+      "title": "Vaccine vial monitor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vaccine_vial_monitor"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Close-up photo of a vaccine vial monitor (square inside a circle) on a vaccine vial label",
+      "search": "vaccine vial monitor"
+    },
+    {
+      "want": "Photo of fertilised chicken eggs being used in influenza vaccine production",
+      "search": "influenza vaccine eggs production"
+    },
+    {
+      "want": "Health worker carrying an insulated vaccine carrier or cold box, part of the vaccine cold chain",
+      "search": "vaccine carrier cold chain"
+    }
+  ]
+}

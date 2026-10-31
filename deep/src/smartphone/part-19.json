@@ -1,0 +1,152 @@
+{
+  "n": 19,
+  "title": "Phones of Today and Tomorrow",
+  "when": "2018 – future",
+  "summary": "Today some phones fold in half like a book, and some can send a text to a satellite when you are lost in the wilderness! Phones are also getting little brains for artificial intelligence. In this part we look at the newest phones and make some careful guesses about what might come next.",
+  "sections": [
+    {
+      "heading": "A Phone That Bends Like Paper",
+      "paragraphs": [
+        "For about ten years after the iPhone arrived, almost every smartphone looked the same: a flat glass rectangle with rounded corners. Phone makers made the screens a little bigger each year, shaved off a millimeter here and there, and added more cameras on the back. But there was a problem they could not get around. People wanted bigger screens for watching videos, reading and playing games, yet a phone still had to fit in a pocket. A bigger rectangle is simply a bigger rectangle. So engineers asked a strange question: what if the screen could fold?",
+        "The idea was not new. Back in 2008, Nokia showed a concept called the Morph, a dreamy bendable phone that could wrap around your wrist. It was only a vision of the future, not something you could buy. In 2013 Samsung showed off flexible screen prototypes it nicknamed 'Youm'. Other companies tried a sneakier trick: they glued two separate screens side by side with a hinge in the middle, like the Kyocera Echo in 2011 and the ZTE Axon M in 2017. Those phones folded, but there was always a thick black gap down the middle of the picture.",
+        "What made a true folding phone possible was the OLED screen, which you met in Part 10. Remember that in an OLED display each tiny pixel makes its own light. That means you do not need a stiff backlight panel behind it. If the light-making layers are printed onto thin, bendy plastic instead of glass, the whole screen can flex. Engineers had been making flexible OLED panels for curved phone edges and smartwatches for a few years. The next step was to bend one all the way over without breaking it.",
+        "The first company to actually sell a phone like this was a young Chinese company called Royole, started in 2012 by graduates of Stanford University in California. In late 2018 Royole revealed the FlexPai, a device with a screen of about 7.8 inches that could be used flat like a small tablet or folded outward so the screen wrapped around both sides like a phone. It went on sale in China around the end of 2018, which is why it is usually credited as the world's first commercially available foldable smartphone with a flexible screen.",
+        "Reviewers were amazed that it existed at all, but they were not so kind about how it worked. The FlexPai was thick when folded, the software was clumsy, and the bendy screen had a slightly wavy, plasticky look. In other words, it was a lot like the DynaTAC brick in Part 2: a proof that something could be done rather than a polished product most people would want. Royole later ran into serious money troubles, and by 2024 the company was reported to have gone bankrupt. Being first, as we keep discovering in this story, is no guarantee of success."
+      ]
+    },
+    {
+      "heading": "Samsung's Rocky Unfolding",
+      "paragraphs": [
+        "Samsung, one of the biggest phone makers on Earth, had been working on bendable screens for years. On February 20, 2019, at an event in San Francisco, it unveiled the Galaxy Fold. Unlike the FlexPai, the Fold folded inward like a book, so the big screen was protected on the inside when it was closed. On the outside was a smaller screen of about 4.6 inches that you could use like a narrow ordinary phone. Open it up and you had a 7.3-inch screen, almost the size of a small tablet. It weighed about 263 grams, heavier than most phones, and it cost about $1,980 in the United States, roughly twice the price of a top normal phone.",
+        "Samsung planned to start selling it on April 26, 2019, and sent early units to technology reviewers a couple of weeks before. That is when things went wrong. Within days, several reviewers reported that their screens had broken. Some had peeled off what looked like a plastic screen protector, the kind people often remove from new phones. But on the Fold this thin layer was actually part of the screen itself, and pulling it off damaged the display. Other reviewers had not peeled anything, yet their screens developed bumps or stopped working.",
+        "When the repair experts at iFixit took a Fold apart, they found small gaps at the top and bottom of the hinge. Dust and tiny bits of grit could sneak in through those gaps and get trapped under the soft plastic screen. Every time the phone closed, the grit was pressed into the display from behind, a bit like stepping on a pebble inside a sleeping bag. On April 22, 2019, just days before the launch, Samsung delayed the Fold and called back the review units.",
+        "Samsung engineers spent the summer redesigning parts of the phone. They added little caps to close the gaps around the hinge, stretched the top protective layer out under the edges of the frame so people could not peel it off, and added extra metal layers under the screen to make it sturdier. The Fold finally went on sale in South Korea on September 6, 2019, and in the United States on September 27. It came with a warning card asking owners to be gentle, not to press hard on the screen with fingernails, and not to remove the protective layer.",
+        "Even after the fix, some people tested how many times the hinge could open and close. Samsung said it was designed for 200,000 folds, which would be about 100 folds a day for more than five years. A test by the technology website CNET used a folding machine and found the hinge in its test lasted about 120,000 folds before it had problems. That is still a lot of folding, but it showed how hard it is to make a moving part that people use dozens of times every day.",
+        "The Galaxy Fold's bumpy start became a famous lesson in technology circles. It showed that inventing a new kind of object is about much more than a clever screen. You have to think about dust, fingernails, pockets, pocket lint, cold weather, and people who peel things off without reading the instructions. Samsung kept improving the design every year, and its later Galaxy Z Fold phones became some of the best-known foldables in the world."
+      ]
+    },
+    {
+      "heading": "Flip Phones Come Back From the Past",
+      "paragraphs": [
+        "Not everyone wanted a phone that turned into a tablet. Some people wanted the opposite: a normal-size phone that folded into something tiny. In Part 3 you met the Motorola StarTAC, and in Part 7 the super-thin Motorola Razr, both flip phones that snapped shut with a satisfying click. Phone makers realized that a folding screen could bring that old shape back, but with a full modern touchscreen inside.",
+        "In November 2019 Motorola announced a new Razr with a bendable screen that folded across the middle, deliberately designed to remind people of the famous Razr V3 from 2004. A few months later, on February 11, 2020, Samsung announced the Galaxy Z Flip, which folded the same way, from a tall phone into a small square that fits easily in a small pocket. The Z Flip had a 6.7-inch main screen and a tiny 1.1-inch screen on the outside that showed the time and notifications.",
+        "The Z Flip also introduced an important material. The Galaxy Fold's screen was covered with a layer of plastic, which scratches easily and can feel soft under your fingernail. The Z Flip was the first foldable phone covered with what Samsung called 'ultra-thin glass'. Glass usually shatters if you bend it, but if you make it thin enough, much thinner than a sheet of paper, it becomes flexible. It is the same reason a thick wooden plank snaps while a thin wooden ruler can bend. Engineers made the glass thin enough to bend and then strengthened it, using ideas similar to the ion-exchange trick for toughening glass that you met in Part 10.",
+        "Every foldable has to deal with the crease, the faint line across the middle where the screen bends. Early models had a very visible crease, and you could feel it under your finger. Newer designs use a clever 'waterdrop' hinge. Instead of bending the screen into a sharp fold, the hinge lets it curl into a rounded loop shaped a bit like a teardrop when the phone is closed. A gentler curve puts less strain on the screen, so the crease is smaller and the phone can close flat with no gap.",
+        "Foldables kept getting wilder. On September 10, 2024, the Chinese company Huawei announced the Mate XT, often described as the first commercially available 'tri-fold' phone. It folded twice, like a three-panel brochure, and opened into a screen of about 10.2 inches, as big as many tablets. Unfolded, its thinnest panel was only about 3.6 millimeters thick, less than the thickness of three stacked coins. It was also very expensive: about 19,999 yuan in China for the basic model, around $2,800.",
+        "So are folding phones the future? Nobody knows for sure. They are still a small slice of all phones sold, because they cost more, weigh more and are more fragile than ordinary slabs. But each year they get a little thinner, tougher and cheaper. It is a bit like the early brick phones: expensive toys for some people at first, which may or may not become normal for everyone."
+      ]
+    },
+    {
+      "heading": "Texting From Beyond the Last Tower",
+      "paragraphs": [
+        "In Part 12 you learned that a phone talks to cell towers, and each tower covers only a small area. That works brilliantly in cities and along busy roads. But huge parts of the planet have no towers at all: deserts, high mountains, deep forests, the open ocean and lots of countryside. If you break your leg on a hiking trail far from any town, an ordinary phone might show the dreaded words 'No Service'. For most of history, the only way to call for help from such places was a special satellite phone with a big antenna, which most people did not own.",
+        "On September 7, 2022, Apple announced the iPhone 14 with a new feature called Emergency SOS via satellite. It started working in the United States and Canada on November 15, 2022, and soon after in the UK, France, Germany and Ireland, then Australia and New Zealand in 2023. For the first time, an ordinary pocket phone sold to millions of people could send a text message for help through a satellite, with no extra gadget.",
+        "How does it work? The satellites belong to a company called Globalstar. They circle Earth in low orbit, roughly 1,400 kilometers up, which is much closer than GPS satellites (about 20,200 kilometers) but still enormously far for a tiny phone antenna that was never designed to reach space. The signal is very weak, so the phone cannot stream a video or even make a voice call. Instead, it sends very short text messages, very slowly. Apple's engineers built a special compression system that squeezes messages to about a third of their normal size, so fewer bits have to cross that huge distance.",
+        "Because the antenna is small, you have to help it. When the phone finds no cell signal, the screen shows an arrow telling you which way to point the phone toward a satellite, and asks you to step out from under trees if you can. The satellites are moving quickly across the sky, so the arrow keeps updating as they pass. Under a clear sky a message can get through in about 15 seconds, but under leaves or between cliffs it can take minutes.",
+        "To save precious bits, the phone first asks a few quick questions you answer with taps: What is the emergency? Is anyone hurt? Who needs help? It packs those answers into the first message together with your location (even your height above sea level), your battery level and, if you have set it up, your medical information. The message bounces from the satellite down to a ground station and then to emergency services, or to a relay center where trained staff can phone the rescuers for you. In the years after launch, news reports described hikers, drivers in remote areas and people caught in storms who were found after using it.",
+        "Apple was not alone. Also in 2022, Huawei's Mate 50 phones in China could send short messages through China's BeiDou navigation satellites. In 2024 Google added a Satellite SOS feature to its Pixel 9 phones. And companies including SpaceX, with its Starlink network, began launching satellites that act like 'cell towers in space', able to talk to ordinary phones that were never designed for satellites at all. Think back to Part 1: in 1946 a car phone weighed about 36 kilograms and could only reach a tower a few dozen kilometers away. Now a phone lighter than an apple can reach a satellite more than a thousand kilometers overhead."
+      ]
+    },
+    {
+      "heading": "A Tiny Brain for Artificial Intelligence",
+      "paragraphs": [
+        "Artificial intelligence, or AI, means computer programs that can do jobs we used to think needed a human mind, such as recognizing faces, understanding speech or translating languages. Most modern AI works using something called a neural network, a program loosely inspired by the way brain cells connect. A neural network is trained by showing it huge numbers of examples, such as millions of photos labeled 'cat' or 'dog'. After training, it can make good guesses about new examples it has never seen. Running a trained network means doing enormous numbers of simple multiplications and additions, over and over.",
+        "In Part 11 you learned that a phone's system-on-a-chip contains several specialist parts. One of the newest is the NPU, short for neural processing unit. An ordinary processor (the CPU) is like a brilliant all-rounder who can do any job but only a few things at a time. An NPU is more like a huge team of workers who can each do only one simple sum, but all at the same moment. That makes it perfect for neural networks, and it uses far less battery than making the CPU do the same work.",
+        "Phone NPUs appeared around 2017. Huawei announced its Kirin 970 chip with a built-in NPU in September of that year, and Apple's A11 Bionic chip in the iPhone 8 and iPhone X included what Apple called the Neural Engine. Apple said it could perform up to 600 billion operations per second, and it helped power Face ID, which you met in Part 15. Only a few years later, phone NPUs were rated in the tens of trillions of operations per second. The usual measuring unit is TOPS, trillions of operations per second.",
+        "You probably use phone AI more than you realize. When your phone camera recognizes that you are photographing food or a sunset and adjusts the colors, that is AI. When the Photos app lets you search for 'dog' and finds your dog pictures without you ever labeling them, that is AI. Night mode and portrait blur from Part 14 lean heavily on it too. Voice assistants, which began with Apple's Siri in 2011 and were followed by Google Assistant and others, use AI to turn your spoken words into text and figure out what you mean. Some tools can even erase a stranger from the background of a photo and fill in the gap.",
+        "In 2024 phone makers began adding much bigger AI features. Samsung's Galaxy AI, launched with the Galaxy S24 phones in January 2024, included live translation of phone calls, so two people speaking different languages could each hear the other in their own language. In June 2024 Apple announced Apple Intelligence, with tools that could rewrite or summarize text, create small images and sum up a pile of notifications. Google built its Gemini AI into Android phones.",
+        "One big question is where the thinking happens. Some AI runs entirely on the phone's own NPU. That is faster, works without internet, and keeps your private information on your device. But the most powerful AI programs are far too big for a phone, so they run on giant computers in data centers, and the phone sends your request over the internet. Companies often mix both. Apple, for example, said simpler requests run on the iPhone while harder ones go to its own specially secured servers.",
+        "AI on phones is powerful but not perfect, and it is important to remember that. In late 2024 and early 2025, Apple's notification summaries for news apps produced some summaries that got the news badly wrong, including a false headline that was wrongly linked to the BBC. After complaints, Apple switched off summaries for news apps in a software update in early 2025 while it worked on improvements. The lesson for every phone user: AI can be a helpful assistant, but it can make confident mistakes, so important facts are always worth checking."
+      ]
+    },
+    {
+      "heading": "Peeking Into the Future: Networks and Batteries",
+      "paragraphs": [
+        "Now we step from things that already exist into things that might exist. From here on, keep your detective hat on. Everything in this section is a prediction or a plan, and predictions about technology are often wrong. In the 1990s some experts thought nobody would want to type messages on a phone. Others were sure video calling on phones would take off quickly, years before networks were fast enough. So treat what follows as educated guesses, not promises.",
+        "The first guess is about networks. In Part 12 you followed the generations from 1G to 5G, with a new one arriving roughly every ten years. Engineers around the world are already researching 6G. The International Telecommunication Union, the United Nations agency that coordinates radio frequencies between countries, has set out goals for it under the name IMT-2030, and the first 6G networks are commonly predicted to arrive around 2030. Countries including the United States, China, Japan, South Korea and India, and the European Union, all have 6G research programs.",
+        "What might 6G do? Researchers talk about even faster speeds, even lower delays, and networks that use far less energy per bit of data. Some lab tests have pushed huge amounts of data through the air. In 2022, for example, Samsung reported a test that sent about 12 gigabits per second over a distance of 30 meters, fast enough to download a full-length movie in a few seconds. Engineers have studied very high 'terahertz' frequencies, but those waves are easily blocked by walls, rain and even your hand, so more recently attention has also turned to middle frequencies. Other ideas include building satellites into the normal network so there are no dead zones, and letting the network itself use radio waves to sense movement, a bit like a gentle radar. Which of these ideas will survive into real phones is still being decided.",
+        "The second guess is about batteries, which many people say is the thing they would most like to improve. As you learned in Part 13, a lithium-ion battery moves lithium ions through a liquid called the electrolyte. That liquid can burn if the battery is badly damaged. A solid-state battery replaces the liquid with a solid material. Funnily enough, the scientist Michael Faraday discovered materials that let ions move through a solid way back in the 1830s, but making practical solid-state batteries has proved extremely difficult.",
+        "If they work, solid-state batteries might hold more energy for their weight and be less likely to catch fire. The problem is that lithium tends to grow tiny metal needles called dendrites, which can push through the solid layer and cause a short circuit. Solid-state batteries are also hard and expensive to manufacture. Car makers such as Toyota, Nissan and Honda have announced plans for the late 2020s or 2030s, but as of the mid-2020s these batteries had not yet arrived in ordinary phones. Meanwhile, some phone makers, especially in China, began using improved 'silicon-carbon' batteries, which pack in a bit more energy using a different material in one electrode. Better batteries usually arrive through many small steps rather than one miracle.",
+        "Some changes are about rules rather than inventions. The European Union passed a law in 2022 saying that new phones and many other gadgets sold there must use the same USB-C charging port by the end of 2024. Apple had used its own Lightning connector since the iPhone 5 in 2012. In September 2023 Apple released the iPhone 15 with USB-C, partly because of the EU's law. That means one cable can now charge most phones, laptops and headphones, which saves money and cuts down on piles of unused chargers."
+      ]
+    },
+    {
+      "heading": "Will Something Replace the Smartphone?",
+      "paragraphs": [
+        "Here is the biggest prediction question of all. Smartphones have been the center of digital life since about 2010. But remember what happened in this story: the car phone was replaced by the brick, the brick by the flip phone, the PDA swallowed by the smartphone, and the keyboard BlackBerry pushed aside by the touchscreen. Why should today's glass slab last forever?",
+        "One possible replacement is smart glasses. Imagine directions floating in front of your eyes as you walk, a friend's name appearing when you meet them, or a translation of a menu shown right on top of the real menu. This mix of computer images layered onto the real world is called augmented reality, or AR. Google tried early smart glasses called Google Glass, offered to developers in 2013 for $1,500. They had a tiny prism in front of one eye that worked as a screen. But many people felt uneasy about a camera on someone's face that might be recording them, some places banned them, and Google stopped selling them to ordinary consumers in January 2015. Glass lived on for a few years in factories and warehouses before it was discontinued in 2023.",
+        "Other companies are trying again. Ray-Ban and Facebook (which renamed itself Meta that same year) began selling camera glasses in 2021 that can take photos, play music and answer questions, though without a real display. Apple released the Vision Pro, a headset that blends the real world with digital images, in 2024, priced at $3,499. In 2024 Meta also showed a prototype AR glasses design called Orion. These products show the dream is alive, but glasses with bright displays, all-day batteries, low prices and a normal look are still very hard to make.",
+        "Another possibility is that the phone becomes the quiet hub of a whole team of wearables: a smartwatch on your wrist, earbuds in your ears, a ring that measures your sleep, perhaps glasses later on. Many people already leave their phone in a bag and check messages on a watch. In that future you might look at your phone much less, even if it is still in your pocket doing the hard work.",
+        "And then there is the possibility nobody has thought of yet. In 1973 nobody predicted that phones would become cameras, maps and music players. Martin Cooper, whose first handheld call you read about in Part 2, has often said that a phone should belong to a person, not to a place. Perhaps the next big step continues that idea in ways we cannot guess, such as voice-only assistants that go everywhere with you, or something much stranger. Predictions are fun, but the honest answer is that the future of the phone has not been invented yet.",
+        "Before we guess any further, it is worth looking back at how far we have already come. In 1946 a 'mobile' phone was a 36-kilogram radio bolted into a car trunk, sharing a handful of channels with an entire city. Today a phone you can fold in half can find a satellite racing across the sky, translate a conversation as it happens and recognize your face in the dark. In the final part of this Deep Dive we will lay the whole journey out from start to finish, from Bell's wires and Cooper's brick to the phone that talks to space, and see what it can teach us about how inventions really happen."
+      ]
+    }
+  ],
+  "deepDive": "Why are foldables, satellite phones and on-device AI so hard? Each pushes against basic physics. A folding screen must survive the strain of bending. When a sheet bends, its outer surface stretches and its inner surface squeezes; the thinner the sheet, the smaller that strain. That is why ultra-thin glass works where ordinary glass shatters, and why 'waterdrop' hinges, which bend the screen around a wider loop, put less stress on it than a sharp crease. Satellite texting fights the inverse-square law: a radio signal spreads out so that, at twice the distance, it is only a quarter as strong. Low-orbit Globalstar satellites about 1,400 km up are tens of times farther away than a typical cell tower, so the signal arriving from a palm-sized antenna is extremely faint. Engineers respond by sending tiny compressed messages at very low data rates and asking the user to point the phone, which is why a short text can take from about 15 seconds to several minutes. Newer 'direct-to-cell' satellites carry very large antennas so that unmodified phones can connect, an approach still being rolled out in the mid-2020s. On-device AI is limited mainly by energy and memory. A neural network's job is dominated by multiply-and-add operations; an NPU does thousands of these in parallel, often using low-precision numbers (8-bit or even 4-bit instead of 32-bit) because neural networks still work well with rougher arithmetic and each smaller number costs less energy to move. Apple's 2017 Neural Engine was rated at 600 billion operations per second; flagship phone NPUs a few years later were rated in the tens of trillions. Even so, the largest AI models need far more memory than a phone has, which is why companies split work between phone and cloud, a choice with real trade-offs for privacy, speed and cost. For 6G, the debate is about spectrum: very high frequencies offer enormous bandwidth but travel poorly through walls and rain, so engineers expect a mix of bands. Forecasts here deserve caution; 3G and 5G both took years longer than early boosters suggested to change daily life, and some heavily hyped ideas never became mainstream at all.",
+  "funFact": "The Huawei Mate XT tri-fold phone of 2024 unfolds into a screen of about 10.2 inches, yet its thinnest panel is only about 3.6 millimeters thick.",
+  "check": {
+    "q": "Why did Samsung delay the first Galaxy Fold in April 2019?",
+    "a": "Review units' screens broke, partly from peeling off a layer that was part of the screen and from debris getting in through gaps at the hinge.",
+    "wrong": [
+      "The battery was too small to turn the phone on",
+      "The phone could not connect to any cell towers",
+      "The European Union banned folding phones"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Samsung Galaxy Fold",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_Fold"
+    },
+    {
+      "title": "Foldable smartphone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Foldable_smartphone"
+    },
+    {
+      "title": "Huawei Mate XT",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Huawei_Mate_XT"
+    },
+    {
+      "title": "Emergency SOS via satellite available today on iPhone 14 lineup",
+      "publisher": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2022/11/emergency-sos-via-satellite-available-today-on-iphone-14-lineup/"
+    },
+    {
+      "title": "Globalstar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Globalstar"
+    },
+    {
+      "title": "Apple A11",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Apple_A11"
+    },
+    {
+      "title": "6G",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/6G"
+    },
+    {
+      "title": "Solid-state battery",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Solid-state_battery"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A Samsung Galaxy Fold or Galaxy Z Fold smartphone shown open like a small tablet",
+      "search": "Samsung Galaxy Fold unfolded"
+    },
+    {
+      "want": "A flip-style foldable phone such as the Samsung Galaxy Z Flip, folded or half-open",
+      "search": "Samsung Galaxy Z Flip"
+    },
+    {
+      "want": "Google Glass smart glasses, an early attempt at augmented-reality eyewear",
+      "search": "Google Glass Explorer Edition"
+    }
+  ]
+}

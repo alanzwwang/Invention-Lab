@@ -1,0 +1,156 @@
+{
+  "n": 17,
+  "title": "Hackers, Viruses and Secret Codes",
+  "when": "1970s – today",
+  "summary": "The early Internet trusted everybody, so tricksters soon found ways to sneak in with viruses, worms and fake messages. Clever people fought back with secret codes that anyone can lock but only you can unlock. That little padlock in your browser is one of those codes at work!",
+  "sections": [
+    {
+      "heading": "A Network Built on Trust",
+      "paragraphs": [
+        "Imagine a club so small that every member knows every other member by name. Nobody locks the clubhouse door, nobody checks who is coming in, and if a note is pinned to the noticeboard signed \"Bob\", everyone assumes Bob wrote it. That is roughly what the early ARPANET was like. In 1971 it linked only a couple of dozen computers, mostly at universities and research labs, and the people using them were scientists, engineers and students who often knew each other personally or had met at conferences.",
+        "The builders of the network had a very clear job: move packets from one place to another, reliably and cheaply. They were brilliant at it. But security was not on their list of goals. The packet-switching rules you met earlier in this story, and later TCP/IP, carried a sender's address on every packet, yet nothing checked that the address was true. Email worked the same way. When you sent a message, your computer simply wrote who it was from, and the receiving computer believed it.",
+        "Why would clever people design things like that? Computers were rare and lived in locked machine rooms, and anyone using the network already had permission to be in a university or government lab. Extra checks would have made everything slower and more complicated for an experiment that might not even work. The 'end-to-end' idea also meant the middle of the network was kept simple on purpose: routers just passed packets along, and any clever work, including security, was left to the computers at the edges.",
+        "Even in this friendly world, the first hints of trouble appeared early. In 1971 Bob Thomas, a programmer at BBN, the company that had built the ARPANET's message-switching computers, wrote an experimental program called Creeper. It hopped from one DEC PDP-10 computer to another across the network and printed a cheeky message on the screen: \"I'M THE CREEPER : CATCH ME IF YOU CAN.\" Ray Tomlinson, the same engineer who had just sent the first network email, improved it so that it copied itself instead of just moving. Then he wrote a second program, Reaper, which travelled around the network looking for Creeper and deleting it.",
+        "Creeper did no damage. At most a few dozen machines could have been visited, and it was more of a playful test than an attack. But it proved something important: a program could travel across a network all by itself. Many historians call Creeper the first computer worm, and Reaper the first antivirus program.",
+        "As the years passed, the club grew into a city, and then into a planet; in 1988 the Morris worm, which you read about earlier, slowed thousands of computers to a crawl. Today about six billion people use the Internet. Most are honest, but not everyone. The trusting design is still underneath everything, so engineers have spent decades adding locks, alarms and guards on top. This part is the story of those locks, and of the tricksters they are meant to stop."
+      ]
+    },
+    {
+      "heading": "A Zoo of Malware",
+      "paragraphs": [
+        "Harmful software has a general name: malware, short for 'malicious software'. Malicious means meant to cause harm. Just as animals in a zoo are sorted into groups, security experts sort malware by how it spreads and what it does. Knowing the names helps you understand the news.",
+        "A virus is a piece of code that attaches itself to something else, such as a program or a document, a bit like a burr sticking to a dog's fur. It only spreads when that thing is shared and opened. One of the earliest known personal-computer viruses, Elk Cloner, was written in 1982 by Rich Skrenta, a 15-year-old in Pennsylvania, as a prank. It travelled on Apple II floppy disks, and every 50th time an infected disk started up, it showed a short silly poem on the screen. In 1986 two brothers in Lahore, Pakistan, Basit and Amjad Farooq Alvi, wrote a program called Brain that spread on floppy disks for IBM PCs. It is often listed as the first PC virus.",
+        "A worm is different: it does not need a person to share anything. It searches the network for computers with a weak spot and copies itself onto them directly, then uses each new computer to look for more. That is why worms can spread astonishingly fast. Creeper was a gentle worm. The Morris worm of 1988 was an accidental disaster. In May 2000 the ILOVEYOU worm, which began in the Philippines, arrived as an email with the subject line 'ILOVEYOU' and an attachment pretending to be a love letter. When people opened it, it mailed itself to everyone in their address book. Within days it had reached millions of computers around the world.",
+        "A Trojan, or Trojan horse, is named after an ancient Greek legend. In the story, Greek soldiers hid inside a giant wooden horse that the people of Troy dragged into their city as a gift. A Trojan program works the same way: it pretends to be something useful or fun, like a free game or a 'speed booster', but secretly does something else, such as letting a stranger control the computer.",
+        "Ransomware is malware that scrambles a person's or company's files and then demands money, a 'ransom', to unscramble them. The most famous example struck on 12 May 2017. It was called WannaCry, and within a day it had hit something like 200,000 to 300,000 computers in about 150 countries. In Britain, parts of the National Health Service had to cancel appointments and send some patients to other hospitals while staff worked with pen and paper. There is a twist in that story you will meet later in this part: Microsoft had already released a fix for the weak spot WannaCry used, about two months earlier. Many of the computers it hit simply had not installed it.",
+        "The zoo also holds spyware, which secretly watches what you do, and keyloggers, which record every key you press. The good news is that the same few habits protect against almost all of them: keep software updated, install apps only from trusted places, and think before opening anything unexpected."
+      ]
+    },
+    {
+      "heading": "White Hats, Black Hats",
+      "paragraphs": [
+        "When people hear the word 'hacker', they often picture a villain in a dark hoodie. But the word started out meaning something much nicer. At MIT in the late 1950s and 1960s, a 'hack' was a clever trick or an elegant solution, and a hacker was someone who loved exploring how systems worked and making them do surprising things. Many of the people who built the early Internet proudly called themselves hackers in exactly that sense.",
+        "Security experts borrowed an idea from old cowboy films, where the hero often wore a white hat and the villain a black one. A 'black hat' breaks into computers to steal, spy or cause damage. A 'white hat' uses the very same skills to find weaknesses so they can be fixed before criminals find them. In between are 'grey hats', who sometimes break rules but without meaning harm. White-hat work is a real, respected career. Companies hire 'penetration testers' to attack their own systems, with permission, and write reports on every hole they find.",
+        "One of the most dramatic white-hat moments came during the WannaCry outbreak in 2017. A young British researcher named Marcus Hutchins was studying the malware's code and noticed that it kept checking whether a strange, unregistered web address existed. He registered that address himself, which reportedly cost only about ten dollars. To everyone's surprise, that act worked like an emergency off switch: the worm checked the address, found it existed, and stopped spreading to new computers. It did not rescue machines already hit, but it slowed the outbreak enormously. Security people call this a 'kill switch'.",
+        "White hats also follow a code of conduct called responsible disclosure, or coordinated disclosure. If a researcher finds a serious bug, they quietly tell the company first and give it time to fix the problem before announcing it publicly. That way users get a fix before criminals learn how to exploit the flaw. Teams such as CERT, set up after the Morris worm in 1988, help coordinate this."
+      ]
+    },
+    {
+      "heading": "Phishing: A Hook in Your Inbox",
+      "paragraphs": [
+        "Most attacks today do not start with super-clever code at all. They start with a message. Criminals have found that it is often far easier to trick a person into handing over a password than to break through a computer's defences. This kind of trickery is called social engineering, and its most common form is phishing.",
+        "The odd spelling, with 'ph' instead of 'f', comes from hacker slang of the 1990s, when tricksters on services such as AOL sent messages pretending to be staff and asking users to 'confirm' their passwords. The idea is just like fishing: send out lots of bait and wait for somebody to bite. Phishing messages can arrive as emails, text messages, messages inside games and apps, or even phone calls.",
+        "Here is a typical scene. A message pops up that seems to come from a well-known company or bank, with the right logo and colours. It says there is a problem with your account, maybe a 'suspicious login' or a 'failed payment', and that your account will be closed in 24 hours unless you click a link and sign in. The link leads to a page that looks exactly like the real login page. But it is a fake, and anything typed into it goes straight to the criminal. The United States Federal Trade Commission lists messages like these, along with fake invoices, pretend government refunds and coupons for free stuff, as some of the most common phishing tricks.",
+        "Phishing messages often share the same warning signs. Security agencies such as CISA in the United States point out a few to look for. First, urgency or strong emotion: threats, countdowns, or prizes that sound too good to be true. Second, a request for passwords, codes, money or personal details, which real companies almost never ask for by message. Third, links or email addresses that are slightly wrong, perhaps with a letter swapped or an extra word added to a famous brand name. Fourth, shortened links from senders you cannot check. Bad spelling used to be a clue too, but CISA now warns that some phishing messages have perfect spelling and grammar, so a well-written message is not automatically safe.",
+        "The best response is calm and simple. Do not click the link or open the attachment. Do not reply. If you think the message might be real, check another way: open the app or type the company's website address yourself, or ask the person using a phone number you already know. Then report the message using the 'report' or 'spam' button, and delete it. For young readers, the very best move is to show any strange message to a trusted adult. 'Spear phishing' aims at one particular person using real details about them, one more reason to be careful about what you share online."
+      ]
+    },
+    {
+      "heading": "The Problem With Secret Keys",
+      "paragraphs": [
+        "People have been hiding messages for thousands of years. Roman writers described Julius Caesar shifting each letter a few places along the alphabet, so that A became D. In the Second World War, German forces scrambled messages with Enigma machines, and codebreakers at Bletchley Park in Britain worked for years to crack them. Turning a readable message into scrambled nonsense is called encryption, and turning it back is decryption. The secret recipe that controls the scrambling is called the key.",
+        "For almost all of history, encryption had one big rule: the sender and the receiver needed the same secret key. This is called symmetric encryption, because both sides hold an identical key, like two copies of the same front-door key. It works well, but it has a nasty problem hidden inside it. How do you get the key to the other person in the first place? If you send it along the same channel as your messages, a spy could copy it. Armies and governments solved this the expensive way, with trusted couriers carrying codebooks in locked briefcases, sometimes handcuffed to their wrists.",
+        "Now think about the Internet. You might want to buy something from an online shop in another country, chat privately with a cousin, or log in to your school's website. You have never met these computers. There is no courier. Every packet you send passes through many routers owned by strangers, and any of them could, in principle, copy it. How could two computers that have never met agree on a secret key while everyone else is listening? For a long time, most experts thought this was simply impossible. This is called the key distribution problem.",
+        "In the early 1970s a young American named Whitfield Diffie became obsessed with this puzzle, at a time when cryptography was mostly a secret subject for spy agencies. He teamed up with Martin Hellman, a professor at Stanford University in California, while a student named Ralph Merkle was working on similar ideas at Berkeley. In November 1976 Diffie and Hellman published a paper called \"New Directions in Cryptography\" in a journal named IEEE Transactions on Information Theory. It opened with the bold claim that cryptography was on the brink of a revolution, and they were right. The paper described a way for two people to build a shared secret key out in the open, even with an eavesdropper listening to every word. It also introduced the idea of public-key cryptography: a system in which each person has two keys that work as a pair, one that they can show to the whole world and one that they keep completely private.",
+        "Here is a famous way to picture their key-exchange trick, using paint. Alice and Bob agree, in public, on a starting colour, say yellow. Each then secretly picks a private colour, mixes it into some yellow, and sends the mixture to the other. Now each adds their own private colour to the mixture they received. Both end up with exactly the same final colour, made of yellow plus both secret colours. A spy saw the yellow and the two mixtures, but un-mixing paint is practically impossible, so the spy cannot work out the final colour. Real computers use enormous numbers instead of paint. In 2006 Hellman suggested the method should really be called Diffie-Hellman-Merkle key exchange, to give Merkle fair credit. In 2015 Diffie and Hellman received the Turing Award, often called the Nobel Prize of computing, for their work."
+      ]
+    },
+    {
+      "heading": "RSA, Prime Numbers and a Secret Kept for 24 Years",
+      "paragraphs": [
+        "Diffie and Hellman had described what public-key encryption should do, but they had not found a complete practical recipe for sending scrambled messages with it. At the Massachusetts Institute of Technology, three young researchers took up the challenge: Ron Rivest and Adi Shamir, who were computer scientists, and Leonard Adleman, a mathematician. For about a year Rivest and Shamir kept inventing possible schemes, and Adleman kept finding ways to break them.",
+        "Then, in April 1977, after an evening at a Passover meal, Rivest reportedly could not sleep, kept thinking about the problem, and worked out the key idea overnight. By morning he had most of a paper written. The method was named RSA after the three inventors' initials. In August 1977 the writer Martin Gardner described it in his popular 'Mathematical Games' column in Scientific American magazine.",
+        "RSA's magic depends on prime numbers, numbers such as 2, 3, 5, 7 and 13 that can only be divided evenly by 1 and themselves. Multiplying two primes is easy: 13 times 17 is 221, which you can work out in your head. But going backwards is much harder. If someone gives you 221 and asks which two primes made it, you have to try divisions one by one. With small numbers that takes seconds. With two primes each hundreds of digits long, multiplied into a number more than 600 digits long, even the fastest computers on Earth would need an unimaginably long time. In RSA, your public key contains that giant product, and your private key depends on knowing the two secret primes. Anyone can use your public key to lock a message, but only the private key can unlock it.",
+        "RSA also allows something called a digital signature. If you scramble a message with your private key, anyone can check it with your public key, which proves that it really came from you and was not changed on the way. This solves the 'is this email really from Bob?' problem that the early network ignored. MIT received a US patent for RSA in 1983, and in September 2000, just before the patent ran out, the company RSA Security released the method for anyone to use freely. Rivest, Shamir and Adleman received the Turing Award in 2002.",
+        "And now for one of the best plot twists in computer history. In 1997 the British government revealed that its own codebreakers at GCHQ, the Government Communications Headquarters, had discovered the same ideas years earlier and kept them secret. Around 1970 a GCHQ engineer named James Ellis wrote an internal report arguing that 'non-secret encryption' should be possible, but he could not find the maths to make it work. In September 1973 a young mathematician named Clifford Cocks joined GCHQ, fresh from Cambridge University. A colleague told him about Ellis's puzzle, and Cocks, by his own later account, worked out a method in an evening, essentially the same idea as RSA, four years before Rivest, Shamir and Adleman. Soon afterwards, his school friend Malcolm Williamson, also at GCHQ, worked out a method like Diffie-Hellman key exchange.",
+        "Because the work was classified, none of the three could tell anyone, not even to claim credit. Cocks finally described the history in a public talk in December 1997. Sadly, James Ellis had died just a month before. Historians today give credit to both groups: the GCHQ team were first, but the American researchers discovered the ideas independently and published them, which is why the whole world could build on their work. It is a perfect example of something you have seen again and again in this story: great ideas often appear in more than one place at once."
+      ]
+    },
+    {
+      "heading": "The Little Padlock in Your Browser",
+      "paragraphs": [
+        "Look at the address bar of almost any website and you will see 'https' at the start. That 's' stands for secure, and it is public-key cryptography quietly working for you. Here is a way to imagine it. Picture a shop that hands out free open padlocks to anyone who asks, but keeps the only key in a vault. You want to send the shop a secret. You put your secret in a box, snap one of the shop's padlocks shut on it, and post it. Now nobody, not even you, can open that box, except the shop with its key. That padlock is the public key, and the key in the vault is the private key. In practice, your browser uses this trick at the start of a visit to agree a fresh secret key with the website, and then both sides switch to fast symmetric encryption for the rest of the conversation, because the public-key maths is too slow to use for every single packet.",
+        "This system began with the company Netscape, which made the most popular web browser of the mid-1990s. Netscape wanted people to feel safe typing credit card numbers into websites, so in 1994 it created HTTPS and a set of rules called SSL, the Secure Sockets Layer. The first version was never released because it had flaws. SSL 2.0 came out in 1995, and a redesigned SSL 3.0 followed in 1996; Netscape's chief scientist, the cryptographer Taher Elgamal, is often called the 'father of SSL'. In 1999 the Internet's standards body took over the job and renamed the improved version TLS, Transport Layer Security. The latest major version, TLS 1.3, was published in 2018.",
+        "But how does your browser know that the public padlock really belongs to your bank and not to an impostor? The answer is a certificate, a kind of digital ID card for a website, signed by a trusted organisation called a certificate authority. Your browser comes with a built-in list of certificate authorities it trusts, and it checks each website's certificate against that list. If anything looks wrong, you see a big warning page.",
+        "For years, certificates cost money and were fiddly to set up, so many smaller websites never bothered. That changed in 2016 when a non-profit project called Let's Encrypt began giving out certificates free and automatically. Browser makers also started labelling plain 'http' pages as 'Not secure'. The result was a huge shift. As recently as 2018, only around a third of the top million websites used HTTPS by default, yet today most web pages loaded in major browsers use HTTPS.",
+        "One important warning: the padlock means your connection is private, not that the website is honest. A phishing site can have a perfectly good padlock too. The padlock stops strangers in the middle from reading or changing what you send, but it cannot tell you whether the person at the other end is trustworthy. For that, you still need your own good judgement."
+      ]
+    },
+    {
+      "heading": "Walls, Patches and Bug Bounties",
+      "paragraphs": [
+        "In old cities, a firewall is a thick wall built between houses so that a fire in one cannot spread to the next. In the 1980s engineers borrowed the name for a computer that sits between a private network and the outside world and decides which traffic may pass. The earliest firewalls were packet filters. Remember that every packet carries a header with addresses and other labels. A packet filter reads those labels and checks them against a list of rules, a bit like a security guard with a clipboard. Packets from approved places, heading to approved services, are waved through. Others are silently dropped. Engineers at Digital Equipment Corporation published some of the first work on this in the late 1980s, and at Bell Labs, Bill Cheswick and Steven Bellovin built and wrote about early firewalls too. Today almost every home Wi-Fi router has a simple firewall built in, and so do most laptops.",
+        "Even the best wall is useless if there is a hole in it, and software is full of holes. Large programs contain millions of lines of code written by thousands of people, and some mistakes are almost certain to slip through. When a company discovers a security hole, it writes a fix called a patch and sends it out as a software update. This is why those update reminders on your phone and computer matter so much. Remember WannaCry? Microsoft released the patch for the weakness it used on 14 March 2017, about two months before the outbreak. The computers that had installed the update were protected. Many of the ones that were hit had not.",
+        "Because holes are so hard to find, companies have started paying outsiders to help. These rewards are called bug bounties, after the 'wanted' posters and rewards of the old American West. One of the earliest examples came in 1983, when a software company called Hunter and Ready offered a Volkswagen Beetle car, a 'bug', to anyone who found a bug in its operating system. In 1995 Netscape launched a bug bounty for a test version of its browser. Today Google, Microsoft, Apple, Mozilla and many others run bounty programmes, and in 2016 the US Department of Defense ran one called 'Hack the Pentagon', inviting approved researchers to find weaknesses in some of its public websites.",
+        "Put all these tools together and you get layers of protection, like a castle with a moat, walls and guards. Engineers call this defence in depth. Yet the most successful attacks still sneak past all of it by tricking a human being into opening the gate. The strongest lock in the world cannot help if someone gives away the key. So the final and most important layer of protection is not a machine at all. It is you, and the habits you choose every time you go online. That is where the next part begins."
+      ]
+    }
+  ],
+  "deepDive": "Public-key cryptography rests on 'trapdoor one-way functions': operations that are easy to compute but practically impossible to reverse unless you know a secret. RSA uses multiplication of two large primes, p and q. The public key is their product n together with an exponent e; the private key d is computed from p and q so that raising a number to the power e and then to the power d, both 'modulo n' (keeping only the remainder after dividing by n), returns the original number. Anyone who could factor n back into p and q could compute d, so RSA's security depends on factoring being hard. In practice, n is usually 2,048 bits or more, a number over 600 decimal digits long. Diffie-Hellman key exchange relies on a related problem, the 'discrete logarithm': computing g to the power x modulo a prime is quick, but recovering x from the result is extremely slow for well-chosen numbers. Modern systems increasingly use elliptic-curve versions of these ideas, which give similar security with much shorter keys. Two debates shape the field today. The first is about credit. GCHQ's James Ellis, Clifford Cocks and Malcolm Williamson reached the key ideas between about 1970 and 1974, yet because their work stayed classified until 1997 it had no influence on the open world, while the published papers of Diffie, Hellman, Merkle, Rivest, Shamir and Adleman launched an entire industry. Historians usually credit both, separately. The second debate is about the future. A large enough quantum computer, running an algorithm Peter Shor published in 1994, could factor big numbers and solve discrete logarithms quickly, which would break RSA and Diffie-Hellman. No such machine exists yet, but in 2024 the US National Institute of Standards and Technology published its first 'post-quantum' encryption standards, built on different maths, and browsers and messaging apps have begun adopting them. There is also a long-running argument about 'backdoors': some governments want special access to encrypted messages to investigate crimes, while most security experts argue that any secret door built for the good guys will eventually be found by the bad guys too. Finally, remember that cryptography protects data in transit, but most real-world breaches come from phishing, stolen or reused passwords, and unpatched software rather than from anyone breaking the maths.",
+  "funFact": "The RSA method was first explained to the public in August 1977 in Martin Gardner's 'Mathematical Games' column in Scientific American, before the inventors' formal paper appeared in a journal.",
+  "check": {
+    "q": "Which British mathematician secretly worked out a method like RSA at GCHQ in 1973, years before it was revealed?",
+    "a": "Clifford Cocks",
+    "wrong": [
+      "Tim Berners-Lee",
+      "Alan Turing",
+      "Ron Rivest"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Dr Clifford Cocks CB (honorary graduate, 2008)",
+      "publisher": "University of Bristol",
+      "url": "https://www.bristol.ac.uk/alumni/our-alumni/honorary-degrees/honorary-graduates/2008/cocks.html"
+    },
+    {
+      "title": "Recognize and Report Phishing",
+      "publisher": "CISA (US Cybersecurity and Infrastructure Security Agency)",
+      "url": "https://www.cisa.gov/secure-our-world/recognize-and-report-phishing"
+    },
+    {
+      "title": "How To Recognize and Avoid Phishing Scams",
+      "publisher": "US Federal Trade Commission",
+      "url": "https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams"
+    },
+    {
+      "title": "Diffie–Hellman key exchange",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange"
+    },
+    {
+      "title": "RSA cryptosystem",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/RSA_cryptosystem"
+    },
+    {
+      "title": "Transport Layer Security",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Transport_Layer_Security"
+    },
+    {
+      "title": "WannaCry ransomware attack",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/WannaCry_ransomware_attack"
+    },
+    {
+      "title": "Creeper and Reaper",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Creeper_and_Reaper"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Photograph of Whitfield Diffie and Martin Hellman, the inventors of public-key cryptography",
+      "search": "Whitfield Diffie Martin Hellman"
+    },
+    {
+      "want": "Photograph of the RSA inventors Ron Rivest, Adi Shamir and Leonard Adleman together",
+      "search": "Rivest Shamir Adleman RSA"
+    },
+    {
+      "want": "Diagram of Diffie-Hellman key exchange using mixing paint colours",
+      "search": "Diffie-Hellman key exchange paint diagram"
+    }
+  ]
+}

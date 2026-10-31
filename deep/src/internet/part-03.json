@@ -1,0 +1,164 @@
+{
+  "n": 3,
+  "title": "Chop It Into Packets!",
+  "when": "1960 – 1967",
+  "summary": "Three clever thinkers in America and Britain had the same surprising idea: cut every message into tiny labelled pieces and let them find their own way. One of them gave the pieces a name we still use today: packets!",
+  "sections": [
+    {
+      "heading": "A Problem Hiding in the Phone Line",
+      "paragraphs": [
+        "At the end of the last part, we left the computer scientists of the early 1960s with a puzzle. They wanted their machines to talk to each other, but the only big network that reached everywhere was the telephone system. And the telephone system had been designed for a completely different kind of conversation.",
+        "Remember the big idea from Part 1: a telephone call is a circuit. When you ring your grandmother, the exchange connects a path of wires from your phone to hers, and that path belongs to the two of you until somebody hangs up. Even when you both go quiet to think, or you put the phone down to fetch a biscuit, the line stays reserved. Nobody else can use it.",
+        "For people chatting, that is mostly fine, because when we talk, we talk fairly steadily. Computers are different. A person sitting at a terminal connected to a distant computer might type a command, then stare at the screen for half a minute reading the answer, then type a few more letters, then go and get a coffee. The data comes in short, sudden bursts with long silences in between. Engineers call this kind of traffic 'bursty'.",
+        "Now imagine paying for a long-distance telephone line between Boston and Los Angeles, holding it open all day, and using it for perhaps one or two per cent of the time. It would be like hiring a whole train to carry one envelope, then keeping the train waiting at the station in case you wanted to send another envelope later. In the 1960s long-distance lines were expensive, and computers were even more expensive. Wasting either one hurt.",
+        "There was a second, darker worry too. The United States and the Soviet Union were in the middle of the Cold War, both building nuclear weapons. Military planners asked an uncomfortable question: if an attack destroyed a few big telephone exchanges, would the country's leaders still be able to send messages at all? The phone network of the time was built around a fairly small number of important switching centres. Knock out the centres, and huge parts of the system would go silent.",
+        "Two very different worries, one about waste and one about survival, led to the same answer. And remarkably, that answer was discovered more than once, by people working thousands of kilometres apart who had never met."
+      ]
+    },
+    {
+      "heading": "Paul Baran and the Fishnet Nobody Built",
+      "paragraphs": [
+        "Paul Baran was born in 1926 in Grodno, a city that was then in Poland, and moved to the United States with his family when he was about two years old. He grew up in Philadelphia, studied electrical engineering, worked on some of the early computers, and in 1959 joined the RAND Corporation in Santa Monica, California. RAND was a 'think tank': a place where clever people were paid to think hard about difficult problems, many of them for the US Air Force.",
+        "Baran's problem was the survival question. How could you build a communications network that would keep working even if large parts of it were destroyed? He started by looking at the shapes networks could have.",
+        "A centralised network looks like a wheel: every line runs to one hub in the middle. It is cheap and simple, but if the hub is destroyed, everything stops. A decentralised network is a set of smaller wheels whose hubs are joined together. It is tougher, but each hub is still a weak spot, and losing a few hubs cuts the network into islands. Baran proposed a third shape, which he called distributed. In a distributed network there is no centre at all. Every station, or node, is linked to several neighbours, and the whole thing looks like a fishnet. To cut someone off, you would have to destroy all of the paths around them, not just one hub.",
+        "Baran tested the idea with computer simulations, which was itself quite new at the time. He found something surprising and encouraging. You did not need a hugely expensive web with every node joined to every other node. If each node had just three or four links to its neighbours, the network could lose a large share of its nodes, in some of his tests about half of them, and the surviving nodes could usually still reach each other. Redundancy, meaning having spare paths, was the secret, and a little of it went a long way.",
+        "But a fishnet raised a new question. If there are many possible routes between two points, how does a message know which one to take, especially if parts of the net are broken? Baran's answer was the clever part. Instead of setting up one fixed path in advance, like a phone call, he suggested chopping each message into small, standard-sized pieces that he called 'message blocks'. Each block would carry a label saying where it was going. Every node would act like a tiny post office: it would receive a block, store it for a moment, check the label and pass it on to whichever neighbour looked like the best next step. This is called 'store and forward'.",
+        "Baran even imagined the nodes learning as they worked. Each node would keep notes on how long blocks took to arrive from different directions, and use those notes to guess the fastest way to send blocks onwards. If a route broke, the notes would soon change and blocks would flow around the damage. Because each node passed blocks along quickly rather than holding on to them, the idea became known as 'hot-potato routing': nobody wants to hold a hot potato for long.",
+        "Baran first presented the message block idea around 1961 and wrote about it in RAND papers over the next few years. In 1964 RAND published his work as a series of eleven reports called 'On Distributed Communications'. They described almost everything: the shapes of networks, the blocks, the routing, the switching machines and even how to keep messages secret.",
+        "You might expect that such a clever plan would be built at once. It was not.",
+        "Baran's network was meant to carry digital voice and data, and to do that across the country it would have needed the cooperation of AT&T, the giant company that ran almost all American telephone lines. AT&T's engineers were experts in circuits. They had spent decades perfecting a system where a call gets its own reserved path, and the idea of chopping conversations into little blocks that wandered across a net of cheap switches seemed strange and unworkable to them. According to Baran's own later accounts, they dismissed it. A company that earned its money from renting out whole lines also had little reason to welcome a design that shared lines between many users.",
+        "There were other problems. The military organisation that would have been put in charge did not have experience with digital computers, and Baran worried that it would build the system badly, which could make the whole idea look like a failure for years. In the end, his network was not built during the 1960s.",
+        "So the reports went onto library shelves at RAND. They were not secret, and some people read them, but for a few years the idea simply waited. Baran went on to an inventive career: he helped found the Institute for the Future in 1968 and later started companies that made modems and wireless networking equipment. Much later he received many honours, including the US National Medal of Technology and Innovation in 2007. He died in 2011, having lived to see the fishnet he imagined cover the whole planet."
+      ]
+    },
+    {
+      "heading": "Across the Ocean: Donald Davies Names the Packet",
+      "paragraphs": [
+        "Now travel about 8,800 kilometres east, to Teddington, a leafy town on the River Thames just outside London. Here stands the National Physical Laboratory, or NPL, Britain's national centre for measurement and science, where people look after the exact definitions of things like the metre and the second.",
+        "Donald Davies worked at NPL. He was born in 1924 in Treorchy, a mining town in the Rhondda valley in Wales. His father died when he was a baby, and his mother moved the family to Portsmouth, where he grew up. He studied physics and then mathematics at Imperial College London, and in 1947 he joined NPL, where one of his colleagues was the famous mathematician Alan Turing. Turing had designed a computer called the ACE, the Automatic Computing Engine. The full machine was hard to build, and after Turing left NPL, Davies became one of the leaders of the team that built a smaller version, the Pilot ACE. It first ran in May 1950 and was among the fastest computers of its day.",
+        "So by the mid-1960s, Davies was a very experienced computer person. In 1965 he travelled to the United States, attended a big computing congress in New York and visited the Massachusetts Institute of Technology (MIT), where people were excitedly using time-sharing, the trick from Part 2 where many users share one big computer through terminals. He talked with experts, including J.C.R. Licklider, about connecting distant users to these machines.",
+        "Back in England, Davies thought hard about the bursty traffic problem. He realised that a data line could be shared in the same way a time-sharing computer was shared. Instead of giving one user the line for a long time, cut everyone's data into short pieces of a fixed format and send them one after another, mixing pieces from many users on the same wire. Each piece would be so short that nobody would have to wait long. Late in 1965 he wrote down his plan, and in 1966 he gave a talk describing a fast national data network for Britain built on this idea.",
+        "Davies needed a name for the little pieces. He wanted a short, ordinary word that would not confuse people and could be translated easily, because he hoped his idea would be used all over the world. He reportedly checked with a language expert, who agreed that his choice would work well in many languages. The word was 'packet', as in a small parcel. The method became 'packet switching'. Nearly sixty years later, engineers everywhere still use both words every day.",
+        "Here is the remarkable twist. Davies had worked all of this out without knowing anything about Paul Baran. After his 1966 talk, someone from Britain's Ministry of Defence came up to him and told him that an American at RAND had already written about something very similar. Davies read Baran's reports and found that, although their reasons were different (Baran wanted survival, Davies wanted efficient and fast sharing), their designs were strikingly alike. Davies, by all accounts, was generous about it and acknowledged Baran's earlier work.",
+        "Unlike Baran, Davies managed to build something. His team at NPL, including Roger Scantlebury, Keith Bartlett and Peter Wilkinson, designed a local network to link computers and terminals around the laboratory site. Parts of it began working in early 1969, and it was fully running in January 1970. The NPL network was one of the very first packet-switched networks in the world. It was later upgraded, and it kept running until 1986."
+      ]
+    },
+    {
+      "heading": "Leonard Kleinrock and the Maths of Waiting in Line",
+      "paragraphs": [
+        "Our third thinker worked with pencil, paper and equations rather than switches and wires. Leonard Kleinrock was born in New York City in 1934. As a boy he was fascinated by electronics, went to the Bronx High School of Science, then studied electrical engineering at the City College of New York. In 1957 he went to MIT as a graduate student.",
+        "Kleinrock chose to study how messages flow through a network. The networks that existed then were mostly 'message switching' systems used for telegrams, where a whole message was received at a switching centre, stored, and then sent on to the next centre. One system he studied was Western Union's telegram network. In 1961 he wrote a thesis proposal called 'Information Flow in Large Communication Nets', and he finished his doctoral thesis at the end of 1962. In 1964 it was published as a book called 'Communication Nets'.",
+        "The mathematics Kleinrock used is called queueing theory. A queue is simply a line of things waiting their turn: shoppers at a till, cars at a traffic light, or messages waiting at a switching centre for a free line. Queueing theory uses probability to answer questions such as: how long will the average message wait? How full can the lines get before the waiting becomes terrible? Does it help to make messages shorter, or to add more links?",
+        "These might sound like dull questions, but they are exactly what you need to know before you spend millions building a network. Picture a supermarket. If shoppers arrive at random, a single till that is busy 50 per cent of the time has fairly short queues. Push it to 90 per cent busy, and queues suddenly grow very long, because whenever a few shoppers arrive close together there is no spare capacity to catch up. Kleinrock's work explained effects like this for networks of many connected 'tills', and showed, among other things, that sharing lines among many users could make a network much more efficient.",
+        "In 1963 Kleinrock joined the University of California, Los Angeles (UCLA) as a young professor. There he kept working on the mathematics of networks. His lab would soon play a starring role in our story, as you will see in the next part. Davies, too, used Kleinrock-style queueing calculations in his 1966 paper to show that a packet network could respond fast enough for people typing at terminals."
+      ]
+    },
+    {
+      "heading": "The Postcard Trick: How Packet Switching Works",
+      "paragraphs": [
+        "Let's leave the inventors for a moment and look closely at their idea, because it is the beating heart of the whole Internet.",
+        "Imagine you want to send your best friend a very long letter, a whole story of 40 pages, but the only thing the post office will carry is postcards. So you cut the story into 40 pieces and glue each piece to a postcard. On every postcard you write three things: your friend's address, your own address, and a number, such as '17 of 40'. Then you drop all 40 postcards into the postbox.",
+        "The postcards do not have to travel together. Some might go through one sorting office, others through a different one that happens to be less busy today. Card 23 might even arrive before card 5. But that does not matter, because when the postcards reach your friend, they can lay them out in number order and read the whole story. If card 31 is missing, they can see the gap and send you a message asking for it again.",
+        "That is packet switching. A message, whether a sentence, a photo or a video, is chopped into packets. Each packet has a small label at the front, called a header, which holds the addresses and a sequence number, and behind the label comes a slice of the actual data. The switching machines along the way, which today we call routers, read each header and pass that packet one step closer to its destination. At the far end, the packets are put back in order.",
+        "Now here is the magic for efficiency. In a phone-style circuit, a line belongs to one conversation, even while it is silent. In packet switching, packets from many different conversations are mixed together on the same line, one after another, like cars from many different families sharing the same motorway. When you pause to read your screen, your packets stop for a while, and the line is instantly used by other people's packets instead. No space is wasted waiting for you.",
+        "This means a single line can serve many users at once. If a hundred people each use their connection only now and then, a packet network can carry all of them on a line that would be far too small to give every one of them a private circuit. That is why the planners could promise that lines would be used far more efficiently than in a phone call.",
+        "Packet switching also explains the survival idea. If one router breaks, the next packets can simply be sent another way, just as your postcards could be sorted by a different office if one burned down. The network does not need to rebuild a whole circuit. It just keeps finding paths, one packet at a time.",
+        "There are trade-offs, of course. Every packet carries a header, which takes up a little room, a bit like the space your address uses on each postcard. Packets may wait in queues at busy routers, which adds delay, and that is exactly the kind of problem Kleinrock's maths could measure. And somebody has to be responsible for putting the pieces back in order and noticing missing ones. Working out who does that job became a big part of the story later, when TCP/IP was invented, as you will see in Part 6."
+      ]
+    },
+    {
+      "heading": "Wheels, Stars and Fishnets",
+      "paragraphs": [
+        "One of the most famous pictures in the history of the Internet appears in Baran's reports. It shows three networks side by side, drawn as dots joined by lines, and you can easily draw your own version on a piece of paper.",
+        "For the first, centralised network, draw one dot in the middle of the page and about twenty dots around it, each joined only to the centre. It looks like a wheel with spokes, or a star. Now cover the middle dot with your thumb. Every outer dot is cut off from all the others. One hit and the whole network is gone.",
+        "For the second, decentralised network, draw four or five medium-sized hub dots, join the hubs to each other, and then give each hub its own little cluster of outer dots. This is a bit like how airlines work, with big hub airports and smaller airports around them. Cover one hub and its whole cluster drops out, though the rest survives. Better, but still fragile.",
+        "For the third, distributed network, scatter about twenty dots across the page and join each one to its three or four nearest neighbours, until it looks like a fishnet or a honeycomb. Now try covering a dot with your thumb. Messages simply flow around it. Cover several, and there are usually still paths. You would need to cover a whole line of dots to cut the net in two.",
+        "Today's Internet is not a perfect fishnet. It has some very important hubs, such as large exchange points and undersea cable landing stations, which you will visit in Part 13. But it is much closer to Baran's distributed picture than to a single wheel, and that is one reason it so often keeps working when individual parts fail."
+      ]
+    },
+    {
+      "heading": "The Nuclear War Story: What Is True and What Is Not",
+      "paragraphs": [
+        "You may have heard someone say that 'the Internet was built to survive a nuclear war'. It is one of the most repeated stories about the Internet, and it is only partly true, so let's untangle it carefully.",
+        "What is true: Paul Baran's work at RAND really was about survivable communications. He wanted a network that could still carry orders after an attack, and that is why he cared so much about distributed shapes and flexible routing. His reports were paid for by the US military with exactly that worry in mind.",
+        "What is not true: the ARPANET, the network you will meet in the next part, was not built mainly to survive a nuclear attack. It was funded by ARPA's computer research office for a much more everyday reason. Scientists at universities and research centres wanted to share expensive computers, programs and data with each other. Charles Herzfeld, who was director of ARPA when the project was approved, later said plainly that the ARPANET was not created to be a bomb-proof command system. It came from frustration that there were only a few powerful research computers in the country and researchers who needed them were scattered far apart.",
+        "Why does the myth survive? Partly because Baran's ideas did feed into the ARPANET's design, so his reasons got mixed up with ARPA's. Partly because the finished network really was quite tough, since its routers kept recalculating routes and could send traffic around a broken link. And partly because 'built to survive the end of the world' simply makes a more exciting story than 'built so professors could share computers'.",
+        "The honest version is still impressive. A design that was partly inspired by fears of war ended up being used for something peaceful: helping people share knowledge."
+      ]
+    },
+    {
+      "heading": "Who Gets the Credit? Ideas Meet in the Mountains",
+      "paragraphs": [
+        "So who invented packet switching? This is a question historians still discuss, and the fair answer is that more than one person deserves credit, in different ways.",
+        "Paul Baran was first to work out a full design for a distributed network that cut messages into small blocks and routed them independently, from about 1960 to 1964. Donald Davies reached a very similar design on his own in 1965, gave it the name 'packet switching', aimed it at fast, efficient everyday computer use, and actually built an early working network at NPL. Most historians, and organisations such as the US National Inventors Hall of Fame, describe Baran and Davies as having independently invented packet switching.",
+        "Leonard Kleinrock's role is the one that people argue about most. His early 1960s work was about the mathematics of message flow in networks, and it gave engineers powerful tools to predict delays and plan capacity. From the 1990s onwards Kleinrock described this work as the theory behind packet switching. Davies and some other pioneers disagreed, pointing out that Kleinrock's thesis studied message switching, where whole messages are sent at once, rather than chopping messages into small packets. Kleinrock himself has more recently acknowledged that his early papers were about message switching. A fair summary is that Baran and Davies invented packet switching, and Kleinrock's queueing mathematics became an important tool for understanding and measuring packet networks, especially once his lab joined the ARPANET.",
+        "This kind of story happens often in science. When a problem is 'in the air', several people may solve it at around the same time, because they read the same papers and face the same needs. The telephone, calculus and the theory of evolution all have similar stories.",
+        "The three strands finally came together in October 1967, at a computer conference called the Symposium on Operating Systems Principles in Gatlinburg, a small town in the Smoky Mountains of Tennessee. A young American named Larry Roberts, who was now working for ARPA, presented a plan for connecting research computers. At the same meeting, Roger Scantlebury from Davies' team presented the NPL packet-switching design, and he told the Americans about Paul Baran's reports too.",
+        "For Roberts, it was a turning point. He took the NPL ideas home, read Baran's reports, and borrowed the word 'packet'. The British team also argued that faster lines would make the network respond better, and the plan's line speed was raised from 2.4 kilobits per second to 50 kilobits per second, about twenty times faster.",
+        "ARPA now had a design, a name for the pieces and the money to try it. The decision was made: the United States would build a real packet-switching network across the country, linking research computers at universities. It would need new machines that nobody had built before, rules that nobody had written yet, and long lines rented from the telephone company. And there was a deadline. The first computers were supposed to be connected and talking by 1969. Could a handful of engineers and students possibly do it in time?"
+      ]
+    }
+  ],
+  "deepDive": "Why is sharing lines with packets so much more efficient than reserving circuits? The key idea is called statistical multiplexing. Suppose 100 terminal users each need a line that can carry 10 kilobits per second while they are actually sending, but each one is busy only about 5 per cent of the time. With circuits you must reserve 100 lines' worth of capacity, 1,000 kilobits per second, even though on average only about 50 kilobits per second is ever in use. With packets you can provide something nearer the average plus a safety margin, because it is very unlikely that all 100 users will burst at the same instant. Queueing theory tells you how big that margin must be. As a link gets close to full, average waiting time grows sharply; in the simplest textbook model, delay is proportional to 1 divided by (1 minus the fraction of time the link is busy), so a link that is 90 per cent busy has queues about five times longer than one that is 50 per cent busy. That curve is why networks are designed with spare capacity. Historians also distinguish message switching from packet switching. In telegraph-style message switching, each centre must receive a whole message before forwarding it, so a very long message holds up everything behind it and needs lots of storage. Packet switching limits the size of each piece, so nodes need less memory, short interactive messages are not stuck behind long files, and different packets of one message can be in transit on different links at once, a trick called pipelining. Baran and Davies both chose small fixed limits for this reason. The credit debate became heated in the 1990s and 2000s. Kleinrock's supporters emphasised his early mathematical analysis of networks and his 1964 book; Davies, in a paper published after his death in 2000, argued that he could find no evidence Kleinrock had understood packet switching's principles in his early work; and Baran repeatedly said that he and Davies had reached their ideas independently. Many historians, such as Janet Abbate in 'Inventing the Internet', present the story as one of several people contributing different pieces: Baran's survivable distributed design, Davies' efficient packet network and its name, Roberts' decision to fund and build one at scale, and Kleinrock's tools for measuring how it behaved.",
+  "funFact": "Donald Davies, who named the packet, had earlier worked alongside Alan Turing and helped build the Pilot ACE, one of Britain's first computers, which first ran in May 1950.",
+  "check": {
+    "q": "Who coined the word 'packet' for the small pieces of data sent across a network?",
+    "a": "Donald Davies of Britain's National Physical Laboratory",
+    "wrong": [
+      "Paul Baran of the RAND Corporation",
+      "Alexander Graham Bell",
+      "Tim Berners-Lee at CERN"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Brief History of the Internet",
+      "publisher": "Internet Society",
+      "url": "https://www.internetsociety.org/internet/history-internet/brief-history-internet/"
+    },
+    {
+      "title": "Internet History of 1960s",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/internethistory/1960s/"
+    },
+    {
+      "title": "Packet switching",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Packet_switching"
+    },
+    {
+      "title": "Paul Baran",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Paul_Baran"
+    },
+    {
+      "title": "Donald Davies",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Donald_Davies"
+    },
+    {
+      "title": "Leonard Kleinrock",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leonard_Kleinrock"
+    },
+    {
+      "title": "ARPANET",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ARPANET"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Paul Baran's famous diagram comparing centralised, decentralised and distributed networks from his 1964 RAND reports",
+      "search": "Baran centralized decentralized distributed network diagram"
+    },
+    {
+      "want": "Portrait photograph of Donald Davies, the British computer scientist who named the packet",
+      "search": "Donald Davies computer scientist NPL"
+    },
+    {
+      "want": "The Pilot ACE computer on display at the Science Museum in London",
+      "search": "Pilot ACE computer Science Museum"
+    }
+  ]
+}

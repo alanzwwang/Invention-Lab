@@ -1,0 +1,164 @@
+{
+  "n": 2,
+  "title": "Cugnot's Steam Monster and the Red Flag",
+  "when": "1769 – 1896",
+  "summary": "In 1770 a French army engineer built a giant three-wheeled steam wagon to pull cannons, but it was slow and very hard to steer. In Britain, inventors later ran steam buses on real streets, until strict laws made every slow road engine follow a person walking in front. In 1896 the rule was scrapped, and drivers celebrated with a famous run to the seaside.",
+  "sections": [
+    {
+      "heading": "A Soldier with a Heavy Problem",
+      "paragraphs": [
+        "Picture a muddy parade ground near Paris around 1770. Soldiers and officers stand in a nervous half-circle. In front of them hisses something nobody has ever seen before: a long, heavy wooden wagon on three iron-rimmed wheels, with a huge, round copper boiler hanging off the very front like the nose of a monster. Smoke curls from its fire. With a clank and a puff of steam, the whole contraption lurches forward, all by itself, without a single horse.",
+        "The man responsible was Nicolas-Joseph Cugnot. He was born on 26 February 1725 in the village of Void, in Lorraine in north-eastern France, and he trained as a military engineer. Armies at that time had a serious problem. Their most powerful weapons were heavy bronze cannons, some weighing several tonnes, and moving them took big teams of horses. Horses had to be fed, got tired, panicked under fire and could be killed. If a machine could haul guns instead, an army could move faster and more reliably.",
+        "From about 1765 Cugnot began experimenting with steam-powered vehicles for the French army. Steam engines worked on a simple idea: burn fuel to boil water in a closed container called a boiler, and let the expanding steam push a piston, a plug that slides in a tube called a cylinder. (Invention Lab has a whole separate Deep Dive about steam engines, so we will not go deeper here.) The tricky part was making a steam engine compact enough to ride on a vehicle and to push it along a road.",
+        "Cugnot called his machine a fardier à vapeur. A fardier was a heavy horse-drawn cart used for carrying large loads such as cannon barrels, so the name simply means 'steam dray' or 'steam heavy wagon'. In 1769 he built and tested a smaller version, and its trials were promising enough that a full-size fardier was built in 1770. That 1770 machine is the oldest surviving full-size self-propelled road vehicle in the world."
+      ]
+    },
+    {
+      "heading": "Inside the Steam Fardier",
+      "paragraphs": [
+        "The 1770 fardier was enormous. It measured about 7.25 metres long, as long as a big modern van plus a car, and about 2.19 metres wide. Empty, it weighed around 2.5 tonnes. The army's specification asked it to carry a load of about four tonnes, the weight of a heavy cannon, and to travel about 2 French leagues (roughly 7.8 kilometres) in an hour.",
+        "Its layout looks strange to us. It had three wheels: two at the back under the long wooden frame where the load would sit, and a single wheel at the front. Hanging over that front wheel was the big copper boiler with its firebox, and just behind it two large metal cylinders, one on each side. Engine, boiler and front wheel were all bolted together as one unit, and the driver steered by turning that whole heavy front assembly with a pair of handles.",
+        "The pistons moved up and down, but a wheel has to spin. How do you turn a back-and-forth push into turning? Cugnot used a ratchet, like the clicking mechanism on a socket wrench or a bicycle freewheel. Each push of a piston turned the front wheel a little way round; the ratchet stopped it slipping back; then the other piston took its turn. Cugnot was one of the first people to use such an arrangement to make a steam engine drive a wheel round and round.",
+        "Now try to imagine steering it. Several tonnes of boiler, water and iron all sat on that one front wheel. Turning it was hard work. And because so much weight was out in front, the wagon was unstable, especially on rough ground or slopes. It was like trying to steer a wheelbarrow with a fridge balanced on the front."
+      ]
+    },
+    {
+      "heading": "Slower Than a Walk",
+      "paragraphs": [
+        "The fardier did move by itself, which was a historic achievement. But it was painfully slow. Its real speed in tests was only about 3.6 to 4 kilometres per hour, between 2 and 3 miles per hour, slower than a person walking briskly. It never reached the speed or performance the army had asked for.",
+        "The worst problem was the boiler. It could not make steam fast enough to keep up with the engine. After roughly 10 to 15 minutes of running, the steam pressure would fall so low that the fardier had to stop. The crew then had to stoke the fire, wait for the water to boil hard again and build up pressure before the next short dash. So a trip consisted of a few minutes of clanking forward, followed by a long wait, again and again.",
+        "Why was the boiler such a weak point? A boiler can only make steam as fast as its fire can heat water. To make lots of steam quickly, you need a large heating surface, with hot gases touching as much water as possible. Cugnot's boiler was essentially a big copper pot with a fire underneath. The engine used steam faster than the fire could replace it. Later engineers solved this with boilers full of tubes, which let hot gases pass through the water many times, but those ideas were still decades away.",
+        "Tests were held between Paris and Vincennes, and at Meudon, just outside Paris. Army officials watched carefully, but they were not convinced. A cannon-hauler that crawled, stopped every quarter of an hour and could barely be steered was no better than horses. After the trials, the project was dropped, and the fardier was stored in the arsenal.",
+        "You may have read a dramatic story that during one test in 1771 Cugnot's machine smashed into a wall, making it the first car accident in history, and that he was even arrested for dangerous driving. This is a legend. No written record from the time mentions it; the story first appeared in 1804, some 33 years later. It may have happened, but historians cannot confirm it, so it is best treated as an entertaining tale rather than a fact.",
+        "Cugnot himself did not get rich. In 1772 King Louis XV granted him a pension of 600 livres a year for his work. But during the French Revolution, in 1789, the pension was stopped, and he lived in poverty in Brussels for some years. Shortly before his death, Napoleon Bonaparte restored his pension, and Cugnot returned to Paris, where he died on 2 October 1804.",
+        "His machine survived him. In 1800 the 1770 fardier was moved to the Conservatoire national des arts et métiers in Paris, and it is still on show today in the Musée des Arts et Métiers, a museum of science and technology. Visitors can stand next to the great copper boiler and see just how huge the first self-moving road vehicle was. In 2010, students from French engineering schools worked with Cugnot's home village to build a working replica, which puffed along at the Paris Motor Show."
+      ]
+    },
+    {
+      "heading": "Christmas Eve in Camborne",
+      "paragraphs": [
+        "Our next stop is Cornwall, the rocky south-western tip of England, famous for its tin and copper mines. Deep mines flood with water, so Cornwall was full of steam pumping engines, and full of people who knew how to build and repair them. One of the most gifted was Richard Trevithick, born on 13 April 1771 at Tregajorran, near Camborne, the son of a mine manager. He was a giant of a man, about 1.88 metres tall, famous for his strength and a champion at Cornish wrestling.",
+        "Older steam engines, like those of James Watt, worked at low pressure and needed a separate part called a condenser to cool the steam back into water. Trevithick pioneered engines that used high-pressure steam, which people called 'strong steam'. Because the steam pushed much harder, the engine could be smaller and lighter, and it could do without the bulky condenser. A small, powerful engine was exactly what a road vehicle needed.",
+        "Trevithick built a steam road vehicle that the locals nicknamed the 'Puffing Devil'. On Christmas Eve 1801, as darkness fell, he fired it up in Camborne. With his cousin and partner Andrew Vivian steering, and six passengers riding on board, it puffed up Fore Street and Camborne Hill towards the village of Beacon. Imagine the townspeople, out for the holiday, watching a smoke-breathing machine carry their neighbours uphill without a horse in sight. It was one of the very first times human passengers had ridden on a self-propelled road vehicle.",
+        "The triumph did not last long. A few days later, the Puffing Devil broke down during another run. The team pushed it into a shelter, left the fire burning, and went off to an inn for a meal and a drink. While they were away, the water in the boiler boiled away completely. With no water to soak up the heat, the iron overheated and the whole machine was destroyed by fire. It was a mistake by its operators, not a fault of Trevithick's design, but it was the end of the Puffing Devil. The event lives on in a Cornish folk song, 'Camborne Hill', and in 2001 the Trevithick Society built a working replica that still leads parades on Camborne's yearly Trevithick Day.",
+        "The Puffing Devil was not a passenger service, just a bold experiment, and Trevithick was not even the only person trying. In the 1780s William Murdoch, an engineer working for the famous firm of Boulton and Watt, had already built a small model steam carriage that ran on its own. But Murdoch's employers were not keen on the idea, and he set it aside. Trevithick was the one who scaled it up and put people on board."
+      ]
+    },
+    {
+      "heading": "A Steam Carriage in London",
+      "paragraphs": [
+        "Trevithick and Vivian did not give up. In 1802 they patented a design for a steam carriage, and in 1803 they built a new vehicle meant to impress the richest and most important city in Britain: London. The engine parts were made in Cornwall and shipped to London, and a coachmaker named William Felton, with a workshop on Leather Lane, built the passenger body. Felton charged £207 for the coach alone.",
+        "The London Steam Carriage looked like a tall stagecoach perched on top of gigantic driving wheels about 2.4 metres (8 feet) across, taller than a grown-up standing on another's shoulders. The huge wheels were meant to roll smoothly over London's rough, potholed streets. It carried seven or eight passengers at speeds between about 6 and 14 kilometres per hour (4 to 9 mph), and on one run it travelled roughly 16 kilometres, through the streets to Paddington and back by way of Islington.",
+        "Sadly, nobody wanted to buy one. On a later run it crashed into the railings in front of a house, the demonstrations had eaten up the inventors' money, and no investor came forward. The carriage was eventually scrapped. Trevithick turned to rails instead. In February 1804 his locomotive at Penydarren in South Wales pulled about 10 tonnes of iron and around 70 people along a tramway, the first time a steam locomotive had hauled a load on rails, but that is a story for the railway history books. Trevithick died poor in Dartford, Kent, in 1833."
+      ]
+    },
+    {
+      "heading": "Steam Buses on Real Roads",
+      "paragraphs": [
+        "By the 1820s and 1830s, Britain went through a burst of steam-carriage excitement. Better roads built by the turnpike trusts, and better engines, made inventors think steam coaches could take passengers between towns faster and more cheaply than horses.",
+        "One of the boldest was Goldsworthy Gurney, a Cornish surgeon turned inventor. On 27 July 1829, a procession of four vehicles led by Gurney's steam carriage set off from Cranford Bridge, near Hounslow west of London, heading for the elegant spa city of Bath. It was the first long-distance journey at speed by a steam road vehicle. Not everyone was happy to see it. At the town of Melksham, a crowd, perhaps including people who feared for their jobs with horses, threw stones; the stoker was hurt and the carriage damaged. It had to be escorted under guard to Bath for repairs. On the way back, Gurney said, his carriage covered the 84 miles (about 135 kilometres) from Melksham to Hounslow in about 10 hours, including stops.",
+        "Gurney's carriages also ran a real passenger service. Starting in February 1831, Sir Charles Dance used them on the 9-mile (about 14-kilometre) road between Gloucester and Cheltenham, running twice a day. In four months they made 396 trips, averaging about 55 minutes a journey, a little faster than the hour taken by horse coaches, and fares dropped to half the old price. But then the local turnpike trustees heaped thick layers of loose new stone onto the road. Struggling across it, one carriage broke its crankshaft, and the service ended.",
+        "In London, Walter Hancock ran what were, in effect, the world's first steam buses. His 10-seat 'Infant' of 1829 was enlarged to 16 seats and from 1831 ran a regular service between Stratford, in east London, and the city centre. In 1833 his 'Enterprise' began a regular service between London Wall and Paddington via Islington. His best machine, the 22-seat 'Automaton' of 1836, made more than 700 journeys, usually rolling along at 12 to 15 mph (about 19 to 24 kilometres per hour), and could top 20 mph. By Hancock's own count his vehicles carried 12,761 passengers over about 4,200 miles. For a few years, Londoners could hop on a steam bus.",
+        "What was it like to ride one? Passengers sat in a carriage body much like a horse bus, while a crew at the front and back tended the fire and the engine. Hancock's Enterprise, for example, needed three people to run it. There was heat, hissing, the clatter of iron tyres on stone and the smell of burning fuel, but there was no horse to tire out, and the bus could keep a steady pace up hills that would have slowed a team to a walk. In October 1832 Hancock even drove his improved Infant all the way from London to Brighton on the south coast as an experiment.",
+        "Gurney also invented a very bright theatre and street light called the Bude-Light, and later a stove still used in some cathedrals. Hancock, though, had no such fallback; road steam was his life's work. By 1840 he had given up."
+      ]
+    },
+    {
+      "heading": "Why the Steam Coaches Disappeared",
+      "paragraphs": [
+        "If steam buses worked, why did they vanish? There were several reasons, all pushing in the same direction.",
+        "First came tolls. The turnpike trusts that ran the main roads could charge whatever their local laws allowed, and many set enormous fees for steam vehicles. On one road a steam carriage might be charged £2 for a trip when a horse coach paid about 2 shillings, which is twenty times less. Trustees argued that heavy machines wrecked their roads. Supporters of steam replied that the wide wheels of a steam carriage did less damage than the sharp hooves of a team of horses. In 1831 a committee of the House of Commons investigated, heard evidence from Gurney and others, decided that steam carriages were safe, fast and cheap, and recommended removing the unfair tolls. The Commons passed a bill, but the House of Lords threw it out.",
+        "Second, powerful groups felt threatened. Coach companies, horse dealers, innkeepers and turnpike trusts all made money from horses. Historians still argue about how much these groups and, later, railway companies deliberately worked against road steam, but they certainly did not welcome it.",
+        "Third, and most important, came the railway. The Liverpool and Manchester Railway opened in 1830, and over the next twenty years iron rails spread across Britain. A train on smooth rails could carry hundreds of people and tonnes of goods far faster and more cheaply than any steam carriage bumping along a road. Money and engineering talent poured into railways. Even the stagecoaches began to disappear; within a few years of a railway opening, the long-distance coaches along its route usually went out of business.",
+        "And steam itself had drawbacks on the road. Boilers were heavy. The crew had to carry water and stop to refill. Starting from cold, a steam vehicle needed time, often a long time in those days, to light the fire and raise steam before it could move. A boiler needed constant attention, and a careless crew could ruin it, as the Puffing Devil showed."
+      ]
+    },
+    {
+      "heading": "The Man with the Red Flag",
+      "paragraphs": [
+        "Steam did not disappear from British roads completely. By the 1850s and 1860s, big, slow 'traction engines' were working on farms, pulling ploughs, threshing machines and heavy wagons along country lanes. People worried that they frightened horses, blocked narrow lanes and damaged roads and bridges. Parliament responded with a series of laws called the Locomotive Acts.",
+        "The Locomotive Act of 1861 set speed limits of 10 mph in the country and 5 mph in towns. Then came the strictest one of all, the Locomotive Act of 1865, nicknamed the 'Red Flag Act'. It cut the speed limits to just 4 mph (about 6 km/h) on country roads and 2 mph (about 3 km/h) in towns, slower than a quick walk. Every road locomotive needed a crew of at least three. And one of them had to walk at least 60 yards (about 55 metres) ahead, carrying a red flag to warn riders and carriage drivers and to signal the driver to stop if needed. Breaking the speed limit could bring a fine of up to £10, a large sum at the time.",
+        "In 1878 the law was changed. The red flag was no longer required, and the person walking ahead only had to keep at least 20 yards (about 18 metres) in front. But the low speed limits stayed, and some counties made their own local rules, even demanding the red flag anyway. Meanwhile, the first petrol-powered cars were being built in Germany and France from the mid-1880s, but under British law they counted as 'locomotives' too. A British motorist had to crawl along with a walker in front. No wonder British carmaking got off to a slow start.",
+        "Car fans, led by people like the businessman Harry J. Lawson and Sir David Salomons of the Self-Propelled Traffic Association, campaigned hard for change. They won. The Locomotives on Highways Act of 1896 freed light vehicles weighing under 3 tons from the old rules. No walker was needed at all, and the speed limit was raised to 14 mph (about 22 km/h), though officials soon set 12 mph as the usual limit. The new law came into force on 14 November 1896.",
+        "To celebrate, Lawson organised a grand 'Emancipation Run' from London to Brighton on that very day. Emancipation means being set free. Before the start, at a breakfast in London, the Earl of Winchilsea tore a red flag in two to show that the old rule was dead. Then 33 motor vehicles set off in grey, wet November weather for the seaside town of Brighton, about 54 miles (87 kilometres) away. Only 17 are reported to have made it, a sign of how unreliable early cars still were.",
+        "The run is still remembered. Since 1927 it has been re-enacted almost every year, on the first Sunday in November, as the London to Brighton Veteran Car Run. Only cars built before 1905 may take part, and hundreds of brass-lamped, open-topped machines chug out of Hyde Park at dawn. It is called the world's longest-running motoring event."
+      ]
+    },
+    {
+      "heading": "Steam's Last Bright Spark in France",
+      "paragraphs": [
+        "While British steam was held back, French inventors kept experimenting. In the city of Le Mans, Amédée Bollée ran his family's bell foundry, casting church bells, and in his spare time he built steam vehicles. At the end of 1873 he finished L'Obéissante, French for 'The Obedient One', a name that boasted it would go exactly where it was steered.",
+        "L'Obéissante carried 12 passengers and weighed just under 5 tonnes. Instead of one engine, it had two, one for each rear wheel, which helped it turn corners smoothly. On long trips it averaged around 20 kilometres per hour and on level roads it could briefly reach 40, and its front wheels had springs that moved separately, an early form of independent suspension. In October 1875 Bollée drove it about 230 kilometres from Le Mans to Paris in about 18 hours, including stops for water and meals, causing a sensation. Like Cugnot's fardier, the original now stands in the Musée des Arts et Métiers in Paris. His next steam car, La Mancelle of 1878, was built in a batch of about 50, making it one of the first vehicles of any kind produced in series.",
+        "Bollée's machines proved that steam vehicles could be fast, comfortable and reliable. But they also showed steam's stubborn weaknesses: a heavy boiler, tanks of water, coal or other fuel to shovel, and a long warm-up before you could set off. Every steam vehicle was really two machines, a furnace and boiler to make steam and an engine to use it.",
+        "So engineers began to wonder about a radical shortcut. What if, instead of burning fuel in a fire outside the engine to boil water in a heavy boiler, you could burn the fuel right inside the engine itself, so that the burning gases pushed the piston directly?"
+      ]
+    }
+  ],
+  "deepDive": "Cugnot's fardier is often called 'the first automobile', but historians debate what that label should mean. It was the first full-size, self-propelled road vehicle that we know was actually built and run, and the 1770 machine survives in Paris. Yet it was never practical: its boiler lacked capacity, so steam had to be raised again about every quarter of an hour, and its real speed, about 3.6 to 4 km/h, fell well short of the army's target of about 7.8 km/h with a four-tonne load. The famous 1771 wall crash appears only in an account from 1804, so it remains unproven. The British story raises a different debate: why did a country that led the world in steam technology fall behind in road vehicles? The traditional explanation blames hostile 'vested interests' such as horse-coach operators and railway companies. More recent historians stress plainer economics and engineering. Turnpike tolls were set by many separate local trusts, and some charged steam vehicles many times the horse rate. Railways, from 1830, offered far cheaper transport for both people and freight. And the heavy traction engines that later used roads really did frighten horses and strain old bridges, so the Locomotive Acts were partly a reasonable safety response, even if they became absurd for light motor cars. The speed numbers are a good example of how laws changed: 1861 allowed 10 mph in the country and 5 mph in towns; 1865 cut that to 4 mph and 2 mph with a flag-carrier 60 yards ahead; 1878 dropped the flag and allowed 20 yards; and 1896 freed vehicles under 3 tons, with a legal maximum of 14 mph that officials soon set at 12 mph. Another debate concerns the 1896 Emancipation Run itself: stories circulated that some 'finishers' had actually travelled part of the way by train, so the official count of 17 arrivals has long been treated with some caution. Finally, comparing energy sources helps explain what came next. A steam engine is an external combustion engine: fuel burns in a firebox, heats water, and only then does steam push a piston. Energy is lost at each step, and the boiler and water add great weight, which is why compact internal combustion engines would win on the road.",
+  "funFact": "Richard Trevithick's Puffing Devil was destroyed just days after its famous Christmas Eve 1801 run because its crew left the fire burning while they went to an inn, and the boiler boiled dry.",
+  "check": {
+    "q": "Under Britain's 1865 'Red Flag Act', what did one member of a road locomotive's crew have to do?",
+    "a": "Walk at least 60 yards ahead carrying a red flag to warn other road users",
+    "wrong": [
+      "Ride a horse beside the vehicle ringing a bell",
+      "Sit on the roof blowing a whistle every minute",
+      "Run ahead and pay the toll at every gate"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Nicolas-Joseph Cugnot",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nicolas-Joseph_Cugnot"
+    },
+    {
+      "title": "Fardier à vapeur",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fardier_%C3%A0_vapeur"
+    },
+    {
+      "title": "Puffing Devil",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Puffing_Devil"
+    },
+    {
+      "title": "London Steam Carriage",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/London_Steam_Carriage"
+    },
+    {
+      "title": "Goldsworthy Gurney",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Goldsworthy_Gurney"
+    },
+    {
+      "title": "Walter Hancock",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Walter_Hancock"
+    },
+    {
+      "title": "Locomotive Acts",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Locomotive_Acts"
+    },
+    {
+      "title": "London to Brighton Veteran Car Run",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/London_to_Brighton_Veteran_Car_Run"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Cugnot's 1770 steam fardier on display in the Musée des Arts et Métiers in Paris, showing the big copper boiler at the front",
+      "search": "Fardier Cugnot Arts et Métiers"
+    },
+    {
+      "want": "The working replica of Trevithick's Puffing Devil steam carriage in Camborne, Cornwall",
+      "search": "Puffing Devil replica Trevithick"
+    },
+    {
+      "want": "Veteran cars taking part in the London to Brighton Veteran Car Run",
+      "search": "London to Brighton Veteran Car Run"
+    }
+  ]
+}

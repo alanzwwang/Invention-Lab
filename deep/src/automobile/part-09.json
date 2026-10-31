@@ -1,0 +1,160 @@
+{
+  "n": 9,
+  "title": "From Engine to Wheels: Gears, Tires, Steering and Brakes",
+  "when": "science (1818 – today)",
+  "summary": "An engine can spin, but how does that spin reach the wheels? Meet the clever parts that make a car go, turn and stop: gears, a box of wheels that let tires 'disagree', air-filled tires first made for a little boy's tricycle, and brakes that use liquid to multiply the push of your foot.",
+  "sections": [
+    {
+      "heading": "A Spinning Shaft and the Clutch",
+      "paragraphs": [
+        "Imagine you have just built a perfect engine. It sits on a workbench, roaring away, its crankshaft spinning a couple of thousand times every minute. You feel proud. Then you push it towards the door and realise something awkward: it does not go anywhere. All that power is trapped in one whirling steel shaft. To make a car, you need a whole chain of clever parts that carry the power from that shaft to four rubber wheels on a bumpy road, and then let a human being point those wheels in the right direction and stop them safely.",
+        "Engineers call this chain the drivetrain. It begins at the engine and runs through the clutch, the gearbox, a long spinning driveshaft (in many cars), the differential and finally the axles that turn the wheels. Around it sit the other systems that make a car drivable: steering, tires, brakes and suspension. None of these was invented in a single flash. Some were borrowed from horse carriages, some from bicycles, some from clocks and some from aircraft workshops. A few of the key ideas are much older than the car itself, going back to the 1810s and 1820s, long before anyone had an engine small enough to fit under a seat.",
+        "Let us start with the first problem. An internal combustion engine cannot start itself from a standstill while it is connected to heavy wheels, and it stalls if it is forced to turn too slowly. A steam engine can push hard even when it is barely moving, but a gasoline engine needs to keep spinning to make power. So the very first thing a car needs is a way to let the engine run freely while the wheels stay still, and then to join the two together smoothly.",
+        "That joining job belongs to the clutch, a part that connects or disconnects the engine from the wheels. In the most common kind, the dry friction clutch, a round friction disc faces the heavy flywheel at the end of the crankshaft. Strong springs squeeze the disc against the spinning flywheel, the surfaces grip, and power flows on to the gearbox. When the driver presses the clutch pedal, levers pull the springs back, the disc slides away and the engine can keep spinning while the wheels stand still.",
+        "The clever bit comes when you let the pedal up slowly. For a second or two the disc touches the flywheel but slips against it, a bit like rubbing your hands together. That slipping lets the car's speed catch up gently with the engine's speed, so the car rolls forward instead of leaping or stalling. Every learner driver knows this moment, called finding the 'biting point'. Slip too long and the friction material wears away and gets hot. Let go too quickly and the car jerks and the engine dies.",
+        "Early cars tried many styles of clutch. A popular one was the cone clutch, often faced with leather, which wedged into a matching hollow cone in the flywheel; it gripped strongly but could grab suddenly. Later designs used flat discs, and racing cars and motorcycles often stack several thin plates together."
+      ]
+    },
+    {
+      "heading": "The Gearbox: Strong and Slow or Fast and Light",
+      "paragraphs": [
+        "Once the engine is connected, a second problem appears. A gasoline engine works best within a certain range of speeds. Too slow and it chugs and stalls; too fast and it screams and wears out. But the wheels of a car need to turn very slowly when you are crawling away from a standstill or climbing a steep hill, and very quickly when you are cruising along a motorway. The gearbox, also called the transmission, solves this by letting the engine turn the wheels slowly with lots of force, or fast with less force.",
+        "You already know how this works if you ride a bicycle with gears. When you pedal up a steep hill in a low gear, your legs spin round many times while the back wheel turns only a little, but every push feels easy. In a high gear on a flat road, one turn of the pedals sends the wheel spinning a long way, but each push is harder. A car gearbox does exactly the same. In first gear, a small gear on the engine's side drives a much bigger gear, so the output turns perhaps three or four times more slowly than the engine but with three or four times more twisting force, which engineers call torque. In top gear, the gears might be equal in size, a ratio of 1 to 1, called direct drive, or the output may even spin faster than the engine, called overdrive.",
+        "The early Benz cars had hardly any gearing choice at all, which is why, in 1888, Bertha Benz and her sons had to push their car up the hills on the road to Pforzheim, and why Bertha suggested to Karl afterwards that the car needed a lower gear for climbing.",
+        "The French firm Panhard et Levassor fitted a three-speed gearbox to its cars in 1891, part of the layout described in Part 6 that most cars copied for decades. In these early gearboxes the driver actually slid toothed gears along a shaft until they meshed with other spinning gears. If the two gears were turning at different speeds, their teeth smashed together with a horrible grinding noise. Drivers nicknamed them 'crash boxes', and changing gear smoothly took real skill: you had to listen to the engine, judge its speed and sometimes press the clutch twice for a single change, a trick called double-declutching.",
+        "The cure was synchromesh. In a synchromesh gearbox, small cone-shaped friction rings gently rub against the gear you are about to choose and bring it to the same speed as its partner before the teeth lock together, so they slide in quietly. The American engineer Earl Avery Thompson invented the idea in 1919, and Cadillac put it into production cars at the end of the 1920s (sources give 1928 or the 1929 model year). By the middle of the 1930s most American carmakers had synchronised at least the higher gears, and in the 1950s Porsche made gearboxes with synchromesh on every forward gear.",
+        "Gearboxes also gained more gears. For most of the twentieth century three or four forward gears were normal; five-speed boxes spread in the 1980s, and today many cars have six, eight or even ten, letting the engine stay near its most efficient speed and save fuel."
+      ]
+    },
+    {
+      "heading": "The Differential: Why Wheels Need to Disagree",
+      "paragraphs": [
+        "Here is a puzzle. Draw two circles on the playground, one inside the other, like a running track with two lanes. Ask two friends to walk around them, side by side, keeping exactly level the whole way. The friend on the outside lane has to take bigger or faster steps, because the outer circle is longer. A car going round a bend has the same problem. Its outer wheels travel a longer path than its inner wheels in exactly the same time, so they must spin faster.",
+        "Let us put in some numbers. Suppose a car's left and right wheels are 1.5 metres apart and the car drives once around a circle where the inner wheel follows a path 10 metres from the centre. The inner wheel travels about 63 metres. The outer wheel, 11.5 metres from the centre, travels about 72 metres, roughly 15 percent further. If both driven wheels were fixed to one solid axle, one of them would have to skid or scrub along the ground the whole way round. The tires would wear out quickly, the car would fight the driver on every corner and on slippery ground it could slide.",
+        "The answer is a cluster of gears called the differential. It sits in the middle of the driven axle, in that rounded lump you can see under the back of many older rear-wheel-drive cars and trucks. Power from the engine turns a large ring gear, which carries a small cage holding little gears called planet gears or spider gears. These mesh with gears on the ends of the left and right axles. When the car goes straight, both wheels push back equally, the little gears do not spin on their own and both axles turn together. On a bend, the inner wheel meets a little more resistance; now the small gears start to roll, letting the inner wheel slow down while the outer wheel speeds up by exactly the same amount. The average speed of the two wheels always matches the speed of the ring gear.",
+        "The idea of gears that add and subtract motions is older than cars: a clock made by Joseph Williamson around 1720 used one, and so did cotton-spinning machines in the 1820s.",
+        "For vehicles, the key name is Onésiphore Pecqueur, a French watchmaker and engineer who worked at the Conservatoire des Arts et Métiers in Paris, the same institution whose museum now keeps Cugnot's steam wagon. In 1827 Pecqueur patented a steam vehicle design that included a differential on the driven axle, letting the two wheels turn at different speeds. His experience with clock gears that turn at different rates helped him see the solution. Later, in 1876, the English inventor James Starley patented a differential for a pedal-powered quadricycle, and when Karl Benz built his Patent-Motorwagen, he included a differential too.",
+        "The simple 'open' differential has one weakness you may have seen on a snowy day. Because it sends the same twisting force to both wheels, if one wheel sits on ice and can barely push, the other wheel gets almost nothing either. The slippery wheel spins madly while the car stays stuck. Engineers invented limited-slip differentials, locking differentials and, more recently, electronic traction control that gently brakes the spinning wheel, all to deal with this problem."
+      ]
+    },
+    {
+      "heading": "Steering: A Carriage-Maker's Clever Trapezium",
+      "paragraphs": [
+        "Turning corners causes trouble at the front of a car, too. For thousands of years, carts and carriages were steered by pivoting the whole front axle on one central pin. This turntable steering works, but when the axle swings round, the front wheels move in under the body, so the carriage becomes narrower and wobblier exactly when it is turning, and a sharp turn could tip it over.",
+        "In 1816 a German carriage builder in Munich, Georg Lankensperger, came up with a better system. Instead of one big pivot, each front wheel got its own small pivot right next to the wheel, so the axle could stay fixed while the wheels turned. Each wheel's pivot had a short steering arm, and a rod called a tie rod linked the two arms together.",
+        "The genius was in the angles. If you look at the axle, the two steering arms and the tie rod from above, they form a trapezium, a four-sided shape with the tie rod a little shorter than the axle. Because of this shape, when the driver turns, the inner wheel automatically turns more sharply than the outer wheel. That matters because, as we saw with the differential, the inner wheel follows a smaller circle. With the angles set just right, lines drawn through the centres of all four wheels meet at a single point, the centre of the turn, and every tire rolls cleanly around its own circle without being dragged sideways.",
+        "Lankensperger's agent in England was Rudolph Ackermann, a German-born businessman who ran a famous print and book shop in London. In 1818 Ackermann took out a British patent for the design, which is why the idea is still called Ackermann steering geometry today, even though the inventor was Lankensperger. To be fair to everyone, there is an even earlier claim: the English doctor and inventor Erasmus Darwin, grandfather of Charles Darwin, seems to have sketched a similar idea around 1758, reportedly after being hurt when his own carriage overturned.",
+        "Ackermann geometry was designed for horse carriages, but it was waiting for the car. Early motor vehicles were often steered with a tiller, like a small boat, before the steering wheel took over. Modern cars do not use perfect Ackermann angles, because tires flex and slip slightly at speed, but every car still steers its front wheels on separate pivots linked by tie rods, just as Lankensperger proposed more than 200 years ago."
+      ]
+    },
+    {
+      "heading": "Riding on Air: The Story of the Pneumatic Tire",
+      "paragraphs": [
+        "The first cars bounced along on wheels much like those of a carriage: wooden spokes and rims, sometimes wrapped with a band of iron or solid rubber. On the rutted, stony roads of the 1880s and 1890s, that meant a jolting, rattling ride that shook passengers and broke parts. The solution was a tire filled with air, called a pneumatic tire, which works like a cushion. When the wheel hits a small stone, the soft air-filled tube squashes around it instead of the whole car being thrown upward.",
+        "The first person to patent such a tire was Robert William Thomson, a Scottish engineer from Stonehaven. In 1845, aged about 23, he patented his 'Aerial Wheels' in Britain, followed by France and the United States. They used a hollow rubber tube filled with air, protected by a leather cover bolted to the wheel. In March 1847 he demonstrated them on horse-drawn carriages in Regent's Park, London, and one set reportedly ran about 1,200 miles without showing wear. Yet the idea did not catch on. Rubber was expensive, there were no bicycles or cars yet that badly needed such tires, and Thomson went on to other inventions, including a fountain pen.",
+        "About forty years later the idea was reinvented by someone who had probably never heard of Thomson. John Boyd Dunlop was a Scottish vet working in Belfast. In late 1887 his young son complained that his tricycle gave him a hard, bumpy ride on the city's cobbles. Dunlop made a tube of thin rubber sheet, pumped it full of air, wrapped it in canvas and fixed it around a wheel. The ride was dramatically smoother and faster. He was granted a patent in December 1888, and in 1889 a cyclist named Willie Hume won races in Ireland and England on Dunlop's tires, beating riders on solid tires and convincing the cycling world.",
+        "There was a twist. About two years after his patent, Dunlop learned that it was invalid, because Thomson's earlier patent had already described the same basic idea. Even so, Dunlop deserves real credit: he showed that rubber could survive the wear of a tire while keeping its springiness, and with the businessman Harvey du Cros he helped start the company that made pneumatic tires a worldwide industry. His name is still on tires today.",
+        "Cars were heavier and faster than bicycles. In France, the brothers André and Édouard Michelin took over a rubber company in Clermont-Ferrand in 1889. They designed a removable bicycle tire that could be changed far more quickly than the glued-on kind, patented it in 1891, and the cyclist Charles Terront rode on it to win the first Paris–Brest–Paris race that year.",
+        "In June 1895 the Michelins went further. They entered a car named L'Éclair ('Lightning') in the Paris–Bordeaux–Paris race, a gruelling round trip of about 1,178 kilometres, and fitted it with air-filled tires, something almost nobody had tried on a car in a major race. The tires punctured again and again, and the brothers spent hours by the roadside making repairs. L'Éclair did complete the course, though too slowly to count within the official time limit. That might sound like a failure, but it proved that a car could travel on air, and within a few years pneumatic tires became standard on cars.",
+        "Tires kept improving. In 1946 Michelin patented the radial tire, whose inner cords run straight across from side to side; radials grip better, run cooler and last longer, and by the 1980s they were on almost every car in North America."
+      ]
+    },
+    {
+      "heading": "Brakes: Turning Speed into Heat",
+      "paragraphs": [
+        "Going is only half of driving. Stopping is the other half, and for the first cars it was the scary half. A moving car carries a lot of energy, called kinetic energy, and to stop it that energy has to go somewhere. Brakes work by friction: they rub something against a spinning part of the wheel and turn the energy of motion into heat. Here is a sense of how much. A family car weighing 1,500 kilograms travelling at 100 kilometres per hour carries roughly 580,000 joules of energy. Stopping it turns all of that into heat in a few seconds, enough heat, in theory, to bring about one and a half litres of cold water to the boil.",
+        "The earliest cars borrowed their brakes from horse carriages. A lever pressed a wooden block or a metal 'spoon' against the tire or the rim, or against a drum on the axle. That was fine at 15 kilometres per hour, but the wood wore away quickly. During Bertha Benz's famous drive in 1888, the family story says she asked a shoemaker to nail leather onto the brake blocks, an early brake lining. As cars got faster and heavier, they needed something far stronger.",
+        "The drum brake was the next big step. A round metal drum, shaped like a short, wide can, is fixed to the wheel and spins with it. Inside sit two curved 'shoes' lined with friction material. When the driver presses the pedal, the shoes are pushed outward against the inside of the drum, and the rubbing slows the wheel. When the pedal is released, springs pull the shoes back. A car built by Wilhelm Maybach's team is reported to have used an early drum brake in 1900, and the French carmaker Louis Renault patented the principle in 1902. Renault lined his brake shoes with woven asbestos, a mineral fibre that could survive great heat. Much later, people discovered that breathing asbestos dust causes serious lung diseases, so modern brakes use other materials.",
+        "Early drum brakes were worked by rods, levers and cables, which stretched and bent, so it was hard to make every wheel brake equally. If one wheel gripped harder than the others, the car could swerve."
+      ]
+    },
+    {
+      "heading": "Liquid Muscle: Hydraulic and Disc Brakes",
+      "paragraphs": [
+        "The breakthrough came from a simple fact about liquids: you cannot squeeze them into a smaller space. Fill a sealed tube with oil and push on one end, and the push travels instantly to the other end, and to every other part of the liquid, with the same pressure. This principle was described by the French scientist Blaise Pascal in the 1600s, and it is the secret of hydraulic brakes.",
+        "In a hydraulic brake, the brake pedal pushes a small piston in a part called the master cylinder, which is full of brake fluid. Thin metal pipes carry that fluid to a cylinder at each wheel, where larger pistons push the brake shoes or pads. Because the pressure is the same everywhere, a bigger piston feels a bigger force. If a wheel piston has four times the area of the master piston, a push of 10 newtons at the pedal end becomes a push of about 40 newtons at the wheel. A driver's foot can produce a huge squeezing force at all four wheels at once, and the pressure is shared evenly, so the car stops straight.",
+        "Several inventors experimented with hydraulic brakes in the early 1900s. The design that caught on came from an American, Malcolm Loughead, who patented his hydraulic brakes in 1917. The racing-car builder Fred Duesenberg tried Loughead's brakes, and in 1921 the Duesenberg Model A became one of the first production cars sold with hydraulic brakes on all four wheels. Other carmakers followed through the 1920s and 1930s. Malcolm and his brother Allan later changed the spelling of their surname to match its sound, and that is why one of the world's most famous aircraft companies is called Lockheed.",
+        "Drum brakes have one serious weakness. Because the friction happens inside a closed drum, the heat has trouble escaping. On a long downhill road or in a race, the drums get so hot that the brakes grow weaker, a frightening effect called brake fade. The answer was the disc brake. Here a flat metal disc spins with the wheel, out in the open air, and a clamp called a caliper squeezes friction pads against both sides of it, the way you might pinch a spinning coin between finger and thumb.",
+        "The English engineer Frederick Lanchester patented a disc brake for cars in 1902, but it used copper pads that wore out quickly on the rough roads of the time. The real proof came in motor racing: in 1953 Jaguar won the 24 Hours of Le Mans with disc brakes, a story told in Part 15. Two years later the Citroën DS became the first car built in large numbers with modern disc brakes. Today almost every car has discs at the front, where most of the stopping happens, and many have them at the back too."
+      ]
+    },
+    {
+      "heading": "Smoothing the Bumps and Doing Away with the Clutch Pedal",
+      "paragraphs": [
+        "There is one more problem every car has to solve: the road is never flat. Potholes, stones, cobbles and ruts would shake passengers and parts to pieces if the wheels were bolted directly to the body. So between the wheels and the body sits the suspension, made of springs and shock absorbers.",
+        "The first car springs came straight from carriages. Leaf springs are stacks of long, curved steel strips clamped together; when a wheel hits a bump, the stack bends and soaks up the blow. Coil springs, like giant pen springs, are found on most cars today.",
+        "Springs have a problem of their own: once squashed, they bounce back, and then keep bouncing. A car on springs alone would bob up and down like a boat after every bump. That is the job of the shock absorber, more correctly called a damper. A modern damper is a tube of oil with a piston inside. As the wheel moves, the piston is forced through the oil, which can only squeeze through tiny holes and valves. This slows the movement and turns the energy of the bouncing into a little heat, so the car settles after one or two gentle movements.",
+        "Early dampers used friction plates and tended to stick. The French engineer Maurice Houdaille patented a lever-arm hydraulic damper in 1908 and 1909, and dampers of this type came into wide use after World War I; Ford fitted them as standard on its new Model A at the end of the 1920s.",
+        "The last great change in this part made driving easier for millions of people. Changing gear by hand, with a clutch pedal and a crash box, was tiring, especially in city traffic. Engineers dreamed of a gearbox that would choose gears by itself. In May 1939 General Motors began making the Hydra-Matic, the first fully automatic transmission produced in large numbers for passenger cars, and offered it on its 1940 Oldsmobiles. It had four forward gears, chosen automatically by oil pressure and the speed of the car, and instead of a clutch pedal it used a fluid coupling: two fan-like wheels facing each other in a bath of oil, so that one spinning wheel stirs the oil and the oil turns the other. At first it cost an extra 57 dollars. Almost 200,000 had been sold by early 1942, when American car factories switched to war production, and Hydra-Matic gearboxes were then fitted to military vehicles such as the M5 Stuart and M24 Chaffee light tanks.",
+        "Step back and look at what we have assembled: a clutch to make a gentle start, a gearbox to match engine and road, a differential so the wheels can disagree on corners, steering that lets each front wheel follow its own circle, air-filled tires, powerful brakes and springy suspension. By the early 1900s, the best European cars had many of these parts, and they were wonderful machines. But there was a catch. Each was built largely by hand, by skilled craftsmen filing and fitting each piece, and that made them very expensive, toys for the rich. Meanwhile, on the far side of the Atlantic Ocean, in a country of huge distances, muddy roads and restless inventors, a new kind of car fever was about to break out."
+      ]
+    }
+  ],
+  "deepDive": "Much of a car's drivetrain is applied physics. A gearbox trades speed for torque: if an engine making 150 newton-metres turns a gear pair with a ratio of 3.5 to 1, the output shaft turns 3.5 times more slowly but, ignoring small friction losses, delivers about 525 newton-metres. The final drive in the differential multiplies torque again, often by another 3 to 4 times, which is why a modest engine can heave a tonne and a half of car up a steep hill in first gear. Power, which is torque multiplied by turning speed, stays roughly constant through the gears; the gearbox only changes how it is packaged. The differential is a mechanical averaging machine: the ring gear's speed always equals the average of the two wheel speeds, so if one wheel stops entirely the other spins at twice the normal rate. That same property explains its weakness: because an open differential delivers equal torque to both sides, the wheel with the least grip limits the push of both. Hydraulic brakes use Pascal's principle. Pressure equals force divided by area, and pressure in a sealed fluid is the same everywhere, so a wheel piston with several times the area of the master cylinder piston produces several times the force, at the cost of moving a shorter distance. Modern cars add a vacuum or electric booster so the pedal feels light. Historians also argue about credit. Ackermann steering is named after the man who held the 1818 British patent, not the carriage builder Georg Lankensperger who designed it, and Erasmus Darwin may have had the idea around 1758. Dunlop's 1888 tire patent was ruled invalid because Robert William Thomson had patented a pneumatic tire in 1845, yet Dunlop's practical tire and business partners created the industry. Drum brakes are credited both to a Maybach-built car of 1900 and to Louis Renault's 1902 patent. These cases show a common pattern in invention: the first person to describe an idea, the first to patent it and the first to make it succeed are often different people.",
+  "funFact": "The Lockheed aircraft company got its name from brothers Malcolm and Allan Loughead, and Malcolm patented hydraulic car brakes in 1917, before the brothers changed the spelling of their name.",
+  "check": {
+    "q": "Why does a car need a differential?",
+    "a": "Because on a bend the outside wheel travels farther than the inside wheel, so the two wheels must turn at different speeds.",
+    "wrong": [
+      "To change the engine from forward to reverse",
+      "To cool the brakes on long hills",
+      "To pump air into the tires while driving"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Differential (mechanical device)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Differential_(mechanical_device)"
+    },
+    {
+      "title": "Ackermann steering geometry",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ackermann_steering_geometry"
+    },
+    {
+      "title": "Tire",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tire"
+    },
+    {
+      "title": "John Boyd Dunlop",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Boyd_Dunlop"
+    },
+    {
+      "title": "Robert William Thomson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robert_William_Thomson"
+    },
+    {
+      "title": "Hydraulic brake",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hydraulic_brake"
+    },
+    {
+      "title": "Disc brake",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Disc_brake"
+    },
+    {
+      "title": "Hydramatic",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hydramatic"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A cutaway or diagram of a car differential showing the ring gear and small spider gears",
+      "search": "automobile differential cutaway gears"
+    },
+    {
+      "want": "A diagram of Ackermann steering geometry showing the tie rod, steering arms and turning centre",
+      "search": "Ackermann steering geometry diagram"
+    },
+    {
+      "want": "Portrait photograph of John Boyd Dunlop, inventor of the practical pneumatic tire",
+      "search": "John Boyd Dunlop portrait"
+    }
+  ]
+}

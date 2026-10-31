@@ -1,0 +1,155 @@
+{
+  "n": 1,
+  "title": "Talking Without Wires: The World Before Mobile Phones",
+  "when": "1876 – 1970s",
+  "summary": "Long ago, every telephone was tied to a wall by a wire. Then inventors learned to send messages through the air with radio, and soldiers, police and ships began to talk without wires. In 1946 the first car phones arrived, but they were as heavy as a big dog, and so few people could use them at once that many had to wait in line!",
+  "sections": [
+    {
+      "heading": "A Voice on a Wire",
+      "paragraphs": [
+        "Picture a workshop in Boston in March 1876. A 29-year-old teacher of deaf students named Alexander Graham Bell leans toward a strange gadget made of a membrane, a magnet and a coil of wire. In another room his assistant, Thomas Watson, holds a matching gadget to his ear. On March 10, Bell speaks into his device, and Watson hears the words clearly through the wire: 'Mr. Watson, come here, I want to see you.' Watson hurries into the room. For the first time, a human voice had traveled along a wire and come out the other end as understandable speech.",
+        "Just three days before that famous moment, on March 7, 1876, the United States Patent Office had granted Bell patent number 174,465. A patent is an official document that says, in effect, 'This idea belongs to this inventor, and nobody else may copy it for a number of years.' Bell's patent became one of the most valuable ever issued, because it covered a way of sending speech by electricity.",
+        "Bell was not the only person chasing this dream, though. On February 14, 1876, the very same day Bell's lawyer filed his application, a lawyer for an inventor named Elisha Gray filed a notice describing Gray's own design for a telephone. People argued for years about who really got there first. Long before both of them, an Italian immigrant in New York named Antonio Meucci had built voice-carrying devices too, and in 2002 the US House of Representatives passed a resolution honoring his work. Big inventions are often like that: several clever people are racing toward the same finish line at once, and history usually remembers only one name.",
+        "So how did Bell's telephone work? When you speak, your voice makes the air vibrate. In Bell's design, those vibrations shook a thin membrane attached to a small piece of iron sitting near an electromagnet. As the iron wobbled, it caused a tiny electric current in a coil of wire to rise and fall in exactly the same pattern as the sound. That changing current zipped along the wire to the receiver, where it pushed and pulled on another membrane, making it vibrate just like the speaker's voice. In other words, the telephone turned sound into electricity, sent the electricity down a wire, and then turned it back into sound.",
+        "The wires soon stretched farther. On August 10, 1876, Bell made a call in Ontario, Canada, between the towns of Brantford and Paris, about 13 kilometers apart, which is often described as the first true long-distance call. On October 9, 1876, Bell and Watson held a two-way conversation over a line between Cambridge and Boston, each talking and listening in turn. Every one of these calls, however, depended on a continuous metal path from one telephone to the other.",
+        "Inventors quickly made it better. Thomas Edison and others developed carbon microphones that made voices louder and clearer. The Bell Telephone Company was founded in 1877, and within about a year the first telephone exchange, a building where operators connected one caller to another, was running in Connecticut. Over the following decades, telephone poles and wires marched across cities and countryside.",
+        "But notice the catch. A telephone needed a wire. The wire ran from your house to the exchange, and the phone sat on a wall or desk at the end of it. If you wanted to make a call, you had to go to where the phone was. You could not take it on a walk, into a car, or onto a ship in the middle of the ocean. To set the telephone free, people needed a completely different way to send signals: through the empty air."
+      ]
+    },
+    {
+      "heading": "Messages Through Thin Air",
+      "paragraphs": [
+        "In the 1860s the Scottish scientist James Clerk Maxwell worked out mathematically that electricity and magnetism could travel together as waves, moving at the speed of light. These waves were invisible, and for years nobody had proved they really existed. Then, in 1888, the German physicist Heinrich Hertz built a machine in his laboratory that made sparks jump across a gap and showed that the sparks sent out invisible waves that could be detected across the room. Today we call them radio waves. Hertz himself did not think they would be very useful. He was wrong!",
+        "A young Italian named Guglielmo Marconi, born in Bologna on April 25, 1874, read about Hertz's experiments and became fascinated. At his family's country home, the Villa Griffone near Bologna, he built his own transmitters and receivers in the attic and garden. His big breakthroughs were simple but clever: he raised his antenna high into the air and connected his equipment to the ground. By 1895 he could send signals about 2 kilometers, over a hill and out of sight.",
+        "Marconi could not find enough support in Italy, so in 1896 he moved to Britain. On June 2, 1896, he filed British patent number 12,039, often described as the first patent for a radio communication system. In 1897 he sent a radio message across the Bristol Channel, a stretch of sea between England and Wales, and he started a company to sell his wireless equipment. In 1899 his signals crossed the English Channel to France.",
+        "Then came his boldest attempt. On December 12, 1901, Marconi sat in a building at St. John's, Newfoundland, on the eastern edge of North America, listening through an earphone. Across the Atlantic Ocean, about 3,500 kilometers away at Poldhu in Cornwall, England, his team was tapping out the letter 'S' in Morse code: three short dots. Marconi reported that he heard the faint clicks. Some historians have questioned whether he truly did, because there was no machine recording, only his ears, and static can play tricks. But within a few years radio messages were regularly crossing oceans, so the dream was real either way.",
+        "In 1909 Marconi shared the Nobel Prize in Physics with the German scientist Ferdinand Braun for their work on wireless telegraphy. Notice that word: telegraphy. Early radio did not carry voices at all. It carried Morse code, a system of short and long signals (dots and dashes) that stood for letters. Sending actual speech by radio, called radiotelephony, needed better equipment such as vacuum tubes, which could make smooth, strong radio waves and amplify weak ones. That technology grew up in the 1910s and 1920s and led to the radio broadcasting that filled family living rooms with music and news.",
+        "Radio quickly proved it could save lives. Ships carried radio operators, many of them employed by Marconi's company. When the Titanic struck an iceberg in April 1912, its Marconi operators sent distress calls that brought the ship Carpathia to rescue the survivors. After that disaster, governments made radio watches on passenger ships much more important. For the first time, people far out of reach of any wire could call for help."
+      ]
+    },
+    {
+      "heading": "Police Cars, Trains and Talking Radios",
+      "paragraphs": [
+        "Once radio could carry voices, people wanted to use it on the move. Some of the earliest experiments happened on trains. From 1918, German railways tested wireless telephone calls on military trains running between Berlin and Zossen, and in 1926 first-class passengers on trains between Hamburg and Berlin could make telephone calls while rolling through the countryside. It was a luxury for wealthy travelers, but it showed that a phone call did not have to stay still.",
+        "Police departments were another early customer. In the late 1920s, police in Detroit began sending radio messages to patrol cars, so officers could be told about a crime while they were already out driving. At first many of these systems worked in only one direction: the station could talk, but the officers in the car could only listen. Later systems let both sides talk, and two-way police radio spread across many cities during the 1930s.",
+        "There was a big difference between these radios and the telephone you know. A telephone call is a conversation where both people can talk at the same time. Most early two-way radios worked by 'push-to-talk.' You pressed a button to speak, and while you were talking you could not hear the other person. When you finished, you let go of the button and listened. That is why people on radios say 'over' at the end of a sentence: it means 'I'm done, your turn.' Engineers call this half-duplex, meaning signals go both ways, but only one way at a time."
+      ]
+    },
+    {
+      "heading": "Walkie-Talkies Go to War",
+      "paragraphs": [
+        "During the 1930s and 1940s, radios shrank enough for a person to carry one. Who made the first 'walkie-talkie'? That question has several possible answers, and it is fair to tell you about all of them.",
+        "In Canada, an English-born inventor named Donald Hings built a portable radio in 1937 while working for a mining and smelting company. He called it a 'packset,' and it let people out in the wilderness stay in touch. During World War II he worked on improved versions for the Canadian military, and about 18,000 of his C-58 sets were made for soldiers. In 2001 he was appointed to the Order of Canada, one of the country's highest honors.",
+        "In the United States, a young radio enthusiast named Al Gross, who had earned an amateur radio license at just 16, built and patented his own small two-way radios between 1938 and 1941. Gross went on to make some of the first Citizens Band (CB) radios and, in 1949, adapted his ideas into one of the first telephone pager systems. Both Hings and Gross are sometimes called 'the inventor of the walkie-talkie,' and many historians simply say both deserve credit.",
+        "Meanwhile, a company in Chicago was building radios for the US Army. It was called the Galvin Manufacturing Company, and it sold its car radios under the brand name 'Motorola,' which later became the company's name. Around 1940, a Galvin team that included Dan Noble and Henryk Magnuski developed the SCR-300, a radio carried on a soldier's back. It used a technique called frequency modulation (FM), which reduced crackling noise, and it was the first radio widely nicknamed a 'walkie-talkie.'",
+        "Galvin also made a smaller set, the SCR-536, which could be held in one hand like a very large telephone handset. It was called the 'Handie-Talkie.' It weighed about 2.3 kilograms (5 pounds) with its batteries, held five vacuum tubes inside a waterproof case, and had a telescoping antenna about a meter long. Its range was only about 1.6 kilometers (a mile) over land, or about 5 kilometers over water, but for a soldier that could make all the difference. About 130,000 were built during the war, and they went ashore with American troops in North Africa, Sicily, Italy and on the beaches of Normandy in June 1944.",
+        "After the war, the same company would use what it had learned about small, tough, handheld radios to build something even more amazing. Keep the name Motorola in mind. It comes back in a big way in Part 2."
+      ]
+    },
+    {
+      "heading": "June 17, 1946: The First Car Phone",
+      "paragraphs": [
+        "Now imagine you are a businessman in St. Louis, Missouri, in the summer of 1946. World War II ended less than a year ago. You have just paid for the newest gadget in America: a telephone in your car. On June 17, 1946, the Bell System, the giant telephone company led by AT&T, switched on its Mobile Telephone Service in St. Louis. For the first time, ordinary customers could make a telephone call from a moving car and talk to someone on a regular home or office phone.",
+        "But do not imagine a slim phone in your pocket. The radio equipment weighed about 36 kilograms (80 pounds), as much as a big dog or a fourth-grader. Most of it sat in the trunk of the car, with a cable running to a handset under the dashboard. The car's battery powered it, and a tall antenna stuck up from the car.",
+        "Making a call was nothing like tapping a name on a screen. You picked up the handset and, if the channel was free, pressed a button to signal the operator, a real person sitting at a switchboard. You told the operator the number you wanted, and the operator connected you. Calls coming to you went through an operator too. Like the walkie-talkies, the system used push-to-talk: you pressed the button to speak and released it to listen, so you could not both talk at once. And since anyone with a suitable radio receiver could tune in, your conversation was not very private.",
+        "It was also expensive. Customers paid about 15 dollars a month plus about 30 to 40 cents for each local call, at a time when a new car might cost around 1,000 dollars. Even so, the service spread. Chicago got car phones in October 1946, with the first calls on Illinois Bell's service on October 2 carried by equipment made by Motorola, the same company that had built the wartime Handie-Talkie, and car phone service soon spread to other cities. Within a few years the Bell System had roughly 5,000 car phone customers making about 30,000 calls a week across the United States.",
+        "Other countries tried their own systems. Sweden launched an automatic car phone system in 1956, where callers did not need an operator, though its equipment weighed about 40 kilograms. In West Germany a network called the A-Netz started in 1958. In the Soviet Union, an engineer named Leonid Kupriyanovich showed off experimental pocket radiotelephones between 1957 and 1961, and one 1961 model weighed only about 70 grams, but it remained an experiment rather than a public service. Around the world, the car phone became a symbol of being important and very busy."
+      ]
+    },
+    {
+      "heading": "Too Many Callers, Too Few Channels",
+      "paragraphs": [
+        "There was one enormous problem, and no amount of money could easily fix it. To understand it, think about radio stations. Each station broadcasts on its own frequency, its own spot on the dial. If two stations used the same frequency in the same city, they would drown each other out, and you would hear a jumble. Car phone calls worked the same way. Each conversation needed its own radio channel, a narrow slice of frequencies, and only a small number of channels had been set aside for car phones.",
+        "When the St. Louis service started, it had only three channels for the whole metropolitan area. That meant at most three customers could be on a call at the same moment. If you picked up your car phone and all three channels were busy, you simply had to wait, hoping someone would hang up soon.",
+        "Why not just add more channels? Because of the way the system was designed. Each city had one big, powerful transmitter on a tall tower or building, shouting out over the whole city and beyond. Later systems used base stations with 100 to 250 watts of power, covering an area roughly 65 to 100 kilometers (40 to 60 miles) across. A single channel used by one caller was therefore blocked for everyone else across that entire huge area. And the government, which divides up radio frequencies among television, radio stations, police, the military, ships and planes, had only allowed a few channels for car phones.",
+        "In 1964 AT&T introduced an upgrade called the Improved Mobile Telephone Service (IMTS). It was a real improvement: customers could dial numbers themselves without an operator, and both people could talk at the same time, just like a normal phone. But it still used one big transmitter per area and still had only a handful of channels. In New York City in the 1970s, about 2,000 customers shared just 12 channels, and callers could wait around half an hour to get a free line. AT&T limited the service to about 40,000 customers in the whole country.",
+        "Other countries ran into the very same wall. West Germany's A-Netz had only about 11,000 users by 1971, so a new system, the B-Netz, followed in 1972. Britain's first car phone service, opened around Manchester in 1959, still needed operators, and it stayed small for many years. Finland launched a network called ARP in 1971 that eventually reached about 35,000 subscribers, a lot for a small country but still a tiny fraction of the population. Everywhere, the story was similar: a few lucky users, long lines, and networks that filled up almost as soon as they opened.",
+        "Many more people wanted car phones than could get them. In some cities hundreds of people sat on waiting lists, and some had to wait for years before a spot opened up. The equipment itself cost a fortune: an IMTS car phone could cost 2,000 to 4,000 dollars, and calls could cost more than a dollar a minute. A telephone engineer of the time might have summed up the problem like this: the more popular car phones became, the worse they worked."
+      ]
+    },
+    {
+      "heading": "Comic Strips and Starships",
+      "paragraphs": [
+        "While engineers wrestled with channels and transmitters, storytellers were dreaming much bigger. On January 13, 1946, just months before the first car phone call in St. Louis, readers of the Dick Tracy comic strip saw the square-jawed police detective use a brand-new gadget: a '2-Way Wrist Radio.' Tracy could talk to headquarters through a radio strapped to his wrist like a watch. The comic strip, created by cartoonist Chester Gould, had begun in 1931, and the wrist radio became one of its most famous features. According to some accounts, Gould was inspired by the small two-way radios of Al Gross. In 1964 the comic upgraded Tracy's gadget to a '2-Way Wrist TV' with a picture screen.",
+        "To readers in 1946, a phone on your wrist was pure fantasy. Real car phones needed a trunk full of equipment. Today, of course, millions of people wear smartwatches that can make calls, which makes Dick Tracy look less like science fiction and more like a prediction.",
+        "Twenty years later, another piece of fiction captured imaginations. When the television series Star Trek first aired in 1966, its crew members carried small 'communicators' when they beamed down to planets. A communicator flipped open, with an antenna grille in the top half and the controls in the bottom half, and with a quick 'Kirk to Enterprise' the captain could talk to his starship orbiting far above. The prop was designed and built by the artist Wah Ming Chang. For a whole generation of viewers, the communicator showed what a personal, pocket-sized phone might look like.",
+        "Some engineers who later built real mobile phones grew up reading Dick Tracy or watching Star Trek. Did these stories directly cause the inventions? That is hard to prove, and people's memories of what inspired them can change over time. But science fiction did something important: it made a handheld phone seem like a normal, exciting thing to want. It gave people a picture to aim for."
+      ]
+    },
+    {
+      "heading": "The Problem Waiting for a Clever Idea",
+      "paragraphs": [
+        "Let's pause and see how far the world had come by the early 1970s. A century earlier, a voice could not travel anywhere without a wire. Now radio linked ships across oceans, police cars across cities, and soldiers across battlefields. Rich businesspeople and doctors could make calls from their cars. Comic strips and TV shows were full of pocket communicators.",
+        "Yet the real mobile phone was stuck. Car phones were heavy, costly and nearly impossible to get. The problem was not that phones were too big, although they were. The deeper problem was the network: one giant transmitter per city, a handful of channels, and thousands of people stuck in line.",
+        "Engineers needed a way to let many more people use the same small number of channels at the same time. What if, instead of one giant tower shouting across the whole city, you used many small, quiet towers, each covering only a little patch of ground? What if the same channel could be used again and again in different patches, as long as they were far enough apart not to interfere? Surprisingly, a pair of engineers had already written down exactly this idea, back in 1947. They imagined chopping a city into small areas called 'cells.' It would take more than 25 years, and a race between two rival companies, before anyone could carry that idea in their hand. That story is next."
+      ]
+    }
+  ],
+  "deepDive": "Why could the 1940s car phone serve only a few thousand people in a whole country? The answer is spectrum, the limited range of radio frequencies that governments share out among users. Mobile Telephone Service used VHF frequencies, around 150 megahertz in its later high-band form, and each conversation occupied a channel tens of kilohertz wide. Because every city had a single high-power base station, often 100 to 250 watts, covering an area 65 to 100 kilometers across, each channel could carry only one conversation over that entire area. A useful way to think about capacity is simple division. If 2,000 New York customers shared 12 IMTS channels, that is about 167 customers per channel. Telephone engineers use a branch of mathematics called traffic theory (developed by the Danish engineer A. K. Erlang in the early 1900s) to estimate how long callers will wait for a free line. With so many users per channel, waits of tens of minutes at busy times were exactly what the math predicted. Half-duplex push-to-talk made things worse in the early MTS days, because a channel stayed busy even while each person was silently listening. Historians also debate several 'firsts' in this part. Bell, Elisha Gray and Antonio Meucci all worked on telephones, and the timing of Bell's and Gray's filings on February 14, 1876, is still argued about. Marconi's reception of the letter 'S' across the Atlantic in 1901 relied only on his own hearing, so some researchers doubt it, although regular transatlantic radio followed soon after. The walkie-talkie has at least three strong claimants: Donald Hings in Canada, Al Gross in the United States, and Motorola's wartime engineering team. Most careful historians conclude that portable two-way radio was developed by several people at once, because vacuum tubes, batteries and wartime demand had made it possible. The lesson for later parts is that progress needed not only smaller gadgets but a smarter way to reuse the same scarce frequencies.",
+  "funFact": "The Dick Tracy comic strip introduced its famous 2-Way Wrist Radio on January 13, 1946, about five months before the first public car phone service began in St. Louis on June 17, 1946.",
+  "check": {
+    "q": "Why could only a few people use car phones at the same time in the 1940s and 1950s?",
+    "a": "Each city had one big transmitter and only a few radio channels, so each channel could carry just one call across the whole area.",
+    "wrong": [
+      "Because the phones had to be charged for a whole day between calls",
+      "Because the law allowed car phones only on Sundays",
+      "Because the telephone wires were too short to reach cars"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Invention of the telephone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Invention_of_the_telephone"
+    },
+    {
+      "title": "Guglielmo Marconi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Guglielmo_Marconi"
+    },
+    {
+      "title": "Walkie-talkie",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Walkie-talkie"
+    },
+    {
+      "title": "SCR-536",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/SCR-536"
+    },
+    {
+      "title": "Mobile Telephone Service",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mobile_Telephone_Service"
+    },
+    {
+      "title": "Improved Mobile Telephone Service",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Improved_Mobile_Telephone_Service"
+    },
+    {
+      "title": "History of mobile phones",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_mobile_phones"
+    },
+    {
+      "title": "Dick Tracy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dick_Tracy"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Alexander Graham Bell's early telephone or a photograph of Bell speaking into a telephone, about 1876–1892",
+      "search": "Alexander Graham Bell telephone 1876"
+    },
+    {
+      "want": "A World War II Motorola SCR-536 Handie-Talkie radio, either a museum photo or a soldier using it",
+      "search": "SCR-536 Handie-Talkie radio"
+    },
+    {
+      "want": "Guglielmo Marconi with his early wireless radio equipment, around 1896–1901",
+      "search": "Marconi wireless apparatus 1896"
+    }
+  ]
+}

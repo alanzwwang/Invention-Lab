@@ -1,0 +1,148 @@
+{
+  "n": 10,
+  "title": "Inside the Machine: How Steam Does Work",
+  "when": "Science explained (applies 1700s – today)",
+  "summary": "Fire heats water, water turns into steam, and steam pushes. In this part we open up a steam engine and follow the energy from a lump of coal all the way to a spinning wheel. You will learn why steam is invisible, why it pushes so hard, and why you must never touch it!",
+  "sections": [
+    {
+      "heading": "Where the Push Comes From: Fire and Energy",
+      "paragraphs": [
+        "Every steam engine, from Newcomen's nodding giant to a modern power station, starts with the same thing: something hot. In the 1700s and 1800s, that heat almost always came from burning coal, though wood, charcoal and even dried peat were used in places where coal was scarce. To understand what an engine does, we first need to understand what burning really is.",
+        "Coal is mostly carbon, left behind by plants that grew in swampy forests hundreds of millions of years ago. Those plants captured energy from sunlight and stored it in the chemical bonds that hold their molecules together. When coal burns, the carbon combines with oxygen from the air to make carbon dioxide, and the stored chemical energy is released as heat and light. So, in a strange way, a steam engine runs on ancient sunshine.",
+        "Scientists call the ability to do work energy. Work, in the scientist's sense, means using a force to move something: lifting water, turning a millstone, pulling a train. Energy comes in many forms, such as chemical energy in fuel, heat energy, the energy of motion and electrical energy. A key rule of nature is that energy is never made or destroyed; it only changes from one form to another. A steam engine is simply a machine for changing the chemical energy of fuel into the energy of motion.",
+        "But heat on its own does not push anything. A roaring fire on a hearth can warm a room all night without moving so much as a chair. The trick of the steam engine is to use heat to change water into something that pushes. To see how, we need to look closely at what happens when water boils."
+      ]
+    },
+    {
+      "heading": "From Water to Steam: The Invisible Gas",
+      "paragraphs": [
+        "Water is made of tiny particles called molecules, each one made of two hydrogen atoms and one oxygen atom. In liquid water, the molecules jostle and slide past each other, but they stay close together, held by small attractive forces. When you heat water, the molecules move faster and faster. At sea level, once the water reaches 100 degrees Celsius (212 degrees Fahrenheit), the molecules have enough energy to break free of each other completely and fly off as a gas. That gas is steam.",
+        "Here is a surprise: real steam is invisible. Look carefully at the spout of a boiling kettle. Right at the opening there is a small clear gap, and only a little further away does the white cloud appear. The clear part is true steam. The white cloud is made of billions of tiny droplets of liquid water, formed when the steam meets the cooler air and condenses back into liquid. So the white 'steam' we see from kettles, pans and the chimneys of old engines is really a mist of water droplets, a bit like a small cloud. The same is true of the huge white plumes rising from power-station cooling towers.",
+        "Another surprise is how much heat it takes to boil water away. Heating one kilogram of water from freezing point to boiling point takes about 420 kilojoules of energy. But turning that same kilogram of boiling water at 100 degrees into steam at 100 degrees takes about 2,260 kilojoules more, over five times as much, and the thermometer does not rise at all while it happens. This 'hidden' heat is called latent heat, from a Latin word meaning hidden. The Scottish chemist Joseph Black studied it in the mid-1700s, and as we saw earlier, it helped James Watt understand why the Newcomen engine wasted so much fuel.",
+        "Where does all that latent heat go? It is the energy needed to pull the water molecules apart from each other. And when steam condenses back into water, the same energy is given out again. That fact is the secret behind both the power of steam and the danger of it, as we will see.",
+        "The most important property of steam for engines is its size. When one litre of water turns into steam at normal air pressure, it becomes roughly 1,700 litres of steam. That is enough to fill a large bathtub several times over, all from one bottle of water. The molecules, now free, zoom around and spread out to take up a vast amount of space. If you trap them in a closed container, they cannot spread out, so instead they push hard against every wall. And if you cool the steam, it shrinks back into a tiny puddle, leaving almost nothing behind."
+      ]
+    },
+    {
+      "heading": "Pressure: Steam Pushing on Every Surface",
+      "paragraphs": [
+        "Pressure means how hard something pushes on each bit of a surface. Inside a closed boiler, countless steam molecules are constantly smashing into the walls. Each hit is tiny, but together they add up to a steady, powerful push on every square centimetre. Heat the boiler more and you make more steam and faster molecules, so the pressure rises.",
+        "Air has pressure too. We live at the bottom of an ocean of air many kilometres deep, and its weight presses on everything. At sea level, air pushes with about 1 kilogram of force on every square centimetre, or about 14.7 pounds on every square inch. We do not feel it because it pushes equally from all sides, and the fluids inside our bodies push back. But, as the scientists of the 1600s discovered, if you remove the air from one side of something, the push from the other side becomes very obvious.",
+        "Pressure and boiling are linked in a way that surprises many people. Water boils when its molecules can push their way out against the pressure above the water. If the pressure is higher, the molecules need more energy, so the water boils at a higher temperature. In a pressure cooker, the lid traps steam and raises the pressure inside to roughly double normal air pressure, so the water does not boil until it reaches about 120 degrees Celsius. Food cooks faster at that higher temperature. Denis Papin's 'digester' of 1679 used this exact idea.",
+        "The opposite happens high up. On the top of Mount Everest, where the air pressure is only about a third of that at sea level, water boils at only about 70 degrees Celsius. Climbers find it very hard to cook pasta or make a properly hot cup of tea.",
+        "For engines, the link between pressure and temperature is crucial. High-pressure steam is also very hot steam, and as you will learn later in this story, hotter steam can do more work from the same fuel. But high pressure also means huge forces on the boiler walls. A boiler at ten times normal air pressure has about 10 kilograms of force pushing on every square centimetre of its inside surface. A large boiler has many thousands of square centimetres of surface, so the total force adds up to many tonnes. That is why boilers had to be made strong and carefully inspected, and why every boiler needs a safety valve."
+      ]
+    },
+    {
+      "heading": "A Guided Tour: The Parts of a Steam Engine",
+      "paragraphs": [
+        "Let's walk through a typical steam engine of the 1800s, following the energy from start to finish. Imagine a factory engine house, warm and smelling of hot oil, with the steady 'chuff' of the engine and the slow turn of a huge wheel.",
+        "First comes the firebox, the chamber where the fuel burns. A stoker shovels coal through a small iron door onto a grate, a bed of iron bars that lets air flow up from below to feed the flames. Hot gases from the fire then pass along or through the boiler before escaping up a tall chimney, which also helps draw fresh air into the fire.",
+        "Next is the boiler, a strong, closed container of water, usually made of riveted iron plates and later steel. In a fire-tube boiler, the hot gases run through tubes that pass through the water, like straws through a drink. In a water-tube boiler, it is the other way round: water flows through tubes surrounded by the fire. Either way, the aim is to give the hot gases as much contact with the water as possible. A glass gauge on the side shows the water level, because a boiler that runs dry can overheat and fail.",
+        "On top of the boiler sits the safety valve. In its simplest form, it is a plug held down by a weight or a spring. If the pressure inside rises too high, it lifts the plug and lets steam escape with a loud hiss until the pressure falls. Papin fitted a weighted safety valve to his digester in the 1600s. A safety valve that is stuck, tied down or overloaded can turn a boiler into a bomb, and many boiler explosions in the 1800s happened for exactly that reason.",
+        "From the boiler, steam flows through a pipe to the cylinder, a strong metal tube closed at both ends, bored very smoothly on the inside. Inside it slides the piston, a tight-fitting disc that can move back and forth. Rings around the piston seal it so steam cannot leak past. The piston is fixed to a piston rod, which passes out through one end of the cylinder through a tightly packed seal called a gland.",
+        "Steam must be let into the cylinder and out again at exactly the right moments. That is the job of the valves. A very common type is the slide valve, a shaped block that slides back and forth over openings called ports. In one position it lets fresh steam into one end of the cylinder while letting used steam out of the other end; in the opposite position it does the reverse. A well-known version, the D slide valve, is credited to William Murdoch around 1799. The slide valve is moved by rods linked to the turning shaft, so the engine works its own valves, perfectly in time.",
+        "The piston rod's back-and-forth motion then has to become rotation. On a beam engine, the rod rocks the beam, and the other end of the beam drives a connecting rod. On simpler horizontal engines, the piston rod pushes a connecting rod directly. Either way, the connecting rod turns a crank on the main shaft. On the same shaft sits the flywheel, a massive wheel that stores energy as it spins and carries the crank smoothly past the dead centres. Some mill flywheels were over 6 metres across and weighed many tonnes. Belts or gears then carry the power from the shaft to the machines.",
+        "Finally, on many engines, the used steam goes to the condenser, a separate chamber cooled by cold water. There the steam turns back into a small amount of water, leaving a partial vacuum. An air pump removes the water and any air that leaks in. Engines without a condenser simply blow their used steam out into the air, which is where the famous 'chuff' of a steam locomotive comes from."
+      ]
+    },
+    {
+      "heading": "Two Ways to Work: Push or Pull",
+      "paragraphs": [
+        "There are two basic ways steam can move a piston, and the history of the steam engine is partly the story of switching from one to the other.",
+        "The first is the vacuum way, used by Newcomen and by Watt's early engines. Steam at only a little above normal air pressure fills the cylinder. Then the steam is condensed, either by a spray of cold water inside the cylinder (Newcomen) or by letting it rush into a separate cold condenser (Watt). Because steam shrinks about 1,700 times when it turns back to water, the space it leaves is almost empty: a partial vacuum. Now the air pressure on the other side of the piston is no longer balanced, and it pushes the piston into the cylinder. In these atmospheric engines, the steam itself does not push the piston at all. Its job is to make the vacuum; the weight of the air does the pushing.",
+        "There is a limit to this. The very best vacuum you could ever make would give you a push of only about 1 kilogram per square centimetre, the full weight of the atmosphere, and real engines got less than that. So to get more power, atmospheric engines needed enormous cylinders. Some pumping engines had cylinders about 1.8 metres (72 inches) wide, and later engines were bigger still.",
+        "The second way is the pressure way. Here, steam from the boiler is made at a much higher pressure than the air outside, and it pushes directly on the piston. Steam at five times atmospheric pressure pushes about five times harder on each square centimetre than the air could. That means a much smaller cylinder can give the same power, so the engine can be smaller and lighter. As the next part of this story shows, that is what made it possible to put engines on wheels and boats.",
+        "The best engines combined both. High-pressure steam pushed on one side of the piston while the other side was connected to a condenser, so the piston had a strong push in front and a vacuum behind. Engineers also learned to let the steam expand as it pushed, and to pass it through two or three cylinders in turn, squeezing out more work before it was finally condensed."
+      ]
+    },
+    {
+      "heading": "Following the Energy (and Where It Goes Missing)",
+      "paragraphs": [
+        "Let's follow the energy all the way through. It starts as chemical energy, stored in the coal. Burning turns it into heat energy in the fire. The heat flows into the water and becomes the energy of hot, high-pressure steam. The steam pushes the piston, turning that into the energy of motion. The crank and flywheel turn it into rotation, and belts and gears carry it to the machines, where it grinds, spins, lifts or hammers. Chemical energy, then heat, then pressure, then motion: that is the energy chain of every steam engine.",
+        "If energy is never destroyed, you might expect all of the coal's energy to come out as useful work. But in a steam engine, most of it does not. Hot gases go up the chimney still carrying lots of heat. The boiler and pipes warm the air around them. Some steam leaks. The parts rub against each other and turn energy into friction heat. And, most importantly, the used steam leaving the cylinder still contains a huge amount of heat, including all that latent heat, which is dumped into the condenser water or the open air.",
+        "Engineers measure this with a number called efficiency: the share of the fuel's energy that ends up as useful work. Newcomen's engines managed only about 1 percent or less. Watt's improved engines reached a few percent. The best engines of the late 1800s managed perhaps 10 to 20 percent. A modern power station, using steam at very high pressure and temperature, does far better, but even so, more than half of its fuel energy still ends up as waste heat.",
+        "Why can't a steam engine use all the heat? This puzzle was so important that it led to an entire new branch of science, called thermodynamics, which we will meet later. For now, here is the simple version: heat can only do work as it flows from a hot place to a cooler place, and some heat always has to be released into the cold side. The bigger the difference between the hot steam and the cold condenser, the bigger the share of heat that can become work. That is why engineers spent two centuries trying to make steam hotter and condensers colder."
+      ]
+    },
+    {
+      "heading": "One Stroke, Step by Step",
+      "paragraphs": [
+        "Let's slow everything down and watch a single turn of a double-acting condensing engine, the kind Watt built in the 1780s and that ran factories for a century afterwards. Imagine the piston resting at the top of the cylinder, and the flywheel creeping round.",
+        "Step one: the slide valve moves and opens the top port. Steam from the boiler rushes in above the piston. At the same moment, the bottom port is opened to the condenser, so the space below the piston is connected to a near-vacuum. With steam pressing from above and almost nothing pushing back from below, the piston is driven down.",
+        "Step two: part of the way down, on an engine set up for expansive working, the valve shuts off the fresh steam. The steam already trapped above the piston keeps pushing as it expands, but its pressure falls as it spreads into a larger space. The engine squeezes extra work out of steam it has already paid for.",
+        "Step three: the piston reaches the bottom. The crank is now passing its lower dead centre, and for an instant the piston rod cannot turn it at all. The heavy flywheel, still spinning, carries the shaft round. Meanwhile the valve has moved again, and now everything reverses: fresh steam enters below the piston, and the used steam above it escapes to the condenser, where a spray of cold water turns it back into water in a fraction of a second.",
+        "Step four: the piston is driven back up to the top, the crank passes its upper dead centre, and the cycle starts again. A mill engine might repeat this dance 20 to 60 times a minute, hour after hour, day after day, with each stroke helping to turn the line shafts that ran the machines.",
+        "How did engineers know what was really happening inside, where nobody could see? In about 1796, John Southern, an assistant at Boulton & Watt, developed the indicator diagram. A small piston connected to the cylinder moved a pencil up and down as the pressure changed, while a board holding paper moved sideways in step with the engine's piston. The pencil drew a loop. The shape of the loop showed exactly how the pressure rose and fell during each stroke, and the area inside it showed how much work the steam had done. Boulton & Watt kept the device as a trade secret for years. Engineers used indicator diagrams to find leaky valves, badly timed steam and poor condensers, and the same kind of pressure-volume diagram is still used to study engines today."
+      ]
+    },
+    {
+      "heading": "See It for Yourself (Safely!)",
+      "paragraphs": [
+        "You do not need a factory to see the science of steam. Your kitchen is a small steam laboratory. But first, a serious warning: steam burns are dangerous, and you should only ever try these observations with an adult in charge, keeping your hands, face and arms well away from steam, boiling water and hot pans.",
+        "Why is steam so dangerous? Remember latent heat. When steam at 100 degrees Celsius touches your skin, it condenses into water, and as it does, it releases all that hidden energy, about 2,260 kilojoules for every kilogram, straight into your skin. Then the hot water it has turned into keeps burning. So a puff of steam can cause a worse burn than a splash of water at the same temperature. Never put your hand or face over a spout or a pan to 'feel' the steam, and never open a pressure cooker before it has fully released its pressure.",
+        "With that in mind, here are some safe things to watch, from a sensible distance, while an adult cooks. Watch a pan of water with a loosely fitting lid come to the boil. Soon the lid starts to rattle and lift. That is steam pressure pushing up, in a tiny version of the force that drives an engine. When the steam escapes, the pressure drops and the lid falls again, a bit like a crude safety valve.",
+        "Look at the spout of a boiling kettle from the side, not from above. Can you see the small clear gap just in front of the spout before the white cloud begins? That clear gap is the real, invisible steam. The cloud is condensed water droplets. Then notice how drops of water form on a cool window or the inside of a lid. That is condensation, the same process that made the vacuum in Newcomen's and Watt's engines.",
+        "If you want to see real engines, many museums run them in steam. The Science Museum in London has a famous collection of early engines, and across Britain, Europe, North America and Australia, volunteers keep old mill engines, pumping engines and traction engines working on special 'steam days'. Watching a giant flywheel turn and hearing the hiss of the valves is the best way to feel what this chapter describes.",
+        "Now you know how steam does its work: by pushing with pressure, or by pulling with a vacuum. Through most of the 1700s, engineers like Newcomen and Watt kept their steam gentle, at hardly more than the pressure of the air around us, because strong boilers were hard to build and explosions were terrifying. But a few daring engineers began to ask a dangerous question. What would happen if, instead of using gentle low-pressure steam, they dared to use steam at much higher pressure?"
+      ]
+    }
+  ],
+  "deepDive": "A steam engine is a heat engine, and its physics can be followed with a few numbers. Water's specific heat is about 4.19 kJ per kilogram per degree, so warming 1 kg from 0 to 100 °C takes about 420 kJ, while its latent heat of vaporisation at 100 °C is about 2,257 to 2,260 kJ/kg. In a condensing engine, most of that latent heat is rejected in the condenser, which is the single largest reason early engines were so inefficient. The volume change is equally dramatic: at 1 atmosphere, saturated steam occupies about 1.67 cubic metres per kilogram, against about 0.001 cubic metres for liquid water, a ratio of roughly 1,600 to 1,700. Atmospheric engines exploited the collapse of this volume; their maximum driving pressure was one atmosphere (about 101 kPa), minus whatever pressure remained in an imperfect vacuum. The boiling point rises with pressure along the saturation curve: about 120 °C at 2 bar absolute, about 180 °C at 10 bar, and at the critical point (about 374 °C and 22 MPa) the distinction between liquid and vapour disappears. This matters because, as Sadi Carnot later showed, the maximum possible efficiency of a heat engine depends on the absolute temperatures of the hot source and cold sink: efficiency cannot exceed 1 minus T(cold) divided by T(hot). For steam at 100 °C (373 K) rejecting heat at 30 °C (303 K), the theoretical ceiling is only about 19 percent; for steam at 600 °C (873 K), it rises to about 65 percent. Real engines fall well short of these limits because of friction, heat leaking through cylinder walls, throttling losses in valves and pipes, and the repeated condensation and re-evaporation of steam on cylinder walls, which engineers identified as the main loss in piston engines. Historians and engineers sometimes argue about how to compare old efficiency figures, because early engineers measured 'duty' (millions of pounds of water lifted one foot per bushel of coal) rather than percentages, and converting between them requires assumptions about coal quality and pump losses. Still, the overall trend from about 1 percent (Newcomen) to a few percent (Watt) to perhaps 10 to 20 percent for the best engines of the late 1800s is widely accepted.",
+  "funFact": "The white 'steam' you see puffing from a kettle is not steam at all; true steam is invisible, and the cloud is made of tiny droplets of liquid water.",
+  "check": {
+    "q": "In an atmospheric engine like Newcomen's, what actually pushes the piston?",
+    "a": "The pressure of the outside air, after the steam inside is condensed to make a partial vacuum",
+    "wrong": [
+      "High-pressure steam from the boiler",
+      "Burning steam inside the cylinder",
+      "The spinning flywheel"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Steam engine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Steam_engine"
+    },
+    {
+      "title": "Latent heat",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Latent_heat"
+    },
+    {
+      "title": "Watt steam engine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Watt_steam_engine"
+    },
+    {
+      "title": "Pressure cooking",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pressure_cooking"
+    },
+    {
+      "title": "Slide valve",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Slide_valve"
+    },
+    {
+      "title": "Indicator diagram",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Indicator_diagram"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Animated or labelled cutaway diagram of a double-acting steam cylinder with a slide valve and piston",
+      "search": "steam engine slide valve cylinder diagram"
+    },
+    {
+      "want": "Photograph of a boiling kettle showing the clear gap at the spout before the white cloud of droplets",
+      "search": "kettle steam boiling spout"
+    },
+    {
+      "want": "Photograph of a large mill steam engine flywheel in a museum engine house",
+      "search": "mill engine flywheel steam museum"
+    }
+  ]
+}

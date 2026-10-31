@@ -1,0 +1,165 @@
+{
+  "n": 19,
+  "title": "Cars That Drive Themselves",
+  "when": "1925 – today",
+  "summary": "What if your car could drive you to school all by itself? People dreamed about it for 100 years, from a radio-controlled 'ghost car' in New York to robot vans racing across the desert. Today, in some cities, you can ride in a taxi with nobody in the driver's seat!",
+  "sections": [
+    {
+      "heading": "Ghost Cars and Magic Motorways",
+      "paragraphs": [
+        "Imagine standing on a busy New York sidewalk on a hot summer day in July 1925. Streetcars clang, delivery trucks rumble, and a horse-drawn milk wagon plods along beside honking automobiles. Then a shiny Chandler car rolls up Broadway, turning its wheel, beeping its horn and changing speed all by itself. You look through the window and gasp. Nobody is sitting in the driver's seat.",
+        "This was the 'American Wonder', a car shown off by a company called Houdina Radio Control. The trick was not magic, even though the name sounds a lot like the famous escape artist Harry Houdini. A second car followed close behind, carrying a radio transmitter. A person in that second car sent radio signals, and an antenna on the driverless car picked them up. Inside, small electric motors turned the signals into actions: steering left or right, speeding up, slowing down, sounding the horn.",
+        "The demonstration took place on 27 July 1925. The car drove up Broadway and down Fifth Avenue through heavy traffic. Newspaper reports said it barely missed trucks, other cars and a milk wagon, and in the end it crashed into a sedan. Nobody was badly hurt, but the message was clear. A car could be moved without a person holding the wheel, yet it still needed a human brain somewhere nearby, watching and deciding. The 'ghost car' was really a giant remote-controlled toy.",
+        "Historians are not even completely sure who 'Francis Houdina' was. His name appears in newspapers for only a few years, from 1925 to 1928, and some researchers think it may have been a made-up name. In the following years, similar 'phantom auto' shows toured American towns, thrilling crowds at fairs. They were fun, but they were not the future of transport. A radio-controlled car cannot think. Without someone steering from a distance, it would happily drive straight into a wall.",
+        "Fourteen years later, in 1939, millions of people came to the New York World's Fair to see what the future might hold. The biggest hit of all was a ride inside the General Motors building called Futurama. It was designed by Norman Bel Geddes, a stage designer and industrial designer famous for streamlined, futuristic shapes.",
+        "Visitors sat in comfortable moving chairs, 552 at a time, carried along a conveyor about one third of a mile long. The ride lasted about 18 minutes. Below them, as if they were flying in an aeroplane, spread a gigantic model landscape covering about an acre, roughly half the size of a football pitch. It held more than 500,000 tiny buildings, around a million miniature trees and about 50,000 little cars. Thousands of those model cars actually moved, gliding along a fourteen-lane superhighway that sliced across mountains, rivers and farmland.",
+        "Bel Geddes was showing America of 1960, twenty years in the future. In his imagined world, cars on the great motorways would be guided automatically, kept at safe distances and safe speeds by signals from the road itself. Drivers would be able to relax while their cars travelled quickly from city to city. In 1940 he described these ideas in a book called Magic Motorways. Business magazines reported that the show was so popular that people waited in long lines all day, with tens of thousands of visitors every day.",
+        "The real breakthrough would need something no one in 1939 had: a computer small enough and fast enough to ride inside a car, and the clever programs to let that computer see the world for itself."
+      ]
+    },
+    {
+      "heading": "Ernst Dickmanns Teaches a Van to See",
+      "paragraphs": [
+        "In the 1980s, computers were still slow and bulky. A home computer of the time could barely play simple games with blocky graphics. Yet in Germany, an aerospace engineer named Ernst Dickmanns had a bold idea. Instead of burying cables in roads, why not give the car eyes? Video cameras could watch the road, and a computer could study the pictures to find the lane markings and work out where to steer.",
+        "Dickmanns and his team worked at the Bundeswehr University Munich, a university run by the German armed forces. Their first test vehicle was a large Mercedes-Benz van they named VaMoRs, packed with cameras and computers. The challenge was enormous. A camera produces a flood of data, many pictures every second, far more than computers of the 1980s could study in full. Dickmanns' clever solution was to let the computer pay attention only to the most useful parts of each picture, such as the edges of the lane, and to use what it already knew about how cars move to predict where those edges should appear next. He called this 'dynamic vision'. It is a bit like the way you do not stare at every leaf when you ride a bike; your eyes jump to the important things.",
+        "It worked. In 1986 the van drove itself on a test track, and by 1987 it was steering itself on an empty stretch of motorway at speeds of up to about 96 kilometres per hour (60 mph). For the time, this was astonishing.",
+        "Europe's car industry took notice. From 1987 to 1995 a huge European research programme called Prometheus, part of the EUREKA network and costing hundreds of millions of euros, studied how to make road traffic safer and smoother. Dickmanns' camera-based approach became one of its stars. At the programme's big final presentation in October 1994, on a motorway near Paris, two Mercedes sedans fitted with his team's systems, called VaMP and VITA-2, drove more than 1,000 kilometres in heavy traffic, at speeds of up to 130 km/h. They kept in their lanes, followed other cars and even changed lanes, with safety drivers ready to take over.",
+        "Then in 1995 came the most daring test. A specially equipped Mercedes S-Class drove from Munich to a project meeting in Denmark and back, a round trip of about 1,758 kilometres (some accounts give a slightly shorter figure). On the open German autobahn, where some stretches have no speed limit, the car reached more than 175 km/h (about 109 mph). About 95 percent of the distance was driven by the computer. The longest stretch without a human touching the controls was about 158 kilometres. A safety driver always sat behind the wheel, and people still had to help at tricky moments, but a car had steered itself across much of a continent using cameras and computer vision."
+      ]
+    },
+    {
+      "heading": "No Hands Across America",
+      "paragraphs": [
+        "On the other side of the Atlantic, at Carnegie Mellon University in Pittsburgh, Pennsylvania, another team had been working on robot vehicles since 1984. Their project was called Navlab, short for Navigation Laboratory. The first Navlab, built from 1986, was a Chevrolet van crammed so full of computers, power supplies and air conditioners that researchers rode in the back like scientists in a mobile laboratory. It crawled along slowly at first, but each new Navlab got smaller, smarter and faster.",
+        "In 1988 a Carnegie Mellon researcher named Dean Pomerleau built a program called ALVINN. It used a neural network, a kind of computer program loosely inspired by the way brain cells connect. Instead of being told the rules of steering, ALVINN learned by watching. A human drove while the computer looked at the camera picture and noted which way the wheel was turned. After enough practice, the program could look at a new picture of the road and guess the right steering direction by itself. This 'learning from examples' idea is close to how much of today's artificial intelligence works.",
+        "By 1995 the team had Navlab 5, a Pontiac Trans Sport minivan carrying a portable computer, a windscreen camera and a GPS receiver. That summer, researchers Todd Jochem and Dean Pomerleau set off on a road trip they called 'No Hands Across America'. They drove from Pittsburgh all the way to San Diego, California, a journey of roughly 2,800 to 2,850 miles (about 4,500 kilometres).",
+        "There was an important catch. The computer only did the steering. The humans in the front seats still controlled the accelerator and brakes, deciding how fast to go and when to stop. Even so, the steering numbers were impressive: the computer steered about 98 percent of the way, with people taking the wheel for only around 50 miles in total, at moments when the road ahead was too confusing for the camera. Average speeds on the highway were around 60 mph.",
+        "Navlab 5 showed something that surprised many people. A car did not need a room full of expensive equipment to follow a highway. A laptop-sized computer and one camera could do much of it. But following a well-marked highway is the easy part of driving. The hard part is everything else: junctions, roadworks, cyclists, people stepping out from behind parked vans, and rough roads with no markings at all. To push the technology into that messy world, someone was about to hold a race."
+      ]
+    },
+    {
+      "heading": "The DARPA Desert Races",
+      "paragraphs": [
+        "DARPA, the Defense Advanced Research Projects Agency, is a research agency of the United States Department of Defense. It has a long history of funding wild ideas that later changed everyday life; it helped pay for the early work that grew into the internet. In the early 2000s, the US Congress set a goal that many military supply vehicles should one day be able to drive without people, so that fewer soldiers would be put in danger. DARPA decided that instead of paying one company to try, it would hold a contest open to anyone. The prize: one million US dollars.",
+        "The first DARPA Grand Challenge took place on 13 March 2004 in the Mojave Desert of California. The route stretched about 150 miles (240 kilometres) from near Barstow, California, towards Primm on the Nevada border, along dirt tracks, over rocky hills and through narrow passes. No human could touch the vehicles once they started. About fifteen robot vehicles reached the starting line. It was a disaster, though a very educational one. Some vehicles crashed into fences, some flipped over, one got confused at the start, and others simply stopped. The best performer, Carnegie Mellon's converted Humvee named Sandstorm, managed about 7.4 miles (11.8 kilometres) before it got stuck on a rock after a sharp turn, its wheels spinning helplessly. No one won the prize.",
+        "Many people laughed. But the teams did not give up. DARPA doubled the prize to two million dollars and announced a second race. On 8 October 2005, 23 finalists set out on a new desert course of about 132 miles (212 kilometres) near the California–Nevada border, full of tunnels, sharp turns and a twisting mountain pass with steep drops beside the track. This time, five vehicles made it all the way to the end.",
+        "The winner was Stanley, built by the Stanford Racing Team from Stanford University in California and led by Sebastian Thrun, a German-born computer scientist who directed Stanford's Artificial Intelligence Laboratory. Stanley was a blue Volkswagen Touareg, a sport utility vehicle, prepared with help from Volkswagen's Electronics Research Laboratory. On its roof sat five laser scanners, plus a video camera and GPS antennas. In its boot, seven computers ran its software. Stanley's great trick was learning. The team had fed it records of human driving, and its software combined the close-range laser scans with camera pictures to work out which parts of the road ahead were safe even far beyond the lasers' reach, so it could drive faster on smooth stretches. It finished the course in 6 hours and 54 minutes. Carnegie Mellon's two vehicles, Sandstorm and H1ghlander, came second and third. Stanley now belongs to the Smithsonian's National Museum of American History in Washington, D.C.",
+        "Deserts are empty, though. Real driving happens in towns. So in 2007 DARPA held the Urban Challenge at a former air force base in Victorville, California. On 3 November 2007, robot vehicles had to complete about 60 miles (96 kilometres) of missions on the base's streets within six hours, obeying California traffic rules, stopping at junctions, giving way properly, parking and dealing with other moving cars, both robot and human-driven. The winner was Boss, a Chevrolet Tahoe built by Carnegie Mellon's Tartan Racing team, in about 4 hours and 10 minutes. Stanford's car Junior came second, and Virginia Tech's Odin came third.",
+        "The DARPA races did more than award prizes. They gathered hundreds of young engineers, many of whom went on to lead the self-driving projects of the next twenty years. In a way, those dusty desert tracks were the starting line of the whole modern industry."
+      ]
+    },
+    {
+      "heading": "How a Robot Car Sees and Decides",
+      "paragraphs": [
+        "So how does a self-driving car actually work? You can think of it as doing three jobs again and again, many times every second: sense, think and act. Sensing means gathering information about the world. Thinking means understanding that information and deciding what to do. Acting means turning the steering wheel, pressing the accelerator or applying the brakes, all controlled by electric motors and computer signals.",
+        "For sensing, most self-driving cars carry several kinds of 'eyes', because each has strengths and weaknesses. Cameras see colour and detail. They can read traffic lights, signs and lane lines, and spot the difference between a plastic bag and a small animal. But cameras struggle in darkness, dazzling sunlight and heavy rain, just like human eyes.",
+        "Radar sends out radio waves and listens for their echoes. It can measure how far away something is and how fast it is moving, and it works well in fog, rain and the dark. But radar pictures are blurry; it is hard to tell a parked car from a metal sign with radar alone.",
+        "Lidar, short for 'light detection and ranging', fires many very short pulses of invisible laser light every second, often from a spinning unit on the roof. It measures how long each pulse takes to bounce back, and since light travels at a known speed, that gives an exact distance. Millions of these measurements build a 3D picture of everything around the car, called a point cloud: kerbs, poles, people, bicycles, all as a cloud of tiny dots. Waymo says its lidar can detect objects up to about 300 metres away. Some companies, including Tesla, prefer to rely on cameras alone, arguing that humans drive with vision; others believe using several types of sensor together is safer.",
+        "The car also needs to know exactly where it is. GPS satellites give a rough position, accurate to a few metres. That is fine for a phone map but not for staying inside a lane. So many robotaxis also carry extremely detailed maps of their streets, showing every lane, kerb and traffic light. By matching what its lidar sees to the map, the car can work out its position to within a few centimetres. Motion sensors called gyroscopes and accelerometers help too, by measuring every turn and change of speed.",
+        "Now comes the thinking. First the software must recognise things: this blob of dots is a cyclist, that one is a bus, this is a pedestrian standing at a crossing. Modern cars do this using artificial intelligence trained on millions of example pictures and scans. Next comes prediction, perhaps the hardest part of all. Will the cyclist keep going straight? Is the person at the crossing about to step out? Is that car going to change lanes? Human drivers make these guesses all the time without noticing. The computer must make them on purpose, giving each possibility a likelihood. Finally comes planning: choosing a safe, smooth path and speed for the next few seconds, then doing it all over again a fraction of a second later.",
+        "No single sensor or program is perfect. That is why engineers build in redundancy, which means backup systems. If one sensor is dirty or one computer fails, another can take over and bring the car safely to a stop."
+      ]
+    },
+    {
+      "heading": "Level 0 to Level 5: How Self-Driving Is a Car?",
+      "paragraphs": [
+        "People use the words 'self-driving' and 'autonomous' for very different things, from a car that beeps when you drift out of your lane to a taxi with nobody in the front seat. To clear up the confusion, SAE International, an organisation of engineers that writes standards for vehicles, published a scale in 2014 in a document called J3016. It describes six levels of driving automation, numbered 0 to 5.",
+        "At Level 0, there is no driving automation. The human does all the driving, although the car may give warnings, such as a beep when something is in your blind spot, or even brake by itself in an emergency.",
+        "At Level 1, the car can help with one job at a time: either steering or speed. Adaptive cruise control, which keeps a safe gap behind the car in front, is a typical example.",
+        "At Level 2, the car can control both steering and speed at the same time in some situations, for example keeping in lane and following traffic on a motorway. This is where most of today's driver-assistance systems sit, including those sold with names like 'Autopilot' or 'Super Cruise'. The key rule at Level 2 is that the human is still the driver. They must watch the road every moment and be ready to take over instantly. The car is helping, not driving. Many crashes have happened when people trusted these systems too much, looked away or even fell asleep.",
+        "At Level 3, the car drives itself in certain conditions, such as slow traffic jams on a motorway, and the person in the driver's seat may look away. But when the car asks, the person must take back control within a few seconds. A few carmakers have offered Level 3 traffic-jam systems in limited places at low speeds; Mercedes-Benz, for example, began offering one in Germany in 2022.",
+        "At Level 4, the car can drive itself completely within a certain area or set of conditions, and if something goes wrong it can bring itself to a safe stop without any human help. Today's driverless robotaxis are Level 4 vehicles: they work only in streets they have been carefully prepared for.",
+        "Level 5 would be a car that can drive anywhere a human could, in any weather, on any road, with no limits at all. Nobody has built one yet, and many experts think it is still a long way off.",
+        "Notice the big jump between Level 2 and Level 3. Below it, a human is always responsible for watching the road. Above it, in the right conditions, the machine is. That line is why it matters so much that people understand which kind of car they are sitting in."
+      ]
+    },
+    {
+      "heading": "Robotaxis Arrive",
+      "paragraphs": [
+        "After the DARPA races, the internet company Google quietly hired several of the best competitors, including Sebastian Thrun. Its self-driving car project started in January 2009 inside Google's experimental lab and was revealed to the public in October 2010. Its first test cars were ordinary Toyota Prius and Lexus vehicles fitted with a spinning lidar on the roof, always with trained safety drivers on board. By 2012 the fleet had driven hundreds of thousands of miles on public roads.",
+        "In 2014 Google showed off a little round prototype, nicknamed 'Firefly' by the team, that looked a bit like a friendly cartoon bubble. In 2015, one of these cars gave a ride through Austin, Texas, to a blind man, with nobody else in the car and no police escort. It was described as the first fully driverless trip on a public road. In December 2016 the project became a separate company called Waymo, owned by Google's parent company, Alphabet.",
+        "Waymo began offering rides to members of the public in the Phoenix area of Arizona in December 2018, at first with safety drivers on board. In October 2020 it opened a fully driverless service to the public there: you could call a car with a phone app, and it would arrive with nobody in the driver's seat. Phoenix was chosen partly because its roads are wide, its streets are laid out in a neat grid, and it rarely snows. Later Waymo spread to San Francisco, Los Angeles, Austin, Atlanta and other cities. By 2026 the company reported giving hundreds of thousands of paid rides every week.",
+        "In China, too, robotaxis have grown quickly. Companies such as Baidu, with its Apollo Go service, and Pony.ai have run driverless taxis in several big cities, including Wuhan, where large fleets have carried passengers. Self-driving technology is also being tested for lorries on motorways, for delivery robots and for buses on fixed routes."
+      ]
+    },
+    {
+      "heading": "Hard Questions on the Road Ahead",
+      "paragraphs": [
+        "Self-driving cars promise a lot. Most road crashes involve human mistakes: drivers who are tired, distracted, speeding or have been drinking. A computer never gets sleepy or checks its phone. Driverless cars could also give independence to people who cannot drive, such as many blind people, some older people and some people with disabilities. But the technology also raises difficult questions, and it is important to look at them honestly.",
+        "The first question is safety. In March 2018, in Tempe, Arizona, a test car run by the ride-hailing company Uber struck and killed a woman named Elaine Herzberg as she walked her bicycle across a road at night. It is widely described as the first pedestrian death caused by a self-driving test car. A safety driver was sitting in the car, but investigators found she had been looking at her phone, and they also criticised the company's weak safety culture. Uber halted its tests, and in 2020 it sold its self-driving division to another company.",
+        "In October 2023, in San Francisco, a woman crossing the street was hit by a car driven by a human, who drove away. She was thrown into the path of a driverless robotaxi run by Cruise, a company owned by General Motors. The robotaxi braked but hit her, and then, trying to pull over to the side of the road as it was programmed to do after a collision, it dragged her about 20 feet (6 metres). She was seriously injured. On 24 October 2023 California's Department of Motor Vehicles suspended Cruise's permit to run driverless cars, saying the company had not at first shown officials the full video of what happened. Cruise paused its driverless cars across the country, its chief executive resigned, and in December 2024 General Motors stopped funding robotaxis altogether. The lesson was that a robot car must handle not only ordinary driving but also rare, confusing situations, and that companies must be fully honest when things go wrong.",
+        "The second question is weather and surprises. Snow can hide lane lines, heavy rain and fog can confuse cameras and lidar, and a police officer waving traffic through a broken signal is very hard for a computer to understand. Roadworks, flooded streets and strange objects in the road are also difficult. That is one reason robotaxis started in sunny cities with well-mapped streets.",
+        "The third question is responsibility. When a human driver causes a crash, the law usually knows who is to blame. But if a driverless car crashes, who is responsible: the passenger, the owner, the company that built the car, or the company that wrote the software? Countries are still writing new laws to answer that question.",
+        "The fourth question is jobs. Millions of people around the world earn their living by driving taxis, lorries, buses and delivery vans. If robots take over much of that work, those people will need new jobs and new training. Some experts think the change will be slow, giving time to adjust; others worry it could be sudden.",
+        "Step back and look at how far we have come. In 1770 Nicolas-Joseph Cugnot's steam wagon rumbled through the streets of Paris at walking pace, and its driver had to wrestle with a heavy, awkward steering lever. About 250 years later, a car with nobody at the wheel can pick you up, find its way through a city and drop you at your door. So what will the next chapter of the automobile look like, and what can the whole long journey teach us? It is time to look back over the road so far, and then to look ahead."
+      ]
+    }
+  ],
+  "deepDive": "Why did self-driving cars take so long? The core problem is that driving is not one task but thousands. Following a well-marked motorway lane, which Dickmanns and Navlab largely solved in the 1990s, is mostly a geometry problem: find the lines, keep between them. City driving is a prediction problem about other minds. A robot car must estimate what pedestrians, cyclists and other drivers intend, often from tiny clues like a turned head. Engineers call the rare, odd situations 'edge cases' or the 'long tail': a mattress falling off a lorry, a person in a chicken costume, a traffic officer overriding a green light. Each is rare, but there are so many kinds that a car driving millions of miles will meet them constantly. Two broad technical philosophies compete. One, used by Waymo and most robotaxi firms, combines lidar, radar, cameras and detailed pre-made maps, and limits service to areas it has carefully mapped (Level 4). The other, championed by Tesla, relies on cameras and large neural networks trained on huge amounts of driving data, aiming to work anywhere without special maps; so far those systems sold to the public are classed as Level 2 and require a watching driver. Measuring safety is itself a debate. In the United States, human drivers have roughly one death for every 100 million miles or so driven, so proving a robot is safer in statistical terms requires many millions of miles, and comparisons must account for where and when each kind of vehicle drives: robotaxis mostly operate in cities, at lower speeds, in good weather. Companies publish their own safety studies, while regulators and independent researchers check them. Another argument concerns 'automation complacency': research on aircraft autopilots and car driver-assistance shows people quickly stop paying attention when a machine usually handles things, which makes Level 2 and Level 3 systems tricky, because the human must take over just when the situation is hardest. Finally there are questions about cybersecurity (could someone hack a car?), privacy (robotaxis record everything around them), and whether driverless cars will reduce traffic or create more by making car trips easier and cheaper.",
+  "funFact": "In the 2004 DARPA Grand Challenge, not a single robot finished, and the best one gave up after about 7.4 miles of a roughly 150-mile course, yet just 19 months later five robots completed the next race.",
+  "check": {
+    "q": "Which robot car, led by Sebastian Thrun's Stanford team, won the 2005 DARPA Grand Challenge?",
+    "a": "Stanley",
+    "wrong": [
+      "Boss",
+      "Sandstorm",
+      "Navlab 5"
+    ]
+  },
+  "sources": [
+    {
+      "title": "History of self-driving cars",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_self-driving_cars"
+    },
+    {
+      "title": "Houdina Radio Control",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Houdina_Radio_Control"
+    },
+    {
+      "title": "Ernst Dickmanns",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ernst_Dickmanns"
+    },
+    {
+      "title": "Navlab",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Navlab"
+    },
+    {
+      "title": "DARPA Grand Challenge",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/DARPA_Grand_Challenge"
+    },
+    {
+      "title": "Waymo",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Waymo"
+    },
+    {
+      "title": "Cruise (autonomous vehicle)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cruise_(autonomous_vehicle)"
+    },
+    {
+      "title": "Self-driving car",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Self-driving_car"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Stanford's Stanley, the blue Volkswagen Touareg robot car that won the 2005 DARPA Grand Challenge, with sensors on its roof",
+      "search": "Stanley Volkswagen Touareg DARPA Stanford"
+    },
+    {
+      "want": "A Waymo driverless robotaxi with its roof-mounted lidar sensor on a city street",
+      "search": "Waymo self-driving car Jaguar I-Pace"
+    },
+    {
+      "want": "Carnegie Mellon's Boss, the Chevrolet Tahoe that won the 2007 DARPA Urban Challenge",
+      "search": "Boss Tartan Racing Urban Challenge"
+    }
+  ]
+}

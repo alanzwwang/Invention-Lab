@@ -1,0 +1,892 @@
+[
+  {
+    "id": "eyeglasses",
+    "name": "Eyeglasses",
+    "emoji": "👓",
+    "year": 1286,
+    "when": "around 1286",
+    "where": "Northern Italy (probably near Pisa or Venice)",
+    "who": "Unknown — Italian craftspeople",
+    "category": "Medicine & Health",
+    "kid": "Long ago, people whose eyes got blurry as they grew older could not read small writing anymore. Then clever glassmakers in Italy shaped two lenses and held them in front of the eyes. Suddenly, the words were sharp again!",
+    "explorer": "The first wearable eyeglasses appeared in northern Italy in the late 1200s. They had two convex (bulging) lenses in frames joined by a rivet, and people balanced them on their noses or held them up. They helped people with farsightedness, which often comes with age, keep reading and doing close work for many more years. Lenses for nearsighted people came later, in the 1400s.",
+    "expert": "Nobody knows who first made spectacles; a friar named Giordano da Pisa said in a 1306 sermon in Florence that the art of making them had been discovered less than twenty years before, which points to the 1280s. Earlier, scholars used 'reading stones' — polished crystal or glass domes laid on a page — and Ibn al-Haytham's optics (around 1021) helped explain how lenses bend light. Italian glassmaking centres such as Venice and Murano were key to producing clear glass. Concave lenses for myopia arrived in the 1400s, and Benjamin Franklin is traditionally credited with bifocals in the 1780s. Spectacle makers' skill with lenses directly fed the invention of the telescope and the microscope around 1600. Stories naming a single Italian inventor (such as Salvino degli Armati) are now considered unreliable.",
+    "how": "A curved lens bends light rays before they enter the eye. A convex lens helps farsighted eyes focus on close objects, and a concave lens helps nearsighted eyes focus on faraway things.",
+    "before": "People with poor eyesight held text far away, asked others to read for them, or used a 'reading stone' — a polished dome of crystal laid on the page to magnify the letters.",
+    "impact": "Eyeglasses let scholars, scribes and craftspeople keep working for decades longer, and today billions of people use glasses or contact lenses to see clearly.",
+    "facts": [
+      "The earliest eyeglasses had no side arms — people perched them on their nose or held them up by hand.",
+      "Side arms that rest on the ears only became common in the 1700s.",
+      "Spectacle makers in the Netherlands made the first telescopes in the early 1600s.",
+      "Benjamin Franklin is often credited with inventing bifocals, which have two different lenses in one frame."
+    ],
+    "ledTo": [
+      "telescope",
+      "microscope",
+      "contact-lens"
+    ],
+    "quiz": [
+      {
+        "q": "In which region did eyeglasses first appear?",
+        "a": "Northern Italy",
+        "wrong": [
+          "Japan",
+          "Brazil",
+          "Australia"
+        ]
+      },
+      {
+        "q": "What did people use before glasses to magnify text?",
+        "a": "A reading stone",
+        "wrong": [
+          "A mirror",
+          "A candle",
+          "A seashell"
+        ]
+      }
+    ],
+    "wiki": "Glasses"
+  },
+  {
+    "id": "vaccine",
+    "name": "Vaccine",
+    "emoji": "💉",
+    "year": 1796,
+    "when": "1796",
+    "where": "Berkeley, Gloucestershire, England",
+    "who": "Edward Jenner, building on older smallpox inoculation from Asia and Africa",
+    "category": "Medicine & Health",
+    "kid": "A vaccine is like a training session for your body. It shows your immune system what a germ looks like, so your body is ready to fight it if the real germ ever shows up. The first vaccine protected people from a terrible disease called smallpox.",
+    "explorer": "In 1796, English doctor Edward Jenner noticed that milkmaids who caught cowpox, a mild disease from cows, did not seem to get smallpox. He took material from a cowpox sore on the hand of a milkmaid, Sarah Nelmes, and put it into a small cut on the arm of an 8-year-old boy named James Phipps. Later, the boy did not get sick when exposed to smallpox. The word 'vaccine' comes from the Latin word 'vacca', meaning cow.",
+    "expert": "Jenner was not the first to protect people from smallpox: variolation — deliberately infecting someone with material from a mild smallpox case — was practised for centuries in China, India, Africa and the Ottoman Empire, and Lady Mary Wortley Montagu promoted it in Britain in the 1720s. A farmer named Benjamin Jesty also used cowpox on his family in 1774. Jenner's contribution was testing the method and publishing it in 1798, which made it spread worldwide. Louis Pasteur later made lab-weakened vaccines for chicken cholera, anthrax and rabies (1885) and widened the word 'vaccine' to all such treatments. Global vaccination led the World Health Organization to declare smallpox eradicated in 1980 — the first human disease ever wiped out. Vaccines protect not only individuals but also people who cannot be vaccinated, through 'herd immunity'.",
+    "how": "A vaccine contains a harmless version or piece of a germ, or instructions for making one piece. The immune system learns to recognise it and makes memory cells, so it can react fast if the real germ attacks later.",
+    "before": "People could only hope to avoid diseases like smallpox, or risk variolation, which sometimes caused serious illness.",
+    "impact": "Vaccines have saved many millions of lives — the WHO estimates at least 154 million in just the last 50 years, ended smallpox completely, and made diseases like polio and measles rare in many countries.",
+    "facts": [
+      "The word 'vaccine' comes from 'vacca', the Latin word for cow.",
+      "Smallpox is the only human disease that has been completely eradicated, declared in 1980.",
+      "The cow whose cowpox helped Jenner's research was named Blossom, and her hide is kept at St George's medical school in London.",
+      "Louis Pasteur made the first rabies vaccine in 1885."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Which animal gave the vaccine its name?",
+        "a": "The cow",
+        "wrong": [
+          "The horse",
+          "The sheep",
+          "The chicken"
+        ]
+      },
+      {
+        "q": "Which disease did the first vaccine fight?",
+        "a": "Smallpox",
+        "wrong": [
+          "Diabetes",
+          "Asthma",
+          "Chickenpox"
+        ]
+      }
+    ],
+    "wiki": "Vaccine"
+  },
+  {
+    "id": "stethoscope",
+    "name": "Stethoscope",
+    "emoji": "🩺",
+    "year": 1816,
+    "when": "1816",
+    "where": "Paris, France",
+    "who": "René Laennec",
+    "category": "Medicine & Health",
+    "kid": "A stethoscope lets a doctor listen to your heart beating and your lungs breathing. The very first one was just a wooden tube! Now doctors all over the world wear one around their neck.",
+    "explorer": "In 1816, French doctor René Laennec wanted to listen to a patient's chest without pressing his ear against it. According to his own account, he rolled some paper into a tube and found he could hear the heart even better. He then built a wooden tube and called it a 'stethoscope', from Greek words meaning 'chest' and 'to look at'. Later designs added two earpieces and flexible tubes.",
+    "expert": "Before Laennec, doctors used 'immediate auscultation' — putting an ear directly on the patient — which was awkward and often ineffective. Laennec's monaural wooden cylinder made sounds clearer, and in 1819 he published a book linking specific chest sounds to diseases like pneumonia and tuberculosis, checking his ideas against autopsies. This turned listening into a real diagnostic science. Binaural stethoscopes with two earpieces appeared in the 1850s (associated with Arthur Leared and George Cammann). Laennec himself died of tuberculosis in 1826. Today, electronic stethoscopes can amplify and record sounds, yet the basic acoustic design remains a symbol of medicine.",
+    "how": "A chest piece with a thin diaphragm picks up tiny vibrations from the heart and lungs. The sound travels up the tubes to the doctor's ears, while the earpieces help block out room noise.",
+    "before": "Doctors pressed their ear directly against a patient's chest or back, or simply felt the pulse and tapped the chest.",
+    "impact": "The stethoscope helped doctors diagnose heart and lung diseases without surgery, and it is still one of the most used medical tools.",
+    "facts": [
+      "The first stethoscope was a hollow wooden tube with no earpieces.",
+      "The name comes from Greek words meaning 'chest' and 'to look at'.",
+      "Laennec got the idea by rolling paper into a tube, according to his own story.",
+      "Laennec died of tuberculosis, one of the lung diseases his invention helped diagnose."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Who invented the stethoscope?",
+        "a": "René Laennec",
+        "wrong": [
+          "Louis Pasteur",
+          "Marie Curie",
+          "Edward Jenner"
+        ]
+      },
+      {
+        "q": "What was the first stethoscope made of?",
+        "a": "A wooden tube",
+        "wrong": [
+          "Rubber hoses",
+          "Copper wire",
+          "A glass bottle"
+        ]
+      }
+    ],
+    "wiki": "Stethoscope"
+  },
+  {
+    "id": "anesthesia",
+    "name": "Anesthesia",
+    "emoji": "😴",
+    "year": 1846,
+    "when": "1846",
+    "where": "Boston, Massachusetts, USA",
+    "who": "William T. G. Morton (first public demonstration), with earlier work by Crawford Long and Horace Wells",
+    "category": "Medicine & Health",
+    "kid": "Anesthesia is special medicine that makes you fall into a deep sleep during an operation, so you feel no pain. Before it existed, surgery was very scary. Now doctors can do careful operations while the patient rests peacefully.",
+    "explorer": "On 16 October 1846, dentist William Morton gave a patient ether gas at Massachusetts General Hospital in Boston. The surgeon removed a lump from the patient's neck, and the patient did not feel the pain. News spread around the world within months. Soon doctors also used chloroform, and Queen Victoria used it when giving birth in 1853.",
+    "expert": "Credit for general anesthesia is disputed. Georgia doctor Crawford Long used ether in 1842 but did not publish until 1849; dentist Horace Wells tried nitrous oxide (laughing gas) and failed a public demonstration in 1845. In Japan, surgeon Hanaoka Seishū had already operated under a herbal anesthetic in 1804, though this was little known in the West. Morton's 1846 demonstration, in a room now called the Ether Dome, was the one that convinced the medical world. Anesthesia let surgeons work slowly and carefully, but early on infections still killed many patients — it took antiseptic methods to make surgery truly safe. Modern anesthesia uses carefully measured drugs, and anesthesiologists watch breathing, heart rate and oxygen throughout.",
+    "how": "Anesthetic drugs, breathed in or given through a vein, act on the brain and nerves so the patient becomes unconscious and feels no pain. Local anesthetics only numb one small area.",
+    "before": "Patients were awake during surgery. Surgeons had to work extremely fast, and some patients were given alcohol or opium, which did little to stop the pain.",
+    "impact": "Anesthesia made long, delicate operations possible and removed the terror of surgery, opening the way to modern surgical medicine.",
+    "facts": [
+      "The room in Boston where ether was first publicly demonstrated is now called the Ether Dome.",
+      "Queen Victoria used chloroform during the birth of her son Prince Leopold in 1853.",
+      "The word 'anesthesia' comes from Greek words meaning 'without sensation'.",
+      "In the US, National Doctors' Day on 30 March marks Crawford Long's first use of ether in 1842."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Which gas was used in the famous 1846 demonstration?",
+        "a": "Ether",
+        "wrong": [
+          "Helium",
+          "Oxygen",
+          "Carbon dioxide"
+        ]
+      },
+      {
+        "q": "In which city was the 1846 demonstration?",
+        "a": "Boston",
+        "wrong": [
+          "London",
+          "Tokyo",
+          "Rome"
+        ]
+      }
+    ],
+    "wiki": "Anesthesia"
+  },
+  {
+    "id": "antiseptic-surgery",
+    "name": "Antiseptic Surgery",
+    "emoji": "🧴",
+    "year": 1867,
+    "when": "1865–1867",
+    "where": "Glasgow, Scotland",
+    "who": "Joseph Lister, building on Louis Pasteur's germ theory",
+    "category": "Medicine & Health",
+    "kid": "Long ago, many people got sick after operations because tiny germs got into their wounds. A surgeon named Joseph Lister started cleaning wounds, tools and hands with a germ-killing liquid. Suddenly, far more patients got better!",
+    "explorer": "In the 1860s, Joseph Lister read Louis Pasteur's idea that tiny living germs cause things to rot. He wondered if germs also caused wound infections. In 1865 he treated an 11-year-old boy with a badly broken leg using carbolic acid, and the wound healed without infection. Lister published his results in 1867, and his methods slowly spread to hospitals worldwide.",
+    "expert": "In the mid-1800s, infections such as gangrene killed a large share of surgical patients, and many doctors blamed 'bad air' (miasma). Hungarian doctor Ignaz Semmelweis had shown in 1847 that handwashing cut deaths among new mothers in Vienna, but he was largely ignored. Lister applied Pasteur's germ theory, using carbolic acid (phenol) on wounds, dressings, instruments and even sprayed into the air, and reported much lower death rates after amputations. His ideas faced resistance for years. Later, surgeons moved from antisepsis (killing germs) to asepsis (keeping germs out using sterilised instruments, gowns and gloves). Carbolic acid also irritated skin, which is one reason gentler methods replaced it.",
+    "how": "Antiseptics are chemicals that kill germs or stop them from growing. By cleaning wounds, hands, tools and dressings, surgeons stop bacteria from getting into the body during an operation.",
+    "before": "Surgeons often operated in blood-stained coats with unwashed hands and tools, and many patients died of infection afterwards.",
+    "impact": "Antiseptic and later sterile methods made surgery far safer and laid the foundation of modern hospital hygiene.",
+    "facts": [
+      "Lister's first famous antiseptic patient was an 11-year-old boy named James Greenlees.",
+      "The mouthwash Listerine, created in 1879, was named after Joseph Lister.",
+      "Lister used carbolic acid, a chemical that was also used to treat smelly sewage.",
+      "Ignaz Semmelweis showed handwashing saved lives in 1847, years before Lister's work."
+    ],
+    "ledTo": [
+      "adhesive-bandage"
+    ],
+    "quiz": [
+      {
+        "q": "Which chemical did Lister use to kill germs?",
+        "a": "Carbolic acid",
+        "wrong": [
+          "Lemon juice",
+          "Salt water",
+          "Vinegar"
+        ]
+      },
+      {
+        "q": "Whose germ theory inspired Lister?",
+        "a": "Louis Pasteur",
+        "wrong": [
+          "Isaac Newton",
+          "Charles Darwin",
+          "Galileo Galilei"
+        ]
+      }
+    ],
+    "wiki": "Antiseptic"
+  },
+  {
+    "id": "x-ray-imaging",
+    "name": "X-ray Imaging",
+    "emoji": "🦴",
+    "year": 1895,
+    "when": "1895",
+    "where": "Würzburg, Germany",
+    "who": "Wilhelm Conrad Röntgen",
+    "category": "Medicine & Health",
+    "kid": "X-rays are invisible rays that can pass through skin but not so easily through bones. That means doctors can take a picture of your skeleton! It helps them see if a bone is broken without any cutting.",
+    "explorer": "In November 1895, German scientist Wilhelm Röntgen was experimenting with electricity in glass tubes. He noticed a chemically coated screen nearby glowing, even though the tube was covered with black cardboard. He called the mystery rays 'X-rays' because X means unknown. Within weeks he made an image of the bones in his wife's hand, and within months doctors around the world were using X-rays.",
+    "expert": "Röntgen discovered X-rays while studying cathode-ray tubes, and his December 1895 paper caused a worldwide sensation. He won the first Nobel Prize in Physics in 1901 and chose not to patent the discovery. X-rays are high-energy electromagnetic waves; dense materials like bone and metal absorb more of them, creating shadows on film or a digital detector. Early users did not know about the dangers, and some scientists and technicians suffered burns and cancers from heavy exposure — Thomas Edison's assistant Clarence Dally died from radiation injuries. Today doses are kept low and carefully controlled. X-rays later made CT scanners possible, and they are also used in airport security and to study crystals and stars.",
+    "how": "A machine sends X-rays through the body toward a detector. Bones and dense parts block more rays and show up white, while soft tissues let more through and look darker.",
+    "before": "To see inside the body, doctors had to feel from the outside, listen, or operate.",
+    "impact": "X-rays let doctors see broken bones, swallowed objects and lung diseases instantly, and became one of the most important tools in medicine.",
+    "facts": [
+      "Röntgen called them X-rays because 'X' stood for something unknown.",
+      "One of the first X-ray images showed the hand of Röntgen's wife, Anna Bertha, wearing her ring.",
+      "Röntgen won the very first Nobel Prize in Physics in 1901.",
+      "In German, X-rays are still often called Röntgen rays."
+    ],
+    "ledTo": [
+      "ct-scanner"
+    ],
+    "quiz": [
+      {
+        "q": "Why are they called X-rays?",
+        "a": "X stood for unknown",
+        "wrong": [
+          "They form an X shape",
+          "Named after a Mr. X",
+          "They were the tenth ray"
+        ]
+      },
+      {
+        "q": "In what year were X-rays discovered?",
+        "a": "1895",
+        "wrong": [
+          "1795",
+          "1945",
+          "1995"
+        ]
+      }
+    ],
+    "wiki": "X-ray"
+  },
+  {
+    "id": "aspirin",
+    "name": "Aspirin",
+    "emoji": "💊",
+    "year": 1897,
+    "when": "1897",
+    "where": "Elberfeld (now Wuppertal), Germany",
+    "who": "Felix Hoffmann at Bayer (Arthur Eichengrün later claimed he led the work)",
+    "category": "Medicine & Health",
+    "kid": "Aspirin is a medicine that grown-ups use to ease aches and bring down fevers. Its story started with willow trees, whose bark people used as a remedy thousands of years ago. Chemists turned that idea into a medicine made in a lab.",
+    "explorer": "For thousands of years, people in places like ancient Sumer and Egypt used willow and other plants to ease pain and fever. In the 1800s, chemists found the active ingredient, salicylic acid, but it upset people's stomachs. In 1897, chemist Felix Hoffmann at the Bayer company made a pure, stable form called acetylsalicylic acid. Bayer sold it as 'Aspirin' from 1899, and it became one of the most used medicines in history.",
+    "expert": "French chemist Charles Gerhardt first made acetylsalicylic acid in 1853, but in an impure form, and it was not developed as a drug. Bayer's 1897 synthesis by Felix Hoffmann produced a pure, practical version; Arthur Eichengrün later said he had directed the work, and historians still debate the credit. How aspirin worked was not understood until 1971, when John Vane showed it blocks enzymes that make prostaglandins — work that helped earn him a Nobel Prize in 1982. Because it also makes blood platelets less sticky, doctors sometimes prescribe low doses for certain patients to lower the risk of heart attack and stroke — a decision made case by case, because it also has risks. It can cause stomach bleeding, and doctors generally avoid it for children and teenagers because of the risk of a rare condition called Reye's syndrome. After World War I, Bayer lost the 'Aspirin' trademark in several countries, including the US, UK and France.",
+    "how": "Aspirin blocks enzymes in the body that make chemicals called prostaglandins, which cause pain, fever and swelling. It also makes blood less likely to form clots.",
+    "before": "People chewed willow bark or used plant remedies, or took salicylic acid, which irritated the stomach badly.",
+    "impact": "Aspirin became one of the world's most common medicines, used for pain and fever and to help prevent heart attacks and strokes.",
+    "facts": [
+      "Ancient medical texts from Egypt and Sumer mention willow, the plant behind aspirin's story.",
+      "The 'spir' in Aspirin comes from Spiraea, a plant that also contains salicylic chemicals.",
+      "Scientists only discovered how aspirin works in 1971, more than 70 years after it went on sale.",
+      "Doctors generally avoid giving aspirin to children and teenagers because it is linked to a rare but serious illness called Reye's syndrome."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Which tree's bark inspired aspirin?",
+        "a": "Willow",
+        "wrong": [
+          "Oak",
+          "Pine",
+          "Maple"
+        ]
+      },
+      {
+        "q": "Which company first sold aspirin?",
+        "a": "Bayer",
+        "wrong": [
+          "Nintendo",
+          "Ford",
+          "Lego"
+        ]
+      }
+    ],
+    "wiki": "Aspirin"
+  },
+  {
+    "id": "blood-bank",
+    "name": "Blood Bank",
+    "emoji": "🩸",
+    "year": 1937,
+    "when": "1937",
+    "where": "Chicago, Illinois, USA",
+    "who": "Bernard Fantus (first hospital 'blood bank'), building on work by Karl Landsteiner, Oswald Robertson and others",
+    "category": "Medicine & Health",
+    "kid": "A blood bank is a place that keeps donated blood safe and cold until a patient needs it. Kind grown-ups give a little of their blood, and it can save someone after an accident or during an operation. It is a bank where the treasure is blood!",
+    "explorer": "Blood transfusions only became safe after Karl Landsteiner discovered the main blood groups (A, B and O) in 1901; the fourth group, AB, was found by his colleagues a year later. Next, doctors learned to add chemicals so stored blood would not clot. In 1937, Dr Bernard Fantus opened a blood storage service at Cook County Hospital in Chicago and named it a 'blood bank'. Today, blood banks test, sort and store blood so it is ready in emergencies.",
+    "expert": "Storing blood needed several breakthroughs: Landsteiner's discovery of the ABO blood groups (1901, with AB identified by Alfred von Decastello and Adriano Sturli in 1902; Nobel Prize 1930), and the use of sodium citrate as an anticoagulant around 1914–1915. During World War I, US Army doctor Oswald Robertson set up stored-blood depots for wounded soldiers in 1917. The Soviet Union set up blood transfusion institutes in the late 1920s and an early blood storage service in Leningrad in 1932, and Fantus's 1937 Chicago service gave the world the term 'blood bank'. In 1940, Charles Drew led the 'Blood for Britain' programme, developing large-scale methods for collecting and processing plasma. Modern blood banks separate blood into red cells, plasma and platelets, test it for infections, and rely on volunteer donors because blood cannot be manufactured.",
+    "how": "Donated blood is tested, matched by blood type, mixed with chemicals to stop clotting, and stored cold. Different parts of blood are separated so one donation can help several patients.",
+    "before": "Transfusions had to be done directly from a donor to a patient on the spot, and many failed because blood types were not matched.",
+    "impact": "Blood banks make emergency surgery, trauma care, childbirth and cancer treatment much safer, saving millions of lives every year.",
+    "facts": [
+      "World Blood Donor Day, on 14 June, is held on Karl Landsteiner's birthday.",
+      "Bernard Fantus came up with the name 'blood bank' in 1937.",
+      "Blood cannot be made in a factory, so blood banks depend on volunteer donors.",
+      "One blood donation can be split into parts that help more than one patient."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Who discovered the ABO blood groups?",
+        "a": "Karl Landsteiner",
+        "wrong": [
+          "Albert Einstein",
+          "Thomas Edison",
+          "Charles Darwin"
+        ]
+      },
+      {
+        "q": "In which city was the first 'blood bank' named?",
+        "a": "Chicago",
+        "wrong": [
+          "Paris",
+          "Sydney",
+          "Cairo"
+        ]
+      }
+    ],
+    "wiki": "Blood bank"
+  },
+  {
+    "id": "insulin-treatment",
+    "name": "Insulin Treatment",
+    "emoji": "🧪",
+    "year": 1922,
+    "when": "1921–1922",
+    "where": "Toronto, Canada",
+    "who": "Frederick Banting, Charles Best, James Collip and John Macleod",
+    "category": "Medicine & Health",
+    "kid": "Insulin is a helper chemical your body makes so it can use sugar for energy. In diabetes, the body cannot make enough insulin or cannot use it well. Scientists in Canada found a way to give people insulin as medicine, and it saved many lives.",
+    "explorer": "Before 1922, children with type 1 diabetes usually lived only a short time after diagnosis. At the University of Toronto, Frederick Banting and his student assistant Charles Best extracted insulin from the pancreas of dogs, and chemist James Collip purified it, with John Macleod leading the lab. In January 1922, a 14-year-old boy named Leonard Thompson became the first person treated with their insulin, and he improved. Within a few years, insulin was being made in large amounts.",
+    "expert": "Scientists had linked the pancreas to diabetes since 1889, but earlier extracts were too impure or toxic to use. The Toronto team's success led to the 1923 Nobel Prize for Banting and Macleod; Banting shared his prize money with Best, and Macleod shared his with Collip, reflecting arguments over credit. The discoverers sold the patent to the University of Toronto for one dollar each so insulin could be widely available. Early insulin came from cow and pig pancreases; in 1982, human insulin made by genetically modified bacteria became the first approved medicine produced with genetic engineering. Insulin treats diabetes but does not cure it, and its cost remains a serious issue for many patients today.",
+    "how": "Insulin is a hormone that lets cells take in sugar from the blood. People with type 1 diabetes, and some with type 2, take insulin by injection or with a pump, guided by their doctors, to help keep blood sugar in a healthy range.",
+    "before": "Doctors could only put people with type 1 diabetes on extreme starvation diets, which bought a little time but could not save them.",
+    "impact": "Insulin turned type 1 diabetes from a deadly disease into a condition people can live with for a long, full life.",
+    "facts": [
+      "The first person treated with insulin, Leonard Thompson, was 14 years old.",
+      "The discoverers sold the insulin patent for one dollar each.",
+      "World Diabetes Day, 14 November, is Frederick Banting's birthday.",
+      "Human insulin made by bacteria in 1982 was the first approved medicine made by genetic engineering."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Which disease does insulin treat?",
+        "a": "Diabetes",
+        "wrong": [
+          "Measles",
+          "Asthma",
+          "Malaria"
+        ]
+      },
+      {
+        "q": "In which country was insulin treatment developed?",
+        "a": "Canada",
+        "wrong": [
+          "Mexico",
+          "Egypt",
+          "India"
+        ]
+      }
+    ],
+    "wiki": "Insulin (medication)"
+  },
+  {
+    "id": "penicillin",
+    "name": "Penicillin",
+    "emoji": "🧫",
+    "year": 1928,
+    "when": "1928 (made into a medicine in the 1940s)",
+    "where": "London, England, and Oxford, England",
+    "who": "Alexander Fleming (discovery); Howard Florey, Ernst Chain and Norman Heatley (made it a medicine)",
+    "category": "Medicine & Health",
+    "kid": "Penicillin is a medicine made from mould that kills harmful bacteria. It was discovered almost by accident when some mould grew on a scientist's dish. It is often called the first true antibiotic, and it has saved millions of lives.",
+    "explorer": "In 1928, Alexander Fleming returned to his London lab after a holiday and saw mould growing on a dish of bacteria. Around the mould, the bacteria had died. He named the germ-killing substance penicillin, but it was hard to make. In the 1940s, a team at Oxford led by Howard Florey and Ernst Chain figured out how to purify it, and factories in the US and UK made enough to treat soldiers in World War II.",
+    "expert": "Fleming published his finding in 1929 but could not purify or produce penicillin in useful amounts. Florey, Chain and Norman Heatley at Oxford showed in 1940 that it cured infections in mice, and in 1941 treated a policeman, Albert Alexander, who improved but died when the tiny supply ran out. Mass production then shifted largely to the US, where researchers found better ways to grow it, including a high-yield mould strain from a mouldy cantaloupe in Peoria, Illinois. Fleming, Florey and Chain shared the 1945 Nobel Prize. (Synthetic sulfa drugs, introduced in the mid-1930s, actually reached patients first, but penicillin was the first antibiotic made by a living organism to become a widely used medicine.) Penicillin works by damaging bacterial cell walls, and it has no effect on viruses. In his Nobel lecture Fleming warned that misuse could make bacteria resistant — antibiotic resistance is now a major global health problem.",
+    "how": "Penicillin stops bacteria from building their cell walls properly, so the bacteria burst and die. Human cells do not have this kind of wall, so they are left alone.",
+    "before": "Simple cuts, sore throats and pneumonia could turn into deadly infections, and doctors had very few effective treatments.",
+    "impact": "Penicillin began the age of antibiotics, making many once-deadly infections easy to cure and making surgery and childbirth much safer.",
+    "facts": [
+      "Penicillin comes from a mould called Penicillium.",
+      "A mouldy cantaloupe from a market in Peoria, Illinois, gave scientists a strain that produced much more penicillin.",
+      "Antibiotics like penicillin do not work against viruses, such as colds and flu.",
+      "Fleming, Florey and Chain shared the Nobel Prize in 1945."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Who first noticed penicillin killing bacteria?",
+        "a": "Alexander Fleming",
+        "wrong": [
+          "Isaac Newton",
+          "Marie Curie",
+          "Thomas Edison"
+        ]
+      },
+      {
+        "q": "What is penicillin made from?",
+        "a": "Mould",
+        "wrong": [
+          "Seaweed",
+          "Tree sap",
+          "Sand"
+        ]
+      }
+    ],
+    "wiki": "Penicillin"
+  },
+  {
+    "id": "kidney-dialysis",
+    "name": "Kidney Dialysis",
+    "emoji": "🫘",
+    "year": 1943,
+    "when": "1943",
+    "where": "Kampen, Netherlands",
+    "who": "Willem Kolff (first practical artificial kidney); earlier attempts by Georg Haas",
+    "category": "Medicine & Health",
+    "kid": "Your kidneys clean your blood, like a filter. If they stop working, a dialysis machine can do the cleaning instead. The first good one was built during a war using sausage skins and old cans!",
+    "explorer": "Dutch doctor Willem Kolff built his first artificial kidney in 1943, during World War II, when supplies were scarce. He used sausage casing made of cellophane, a rotating drum, and parts like orange juice cans and a washing machine. Blood flowed through the casing, and waste passed out into a bath of cleaning fluid. In 1945, a 67-year-old woman became the first patient to survive thanks to his machine.",
+    "expert": "The idea of dialysis — separating substances through a membrane — was described by chemist Thomas Graham in the 1850s, and German doctor Georg Haas performed the first human dialysis in 1924, with limited success. Kolff's rotating drum kidney was the first to save a life, though most of his early patients died. After the war he gave machines away to hospitals in other countries. Long-term dialysis only became possible in 1960, when Belding Scribner in Seattle developed a permanent tube connection (a shunt), so patients could be treated again and again. Early on, there were not enough machines, and committees in Seattle had to choose who would be treated — an early debate in medical ethics.",
+    "how": "Blood is pumped out of the body through a filter with a thin membrane. Waste and extra water pass through into a special fluid, and the cleaned blood goes back to the patient.",
+    "before": "People whose kidneys failed slowly became poisoned by waste in their blood, and there was no treatment.",
+    "impact": "Dialysis keeps millions of people with kidney failure alive, often while they wait for a kidney transplant.",
+    "facts": [
+      "Willem Kolff's first artificial kidney used sausage casing as its filter.",
+      "Kolff built his machine during World War II while the Netherlands was occupied.",
+      "Many dialysis patients go to a clinic about three times a week for treatment.",
+      "Kolff gave several of his early machines to hospitals in other countries for free."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Which organ's job does dialysis do?",
+        "a": "The kidneys",
+        "wrong": [
+          "The lungs",
+          "The heart",
+          "The eyes"
+        ]
+      },
+      {
+        "q": "What did Kolff use as his first filter?",
+        "a": "Sausage casing",
+        "wrong": [
+          "Cotton socks",
+          "Paper towels",
+          "Fishing net"
+        ]
+      }
+    ],
+    "wiki": "Hemodialysis"
+  },
+  {
+    "id": "pacemaker",
+    "name": "Pacemaker",
+    "emoji": "❤️",
+    "year": 1958,
+    "when": "1958",
+    "where": "Stockholm, Sweden",
+    "who": "Rune Elmqvist and Åke Senning (first implant), with key work by John Hopps, Paul Zoll, Earl Bakken and Wilson Greatbatch",
+    "category": "Medicine & Health",
+    "kid": "A pacemaker is a tiny device that helps a heart beat at the right speed. Doctors place it under the skin, and it sends small electrical signals to the heart. It helps millions of people stay active and healthy.",
+    "explorer": "Your heart has its own natural electrical system that keeps it beating. If that system goes wrong, the heart may beat too slowly. Early pacemakers in the 1950s were big boxes outside the body, plugged into the wall. In 1958, in Sweden, engineer Rune Elmqvist and surgeon Åke Senning put the first pacemaker inside a patient, Arne Larsson. Today's pacemakers are about the size of a matchbox or smaller and run for years on a battery.",
+    "expert": "Many people contributed: Canadian engineer John Hopps built an external pacemaker around 1950, Paul Zoll paced patients' hearts through the chest in Boston in 1952, and Earl Bakken of Medtronic made a battery-powered wearable pacemaker in 1957. The 1958 Swedish implant in Arne Larsson failed within hours and was replaced, but he went on to receive many more pacemakers and lived to 86. In the US, Wilson Greatbatch developed an implantable pacemaker first used in 1960; he described getting the idea after accidentally fitting the wrong resistor into a circuit. Long-lasting lithium-iodide batteries, introduced in the 1970s, made the devices far more reliable. Modern pacemakers sense the heart's own rhythm and only fire when needed.",
+    "how": "A small battery-powered generator sits under the skin near the collarbone, with thin wires leading into the heart. It watches the heartbeat and sends a tiny electrical pulse whenever the heart is beating too slowly.",
+    "before": "People with dangerously slow heartbeats could faint suddenly, and there were few treatments other than drugs that often did not work.",
+    "impact": "Pacemakers have given millions of people longer, more active lives, and led to other implanted heart devices such as defibrillators.",
+    "facts": [
+      "Arne Larsson, the first person to get an implanted pacemaker, lived to age 86.",
+      "Some of the earliest pacemakers had to be plugged into a wall socket.",
+      "Wilson Greatbatch said he got his idea after putting the wrong part into a circuit by mistake.",
+      "Modern pacemakers can often run for many years before the battery needs replacing."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "In which country was the first pacemaker implanted?",
+        "a": "Sweden",
+        "wrong": [
+          "Brazil",
+          "Japan",
+          "Egypt"
+        ]
+      },
+      {
+        "q": "What does a pacemaker help the heart do?",
+        "a": "Beat at the right speed",
+        "wrong": [
+          "Grow bigger",
+          "Make blood",
+          "Digest food"
+        ]
+      }
+    ],
+    "wiki": "Artificial cardiac pacemaker"
+  },
+  {
+    "id": "ultrasound-imaging",
+    "name": "Ultrasound Imaging",
+    "emoji": "🔊",
+    "year": 1958,
+    "when": "1956–1958",
+    "where": "Glasgow, Scotland",
+    "who": "Ian Donald, with engineer Tom Brown and doctor John MacVicar",
+    "category": "Medicine & Health",
+    "kid": "Ultrasound uses sound that is too high for people to hear to make pictures of the inside of your body. It is how many parents see their baby before it is born! It works a bit like a bat finding its way with echoes.",
+    "explorer": "Ultrasound sends very high-pitched sound waves into the body and listens for the echoes that bounce back. A computer turns the echoes into a moving picture. In the 1950s, Scottish doctor Ian Donald borrowed an industrial machine used to find cracks in metal and tried it on patients. In 1958 he and his team published results showing it could find lumps inside the body, and it soon became a way to check on babies before birth.",
+    "expert": "Medical ultrasound grew out of sonar, developed to detect submarines, and industrial flaw detectors that used the piezoelectric effect discovered by Pierre and Jacques Curie in 1880. Austrian doctor Karl Dussik tried using ultrasound to image the brain in the 1940s, with limited success. Ian Donald, Tom Brown and John MacVicar's 1958 paper in The Lancet is widely seen as the start of practical diagnostic ultrasound, and obstetric scanning followed. Unlike X-rays and CT, ultrasound uses no ionizing radiation, which is why it is preferred in pregnancy. It is cheap and portable, but images depend heavily on the operator's skill, and sound does not pass well through bone or air.",
+    "how": "A probe sends out sound waves far above human hearing and picks up the echoes from tissues and organs. A computer measures how long each echo takes to return and builds an image from them.",
+    "before": "Doctors could only feel the belly from outside or use X-rays, which are not safe to use often during pregnancy.",
+    "impact": "Ultrasound made it safe and easy to watch babies grow before birth and to check the heart, liver and many other organs without any cutting.",
+    "facts": [
+      "Ultrasound uses sound too high-pitched for humans to hear — above about 20,000 vibrations per second.",
+      "Ian Donald adapted a machine that was originally used to find flaws in metal.",
+      "Bats and dolphins use echoes of high-pitched sound to 'see', a bit like an ultrasound machine.",
+      "Ultrasound does not use X-rays or other ionizing radiation."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "What does ultrasound use to make pictures?",
+        "a": "Sound waves",
+        "wrong": [
+          "X-rays",
+          "Magnets",
+          "Visible light"
+        ]
+      },
+      {
+        "q": "Which animal also navigates using echoes?",
+        "a": "Bat",
+        "wrong": [
+          "Cat",
+          "Snail",
+          "Parrot"
+        ]
+      }
+    ],
+    "wiki": "Medical ultrasound"
+  },
+  {
+    "id": "ct-scanner",
+    "name": "CT Scanner",
+    "emoji": "🧠",
+    "year": 1971,
+    "when": "1971",
+    "where": "London, England",
+    "who": "Godfrey Hounsfield (built it at EMI), with earlier theory by Allan Cormack",
+    "category": "Medicine & Health",
+    "kid": "A CT scanner is a big machine shaped like a doughnut. It takes lots of X-ray pictures from all around your body, and a computer puts them together. That way doctors can see inside your body in slices, like looking at a loaf of bread.",
+    "explorer": "A normal X-ray squashes everything into one flat picture. A CT scanner spins around the patient, taking many X-ray measurements from different angles. A computer then calculates cross-section images, like slices. English engineer Godfrey Hounsfield built the first CT scanner at the company EMI, and the first patient scan took place in London on 1 October 1971, showing a tumour in a woman's brain.",
+    "expert": "South African-born physicist Allan Cormack worked out the mathematics of reconstructing images from X-ray measurements in the early 1960s, independently of Hounsfield, who designed and built the first working machine. Hounsfield and Cormack shared the 1979 Nobel Prize in Physiology or Medicine, even though neither was a medical doctor. The first scanners could only image the head, and each slice took minutes; modern scanners use spiral scanning and many detector rows to image the whole body in seconds. Its image-reconstruction methods also inspired Paul Lauterbur's first MRI pictures in 1973. It is often said that EMI's earnings from Beatles records helped fund the research, but historians debate how much this is true. CT uses much more radiation than a single X-ray, so doctors weigh the benefits against the risks, especially for children.",
+    "how": "An X-ray tube and detectors spin around the patient, measuring how much X-ray passes through from hundreds of angles. A computer uses this data to calculate detailed cross-section images.",
+    "before": "Doctors relied on flat X-ray pictures, where organs overlapped, or on exploratory surgery to see inside the body, especially the brain.",
+    "impact": "CT scans let doctors quickly find strokes, tumours, internal bleeding and injuries, transforming emergency medicine.",
+    "facts": [
+      "CT stands for computed tomography — 'tomography' means drawing in slices.",
+      "The unit used to measure density in CT images is called the Hounsfield unit.",
+      "The first CT patient scan was of the brain, on 1 October 1971.",
+      "Neither Hounsfield nor Cormack was a medical doctor, yet they won the Nobel Prize in medicine."
+    ],
+    "ledTo": [
+      "mri"
+    ],
+    "quiz": [
+      {
+        "q": "Who built the first CT scanner?",
+        "a": "Godfrey Hounsfield",
+        "wrong": [
+          "Wilhelm Röntgen",
+          "Alexander Fleming",
+          "Steve Jobs"
+        ]
+      },
+      {
+        "q": "Which part of the body did the first CT scanners image?",
+        "a": "The head",
+        "wrong": [
+          "The feet",
+          "The hands",
+          "The knees"
+        ]
+      }
+    ],
+    "wiki": "CT scan"
+  },
+  {
+    "id": "mri",
+    "name": "MRI Scanner",
+    "emoji": "🧲",
+    "year": 1973,
+    "when": "1970s",
+    "where": "United States and United Kingdom",
+    "who": "Paul Lauterbur and Peter Mansfield (imaging methods); Raymond Damadian (first full-body scanner)",
+    "category": "Medicine & Health",
+    "kid": "An MRI scanner uses a giant magnet and radio waves to take super-detailed pictures inside your body. It does not use X-rays at all. It is very noisy inside, with loud knocking and buzzing sounds!",
+    "explorer": "MRI stands for magnetic resonance imaging. Your body is full of water, and water contains hydrogen atoms that act like tiny magnets. A powerful magnet lines them up, then radio waves nudge them, and they send back signals a computer turns into images. In 1973, Paul Lauterbur showed how to make pictures this way, and in 1977 Raymond Damadian's team made the first scan of a whole human body.",
+    "expert": "MRI grew from nuclear magnetic resonance (NMR), discovered in the 1940s by Felix Bloch and Edward Purcell, who won the 1952 Nobel Prize in Physics. In 1971 Raymond Damadian reported that tumours give different NMR signals from healthy tissue, and he later built the first full-body scanner, 'Indomitable'. Paul Lauterbur's 1973 paper showed how magnetic field gradients could produce images, and Peter Mansfield developed mathematics and fast imaging techniques. Lauterbur and Mansfield received the 2003 Nobel Prize; Damadian was left out, and he publicly protested, making it one of the most debated Nobel decisions. The word 'nuclear' was dropped from the name partly because patients associated it with radiation, though MRI uses none. MRI is excellent for soft tissues like the brain and spinal cord, but it is expensive, slow, and dangerous for some metal implants.",
+    "how": "A strong magnet lines up hydrogen atoms in the body, and radio pulses knock them out of line. As the atoms relax, they give off signals that a computer turns into detailed images.",
+    "before": "Doctors used X-rays and CT scans, which show bone well but soft tissues like the brain and spinal cord less clearly, and use radiation.",
+    "impact": "MRI gives doctors clear pictures of the brain, joints, spine and organs without radiation, helping diagnose strokes, tumours and injuries.",
+    "facts": [
+      "The magnet in a typical MRI scanner is tens of thousands of times stronger than Earth's magnetic field.",
+      "MRI scanners are so loud that patients are often given earplugs or headphones.",
+      "Damadian's first full-body scanner, nicknamed 'Indomitable', is in the Smithsonian collection.",
+      "MRI was first called NMR imaging, but 'nuclear' was dropped because it worried patients."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "What does the M in MRI stand for?",
+        "a": "Magnetic",
+        "wrong": [
+          "Medical",
+          "Micro",
+          "Metal"
+        ]
+      },
+      {
+        "q": "Which atoms does MRI mainly detect in the body?",
+        "a": "Hydrogen",
+        "wrong": [
+          "Gold",
+          "Iron",
+          "Helium"
+        ]
+      }
+    ],
+    "wiki": "Magnetic resonance imaging"
+  },
+  {
+    "id": "hearing-aid",
+    "name": "Hearing Aid",
+    "emoji": "🦻",
+    "year": 1898,
+    "when": "around 1898 (electric); ear trumpets much earlier",
+    "where": "United States",
+    "who": "Miller Reese Hutchison (first electric hearing aid); ear trumpets by many makers",
+    "category": "Medicine & Health",
+    "kid": "A hearing aid is a tiny device that makes sounds louder for people who cannot hear well. Long ago, people used big horns called ear trumpets. Now hearing aids can be so small they hide inside the ear!",
+    "explorer": "For hundreds of years, people with hearing loss used ear trumpets — horn-shaped tubes that collect sound. Around 1898, American inventor Miller Reese Hutchison made one of the first electric hearing aids, called the Akouphone, using a carbon microphone and a battery. Later hearing aids used vacuum tubes, then transistors, which made them small enough to wear easily. Today's digital hearing aids are tiny computers.",
+    "expert": "Ear trumpets were common from the 1600s onward; the composer Beethoven used them as his hearing failed. Electric hearing aids followed the telephone, borrowing its carbon microphone technology, and Hutchison's Akouphone around 1898 was among the first; he later became chief engineer at Thomas Edison's laboratory. Vacuum-tube hearing aids of the 1920s–1940s were bulky, often with separate battery packs. In the early 1950s, hearing aids were among the very first consumer products to use transistors, which shrank them dramatically. Fully digital hearing aids arrived in the 1990s and can reduce background noise and connect to phones. Hearing aids amplify sound but do not restore normal hearing; cochlear implants are a separate technology that stimulates the hearing nerve directly.",
+    "how": "A microphone picks up sound, an amplifier makes it louder (and digital models adjust it to suit the person's hearing loss), and a small speaker sends it into the ear.",
+    "before": "People cupped a hand behind their ear, used ear trumpets or speaking tubes, or relied on lip reading and sign language.",
+    "impact": "Hearing aids help many millions of people talk with friends, learn at school and stay connected to the world.",
+    "facts": [
+      "The composer Ludwig van Beethoven used ear trumpets as he lost his hearing.",
+      "Hearing aids were among the first products ever to use transistors, in the early 1950s.",
+      "Miller Reese Hutchison, an early hearing aid inventor, later worked as chief engineer for Thomas Edison.",
+      "Some modern hearing aids can stream music and phone calls straight to the ear by Bluetooth."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "What horn-shaped device came before electric hearing aids?",
+        "a": "The ear trumpet",
+        "wrong": [
+          "The trombone",
+          "The megaphone",
+          "The whistle"
+        ]
+      },
+      {
+        "q": "Which famous composer used ear trumpets?",
+        "a": "Beethoven",
+        "wrong": [
+          "Taylor Swift",
+          "Elvis Presley",
+          "Michael Jackson"
+        ]
+      }
+    ],
+    "wiki": "Hearing aid"
+  },
+  {
+    "id": "contact-lens",
+    "name": "Contact Lens",
+    "emoji": "👁️",
+    "year": 1888,
+    "when": "1888 (glass); 1961 (soft lenses)",
+    "where": "Zurich, Switzerland (glass); Prague, Czechoslovakia (soft)",
+    "who": "Adolf Eugen Fick (first glass lens); Otto Wichterle (soft lenses)",
+    "category": "Medicine & Health",
+    "kid": "Contact lenses are tiny, thin lenses that sit right on your eye instead of on your nose like glasses. The first ones were made of hard glass! Today most are soft and bendy, almost like a gummy sweet.",
+    "explorer": "The idea of correcting vision with something touching the eye goes back to sketches by Leonardo da Vinci in 1508, but those were not real contact lenses. In 1888, German eye doctor Adolf Fick, working in Zurich, made glass lenses that covered the eye and tested them on rabbits and then people. Plastic lenses appeared in the 1930s and 1940s. In 1961, Czech chemist Otto Wichterle made the first soft contact lenses using a homemade machine.",
+    "expert": "Fick's 1888 glass 'scleral' lenses covered much of the white of the eye and could be worn only for short periods; others such as Eugen Kalt and August Müller made similar lenses around the same time. Lenses made of PMMA plastic, introduced from the late 1930s, were lighter, and smaller corneal lenses became popular after 1948. Otto Wichterle and Drahoslav Lím developed a water-absorbing hydrogel in 1959, and at Christmas 1961 Wichterle built a lens-spinning machine from a children's construction set and a bicycle dynamo. The rights were licensed abroad, and Bausch & Lomb began selling soft lenses in the United States in 1971. Lenses must be cleaned and used correctly, because poor hygiene can cause serious eye infections.",
+    "how": "A thin curved lens floats on the tear film covering the eye. It bends light just like glasses do, but because it moves with the eye it gives a wider, clearer view.",
+    "before": "People wore eyeglasses, which can fog up, slip, or get in the way during sports.",
+    "impact": "Contact lenses gave millions of people clear vision without glasses, which is especially helpful in sports and some jobs.",
+    "facts": [
+      "The first contact lenses were made of blown glass.",
+      "Otto Wichterle built his first soft-lens machine from a children's construction set and a bicycle dynamo.",
+      "Leonardo da Vinci sketched ideas about changing vision with water in front of the eye in 1508.",
+      "Adolf Fick first tested his glass lenses on rabbits."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "What were the first contact lenses made of?",
+        "a": "Glass",
+        "wrong": [
+          "Wood",
+          "Rubber",
+          "Paper"
+        ]
+      },
+      {
+        "q": "Who invented soft contact lenses?",
+        "a": "Otto Wichterle",
+        "wrong": [
+          "Isaac Newton",
+          "Henry Ford",
+          "Thomas Edison"
+        ]
+      }
+    ],
+    "wiki": "Contact lens"
+  },
+  {
+    "id": "prosthetic-limb",
+    "name": "Prosthetic Limb",
+    "emoji": "🦿",
+    "year": -950,
+    "when": "around 950–710 BCE",
+    "where": "Thebes, ancient Egypt (near modern Luxor)",
+    "who": "Unknown — ancient Egyptian craftspeople",
+    "category": "Medicine & Health",
+    "kid": "A prosthetic limb is an artificial arm, leg, hand or foot for someone who was born without one or lost one. One of the oldest known is a wooden toe from ancient Egypt! Today some are high-tech and can even be moved using signals from the person's muscles.",
+    "explorer": "One of the oldest known prosthetics is a wooden and leather big toe found on an Egyptian mummy, nearly 3,000 years old. Scientists tested copies and found a toe like it could really help someone walk in Egyptian sandals. Over the centuries, people made peg legs, iron hands and wooden limbs. Today, prosthetics use light materials like carbon fibre, and some are powered by tiny motors.",
+    "expert": "The Cairo toe, dated to around 950–710 BCE and now in the Egyptian Museum in Cairo, shows signs of wear and repeated fitting, and a 2012 study by researchers at the University of Manchester found replicas worked well for walking. A Roman bronze-and-wood leg from Capua, dated to around 300 BCE, was destroyed when the Royal College of Surgeons in London was bombed in World War II. In the 1500s, French surgeon Ambroise Paré designed improved artificial limbs, and the German knight Götz von Berlichingen wore a famous iron hand. Large wars, from the US Civil War to the World Wars, pushed big improvements. Modern devices include carbon-fibre running blades and myoelectric arms controlled by muscle signals, but high costs mean many people worldwide still lack access.",
+    "how": "A prosthetic attaches to the body with a fitted socket, straps or suction. Simple ones give support and shape, while advanced ones use sensors and motors controlled by signals from the person's muscles.",
+    "before": "People who lost a limb used crutches or sticks, adapted their tools, or relied on help from others.",
+    "impact": "Prosthetic limbs help people walk, work, play sports and live independently, and today's designs are allowing athletes to compete at the highest levels.",
+    "facts": [
+      "A nearly 3,000-year-old wooden toe from ancient Egypt is one of the oldest known prosthetics.",
+      "A Roman artificial leg from about 300 BCE was destroyed in a World War II bombing raid in London.",
+      "The 16th-century knight Götz von Berlichingen wore an iron hand.",
+      "Some modern prosthetic arms can be moved using electrical signals from the wearer's muscles."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Which ancient prosthetic was found in Egypt?",
+        "a": "A wooden toe",
+        "wrong": [
+          "A glass eye",
+          "A golden arm",
+          "A stone foot"
+        ]
+      },
+      {
+        "q": "What light material is used in modern running blades?",
+        "a": "Carbon fibre",
+        "wrong": [
+          "Lead",
+          "Stone",
+          "Cardboard"
+        ]
+      }
+    ],
+    "wiki": "Prosthesis"
+  },
+  {
+    "id": "toothbrush",
+    "name": "Toothbrush",
+    "emoji": "🪥",
+    "year": 700,
+    "when": "Tang dynasty (618–907 CE), by some accounts",
+    "where": "China",
+    "who": "Unknown — Chinese craftspeople; mass-produced in England by William Addis around 1780",
+    "category": "Medicine & Health",
+    "kid": "People have been cleaning their teeth for thousands of years. The first known brushes with bristles were made in China, using stiff hairs from pigs attached to bone or bamboo handles. Today you can choose from plastic, bamboo or even electric toothbrushes!",
+    "explorer": "Long before toothbrushes, people chewed on 'chew sticks' — twigs with frayed ends — to clean their teeth. In China, possibly as early as the Tang dynasty, people made brushes with stiff pig bristles fixed to handles of bone or bamboo. In England around 1780, William Addis began making toothbrushes to sell in large numbers. In 1938, nylon bristles replaced animal hair.",
+    "expert": "Chew sticks were used in ancient Babylon, Egypt and elsewhere, and twigs such as miswak from the Salvadora persica tree are still used in parts of Africa, the Middle East and South Asia. Bristle brushes were made in China: the Smithsonian says the earliest were probably made in the Tang dynasty, while the US Library of Congress gives 1498, so the exact date is uncertain. The idea later reached Europe, where horsehair and feather versions were also used. According to the Addis company's story, William Addis came up with his brush idea while in prison around 1770 and began selling them after his release; his firm continued for generations. Animal bristles held moisture and bacteria, so DuPont's nylon bristles, first used in 1938, were a hygiene improvement. Electric toothbrushes appeared in Switzerland in 1954. Plastic toothbrushes create a lot of waste, so bamboo and replaceable-head designs are growing in popularity.",
+    "how": "Bristles scrub away food bits and plaque — a sticky film of bacteria — from the surfaces of teeth and along the gums. Used with fluoride toothpaste, this helps prevent tooth decay and gum disease.",
+    "before": "People chewed frayed twigs, rubbed their teeth with cloths, salt or chalk, or picked them with small tools.",
+    "impact": "Daily toothbrushing has greatly reduced tooth decay and gum disease, helping people keep their teeth for life.",
+    "facts": [
+      "Early Chinese toothbrushes used stiff hairs from the necks of pigs.",
+      "Nylon bristles, introduced in 1938, replaced animal hair.",
+      "The miswak chew stick is still used by many people today.",
+      "The first electric toothbrush was made in Switzerland in 1954."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Which animal's bristles did early Chinese toothbrushes use?",
+        "a": "Pig",
+        "wrong": [
+          "Cat",
+          "Lion",
+          "Rabbit"
+        ]
+      },
+      {
+        "q": "In what year did nylon bristles first appear?",
+        "a": "1938",
+        "wrong": [
+          "1538",
+          "1838",
+          "1998"
+        ]
+      }
+    ],
+    "wiki": "Toothbrush"
+  },
+  {
+    "id": "adhesive-bandage",
+    "name": "Adhesive Bandage",
+    "emoji": "🩹",
+    "year": 1920,
+    "when": "1920",
+    "where": "New Brunswick, New Jersey, USA",
+    "who": "Earle Dickson (Johnson & Johnson)",
+    "category": "Medicine & Health",
+    "kid": "An adhesive bandage is a sticky strip with a soft pad in the middle that covers small cuts. The story goes that it was invented by a man who wanted to help his wife, who often cut her fingers in the kitchen. Now they come in all sorts of fun colours and patterns!",
+    "explorer": "In 1920, Earle Dickson, who worked for the company Johnson & Johnson, noticed his wife Josephine often got small cuts while cooking. Ordinary bandages were hard to put on by yourself. So he stuck small squares of gauze onto strips of surgical tape and covered them so they stayed clean. His company liked the idea and began selling them as Band-Aids in 1921.",
+    "expert": "Johnson & Johnson already made sterile surgical gauze and adhesive tape, so Dickson's idea combined existing products into a ready-to-use, self-applied dressing. Early Band-Aids were handmade and sold slowly; the company promoted them partly by giving them away, including to Boy Scout troops. Machine-made versions arrived in the mid-1920s, and fully sterilised bandages were introduced in 1939. Dickson rose to become a vice president of the company. 'Band-Aid' became so familiar that it is used as a general word for any adhesive bandage, and even as a phrase meaning a quick, temporary fix. Similar products are known by other brand names in other countries, such as 'plaster' in Britain.",
+    "how": "A sticky strip holds a small absorbent pad over a cut. The pad soaks up a little blood and keeps out dirt and germs, while the wound heals underneath.",
+    "before": "People cut pieces of gauze and wrapped them with tape or cloth strips, which was tricky to do alone and did not stay on well.",
+    "impact": "Adhesive bandages made basic first aid quick and easy for everyone, and they are now found in almost every home and first-aid kit.",
+    "facts": [
+      "Earle Dickson invented the adhesive bandage for his wife, Josephine, who often cut herself while cooking.",
+      "Johnson & Johnson gave away Band-Aids to Boy Scouts to help make them popular.",
+      "In Britain, adhesive bandages are usually called 'plasters'.",
+      "The phrase 'a band-aid solution' means a quick fix that does not solve the real problem."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "Who invented the adhesive bandage?",
+        "a": "Earle Dickson",
+        "wrong": [
+          "Earl Grey",
+          "Walt Disney",
+          "Henry Ford"
+        ]
+      },
+      {
+        "q": "What brand name did the first adhesive bandages use?",
+        "a": "Band-Aid",
+        "wrong": [
+          "Lego",
+          "Velcro",
+          "Post-it"
+        ]
+      }
+    ],
+    "wiki": "Adhesive bandage"
+  }
+]

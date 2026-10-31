@@ -1,0 +1,151 @@
+{
+  "n": 19,
+  "title": "The Future of Steam",
+  "when": "Today – the coming decades",
+  "summary": "Burning coal and gas to boil water has a hidden cost: it fills the sky with carbon dioxide that warms our planet. Now engineers are hunting for cleaner ways to make steam, using giant mirrors, hot rocks deep underground, new kinds of nuclear reactors and maybe one day the power of the Sun itself. Some are even trying to replace steam with a strange, squashed form of carbon dioxide!",
+  "sections": [
+    {
+      "heading": "The Invisible Problem in the Smoke",
+      "paragraphs": [
+        "Imagine standing next to a huge coal-fired power station on a cold winter morning. You can see the white clouds pouring from the cooling towers, and, as you learned in the last part, those clouds are only harmless water droplets. But from the tall, thin chimney comes something you cannot see at all. It has no colour and no smell. It is carbon dioxide, a gas made of one carbon atom joined to two oxygen atoms, and it is the reason the story of steam has reached a turning point.",
+        "Here is the chemistry, step by step. Coal is mostly carbon, the remains of ancient swamp plants that were squashed and baked underground for millions of years. When coal burns, each carbon atom grabs two oxygen atoms from the air. Carbon atoms are fairly light, but oxygen atoms are heavier, so the gas that comes out weighs much more than the carbon that went in. In fact, every kilogram of pure carbon becomes about 3.7 kilograms of carbon dioxide. Real coal is not pure carbon (it also contains water, ash and other substances), so burning about 1 kilogram of coal releases roughly 2 to 3 kilograms of carbon dioxide. It sounds like magic, making more weight than you started with, but the extra weight simply comes from the oxygen taken out of the air.",
+        "Power stations burn coal by the trainload. In the United States in 2023, according to the government's Energy Information Administration, coal-fired power plants released on average about 2.31 pounds (just over 1 kilogram) of carbon dioxide for every kilowatt-hour of electricity they made. A kilowatt-hour is about the energy needed to run a microwave oven for an hour. Gas-fired plants did better, releasing about 0.96 pounds (about 0.44 kilograms) per kilowatt-hour, because natural gas contains lots of hydrogen, which burns into water instead of carbon dioxide, and because modern gas plants are more efficient. But better is not the same as zero.",
+        "Why does this matter? Carbon dioxide acts a bit like a blanket around the Earth. Sunlight passes through the air and warms the ground; the warm ground then gives off invisible heat rays (infrared light), and carbon dioxide absorbs some of that heat and sends part of it back down. A little carbon dioxide is good: without any greenhouse gases our planet would be frozen. The trouble is the amount. Since about 1750, around the time Watt was experimenting in Glasgow, the amount of carbon dioxide in the air has risen by roughly half. Over the decade from 2016 to 2025, the world's average surface temperature was about 1.3 degrees Celsius warmer than in the late 1800s, and 2024 was the warmest year ever recorded.",
+        "One or two degrees may not sound like much. But this is an average for the whole planet, all year round, and even small changes in that average mean more heatwaves, heavier downpours, melting glaciers and rising seas. Scientists around the world agree that the main cause of the warming is burning fossil fuels: coal, oil and natural gas. In 2015, almost every country signed the Paris Agreement, promising to try to keep warming well below 2 degrees Celsius.",
+        "This is where our story gets awkward. For about 300 years, from Newcomen's engine in 1712 to the giant turbines of today, the easiest way to make steam was to burn coal. Steam built the modern world, and coal was its favourite food. So the big question for the coming decades is not really whether we will keep using steam. It is: can we keep the steam and lose the smoke? Engineers are attacking the problem from many directions at once, and some of their ideas might have amazed Hero, Watt and Parsons."
+      ]
+    },
+    {
+      "heading": "Electricity Without Boiling Water",
+      "paragraphs": [
+        "First, an honest surprise: some of the fastest-growing ways of making electricity do not use steam at all. They skip the kettle completely.",
+        "Take a wind turbine. Its giant blades are turned directly by moving air, the same wind that once spun the windmills you met in Part 1. The spinning shaft turns a generator, and out comes electricity. No fire, no boiler, no condenser. Hydroelectric dams work in a similar way, except that falling water spins the turbine instead of wind. Waterwheels powered mills long before steam did, and their modern descendants are still the world's biggest source of low-carbon electricity.",
+        "Solar panels are even stranger, because they have no moving parts at all. A solar panel, or photovoltaic panel, is made of thin slices of silicon, the same material used in computer chips. When light hits the silicon, it knocks tiny charged particles called electrons loose, and wires collect them as an electric current. Sunlight in, electricity out, and nothing spins.",
+        "These technologies have grown astonishingly fast. According to Ember, an energy research group that tracks the world's electricity, in 2024 about 41 percent of all the world's electricity came from low-carbon sources. Hydropower supplied about 14.3 percent, nuclear about 9 percent, wind about 8.1 percent and solar about 6.9 percent. Solar was the fastest-growing source of electricity for the twentieth year in a row: its output rose by 29 percent in a single year and had doubled in just three years. The world's solar panels together could produce about 2 terawatts at full sun in 2024, twice as much as in 2022. (A terawatt is a million megawatts, or the output of roughly a thousand large power-station turbines.)",
+        "So does this mean steam is about to disappear? Not quite. Look at that list again. Nuclear power, which supplied 9 percent, works by boiling water. So do most geothermal plants and biomass plants, which burn wood chips or crop waste. And the other 59 percent of the world's electricity in 2024 still came mostly from coal and gas, and much of that passes through a steam turbine at some point. Steam turbines once made an even bigger share of the world's electricity; as gas turbines, wind and solar spread, the share has fallen to roughly half or a little more, and it is still falling as wind and solar grow.",
+        "There is another reason steam is not going away soon. The wind does not always blow and the Sun sets every evening, so electricity grids need some power stations that can run whenever they are needed. Batteries are getting cheaper and are helping a great deal, but many experts think a mix will be needed: wind, solar and batteries alongside low-carbon power stations that can run day and night. Many of those round-the-clock stations will still make steam. The difference is the heat source. Instead of coal, the fire under tomorrow's kettle could be sunlight, the heat of the Earth itself, or the nucleus of an atom."
+      ]
+    },
+    {
+      "heading": "Catching Sunlight in a Mirror Forest",
+      "paragraphs": [
+        "Picture the Mojave Desert in California, near the border with Nevada. The ground is dusty and flat, and spread across about 3,500 acres (roughly 14 square kilometres) are 173,500 mirror units, each one carrying two mirrors and each one slowly tilting to follow the Sun across the sky. Rising from the middle of three huge mirror fields are three towers, each about 140 metres (459 feet) tall, roughly the height of the Great Pyramid of Giza. At the top of each tower sits a boiler glowing so brightly it is hard to look at. This is the Ivanpah Solar Electric Generating System, which formally opened in February 2014.",
+        "Ivanpah is a kind of power station called concentrated solar power, or CSP. It does not use solar panels. Instead, the mirrors, called heliostats, act like an enormous magnifying glass. Each one reflects sunlight onto the same small spot: the receiver at the top of the tower. There, the concentrated sunlight heats water in pipes until it becomes steam at about 550 degrees Celsius. That steam then does exactly what steam has done since Parsons: it races through a turbine, spins a generator and makes electricity. In other words, Ivanpah is a steam power station whose firebox is the Sun.",
+        "At full power, Ivanpah's three units can generate about 392 megawatts, enough on a sunny afternoon for well over a hundred thousand homes. But the plant has also taught engineers some hard lessons, and it is fair to tell them. It burns natural gas every morning to warm up its equipment, more than its designers expected. Birds flying through the concentrated sunlight near the towers can be burned, and estimates of how many die each year have varied widely and been argued over. Its output has been lower than first hoped. And while it was being built, ordinary solar panels became much cheaper. In 2025 its owners proposed closing the plant, and late that year California's regulators decided that two of its three units should keep running for the time being. Its future is a reminder that a new technology can be clever and still struggle against cheaper rivals.",
+        "Yet concentrated solar power has one superpower that ordinary solar panels lack: it can store heat. Heat is far cheaper to store than electricity. The trick is molten salt, a mixture of about 60 percent sodium nitrate and 40 percent potassium nitrate. At room temperature it looks like white granules, but heated past a couple of hundred degrees it melts into a clear liquid that flows like water and can hold a great deal of heat.",
+        "In a typical design there are two giant insulated tanks. During the day, cooler molten salt is pumped up the tower, heated by the concentrated sunlight to well over 500 degrees Celsius, and poured into the hot tank. Whenever electricity is needed, even hours after sunset, hot salt is pumped through a heat exchanger, where it boils water into steam for the turbine. The cooled salt goes back to the cold tank to wait for tomorrow's sunshine. It is a giant thermos flask for sunlight.",
+        "Spain's Gemasolar plant near Seville, which started running in 2011, showed how well this can work. Its 2,650 heliostats surround a 140-metre tower, and its salt tanks hold enough heat to keep generating for about 15 hours without any sunlight. In the summer of 2013 it ran 24 hours a day for 36 days in a row, something no solar plant had managed before. Similar plants now stand in other sunny deserts, such as the Noor Ouarzazate complex in Morocco and Cerro Dominador in Chile's Atacama Desert, which opened in 2021 with a 110-megawatt tower. Not every project has gone smoothly, and CSP is still more expensive than solar panels, but storing sunshine as heat to make steam at midnight is a genuinely new chapter in the steam story."
+      ]
+    },
+    {
+      "heading": "Hot Rocks and New Reactors",
+      "paragraphs": [
+        "Deep under your feet, the Earth is hot. Dig down far enough almost anywhere and the rock gets warmer by roughly 25 to 30 degrees Celsius for every kilometre. In a few lucky places, such as Larderello in Italy (which you visited in Part 18), Iceland or New Zealand, hot water and natural steam come close to the surface by themselves. But most of the planet's heat lies in dry, solid rock with no water flowing through it. Could we turn that rock into a boiler?",
+        "That is the idea behind an enhanced geothermal system. Engineers drill a deep well, then pump water down at very high pressure. The pressure widens tiny cracks that already exist in the rock, creating a hidden maze of passages. A second well is drilled nearby. Cold water goes down the first well, soaks up heat as it trickles through the hot cracks, and comes up the second well hot enough to drive a steam turbine or to heat another fluid that drives a turbine. The cooled water is then sent back down to be heated again. It is like building your own underground hot spring.",
+        "People have experimented with this for decades. A research site at Soultz-sous-Forêts in Alsace, France, began work in the 1980s and now feeds a small 1.5-megawatt demonstration plant into the grid. In the United States, the government funds a research site called Utah FORGE, and in 2023 a company called Fervo Energy tested a project in Nevada using drilling methods borrowed from the oil and gas industry, while starting work on a much larger plant called Cape Station in Utah. Supporters hope that enhanced geothermal could one day work in many more places than ordinary geothermal can. Whether it becomes cheap enough is one of the open questions of the coming decades.",
+        "Nuclear power is the other big round-the-clock source of low-carbon steam. As Part 18 explained, a nuclear reactor is really just a very unusual firebox: splitting uranium atoms releases heat, the heat boils water, and the steam spins a turbine. The newest idea is to make reactors smaller and build them in factories, like aeroplanes, instead of constructing each one as a giant one-off project. These are called small modular reactors, or SMRs, usually defined as reactors making less than 300 megawatts of electricity each.",
+        "Some are already running. Russia's Akademik Lomonosov is a floating nuclear power station, a barge carrying two small reactors, which has supplied electricity to the Arctic town of Pevek since 2020. China connected a small high-temperature reactor called HTR-PM to its grid in 2021; it is cooled by helium gas and filled with fuel shaped like billiard balls, called pebbles. China is also building a 125-megawatt water-cooled reactor called Linglong One. In 2020 the United States approved the design of the NuScale reactor, a small module meant to be grouped in sets, though no NuScale plant has yet been built.",
+        "Here is the interesting part for our story. Some of these new designs are cooled not by water but by helium gas, liquid sodium metal or molten salt. Yet almost all of them still pass their heat to water at the end, to make steam for a turbine. A few gas-cooled designs might one day send hot helium straight through a gas turbine instead, skipping steam altogether. But for now, even the most futuristic reactors on the drawing board mostly end up doing what Newcomen's engine did in 1712: boiling water."
+      ]
+    },
+    {
+      "heading": "A Star in a Bottle, Still Boiling Water",
+      "paragraphs": [
+        "The Sun shines because of nuclear fusion. Deep in its core, hydrogen nuclei are squeezed together so hard and so hot that they fuse into helium, releasing enormous energy. For more than 70 years, scientists have dreamed of building a small star on Earth to make electricity. The fuel would be forms of hydrogen called deuterium, which can be taken from seawater, and tritium, which can be made from the metal lithium. It would release no carbon dioxide.",
+        "The most famous attempt is ITER (pronounced 'eater'), an enormous machine being built at Saint-Paul-lès-Durance in southern France by a partnership of China, the European Union, India, Japan, Russia, South Korea and the United States. ITER is a tokamak, a doughnut-shaped chamber surrounded by giant magnets that hold a cloud of fuel heated to over 100 million degrees Celsius, around ten times hotter than the centre of the Sun. The plasma (a gas so hot that its atoms are torn apart) must never touch the walls, so the magnets hold it floating in place. Its vacuum vessel alone, with shielding and ports, weighs over 5,000 tonnes.",
+        "ITER's goal is to show that fusion can give out about ten times more energy than is used to heat the fuel: about 500 megawatts of fusion heat from about 50 megawatts of heating. But ITER is an experiment, not a power station. It is not designed to make any electricity at all; its heat will simply be carried away. It has also taken far longer than planned. Under a schedule revised in 2024, experiments using the real deuterium-tritium fuel are not expected to begin until about 2039.",
+        "Meanwhile, a different approach made headlines. On 5 December 2022, at the National Ignition Facility in Livermore, California, 192 powerful lasers fired at a fuel capsule smaller than a peppercorn. The lasers delivered 2.05 megajoules of energy, and the fusion released 3.15 megajoules, the first time a controlled fusion experiment had given out more energy than was delivered to the fuel. Later shots did even better. But there is an honest catch: making that laser pulse took around 300 megajoules of electricity from the grid, so the whole facility was still far from producing more energy than it used.",
+        "Now for the twist that connects fusion to our story. Suppose fusion works. How do you get electricity out of a miniature star? In most designs, the fusion reactions fire out very fast particles called neutrons, which carry most of the energy. The neutrons fly out of the magnetic cage and crash into a thick surrounding layer called a blanket, which contains lithium. The blanket gets very hot (and, as a bonus, the neutrons striking lithium make new tritium fuel). Then a coolant carries the heat away, boils water, and the steam spins a turbine connected to a generator.",
+        "So the most advanced energy experiment in human history, if it succeeds, will probably end with the same step as a 1712 mine pump: turning water into steam. A few researchers are exploring ways to turn fusion energy into electricity directly, without a turbine, especially with unusual fuels that release charged particles instead of neutrons. Those ideas are much further from reality. Nobody can promise when, or even whether, fusion power stations will supply our homes. It might be in your lifetime; it might take longer. But if it happens, there is a good chance a steam turbine will be humming somewhere inside."
+      ]
+    },
+    {
+      "heading": "New Tricks: Super Carbon Dioxide, Captured Carbon and Wasted Heat",
+      "paragraphs": [
+        "Steam has had a long run as the favourite working fluid, the substance that carries heat into motion. But some engineers are asking a bold question: is water really the best choice? One surprising rival is carbon dioxide, the very gas that causes so much trouble when it escapes from chimneys. In a closed loop, sealed inside the machine, it could become a helper instead.",
+        "Squeeze carbon dioxide hard enough and heat it above about 31 degrees Celsius at a pressure of about 7.4 megapascals (roughly 73 times normal air pressure) and it becomes supercritical. It is no longer clearly a gas or a liquid; it is something in between, as dense as a liquid but flowing like a gas. Because it is so dense, a turbine using supercritical carbon dioxide can be tiny compared with a steam turbine of similar power. General Electric built a prototype about one tenth the size of a matching steam turbine. In 2023 a test plant called STEP was completed in San Antonio, Texas; its turbine, designed for 10 megawatts, is described as about the size of a desk.",
+        "Smaller machines could mean cheaper power stations and better efficiency, and these turbines could someday be paired with nuclear reactors, concentrated solar plants or fusion. A related idea, called the Allam cycle, burns natural gas in pure oxygen with carbon dioxide as the working fluid, so that the carbon dioxide produced can be drawn off in a pure stream instead of escaping into the air. These ideas are still being tested. If they succeed, the 300-year reign of water as the king of working fluids could finally be challenged.",
+        "That leads to another approach: carbon capture. Instead of letting carbon dioxide float up the chimney, why not catch it? At the Boundary Dam power station in Saskatchewan, Canada, one coal-fired unit was rebuilt and reopened in 2014 with equipment designed to capture about 90 percent of its carbon dioxide, roughly a million tonnes a year. The gas is separated from the exhaust, squeezed, and piped away, mostly to an oil field where it is pumped underground. The project proved that capture can be done, but it also showed the difficulties. It cost about 1.5 billion Canadian dollars, it broke down often in its early years, it captured less than hoped, and running the capture equipment used up a big slice of the plant's own power, cutting its output from about 139 to 110 megawatts. Engineers still argue about whether carbon capture will become cheap and reliable enough to matter on a large scale.",
+        "The last new trick is the oldest lesson in the whole story: stop wasting heat. Remember that even the best power stations throw away more than a third of their fuel's energy as warm water and warm exhaust. Combined-cycle gas plants already catch the hot exhaust from a gas turbine in a heat recovery steam generator, a kind of boiler with no fire of its own, and use it to make extra steam. Factories that make steel, glass or cement could do the same with their hot exhaust. For gentler heat, under about 100 degrees Celsius, engineers use an organic Rankine cycle, which swaps water for a liquid that boils at a lower temperature, so even lukewarm waste heat can spin a small turbine. The efficiency is very low, often well under 10 percent, because, as Sadi Carnot showed in 1824 (Part 16), an engine with only a small temperature difference cannot do much work. Some cities pipe leftover power-station heat through underground pipes to warm homes, a system called district heating. James Watt became famous for noticing that Newcomen's engine wasted steam. The engineers of the future may become famous for finding uses for the heat we still throw away."
+      ]
+    },
+    {
+      "heading": "Crystal Balls and Honest Forecasts",
+      "paragraphs": [
+        "If you read news stories about energy, you will see lots of bold promises: fusion in ten years, solar everywhere, coal gone by a certain date. It is worth remembering how hard it is to predict technology. In 1884, when Charles Parsons built his first small turbine, few would have guessed that its descendants would make most of the world's electricity. And in the 1950s, some people predicted that nuclear power would make electricity 'too cheap to meter', which did not happen.",
+        "So here is what we can say with confidence, and what remains uncertain. Confident: the world is trying hard to cut carbon dioxide emissions; wind and solar power are growing very quickly; and the share of electricity made by burning coal will need to fall a long way if countries are to meet their climate goals. Also confident: steam turbines will not vanish soon. Nuclear, geothermal, biomass and concentrated solar plants all rely on them, and many coal and gas stations will keep running for years while cleaner power is built.",
+        "Uncertain: how fast all this will happen; whether new nuclear reactors can be built cheaply and on time; whether fusion will ever work as a power source; whether carbon capture will become affordable; and whether supercritical carbon dioxide turbines will replace steam in some new plants. Different experts give different answers, and they change their minds as new results arrive. That is not a weakness of science. It is how science is supposed to work.",
+        "One possibility is that, a few decades from now, steam will make a smaller share of the world's electricity than it does today, but will still be doing important jobs: in nuclear plants running day and night, in geothermal plants drawing on the Earth's heat, and in solar towers making steam from stored sunlight long after dark. Another possibility is that fusion or new turbines will surprise everyone. Your generation will find out which.",
+        "Either way, the engineers working on these problems are doing the same thing Newcomen, Watt, Trevithick and Parsons did: looking at a machine, measuring where the energy goes, and asking how to do better. The problems are bigger now, because the whole planet is involved. But the method has not changed.",
+        "And that makes this a good moment to step back. We have travelled a long way, from a spinning ball of steam in ancient Alexandria to mirror forests in the desert and miniature stars in France. In the final part, we will look back at the whole 2,000-year journey, from Hero's toy to a power network that wraps around the planet, and see what it can teach us."
+      ]
+    }
+  ],
+  "deepDive": "Why do engineers keep chasing higher temperatures, and why might carbon dioxide beat water? It comes back to Carnot's limit (Part 16): the best possible efficiency of any heat engine is 1 minus the ratio of the cold temperature to the hot temperature, both measured in kelvin. With a hot side of 550 °C (about 823 K) and a cold side of 30 °C (about 303 K), the ceiling is about 63 percent; real plants reach much less because of friction, heat leaks and the practical shape of the cycle. Raising the hot temperature raises the ceiling, but steam at very high temperatures and pressures demands thick, expensive alloy pipes, and much of a steam plant's size comes from the huge volume of low-pressure steam leaving the turbine. Supercritical carbon dioxide is attractive because it stays dense through the whole cycle, so the turbomachinery is compact and less energy is spent pumping. GE reported about 50 percent conversion efficiency from a test with CO2 heated to 700 °C, but pilot plants such as the 10-megawatt STEP facility in Texas are still proving whether these machines can run reliably for decades. Carbon arithmetic is simpler: carbon has an atomic mass of 12 and carbon dioxide 44, so each kilogram of carbon burned yields 44/12, or about 3.67 kilograms of CO2. Depending on its carbon content (roughly 50 to 90 percent, by type), a kilogram of coal yields about 2 to 3 kilograms of CO2. Debates continue on several fronts. Concentrated solar power can store heat cheaply but has been undercut by low-cost photovoltaics plus batteries; projects such as Ivanpah have struggled financially, while plants with molten-salt storage such as Gemasolar have shown round-the-clock operation. Carbon capture works technically, as Boundary Dam shows, but uses a large share of a plant's output (an 'energy penalty') and costs remain high. For fusion, scientists distinguish 'scientific breakeven' (more fusion energy out than energy delivered to the fuel, achieved at the National Ignition Facility in 2022) from 'engineering breakeven' (more electricity out than the whole plant uses), which no experiment has yet reached. Honest forecasting means treating all these as research paths, not guarantees.",
+  "funFact": "Spain's Gemasolar solar plant can keep making steam for about 15 hours with no sunlight at all, and in 2013 it ran around the clock for 36 days in a row, thanks to tanks of molten salt.",
+  "check": {
+    "q": "How does a concentrated solar power plant like Gemasolar keep making electricity after sunset?",
+    "a": "It stores the Sun's heat in tanks of hot molten salt, then uses that heat to make steam for its turbine",
+    "wrong": [
+      "It switches to burning coal every night",
+      "It uses moonlight reflected by its mirrors",
+      "It stores the electricity in giant rechargeable car batteries"
+    ]
+  },
+  "sources": [
+    {
+      "title": "How much carbon dioxide is produced per kilowatthour of U.S. electricity generation?",
+      "publisher": "U.S. Energy Information Administration",
+      "url": "https://www.eia.gov/tools/faqs/faq.php?id=74&t=11"
+    },
+    {
+      "title": "Global Electricity Review 2025",
+      "publisher": "Ember",
+      "url": "https://ember-energy.org/latest-insights/global-electricity-review-2025/"
+    },
+    {
+      "title": "Ivanpah Solar Power Facility",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ivanpah_Solar_Power_Facility"
+    },
+    {
+      "title": "Gemasolar Thermosolar Plant",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gemasolar_Thermosolar_Plant"
+    },
+    {
+      "title": "ITER",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ITER"
+    },
+    {
+      "title": "National Ignition Facility",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_Ignition_Facility"
+    },
+    {
+      "title": "Supercritical carbon dioxide",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Supercritical_carbon_dioxide"
+    },
+    {
+      "title": "Boundary Dam Power Station",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boundary_Dam_Power_Station"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Aerial or ground photo of the Ivanpah solar power towers surrounded by fields of mirrors in the Mojave Desert",
+      "search": "Ivanpah solar power facility towers"
+    },
+    {
+      "want": "Photo of the Gemasolar solar tower near Seville, Spain, with its circular field of heliostat mirrors",
+      "search": "Gemasolar solar tower Seville"
+    },
+    {
+      "want": "Photo or diagram of the ITER tokamak fusion experiment under construction in Cadarache, France",
+      "search": "ITER tokamak construction Cadarache"
+    }
+  ]
+}

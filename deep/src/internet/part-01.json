@@ -1,0 +1,155 @@
+{
+  "n": 1,
+  "title": "Messages Faster Than a Horse",
+  "when": "1790s – 1950s",
+  "summary": "Long ago, a letter could take weeks or even months to reach someone far away. Then people built towers with waving arms, wires that carried sparks, cables under the ocean and telephones that carried voices. But the first computers were giant machines that could not talk to anyone at all!",
+  "sections": [
+    {
+      "heading": "A World Waiting for News",
+      "paragraphs": [
+        "Imagine you live in the year 1800 and your cousin has just moved across the ocean. You write a letter, fold it, seal it with a blob of wax and hand it to a messenger. Then you wait. The letter rides in a bag on a horse to a port, sits in a ship's hold for weeks while the sails catch whatever wind there is, rides another horse at the other end, and finally lands in your cousin's hands. If your cousin writes back straight away, you might hear the answer two or three months after you asked the question.",
+        "For almost all of human history, news could travel only as fast as the fastest thing that could carry it. That meant a running person, a galloping horse, a sailing ship or, in a few places, a trained pigeon. Kings and generals built clever systems to speed things up. Riders would hand a message to a fresh rider waiting at the next post, so the message never had to rest even when the horses did. This idea of passing a message along a chain of stations, called relaying, is worth remembering. It turns up again and again in this story, all the way to the Internet you use today.",
+        "Even the best relay systems were slow by our standards. In America, the famous Pony Express ran from April 1860 to October 1861. Young riders galloped about 3,000 kilometres (about 1,900 miles) between St. Joseph, Missouri, and Sacramento, California, swapping horses at stations along the way. A letter that went the whole distance usually took about ten days. People thought that was astonishingly fast. Today a message makes the same trip in a small fraction of a second.",
+        "Slow news could change history. In the War of 1812 between Britain and the United States, peace was agreed when a treaty was signed in the city of Ghent, in what is now Belgium, on 24 December 1814. But nobody fighting in America knew. On 8 January 1815, more than two weeks later, the two armies fought the Battle of New Orleans, and many soldiers were killed or wounded in a battle that happened after the peace had already been signed. The news of the treaty was still crossing the Atlantic Ocean by ship."
+      ]
+    },
+    {
+      "heading": "Towers That Talked: Chappe's Semaphore",
+      "paragraphs": [
+        "In the early 1790s France was in the middle of its Revolution and at war with several of its neighbours. The new government badly needed a way to send orders to its armies and hear back quickly. A young Frenchman named Claude Chappe, born in 1763 in the small town of Brûlon, had an idea. Working with his brothers, he designed a machine that could make signals big enough to be seen many kilometres away.",
+        "Chappe's machine sat on top of a tower. It had a long wooden crossbar, about 4.6 metres long, with a smaller arm about 2 metres long at each end. Operators below pulled handles connected by ropes and pulleys to swing the crossbar and the two arms into different positions. Each arm could take seven positions and the crossbar could tilt at four angles, so the whole thing could make 196 different shapes.",
+        "Here is the clever part. The towers were built in a line, each one within sight of the next, usually about 10 to 15 kilometres apart. An operator in one tower peered through a telescope at the neighbouring tower, saw what shape its arms were making, and copied that shape on his own tower. The operator in the next tower copied him, and so on down the line. The message hopped from hilltop to hilltop like a game of copycat across a whole country.",
+        "In 1792 the French government asked Chappe to build a line from Paris to the city of Lille near the northern border, about 230 kilometres away. By 1794 it was working. That year it carried news that French troops had captured the town of Condé-sur-l'Escaut, and the report reached Paris less than an hour after the event. A rider on horseback would have needed a day or more. One early test showed that the first symbol of a message could pass through 15 stations in about nine minutes.",
+        "Chappe called his invention a 'tachygraph', meaning 'fast writer', but officials preferred the word 'telegraph', from Greek words meaning 'far writing'. That word stuck, and it was later used for the electric telegraph too. To save time, operators did not spell out every word letter by letter. They used a codebook in which pairs of symbols stood for thousands of different words and phrases, a bit like using emoji shortcuts instead of typing whole sentences.",
+        "The Chappe system grew into a real network. At its biggest it had about 556 stations stretching about 4,800 kilometres across France, with branches reaching out from Paris like the spokes of a wheel. Other countries, such as Sweden and Britain, built their own versions. In a way, it was a kind of network: messages were passed along by relay stations, each of which only needed to know which way to send the message next. Routers on today's Internet do something similar, as you will see in later parts.",
+        "But the semaphore had big weaknesses. It did not work at night, and fog, rain or snow could stop it completely. Each tower needed people on duty from dawn to dusk. One signalman in 1819 said he earned 25 sous a day and worked from daylight to dark. And the system was so slow that a full message of a few dozen symbols could take around half an hour just to travel the Paris–Lille line. It was mostly used by the government, not ordinary people. Chappe himself died in 1805, but his towers kept working for decades, until a new invention using electricity made them old-fashioned. In 1846 France decided to replace them with electric telegraph lines."
+      ]
+    },
+    {
+      "heading": "Sparks on a Wire: Samuel Morse",
+      "paragraphs": [
+        "Samuel Morse did not start out as an inventor. Born in Massachusetts in 1791, he was a talented portrait painter who painted famous Americans. In 1825, while he was away from home working on a painting in Washington, his wife Lucretia became ill and died. According to the usual telling, the news reached him by slow letter, and by the time he got home she had already been buried. Many historians think this painful experience helped push him to find a faster way to send news.",
+        "In 1832, sailing home from Europe, Morse got talking with a fellow passenger named Charles Thomas Jackson about electromagnets. An electromagnet is a piece of iron wrapped in coiled wire. When electric current flows through the wire, the iron becomes a magnet. When the current stops, it is no longer a magnet. Morse realised that you could switch the current on and off at one end of a long wire, and a magnet at the far end would click on and off in exactly the same pattern, almost instantly.",
+        "He was not the only person with this idea. In Britain, William Cooke and Charles Wheatstone built a working electric telegraph in 1837 that used needles pointing at letters, and it was used on British railways. The American scientist Joseph Henry had already done important experiments showing how to make strong electromagnets work over long wires. Morse's partner Alfred Vail, a skilled mechanic, helped build the equipment and helped create the code. Like the Internet itself, the telegraph was the work of many people.",
+        "The code is what made Morse's system so simple. Instead of needing many wires or a machine to point at letters, it used just one wire and two kinds of signal: a short pulse called a dot and a longer pulse called a dash. Each letter got its own pattern. E, the most common letter in English, got the shortest code of all, a single dot. T got a single dash. Rarer letters like Q got longer patterns. Choosing short codes for common letters made messages quicker to send, an idea that computer scientists still use today when they squeeze files to make them smaller.",
+        "Building a long telegraph line was expensive, so Morse asked the United States Congress for money. In 1843 Congress gave him 30,000 dollars to build an experimental line about 60 kilometres (38 miles) long between Washington, D.C., and Baltimore, Maryland. Workers strung the wire on wooden poles beside a railway line.",
+        "On 24 May 1844, Morse sat in the Supreme Court chamber inside the US Capitol building in Washington and tapped out a message. In Baltimore, at the Mount Clare railway station, Alfred Vail received it and sent it straight back. The words were 'What hath God wrought', a line from the Bible (Numbers 23:23). They had been chosen by Annie Ellsworth, the young daughter of a friend of Morse who had helped him get the money from Congress. The phrase means something like 'Look what God has done', and it captured how amazing it felt to send words across a whole state in the blink of an eye.",
+        "After that, telegraph lines spread with incredible speed. Companies strung wires along railways and roads, and by 1861 a telegraph line stretched right across the United States. The Pony Express, which had seemed so fast, closed down just two days after the coast-to-coast telegraph opened in October 1861. Newspapers began printing news from distant cities on the same day it happened. Businesses checked prices in other markets. Families sent short, expensive telegrams for weddings, births and emergencies, paying by the word, so people learned to write very short messages, a bit like text messages today.",
+        "Each telegraph office had trained operators who could listen to the clicks of the receiver and write down the letters as fast as they came in. Good operators could recognise each other by the rhythm of their tapping, the way you might recognise a friend's handwriting. Some writers have called the telegraph network 'the Victorian Internet', because it was the first time a huge web of wires let people swap messages almost instantly across great distances."
+      ]
+    },
+    {
+      "heading": "A Wire Across the Ocean",
+      "paragraphs": [
+        "Wires on poles were fine on land, but the Atlantic Ocean is more than 3,000 kilometres wide and in places several kilometres deep. Could anyone lay a wire along the sea floor all the way from Europe to North America? An American businessman named Cyrus Field thought so. In the 1850s he helped set up the Atlantic Telegraph Company, raised money in Britain and America, and set out to do something that many people thought was impossible.",
+        "An undersea cable is much more than a bare wire. The copper core that carries the electricity has to be wrapped in a material that keeps seawater out, because salty water conducts electricity and would leak the signal away. The early cables used gutta-percha, a rubbery gum from trees in Southeast Asia, as insulation, then wrapped that in tarred hemp and twisted iron wires to make it strong. The cable was so heavy that no single ship of the time could easily carry all of it.",
+        "The first attempt in 1857 failed when the cable snapped and sank. In 1858 two warships, the British HMS Agamemnon and the American USS Niagara, met in the middle of the ocean, joined their two halves of the cable together, and steamed in opposite directions, paying out cable behind them. One end came ashore at Valentia Island off the southwest coast of Ireland and the other at Newfoundland. In August 1858 the cable worked. Celebrations broke out on both sides of the ocean, with fireworks and parades in New York.",
+        "Queen Victoria sent a message of congratulations to US President James Buchanan. It was only 98 words long, but it took about 16 hours to get through, because the signals arriving at the far end were so weak and blurry that operators struggled to read them. The cable could manage only about one word every ten minutes or so.",
+        "Then things went wrong. The company's chief electrician, Wildman Whitehouse, believed the way to push signals through faster was to use very high voltages, reportedly up to about 2,000 volts. That damaged the cable's insulation, and the signals got worse and worse. By early September 1858, after working for only about three weeks, the cable went silent for good. Whitehouse was dismissed. Some people even began to say the whole thing had been a hoax.",
+        "A brilliant Scottish-Irish scientist named William Thomson, who later became Lord Kelvin, had argued for a gentler approach. He had worked out the mathematics of how signals spread out and smear as they travel along a long cable, and he invented a very sensitive detector called the mirror galvanometer. It used a tiny mirror on a magnet to reflect a spot of light that wiggled when even a faint current arrived, so operators could read signals that were far too weak to click a normal receiver.",
+        "The next tries used a new star: the Great Eastern, a gigantic iron steamship designed by the engineer Isambard Kingdom Brunel. It was about 211 metres long, by far the largest ship in the world at the time, and it was big enough to carry an entire Atlantic cable in its enormous tanks. In 1865 the cable broke in mid-ocean and was lost. But in 1866 the Great Eastern tried again and succeeded, landing the cable at Heart's Content in Newfoundland. Service began on 27 July 1866. Then, in an amazing piece of seamanship, the crew went back, fished the broken 1865 cable up from the deep sea floor with grappling hooks, joined it to new cable and finished it too. Now there were two working lines.",
+        "The new cables were far better made and used Thomson's gentle methods and detectors. They could carry about 8 words per minute, around 80 times faster than the 1858 cable. Sending a message was extremely expensive at first, so it was used mostly by governments, newspapers and businesses. Still, news that once took ten days or more to cross the ocean by ship could now cross in minutes. Over the following decades, telegraph cables were laid to India, Australia, South America and Asia, wrapping the world in a web of copper. These undersea telegraph cables are the great-great-grandparents of the glass fibre cables that carry most of the Internet's traffic between continents today."
+      ]
+    },
+    {
+      "heading": "Hello! The Telephone and the Switchboard",
+      "paragraphs": [
+        "The telegraph was amazing, but you had to learn a code, and you needed a trained operator. What if a wire could carry the sound of a voice itself? Several inventors were racing to find out. One of them was Alexander Graham Bell, who was born in Edinburgh, Scotland, in 1847 and moved to North America with his family. Bell was a teacher of deaf students, and he spent his life studying how sound and speech work, which turned out to be perfect training for inventing the telephone.",
+        "The basic idea is beautifully simple. When you speak, your voice makes the air vibrate. In a telephone, those vibrations shake a thin sheet called a diaphragm. The moving diaphragm changes an electric current flowing through a wire, so that the current wobbles up and down in the same pattern as your voice. At the other end, the wobbling current moves another diaphragm, which shakes the air and recreates the sound. Unlike the telegraph's simple on and off clicks, the telephone sent a smoothly changing signal that copied the shape of the sound wave.",
+        "Bell's patent application reached the United States Patent Office on 14 February 1876, the very same day that another inventor, Elisha Gray, filed a document describing a similar idea. Historians still argue about who did what first, and an Italian-American inventor named Antonio Meucci had also worked on voice-carrying devices years earlier. But Bell was granted US Patent 174,465 on 7 March 1876, and on 10 March 1876 he spoke the famous first words through his device to his assistant Thomas Watson in the next room: 'Mr. Watson, come here, I want to see you.'",
+        "At first, telephones were sold in pairs, with a wire running directly between them, maybe from a shop to the owner's house. But if everyone who owned a phone needed a separate wire to every other phone, the number of wires would quickly become ridiculous. With 100 telephones you would need almost 5,000 separate wires to connect every pair! The solution was the telephone exchange, a central office where all the lines in a town came together.",
+        "The first commercial telephone exchange opened in New Haven, Connecticut, in January 1878. Each customer had one line running to the exchange. To make a call, you lifted the receiver and spoke to an operator, who sat in front of a big board called a switchboard covered in holes called jacks. You told the operator who you wanted, and she plugged a cord into your jack and another cord into your friend's jack, connecting your two wires together so that you could talk.",
+        "The very first operators were often teenage boys, but many customers complained that they were rude and played pranks. In September 1878 a woman named Emma Nutt was hired in Boston and became one of the first female telephone operators. Telephone companies soon hired thousands of young women, who were known for their calm, polite voices. For decades, every call in a town passed through the hands of these operators, who had to be fast and accurate as they plugged and unplugged cords all day long.",
+        "Later, machines took over. In 1891 an American undertaker named Almon Strowger patented an automatic switch. A popular story says he was annoyed because a local operator kept sending his customers' calls to a rival undertaker, so he invented a system that let callers connect themselves by dialling numbers. Automatic exchanges using his ideas spread slowly over the following decades. By the middle of the 1900s, telephone lines connected homes and offices across whole continents, and in 1915 Bell made the first coast-to-coast telephone call across the United States, from New York to San Francisco, speaking once again to Thomas Watson."
+      ]
+    },
+    {
+      "heading": "The Big Idea: A Line Just for You",
+      "paragraphs": [
+        "Here is an idea that is going to matter for the rest of this whole story, so let's slow down and look at it carefully. When an operator plugged your line into your friend's line, she made a complete electrical path, called a circuit, running from your phone, through the exchange, to your friend's phone. As long as your call lasted, that circuit belonged only to you. Nobody else could use those wires.",
+        "This way of connecting calls is called circuit switching. It is a bit like booking an entire train just for yourself. Even if you only want to carry one small backpack, the whole train is yours from the moment you leave until you arrive, and nobody else can ride on it. If you and your friend stop talking for a minute to think, the line stays reserved, carrying silence.",
+        "For a phone call between two people, circuit switching works quite well. People talk in a steady flow, and a good, clear, private line is exactly what you want. But it is wasteful in an important way. For long-distance calls, the circuit had to pass through many exchanges and along long trunk lines between cities. Each of those expensive lines could carry only a limited number of calls at the same time. If they were all in use, the next caller simply heard a busy signal and had to try again later. That is one reason long-distance calls were so expensive for so many years.",
+        "Keep this picture of the reserved train in your mind. A few decades later, when people wanted computers to send messages to each other, they realised that computers do not talk like people. A computer might send a quick burst of information, then go quiet for a long time, then send another burst. Booking a whole circuit for that would be like booking a whole train to deliver one postcard every few minutes. Solving that puzzle would lead, in part 3 of this story, to one of the most important ideas behind the Internet."
+      ]
+    },
+    {
+      "heading": "Radio Waves and Giant Brains",
+      "paragraphs": [
+        "Not every message needed a wire. In the 1880s the German scientist Heinrich Hertz proved that invisible electromagnetic waves, which we now call radio waves, could travel through the air. An Italian inventor named Guglielmo Marconi, along with many other experimenters, turned this discovery into wireless telegraphy, which sent Morse code through the air. On 12 December 1901, Marconi reported receiving a faint signal, the three dots of the letter S, sent across the Atlantic from Cornwall in England to Newfoundland. By the 1920s radio stations were broadcasting music, news and sport into millions of homes.",
+        "Meanwhile, a completely different kind of machine was being born: the electronic computer. During the Second World War, armies needed huge numbers of difficult calculations, for example to work out how far an artillery shell would fly depending on the angle of the gun, the wind and the air. Rooms full of people, many of them women whose job title was literally 'computer', worked out these tables by hand with mechanical calculators. It was slow, exhausting work.",
+        "At the University of Pennsylvania in Philadelphia, two engineers, John Mauchly and J. Presper Eckert, designed a machine to do these calculations electronically. Construction began in 1943, paid for by the US Army, and the machine was finished in 1945. It was called ENIAC, short for Electronic Numerical Integrator and Computer, and it was shown to the public in February 1946.",
+        "ENIAC was a monster. It filled a room about 9 by 15 metres (30 by 50 feet), with 40 tall panels arranged in a U shape. It weighed about 27 tonnes, as much as four or five elephants. It contained about 18,000 vacuum tubes, glass bulbs that acted as electronic switches, and hundreds of thousands of hand-soldered joints (about 500,000, according to the University of Pennsylvania). It used about 150 kilowatts of electricity, enough to power many homes, and gave off lots of heat. A popular story says the lights of Philadelphia dimmed when it was turned on, but that is a legend, not a recorded fact.",
+        "What it could do was astonishing for its day. ENIAC could perform about 5,000 additions per second. A shell trajectory that took a skilled person about 12 hours to calculate by hand took ENIAC about 30 seconds. But programming it was hard work. There was no keyboard and no screen. To give ENIAC a new task, people had to plug cables into panels and set rows of switches by hand, a job that could take days. That work was done mainly by six brilliant women: Kathleen McNulty, Jean Jennings, Betty Snyder, Marlyn Wescoff, Frances Bilas and Ruth Lichterman. For many years they received very little credit, but today they are celebrated as pioneers of programming.",
+        "In the late 1940s and 1950s, more computers appeared, such as the Manchester computers in England and the UNIVAC I in the United States in 1951. Each was a rare and costly machine, often owned by a government, a university or a large company, and kept in its own special room. Data went in on punched cards or paper tape and came out on printed paper. If you wanted to move information from one computer to another, someone usually had to carry the cards or tapes across by hand. Each computer was like an island, brilliant at its own work but cut off from all the others.",
+        "So by the 1950s the world had two great inventions that had grown up separately. On one side was a vast web of telegraph wires, telephone lines, undersea cables and radio links that could carry human messages across oceans in seconds. On the other side were a handful of giant electronic brains that could calculate faster than any human, but sat alone in their rooms. People could now talk across oceans. But what would happen when the new thinking machines wanted to talk to each other?"
+      ]
+    }
+  ],
+  "deepDive": "Why did the 1858 Atlantic cable struggle so badly, even before it was damaged? The answer is physics, and it shaped telecommunications for a century. A long undersea cable behaves like a very long, leaky capacitor: the copper core and the seawater around the insulation act as two conductors separated by a thin layer of gutta-percha. Each pulse sent into the cable has to charge up that capacitance before the far end sees much change, so a crisp on-off pulse arrives as a slow, smeared hump. In the 1850s William Thomson worked out that this delay grows roughly with the square of the cable's length, a result often called the 'law of squares'. Double the length and the signal becomes about four times slower, which is why a cable thousands of kilometres long could manage only a fraction of a word per minute with crude equipment. Raising the voltage, as Wildman Whitehouse did, does not fix the smearing; it only stresses the insulation. Thomson's answer was the opposite: use small currents, a thicker copper core, better insulation and a supersensitive detector (his mirror galvanometer, and later his siphon recorder) so operators could read faint, blurred signals. The 1866 cable, about 8 words per minute, showed he was right. Later, Oliver Heaviside's mathematics explained how adding inductance to a line could reduce distortion, an idea that improved long telephone lines. The second big idea of this part is circuit switching. Telephone engineers measured traffic carefully, and the Danish mathematician Agner Krarup Erlang developed formulas in the early 1900s to work out how many circuits an exchange needed so that only a small share of callers heard a busy signal. Those formulas assumed calls arriving at random and lasting minutes, with each call holding its circuit for the whole time. That model fits human conversation well, but it fits computer traffic badly, because computers send short bursts separated by long silences. Historians of the Internet often point to this mismatch as the problem that packet switching later solved. It is also worth remembering that the 'Victorian Internet' comparison, popularised by writer Tom Standage, is an analogy: the telegraph network moved messages by human operators and was not a network of computers, but it raised many of the same issues we still face, from coded shorthand and privacy to fraud and information overload.",
+  "funFact": "The ship that finally laid a lasting Atlantic telegraph cable in 1866, the Great Eastern, was about 211 metres long, and no ship longer than it was built for roughly 40 years.",
+  "check": {
+    "q": "What were the words of Samuel Morse's famous telegraph message sent from Washington to Baltimore in 1844?",
+    "a": "What hath God wrought",
+    "wrong": [
+      "Mr. Watson, come here, I want to see you",
+      "Hello, Baltimore, can you hear me?",
+      "LO"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Semaphore line",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Semaphore_line"
+    },
+    {
+      "title": "Claude Chappe",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Claude_Chappe"
+    },
+    {
+      "title": "Samuel Morse",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Samuel_Morse"
+    },
+    {
+      "title": "Transatlantic telegraph cable",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable"
+    },
+    {
+      "title": "Invention of the telephone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Invention_of_the_telephone"
+    },
+    {
+      "title": "Telephone exchange",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Telephone_exchange"
+    },
+    {
+      "title": "ENIAC",
+      "publisher": "Penn Engineering, University of Pennsylvania",
+      "url": "https://www.engineering.upenn.edu/about/history-heritage/eniac/"
+    },
+    {
+      "title": "ENIAC",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ENIAC"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A surviving or reconstructed Chappe optical semaphore telegraph tower with its wooden arms, in France",
+      "search": "Chappe telegraph tower semaphore"
+    },
+    {
+      "want": "The steamship Great Eastern laying the transatlantic telegraph cable in 1865 or 1866 (period illustration or photograph)",
+      "search": "Great Eastern cable laying 1866"
+    },
+    {
+      "want": "Historic photograph of ENIAC at the University of Pennsylvania with its programmers setting switches and cables",
+      "search": "ENIAC computer programmers 1946"
+    }
+  ]
+}

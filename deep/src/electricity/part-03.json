@@ -1,0 +1,151 @@
+{
+  "n": 3,
+  "title": "Bottled Lightning and Benjamin Franklin",
+  "when": "1745 – 1760s",
+  "summary": "People found a way to trap electricity inside a glass jar, and it gave a shock strong enough to knock you off your feet. In America, Benjamin Franklin wondered if lightning was the same thing as these sparks. Brave experimenters with tall iron rods and a kite proved he was right, and the lightning rod was born.",
+  "sections": [
+    {
+      "heading": "The Jar That Bit Back",
+      "paragraphs": [
+        "By the 1740s, electricity was the most exciting show in Europe. Experimenters had friction machines: spinning globes of glass that they rubbed with their hands or a leather pad until crackling sparks leapt off. But there was one big problem. The electricity never stayed put. As soon as you stopped turning the machine, the charge leaked away into the damp air, and the fun was over. Could anyone catch it and keep it, the way you might catch rainwater in a barrel?",
+        "On 11 October 1745, a German churchman named Ewald Georg von Kleist tried exactly that. Von Kleist lived in Pomerania, on the cold Baltic coast of northern Europe. He took a small medicine bottle, poured in some alcohol, and pushed an iron nail through the cork so that it dipped into the liquid. Then he held the bottle in one hand and touched the nail to his electrical machine, hoping the electricity would flow down the nail and collect inside. When he reached over with his other hand and touched the nail, he got a shock so strong that it jolted his arms and shoulders. Something really had been stored inside that little bottle.",
+        "Von Kleist wrote letters about his discovery, but his descriptions were not very clear, and other people who tried to copy him often failed. The reason, as it turned out, was surprisingly simple. The trick only worked if the person holding the bottle was touching the outside of the glass with their bare hand. The hand was secretly part of the experiment.",
+        "A few months later, the same thing happened in the Dutch university town of Leiden. Pieter van Musschenbroek was a well-known professor of physics there, and he worked with a lawyer called Andreas Cunaeus who liked doing experiments as a hobby. Cunaeus held a glass of water in his hand while it was being charged from a machine, then touched the wire with his other hand. He received a terrific shock. Musschenbroek tried it himself and described the experience in a letter to the French scientist René Réaumur, dated 20 January 1746. He reportedly wrote that the blow struck his arm, shoulder and chest so hard that he thought for a moment it was all over for him, and that he would not try it again even for the whole kingdom of France.",
+        "Of course, once news of a painful and frightening experiment got out, everybody wanted to try it. The device spread across Europe within months and became known as the Leyden jar, after the old spelling of Leiden. Because von Kleist and Musschenbroek found it independently, historians today give credit to both of them, even though only Leiden ended up with its name on the jar.",
+        "So how did the jar work? Over the next few years experimenters improved it. The water was replaced by a lining of metal foil glued to the inside of the glass, and a second layer of foil was wrapped around the outside. The foil stopped a little short of the rim so that sparks could not jump over the top. A metal rod poked down through a stopper made of wood or cork and touched the inner foil. Glass is an insulator, which means electricity cannot pass through it. So when charge was pumped onto the inner foil, it could not escape through the glass. Instead it pulled an opposite charge onto the outer foil, which was connected to the ground through the hand or a chain. The two layers of charge sat there, face to face, held apart by the glass and attracting each other across it.",
+        "The moment someone made a path between the inner and outer foil, perhaps a wire, or a finger on the rod and a hand on the outside, all that stored charge rushed through the gap at once. That sudden rush is what gave the shock. Today we call a device like this a capacitor, and tiny capacitors are hidden inside almost every phone, computer and television. A typical Leyden jar about the size of a pint glass could be charged to tens of thousands of volts, which is why its spark could crack loudly and jump across a gap. It held only a small amount of energy, so a single jar usually did not seriously hurt anyone, but it certainly made people jump."
+      ]
+    },
+    {
+      "heading": "Shocking Shows for Kings and Monks",
+      "paragraphs": [
+        "In an age before cinema, a science demonstration could be as thrilling as a magic show, and no one put on a better electrical show than a French priest and teacher called Jean-Antoine Nollet, usually known as the Abbé Nollet. Abbé was a title for a churchman, but Nollet spent most of his life lecturing about physics, building beautiful instruments and writing books such as his six-volume Lessons in Experimental Physics.",
+        "Imagine the scene at the royal palace in 1746. King Louis XV of France is watching. In front of him, about 180 of his guards stand in a long line, each holding the hand of the next man. Nollet charges a Leyden jar. The soldier at one end touches the outside of the jar, and the soldier at the other end touches the rod. In an instant, the whole line of men leaps into the air at the same moment, as if they had all been pinched at once. The king was delighted.",
+        "Nollet then did something even bigger. At a monastery of Carthusian monks, he arranged around 200 monks in a huge circle, roughly a mile (about 1.6 kilometres) around, with lengths of iron wire joining each person to the next. When the jar was discharged, every monk jumped at almost exactly the same time. The monks might not have enjoyed it, but the experiment taught something important. Nobody could see any delay between the first monk and the last. Electricity, it seemed, travelled along a line of people and wires incredibly fast, much faster than any sound or messenger.",
+        "These shows look silly to us now, but they mattered. They made thousands of ordinary people curious about electricity. They also spread knowledge: once audiences had seen a Leyden jar, some went home and built their own. One of the people who caught the electrical bug in this way lived thousands of kilometres from Paris, in a busy port town in the American colonies."
+      ]
+    },
+    {
+      "heading": "A Printer in Philadelphia",
+      "paragraphs": [
+        "Benjamin Franklin was born in Boston in 1706, the fifteenth of seventeen children of a candle and soap maker. He left school at about ten, trained as a printer, and ran away to Philadelphia as a teenager. By his forties he had become one of the most successful men in town. He printed a newspaper, the Pennsylvania Gazette, and a hugely popular yearly booklet called Poor Richard's Almanack, full of weather forecasts, calendars and witty sayings. By 1748 he was rich enough to hand over the day-to-day running of his printing business and spend his time on what he loved most: asking questions about nature.",
+        "Franklin had seen electrical tricks performed in the 1740s by a travelling lecturer named Archibald Spencer. Soon afterwards, his friend Peter Collinson, a merchant in London who loved science, sent the Library Company of Philadelphia a glass tube for making electricity, along with news of the latest European experiments. Franklin was hooked. He and a small group of friends, including a Baptist minister and teacher named Ebenezer Kinnersley, rubbed tubes, charged jars and drew sparks for months on end.",
+        "Franklin did not just copy what Europeans had done. He came up with a new way of thinking about electricity. Earlier, Charles du Fay had said there were two kinds of electricity, vitreous (from glass) and resinous (from amber and resin). Franklin suggested instead that there was a single invisible electrical fluid in everything. An object with more than its normal share of this fluid, he said, was charged plus, or positive. An object with less than its normal share was minus, or negative. When a positive and a negative object touched, the fluid flowed from one to the other until the amounts evened out. Rubbing did not create electricity out of nothing; it only moved it from one place to another. This idea, that electric charge is never created or destroyed but only moved around, is now called the conservation of charge, and it is still one of the basic rules of physics.",
+        "Franklin's theory was not right in every detail. Scientists now know that it is tiny negatively charged particles called electrons that usually move, not a positive fluid. But his words were so useful that we still use them every day. Positive, negative, charge, plus and minus, all used in this electrical sense, come from Franklin and his letters. He also borrowed a word from the army. A battery was a row of cannons all fired together. Around 1748 Franklin built a row of charged glass panes, eleven of them, each sandwiched between thin sheets of lead, connected so they would all discharge at once. In a 1749 letter he called it an electrical battery. It was a set of capacitors rather than a battery like the one in your torch, but the name stuck and later moved on to the chemical batteries you will meet in Part 4.",
+        "Franklin was also not afraid to laugh at himself. In 1749 he planned a summer party by the river where a turkey would be killed by an electric shock and roasted on an electrically turned spit, with the guests drinking toasts from electrified glasses. While preparing an experiment on a turkey, he accidentally passed the charge of two large jars through his own body. In a letter he described a bright flash and a loud crack, and said his arms and the back of his neck felt numb until the next morning. A joke often linked to the story, though nobody is sure he really said it, is that he meant to kill a turkey but nearly killed a goose instead, the goose being himself. It was a reminder that even bottled electricity deserved respect.",
+        "Franklin sent long letters describing all of this to Peter Collinson in London. Collinson shared them with the Royal Society, Britain's leading science club, and in 1751 they were printed as a little book called Experiments and Observations on Electricity. It was soon translated into French, then other languages. A printer from a colonial town far from Europe's great universities was suddenly one of the most talked-about scientists in the world."
+      ]
+    },
+    {
+      "heading": "Is Lightning Just a Giant Spark?",
+      "paragraphs": [
+        "For thousands of years, people had explained lightning in many ways: as the weapon of a sky god such as Zeus or Thor, as a punishment, or as some kind of exploding vapour in the air. By the 1740s, several European experimenters had noticed that the crack and flash of a Leyden jar looked a lot like a tiny thunderstorm. Some even wrote that lightning might be electrical. But nobody had tested the idea. It was just a guess.",
+        "Franklin decided to turn the guess into a real scientific question. In his notebook in November 1749, he wrote down a list of ways in which electricity and lightning seemed to agree. Both gave off light of a similar colour. Both travelled in crooked, zigzag paths. Both moved incredibly fast. Both were carried along by metals. Both made a crack or a bang. Both could set things on fire, melt metal and kill animals. Both left behind a sharp, sulphur-like smell. Then he added the most important line: since they agreed in all these ways, why not try an experiment to find out?",
+        "Franklin had already noticed something else in his experiments. A sharp metal point, such as a needle, could quietly draw the charge off a charged object from quite a distance away, without a loud spark. A blunt, rounded object did not do this nearly as well. If clouds were full of electricity, he wondered, could a tall, pointed iron rod draw some of that charge down where it could be tested?",
+        "In 1750 he described an experiment to do exactly that. He imagined a little hut, like a soldier's sentry box, built on top of a tall tower or church steeple. Out of the top of the box would stick a long, pointed iron rod, perhaps 6 to 9 metres tall, standing on an insulating stand so its charge could not drain away into the building. A person inside the box would hold a wire with a wax handle near the rod while a storm cloud passed overhead. If sparks jumped from the rod to the wire, that would prove that the cloud was electrified.",
+        "Thomas-François Dalibard was a French naturalist who studied plants. At the suggestion of the famous French scientist the Comte de Buffon, he translated Franklin's book of electrical letters into French. Reading Franklin's sentry-box idea, Dalibard decided to try it himself, but without bothering about a tower.",
+        "In the village of Marly-la-Ville, north of Paris, he set up an iron rod about 40 feet (12 metres) tall, pointed at the top. To stop the electricity from escaping into the ground, the bottom of the rod was kept off the earth on an insulating stand that reportedly included wine bottles, since glass is a good insulator. A small hut protected the base from the rain. Dalibard could not wait beside it all spring, so he left a helper, a former soldier, with instructions on what to do if a thunderstorm arrived.",
+        "On the afternoon of 10 May 1752, a storm cloud passed over Marly-la-Ville. The helper brought an insulated wire near the rod and saw sparks crackling across the gap, with the same blue light and sharp smell as sparks from a Leyden jar. Neighbours, including the village priest, rushed over to see. Dalibard reported the result to the French Academy of Sciences just a few days later. For the first time, someone had pulled electricity out of a storm cloud and shown that it behaved exactly like the electricity made by rubbing glass.",
+        "Within days the experiment was repeated by others in and around Paris, and King Louis XV himself was shown the effect. News raced across Europe. Dalibard was always clear that the idea came from Franklin, and so the American printer got the fame. But it is fair to remember that the first proof was carried out by a Frenchman in a quiet village, about a month before Franklin's own famous test."
+      ]
+    },
+    {
+      "heading": "A Kite in a Storm",
+      "paragraphs": [
+        "Back in Philadelphia, Franklin was still waiting for a tall steeple. Then he had a clever idea. Why not use a kite? A kite could climb far higher than any building in town. According to the most detailed account, it was June 1752, and Franklin probably had not yet heard about Dalibard's success, because news took weeks to cross the ocean by ship.",
+        "Franklin built his kite out of a large silk handkerchief stretched over two crossed sticks of cedar. Silk was better than paper because it would not tear apart in the wind and rain. At the top he fixed a sharp, pointed wire, sticking up about a foot above the wood, to draw charge from the air. The kite string was made of hemp, which becomes a fairly good conductor when wet. Near the bottom, where Franklin held it, he tied a metal key, and below the key he attached a ribbon of silk. Dry silk is an insulator, so it kept the electricity from flowing into his hand. He also brought along a Leyden jar.",
+        "With his son William, then a young man in his early twenties, Franklin went out to a field as a storm approached. To keep the silk ribbon dry, they stood inside the doorway of a shed. For a long time nothing happened, and Franklin later admitted he was starting to feel disappointed. Then he noticed that the loose threads on the hemp string were standing up and pushing away from each other, just as hairs do on an electrified head. He moved his knuckle toward the key and felt a small spark jump across. As the rain soaked the string, the effect grew stronger, and he was able to collect charge from the key into his Leyden jar. Later he used that jar of cloud electricity to do the same tricks he did with electricity from a friction machine. It behaved exactly the same.",
+        "Here is something very important, which many books and cartoons get wrong. Franklin's kite was not struck by lightning. If a real bolt of lightning had hit the kite, it would almost certainly have killed him, as it would anyone holding the string. What actually happened was gentler. The air under a thundercloud is strongly electrified, and the pointed wire and wet string slowly gathered some of that charge from the air and the cloud, the same way his iron points drew charge from objects in his lab.",
+        "Historians also point out that the kite story has some mysteries. Franklin did not rush to announce it. His first description was a short letter printed in his Pennsylvania Gazette on 19 October 1752, which explained how to make such a kite and what it would do, but did not actually say when or where he had flown one. The fuller story, with the June date, the shed and William, appeared in 1767 in a history of electricity written by his English friend Joseph Priestley, who almost certainly got the details from Franklin himself. Because of this, a few historians have wondered whether some details were remembered wrongly or polished later. Most accept that the experiment really happened in some form, and many other people soon flew electrical kites of their own. In 1753 the Royal Society in London gave Franklin its top science prize, the Copley Medal, for his electrical work."
+      ]
+    },
+    {
+      "heading": "Taming the Thunderbolt: The Lightning Rod",
+      "paragraphs": [
+        "Franklin was always practical. Once he knew that lightning was electricity, he asked: can we protect people from it? Lightning was a terrible danger in the 1700s. Wooden houses and barns burned down. Church steeples, the tallest buildings in most towns, were struck again and again, and gunpowder stores sometimes exploded when lightning hit them.",
+        "His answer was the lightning rod. It is an iron rod, pointed at the top, fixed to the highest part of a building and sticking up a little above the roof. A thick wire or metal strip runs from the rod down the outside of the building and deep into the moist ground. Franklin's first hope was that the sharp point would quietly leak charge into the air and stop lightning from forming at all. That part did not quite work out. But the rod did something even more useful. If lightning did strike, it hit the rod and was carried safely down the wire into the earth, instead of tearing through wooden beams, plaster and people inside. Metal is a much easier path for electricity than wood or brick, so the lightning follows the metal.",
+        "Franklin did not keep the idea secret or try to make money from it. He published simple instructions for making a lightning rod in Poor Richard's Almanack for the year 1753, which was cheap and read in thousands of homes. Rods were put up on buildings in Philadelphia, including the Academy of Philadelphia and the Pennsylvania State House, the building now called Independence Hall. Franklin also put a rod on his own house, with a clever twist. The wire from the rod passed near a pair of small bells inside, with a little metal ball hanging between them. When a charged storm cloud passed overhead, the ball swung back and forth and rang the bells, so Franklin could hurry over and do experiments. His wife Deborah was reportedly not a big fan of the bells.",
+        "Lightning rods spread across America and Europe, though not without arguments. Others argued about whether the top of the rod should be sharp or blunt; British scientists tended to favour a rounded end, while Franklin preferred a point. A modern study in 2000 found that moderately blunt tips actually work slightly better, and many new rods today are rounded. In what is now the Czech Republic, a priest called Prokop Diviš put up his own grounded rod in 1754, and historians still discuss how much he knew of Franklin's work.",
+        "Lightning rods are still used today, on churches, skyscrapers, towers and ships. And they show why one common saying is wrong. Lightning very often strikes the same place twice, especially tall buildings. The Empire State Building in New York is hit many times each year, and its lightning protection carries the charge safely to the ground every time."
+      ]
+    },
+    {
+      "heading": "A Deadly Lesson in St Petersburg",
+      "paragraphs": [
+        "Collecting electricity from storms was a real scientific breakthrough, but it was also dangerous, and not everyone was as careful or as lucky as Franklin. Far to the east, in the Russian capital of St Petersburg, a physicist called Georg Wilhelm Richmann was studying lightning too. Richmann was a Baltic German scientist and a member of the St Petersburg Academy of Sciences. He had built a device he called an electrical gnomon, a kind of early meter that measured how strongly something was charged by how far a thread was pushed away from a metal rod. His friend and fellow scientist Mikhail Lomonosov was doing similar experiments.",
+        "On 6 August 1753 (26 July in the old Russian calendar), According to the usual account, Richmann was at a meeting of the Academy when he heard thunder. He hurried home with an engraver, usually named as Ivan Sokolov, who was going to make pictures of his work. At home he had set up an iron rod on the roof, connected by a wire to his measuring device indoors, so he could study the charge of passing storms.",
+        "As Richmann leaned toward his instrument, a large spark, which witnesses described as a ball of bluish fire, jumped from the apparatus to his forehead. There was a bang like a small cannon. Richmann fell dead. Sokolov was knocked unconscious, the door frame of the room was split, and the door was torn from its hinges. Doctors found a red spot on Richmann's forehead and saw that one of his shoes had been burst open. Many scientists think he was killed by ball lightning, a rare and still poorly understood glowing ball that sometimes appears during storms. His death is often described as the first documented case of ball lightning, and he is often called the first person to be killed by an electrical experiment.",
+        "Richmann's death shocked scientists across Europe. It showed that his indoor rod was not grounded and had brought the storm's electricity into the room rather than safely into the earth. The lesson was clear: lightning is powerful and dangerous, and the only safe rod is one that is properly connected to the ground and kept away from people. That is still true. Nobody should ever fly a kite near a storm or try to copy these old experiments.",
+        "Still, all the electricity of the 1700s had one big limitation. It came in sudden bursts. A Leyden jar discharged in a fraction of a second, with a crack and a flash, and then it was empty. A friction machine could only make small amounts, and only as long as someone kept turning the handle. Nobody could make electricity flow steadily, hour after hour, like water from a tap. You could not run anything on it, light a room with it, or send a constant signal down a wire.",
+        "The answer would come from a completely unexpected place. In the 1780s, in the old Italian university city of Bologna, a doctor who studied the bodies of animals was cutting up frogs on a table near an electrical machine. One day, a dead frog's leg suddenly twitched, as if it had come back to life. That strange little kick would start an argument between two brilliant Italians, and lead to the invention that finally made electricity flow."
+      ]
+    }
+  ],
+  "deepDive": "A Leyden jar is a capacitor: two conductors separated by an insulator (the dielectric). Its capacitance C depends on the foil area, the thickness of the glass and the glass's ability to be polarised; a typical pint-sized jar holds about 1 nanofarad. The stored energy is E = ½CV², so a 1-nanofarad jar charged to 30,000 volts stores about 0.45 joules, less than the energy needed to lift an apple half a metre. That is why one jar gave a painful jolt but rarely did lasting harm. Franklin's 'battery' of jars or glass panes connected together multiplied the stored charge, and big batteries of jars could kill small animals, which is why experimenters were warned to treat them with caution. Lightning is in another league entirely: a typical bolt carries tens of thousands of amperes for a fraction of a second, with peak temperatures of roughly 30,000 °C. Franklin's insight about points also holds up. Charge on a conductor crowds onto sharp curves, creating strong electric fields that ionise the surrounding air and allow charge to leak away quietly, the same 'corona' effect that makes St Elmo's fire glow on ships' masts. Historians debate several aspects of this story. Franklin's single-fluid theory was competing with two-fluid theories, and in a sense both were partly right: in metals only negative electrons move, but in salty water and gases both positive and negative particles carry current. The kite experiment is the other big debate. Because Franklin's October 1752 description did not say he had performed it, and Priestley's detailed account came fifteen years later, a few writers have suggested Franklin may have exaggerated or never flown the kite. Most historians reject that strong claim, noting that Franklin had a reputation for careful reporting and that others quickly repeated kite experiments successfully, including the French magistrate Jacques de Romas, who claimed to have had a similar idea independently. What nobody doubts is that Dalibard's rod experiment at Marly-la-Ville on 10 May 1752 came first, following Franklin's plan.",
+  "funFact": "Benjamin Franklin hung a pair of bells in his house that rang by themselves whenever an electrified storm cloud passed over his lightning rod.",
+  "check": {
+    "q": "Who was the first to prove that lightning is electrical, in May 1752, by following Franklin's plan?",
+    "a": "Thomas-François Dalibard, with an iron rod at Marly-la-Ville in France",
+    "wrong": [
+      "Benjamin Franklin, by having his kite struck by lightning",
+      "Abbé Nollet, by shocking 180 royal guards",
+      "Georg Wilhelm Richmann, in St Petersburg"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Leyden jar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leyden_jar"
+    },
+    {
+      "title": "Kite experiment",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kite_experiment"
+    },
+    {
+      "title": "Benjamin Franklin and the Kite Experiment",
+      "publisher": "The Franklin Institute",
+      "url": "https://www.fi.edu/en/science-and-education/benjamin-franklin/kite-key-experiment"
+    },
+    {
+      "title": "Benjamin Franklin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Benjamin_Franklin"
+    },
+    {
+      "title": "Thomas-François Dalibard",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thomas-Fran%C3%A7ois_Dalibard"
+    },
+    {
+      "title": "Jean-Antoine Nollet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jean-Antoine_Nollet"
+    },
+    {
+      "title": "Lightning rod",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lightning_rod"
+    },
+    {
+      "title": "Georg Wilhelm Richmann",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Richmann"
+    }
+  ],
+  "pics": [
+    {
+      "want": "An 18th-century Leyden jar with metal foil inside and outside and a brass rod and knob on top, in a museum collection",
+      "search": "Leyden jar museum 18th century"
+    },
+    {
+      "want": "A 19th-century print or painting showing Benjamin Franklin and his son flying a kite in a thunderstorm",
+      "search": "Franklin kite experiment painting"
+    },
+    {
+      "want": "An old engraving of the death of Georg Wilhelm Richmann struck by a spark from his lightning apparatus in 1753",
+      "search": "Richmann death engraving 1753"
+    }
+  ]
+}

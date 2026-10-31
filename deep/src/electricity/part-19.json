@@ -1,0 +1,150 @@
+{
+  "n": 19,
+  "title": "Power from Sun, Wind and Water",
+  "when": "1839 – today",
+  "summary": "Rivers, wind and sunshine can all spin or push electricity into our wires without burning anything. Giant dams, windmills taller than skyscrapers and shiny solar panels now make almost a third of the world's electricity. Even Edison's old direct current is back, racing through cables under the sea!",
+  "sections": [
+    {
+      "heading": "Falling Water: From a Lamp at Cragside to the Three Gorges",
+      "paragraphs": [
+        "Every power station you have met in this story so far has needed something to turn its generator. Faraday showed that if you spin a coil of wire near a magnet, electricity flows. The hard question has always been: what does the spinning? At Pearl Street it was steam from burning coal. But there is another, much older muscle on our planet that never needs to be dug out of the ground: falling water.",
+        "Water wheels had ground grain and hammered iron for well over a thousand years before anyone attached one to a dynamo. Then, in 1878, the inventor and industrialist William Armstrong used water from the lakes on his estate at Cragside in Northumberland to drive a small turbine, which powered a single arc lamp in his picture gallery. It is usually counted as the world's first hydroelectric scheme. A few years later, in 1882, a little plant on the Fox River in Appleton, Wisconsin began making about 12.5 kilowatts, enough for a handful of buildings. You met both of these pioneers earlier in our story, and they were tiny. The next step was enormous.",
+        "At Niagara Falls, where the whole of four Great Lakes drains over a cliff, engineers built the Edward Dean Adams power station. It began running on 25 August 1895 with Westinghouse alternating-current generators, each rated at 5,000 horsepower, designed using ideas from Nikola Tesla and the Westinghouse engineer Benjamin Lamme. Transformers raised the voltage to about 20,000 volts so the power could travel to Buffalo, Lockport and Tonawanda. When the electricity reached Buffalo in November 1896, it proved two things at once: alternating current could carry power over long distances, and a river could light a city.",
+        "How does a hydroelectric station actually work? Imagine a dam as a wall that holds back a deep lake called a reservoir. Near the bottom of the dam, big pipes called penstocks let water rush downhill. The water slams into the curved blades of a turbine, which is a kind of super-efficient water wheel, and spins it very fast. The turbine is connected by a thick steel shaft to a generator, where magnets whirl past coils of copper wire and Faraday's induction does the rest. Two things decide how much power you get: how much water flows each second, and how far it falls. Engineers call that height the 'head'. A small amount of water falling a long way can be just as useful as a huge river falling a short way.",
+        "Today the biggest power station of any kind on Earth is a hydroelectric dam: the Three Gorges Dam on the Yangtze River in Hubei province, central China. Construction began in December 1994, the first generators started in 2003, and the full plant was running by 2012. The concrete wall stands roughly 180 metres high and stretches about 2.3 kilometres across the valley. Inside are 32 main generators of 700 megawatts each, plus two smaller ones that power the dam itself, for a total of 22,500 megawatts. In an average year it produces somewhere around 95 to 100 terawatt-hours of electricity, and in its record year of 2020 it made about 112.",
+        "Other giants follow close behind: Baihetan, also in China, at about 16,000 megawatts, and Itaipu on the border between Brazil and Paraguay at about 14,000. Altogether, hydropower makes roughly 14 to 15 percent of the world's electricity. For more than a century it made more than all the other renewable sources added together, until wind and solar together finally overtook it in 2024. It has a special talent, too. Operators can open or close the gates and change the output within minutes, so dams are excellent at filling gaps when demand suddenly jumps.",
+        "Big dams have a serious cost, and it is fair to say so. The Three Gorges reservoir flooded towns, farms and ancient sites, and somewhere between about 1.1 and 1.4 million people had to move to new homes. Around the world, dams are estimated to have displaced tens of millions of people. Dams also block fish from swimming upriver, trap the mud and sand that rivers normally carry to the sea, and in hot countries rotting plants in a reservoir can release methane, a gas that warms the planet."
+      ]
+    },
+    {
+      "heading": "Catching the Wind: Blyth, Brush and the Giants",
+      "paragraphs": [
+        "Windmills are old too. People in Persia were using wind to grind grain more than a thousand years ago, and the Netherlands became famous for windmills that pumped water off low-lying land. But making electricity from the wind had to wait for Faraday's generator, and it happened, as so often in this story, in two places at almost the same moment.",
+        "In July 1887 James Blyth, a professor at Anderson's College in Glasgow, built a strange wooden machine in the garden of his holiday cottage in Marykirk, in the Scottish county of Kincardineshire. It stood on a tripod and had four arms about 13 feet (4 metres) long covered in canvas sails, like a small windmill. Instead of grinding flour, it drove a dynamo using a rope wrapped around a flywheel. The dynamo charged accumulators, which are rechargeable batteries, and those lit the cottage. In a moderate breeze it could light ten small bulbs. Blyth's cottage is usually counted as the first house in the world lit by wind-made electricity.",
+        "Blyth later offered his spare electricity to light the main street of Marykirk. The story goes that the villagers said no, because they thought electricity was 'the work of the devil'. That tale has been repeated for over a century, so treat it as a much-loved local story rather than a carefully recorded fact. Blyth did not give up. In 1895 a Glasgow firm built an improved version of his turbine that gave emergency power to the hospital and asylum in Montrose, and it kept working for many years.",
+        "Meanwhile, across the Atlantic, Charles Brush, the arc-lighting inventor you met lighting up Cleveland's Public Square in 1879, was building a monster in his own back garden on Euclid Avenue in Cleveland. Finished in 1888, Brush's wind turbine had a wheel about 17 metres (56 feet) across, packed with 144 thin blades, sitting on top of an 18-metre tower. All those blades made it turn slowly but powerfully. Inside, the wind turned a 12-kilowatt dynamo that charged a roomful of batteries in his basement. Those batteries ran around 100 incandescent bulbs, a few arc lamps and motors in his laboratory. The machine worked for years, until about 1900, and was finally abandoned once Cleveland's own power stations could do the job more cheaply.",
+        "In Denmark, a teacher named Poul la Cour took the idea further. In 1891 he built a wind turbine at the Askov Folk High School, and by 1895 his windmill was lighting the whole village of Askov. He trained students to build and look after wind turbines, and Denmark became the country most famous for wind power. In 1957 a Danish engineer called Johannes Juul built the Gedser turbine, with three blades facing into the wind, which became the model for almost every big wind turbine built since.",
+        "A modern wind turbine works on the same idea as Brush's, just far bigger and smarter. The wind pushes on long, gently twisted blades shaped like aeroplane wings. They turn a central hub slowly, perhaps 10 to 15 times a minute for a big machine. In many designs a gearbox speeds up that rotation for the generator; others use giant 'direct-drive' generators with no gearbox at all. Everything sits in a box called the nacelle at the top of the tower, and motors turn the whole head to face the wind. There is a natural limit, too: no turbine can ever capture more than about 59 percent of the energy in the wind, because if it stopped the air completely, no new air could flow through. This is called the Betz limit.",
+        "And the size! An adult blue whale, the largest animal that has ever lived, can be around 30 metres long. Today's biggest onshore turbines have single blades well over 100 metres long, and the largest offshore machines, built in China, have rotors about 310 metres across, with blades roughly 150 metres long, and can produce about 26 megawatts each. One of those blades is longer than four blue whales nose to tail. Because the wind is stronger and steadier at sea, many of these giants stand in wind farms offshore, in places like the North Sea, where Britain and Denmark now get a large share of their electricity from the wind."
+      ]
+    },
+    {
+      "heading": "Sunlight into Electricity: From a Teenager's Lab to Outer Space",
+      "paragraphs": [
+        "Hydro and wind both work by spinning a generator. Solar cells are different. They have no moving parts at all. Light goes in, electricity comes out, silently. The story of how anyone discovered this begins in Paris in 1839, in a laboratory run by the physicist Antoine César Becquerel. His son Edmond was just 19 years old. Edmond put silver chloride into an acidic liquid, dipped in two platinum electrodes, and shone light on the setup. A small voltage and current appeared, and they changed when the light changed. He had found the photovoltaic effect, from 'photo' meaning light and 'volt' after Alessandro Volta.",
+        "For decades the effect was a curiosity. In 1883 the American inventor Charles Fritts in New York coated the element selenium with a very thin layer of gold and made what is often called the first solid solar cell. It worked, but it was only about 1 percent efficient, meaning that 99 percent of the sunlight's energy was wasted. That was far too poor to power anything useful, though Fritts was bold enough to imagine rooftops of solar panels one day.",
+        "The real breakthrough came from a telephone company. At Bell Telephone Laboratories in New Jersey, the engineer Daryl Chapin was trying to find a way to power telephone equipment in remote, humid places such as the tropics, where ordinary batteries quickly failed. He tested selenium and found it hopeless. Meanwhile, two of his colleagues, the chemist Calvin Fuller and the physicist Gerald Pearson, were experimenting with specially treated silicon, the same element found in sand. They discovered that their silicon made electricity when light fell on it. The three teamed up, and on 25 April 1954 Bell Labs showed off its 'solar battery'. It was about 6 percent efficient, roughly six times better than Fritts' cell. A strip of these cells could deliver roughly 60 watts for every square metre of bright sunshine, and newspapers were thrilled by the idea of power pouring straight out of the Sun. The team described their work in a scientific paper the very next month.",
+        "How does a silicon cell do it? A solar cell is a thin sandwich of two slightly different kinds of silicon. One layer has a few extra electrons mixed in; the other has a few 'holes', places where an electron is missing. Where the two layers meet, called the p-n junction, a built-in electric field forms, a little like a slope. When a particle of light, called a photon, hits the silicon, it can knock an electron loose, leaving a hole behind. The slope pushes the electron one way and the hole the other. If you connect the two sides with a wire, the electrons flow round the circuit, through your lamp or phone charger, and back again. It is the LED from Part 18 running in reverse: an LED turns electricity into light, while a solar cell turns light into electricity.",
+        "At first, solar cells were fantastically expensive, far too costly for houses. But there was one customer who did not mind the price: space. On 17 March 1958 the United States launched Vanguard 1, a shiny aluminium ball only about 15 centimetres across and weighing about 1.5 kilograms. It carried six small solar cells powering a radio transmitter. Its ordinary battery-powered transmitter fell silent after about 20 days, but the solar-powered one kept sending signals for more than six years, until 1964. Vanguard 1 was the first satellite with solar power, and it is still circling the Earth today, the oldest human-made object in orbit. Since then, nearly every satellite and space station, including the International Space Station with its huge golden-brown wings, has run on sunlight.",
+        "Back on Earth, efficiency slowly climbed. Ordinary rooftop panels today turn around 20 percent of sunlight into electricity, the best silicon cells in laboratories reach about 26 to 27 percent, and special stacked cells used under concentrated light have passed 47 percent. But the biggest change was not efficiency. It was price, as you will see at the end of this chapter."
+      ]
+    },
+    {
+      "heading": "Heat from Inside the Atom: Nuclear Power",
+      "paragraphs": [
+        "In the 1930s and 1940s, scientists learned that the nuclei of certain heavy atoms, such as uranium, could be split apart. This splitting is called fission. When a uranium nucleus splits, it releases a burst of energy and a couple of tiny particles called neutrons, which can fly off and split more nuclei, which release more neutrons, and so on. If this chain reaction is carefully controlled, it produces a steady, enormous amount of heat from a very small amount of fuel.",
+        "Here is a surprise: a nuclear power station is, at heart, a fancy kettle. The heat from fission boils water (or heats it under pressure), the steam spins a turbine, and the turbine spins a generator, exactly like the coal-fired stations you met in Part 15, which used Charles Parsons' steam turbine. The difference is the fire. Instead of burning coal, which pours carbon dioxide into the air, the reactor makes heat from splitting atoms, which releases almost no carbon dioxide while it runs.",
+        "The first nuclear power plant to send electricity into a public grid was at Obninsk, a science town about 100 kilometres south-west of Moscow in the Soviet Union. Its reactor, called AM-1, was connected to the grid in late June 1954. It was small, producing about 5 megawatts of electricity, enough for a small town, but it showed the idea worked. Remarkably, it kept running in one form or another until 2002. Two years later, on 17 October 1956, Queen Elizabeth II opened Calder Hall in Cumbria, England, the first full-scale nuclear power station. It was built mainly to produce plutonium for Britain's nuclear weapons, but it also sent large amounts of electricity into the grid. Calder Hall ran for nearly 47 years, closing in 2003.",
+        "Nuclear power spread to many countries during the 1960s and 1970s. Today it provides roughly a tenth of the world's electricity, and in France it supplies the majority. Its supporters point out that it runs day and night whatever the weather, and that it is one of the lowest-carbon ways to make electricity. Together, renewables and nuclear now produce almost 40 percent of the world's electricity.",
+        "But nuclear power has real problems too, and people argue about it strongly. The used fuel stays dangerously radioactive for thousands of years, so it must be stored very safely, and countries are still building the deep underground stores meant to hold it for good. Nuclear plants are also very expensive and slow to build. And when things go badly wrong, the results can be serious.",
+        "In the early hours of 26 April 1986, during a badly designed safety test, reactor number 4 at the Chernobyl power plant, near the town of Pripyat in what is now Ukraine, ran out of control and exploded. It was the worst nuclear accident in history. Two workers died on the night, and 28 more, mostly firefighters and plant staff, died from radiation sickness within a few months. Radioactive dust spread across Europe, and around 135,000 people were eventually moved away from their homes for good.",
+        "Twenty-five years later, on 11 March 2011, a magnitude 9.0 earthquake shook the sea floor off north-eastern Japan. About 50 minutes later a tsunami up to about 14 metres high swept over the sea wall at the Fukushima Daiichi plant, knocking out the backup power that kept the reactors cool. Fuel in several reactors overheated and melted, and hydrogen explosions blew apart reactor buildings. More than 160,000 people left the area. The earthquake and tsunami together killed about 18,000 people along the coast, but very few, if any, deaths have been linked to radiation from the plant; the stress and disruption of the evacuation caused much more harm. After Fukushima, Germany decided to close all its nuclear plants, while other countries, such as France, China and the United Kingdom, kept building. Whether nuclear power should be part of the clean-energy future is still one of the great debates of our time."
+      ]
+    },
+    {
+      "heading": "Saving Sunshine for a Rainy Day: Storing Electricity",
+      "paragraphs": [
+        "Coal, gas and nuclear plants can run whenever you like. The Sun and wind cannot be switched on. The Sun sets every evening, clouds roll in, and some days the wind simply stops. Remember from Part 15 that a grid must match supply and demand every single second. So if more and more of our power comes from wind and sunshine, we need ways to save electricity when there is too much and release it when there is too little.",
+        "The oldest and still the biggest way to do this is called pumped storage hydroelectricity. It needs two lakes, one high up a hill and one at the bottom. When electricity is cheap and plentiful, perhaps on a windy night, huge reversible machines pump water up to the top lake. When everyone gets home, switches on the oven and turns on the television, the water is let back down through the same machines, which now work as turbines and generators. You get back about 70 to 80 percent of the energy you put in. The first known pumped storage plant opened in 1907 near Schaffhausen in Switzerland. The largest today is at Fengning in China, at about 3,600 megawatts. In Wales, the Dinorwig station is hidden inside a mountain in an old slate quarry; when its machines are already spinning, it can go from zero to full power, about 1,700 megawatts, in well under a minute. Pumped storage still makes up the great majority of the world's grid storage.",
+        "The newcomer is the battery, and in particular the lithium-ion battery that is almost certainly inside the phone or tablet nearest to you. Its story is a relay race of its own. In the 1970s, during an oil crisis, the British-born chemist M. Stanley Whittingham, working for the oil company Exxon, made a rechargeable battery in which lithium ions slipped in and out of layers of titanium disulfide. In 1980 John Goodenough's team at the University of Oxford found that lithium cobalt oxide made a much more powerful positive side. Then in 1985 Akira Yoshino in Japan replaced the risky lithium metal on the other side with a form of carbon, making the battery far safer than designs that used pure lithium metal, which can catch fire. Sony began selling lithium-ion batteries in 1991.",
+        "In 2019 the three men shared the Nobel Prize in Chemistry. John Goodenough was 97 years old, the oldest person ever to win a Nobel Prize. Since 1991 the price of lithium-ion cells has fallen by about 99 percent. That is why electric cars became affordable, and why power companies now build whole fields of shipping-container-sized battery packs next to solar and wind farms. These can soak up the midday sunshine and release it in the evening rush. By 2025 there were roughly 267 gigawatts of grid battery storage around the world, and the number is shooting upward every year."
+      ]
+    },
+    {
+      "heading": "Edison's Current Gets a Second Chance",
+      "paragraphs": [
+        "In Part 14 you watched alternating current win the War of the Currents, mostly because transformers made it easy to raise AC to high voltages for long journeys. Thomas Edison's direct current seemed to have lost for good. But engineers kept thinking about DC, because for some jobs it has real advantages.",
+        "The trick was converting electricity back and forth. You can use transformers to step AC up to a very high voltage, then use special equipment called a converter to turn it into DC, send it hundreds or thousands of kilometres, and turn it back into AC at the other end. An early attempt came from the Swiss engineer René Thury, whose system in Italy, working by 1889, used chains of spinning machines to make high-voltage DC. It worked but wasted energy and needed constant repairs.",
+        "The modern era began in Sweden. Engineers at the company ASEA, led by Uno Lamm, spent years developing mercury-arc valves, glass and steel devices that could switch huge currents in one direction only. In 1954 they opened a link from Västervik on the Swedish mainland to the island of Gotland in the Baltic Sea: a cable 98 kilometres long, lying on the sea floor, carrying 20 megawatts at 100,000 volts of DC. It is counted as the world's first fully commercial high-voltage direct current, or HVDC, connection.",
+        "Why use DC under the sea? A long AC cable acts a bit like a giant Leyden jar from Part 3. Every time the current reverses, which is 50 times a second in Europe, the cable has to be charged up again, and that wastes so much of the cable's capacity that beyond several dozen kilometres an undersea AC cable becomes very inefficient. DC flows steadily one way, so this problem disappears. Over very long distances on land, HVDC lines also lose less energy than AC lines of the same voltage, roughly 3.5 percent per 1,000 kilometres compared with about 6.7 percent. And DC can link two grids that are not in step with each other, even ones running at different frequencies, like Japan's 50-hertz east and 60-hertz west.",
+        "Today HVDC is everywhere you cannot see it. Cables under the North Sea carry Norwegian hydropower to Britain and send British wind power back. In China, the Zhundong to South Anhui line carries power more than 3,000 kilometres at 1,100,000 volts, from coal and wind in the far west to cities in the east. Edison would probably smile: his current did not win the war, but it found a job no one else could do."
+      ]
+    },
+    {
+      "heading": "The Great Price Crash",
+      "paragraphs": [
+        "For most of the twentieth century, solar and wind power were thought of as nice ideas that were simply too expensive. Then something extraordinary happened. The price of solar panels fell, and fell, and kept on falling. In 1976 a solar module cost about 106 US dollars for each watt of power it could make. By 2019 it cost about 38 cents, a drop of more than 99.6 percent. Between 2010 and 2019 alone, the price of electricity from new solar farms fell by about 89 percent, and electricity from wind by about 70 percent.",
+        "Why? Mostly because of a pattern called a learning curve. Every time the world's total number of solar panels doubled, factories got better at making them, machines got faster, materials got cheaper, and the price of panels fell by about 20 percent. The same thing happened with wind turbines and with batteries. The more we built, the cheaper they got, and the cheaper they got, the more we built. In many parts of the world, a new solar or wind farm is now the cheapest way to make electricity that has ever existed.",
+        "In 2023, renewable sources, mainly hydro, wind and solar, produced about 30 percent of all the world's electricity for the first time, with wind and solar together making about 13 percent. Coal is still the biggest single source, and in many countries it is still growing, so there is a long way to go. But the direction of travel has changed. On sunny afternoons, some places, such as South Australia and California, now sometimes get almost all their power from the Sun and wind.",
+        "Think how far we have come. Edmond Becquerel's tiny voltage in 1839, Fritts' 1 percent gold-and-selenium cell, Blyth's canvas sails in a Scottish garden, Brush's 144-bladed wheel, a 6 percent silicon cell built for telephones, a little ball in space: each step looked small at the time. Put together, they are changing how a whole planet makes its electricity. So here is a question to carry into the final part of our story: when you are grown up, what will your electric world look like?"
+      ]
+    }
+  ],
+  "deepDive": "Why did solar get so cheap so fast while nuclear did not? Energy economists point to modularity. A solar farm is built from millions of identical, factory-made panels, and a battery park from thousands of identical cells, so manufacturers repeat the same process billions of times and keep finding small improvements. Our World in Data, using decades of price data, estimates a learning rate of about 20 percent for solar modules: each doubling of all the panels ever made cut the module price by roughly a fifth, from about 106 dollars per watt in 1976 to about 0.38 dollars by 2019. Onshore wind shows a learning rate of about 23 percent, and battery prices have followed a similarly steep curve, falling about 97 percent in three decades. Large one-off projects such as nuclear stations or giant dams are built only a few at a time, often to new designs, and costs have frequently risen rather than fallen. The catch with cheap solar and wind is that their output is variable, which engineers describe with the 'capacity factor': a solar farm might produce, averaged over a year, only 10 to 25 percent of its maximum rating, because of night, clouds and seasons, while a nuclear plant often runs above 80 percent. Grid planners therefore talk about 'firming' renewables with storage, long-distance HVDC links that move power from where the wind is blowing to where it is not, flexible hydro, and demand that can shift in time. Grid studies suggest that grids with under about 40 percent variable renewables mostly need short-term storage, but at about 80 percent, storage lasting many hours to days becomes essential. There is also a materials debate: batteries need lithium, cobalt and nickel, and mining them has environmental and human-rights costs, which is one reason researchers are working on cobalt-free chemistries such as lithium iron phosphate and on sodium-ion batteries. Finally, large hydro is renewable but not impact-free: estimates of people displaced by dams worldwide run to the tens of millions, and tropical reservoirs can emit methane. 'Renewable' and 'harmless' are not the same word, and good energy planning compares the full costs of every option.",
+  "funFact": "Vanguard 1, launched in 1958 with six solar cells, is still orbiting the Earth today, making it the oldest human-made object in space.",
+  "check": {
+    "q": "Where was the first fully commercial high-voltage direct current (HVDC) link opened in 1954?",
+    "a": "Between mainland Sweden and the island of Gotland",
+    "wrong": [
+      "Between Niagara Falls and Buffalo",
+      "Across the English Channel from France to England",
+      "From the Three Gorges Dam to Shanghai"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Three Gorges Dam",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Three_Gorges_Dam"
+    },
+    {
+      "title": "Hydroelectricity",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hydroelectricity"
+    },
+    {
+      "title": "History of wind power",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_wind_power"
+    },
+    {
+      "title": "Daryl Chapin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Daryl_Chapin"
+    },
+    {
+      "title": "Vanguard 1",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vanguard_1"
+    },
+    {
+      "title": "HVDC Gotland",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/HVDC_Gotland"
+    },
+    {
+      "title": "Why did renewables become so cheap so fast?",
+      "publisher": "Our World in Data",
+      "url": "https://ourworldindata.org/cheap-renewables-growth"
+    },
+    {
+      "title": "Global Electricity Review 2024",
+      "publisher": "Ember",
+      "url": "https://ember-energy.org/latest-insights/global-electricity-review-2024/"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Aerial or wide photo of the Three Gorges Dam on the Yangtze River with water pouring through its spillways",
+      "search": "Three Gorges Dam Yangtze aerial"
+    },
+    {
+      "want": "Historic 1888 photograph of Charles Brush's giant many-bladed wind turbine behind his house in Cleveland",
+      "search": "Charles Brush wind turbine 1888 Cleveland"
+    },
+    {
+      "want": "The small spherical Vanguard 1 satellite with its antennas, showing the solar cells on its surface",
+      "search": "Vanguard 1 satellite solar cells"
+    }
+  ]
+}

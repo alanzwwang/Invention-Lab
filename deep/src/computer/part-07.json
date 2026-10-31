@@ -1,0 +1,165 @@
+{
+  "n": 7,
+  "title": "Turing's Imaginary Machine",
+  "when": "1936 – 1938",
+  "summary": "A young mathematician named Alan Turing imagined a machine made of nothing but a long paper tape, a reading head and a list of rules. He proved that one such machine could copy any other, and that some puzzles can never be solved by any computer at all. Meanwhile, Claude Shannon showed that simple electric switches can do logic.",
+  "sections": [
+    {
+      "heading": "A Puzzle Bigger Than Any Sum",
+      "paragraphs": [
+        "So far in our story, every calculating machine has had a clear job. The abacus kept track of numbers. Pascal's gears added them. Babbage's engines were designed to grind out tables, and Hollerith's tabulators counted people. In each case, someone already knew exactly what problem they wanted solved. But in the 1930s a very different question was being asked, and it came not from engineers or businessmen but from pure mathematicians. The question was not 'how can we calculate faster?' It was much stranger: 'Is there anything that can never be calculated at all?'",
+        "To see why anyone would care, we need to meet one of the most famous mathematicians who ever lived, David Hilbert of the University of Göttingen in Germany. In 1900, at a great meeting of mathematicians in Paris, Hilbert announced a list of 23 unsolved problems that he believed would shape the coming century. He turned out to be right: some of those problems kept mathematicians busy for more than a hundred years, and a few are still unsolved today.",
+        "Hilbert was an optimist. He believed that every mathematical question, however hard, must have an answer that patient reasoning could find. In the 1920s he launched what became known as Hilbert's program, a grand plan to put all of mathematics on a perfectly solid foundation. The idea was to start from a small set of basic rules, called axioms, and prove that everything else follows from them, with no contradictions hiding anywhere.",
+        "Part of this plan was a challenge that Hilbert and his student Wilhelm Ackermann wrote down clearly in a 1928 textbook on logic. It is known by its long German name, the Entscheidungsproblem, which simply means 'the decision problem'. In plain words, it asked: is there a mechanical method, a fixed recipe of steps, that could take ANY statement written in the language of logic and decide, in a finite amount of time, whether it is true in every possible case?",
+        "Think about what such a method would mean. It would be like a magic sausage machine for mathematics. You would feed in a statement at one end, turn the handle, follow the rules without any cleverness at all, and out would pop the answer: 'yes, always true' or 'no'. Mathematicians would no longer need flashes of genius to settle questions. They would just need patience. The dream goes back centuries; Gottfried Leibniz, whom we met in Part 2, had imagined a kind of 'calculus of reasoning' in which arguments could be settled by calculating.",
+        "Hilbert was confident. In September 1930, in a famous retirement speech in his home city of Königsberg, he declared: 'We must know. We shall know.' (In German: 'Wir müssen wissen. Wir werden wissen.') Those words were later carved on his gravestone in Göttingen.",
+        "But the cracks had already started to appear. Just a day before that speech, at a meeting in the same city, a quiet 24-year-old Austrian logician named Kurt Gödel had briefly announced a startling result. In 1931 he published his incompleteness theorems, which showed that in any consistent system of rules powerful enough to do ordinary arithmetic, there will always be true statements that cannot be proved using those rules. Part of Hilbert's dream was already broken. Yet the decision problem was still open. Could there still be a mechanical recipe to sort statements into 'provable' and 'not provable'?",
+        "Here is the tricky part. To show that such a recipe does NOT exist, you first need to say exactly what a 'mechanical method' is. A rough feeling of 'following a recipe blindly' is not good enough for a mathematical proof. Someone had to pin down the idea of 'computation' itself. That someone turned out to be a young man who liked long-distance running, chemistry experiments and thinking things through for himself."
+      ]
+    },
+    {
+      "heading": "The Boy Who Cycled 60 Miles",
+      "paragraphs": [
+        "Alan Mathison Turing was born on 23 June 1912 in Maida Vale, London. His father worked for the Indian Civil Service, so his parents spent long periods in India while Alan and his older brother John were looked after by a retired army couple in England. From an early age Alan was curious about how things worked. He was the kind of child who would rather discover a fact for himself than be told it.",
+        "In 1926, aged 13, he was sent to Sherborne, a boarding school in Dorset. His first day of term fell during the General Strike, when trains across Britain stopped running. Rather than miss school, Alan got on his bicycle and rode about 60 miles (around 97 kilometres) from Southampton to Sherborne, staying overnight at an inn on the way. According to the usual telling, a local newspaper even reported the journey. It is a good picture of the person he would become: determined, practical and happy to go his own way.",
+        "Sherborne was a school that cared mostly about classics, such as Latin and Greek, and some of his teachers were not impressed by a boy who preferred science and mathematics and whose handwriting was famously messy. But at school he found a close friend, Christopher Morcom, a brilliant older pupil who shared his love of science and astronomy. The two swapped ideas and puzzles. Then, in February 1930, Christopher died suddenly of an illness caused by bovine tuberculosis. Alan was heartbroken. Many biographers think that losing his friend made him even more determined to do great work, and set him thinking deeply about how minds and bodies are connected.",
+        "In 1931 Turing went to King's College, Cambridge, to study mathematics. He graduated with first-class honours in 1934, and in 1935, at the age of just 22, he was elected a Fellow of King's College for a piece of work on probability. That same year he attended a course of lectures on the foundations of mathematics given by the mathematician Max Newman. Newman explained Hilbert's programme, Gödel's discoveries and the still-unanswered decision problem. He described the hoped-for method as a 'mechanical process', and that phrase seems to have caught in Turing's mind.",
+        "Turing later recalled working out his big idea while lying in the meadows at Grantchester, a village just outside Cambridge, after one of his long runs. Whether or not that exact scene happened as told, we know that over the next year he took the word 'mechanical' far more literally than anyone else. Instead of asking 'what is a mechanical method?' in the abstract, he asked: 'What would a machine that carries out such a method actually look like?' In April 1936 he handed Newman a typescript of his answer. Newman was astonished."
+      ]
+    },
+    {
+      "heading": "A Machine Made of Paper and Rules",
+      "paragraphs": [
+        "Turing's paper, called 'On Computable Numbers, with an Application to the Entscheidungsproblem', was sent to the London Mathematical Society in late May 1936. It was published in the Society's Proceedings, appearing across late 1936 and early 1937, with a short correction added afterwards. It is only about 36 pages long, but many people now consider it one of the most important scientific papers of the 20th century.",
+        "Here is the surprising thing: Turing did not start by thinking about machines at all. He started by thinking about people. Remember from Part 3 that in 1936 the word 'computer' still meant a human being who did calculations. Turing imagined such a person working with pencil and paper and asked what the absolute simplest version of their job could be.",
+        "A human computer, he reasoned, writes symbols on paper. But you could do the same work on a long strip of paper divided into squares, like a never-ending roll of squared paper or a row of boxes. The person only ever needs to look at a few squares at a time; to keep things as simple as possible, let them look at just one. The person also has a 'state of mind' at each moment, such as 'I am carrying a 1' or 'I am looking for the end of the number'. Since a human mind can only hold a limited number of different situations, there is a fixed, finite list of states. And at each step, all the person does is: look at the symbol in the current square, perhaps change it, move one square left or right, and switch to a new state of mind.",
+        "Strip away the person, and what remains is a machine. Turing called it an 'automatic machine', or 'a-machine'. Today everyone calls it a Turing machine, a name first used by Alonzo Church, whom we will meet shortly. It has just three parts.",
+        "First, there is the tape: a strip of squares that goes on as far as you need in both directions. Each square is either blank or holds one symbol, such as 0 or 1. The tape is the machine's paper and its memory.",
+        "Second, there is the head, which sits over one square at a time. It can read the symbol there, write a new symbol (or erase the old one), and then move one square to the left or right.",
+        "Third, there is the table of rules. This is a list that says, for every combination of 'what state am I in?' and 'what symbol am I reading?', exactly what to do next: which symbol to write, which way to move and which state to switch to. For example, one rule might say: 'If you are in state A and you read a 1, write a 0, move right and go into state B.' Some rules may tell the machine to stop.",
+        "That is all. No gears, no electricity, no screen. A Turing machine is an idea, not an object; it exists on paper and in the imagination. Yet with nothing more than these simple steps, a Turing machine can add numbers, multiply them, check whether a number is prime, or work out the digits of pi one after another, forever. Only the table of rules changes.",
+        "Let's try a tiny one in our heads. Suppose the tape holds a row of 1s, say 1 1 1, and we want the machine to add one more 1 to the end (a way of counting up by one). The rules could be: 'In state A, if you read a 1, leave it alone and move right, staying in state A. In state A, if you read a blank, write a 1 and stop.' Start the head on the first 1. It slides right, past the second and third 1s, reaches the blank square, writes a 1 and halts. The tape now reads 1 1 1 1. We have built a counter from just two rules.",
+        "Why does such a simple model matter? Because Turing argued, very carefully, that anything a human computer could do by following fixed rules, a Turing machine could also do. If that is right, then the Turing machine is not just one kind of machine. It is a precise definition of what 'mechanical method' means. And once you have a precise definition, you can start proving things about it, including what it can never do."
+      ]
+    },
+    {
+      "heading": "One Machine to Imitate Them All",
+      "paragraphs": [
+        "At this point you might think that Turing had imagined a huge collection of different machines: one for adding, one for multiplying, one for pi, and so on, each with its own table of rules. And so he had. But then he made the leap that turned out to matter most for the computers in your pocket today.",
+        "A table of rules is just a list of instructions, and a list of instructions can be written down as symbols. So, Turing realised, you could write the rule table of any machine onto a tape. Then he showed how to design one special machine, which he called the universal computing machine, that reads such a description from its tape and then behaves exactly like the machine described. Give it the rules of the adding machine, and it adds. Give it the rules of the pi machine, and it calculates pi. Today we call it the universal Turing machine.",
+        "Look closely and you can see the seed of an idea that now seems obvious: software. Before Turing, people thought of a calculating machine as built for a job. Babbage's Analytical Engine came close to something more general, and Ada Lovelace had seen in 1843 that it could work on any symbols, not just numbers. But Turing's universal machine made the point with mathematical precision. The instructions are just another kind of data. They can be stored in the same place as the numbers, read, copied and even changed. One fixed piece of hardware can become any machine at all, just by being fed a different description.",
+        "That is exactly what your phone or laptop does. The same chip runs a game, a calculator, a music app and a web browser. It does not rebuild its wires each time; it simply loads a different program into memory. Historians still discuss how much the engineers who built the first stored-program computers in the late 1940s were directly influenced by Turing's paper (we will meet them in Part 11), but the idea that one general machine can do any computable job, if given the right instructions, starts most clearly here."
+      ]
+    },
+    {
+      "heading": "Questions No Computer Can Ever Answer",
+      "paragraphs": [
+        "Now Turing could finally attack Hilbert's challenge. He had a clear definition of a mechanical method: anything a Turing machine can do. So the question became: is there a Turing machine that can decide every logical statement? To answer 'no', he found a problem that no machine could ever solve, and then showed that solving the decision problem would mean solving this impossible one too.",
+        "The impossible problem is easiest to understand in the form now called the halting problem. (Turing never used that name himself; it was coined later, in the 1950s, most likely by the American logician Martin Davis. Turing's own version was about whether a machine would keep printing digits forever. But the idea is the same.)",
+        "Some programs finish their job and stop, or 'halt'. Others get stuck in a loop and run forever. Imagine a program that says 'count 1, 2, 3, and keep going until you reach a number bigger than 10'. It stops. Now imagine 'keep adding 2 starting from 1 until you reach an even number'. Since 1, 3, 5, 7 are all odd, it never stops. But wouldn't it be wonderful to have a perfect checker: a program that could look at ANY program and its input and always tell you correctly, 'this one will halt' or 'this one runs forever'?",
+        "Turing showed that such a perfect checker cannot exist. The argument is a clever trick, a bit like the old riddle 'This sentence is false.' Suppose someone claims to have built the perfect checker. Call it the Oracle. Now we build a mischievous new program called Contrary. Contrary takes any program, asks the Oracle what that program would do if it were fed its own description, and then does the opposite. If the Oracle says 'it halts', Contrary deliberately loops forever. If the Oracle says 'it runs forever', Contrary immediately halts.",
+        "Now comes the twist: feed Contrary its own description. What happens? If the Oracle predicts that Contrary halts, then Contrary loops forever, so the Oracle was wrong. If the Oracle predicts that Contrary loops forever, then Contrary halts, so the Oracle was wrong again. Whatever the Oracle says, it is wrong. The only way out is that the Oracle could never have existed in the first place. No program, however clever, on any computer, however fast, can correctly decide whether every possible program halts.",
+        "Turing then linked the halting puzzle to Hilbert's question. He showed how any question of the form 'does this machine ever do such-and-such?' could be translated into a statement of logic. If a mechanical method could decide every logical statement, it could also answer those machine questions, which we know is impossible. So the answer to the Entscheidungsproblem was no: there is no general mechanical method for deciding all of mathematics. Hilbert's 'We shall know' had met a limit that no amount of effort could cross."
+      ]
+    },
+    {
+      "heading": "Beaten to It, by a Professor in Princeton",
+      "paragraphs": [
+        "There was one disappointing surprise waiting for Turing. In the spring of 1936, just as Newman was reading Turing's typescript, a paper arrived in Cambridge from the United States. Alonzo Church, a logician at Princeton University in New Jersey, had already reached the same conclusion: the decision problem cannot be solved. Church's paper was published on 15 April 1936, several months before Turing's appeared in print.",
+        "Church had travelled by a completely different route. He had invented a system called the lambda calculus, a way of describing functions using only symbols and substitution rules, with no machines or tapes anywhere in sight. He proposed that 'effectively calculable' should mean 'expressible in the lambda calculus', and used that definition to show the decision problem was unsolvable. That same year, Emil Post, a mathematician in New York, published a model very similar to Turing's, describing a worker following numbered directions to mark boxes in a row.",
+        "Being beaten to a result can be crushing for a young scientist. But Turing's approach was different enough, and clear enough, that Newman urged the London Mathematical Society to publish it anyway. Turing added an appendix showing that his machines and Church's lambda calculus could compute exactly the same things. This was important: two people, using completely different ideas, had landed on the very same boundary. It suggested that they had found something natural and real, not just an accident of one person's definition.",
+        "Today this shared conclusion is called the Church–Turing thesis: anything that can be computed by any step-by-step mechanical method can be computed by a Turing machine. It is called a 'thesis' rather than a theorem because it cannot be strictly proved; it links a precise mathematical idea to our everyday, fuzzy idea of 'following a recipe'. But in about 90 years, nobody has found a convincing counter-example. Every kind of computer ever built, from relays to quantum chips, can compute the same set of things as a Turing machine, even if some are far faster at certain jobs.",
+        "Newman wrote to Church to recommend Turing, and in September 1936 Turing sailed to America to study at Princeton. He spent two years there, from 1936 to 1938, supported in his second year by a Procter Fellowship. Princeton was also home to the Institute for Advanced Study, where Albert Einstein and John von Neumann worked.",
+        "Turing wrote a PhD thesis under Church called 'Systems of Logic Based on Ordinals', and received his doctorate in June 1938. But he was not only thinking about abstract logic. He became interested in codes and ciphers, and in the university's physics workshop he started building an electric multiplier from relays, a hands-on step from imaginary machines towards real ones. Von Neumann offered him a job as his assistant, but Turing chose to return to Cambridge in the summer of 1938. Within a year, war would come, and his talents would be needed for secret work, which you will read about in Part 9."
+      ]
+    },
+    {
+      "heading": "Logic Made of Switches",
+      "paragraphs": [
+        "While Turing was thinking about tapes and rules, a young American engineer was solving a very practical puzzle that turned out to be the other half of the story. Claude Shannon was born on 30 April 1916 in Petoskey, Michigan, and grew up in the small town of Gaylord. As a boy he built model planes, a radio-controlled boat and a telegraph line to a friend's house half a mile away, using the wire of a barbed-wire fence.",
+        "At the University of Michigan he took two degrees at once, in electrical engineering and in mathematics, finishing in 1936. There he came across the work of George Boole, the English mathematician from Part 6 who had turned logic into a kind of algebra, with TRUE and FALSE treated almost like the numbers 1 and 0. At the time, most people thought of Boole's algebra as a curiosity for philosophers.",
+        "In 1936 Shannon went to the Massachusetts Institute of Technology (MIT) to work on Vannevar Bush's differential analyzer, the room-filling analog computer you met in Part 6. Setting it up for each new problem involved a complicated control circuit full of relays, the electrically controlled switches used by the thousand in telephone exchanges. Designing these relay circuits was a messy business, done mostly by trial, error and experience. In the summer of 1937 Shannon also spent time at Bell Telephone Laboratories, the research centre of the American telephone company, where relay circuits were everywhere.",
+        "Shannon noticed something remarkable: relay circuits and Boole's logic follow exactly the same rules. Take two switches wired one after the other, in a line (in series). Current flows only if the first switch AND the second switch are closed. Now wire two switches side by side (in parallel). Current flows if the first switch OR the second switch is closed. A relay can also be wired so that when its coil is switched on, its contact opens instead of closing, giving you NOT. So a closed switch is like TRUE, an open one is like FALSE, and any statement in Boole's algebra can be built as a circuit of switches.",
+        "This worked in both directions. Engineers could write down a complicated relay circuit as an algebra expression, use Boole's rules to simplify it, and then build a smaller, cheaper circuit that did exactly the same job. And going the other way, any logical or arithmetic task that could be written in Boole's algebra could be turned into a circuit. Shannon even showed in his thesis how to design a circuit that adds binary numbers.",
+        "He wrote all this up in his master's thesis at MIT in 1937, 'A Symbolic Analysis of Relay and Switching Circuits', and a version was published in 1938 in the Transactions of the American Institute of Electrical Engineers. It won an engineering award, the Alfred Noble Prize, in 1939. Decades later, the psychologist Howard Gardner described it as 'possibly the most important, and also the most famous, master's thesis of the century.'",
+        "Shannon was not completely alone in seeing the link; engineers in Japan and the Soviet Union had been exploring similar ideas around the same time. But his clear, practical thesis was the one that spread through the engineering world. It is the reason that every chip today is designed as millions or billions of tiny logic gates. Shannon went on to an even bigger achievement: in 1948 he published 'A Mathematical Theory of Communication', which founded information theory and made the word 'bit' famous."
+      ]
+    },
+    {
+      "heading": "Two Halves of a Big Idea",
+      "paragraphs": [
+        "Step back and look at what happened in just two years. In 1936, Turing (and in his own way, Church) answered the question 'what is computation?' A computation is anything a simple machine can do by reading, writing and moving according to a fixed table of rules, and one universal machine can do every such job if you hand it the right instructions. They also found the edge of the map: problems like the halting problem that no computer will ever solve.",
+        "In 1937, Shannon answered a different question: 'how can logic be built?' Logical rules such as AND, OR and NOT can be made from ordinary electrical switches. Put enough of them together and they can do arithmetic, compare numbers and make decisions.",
+        "Put the two halves together, and you have the recipe for the modern computer: a universal machine that follows stored instructions, made from switches that carry out logic. Neither man built such a computer in the 1930s, and neither idea alone was enough. But from now on, anyone trying to build a general-purpose calculating machine had both a clear goal and a practical way to reach it.",
+        "And the machines were already coming. While Turing imagined machines on paper, engineers in several countries were building real ones out of clicking relays and glowing glass tubes. In a Berlin apartment, on a kitchen table in New Jersey and in a basement at a college in Iowa, the first true computing machines were taking shape."
+      ]
+    }
+  ],
+  "deepDive": "Turing's 1936 paper did three things at once. First, it gave a precise model of computation, justified by analysing what a human clerk with pencil and paper can do: finitely many states of mind, finitely many symbols, and attention to only a bounded part of the page at each step. Second, it built a universal machine U that takes an encoded description of any machine M on its tape and then reproduces M's output. Third, it used a diagonal argument, related to Georg Cantor's proof that the real numbers cannot be listed, to show that some well-defined questions about machines have no computable answer. Turing's own example asked whether a machine is 'circle-free', meaning it keeps printing digits forever; the modern halting problem was named and popularised in the 1950s, usually credited to Martin Davis. By showing that a decision procedure for first-order logic would also solve such a machine question, Turing proved the Entscheidungsproblem unsolvable. Alonzo Church had reached the same result months earlier using lambda calculus (published 15 April 1936), and Emil Post independently described a very similar model. Because lambda calculus, Turing machines and other later definitions (such as Kurt Gödel and Jacques Herbrand's recursive functions) all turn out to describe exactly the same set of computable functions, most mathematicians accept the Church–Turing thesis, although it is a statement about our informal idea of 'mechanical method' and so cannot be formally proved. Historians argue about how directly Turing's universal machine shaped the first stored-program computers of 1945 to 1949. John von Neumann knew Turing's work, and Turing himself designed a stored-program computer, the ACE, in 1945; but the engineers who built early machines also drew on practical experience with ENIAC and other projects, so the stored-program computer had several roots. Shannon's 1937 thesis, by contrast, had immediate practical uses: it turned relay circuit design from a craft into something you could calculate with Boolean algebra. Similar switching theories were developed around the same years by Akira Nakashima in Japan and Victor Shestakov in the Soviet Union, a reminder that good ideas often appear in several places when the time is right. One further subtlety: real computers have finite memory, so strictly speaking they are finite machines; the Turing machine's endless tape is an idealisation that lets mathematicians talk about what is computable in principle, ignoring how much time or memory it would take.",
+  "funFact": "Turing never used the words 'halting problem' in his famous 1936 paper; the name was coined by other mathematicians in the 1950s.",
+  "check": {
+    "q": "What are the three parts of a Turing machine?",
+    "a": "A tape of squares, a read/write head, and a table of rules",
+    "wrong": [
+      "A keyboard, a screen and a mouse",
+      "Gears, a crank handle and a bell",
+      "Punched cards, a mill and a store"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Turing machine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Turing_machine"
+    },
+    {
+      "title": "Turing Machines",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/turing-machine/"
+    },
+    {
+      "title": "Entscheidungsproblem",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Entscheidungsproblem"
+    },
+    {
+      "title": "Alan Turing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alan_Turing"
+    },
+    {
+      "title": "Halting problem",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Halting_problem"
+    },
+    {
+      "title": "David Hilbert",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/David_Hilbert"
+    },
+    {
+      "title": "Claude Shannon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Claude_Shannon"
+    },
+    {
+      "title": "A Symbolic Analysis of Relay and Switching Circuits",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Symbolic_Analysis_of_Relay_and_Switching_Circuits"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Photograph of Alan Turing as a young man in the 1930s",
+      "search": "Alan Turing 1936 photograph"
+    },
+    {
+      "want": "Diagram or physical model of a Turing machine showing a tape of squares and a read/write head",
+      "search": "Turing machine model tape head"
+    },
+    {
+      "want": "Portrait photograph of Claude Shannon",
+      "search": "Claude Shannon portrait"
+    }
+  ]
+}

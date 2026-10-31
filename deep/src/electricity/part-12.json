@@ -1,0 +1,156 @@
+{
+  "n": 12,
+  "title": "The First Power Stations",
+  "when": "1878 – 1890",
+  "summary": "A light bulb needs electricity, but in 1880 there were no power stations anywhere. In this part, a little English town uses a water wheel to light its streets, Edison's team digs up the roads of New York to lay cables, and a giant machine named after a circus elephant starts to hum. By the end, people could pay for electricity just like they paid for gas.",
+  "sections": [
+    {
+      "heading": "A Problem Nobody Had Solved Before",
+      "paragraphs": [
+        "Picture yourself in 1880 with a brand-new light bulb in your hand. It is a marvel. It glows without a flame, without smoke and without the smell of gas. There is just one problem: where are you going to plug it in? There are no sockets in your walls, no cables under your street and no power station in your town. In the whole world, nobody yet sells electricity to the public.",
+        "Up to this point, anyone who wanted electric light had to make their own. A factory owner, a theatre or a very rich person could buy a steam engine and a dynamo (a generator) and set up what was called an isolated plant: a private power station serving just one building. This is how Swan's lamps lit Lord Armstrong's house at Cragside, using a stream and a water turbine, and how many of Edison's first customers got their light. The banker J.P. Morgan had one installed at his house at 219 Madison Avenue in New York, and on 6 June 1882 it became one of the first private homes in America lit by electricity. A coal-fired steam engine drove two generators to light the house.",
+        "Isolated plants worked, but they were noisy, smelly, expensive and needed someone to look after them. Most families could never afford one. The big idea, which Edison's team had been planning since 1878, was a central station. Instead of every building making its own electricity, one large station would make it for a whole neighbourhood and send it out through wires, just as gas companies already made gas in one place and piped it to thousands of homes. Customers would simply pay for what they used.",
+        "It sounds obvious now, but in the early 1880s it was a gamble. Would the machines be reliable enough to run all night, every night? Could cables be laid safely under busy streets? How would you measure how much electricity each customer used? And could the whole thing ever make money while competing with cheap, familiar gas? Between 1881 and 1882, a handful of pioneers on both sides of the Atlantic tried to find out."
+      ]
+    },
+    {
+      "heading": "Godalming: A Town Lit by a River",
+      "paragraphs": [
+        "One of the very first answers came not from a big city but from a small market town in Surrey, in the south of England, about 30 miles south-west of London. Godalming sits where the River Ock meets the River Wey, among old timber-framed houses and narrow streets. In the 1870s the price of gas had risen, and the town's leaders were unhappy about the cost of their gas streetlamps. They decided to try something new.",
+        "In 1881 a London firm called Calder and Barrett installed an electric generator at Westbrook Mill, a water mill on the River Wey. The generator was turned by two waterwheels, so the flowing river provided the power. Wires were strung overhead along Mill Street into the middle of the town. The system was simple and a bit of a mixture. There were a few powerful arc lights (the dazzling type we met in Part 7): three at the mill and four more in the town centre. A separate, gentler circuit fed 34 small incandescent lamps, some at the mill and the rest around the centre of town.",
+        "In the autumn of 1881, the people of Godalming saw their streets lit by electricity. A drawing published in the London magazine The Graphic in November 1881 showed the scene to readers across the country. Because the system supplied both public streetlights and some private customers, Godalming has a strong claim to be the first town in the world with a public electricity supply of this kind, though a few other places were experimenting with similar ideas at about the same time.",
+        "Not everyone was impressed. Some townspeople complained that the lights in the town centre were too dim, while the arc lights at the mill were so bright they were uncomfortable. The river was also not always reliable. Before the end of 1881 the generator had been moved to a site behind the White Hart pub and was being driven by a steam engine instead of the water wheels. In April 1882 the German company Siemens took over running the system.",
+        "Sadly, the experiment did not last. Electricity was still expensive, there were few customers and the equipment was primitive. In 1884, when the contract came up for renewal, Siemens chose not to bid again, and Godalming went back to gas lamps. Even so, the little town had shown that a public electricity supply was possible. It was a small, flickering first step, but an important one."
+      ]
+    },
+    {
+      "heading": "Jumbo Comes to London",
+      "paragraphs": [
+        "Meanwhile, Edison's company was racing to show the world a complete system. Its first public central station did not open in America at all, but in London. An associate of Edison named Edward Hibberd Johnson was looking for a place to show off the system in Britain. He found the perfect spot: Holborn Viaduct, an elegant iron bridge built in the 1860s to carry a road over a valley in the City of London. Underneath the road were hollow passages, called culverts, where cables could be laid without digging up the street.",
+        "The station started up on 12 January 1882. Its heart was an enormous dynamo shipped from America. Edison's team nicknamed these giant generators 'Jumbo', after a famously huge African elephant that the showman P.T. Barnum had just bought from London Zoo for his circus. The name fitted. The machine weighed about 27 tonnes, as much as four or five real elephants. A coal-fired steam engine turned it, and it produced about 93 kilowatts of power (about 125 horsepower) at 110 volts.",
+        "At first, the Holborn Viaduct station lit 968 lamps, each about as bright as 16 candles, for street lighting along the viaduct from Holborn Circus to St Martin's Le Grand. Later it supplied about 3,000 lamps, including some for nearby buildings and private customers. For Londoners walking along the viaduct at night, it was a startling sight: steady, white electric light in a city still mostly lit by flickering gas.",
+        "But Holborn Viaduct was more of an advertisement than a business. The station ran at a heavy loss every year. It sat on land owned by the Crown, so it could not easily be expanded, and the business climate for British electricity companies was difficult (more on that below). In September 1886, after about four and a half years, it was shut down, and the streetlamps along the viaduct went back to gas. Still, it had proved that Edison's lamps, dynamos and wiring could work together as one system for years at a time."
+      ]
+    },
+    {
+      "heading": "Pearl Street: Digging Up Manhattan",
+      "paragraphs": [
+        "Edison's real target was New York. On 17 December 1880 he set up the Edison Electric Illuminating Company of New York to build and run central stations in the city. Edison's team chose a district in lower Manhattan, at the southern tip of the island, which they called the First District. It was a patch of about one square mile, bounded by Spruce Street, the East River, Wall Street and Nassau Street. It was packed with banks, offices, newspapers and shops, exactly the kind of wealthy customers who might pay for the newest kind of light.",
+        "Before a single lamp could be lit, the team had to go street by street through the district counting customers. They noted how many gas jets each building used and how long they burned, so they could guess how much electricity people would need. Francis Upton, the mathematician we met in Part 10, worked on the calculations that showed how big the wires needed to be and how much the system would cost.",
+        "Then came the digging. Unlike the overhead telegraph wires and arc-light cables that already tangled above many American streets, Edison wanted his wires underground, where they would be safer and out of sight. Workers dug trenches along the streets and laid copper conductors inside iron pipes, packed with an insulating mixture of asphalt and oils to stop the electricity leaking out. It was slow, hard and expensive work.",
+        "For the power station itself, the company bought two old buildings at 255 and 257 Pearl Street, near the East River and close to the busy Fulton Fish Market. The site was about 15 metres wide and 30 metres deep. The buildings were strengthened to hold the heavy machinery. Meanwhile, the Edison Machine Works, a factory on Goerck Street in Manhattan, built the heavy generators, and other Edison factories made the lamps, sockets, switches and cables. Edison had to invent not just a product but a whole industry to supply it.",
+        "On the afternoon of Monday 4 September 1882, everything was finally ready. At Pearl Street, the stokers had the fires roaring under the boilers and steam engines turning the dynamos. A few streets away, in the offices of the bank Drexel, Morgan and Company on Wall Street, Edison waited with a group of businessmen. When the current was switched on, lamps in the offices began to glow.",
+        "The station's equipment was enormous for its day. It began with six large dynamos of the Jumbo type, each giving around 100 kilowatts, enough in total for roughly 600 kilowatts when all were running. Each dynamo was driven by its own steam engine. At first the company used fast-running engines made by the Porter-Allen company, but they proved unreliable with Edison's dynamos, so they were replaced with engines from another firm, Armington and Sims. The whole station burned coal, shovelled into the furnaces under the boilers.",
+        "On that first day the system was small. Pearl Street supplied about 400 lamps belonging to roughly 80 customers. (Different sources give slightly different numbers, such as 82 or 85.) Among the first were the Drexel, Morgan offices and the offices of The New York Times on Park Row. The Times wrote about the new light the very next day, describing a soft, steady glow that was much kinder to the eyes than gas.",
+        "The business grew steadily. By 1884, the Pearl Street station had 508 customers using 10,164 lamps. People who visited the district at night noticed the difference immediately. There were no flickering flames, no smell of gas, no blackened ceilings and far less risk of fire. Shopkeepers found that customers lingered in brightly lit stores, and office workers could keep going after dark without headaches from fumes.",
+        "Pearl Street was not perfect. Its machines had teething troubles, especially the first steam engines. On 2 January 1890, a fire broke out and destroyed all but one of the dynamos. The station was rebuilt and kept working until 1895, when bigger and more efficient power stations nearby took over its work. The one surviving dynamo is now preserved at Greenfield Village, part of The Henry Ford museum complex in Dearborn, Michigan. One of three working scale models of the station, built in 1929, can still be seen at the Smithsonian's National Museum of American History in Washington, D.C."
+      ]
+    },
+    {
+      "heading": "Appleton: Water Power in Wisconsin",
+      "paragraphs": [
+        "Less than four weeks after Pearl Street started, another historic station switched on more than 1,000 kilometres away, in the town of Appleton, Wisconsin. Appleton sits on the Fox River, which drops steeply through the town, and its fast-flowing water already turned the wheels of paper mills and flour mills.",
+        "The idea came from Henry J. Rogers, president of the Appleton Paper and Pulp Company and also of the local gas company. The story goes that he heard about Edison's plans for New York while on a fishing trip, and decided Appleton could do the same thing with river power instead of coal. He ordered two small Edison generators of the 'K' type. The first was installed in his paper mill and driven by a water wheel turned by the Fox River.",
+        "On 30 September 1882, the generator began turning. It produced only about 12.5 kilowatts, roughly a fiftieth of Pearl Street's eventual capacity, but it was enough to light Rogers' own house, the paper and pulp company's building and the nearby Vulcan Paper Mill. The second generator started in November 1882 in its own small building on Vulcan Street, which is why the system is remembered as the Vulcan Street Plant.",
+        "Appleton is often called the first hydroelectric central station in the United States serving private customers. Using water power was cheap once the wheel was built, but it had its own problems. If the river ran low, the lights dimmed. With such simple equipment, the brightness of the lamps could rise and fall with the speed of the water. Today the site is recognised as a historic landmark by American engineering societies."
+      ]
+    },
+    {
+      "heading": "Fuses, Sockets and a Meter Made of Zinc",
+      "paragraphs": [
+        "What made Edison's stations special was not any single machine. It was the fact that every piece had been designed to fit together. Imagine following the electricity from Pearl Street to a lamp on an office desk in 1882. It leaves the dynamo at about 110 volts of direct current (DC), meaning it flows in one direction only. It travels through thick copper bars called feeders to junction points under the streets, then through smaller mains along each block. From the mains, a service wire carries it into the building, through a meter, past a fuse, along wires in the walls, through a switch, into a socket and finally into the lamp.",
+        "Each of those parts had to be invented or improved. Edison's company developed a screw-in socket and lamp base, very like the screw base that ordinary bulbs still use today in many countries. It made safety fuses: a short piece of soft lead wire designed to melt if too much current flowed, breaking the circuit before wires could overheat and start a fire. It made switches, junction boxes and insulating materials. And it made sure every lamp worked at the same voltage, so customers could add or remove lamps without upsetting anyone else's lights.",
+        "Then there was the question of payment. A gas company could measure gas with a meter, but how do you measure something invisible flowing through a wire? Edison's answer used chemistry. Each customer had a meter containing a small jar with a zinc solution and zinc plates. A tiny, fixed fraction of the customer's current was sent through the jar. As it flowed, it carried zinc atoms from one plate to the other, a process called electrolysis, which we first met with Nicholson and Carlisle in Part 4. The more electricity the customer used, the more zinc moved.",
+        "Once a month, a company employee visited each building, took out the plates and carried them back to the office, where they were carefully weighed. From the change in weight, the company worked out how much electricity had been used and sent the bill. It was clever but awkward: customers could not read the meter themselves, and they had to trust the company's scales. Within a few years, engineers such as Elihu Thomson developed meters with spinning parts and dials that customers could read directly. Today, electricity is sold by the kilowatt-hour, the energy used by a 1,000-watt appliance running for one hour.",
+        "To save copper, Edison's company also developed a three-wire system, which supplied two circuits of 110 volts using three wires instead of four. The first central station to use it opened in Sunbury, Pennsylvania, on 4 July 1883. By the late 1880s, Edison companies had built stations in many towns across the United States and in Europe, and isolated plants were lighting hundreds of factories, mills, hotels and ships."
+      ]
+    },
+    {
+      "heading": "Rivals in the Dark: Arc Lights, Gas and the Law",
+      "paragraphs": [
+        "Edison's stations were not the only electric businesses of the early 1880s, and it would be unfair to tell the story as if they were. Arc-light companies had got going even earlier. Charles Brush's arc lamps, which had lit Cleveland's Public Square in 1879 (Part 7), were soon being sold to towns across America. In 1879 the California Electric Light Company in San Francisco began selling arc lighting from a central station using Brush dynamos, one of the first companies anywhere to sell electricity as a service. In December 1880, Brush lit a stretch of Broadway in New York with arc lamps powered at around 3,500 volts.",
+        "Arc systems were good at one job: flooding streets, squares, factories and railway stations with brilliant light. They ran at high voltages, with many lamps strung one after another along a single wire, like beads on a necklace. That is called a series circuit. If one lamp failed, special switches had to bypass it so the whole string did not go dark. But arc lamps were far too fierce and too dangerous for a sitting room. Edison's low-voltage incandescent system, with each lamp wired side by side (in parallel) so it could be switched on and off by itself, was aimed at a different market: indoor light for homes, offices and shops.",
+        "The biggest rival of all, though, was gas. Gas companies had spent seventy years laying pipes under city streets, and almost every town of any size had a gasworks. Gas light was familiar and, at first, cheaper than electric light. Gas companies fought back hard. In the late 1880s the Austrian chemist Carl Auer von Welsbach invented the gas mantle, a little fabric sleeve soaked in metal salts that turned into a fragile mesh and glowed brightly when heated by a gas flame. His improved version of 1891, made mostly of thorium and cerium oxides, gave a strong white light and went on sale in 1892. Mantles made gas lamps much brighter for the same amount of gas, and they kept gas streetlights in use in many towns until electric lighting spread in the early 1900s.",
+        "In Britain, electricity faced another possible obstacle: the law. Parliament passed the Electric Lighting Act in 1882 to control the new industry. It allowed local councils to buy out private electricity companies after 21 years. Many people at the time blamed this rule for scaring investors away, and British central stations grew slowly for several years. Historians still argue about how much the law really mattered: some point instead to a burst of over-excited investment in electricity shares in 1882, followed by a slump. Either way, the rules were loosened in 1888, stretching the buyout period to 42 years and treating companies more fairly, and a wave of new British stations followed.",
+        "So in the early 1880s, the future of electric light was far from certain. Electricity was new, expensive and limited to small districts. Its rivals were powerful, cheap and everywhere. What electricity had on its side was the quality of its light: clean, bright, safe and steady. Customers who tried it rarely wanted to go back."
+      ]
+    },
+    {
+      "heading": "The One-Mile Problem",
+      "paragraphs": [
+        "Edison's direct-current system had a serious weakness, and the engineers knew it from the start. Every wire has some resistance, so as current flows along it, some energy is lost as heat in the wire itself, just like the filament heating we met in Part 11, only much less. The longer the wire, the more is lost. And because Edison's system sent electricity at the same low voltage, about 110 volts, that customers used in their lamps, it needed a large current to deliver a useful amount of power, and large currents waste a lot of energy in the wires.",
+        "There were only two ways to keep the losses down. One was to use very thick copper conductors, which have less resistance. But copper was expensive, and the further you went, the thicker and costlier the cables had to be. The other was to keep the wires short. In practice, a station like Pearl Street could only serve customers within roughly one mile, or about 1.5 kilometres. Beyond that, the voltage dropped so much that lamps at the far end would glow dim and orange while lamps near the station shone brightly.",
+        "That meant a big city would need a power station every mile or so, each sitting right in the middle of a crowded neighbourhood, each burning coal and filling the streets with smoke. Land in city centres was expensive. And what about suburbs, farms and small towns spread across miles of countryside? With Edison's system, lighting them would mean building countless small stations, or cables so thick they would cost a fortune.",
+        "There was also the question of where power could be made. Some of the best sources of energy, such as great waterfalls and rushing rivers, were far from the cities that needed electricity. Appleton was lucky to have its river right in the middle of town. But no DC system of the early 1880s could carry the power of a distant waterfall many miles to a city. To use those natural power sources, someone would need a way to send electricity much, much further.",
+        "So, by the mid-1880s, engineers in Europe and America were asking the same question. Was there a way to send electricity across many miles without losing most of it on the way? Some of them believed the answer lay in a different kind of current: one that did not flow steadily in one direction, but wiggled back and forth, many times every second."
+      ]
+    }
+  ],
+  "deepDive": "Why was Edison's DC system limited to about a mile? The physics comes down to two simple formulas. Power delivered equals voltage times current (P = VI), and the power lost as heat in a wire equals the current squared times the wire's resistance (P = I squared R). To deliver, say, 10 kilowatts at 110 volts you need about 91 amps. If the copper feeder to a customer half a mile away has a resistance of just 0.1 ohm for the round trip, the loss is about 91 squared times 0.1, or roughly 830 watts, already over 8 percent, and the voltage at the far end sags by about 9 volts, enough to make carbon lamps visibly dimmer. Double the distance and both the loss and the voltage drop double; to keep them the same you must double the copper's cross-section, so the weight of copper needed grows roughly with the square of the distance served. Edison's engineers fought this with clever tricks. The feeder-and-main design, devised by Edison around 1880, used heavy feeders that ran without branches from the station to points in the network, so voltage stayed fairly even along the mains. The three-wire system, patented in 1883 and also developed independently by John Hopkinson in Britain, effectively doubled the transmission voltage to 220 volts between the outer wires while keeping 110 volts at each lamp, cutting copper needs by roughly 60 percent compared with a two-wire system. Historians also debate which station deserves the title of 'first'. Godalming (1881) supplied public streetlights and some private customers, but used a mix of arc and incandescent lamps and closed in 1884. Holborn Viaduct (January 1882) was Edison's first public central station but mainly lit streets and ran at a loss. Pearl Street (September 1882) is usually called the first commercial central power station in the United States, and it was profitable within a few years. Appleton (September 1882) is often listed as the first hydroelectric central station in the US. Each was a 'first' in a slightly different sense, which is a good reminder that big inventions usually have several birthdays.",
+  "funFact": "Edison's giant 'Jumbo' dynamos were named after Jumbo the elephant, a London Zoo favourite whom the showman P.T. Barnum bought for his American circus in 1882, the same year the first Jumbo dynamos went to work.",
+  "check": {
+    "q": "How did Edison's first electricity meters measure how much electricity a customer used?",
+    "a": "Current moved zinc between plates in a jar, and the plates were weighed each month",
+    "wrong": [
+      "A worker counted how many hours each lamp was switched on",
+      "A spinning dial showed the number of volts used",
+      "Customers wrote down their own use in a notebook"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pearl Street Station",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pearl_Street_Station"
+    },
+    {
+      "title": "Holborn Viaduct power station",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Holborn_Viaduct_power_station"
+    },
+    {
+      "title": "Godalming",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Godalming"
+    },
+    {
+      "title": "Vulcan Street Plant",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vulcan_Street_Plant"
+    },
+    {
+      "title": "Edison Illuminating Company",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Edison_Illuminating_Company"
+    },
+    {
+      "title": "Electricity meter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electricity_meter"
+    },
+    {
+      "title": "War of the currents",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_currents"
+    },
+    {
+      "title": "Charles F. Brush",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charles_F._Brush"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Historic illustration or photograph of Edison's Pearl Street power station dynamo room in New York",
+      "search": "Pearl Street Station Edison dynamo 1882"
+    },
+    {
+      "want": "Photograph of an Edison Jumbo dynamo generator in a museum",
+      "search": "Edison Jumbo dynamo"
+    },
+    {
+      "want": "Photograph of the Vulcan Street Plant replica in Appleton, Wisconsin",
+      "search": "Vulcan Street Plant Appleton"
+    }
+  ]
+}

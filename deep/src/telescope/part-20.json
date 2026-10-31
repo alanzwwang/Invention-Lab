@@ -1,0 +1,148 @@
+{
+  "n": 20,
+  "title": "Tomorrow's Telescopes and the Big Picture",
+  "when": "Today – 2040s",
+  "summary": "Right now, people are building the biggest telescopes in history, with mirrors as wide as a sports field is long. Some will hunt for signs of life on faraway planets, and some do not use light at all. The story that began with a tiny Dutch spyglass is still going, and you can be part of it tonight.",
+  "sections": [
+    {
+      "heading": "The Biggest Eye Ever Built",
+      "paragraphs": [
+        "Picture a bare, brown mountain in the Atacama Desert of northern Chile, one of the driest places on Earth. It is called Cerro Armazones, and it stands 3,046 meters high. A few years ago, workers sliced about 18 meters off its summit, moving roughly 220,000 cubic meters of rock, to make a flat platform the size of several football fields. On that platform, the European Southern Observatory, or ESO, an organization supported by more than a dozen countries, is building the Extremely Large Telescope, the ELT. When it is finished, it will be the largest telescope for visible and infrared light the world has ever seen.",
+        "Its main mirror is 39 meters across. That is wider than a basketball court is long, and about sixteen times wider than Hubble's mirror. No single piece of glass could ever be made that big; it would sag and crack under its own weight. So, like the Keck telescopes from Part 17, the ELT's mirror is built from pieces: 798 hexagonal segments, each about 1.45 meters wide, fitted together like a giant honeycomb. Together they form a collecting surface of about 978 square meters, more than 200 times the collecting area of Hubble's mirror.",
+        "Making 798 separate mirrors behave like one perfect mirror is an amazing feat. The segments must line up with an accuracy of a few tens of nanometers. A nanometer is a billionth of a meter, so this is thousands of times thinner than a human hair. To keep them in line, 4,608 tiny edge sensors constantly measure how each segment sits compared with its neighbors, and motors behind the segments nudge them back into place as the telescope tilts, the wind blows and the temperature changes. Even the glass is special: about 140 tonnes of a glass-ceramic called Zerodur, which hardly grows or shrinks when it warms or cools.",
+        "The ELT actually uses five mirrors to bounce and fold the light before it reaches the cameras. One of them, called M4, is a thin, flexible mirror that can change shape very quickly, pushed by thousands of small actuators behind it. This is adaptive optics, the twinkle-cancelling trick from Part 17, built right into the telescope itself. With it, the ELT should produce pictures about 15 times sharper than Hubble's. It will collect about 100 million times more light than a human eye, and roughly ten times more than the biggest optical telescopes working today.",
+        "All of this will sit inside a dome about 80 meters tall, as high as a 25-story building, and about 93 meters wide. The dome alone weighs around 6,100 tonnes, and it must still turn smoothly to follow the stars. ESO's budget for the project is about 1.45 billion euros. Technical first light, the moment light first travels through the whole telescope, is planned for about 2029, with science observations to follow around 2030. Like every big plan, those dates could change.",
+        "What will it look for? Astronomers hope the ELT will take pictures of planets around nearby stars and study their atmospheres, perhaps spotting gases that could hint at life. It will study the first galaxies that formed after the Big Bang, measure how the expansion of the universe is changing, and watch stars orbiting the black hole at the center of our Milky Way in finer detail than ever. ESO even says it could become the first telescope to find evidence of life beyond our solar system. That is a big claim, but it shows how far we have come from Galileo's few-centimeter lens."
+      ]
+    },
+    {
+      "heading": "Seven Giant Eyes and a Telescope Without a Home",
+      "paragraphs": [
+        "The ELT is not the only giant on the way. Several hundred kilometers to the south, at Las Campanas Observatory in Chile, at about 2,500 meters, an international team is building the Giant Magellan Telescope, or GMT. It takes a completely different approach to the problem of making a huge mirror.",
+        "Instead of hundreds of small segments, the GMT uses seven enormous round mirrors, each 8.4 meters across: one in the middle and six around it, like the petals of a flower. Together they work as a single telescope about 25.4 meters wide, with a collecting area of about 368 square meters. Each mirror is one solid piece of glass, made in a remarkable workshop at the University of Arizona called the Richard F. Caris Mirror Lab, which is tucked underneath the east side of the university's football stadium.",
+        "The way these mirrors are made is wonderful. Workers pack tonnes of glass chunks into a mold with a honeycomb pattern inside, so the finished mirror will be strong but much lighter than a solid block. Then the whole furnace slowly spins while it heats to over 1,100 degrees Celsius. As the glass melts, the spinning pushes it outward and upward at the edges, so it naturally forms a curved bowl shape, close to the shape the mirror needs. This saves months of grinding. After cooling slowly for months, each mirror is polished for years until its surface is accurate to a tiny fraction of the wavelength of light. The first GMT mirror was cast in 2005, and the seventh in 2023. The project's cost is estimated at about 2 billion dollars, and its builders hope it will be working sometime in the 2030s.",
+        "The third giant has had a much rougher road. The Thirty Meter Telescope, which you met in the last part, was designed with a mirror of 492 hexagonal segments, and it was supposed to be built on Maunakea in Hawaii. Construction has been stopped since 2015 because of protests and legal battles. In June 2025, the United States National Science Foundation decided to put its support behind the Giant Magellan Telescope rather than the TMT, which left the TMT's future seriously in doubt. A backup site at the Roque de los Muchachos Observatory on La Palma in Spain's Canary Islands has been discussed for years, and in 2025 Spain offered a large sum of money to bring the telescope there, but no final decision on its fate had been made at the time this was written.",
+        "Why build several giants instead of one? Partly because the northern and southern skies are different: some of the most exciting objects, like the center of our galaxy and the Magellanic Clouds, are best seen from the Southern Hemisphere. Partly because different designs bring different strengths. And partly because, as in every age of telescope history, there is a race. Since Galileo improved his first spyglass, astronomers have always wanted the next telescope to see a little fainter and a little sharper than the last one."
+      ]
+    },
+    {
+      "heading": "New Eyes in Space and in the Outback",
+      "paragraphs": [
+        "Some of tomorrow's telescopes have already arrived. On 30 August 2026, a Falcon Heavy rocket launched the Nancy Grace Roman Space Telescope, named after the NASA astronomer known as the 'mother of Hubble' from Part 16. Its main mirror is 2.4 meters across, the same size as Hubble's, and it is one of the two spare mirrors donated to NASA by the spy-satellite agency you read about in Part 19. By late October 2026, Roman was in the final stages of testing, called commissioning, far beyond the Moon in the same region of space as JWST, near the L2 point.",
+        "Roman's superpower is width. Its main camera, the Wide Field Instrument, has about 300 megapixels and sees an area of sky at least 100 times larger than Hubble's main camera in a single shot. Where Hubble looks at the universe through a drinking straw, Roman looks through a window. During its mission, it could measure light from around a billion galaxies, helping scientists study dark energy, the mysterious something that is making the expansion of the universe speed up. It will also hunt for planets in a clever way called microlensing: when a star with a planet passes in front of a more distant star, its gravity acts like a lens and briefly brightens the background star, and a planet adds a tiny extra blip. Roman also carries a coronagraph, a device that blocks a star's glare to photograph faint planets beside it, as a test for future missions.",
+        "Meanwhile, on the ground, the biggest radio telescope project ever attempted is rising in two countries at once. The Square Kilometre Array, or SKA, has its headquarters at Jodrell Bank in England, where Bernard Lovell's great dish from Part 15 still stands. Construction officially began on 5 December 2022.",
+        "In the remote outback of Western Australia, on the traditional lands of the Wajarri people, SKA-Low is being built from about 131,000 antennas, each about two meters tall and shaped a bit like a spiky metal Christmas tree. They have no moving parts at all; computers combine their signals to point the telescope electronically at different parts of the sky. In March 2025, using just over a thousand of these antennas, SKA-Low produced its first picture of the sky. Meanwhile, in the dry Karoo region of South Africa, SKA-Mid will have around 200 dishes, including the 64 dishes of an earlier telescope there called MeerKAT.",
+        "Why put it in such empty places? Remember the radio noise problem from Part 19. These sites are among the radio-quietest places on Earth, and they also have an excellent view of the center of the Milky Way. The SKA will map the faint radio glow of hydrogen gas in about a billion galaxies, test Einstein's theory of gravity using pulsars, and try to see the era when the very first stars switched on. Its computers will have to handle enormous floods of data. If everything goes to plan, the first phase should be doing science around the early 2030s."
+      ]
+    },
+    {
+      "heading": "Dream Machines: Looking for Life and Hiding Behind the Moon",
+      "paragraphs": [
+        "Every ten years, American astronomers get together through the National Academies of Sciences to agree on their biggest wishes for the coming decades. Their 2020 report, called Astro2020, named one dream above all: a large space telescope able to look at Earth-like planets around other stars and search them for signs of life. NASA now calls this idea the Habitable Worlds Observatory.",
+        "The goal is breathtaking. The telescope would try to take direct pictures of at least 25 possibly habitable planets, rocky worlds orbiting at the right distance from their stars for liquid water. Then it would split each planet's faint light into a spectrum, the rainbow barcode you learned about in Part 12, to look for gases such as oxygen and methane. On Earth, those gases are pumped into the air in large amounts by living things. Finding them together on another world would not prove life exists there, but it would be one of the most exciting clues in history.",
+        "The challenge is enormous. In visible light, an Earth-like planet is roughly ten billion times fainter than its star, and from many light-years away it sits extremely close to that star in the sky. It is like trying to spot a firefly sitting next to a lighthouse from thousands of kilometers away. To do it, the telescope will need a mirror perhaps 6 to 8 meters across and an incredibly precise coronagraph, or a separate starshade flying far in front of it, to block the star's glare. Its mirror must stay steady to a fraction of the width of an atom during each observation.",
+        "Right now, the Habitable Worlds Observatory is still a plan, not a machine. NASA has been developing the technology since 2023, and a launch is imagined for the 2040s, perhaps on one of the giant new rockets being built today. Its cost has been estimated at 11 billion dollars or more, and in 2026 the US government's budget request proposed cutting its funding sharply, so its future depends on decisions still to be made. Like the Hubble and Webb telescopes before it, it may take decades of patience and argument to build.",
+        "Other dreamers are looking at the Moon. Radio waves longer than about 10 meters, or frequencies below about 30 megahertz, are blocked or scrambled by a layer of Earth's upper atmosphere called the ionosphere, so they can hardly be studied from the ground. Those long waves carry information about the cosmic Dark Ages, the time after the Big Bang before the first stars lit up. The far side of the Moon, which always faces away from Earth, is shielded from all our radio chatter by about 3,500 kilometers of rock. It may be the quietest place in the inner solar system.",
+        "One NASA-funded concept, the Lunar Crater Radio Telescope, imagines robots landing on the far side and stretching a giant wire-mesh dish inside a crater more than 3 kilometers wide, a little like a lunar version of Arecibo. Rovers would unroll and anchor the mesh, and a receiver would hang above it. The idea has received early-stage study money from NASA's program for bold, futuristic concepts. Smaller far-side radio experiments have already flown or are being prepared by several countries. A real radio observatory on the Moon is still a dream, but so was a telescope in space when Lyman Spitzer wrote about it in 1946."
+      ]
+    },
+    {
+      "heading": "Telescopes With No Glass at All",
+      "paragraphs": [
+        "For four hundred years, every telescope in this story collected some kind of light, from radio waves to gamma rays. But the universe also sends us other messengers, and scientists have built strange new instruments to catch them. They are not telescopes in the usual sense, but they do the same job: they let us sense the cosmos in a new way.",
+        "Einstein predicted in 1916 that when very heavy objects speed around each other, they send out ripples in space itself, called gravitational waves. As a wave passes, it stretches space one way and squeezes it the other, back and forth, by an unbelievably small amount. For decades, nobody could measure anything so tiny. Then came LIGO, the Laser Interferometer Gravitational-Wave Observatory, with two detectors far apart in the United States, one in Hanford, Washington, and one in Livingston, Louisiana.",
+        "Each LIGO detector is shaped like a giant letter L, with two arms 4 kilometers long. A laser beam is split in two and sent down both arms, bounced back by mirrors, and then recombined. Normally the two beams cancel each other out perfectly. But if a gravitational wave passes, one arm gets a tiny bit longer while the other gets a tiny bit shorter, and a flicker of light leaks through. How tiny? About a thousandth of the width of a proton, one of the particles inside an atom's center.",
+        "On 14 September 2015, both detectors felt a wobble, with the Livingston detector catching it about 7 milliseconds before Hanford. The signal matched the death spiral of two black holes, about 36 and 29 times the mass of our Sun, colliding about 1.4 billion light-years away and merging into one. In a fraction of a second, the collision turned about three Suns' worth of mass into gravitational-wave energy. The discovery was announced in February 2016, and in 2017 Rainer Weiss, Barry Barish and Kip Thorne shared the Nobel Prize in Physics for it. Later that year, detectors caught waves from two colliding neutron stars, and ordinary telescopes around the world turned to the spot and saw the explosion too. Astronomers call this teamwork multi-messenger astronomy.",
+        "Another strange telescope is buried in the ice at the South Pole. IceCube, finished in December 2010 and run by the University of Wisconsin-Madison with partners worldwide, hunts for neutrinos, ghostly particles so tiny and shy that trillions pass harmlessly through your body every second. To catch a few, scientists drilled 86 holes deep into the Antarctic ice with hot water and lowered strings of light sensors, 60 on each string, between about 1,450 and 2,450 meters below the surface. Together they watch about a cubic kilometer of crystal-clear ancient ice. Very rarely, a neutrino bumps into the ice and makes a faint flash of blue light that the sensors can see.",
+        "In 2017, IceCube caught a high-energy neutrino that was traced back to a blazar, a galaxy with a giant black hole shooting a jet almost straight toward us, nearly 4 billion light-years away. In 2023, it made the first map of the Milky Way in neutrinos instead of light. An upgrade adding new sensor strings was completed in early 2026, and scientists are planning a much larger version. Telescopes made of lasers and ice would have astonished Galileo, but the purpose is the same as his: to notice what others cannot."
+      ]
+    },
+    {
+      "heading": "From a Three-Times Spyglass to a 39-Meter Giant",
+      "paragraphs": [
+        "Let's stand back and look at the whole story at once. It is a long chain of problems and solutions, each step fixing something the last step could not.",
+        "In 1608, Dutch spectacle makers put two lenses in a tube and made things look about three times bigger. Galileo improved it to about 20 times and turned it on the sky, but his telescope showed only a tiny patch at once, so Kepler designed a better arrangement. Lenses blurred colors into rainbows, so astronomers built absurdly long telescopes, and then Newton built a mirror telescope that avoided the rainbow problem completely. Lens makers fought back with achromatic lenses made from two kinds of glass, and Fraunhofer turned them into precision instruments.",
+        "Next came the problem of faintness. The Herschels and Lord Rosse built ever bigger mirrors to gather more light. Metal mirrors tarnished, so silver-coated glass replaced them. Big lenses sagged, so mirrors won the size race. Eyes forget and get tired, so cameras took over, collecting light for hours. Spectroscopes split that light into barcodes that told us what stars are made of and how fast they move. Giant mirrors on mountaintops, like Mount Wilson and Palomar, revealed that the universe is filled with galaxies and is expanding.",
+        "Then the problem was our own air, which blurs and blocks. Engineers answered in two ways: lift telescopes above the air into space, like Hubble and JWST, and fight the air from the ground with adaptive optics and segmented mirrors, like Keck and the ELT. Our eyes see only a thin slice of light, so we built radio dishes, X-ray satellites and infrared observatories to see the rest. And now, with gravitational waves and neutrinos, we are learning to sense the universe without light at all.",
+        "Think about the numbers. Galileo's best telescopes had front lenses only a few centimeters across. The ELT's mirror will be 39 meters across, more than a thousand times wider, with a collecting area over a million times larger. A dark-adapted human eye can see a few thousand stars. Telescopes have now shown us that there are hundreds of billions of stars in our galaxy alone, and hundreds of billions of galaxies, perhaps far more, in the observable universe. Each step took clever ideas, patient craftspeople, a lot of money, many mistakes and, as Part 19 showed, plenty of arguments. But each step also changed how humans understand their place in the universe."
+      ]
+    },
+    {
+      "heading": "Your Turn to Look Up",
+      "paragraphs": [
+        "Here is the most wonderful part of the whole story: you do not need a giant mirror in Chile to start. You can see much of what Galileo saw, from your own backyard or balcony, with a simple pair of binoculars. Many binoculars are labelled with two numbers, like 7x50 or 10x50. The first number is the magnification, and the second is the width of each front lens in millimeters. A 10x50 pair magnifies ten times and gathers about fifty times more light than your eye alone, which is better than Galileo's first telescope. Lean against a wall or a fence to hold them steady.",
+        "Start with the Moon. The best time is not full moon but when it is a half moon or a crescent. Look along the terminator, the line between the bright and dark parts. That is where the Sun is rising or setting on the Moon, and the long shadows make craters and mountains pop out, just as Galileo saw in 1609. Then find Jupiter, which looks like a very bright, steady star that does not twinkle much. Hold your binoculars still, and you may see up to four tiny points of light lined up beside it. Those are Io, Europa, Ganymede and Callisto, the same moons Galileo discovered in January 1610. Look again the next night, and you will see they have moved.",
+        "If you are somewhere dark, sweep your binoculars slowly along the Milky Way, and its glowing cloud will break up into countless stars, just as Galileo described. Look at the Pleiades, a little cluster of stars in the constellation Taurus, and see dozens of stars where your eyes saw six or seven. You can join a local astronomy club, many of which hold free star parties where people share their telescopes, or visit a public observatory or planetarium. Some amateurs still make real discoveries, from comets to exploding stars.",
+        "Just remember the one golden rule from Part 5: never point binoculars or a telescope anywhere near the Sun unless an expert has fitted a proper certified solar filter. Ask an adult to help you check the sky charts, dress warmly, and give your eyes about twenty minutes in the dark to adjust.",
+        "Four hundred years ago, a few curious people in the Netherlands, England and Italy held two lenses in a line and looked up. Everything in this Deep Dive grew from that simple act of curiosity. The universe is still out there, full of things nobody has ever seen. So tonight, if the sky is clear, go outside, let your eyes get used to the dark, and look up."
+      ]
+    }
+  ],
+  "deepDive": "Why do astronomers keep building bigger mirrors? Two numbers explain almost everything. The first is light-gathering power, which grows with the area of the mirror, that is, with the square of its diameter. The ELT's 39-meter mirror has roughly 260 times the area of Hubble's 2.4-meter mirror, and the actual collecting area, 978 square meters, is still more than 200 times Hubble's once gaps and the central holes are counted. For faint targets, the time needed to reach a given signal falls roughly in proportion to the area. The second is resolution. Because light behaves like a wave, even a perfect telescope blurs a point of light into a tiny disc. The smallest angle a telescope can separate is roughly 1.22 times the wavelength divided by the diameter. For Hubble at a visible wavelength of 500 nanometers, that works out to about 0.05 arcseconds. For the ELT at an infrared wavelength of 2.2 micrometers, it is about 0.014 arcseconds, provided adaptive optics can remove the blur of the atmosphere. Better resolution is doubly valuable: it reveals finer detail, and it concentrates a star's light into a smaller spot, so faint objects stand out more clearly against the sky background. Both effects matter for exoplanets. An Earth-like planet orbiting a Sun-like star 10 parsecs (about 33 light-years) away sits only about 0.1 arcseconds from its star and is roughly ten billion times fainter in visible light. To separate the two, a telescope needs enough resolution and an optical system able to suppress the starlight by that enormous factor. Ground-based giants like the ELT will probably first study planets around small, cool red dwarf stars, where the contrast is less extreme in infrared light. Space telescopes like the proposed Habitable Worlds Observatory aim at true Earth analogs around Sun-like stars, using ultra-stable mirrors and coronagraphs that must control the shape of the light at the level of tens of picometers. Engineers and scientists still debate the best route: bigger segmented mirrors that unfold in space, coronagraphs versus external starshades, and how to balance ambition against cost after the long and expensive road to JWST. Whatever is chosen, the logic is the same one that drove Galileo from a 3-times spyglass to a 20-times one: see fainter, see sharper.",
+  "funFact": "The giant mirrors for the Giant Magellan Telescope are cast in a slowly spinning furnace in a laboratory tucked underneath the University of Arizona's football stadium.",
+  "check": {
+    "q": "How many hexagonal segments make up the main mirror of the Extremely Large Telescope?",
+    "a": "798",
+    "wrong": [
+      "36",
+      "18",
+      "7"
+    ]
+  },
+  "sources": [
+    {
+      "title": "ELT Facts",
+      "publisher": "European Southern Observatory (ESO)",
+      "url": "https://elt.eso.org/about/facts/"
+    },
+    {
+      "title": "Extremely Large Telescope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Extremely_Large_Telescope"
+    },
+    {
+      "title": "Giant Magellan Telescope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Giant_Magellan_Telescope"
+    },
+    {
+      "title": "Nancy Grace Roman Space Telescope",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/"
+    },
+    {
+      "title": "Square Kilometre Array",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Square_Kilometre_Array"
+    },
+    {
+      "title": "Habitable Worlds Observatory",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Habitable_Worlds_Observatory"
+    },
+    {
+      "title": "First observation of gravitational waves",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/First_observation_of_gravitational_waves"
+    },
+    {
+      "title": "IceCube Neutrino Observatory",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/IceCube_Neutrino_Observatory"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The Extremely Large Telescope dome under construction on Cerro Armazones in Chile's Atacama Desert",
+      "search": "Extremely Large Telescope construction Armazones"
+    },
+    {
+      "want": "One of the Giant Magellan Telescope's 8.4-meter honeycomb mirrors at the University of Arizona mirror lab",
+      "search": "Giant Magellan Telescope mirror Caris lab"
+    },
+    {
+      "want": "Aerial photograph of the LIGO gravitational-wave detector with its long L-shaped arms",
+      "search": "LIGO Hanford aerial view"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "n": 2,
+  "title": "The First Handheld Call",
+  "when": "1947 – 1984",
+  "summary": "In 1973 an engineer named Martin Cooper stood on a busy New York street and made a phone call from a phone he held in his hand, with no wires and no car. His phone was as big as a brick and its battery lasted only about half an hour. Ten years later people could finally buy one, but it cost about as much as a small car!",
+  "sections": [
+    {
+      "heading": "A Memo Full of Hexagons",
+      "paragraphs": [
+        "Our story begins not with a gadget but with a piece of paper. On December 11, 1947, at Bell Telephone Laboratories in New Jersey, the research center of the giant AT&T telephone company, an engineer named Douglas H. Ring wrote an internal memo. A memo is a note sent around inside a company. Ring, working with his colleague W. Rae Young, described a new way to build a mobile phone network.",
+        "Remember the big problem from Part 1: each city had one huge, powerful transmitter, and every call used up a channel across the whole city. Ring and Young suggested the opposite. Divide the city into many small areas, each served by its own low-power antenna. They drew these areas as hexagons, six-sided shapes that fit together like the cells of a honeycomb, which is why we still say 'cell phone' today.",
+        "Here is the clever part. Because each small antenna is quiet, its signal fades out after a few kilometers. That means a channel used in one cell can be used again in another cell some distance away without the two calls bumping into each other. Instead of a city getting, say, 12 conversations at once, it might get 12 conversations in each of dozens of cells. When a driver moved from one cell to the next, the call would have to be passed from one antenna to the next, a trick called a handoff. (Part 12 explores how cells and handoffs work in much more detail.)",
+        "So why didn't anyone build it in 1947? Because the tools did not exist yet. Handing a call between towers in a split second needed fast electronic switching and computer control, and the transistor had only just been invented at Bell Labs that same year. Small, cheap computer chips were still decades away. The government had also not set aside enough radio frequencies. The idea had to wait, like a seed in dry ground, for the right conditions.",
+        "Over the next 25 years, Bell Labs engineers kept working on the problem. In the late 1960s and early 1970s, a team including Richard Frenkiel, Philip Porter and Joel Engel worked out how a real cellular system could be laid out: how big the cells should be, how to track moving cars, and how to split cells into smaller ones as more customers joined. In 1971 they sent a detailed plan for a 'High Capacity Mobile Telephone System' to the Federal Communications Commission (FCC), the US government agency that controls radio frequencies. Another Bell Labs engineer, Amos Joel Jr., received a patent in 1972 for a switching system that helped pass calls from one cell to the next as a caller moved. Many minds, over many years, built the cellular idea piece by piece.",
+        "Several of these engineers were later honored for their work. Amos Joel received some of the biggest prizes in engineering, including the Kyoto Prize in 1989 and the IEEE Medal of Honor in 1992, and he joined the National Inventors Hall of Fame in 2008. Joel Engel and Richard Frenkiel shared the US National Medal of Technology in 1994. Their names are much less famous than Martin Cooper's, but without them there would have been no cellular network for any handheld phone to connect to."
+      ]
+    },
+    {
+      "heading": "Two Giants, Two Different Dreams",
+      "paragraphs": [
+        "By the early 1970s two companies were racing to make mobile phones real, and they had very different pictures in their heads.",
+        "AT&T, through Bell Labs, was the biggest telephone company in the world. In the United States it ran almost all telephone service. Its engineers imagined cellular service mainly for cars. That made sense: a car has a big battery to power a radio, plenty of space for equipment, and a roof to hold an antenna. In AT&T's vision, the mobile phone would be a better car phone.",
+        "Motorola saw things differently. Motorola, based near Chicago, did not run phone networks. It built radios: car radios, police radios, and the handheld Handie-Talkies used in World War II. Its engineers knew a lot about making tough, portable radios that people carried around all day. To Motorola, a phone should belong to a person, not a car. Why should you only be able to call when you were sitting in the driver's seat?",
+        "The two companies were not strangers. When the Bell System opened car phone service in Chicago in October 1946, the very first calls were carried on equipment made by Motorola. For decades Motorola had sold radios to the phone company, to police departments and to taxi firms. Now the supplier wanted to become a rival, and the competition between them would push both sides to move faster.",
+        "There was also a business worry. If the FCC handed all the new cellular frequencies to AT&T, AT&T might control the whole mobile phone world, the way it already controlled ordinary phones. Motorola wanted the government to allow competing companies into cellular service and to make room for portable phones. To win that argument in Washington, Motorola needed to show everyone that a handheld cellular phone was not a fantasy. It needed a phone people could see and touch. The man who took charge of that job was Martin Cooper."
+      ]
+    },
+    {
+      "heading": "Marty Cooper and the 90-Day Phone",
+      "paragraphs": [
+        "Martin Cooper was born on December 26, 1928, in Chicago, the son of Jewish immigrants from Ukraine. He studied electrical engineering at the Illinois Institute of Technology, graduating in 1950, then served as an officer on submarines in the US Navy during the Korean War. In 1954 he joined Motorola, where he would spend 29 years. Along the way he also earned a master's degree in electrical engineering in 1957.",
+        "By the early 1970s Cooper was a senior manager in Motorola's communications business. His boss and mentor, John F. Mitchell, led Motorola's portable products and strongly backed the idea of a personal phone. Together they decided to build a working handheld cellular phone to prove their point, and to do it fast. According to Cooper, his team designed and built the first one in less than 90 days. Industrial designer Rudy Krolopp and his team shaped the case, and engineers crammed in the radio circuits, a microphone, a speaker, a keypad and a battery.",
+        "The result was called the DynaTAC, short for 'Dynamic Adaptive Total Area Coverage.' The prototype weighed about 1.1 kilograms (2.5 pounds), roughly as much as a big bag of sugar, and was about 25 centimeters (10 inches) tall, not counting its stubby antenna. It looked like a beige brick with buttons. Some people called it 'the shoe' phone. Inside were circuit boards packed with many separate electronic parts, because the tiny, powerful chips we have now did not exist yet. The battery alone made up a big part of the weight.",
+        "That battery was the weakest point. It gave only about 20 to 30 minutes of talking, and recharging it took about 10 hours. Cooper has joked that the short battery life did not really matter, because nobody could hold up such a heavy phone to their ear for longer than that anyway!",
+        "Cooper's story did not end with the DynaTAC. After leaving Motorola in the 1980s he co-founded several companies, including ArrayComm in 1992, which worked on smart antennas that help cell towers serve more people, and a company behind GreatCall, which made simple phones for older adults. He has also advised the FCC on technology. Well into his nineties, he was still giving interviews about the future of wireless communication."
+      ]
+    },
+    {
+      "heading": "April 3, 1973: 'Joel, This Is Marty'",
+      "paragraphs": [
+        "Imagine Sixth Avenue in Manhattan on the morning of April 3, 1973. Yellow taxis honk, people in long coats hurry past, and the tall buildings of Midtown rise all around. Near the New York Hilton hotel, where Motorola is about to hold a press conference, a man in a suit stands on the sidewalk holding a beige plastic block to his ear. Passers-by stare. Some of them have never seen anyone talk on a telephone outdoors without a phone booth.",
+        "Motorola had placed a special base station, an antenna and radio receiver, on the roof of a nearby skyscraper called Burlington House. That base station was connected to the ordinary landline telephone network. So when Cooper dialed, the radio signal from his handset flew up to the rooftop antenna, then traveled along regular telephone wires to whoever he was calling.",
+        "And whom did he call first? Not his family, and not his boss. With a sense of humor and a bit of showmanship, Cooper called his biggest rival: Joel Engel, the head of the cellular research effort at Bell Labs. According to Cooper, he said something like: 'Joel, this is Marty. I'm calling you from a cell phone, a real handheld portable cell phone.' Imagine being the leader of the team at the world's largest phone company and hearing that your competitor had just beaten you to a working handheld phone!",
+        "This was the first public call made on a handheld cellular phone. It is important to be fair about what it meant. Cooper did not invent the telephone, radio, or the idea of cells, which came from Bell Labs in 1947. Many engineers at both Motorola and Bell Labs made cellular phones possible. What Cooper and his team proved was that a real person could carry a cellular phone in one hand, walk down a street and make a call. Motorola then showed the phone to reporters at its press conference.",
+        "In October 1973, Cooper and his colleagues applied for a patent on their 'Radio telephone system.' It was granted as US patent 3,906,166 on September 1, 1975, with Cooper as the lead inventor and John F. Mitchell among the names on it.",
+        "People love a good origin story, and one is often told about Cooper's phone: that he was inspired by the flip-open communicators on Star Trek. Cooper himself has told this story in different ways over the years. In some interviews and in at least one documentary, he linked the idea to Star Trek's communicator. At other times he has pointed instead to Dick Tracy's 2-Way Wrist Radio, the comic strip gadget he remembered from his youth.",
+        "So what is the truth? We can only say that these are Cooper's own later memories, told decades after the events. Memories change as we retell them, and a fun story sometimes grows in the telling. What we can say for certain is that Motorola had very practical reasons to build a handheld phone, including its long experience with portable radios and its battle with AT&T over who would run cellular service. Science fiction may have helped people imagine the future, but engineering, business and government decisions did the heavy lifting."
+      ]
+    },
+    {
+      "heading": "Ten Long Years of Waiting",
+      "paragraphs": [
+        "You might think that after such a dramatic demonstration, everyone could buy a cell phone the next year. Not at all! It took about another ten years, and Motorola spent more than 100 million dollars on development, before a handheld cellular phone went on sale in the United States.",
+        "There were three big hurdles. First, the government. The FCC had to decide which radio frequencies to give to cellular service and who could use them. Cooper spent roughly a decade traveling to Washington, meeting officials and arguing that competing companies, not just AT&T, should be allowed to run cellular networks. In the end, the FCC decided that each city would have two cellular companies: one connected to the local telephone company and one independent competitor.",
+        "Second, the networks. A handheld phone is useless without towers to talk to, and building a cellular network meant putting up many base stations, linking them to computers that could hand calls from cell to cell, and testing everything. Bell Labs began a trial of its cellular system, called AMPS (Advanced Mobile Phone System), in Chicago in 1978, first with about 100 test units and then with a service test of about 2,000 paying customers. Bell Labs had been developing AMPS since 1968.",
+        "Third, the phone itself. The 1973 prototype was a demonstration, not a product. Motorola's engineers spent years making the phone lighter, more reliable, and able to work on the real AMPS network. They went through several versions. By 1983 the handset weighed about half as much as the original prototype."
+      ]
+    },
+    {
+      "heading": "Tokyo, Scandinavia and Chicago Switch On",
+      "paragraphs": [
+        "While the Americans argued about rules, other countries moved ahead. In 1979 the Japanese telephone company NTT (Nippon Telegraph and Telephone) launched the world's first commercial cellular network in Tokyo. It was designed for car phones, and within about five years it had spread across Japan, making it one of the first cellular systems to cover a whole country. Japan, as you will see in Part 6, would keep surprising the world with its phones.",
+        "Next came the Nordic countries: Sweden, Norway, Denmark and Finland. Their phone companies worked together on a shared system called NMT (Nordic Mobile Telephone). The Swedish company Ericsson ran an early NMT pilot in Saudi Arabia from September 1, 1981, with about 1,200 users. Then NMT opened in Sweden in October 1981 and Norway in November 1981, followed by Denmark and Finland in 1982. NMT used radio frequencies around 450 megahertz.",
+        "NMT had a feature that was amazing for its time: roaming. A customer could drive from Sweden into Norway or Finland and keep using the same phone, because all the countries used the same standard. NMT also dialed calls automatically and handed calls from cell to cell from the start. By 1985 it had about 110,000 subscribers across Scandinavia and Finland, about 63,300 of them in Norway alone, making it the largest mobile phone network in the world at that time.",
+        "NMT kept growing. In 1986 a new version called NMT-900, using higher frequencies with room for more channels, was added, and over the following years NMT networks opened in many other countries, from Switzerland and Poland to Russia, Thailand and China. Nokia, then a Finnish company better known for many other products, built NMT phones such as the Mobira Cityman 150 of 1989. You will hear much more about Nokia in later parts.",
+        "In the United States, the big day was October 13, 1983. Ameritech, the regional telephone company serving the Chicago area, officially launched commercial AMPS cellular service. Celebratory first calls were made that day near Soldier Field, Chicago's football stadium, and according to accounts of the launch, one of them went all the way to Germany, to a grandson of Alexander Graham Bell. It was a neat way of linking the first telephone to the first American cellular service.",
+        "These first-generation, or 1G, networks were analog. That means your voice traveled as a smooth radio wave that copied the shape of the sound wave, rather than being turned into digital numbers. AMPS used frequencies around 800 to 900 megahertz, and each conversation used a pair of channels, one for each direction. Each city's two carriers started with 333 channel pairs each, hundreds more than the dozen or so channels of the old car phone systems, and because the channels could be reused in cell after cell, the network could carry far more calls than ever before."
+      ]
+    },
+    {
+      "heading": "How the Brick Made a Call",
+      "paragraphs": [
+        "Let's follow a single call on the new American network in 1984, step by step, to see how different it was from the old car phones.",
+        "When you switched on your DynaTAC, it did not just wait silently. It listened to special control channels, which are like a radio noticeboard that each cell tower uses to send instructions. On AMPS, each carrier set aside 21 control channels for this job. Your phone picked the strongest control signal nearby, which told it which cell it was in.",
+        "To call someone, you typed the number on the keypad, checked it on the red display, and pressed 'Snd.' The phone sent the number and its own identity to the tower over the control channel. A computer at the network's switching center checked that you were a paying customer, picked a free voice channel in your cell, and told your phone to tune to it. Then it connected you through the ordinary telephone network to the person you were calling. No operator was involved at all.",
+        "Now imagine you were walking or being driven across town while talking. As you moved away from one tower, your signal grew weaker there and stronger at the next tower. The switching computer noticed, chose a free channel in the new cell, and told your phone to jump to it. This handoff took only a moment, so you usually heard nothing more than a tiny click. Meanwhile, the channel you had just left became free for someone else in the old cell.",
+        "Your voice traveled as an analog signal, using a method called frequency modulation (FM), the same basic method used by FM music radio. The radio wave's frequency wiggled up and down in step with your voice. That kept the sound fairly clear, but it had a downside: anyone with the right scanner radio could listen in, so calls were not private. Making calls secret and squeezing more calls into the same frequencies were two big reasons engineers later switched to digital phones, as Part 3 explains.",
+        "Around the world, other first-generation networks followed in the mid-1980s, such as West Germany's C-Netz in 1985. Even so, mobile phones stayed rare for years. In Japan, home of the very first cellular network, only about 0.15 percent of people had a mobile phone subscription in 1989. The technology worked; it was simply far too expensive for most families."
+      ]
+    },
+    {
+      "heading": "The Brick Goes on Sale",
+      "paragraphs": [
+        "Motorola unveiled its finished phone, the DynaTAC 8000X, on March 6, 1983. The FCC approved it on September 21, 1983, making it the first handheld cellular phone approved for sale in the United States. Large-scale production began in early 1984, and many eager buyers put their names on waiting lists.",
+        "What did you get? A phone about 25 centimeters (10 inches) tall that weighed about 790 grams (1.75 pounds), roughly as much as three cans of soda. It had a keypad with 12 number keys plus extra buttons with labels such as 'Rcl' (recall), 'Snd' (send) and 'Pwr' (power). A glowing red LED display showed the digits you dialed, and the phone could remember 30 phone numbers. A full charge took about 10 hours and gave about 30 minutes of talk time. There were no apps, no camera, no texting and no games. It made phone calls, and that was all.",
+        "And the price? 3,995 dollars. That is roughly 12,000 dollars in today's money, about as much as a small used car. On top of that, customers paid monthly fees and high charges for every minute they talked. Not surprisingly, early buyers were mostly wealthy businesspeople, stockbrokers, doctors and celebrities.",
+        "Because of its size, shape and weight, people quickly gave the DynaTAC a nickname that stuck: 'the brick.' Carrying one said something about you. It told everyone you were important, rich, and so busy that you needed to make calls from the sidewalk. In films and television of the 1980s, the brick phone became a symbol of power and money.",
+        "Owning a brick also took planning. Because the battery lasted only about half an hour of talking, many owners carried a spare battery, and Motorola offered a separate fast charger that could refill a battery in about an hour instead of ten. Phone calls dropped when you wandered outside the few cities that had cellular service, because towers had only been built in and around big urban areas. Still, for the first time, a person could stand on a street corner, at a beach, or in a stadium and talk to anyone with a telephone. Motorola kept making DynaTAC models for about ten years, and in 1989 it introduced a smaller, folding successor called the MicroTAC.",
+        "From the memo of 1947 to the brick of 1984, about 37 years had passed. A dream drawn as hexagons on paper had become a real phone in a real person's hand. But it was still huge, expensive, and could only carry voices. Over the next 15 years, engineers would shrink phones until they fit in a shirt pocket, slash their prices so that teenagers could own them, and teach them a brand-new trick: sending words, not just voices. That is where Part 3 picks up the story."
+      ]
+    }
+  ],
+  "deepDive": "The cellular idea works because of frequency reuse, and a little geometry shows why it is so powerful. Engineers group neighboring cells into clusters, often seven cells in a classic hexagonal layout, and give each cell in the cluster a different set of channels. The same pattern then repeats across the city. The minimum distance between two cells using the same channels is D = R times the square root of 3N, where R is the cell radius and N is the number of cells in a cluster. With N = 7, D is about 4.6 times the cell radius, far enough that the weak signals barely interfere. In early AMPS, each carrier received 333 channel pairs (each voice channel 30 kilohertz wide in each direction). Divided across a 7-cell cluster, that is about 47 channels per cell. A city of 50 cells could therefore carry over 2,000 simultaneous calls on the same frequencies that once allowed a handful, and when a busy cell filled up, engineers could split it into smaller cells, multiplying capacity again. That was the key advantage over IMTS. The price was complexity: computers had to track which cell each phone was in and hand calls over within a fraction of a second, which is why the concept of 1947 could not be built until the 1970s and 1980s. Historians and engineers also discuss credit. Bell Labs engineers conceived cells and handoffs; Motorola built the first handheld cellular phone. In 2013 the National Academy of Engineering awarded the Charles Stark Draper Prize jointly to Martin Cooper, Joel Engel, Richard Frenkiel, Thomas Haug (a key figure behind NMT) and Yoshihisa Okumura (who worked on NTT's system), recognizing that many people built mobile phones. Sources also disagree on details: the 1973 prototype's weight is given as about 1.1 kg in some accounts, while Motorola's 1973 announcement spoke of about 1.4 kg (3 pounds), and DynaTAC talk time is quoted as 30 to 60 minutes. That is a good reminder to compare sources.",
+  "funFact": "On the day American cellular service launched in Chicago, October 13, 1983, one of the celebratory calls is said to have gone to Germany, to a grandson of Alexander Graham Bell.",
+  "check": {
+    "q": "Whom did Martin Cooper call during the first public handheld cellular phone call on April 3, 1973?",
+    "a": "Joel Engel, his rival at Bell Labs",
+    "wrong": [
+      "His mother in Chicago",
+      "The President of the United States",
+      "Alexander Graham Bell"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Martin Cooper (inventor)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Martin_Cooper_(inventor)"
+    },
+    {
+      "title": "Motorola DynaTAC",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Motorola_DynaTAC"
+    },
+    {
+      "title": "Cell Phone Development (Motorola heritage)",
+      "publisher": "Motorola Solutions",
+      "url": "https://www.motorolasolutions.com/en_us/about/company-overview/history/explore-motorola-heritage/cell-phone-development.html"
+    },
+    {
+      "title": "Advanced Mobile Phone System",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Advanced_Mobile_Phone_System"
+    },
+    {
+      "title": "Nordic Mobile Telephone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nordic_Mobile_Telephone"
+    },
+    {
+      "title": "Cellular network",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cellular_network"
+    },
+    {
+      "title": "Richard H. Frenkiel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Richard_H._Frenkiel"
+    },
+    {
+      "title": "1G",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1G"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Martin Cooper holding the original Motorola DynaTAC prototype phone",
+      "search": "Martin Cooper DynaTAC"
+    },
+    {
+      "want": "A Motorola DynaTAC 8000X 'brick' phone from 1983–84, museum or product photo",
+      "search": "Motorola DynaTAC 8000X"
+    },
+    {
+      "want": "Diagram of a hexagonal cellular network showing frequency reuse in clusters of cells",
+      "search": "cellular network hexagon frequency reuse diagram"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "n": 16,
+  "title": "Above the Air: Hubble and the Space Telescopes",
+  "when": "1946 – today",
+  "summary": "Earth's air makes stars twinkle and blocks lots of light, so scientists dreamed of a telescope in space. In 1990 the Hubble Space Telescope finally flew, but its first pictures were blurry! Astronauts gave it 'glasses' in 1993, and since then Hubble has shown us thousands of faraway galaxies and baby stars being born.",
+  "sections": [
+    {
+      "heading": "The Problem With Air",
+      "paragraphs": [
+        "Picture yourself lying on the bottom of a swimming pool, looking up at a streetlight through the water. Even if the water is perfectly clear, every ripple makes the light wobble and dance. That is roughly what astronomers on the ground are doing. We live at the bottom of an ocean of air about 100 kilometers deep, and that air is always moving. Warm and cool pockets bend starlight in slightly different directions, many times a second. To our eyes, this makes stars twinkle. To a big telescope, it smears every star into a fuzzy, jittering blob.",
+        "The air causes a second, even bigger problem: it blocks light. As we saw in the last part, radio waves and visible light pass through Earth's atmosphere quite easily. But the ozone layer soaks up most ultraviolet light, water vapor swallows much of the infrared, and the air completely stops X-rays and gamma rays from space. That protection is wonderful for living things, because those rays can harm our cells. But for astronomers, it means whole parts of the universe are hidden behind a curtain.",
+        "So here is an important point. Space telescopes do not see better because they are closer to the stars. Hubble is only a few hundred kilometers above the ground, while even the nearest star beyond the Sun is about 40 trillion kilometers away. Being a few hundred kilometers closer makes no difference at all. Space telescopes see better because they are above the blurring, light-blocking air. Up there, stars shine as sharp, steady points, the sky is truly black even in daytime, and ultraviolet, X-ray and infrared light can reach the telescope.",
+        "People had dreamed of observatories in space since rockets were still science fiction. The German rocket pioneer Hermann Oberth wrote about a telescope in orbit in the 1920s. But the person who turned the dream into a serious scientific plan was Lyman Spitzer Jr., a young American astrophysicist. In 1946, just after the Second World War, he wrote a report for Project RAND, a research group working for the United States military, called Astronomical Advantages of an Extra-Terrestrial Observatory.",
+        "Spitzer was 32 years old, and the first satellite would not be launched for another 11 years. Yet he explained clearly what a big telescope in space could do: see far finer detail without the air's blur, study ultraviolet and infrared light that never reaches the ground, and observe faint objects against a perfectly dark sky. He suggested a telescope with a mirror several meters across, and he said that such a telescope might reveal the structure of galaxies and the size of the universe. For the next 50 years he never stopped arguing for it, in meetings, reports and visits to Washington. Many people later said that without Spitzer's steady pushing, the Hubble Space Telescope might never have been built."
+      ]
+    },
+    {
+      "heading": "First Eyes Above the Air",
+      "paragraphs": [
+        "Before anyone could launch a giant telescope, astronomers had to learn how to do any astronomy at all from space. The first attempts used rockets that zoomed above most of the atmosphere for just a few minutes before falling back. After the Second World War, American scientists packed instruments into captured German V-2 rockets and recorded the Sun's ultraviolet light for the first time in 1946.",
+        "In 1962 a team led by the Italian-born physicist Riccardo Giacconi launched a small X-ray detector on a rocket from New Mexico. They were hoping to see X-rays from the Moon. Instead they found an extremely bright X-ray source in the constellation Scorpius, now called Scorpius X-1, far beyond our solar system. Nobody had expected anything outside the Sun to glow so strongly in X-rays. It was the birth of X-ray astronomy.",
+        "Rocket flights were far too short for careful study, so the next step was satellites. NASA's Orbiting Astronomical Observatories studied ultraviolet starlight. OAO-2, launched in 1968, was the first truly successful one, and OAO-3, launched in 1972, was named Copernicus, honoring the 500th anniversary of the birth of the astronomer who put the Sun at the center, which fell the following year. It carried an ultraviolet telescope built by a team at Princeton led by none other than Lyman Spitzer.",
+        "X-ray astronomers got their own satellite on 12 December 1970. It was launched from an Italian-run platform in the sea off the coast of Kenya, because being close to the equator helped the rocket. That day was the seventh anniversary of Kenya's independence, so the satellite was named Uhuru, the Swahili word for freedom. Uhuru, built by Giacconi's team, made the first complete map of the sky in X-rays, listing 339 sources. It studied stars that were being torn apart by tiny, super-dense partners, and it helped show that one X-ray source, Cygnus X-1, contains an object so heavy and compact that it became one of the first strong candidates for a black hole. Giacconi later shared the 2002 Nobel Prize in Physics and became the first permanent director of the institute that runs Hubble's science.",
+        "Each of these missions taught engineers how to point a telescope precisely while racing around Earth, how to keep instruments working in the cold and radiation of space, and how to send data home by radio. They were the training ground for something much more ambitious."
+      ]
+    },
+    {
+      "heading": "The Mother of Hubble",
+      "paragraphs": [
+        "In the 1930s, an 11-year-old girl named Nancy Grace Roman, who had been born in Nashville, Tennessee, started an astronomy club with her friends. When she told a school guidance counselor that she wanted to take extra mathematics so she could become an astronomer, the counselor reportedly looked down her nose and asked what kind of lady would take mathematics instead of Latin. Roman did not listen. She earned a PhD in astronomy from the University of Chicago in 1949 and worked at Yerkes Observatory, home of the giant 40-inch refractor we visited earlier in this story.",
+        "In 1959, a year after NASA was created, Roman joined the new space agency, and in 1960 she became its first chief of astronomy. She was the first woman to hold an executive job at NASA. Her task was huge: decide what astronomy NASA should do in space, and then make it happen. She helped plan the Orbiting Astronomical Observatories and many other missions. But her greatest project was the one Spitzer had dreamed of, at first called the Large Space Telescope.",
+        "Building a giant telescope in space was not only a scientific problem. It was a money and politics problem. Roman brought astronomers together to agree on what the telescope should do, set up its science working groups starting in 1971, and helped convince members of the United States Congress to pay for it. In the mid-1970s Congress threatened to cancel the project. Spitzer, Roman and other astronomers lobbied hard, and to save money the planned mirror was shrunk from 3 meters to 2.4 meters. The European Space Agency joined as a partner, supplying a camera and the solar panels in exchange for observing time for European astronomers. In 1977 Congress finally approved the money.",
+        "Roman left NASA in 1979, long before launch, but she is often called the mother of Hubble because the telescope might not exist without her organizing and persuading. In 2020 NASA named its next big space telescope after her: the Nancy Grace Roman Space Telescope. In 1983 the Large Space Telescope got its own famous name, the Hubble Space Telescope, after Edwin Hubble, who had shown that the universe is full of galaxies. Hubble the astronomer had nothing to do with building it. He died in 1953, decades before it flew.",
+        "Construction was long and complicated. The main mirror was ground and polished by the Perkin-Elmer company in Connecticut from a special low-expansion glass that would not change shape much when it warmed or cooled. The telescope was planned to launch in 1983, then 1986. Then, in January 1986, the Space Shuttle Challenger broke apart shortly after launch, and all shuttle flights stopped for more than two years. Hubble waited in a clean room, carefully stored, while costs kept rising."
+      ]
+    },
+    {
+      "heading": "Launch Day, and a Terrible Surprise",
+      "paragraphs": [
+        "On the morning of 24 April 1990, the Space Shuttle Discovery roared away from the Kennedy Space Center in Florida on mission STS-31. Folded into its cargo bay was the Hubble Space Telescope: about 13 meters long, 4.2 meters wide, roughly the size of a school bus, and weighing about 11 tonnes. The next day, astronaut Steven Hawley used the shuttle's robotic arm to lift Hubble out of the cargo bay and release it into orbit about 610 kilometers above Earth (it has slowly sunk since, to under 500 kilometers today). Hubble began circling the planet roughly every 95 minutes, racing along at about 27,000 kilometers per hour, fast enough to cross the United States in about ten minutes.",
+        "Inside, Hubble works much like a Cassegrain telescope from part 7, just much bigger and far more precise. Light enters the open end of the tube and travels down to the 2.4-meter primary mirror, which is coated with a whisper-thin layer of aluminum. The curved mirror reflects the light back up to a smaller secondary mirror, about 30 centimeters across, which sends it back down through a hole in the middle of the primary mirror to the cameras and other instruments behind it. Hubble does not have an eyepiece; nobody looks through it. Its instruments are electronic detectors, and its pictures are radioed to the ground. To photograph faint galaxies, it must stay locked on a target with extraordinary steadiness, to within a tiny fraction of an arcsecond, which NASA compares to holding a laser beam on a dime about 320 kilometers (200 miles) away.",
+        "Excitement was enormous. Then, as engineers began testing and focusing the telescope in May and June 1990, they found something that made their stomachs drop. The images were blurry. A bright star did not shrink to a tight point; instead, it had a sharp center surrounded by a wide, fuzzy halo. No matter how they moved the secondary mirror, they could not bring it into focus. At a press conference in June 1990, NASA admitted that its brand-new, billion-dollar telescope had a flaw in its main mirror. Newspapers and late-night comedians mocked it as a giant mistake.",
+        "What had gone wrong? Not a forgotten focus knob. The mirror had been ground and polished extremely smoothly, among the smoothest large mirrors ever made, but to slightly the wrong shape. Near its outer edge, it was too flat by about 2.2 micrometers, roughly one-fiftieth the thickness of a sheet of paper. That tiny error was enough to cause spherical aberration, the same blurring problem from curved lenses that we met back in part 6: light from the edge of the mirror came to a focus at a slightly different place from light hitting the middle, so no single focus was sharp.",
+        "An investigation board, led by Lew Allen of NASA's Jet Propulsion Laboratory, tracked down the cause. While polishing the mirror, Perkin-Elmer had tested its shape using a device called a reflective null corrector, which shines light on the mirror and shows whether the curve is exactly right. One lens inside that testing device was out of position by about 1.3 millimeters, because a measuring rod had been set up wrongly. So the testing tool itself was wrong, and the polishers carefully and precisely shaped the mirror to match a faulty guide. Other simpler tests had hinted at a problem, but those warnings were not followed up. A backup mirror made by the Kodak company, which was never used, is now displayed at the Smithsonian's National Air and Space Museum.",
+        "The good news was hidden inside the bad news. Because the error was so precise and so well measured, engineers knew exactly how wrong the mirror was. And that meant they could design corrective optics with exactly the opposite error, just like the lenses in a pair of glasses. Hubble had been built to be visited and repaired by astronauts. Now that would be put to the test."
+      ]
+    },
+    {
+      "heading": "Glasses in Orbit: The Servicing Missions",
+      "paragraphs": [
+        "On 2 December 1993, the Space Shuttle Endeavour launched on mission STS-61, one of the most difficult and closely watched spaceflights in NASA's history. Its seven astronauts had trained for many months in giant water tanks, practicing every move in bulky spacesuits. After catching up with Hubble, astronaut Claude Nicollier, a Swiss astronomer flying for the European Space Agency, used the shuttle's robotic arm to grab the telescope and settle it upright in the cargo bay.",
+        "Then came five spacewalks on five days, a record at the time, totaling more than 35 hours. Working in pairs, Story Musgrave and Jeffrey Hoffman took turns with Kathryn Thornton and Tom Akers. They replaced Hubble's main camera with a new one, the Wide Field and Planetary Camera 2, which had the correction built into its own optics. They installed a refrigerator-sized box called COSTAR, which slid tiny corrective mirrors into the light path in front of the other instruments, like putting glasses on them. They also replaced wobbly solar panels, gyroscopes and other worn parts. One damaged solar array would not fold up properly, so after Akers disconnected it, Thornton let it go and it drifted away into space.",
+        "Weeks later, in January 1994, NASA showed before-and-after pictures. Stars that had been blurry blobs were now sharp pinpoints. The fix had worked. From then on, Hubble produced some of the sharpest images astronomers had ever seen, several times sharper than the best ground-based photos of that era.",
+        "Astronauts went back to Hubble four more times, so there were five servicing missions in all: 1993, 1997, 1999, 2002 and 2009. In February 1997 the crew of Discovery installed an infrared camera and a powerful spectrograph. In December 1999, after several gyroscopes failed, another Discovery crew replaced all six of them and gave Hubble a new computer. In March 2002, Columbia's astronauts installed the Advanced Camera for Surveys and new solar arrays. Each visit made the telescope better than it was at launch, a little like taking a car to the garage and getting it back with a brand-new engine.",
+        "Then came tragedy. In February 2003, the Space Shuttle Columbia broke apart while returning to Earth, and its seven astronauts were killed. In 2004 NASA's leader, Sean O'Keefe, cancelled the last planned Hubble servicing mission, worried it was too risky. Astronomers, schoolchildren and members of the public protested, and many wrote letters to save Hubble. In 2006 the next NASA administrator, Michael Griffin, decided the mission could go ahead with extra safety plans.",
+        "In May 2009, the Space Shuttle Atlantis made the final visit. Over five spacewalks, its crew installed the Wide Field Camera 3 and the Cosmic Origins Spectrograph, repaired two broken instruments that had never been designed to be fixed in space, and added new batteries and gyroscopes. They also removed COSTAR, because all the newer instruments now carried their own correction. COSTAR came home and is now in the National Air and Space Museum too. Astronaut Mike Massimino, who struggled with a stuck bolt during one repair, became one of the first people to post updates on Twitter from space during that mission. In all, 32 astronauts flew to Hubble, and spacewalkers spent more than 170 hours working on it."
+      ]
+    },
+    {
+      "heading": "Staring Into the Dark: The Deep Fields",
+      "paragraphs": [
+        "In 1995, Robert Williams, the director of the Space Telescope Science Institute in Baltimore, which runs Hubble's science, made a daring choice. As director he controlled a small share of Hubble's observing time to use as he saw fit. He decided to point the telescope at one tiny, empty-looking patch of sky in the constellation Ursa Major, near the Big Dipper, and simply stare at it for days. Some astronomers worried it was a waste of precious time. What if there was nothing there?",
+        "Between 18 and 28 December 1995, Hubble took 342 separate exposures of that patch, through filters for ultraviolet, blue, red and near-infrared light. The patch was only about 2.6 arcminutes wide, roughly one twelfth of the width of the full Moon, or about as big as a tennis ball seen from 100 meters away. It covered about one 24-millionth of the whole sky. Astronomers had chosen it precisely because it contained no bright stars or nearby galaxies that would get in the way.",
+        "When the combined image was released in January 1996, it stunned the world. The empty patch was crowded with about 3,000 objects, and nearly all of them were galaxies, not stars. Some were spirals and some were round blobs, many small, red and strangely shaped. Because light takes time to travel, the faintest of them were seen as they were billions of years ago, when the universe was young and galaxies were still forming and crashing together. This picture became known as the Hubble Deep Field.",
+        "The meaning was mind-boggling. If one tiny speck of sky holds thousands of galaxies, and the same is true in every direction, then the observable universe must contain an enormous number of galaxies, at least 100 billion and probably much more. Later deep views went even further. The Hubble Ultra Deep Field, collected in 2003 and 2004 in the southern constellation Fornax, combined about 11 days of exposures and showed about 10,000 galaxies in a patch about a tenth the width of the full Moon."
+      ]
+    },
+    {
+      "heading": "Pillars, Comets and the Age of the Universe",
+      "paragraphs": [
+        "On 1 April 1995, astronomers Jeff Hester and Paul Scowen of Arizona State University used Hubble to photograph part of the Eagle Nebula, a star-forming cloud about 6,500 to 7,000 light-years away in the constellation Serpens. The picture showed three huge, dark, finger-like columns of cold gas and dust rising up, lit from behind and eaten away at their edges by ultraviolet light from hot young stars nearby. Inside the columns, new stars are being born. The tallest pillar is about four light-years long, so it would take light four years to travel from its bottom to its top. The image, called the Pillars of Creation, became one of the most famous science pictures ever taken, printed on posters, book covers and T-shirts.",
+        "In July 1994, just months after its repair, Hubble had a front-row seat for a cosmic crash. A comet called Shoemaker-Levy 9 had been torn into more than 20 pieces by Jupiter's gravity, and over about six days the fragments slammed into the giant planet. Hubble photographed dark scars, some bigger than Earth, spreading in Jupiter's clouds. It was the first time people had watched two solar system bodies collide.",
+        "One of the main reasons Hubble was built was to measure the Hubble constant, which tells how fast the universe is expanding. Remember Henrietta Leavitt's Cepheid stars from part 12: their regular pulsing tells you their true brightness, so you can work out their distance. Hubble's sharp vision let a team led by Wendy Freedman find Cepheids in galaxies far beyond the reach of ground telescopes. In 2001 they announced a value of about 72 kilometers per second per megaparsec, with an uncertainty of about 10 percent, where before astronomers had argued over values that differed by a factor of two. Running the expansion backward tells you how long ago it began. Hubble's measurements, combined with maps of the cosmic microwave background from other spacecraft, helped pin the age of the universe at about 13.8 billion years.",
+        "Then came a shock. In 1998 two teams of astronomers, one led by Saul Perlmutter and the other including Brian Schmidt and Adam Riess, studied a kind of exploding star called a Type Ia supernova. These explosions all reach about the same peak brightness, so they work like standard light bulbs: the dimmer one looks, the farther away it is. Using ground telescopes, with Hubble measuring some of the most distant ones, the teams found that faraway supernovae were fainter than expected. That meant the expansion of the universe is not slowing down, as everyone had assumed, but speeding up. Something, now called dark energy, seems to be pushing space apart. Perlmutter, Schmidt and Riess shared the 2011 Nobel Prize in Physics. Nobody yet knows what dark energy really is.",
+        "Hubble has done far more besides. It has measured the masses of supermassive black holes at the centers of galaxies, found small moons of Pluto, watched auroras on Jupiter and Saturn, and helped detect the atmospheres of planets around other stars. By 2024 it had made more than 1.7 million observations, and astronomers had written more than 23,000 scientific papers using its data."
+      ]
+    },
+    {
+      "heading": "The Great Observatories, and Hubble Today",
+      "paragraphs": [
+        "Hubble sees mostly visible and ultraviolet light, plus a little near-infrared. To see the whole universe, NASA planned a family of four big space telescopes, called the Great Observatories, each looking at a different kind of light. Hubble was the first.",
+        "The second was the Compton Gamma Ray Observatory, launched by the Space Shuttle Atlantis in April 1991. Weighing about 17 tonnes, it was one of the heaviest science satellites ever carried by the shuttle. Compton studied gamma rays, including mysterious gamma-ray bursts, brief flashes that it showed come from all over the sky, from far beyond our galaxy. After one of its gyroscopes failed, NASA deliberately steered it down into the Pacific Ocean in June 2000 so that its heavy parts could not fall on anyone.",
+        "The third was the Chandra X-ray Observatory, named after the Indian-American astrophysicist Subrahmanyan Chandrasekhar. It was launched by the Space Shuttle Columbia in July 1999, on a mission commanded by Eileen Collins, the first woman to command a shuttle flight. X-rays are tricky to focus because they shoot straight into ordinary mirrors instead of bouncing off. So Chandra uses nested mirrors shaped like barrel-shaped tubes, which X-rays strike at a very shallow angle, like a stone skipping across water. Chandra studies exploded stars, hot gas in clusters of galaxies and matter swirling into black holes, and it is still working.",
+        "The fourth was the Spitzer Space Telescope, named after Lyman Spitzer and launched on a Delta II rocket in August 2003. It studied infrared light, so it had to be kept extremely cold, and instead of orbiting Earth it trailed behind Earth in its path around the Sun, away from Earth's warmth. Spitzer looked through dust clouds to see stars being born and measured light from planets around other stars. It kept working until January 2020. Together, the Great Observatories showed that the universe looks completely different in every kind of light.",
+        "And Hubble? More than 35 years after launch, it is still working, and it has not been replaced. The James Webb Space Telescope, which we meet in part 18, mainly sees infrared light, while Hubble mainly sees visible and ultraviolet light, so the two telescopes do different jobs and often team up. With no more shuttle visits, Hubble is slowly aging. Its gyroscopes, spinning wheels that sense how the telescope is turning, keep wearing out. Since 2024 Hubble has run on just one gyroscope at a time, keeping another in reserve, to stretch its life. This makes it a bit less efficient and unable to follow targets that move quickly across the sky, such as objects closer than Mars, but it can still do most of its science.",
+        "Its orbit is also very slowly sinking, because even at that height a faint trace of air drags on it. Someday, perhaps in the 2030s, it will need to be either boosted higher or guided safely down into the ocean. Until then, Hubble keeps circling, taking pictures that have changed how everyone on Earth imagines the universe. Space, though, was not the only place to fight the blur. Back on the ground, engineers were learning to build mirrors in pieces and bend them hundreds of times a second to undo the twinkling of the stars."
+      ]
+    }
+  ],
+  "deepDive": "Why exactly does a 2.4-meter telescope in orbit beat much larger telescopes on the ground? The answer is the difference between the diffraction limit and seeing. Every telescope has a theoretical sharpest detail it can show, set by its aperture and the wavelength of light: roughly 1.22 times the wavelength divided by the diameter. For Hubble at 500 nanometers this is about 0.05 arcseconds. A 10-meter telescope on the ground could in theory reach about 0.013 arcseconds, but the turbulent atmosphere typically blurs stars to 0.5 to 1 arcsecond even at the best mountain sites. So before adaptive optics, Hubble's images were often 10 to 20 times sharper in practice than those of much larger ground telescopes. A second advantage is the dark, stable sky: from orbit there is no airglow at many wavelengths, no clouds and no changing transparency, which makes Hubble excellent at precise measurements of brightness, essential for the supernova and Cepheid work behind the Hubble constant and dark energy. The mirror flaw is a classic engineering lesson. The primary mirror's shape, a hyperboloid in Hubble's Ritchey-Chretien design, was polished to within about 10 nanometers of the shape the faulty null corrector called for, but the conic constant came out about -1.0139 instead of the intended -1.0023. Investigators noted that two simpler test instruments had shown a disagreement that was dismissed because the null corrector was trusted as the most accurate tool. The lesson, test independently and take disagreements seriously, is now taught in engineering courses. There is also a lively debate about cost. Hubble cost about 4.7 billion dollars at launch (in 2010 dollars), and with servicing and operations its lifetime cost has grown past 10 billion, making it NASA's most expensive science mission. Supporters point to more than 23,000 scientific papers and an archive that scientists still mine for new discoveries. Today another debate continues over whether to boost Hubble's slowly sinking orbit; in 2024 NASA decided against a proposed private servicing mission, judging the risk to the telescope too high for now. Finally, Hubble's results helped open one of today's biggest puzzles: the Hubble tension. Measurements of the expansion rate from nearby Cepheids and supernovae come out near 73 km/s per megaparsec, while values inferred from the cosmic microwave background are near 67, and nobody yet knows why.",
+  "funFact": "The flaw that made Hubble's first pictures blurry was an error of only about 2.2 micrometers at the edge of its mirror, roughly one-fiftieth the thickness of a sheet of paper.",
+  "check": {
+    "q": "How did astronauts fix Hubble's blurry vision in December 1993?",
+    "a": "They installed corrective optics, like glasses, including a new camera and the COSTAR device",
+    "wrong": [
+      "They polished the mirror again while in orbit",
+      "They turned the focus knob that had been forgotten",
+      "They brought Hubble back to Earth and replaced the mirror"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Hubble Space Telescope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
+    },
+    {
+      "title": "Hubble by the Numbers",
+      "publisher": "NASA",
+      "url": "https://science.nasa.gov/mission/hubble/overview/about-hubble/hubble-by-the-numbers/"
+    },
+    {
+      "title": "Nancy Grace Roman",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nancy_Grace_Roman"
+    },
+    {
+      "title": "STS-61",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/STS-61"
+    },
+    {
+      "title": "Hubble Deep Field",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hubble_Deep_Field"
+    },
+    {
+      "title": "Pillars of Creation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pillars_of_Creation"
+    },
+    {
+      "title": "Great Observatories program",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Great_Observatories_program"
+    },
+    {
+      "title": "The Uhuru Satellite",
+      "publisher": "NASA HEASARC",
+      "url": "https://heasarc.gsfc.nasa.gov/docs/uhuru/uhuru.html"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The Hubble Space Telescope in orbit above Earth, photographed from a Space Shuttle during a servicing mission",
+      "search": "Hubble Space Telescope orbit servicing mission"
+    },
+    {
+      "want": "Astronauts on a spacewalk repairing Hubble during the 1993 STS-61 mission",
+      "search": "STS-61 spacewalk Hubble repair"
+    },
+    {
+      "want": "The 1995 Hubble photograph of the Pillars of Creation in the Eagle Nebula",
+      "search": "Pillars of Creation 1995 Hubble"
+    }
+  ]
+}

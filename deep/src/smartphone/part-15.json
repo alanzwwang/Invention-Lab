@@ -1,0 +1,154 @@
+{
+  "n": 15,
+  "title": "How It Works: Sensors and GPS",
+  "when": "1970s – today",
+  "summary": "Your phone has tiny machines inside that feel when you tilt, turn or walk. It has a compass, a light detector, and even a way to recognize your face. And it can find exactly where you are by listening to clocks flying in space!",
+  "sections": [
+    {
+      "heading": "Tiny Machines and the Weight on a Spring",
+      "paragraphs": [
+        "Pick up a phone, turn it sideways, and the picture on the screen spins around to match. Put it in your pocket and go for a walk, and at the end of the day it can tell you that you took 8,412 steps. Tilt it, and a racing car in a game steers left or right. None of this is magic. Hidden inside the phone are some of the smallest machines people have ever built, and they are moving right now, even while the phone lies still on a table.",
+        "These machines are called MEMS, short for micro-electromechanical systems. That is a long name for a simple idea: tiny mechanical parts, like springs, beams and weights, made on a chip together with electronics. The parts are measured in micrometres. One micrometre is a thousandth of a millimetre, and a human hair is roughly 70 to 100 micrometres thick. Many of the moving pieces inside a MEMS sensor are only a few micrometres wide, and a whole sensor can be smaller than a grain of rice.",
+        "The idea is older than you might think. In 1965, at the Westinghouse research labs in the United States, Harvey C. Nathanson's team built a device called the resonant-gate transistor, in which a tiny metal beam vibrated above a transistor. It is often named as one of the earliest MEMS devices. The word MEMS itself only became popular in the late 1980s. For years the biggest customer for these sensors was not phones but cars: a MEMS accelerometer can notice the sudden jolt of a crash in a few thousandths of a second and tell the airbag to inflate. By the time smartphones arrived, MEMS sensors were cheap, tiny and reliable, and phone makers grabbed them.",
+        "The most common motion sensor in a phone is the accelerometer, which measures acceleration, meaning any change in speed or direction. To understand it, imagine a small box with a heavy ball hanging inside on springs. If you suddenly push the box to the right, the ball lags behind for a moment and the springs on one side squash while the springs on the other side stretch. Measure how far the ball moved and you know how hard the box was pushed. That is an accelerometer.",
+        "Inside a phone, the ball is a tiny slab of silicon called a proof mass, and the springs are thin silicon beams. Sticking out from the proof mass are rows of little fingers, like the teeth of a comb, that sit between matching fingers fixed to the chip. When the mass shifts, the gaps between the moving fingers and the fixed fingers change. The chip measures this using capacitance, the same kind of electric effect your touchscreen uses (Part 10): as the gaps get smaller or larger, the amount of electric charge the fingers can store changes too. The changes are incredibly small, but the electronics can read them hundreds or even thousands of times a second.",
+        "Here is the clever part. Even when the phone is lying still, the accelerometer feels something: gravity. Gravity pulls the proof mass downward, just as it pulls you into your chair. A phone usually has three accelerometers in one package, arranged to measure along three directions at right angles to each other, often called x, y and z. By checking which direction gravity is pulling, the phone knows which way is down. If gravity is pulling toward the bottom edge, you are holding it upright; if gravity is pulling toward the side edge, you have turned it on its side, and the screen rotates.",
+        "Accelerometers are also very good at noticing rhythm. Each time you take a step, your body bounces up and down a little, and the phone feels a small bump. A step-counting app looks for that repeating pattern and counts the bumps, ignoring random shakes that do not fit. It can be fooled by a bumpy bus ride, but it is good enough that millions of people track their daily walking without wearing any extra gadget."
+      ]
+    },
+    {
+      "heading": "The Gyroscope: Feeling a Twist",
+      "paragraphs": [
+        "An accelerometer is great at sensing pushes and gravity, but it is not so good at measuring smooth turning. If you spin slowly in an office chair while holding a phone flat, gravity still points straight down the whole time, so the accelerometer barely notices. For turning, phones use a second sensor: the gyroscope.",
+        "Old-fashioned gyroscopes were spinning wheels. A spinning wheel resists being tilted, which is why a spinning top stays upright and why ships and aircraft once used big spinning gyroscopes to help them steer. But you cannot fit a whirling wheel inside a thin phone. So MEMS gyroscopes use a trick instead of a spinning wheel: they use a vibrating mass.",
+        "Picture a tiny weight that is constantly being shaken back and forth, thousands of times a second, like a pendulum on fast-forward. If the phone turns while the weight is moving, the weight gets nudged sideways. This sideways nudge is caused by the Coriolis effect, the same effect that makes giant storms on Earth swirl, because Earth is turning underneath the moving air. A merry-go-round shows the idea: if you try to roll a ball straight across a spinning merry-go-round, its path seems to curve. In the gyroscope, the sideways nudge is measured with comb-shaped fingers and capacitance, just like the accelerometer. The faster the phone turns, the bigger the nudge.",
+        "Gyroscopes made phones far better at games and at augmented reality, which means showing computer pictures mixed into a live camera view of the real world. When you look around a room through your phone's camera and a cartoon creature seems to stay sitting on the real floor, the gyroscope is measuring every tiny turn of your hand so the picture can be shifted to match. Gyroscopes also help keep photos and videos steady (Part 14) by sensing the shake of your hand. Apple added a gyroscope to the iPhone 4 in 2010, and soon gyroscopes became standard in smartphones."
+      ]
+    },
+    {
+      "heading": "A Compass, a Barometer and Two Little Eyes",
+      "paragraphs": [
+        "First comes the magnetometer, the phone's compass. Earth behaves like a giant, weak magnet, and its magnetic field points roughly toward the North and South Poles. A magnetometer measures the strength and direction of that field along three directions. Many phone magnetometers use the Hall effect, discovered by the American physicist Edwin Hall in 1879: when electric current flows through a material sitting in a magnetic field, the field pushes the moving charges slightly to one side, creating a small voltage that can be measured. From that, the phone works out which way north is, so your map can turn to face the same way you are facing. Because metal objects, speakers and magnets nearby can confuse it, a map app sometimes asks you to wave your phone in a figure-eight. That movement helps the software figure out which part of the magnetic reading comes from the phone itself and which comes from Earth.",
+        "Next is the barometer, which measures air pressure. Air has weight, and the air above us presses down on everything. The higher you go, the less air is above you, so the pressure drops. Near the ground, climbing about 8 or 9 metres, roughly one floor of a tall building plus a bit, lowers the pressure by about 1 hectopascal, which is about one-thousandth of the pressure at sea level. A MEMS barometer has a tiny, thin membrane sealed over a little chamber; as outside pressure changes, the membrane bends very slightly, and the bending is measured electrically. This lets a fitness app count how many flights of stairs you climbed, and it helps maps and emergency services guess which floor of a building you are on. Weather changes the pressure too, so phones combine the barometer with other information instead of trusting it alone. iPhones gained a barometer with the iPhone 6 in 2014, and many Android phones have one as well.",
+        "Then come the two little eyes near the top of the phone. One is the proximity sensor. When you make a phone call and lift the phone to your ear, the screen goes dark. That is not just to save power: without it, your cheek would tap buttons and might hang up the call or turn on the speaker. The proximity sensor sends out a tiny beam of invisible infrared light and watches for it to bounce back. If something is very close, like your ear, plenty of light reflects back, and the phone switches off the touchscreen until you move it away.",
+        "The other is the ambient light sensor, which measures how bright the room is. In a dark bedroom, a full-brightness screen would dazzle you; in bright sunshine, a dim screen would be impossible to read. The light sensor lets the phone turn its brightness up and down automatically. Some phones even measure the color of the light around you and shift the screen's colors slightly warmer or cooler so white looks white, like a piece of paper would under the same lamp. Together, these small sensors cost very little and use very little power, yet they make the phone feel as if it understands its surroundings."
+      ]
+    },
+    {
+      "heading": "Thirty-Something Clocks in the Sky",
+      "paragraphs": [
+        "Now for the most amazing sense of all: knowing exactly where on Earth you are. For that, your phone listens to satellites. The best known system is GPS, the Global Positioning System, built and run by the United States military and today operated by the US Space Force. It is free for anyone in the world to use.",
+        "By the early 1970s, the US Air Force and Navy each had their own ideas for navigating by satellite, and they were competing. In 1973, an Air Force officer and engineer named Colonel Bradford Parkinson was put in charge of bringing those ideas together. Over the Labor Day weekend that year, he gathered a small group of officers and engineers in nearly empty offices at the Pentagon, a gathering later nicknamed the 'Lonely Halls' meeting. In those few days they sketched the basic plan for the system that became GPS, which was officially called NAVSTAR. Parkinson is often called the father of GPS, though he has always pointed out that many people contributed, including the engineers Ivan Getting and Roger Easton, whose earlier work on satellite timing was important.",
+        "The first GPS test satellite was launched on February 22, 1978. GPS was originally built for the military, but a sad event changed its future. In 1983, Korean Air Lines Flight 007, a passenger jet with 269 people on board, drifted off course because of a navigation error and was shot down after it strayed into Soviet airspace. Afterwards, President Ronald Reagan announced that GPS would be made available for civilian use once it was ready, so that ordinary aircraft and ships could know exactly where they were.",
+        "By 1993 enough satellites were in orbit for the system to work, and full operation was declared in April 1995. But there was a catch. For civilians, the US military deliberately added small errors to the signals, a feature called Selective Availability, so that enemies could not use GPS for precise targeting. Ordinary receivers could only find their position to within about 100 metres, about the length of a football field. Then, in May 2000, President Bill Clinton ordered Selective Availability turned off. Almost overnight, a basic receiver could find itself to within about 5 to 10 metres. That single decision helped make phone maps, car navigation and later games like Pokémon Go possible.",
+        "Today GPS uses a constellation, or group, of about 31 working satellites. They fly about 20,200 kilometres above Earth, more than fifty times higher than the International Space Station, and each one circles the planet about twice a day, taking just under 12 hours per orbit. They are spread across six different orbital paths so that, from almost anywhere on Earth, at least four satellites are above the horizon at any moment, and usually more."
+      ]
+    },
+    {
+      "heading": "How Your Phone Finds Itself",
+      "paragraphs": [
+        "Here is the surprising secret of GPS: the satellites do not know where you are, and they never hear from your phone at all. Your phone does not send anything to them. Each GPS satellite is simply a very accurate clock in space, constantly broadcasting a message that says, in effect, 'I am satellite number such-and-such, I am at this exact spot, and the time right now is this.' Your phone just listens.",
+        "Radio signals travel at the speed of light, about 300,000 kilometres per second. So when a message arrives, your phone compares the time stamped on it with the time it was received. Suppose the message took about 0.07 seconds to arrive. Multiply 0.07 seconds by 300,000 kilometres per second and you get about 21,000 kilometres. Now the phone knows it is somewhere on the surface of an imaginary giant ball with a radius of about 21,000 kilometres, centred on that satellite.",
+        "One satellite is not enough, because you could be anywhere on that ball. A second satellite gives a second ball, and the two balls cross in a circle. A third ball narrows the circle down to just two points, and usually only one of those is anywhere near Earth's surface. This method of finding a spot from distances is related to trilateration, an idea surveyors and mapmakers have used for a long time.",
+        "So why does the phone need at least four satellites? Because of clocks. Each GPS satellite carries atomic clocks, which use the steady vibrations of atoms to keep time so accurately they would drift by only a tiny fraction of a second over many years. Your phone cannot carry an atomic clock; its clock is cheap and wobbly. And timing matters enormously: since light travels about 300 metres in one millionth of a second, a clock error of just one microsecond would put you 300 metres off. The fourth satellite gives the phone one more measurement, which lets it solve for the error in its own clock as well as its three position numbers: east-west, north-south and up-down. In effect, GPS turns your phone's cheap clock into a very precise one.",
+        "Then there is Einstein. Albert Einstein's theories of relativity say that time does not tick at the same rate everywhere. His special theory of relativity (1905) says moving clocks tick slightly slower, and GPS satellites race along at nearly 4 kilometres per second, so their clocks lose about 7 microseconds a day. His general theory of relativity (1915) says clocks tick slightly faster where gravity is weaker, and gravity is weaker high above Earth, so the satellite clocks gain about 45 microseconds a day. Put together, the satellite clocks run about 38 microseconds a day fast compared with clocks on the ground. That sounds tiny, but remember: one microsecond is about 300 metres of error. If engineers did not correct for relativity, GPS positions would drift off by roughly 10 kilometres every single day. So the satellite clocks are deliberately set to tick slightly slow before launch, and the system makes further corrections. Every time your phone shows the blue dot in the right place, it is quietly proving Einstein right.",
+        "GPS is no longer alone. Russia runs GLONASS, which became fully working in the 1990s; the European Union runs Galileo, which started offering services in 2016; and China runs BeiDou, which completed its global network in 2020. India (NavIC) and Japan (QZSS) have regional systems too. Together, all of these are called GNSS, global navigation satellite systems. Most modern phones listen to several of them at once, so they can see many more satellites, which makes positions faster and more accurate, especially between tall buildings. Some newer phones also use a second GPS frequency, called L5, which helps them tell the true signal apart from bounced echoes."
+      ]
+    },
+    {
+      "heading": "The Mathematician Who Measured the Shape of the Earth",
+      "paragraphs": [
+        "There is a hidden problem in everything we just described. To turn satellite timing into a position on a map, you need to know exactly what shape Earth is. And Earth is not a perfect ball. It bulges at the equator because it spins, it is slightly flattened at the poles, and its gravity is a little stronger in some places than others because of mountains, ocean trenches and heavy rocks deep underground. If you use the wrong shape, your answers come out wrong.",
+        "One of the people who helped solve this problem was Gladys West. She was born in 1930 in Dinwiddie County, Virginia, into a farming family, and she studied hard because she saw education as her way to a different life. She earned a scholarship to Virginia State College (now Virginia State University), where she studied mathematics. In 1956 she was hired at the US Naval Proving Ground in Dahlgren, Virginia, as a mathematician, becoming only the second Black woman ever hired there.",
+        "At Dahlgren, West worked on huge computer programs that processed data from satellites. From the mid-1970s into the 1980s, she programmed an IBM computer to calculate an extremely detailed model of Earth's shape, called the geoid: an imaginary surface that shows where the average sea level would be all over the planet if water could flow freely under the continents. The geoid is lumpy, rising and falling by tens of metres. She also worked on Seasat, a satellite launched in 1978 that measured the ocean's surface with radar, and on later satellite projects. Careful models of Earth's shape like the ones she worked on became part of the foundation that lets GPS turn timing measurements into accurate positions.",
+        "For decades, almost nobody outside her workplace knew about her contribution. She retired in 1998 after 42 years at Dahlgren, and only around 2018 did her story become widely known, when she was inducted into the US Air Force Space and Missile Pioneers Hall of Fame. In 2021 she became the first woman to receive the Prince Philip Medal from Britain's Royal Academy of Engineering. She lived to the age of 95. Her story is a good reminder that great inventions are rarely the work of one famous name. Behind every blue dot on a map are the quiet calculations of people like her."
+      ]
+    },
+    {
+      "heading": "Your Finger and Your Face as a Key",
+      "paragraphs": [
+        "A phone holds your messages, photos and sometimes even your money, so it needs a good lock. For years, the lock was a four-digit code, a password or a pattern you swiped with your finger. These work, but they can be slow, and someone looking over your shoulder can spot them. So phone makers turned to biometrics: using parts of your body, like your fingerprint or your face, as the key.",
+        "Fingerprint readers on phones were not new in 2013. A few phones in the 2000s and early 2010s had them, but they were often fussy and unreliable. Apple had bought a fingerprint-sensor company called AuthenTec in 2012 for about 356 million dollars, and on September 10, 2013, it introduced Touch ID on the iPhone 5s. The sensor sat under the home button, covered by a disc of scratch-resistant sapphire crystal and surrounded by a stainless steel ring that sensed when your finger arrived. Like a touchscreen, it worked with capacitance, but at very high detail: about 500 dots per inch, fine enough to map the ridges and valleys of your skin. The ridges touch the sensor and the valleys sit a little farther away, and the sensor can feel the difference. It could recognize your finger from any angle.",
+        "Four years later, on September 12, 2017, Apple introduced the iPhone X with Face ID, which unlocked the phone simply by looking at it. A set of parts at the top of the screen, called the TrueDepth camera, does three jobs. A flood illuminator washes your face in invisible infrared light, so it works even in the dark. A dot projector, using a tiny laser, sprays more than 30,000 invisible infrared dots onto your face. An infrared camera then photographs the pattern. Because the dots land closer together or farther apart depending on the curves of your nose, cheeks and chin, the phone can build a three-dimensional map of your face, which is much harder to fool with a flat photo than an ordinary camera picture would be.",
+        "Apple said the chance of a random stranger unlocking your phone with Touch ID was about 1 in 50,000, and with Face ID about 1 in 1,000,000. It also admitted the odds were not as good for identical twins, close siblings and children under 13, whose faces may be still developing. Importantly, the fingerprint or face data is not a photo stored on the internet. It is turned into a mathematical description and kept in a protected part of the phone's chip, called the Secure Enclave, which is designed so that apps, and even Apple, cannot read it.",
+        "Android phone makers built their own versions too: fingerprint readers on the back, on the side button, and later hidden under the screen itself, using either a tiny camera that photographs your fingerprint through gaps between the pixels or sound waves (ultrasound) that bounce off the ridges of your skin. Some phones also offer face unlocking. Biometrics are not perfect, and a code is still kept as a backup, but they made locking a phone so easy that far more people actually do it."
+      ]
+    },
+    {
+      "heading": "Sensors Working as a Team",
+      "paragraphs": [
+        "Each sensor on its own has weaknesses. The accelerometer is jittery. The gyroscope slowly drifts if you trust it for too long. The compass gets confused by a nearby metal table. GPS disappears inside tunnels and is slow to notice small movements. But when the phone combines all of them, each one covers for the others. Engineers call this sensor fusion.",
+        "Think about walking through a city with a map app open. GPS tells the phone roughly where you are every second or so. The accelerometer counts your steps and notices when you stop. The gyroscope and compass tell it which way you are facing, which is why the blue dot on the map has a little beam showing your direction. If you walk into a tunnel or a big shopping mall and lose the satellites, the phone can keep guessing your path for a while by counting steps and turns, a method sailors would recognize as dead reckoning, then snap back to the right spot when GPS returns.",
+        "Sensors can even help save lives. Apple added fall detection to the Apple Watch in 2018: if the watch's sensors feel a hard fall followed by stillness, it asks if you are okay and can call emergency services if you do not answer. Google added car crash detection to some of its Pixel phones starting in 2019, and Apple added Crash Detection to the iPhone 14 in 2022. These features look for the combination of a huge, sudden jolt, a big change in speed, the loud noise of a collision picked up by the microphones, and a sudden change in air pressure as airbags burst open. Google has also used the accelerometers in millions of Android phones as a giant network of tiny earthquake detectors: when many phones in one area feel the first shaking at once, the system can send a warning to phones farther away, sometimes seconds before the strongest shaking arrives.",
+        "Step back and think about it. A small slab in your pocket can feel gravity, sense turning, find north, measure the air, see your face, and listen to clocks in space that are corrected using Einstein's theories. It is a laboratory full of instruments. Yet when most people think about why they love their phones, they do not think about MEMS gyroscopes or atomic clocks at all. They think about what the phone lets them do: chat with friends, play games, take photos, order food, find their way home. All of that comes from software, the programs we call apps. The hardware made the smartphone possible, but it was apps that made people fall in love with it, and in Part 16 we will see how one online store opening in July 2008 set off an explosion of millions of them."
+      ]
+    }
+  ],
+  "deepDive": "GPS is really a timing system that happens to give positions. Each satellite broadcasts its orbit and the time from onboard atomic clocks; a receiver measures 'pseudoranges', distances that include an unknown error from its own cheap clock. With four or more satellites the receiver solves four unknowns at once: three position coordinates and its clock offset. That is why GPS is also the world's most widely used source of precise time, used by mobile networks, power grids and banks to keep their systems in step. Because light covers about 30 centimetres in a nanosecond, timing errors translate directly into distance errors, so everything that delays a signal matters: the charged upper atmosphere (ionosphere) slows signals by an amount that depends on frequency, which is why dual-frequency receivers (L1 plus L5) can cancel much of that error; water vapour in the lower atmosphere adds more delay; and in 'urban canyons' signals bounce off buildings and arrive late, a problem called multipath. Relativity is the famous correction. Special relativity slows the moving satellite clocks by roughly 7 microseconds a day, while general relativity speeds them up by roughly 45 microseconds a day because gravity is weaker at about 20,200 km; the net effect is about +38 microseconds a day. The satellite clock frequency is offset before launch (from 10.23 MHz to about 10.22999999543 MHz) to compensate, and receivers add a small extra correction because the orbits are slightly elliptical. Historians debate who deserves credit for GPS. Bradford Parkinson led the joint program and its 1973 design; Roger Easton's Naval Research Laboratory work on space clocks (the Timation satellites) and Ivan Getting's early advocacy at the Aerospace Corporation were also crucial, and Gladys West's geodesy work belongs to the wider effort to model Earth precisely. In 2019 four GPS pioneers, including Parkinson, shared the Queen Elizabeth Prize for Engineering. On the biometrics side, the quoted false-match rates (1 in 50,000 for Touch ID, 1 in 1,000,000 for Face ID) are the manufacturer's statistical claims for a random person, not guarantees; security researchers have occasionally fooled both systems with elaborate fakes, which is why a passcode remains required after restarts.",
+  "funFact": "If engineers did not correct GPS satellite clocks for Einstein's relativity, the positions they give would drift by roughly 10 kilometres every day.",
+  "check": {
+    "q": "Why does a phone need signals from at least four GPS satellites, not just three?",
+    "a": "The fourth lets it work out the error in its own clock as well as its position",
+    "wrong": [
+      "The fourth satellite tells the phone what country it is in",
+      "Each satellite only works for six hours a day",
+      "The fourth satellite sends the map pictures"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Global Positioning System",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Global_Positioning_System"
+    },
+    {
+      "title": "GPS.gov: Official U.S. government information about the Global Positioning System",
+      "publisher": "U.S. National Coordination Office for Space-Based PNT",
+      "url": "https://www.gps.gov/"
+    },
+    {
+      "title": "Bradford Parkinson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bradford_Parkinson"
+    },
+    {
+      "title": "Gladys West",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gladys_West"
+    },
+    {
+      "title": "Microelectromechanical systems",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Microelectromechanical_systems"
+    },
+    {
+      "title": "Accelerometer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Accelerometer"
+    },
+    {
+      "title": "Touch ID",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Touch_ID"
+    },
+    {
+      "title": "Face ID",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Face_ID"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Artist's illustration or photo of a GPS satellite (such as a GPS Block IIF or GPS III satellite) in orbit above Earth",
+      "search": "GPS satellite Block IIF orbit"
+    },
+    {
+      "want": "Microscope photo of a MEMS accelerometer or gyroscope chip showing its comb-like silicon structures",
+      "search": "MEMS accelerometer microscope comb"
+    },
+    {
+      "want": "Portrait photo of mathematician Gladys West, whose Earth-shape modeling helped GPS",
+      "search": "Gladys West mathematician"
+    }
+  ]
+}

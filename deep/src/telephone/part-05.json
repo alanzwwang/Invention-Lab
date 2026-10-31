@@ -1,0 +1,151 @@
+{
+  "n": 5,
+  "title": "Dreamers of the Talking Wire",
+  "when": "1850s – 1875",
+  "summary": "Long before anyone made a real phone call, a few dreamers believed a wire could carry a human voice. A French telegraph worker wrote about it, a German teacher built a wooden ear that sent music, and an Italian inventor in New York tinkered for years in his house. Meanwhile, inventors raced to make one wire carry many messages at once, using musical notes.",
+  "sections": [
+    {
+      "heading": "A Wild Idea in a Paris Magazine",
+      "paragraphs": [
+        "By the 1850s the electric telegraph was clicking away across Europe and America. Messages that once took days now took minutes. But every one of those messages had to be squeezed into a code of short and long pulses, tapped out by a trained operator and decoded by another trained operator at the far end. Nobody could simply pick up a wire and talk. To most people, the idea of sending an actual voice along a wire sounded like a fairy tale.",
+        "One young man thought differently. His name was Charles Bourseul. He was born in Brussels, Belgium, on 28 April 1829, grew up in the town of Douai in northern France, and went to work for the French telegraph service. He spent his days around batteries, wires and electromagnets, and he knew how they behaved. He also knew something about sound: that every voice is really a pattern of vibrations in the air.",
+        "In 1854, when Bourseul was only about 25, a short article describing his idea appeared in L'Illustration, a popular illustrated magazine in Paris. A French postal history document dates the article to 26 August 1854. In it, Bourseul imagined a person speaking close to a thin, flexible metal disc. The disc would shake back and forth with every vibration of the voice. Each time it shook, it would open and close an electric circuit connected to a battery. At the far end of the wire, a second disc, pulled by an electromagnet, would shake in exactly the same rhythm and, he hoped, recreate the sound.",
+        "Bourseul was confident. He predicted that, sooner or later, speech would be carried by electricity. Some readers thought it was a charming daydream. A French writer later remarked that before 1854 hardly anyone had dared to believe that speech could be sent electrically at all.",
+        "There was one big problem: Bourseul never built a working version. His idea used what engineers call a \"make-and-break\" circuit, where the current is switched fully on and fully off. That works well for telegraph clicks, but, as we will see, it turns out to be a poor way to copy the smooth, rich shape of a human voice. Still, Bourseul had done something important. He had written down, clearly and publicly, the basic plan that every telephone would follow: turn sound vibrations into electrical changes, send them along a wire, and turn them back into vibrations at the other end.",
+        "Bourseul kept working for the telegraph service for many years and made improvements to telegraph equipment. He lived until 23 November 1912, long enough to see telephones spread all over the world. Today a statue of him stands in the French town of Saint-Céré, where he died. He is a good reminder that inventions often begin as ideas on paper, years before anyone can make them work."
+      ]
+    },
+    {
+      "heading": "The Schoolteacher Who Carved an Ear",
+      "paragraphs": [
+        "Our next dreamer did not just write about a talking wire. He built one. Johann Philipp Reis was born on 7 January 1834 in Gelnhausen, a small town in the German region of Hesse. His life started hard. His mother died when he was a baby, and his father, a baker, died before Philipp turned ten. His grandmother raised him.",
+        "Reis was a bright, curious boy. He went to a school called Garnier's Institute in the town of Friedrichsdorf, near Frankfurt, where he learned French and English, and later studied Latin and Italian in Frankfurt. His uncle wanted him to become a merchant, so in 1850 the teenage Reis was sent to work for a paint dealer. He did not enjoy it. In his spare time he taught himself mathematics and physics and joined Frankfurt's Physical Society, a club where scientists and science lovers met to hear lectures and see experiments.",
+        "After doing military service, Reis finally got the job he wanted. In 1858 Garnier's Institute invited him back as a teacher, and he married and settled in Friedrichsdorf in 1859. Now he had a classroom, students and a little workshop. He began thinking about how the human ear works.",
+        "Here is the clever part. Your ear has an eardrum, a thin skin stretched across a tube. When sound waves hit it, the eardrum vibrates. Tiny bones behind it pass those vibrations inward. Reis asked: what if I copied the ear, but made it control an electric current? According to the German Historical Museum in Berlin, his first transmitter was a carved wooden model of a human ear. For the eardrum he stretched a thin membrane made from pig intestine. On that membrane he attached a small platinum strip, and a platinum point touched it, a little like the ear's tiny bones. The platinum pieces were part of a circuit with a battery. When someone spoke or sang into the wooden ear, the membrane shook, and the platinum contact jiggled, changing the current flowing through the wire.",
+        "At the receiving end, Reis used a thin iron rod surrounded by a coil of wire. (Some versions famously used a knitting needle.) The rod sat on a wooden sounding box, like the body of a violin, to make the faint sound louder. When the changing current flowed through the coil, the iron rod changed very slightly in length and gave out tiny clicks and hums, which the box amplified. This effect, that iron can make sounds when magnetized and demagnetized quickly, had been noticed by the American scientist Charles Grafton Page in the 1830s. Reis built on it.",
+        "He named his device the \"Telephon\", from two Greek words meaning \"far\" and \"sound\". That is where our word telephone comes from, though Reis was not the very first person to use the word for a sound-sending gadget. By 1860 he had a prototype that could send sounds about 100 metres."
+      ]
+    },
+    {
+      "heading": "The Horse, the Cucumber Salad and a Philosophical Toy",
+      "paragraphs": [
+        "On 26 October 1861, Reis stood before the Physical Society of Frankfurt and gave a lecture with a very grown-up title: \"On Telephony by Galvanic Current.\" (Galvanic simply meant electricity from a battery.) He was 27 years old. He showed his Telephon sending a folk tune and some spoken words. Music came through much better than speech. Tunes are mostly about pitch, how fast something vibrates, and the Telephon was good at copying pitch. Speech is much more complicated.",
+        "Imagine being in Reis's experiments. One person stands in a room speaking into the transmitter. Another sits in a different room, ear pressed to the receiver box, trying to make out the words. To prove the listener was not just guessing a memorized sentence, the speakers used deliberately odd sentences that no one could predict. The most famous is \"Das Pferd frisst keinen Gurkensalat,\" which means \"The horse does not eat cucumber salad.\" Another reported test sentence was \"Die Sonne ist von Kupfer\" (\"The sun is made of copper\"). Accounts disagree on exactly when and by whom the cucumber salad sentence was spoken, and some call it a story that grew in the retelling, but it has become one of the most famous sentences in German science history. Even today German speakers sometimes use it as a joke about bad phone lines.",
+        "According to later accounts, one witness, a fellow teacher at Garnier's Institute named Peter, described how a listener in another room repeated sentences he had made up on the spot, and how amazed everyone was. Reis improved his design between 1861 and 1863, switching to a box-shaped transmitter that was easier to make. He sold copies to physics collections and science teachers. Instruments built to his design traveled to London, Dublin and even Tiflis (today Tbilisi, in Georgia). One made in London in 1863 by the instrument maker William Ladd survives today at the University of Aberdeen in Scotland. In 1862 an inspector of the Prussian telegraph service, Wilhelm von Legat, studied the Telephon and published a report on it.",
+        "So why didn't Reis become famous as the inventor of the telephone? The main reason is the way his transmitter worked. Like Bourseul's idea, it was mostly a make-and-break device. When the membrane vibrated, the platinum contact tended to open and close the circuit, turning the current on and off. On and off is fine for showing how fast something vibrates, which is why melodies came through. But a voice is not just pitch. The difference between the vowel \"ah\" and the vowel \"ee\" lies in the detailed shape of the sound wave: how strong each little part of the vibration is. A switch that is either fully on or fully off throws most of that shape away. What is needed instead is a current that rises and falls smoothly, copying the wave. Engineers later called this an undulating current. Reis's device sometimes passed a word or two, especially when the contact was adjusted so that it never fully broke, but it was never reliable for clear speech.",
+        "Reis also struggled to be taken seriously. A leading physics journal turned down his papers, and he is reported to have blamed this on being \"only a poor schoolmaster\". Some scientists treated the Telephon as a \"philosophical toy\", a clever gadget for lectures rather than a useful machine. Reis had tuberculosis, a serious lung disease, and his health got worse. He died on 14 January 1874, aged just 40, two years before Bell's famous patent.",
+        "Later, his device became part of the patent battles over the telephone. In one American court case a judge decided that Reis's make-and-break design could not have become a speaking telephone simply by being improved. Yet in 1947, engineers at the British company Standard Telephones and Cables tested a Reis instrument from 1863 and reported that, when carefully adjusted, it could pass speech of good quality but at very low volume. Those results were kept quiet for decades. Historians still debate how close Reis came. Germany remembers him proudly: a prize for achievements in communication technology carries his name, and a monument was raised over his grave in 1878."
+      ]
+    },
+    {
+      "heading": "A Theatre Wizard from Florence",
+      "paragraphs": [
+        "While Reis was growing up in Germany, a very different inventor was already on his second continent. Antonio Meucci was born on 13 April 1808 in Florence, Italy. As a teenager he studied at Florence's Academy of Fine Arts, learning drawing and mechanics. He went on to work backstage at the Teatro della Pergola, one of the city's famous theatres. Theatre technicians in those days were a bit like special-effects wizards: they built moving scenery, trapdoors and machinery. In 1834 Meucci married Esterre Mochi, a costume designer. According to accounts of his life, he also rigged up a speaking tube, a simple pipe that carried voices, so people on the stage could talk to the crew working the machinery.",
+        "In 1835 Antonio and Esterre sailed across the Atlantic to Havana, Cuba, where they both worked at the grand new Teatro Tacón, then one of the largest theatres in the Americas. Meucci stayed in Havana for about 15 years. Besides his theatre work, he experimented with electricity, which was then a fashionable and mysterious subject. Some people at the time believed electric shocks could cure illnesses, and Meucci experimented with this kind of treatment.",
+        "That is where one of the most famous stories about Meucci comes from. According to his own later account, around 1849 he was giving an electric treatment to a patient in another room, connected to him by a wire. When the patient cried out, Meucci said he heard the sound faintly through the apparatus near his own ear. He became convinced that electricity could carry the human voice and named his idea a \"telegrafo parlante\", a talking telegraph. We only know this story from Meucci's own descriptions years later, so historians treat it carefully. Still, it shows that by mid-century he was already chasing the same dream as Bourseul and Reis.",
+        "In 1850 the Meuccis left Cuba and moved to New York, settling in Clifton on Staten Island, then a quiet area of farms and villages across the harbour from Manhattan."
+      ]
+    },
+    {
+      "heading": "Candles, Garibaldi and the Telettrofono",
+      "paragraphs": [
+        "On Staten Island, Meucci needed to earn a living. He started a factory making tallow candles. One of the people who stayed in his house in the early 1850s was a remarkable guest: Giuseppe Garibaldi, the soldier and patriot who later became a hero of Italy's unification. Garibaldi was living in exile at the time, and he is said to have worked in Meucci's candle factory. Today the house is the Garibaldi-Meucci Museum on Tompkins Avenue, run since 1956 by the Order Sons and Daughters of Italy in America, with exhibits about both men.",
+        "In 1854 a sad change came. Esterre developed severe rheumatoid arthritis, a disease that makes joints painful and stiff, and she could no longer move around easily. Meucci, who worked in a laboratory in another part of the house, wanted to be able to talk to her from his workshop. According to his supporters, around 1856 he built an electrical voice link between her bedroom and his lab. Museum guides say he was using a talking device in the house at a time when Alexander Graham Bell was still a small child in Scotland. These claims rest mostly on Meucci's own notes and later testimony, and historians do not all agree on how well these early devices worked.",
+        "Meucci kept tinkering through the 1850s and 1860s. His supporters say he built more than 30 different versions of his device. He gave it a new name: the \"telettrofono\". In one account, in August 1870 he managed to send spoken words about a mile (1.6 kilometres) along a copper wire wrapped in cotton for insulation. He also wrote letters to Italian newspapers in 1865 describing his experiments.",
+        "Sadly, his inventive mind was not matched by good fortune. The candle business failed, and Meucci lost much of his money through bad deals and people he trusted. He never became comfortable in English, which made dealing with lawyers, businessmen and the patent office much harder. He was, in many ways, a brilliant inventor stuck on the outside of the system that could have made him rich."
+      ]
+    },
+    {
+      "heading": "A Ferry Explosion and a Ten-Dollar Notice",
+      "paragraphs": [
+        "In the summer of 1871, disaster struck. On 30 July, the boiler of the Staten Island ferry Westfield exploded at its dock in Manhattan, killing dozens of passengers and injuring many more. Meucci was among the injured. He was badly burned and needed months to recover. During this time the family was so short of money that, by his own account, his wife sold his drawings and models to a second-hand dealer.",
+        "Meucci still wanted to protect his idea. In December 1871 he and a few Italian friends signed an agreement to form a small company to develop the telettrofono. On 28 December 1871 he filed a caveat with the United States Patent Office. A caveat, as our glossary explains, was an old type of notice. It was not a patent. It was more like raising your hand and saying, \"I am working on this invention and plan to patent it soon.\" If someone else applied for a patent on the same thing while the caveat was active, the patent office was supposed to let the caveat holder know. Meucci's caveat, number 3335, was titled \"Sound Telegraph\".",
+        "A caveat lasted one year, and keeping it alive cost a fee each year. The US House of Representatives' 2002 resolution about Meucci mentions a fee of 10 dollars. Meucci renewed it for a few years, but after 1874 he did not, and the caveat lapsed. He later said he was simply too poor. Critics point out that he did manage to pay for several other full patents on different inventions in the 1870s, so the full reason is debated. Historians also argue about how much the short caveat text actually described an electrical telephone, since it did not explain clearly how the voice would be turned into electricity.",
+        "In 1872, Meucci and a friend went to Edward B. Grant, a vice president of the American District Telegraph Company in New York, hoping to test his invention on the company's wires. According to Meucci, his papers and model were left with the company and later said to be lost. Meucci always believed he had been treated unfairly. As later parts of this Deep Dive will show, his story became part of a long legal fight after 1876.",
+        "It is important to be fair here. Meucci was a real inventor who worked on voice transmission for many years, and he deserves to be remembered. But he did not receive a patent for a telephone, and the evidence about exactly what his devices could do is still argued about. Like Reis and Bourseul, he is one of the many people whose work came before the telephone that finally succeeded."
+      ]
+    },
+    {
+      "heading": "Many Messages on One Wire",
+      "paragraphs": [
+        "While the dreamers were trying to send voices, the big telegraph companies had a different, very practical worry: their wires were too busy. In the 1870s the largest American telegraph company, Western Union, ran wires on poles across the country. A normal telegraph wire could carry only one message at a time. If a company wanted to send more messages, it had to string more wire, which meant more poles, more workers, and much more money. Whoever found a way to send several messages along a single wire at the same time could become very rich.",
+        "Inventors attacked this problem in different ways. Thomas Edison, then a young telegraph inventor, built a \"quadruplex\" system in 1874 that could send four messages on one wire, two in each direction, by cleverly using both the direction and the strength of the current. But a group of inventors tried something that sounds more like music class: they used musical notes.",
+        "Here is the idea. Every vibrating object has a natural pitch. If you pluck a short, stiff steel strip, called a reed, it hums at one particular note. If you have a second reed tuned to exactly the same note, it will start to hum in sympathy when it \"hears\" that note, while reeds tuned to other notes stay quiet. This is called resonance. You can sometimes see it at home: sing a loud note near a piano with the sustain pedal down, and the matching strings will quietly hum back.",
+        "In a harmonic telegraph, the sending station has several reeds, each tuned to a different note, and each switched on by its own telegraph key. When an operator presses key number one, reed number one vibrates, sending a buzzing current at its pitch along the wire. Another operator can press key number two at the same moment, sending a different pitch. All the pitches travel together along one wire, mixed like several instruments playing at once. At the receiving station, a matching set of tuned reeds sits over electromagnets. Each receiving reed only responds to its own note, so it picks out its own message and ignores the others. In theory, one wire could carry many Morse code conversations at the same time.",
+        "In practice it was very hard. Reeds drifted out of tune, signals blurred together, and long wires weakened the tones. But the harmonic telegraph turned out to be a doorway. To make it work, inventors had to think deeply about how sound vibrations could be copied into an electric current and back again, and that is exactly the problem of the telephone. Two of the inventors racing to build a harmonic telegraph would become the main rivals in the telephone story: Elisha Gray and Alexander Graham Bell."
+      ]
+    },
+    {
+      "heading": "Elisha Gray, the Farm Boy Who Built Western Electric",
+      "paragraphs": [
+        "Elisha Gray was born on 2 August 1835 in Barnesville, Ohio, into a Quaker family, and grew up on a farm. He was fascinated by electricity and spent several years at Oberlin College in Ohio, where he experimented with electrical devices and built laboratory equipment, though he did not graduate. In 1865 he invented a self-adjusting telegraph relay, a device that helped weak telegraph signals keep working, and patented it in 1867. It was the first of more than 70 patents he would receive.",
+        "In 1869 Gray and a partner, Enos M. Barton, founded a company called Gray and Barton in Cleveland to make telegraph equipment, mostly for Western Union. The business soon moved to Chicago. In 1872 Western Union bought a third of the company, and it was renamed the Western Electric Manufacturing Company. Western Electric grew into one of the most important electrical manufacturers in America. In a twist of history, a few years later it would become the company that built telephones for Bell's own company.",
+        "So by the mid-1870s Gray was not a struggling outsider like Meucci or Reis. He was an experienced, respected inventor with money, workshops and connections to the biggest telegraph company in the country. In 1874 he stepped back from running the business so he could do his own research. He became fascinated with sending musical tones by electricity. On 29 December 1874 he demonstrated his \"musical telegraph\" at a Presbyterian church in Highland Park, near Chicago, sending tunes electrically. Because his device could produce notes electrically, some people today call him an early ancestor of the electronic music synthesizer.",
+        "Gray's main goal was the harmonic telegraph: many messages on one wire, using musical notes. He filed patent applications for his ideas in early 1875. His financial backer, a Philadelphia dentist named Samuel S. White, wanted him to focus on the telegraph, where the money seemed to be, rather than on the idea of transmitting speech. Gray did think about speech, though, and his ideas were heading toward a telephone.",
+        "Gray was not alone in this race. In Boston, another inventor had been funded to build a harmonic telegraph too. He was not a telegraph professional at all. He was a young Scottish teacher of deaf students, a man who knew more about how voices and ears worked than almost anyone, and who could not stop thinking about how sound might travel along a wire. His name was Alexander Graham Bell."
+      ]
+    }
+  ],
+  "deepDive": "Why did Bourseul's idea and Reis's Telephon fall short, while the telephone of 1876 succeeded? The key is the difference between an interrupted current and an undulating (smoothly varying) current. A sound wave is a pressure that rises and falls continuously. Its pitch depends on how many times per second it repeats (its frequency, measured in hertz), while its tone colour, or timbre, depends on the exact shape of the wave, which can be described as a mix of many frequencies at different strengths, called harmonics or overtones. Vowels are distinguished mainly by their overtones, so to make words understandable a telephone must preserve the wave's shape, not just its repetition rate. A make-and-break contact produces a current that is either on or off. That square, pulsing current keeps the timing of the vibration, so a melody's pitch survives, but most of the detailed shape is replaced by sharp on-off steps. This is why Reis's audiences heard tunes clearly but speech only fitfully. Supporters of Reis have argued that when the platinum contact was set very lightly, it did not fully break the circuit but varied its pressure and therefore its electrical resistance, producing a partly undulating current. This is essentially the principle of the later loose-contact and carbon microphones. That is why the 1947 tests found that an 1863 instrument could pass intelligible but very faint speech. Courts in the 1880s, focused on what Reis had actually described and intended, generally held that his method was the interrupted-current method and not the one Bell patented. The harmonic telegraph is an early example of what engineers now call frequency-division multiplexing: sending several signals at once on one channel by giving each its own frequency band. The same principle later allowed thousands of telephone calls to share long-distance cables, and radio stations to share the air. Historians studying this period also stress how much funding and networks mattered. Gray had Western Union connections and a wealthy backer; Bell had Boston investors; Reis was a poorly paid teacher; Meucci was an impoverished immigrant who struggled with English. Who got credit was shaped not only by ideas but by money, language, lawyers and timing.",
+  "funFact": "Johann Philipp Reis's most famous test sentence, \"Das Pferd frisst keinen Gurkensalat\", means \"The horse does not eat cucumber salad\", and it was chosen to be so silly that the listener could not possibly guess it in advance.",
+  "check": {
+    "q": "What did inventors hope a harmonic telegraph would do?",
+    "a": "Send several telegraph messages along one wire at the same time, each using a different musical note",
+    "wrong": [
+      "Play music in theatres without an orchestra",
+      "Send telegraph messages without any wire at all",
+      "Translate Morse code automatically into spoken words"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Oktober 1861: Die Erfindung des Telefons",
+      "publisher": "Deutsches Historisches Museum (LeMO)",
+      "url": "https://www.dhm.de/lemo/rueckblick/oktober-1861-die-erfindung-des-telefons.html"
+    },
+    {
+      "title": "Philipp Reis's telephone in Aberdeen",
+      "publisher": "arXiv (University of Aberdeen authors)",
+      "url": "https://arxiv.org/abs/1811.01357"
+    },
+    {
+      "title": "Johann Philipp Reis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Johann_Philipp_Reis"
+    },
+    {
+      "title": "Charles Bourseul",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charles_Bourseul"
+    },
+    {
+      "title": "Antonio Meucci",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Antonio_Meucci"
+    },
+    {
+      "title": "Stories From Main Street: Staten Island Museum Differs On Telephone's Inventor",
+      "publisher": "CBS New York",
+      "url": "https://www.cbsnews.com/newyork/news/telephone-inventor-staten-island/"
+    },
+    {
+      "title": "Elisha Gray",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Elisha_Gray"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Johann Philipp Reis's telephone transmitter and receiver (1860s museum instrument, box-shaped transmitter with sounding-box receiver)",
+      "search": "Philipp Reis Telephon 1861"
+    },
+    {
+      "want": "Portrait of Antonio Meucci, Italian-American inventor",
+      "search": "Antonio Meucci portrait"
+    },
+    {
+      "want": "Portrait photograph of Elisha Gray, American inventor",
+      "search": "Elisha Gray inventor portrait"
+    }
+  ]
+}

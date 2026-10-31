@@ -1,0 +1,162 @@
+{
+  "n": 11,
+  "title": "Machines That Remember Their Programs",
+  "when": "1945 – 1952",
+  "summary": "Early giant computers had to be rewired for every new job. Then engineers had a clever idea: keep the instructions inside the computer's memory, just like the numbers. A little machine called the Baby ran the first stored program in 1948, and soon computers were doing science, payrolls for a tea company and even predicting an election on TV.",
+  "sections": [
+    {
+      "heading": "A Giant With a Forgetful Program",
+      "paragraphs": [
+        "Imagine you own the fastest calculator in the world, but every time you want it to do a different job you have to crawl behind it with a bundle of cables, unplug hundreds of them, plug them back in somewhere else and flip a few thousand switches. That was life with ENIAC. Its electronic brain could add about 5,000 numbers a second, yet setting it up for a new problem could take a team of programmers a day or more. The machine was lightning fast at doing a job and painfully slow at changing jobs.",
+        "The reason was simple. ENIAC kept its numbers inside its electronics, but its instructions lived in the wiring. The program was not something the machine could read; it was something the machine was built into, a little like a music box whose tune is fixed by the pins on its drum. If you want a new tune, you need a new drum.",
+        "Even while ENIAC was still being finished in 1944 and 1945, its designers at the Moore School of Electrical Engineering in Philadelphia, J. Presper Eckert and John Mauchly, knew this was a weakness. They and their colleagues began talking about a better design. What if the instructions were written down as numbers too, and stored in the very same memory as the data? Then changing the program would be as easy as loading new numbers, which an electronic machine can do in seconds.",
+        "This is called the stored-program idea, and it is the single most important step between the giant calculators of the war years and the computer you know today. Your phone does not have a separate wiring loom for each app. Every app, whether it is a game, a map or a camera, is just a long list of numbers waiting in memory. When you tap an icon, the processor starts reading a different list. That is the stored-program idea at work, billions of times a day, all over the world.",
+        "But turning the idea into a working machine raised a tough engineering question: where do you keep all those numbers? A memory for instructions and data needs to hold hundreds or thousands of numbers, and it needs to hand any one of them to the processor in a tiny fraction of a second. ENIAC's whole memory held just twenty ten-digit numbers, stored in rows of vacuum tubes that were expensive and power-hungry. A stored-program computer would need a cheaper, roomier kind of memory. The race to invent one would take engineers into tubes of mercury, television screens and, later, tiny rings of magnetic material."
+      ]
+    },
+    {
+      "heading": "A Famous Report With Only One Name on It",
+      "paragraphs": [
+        "In 1944 a visitor started dropping in on the ENIAC team. John von Neumann was a Hungarian-born mathematician at the Institute for Advanced Study in Princeton, one of the most brilliant people of his time. He could do huge sums in his head, spoke several languages and worked on everything from pure mathematics to the physics of explosions. He was also an adviser to the secret atomic bomb laboratory at Los Alamos, which needed enormous amounts of calculation. When he heard about ENIAC, he hurried to Philadelphia to see it.",
+        "Von Neumann joined the discussions about ENIAC's successor, a machine to be called EDVAC (the Electronic Discrete Variable Automatic Computer). In the spring of 1945, partly while travelling by train, he wrote out the ideas in a long, careful document. It was titled 'First Draft of a Report on the EDVAC'. It ran to 101 pages and was never actually finished.",
+        "The report described a computer made of a few main parts, which von Neumann called organs, like the organs of a body: a central arithmetic part to do the sums, a central control part to decide what happens next, a memory, and devices for input and output. Crucially, the same memory would hold both the instructions and the numbers they worked on. The machine would use binary, the two-digit system of 0s and 1s, instead of ENIAC's decimal digits. Von Neumann even described the building blocks of the machine using a language borrowed from brain science, comparing simple switching elements to nerve cells, or neurons.",
+        "Herman Goldstine, an army mathematician who worked closely with the ENIAC project, had the report typed and copied, and in late June 1945 copies began to circulate. The typed version is dated 30 June 1945. It spread quickly to scientists in the United States and Britain, and it became the most influential description of how to build a computer. To this day, a computer in which one memory holds both program and data, with a separate processor fetching instructions one after another, is often called a machine with 'von Neumann architecture'.",
+        "There was a problem, though. Only one name appeared on the front: John von Neumann. Eckert and Mauchly felt that many of the ideas, including storing the program in memory, had come out of the team's earlier discussions, and that Eckert in particular had been thinking about storing instructions in a delay-line memory before von Neumann arrived. They were angry that the world now credited von Neumann. Historians still argue about exactly who thought of what first, and many prefer the phrase 'stored-program architecture' because it does not hand all the credit to one person. The fair summary is that the idea grew out of a team, and von Neumann wrote the clearest, most widely read description of it.",
+        "Arguments about patents soon broke up the team. In March 1946 Eckert and Mauchly left the University of Pennsylvania after a dispute over who would own future inventions, and set up their own company to build computers. EDVAC itself was finished by others. It was delivered to the US Army's Ballistic Research Laboratory in 1949, had teething troubles, and only began working in 1951, at first just part of the time. By then, other teams had already beaten it to the finish line."
+      ]
+    },
+    {
+      "heading": "Baby Takes Its First Steps in Manchester",
+      "paragraphs": [
+        "The race was won in a grimy laboratory in Manchester, in the north of England, and the winner was a machine its builders nicknamed the Baby. Its official name was the Small-Scale Experimental Machine, and it was never meant to be a great computer. It was built to test a new kind of memory.",
+        "That memory was invented by Freddie Williams, an engineer who had worked on radar during the war, together with his young assistant Tom Kilburn. Radar engineers were experts with cathode-ray tubes, the glass screens used in radar sets and early televisions. A cathode-ray tube fires a beam of electrons at a screen, making a glowing spot wherever it hits. Williams noticed that each spot also left behind a tiny patch of electric charge on the screen, which faded away in a fraction of a second. If you could read that charge with a metal plate placed in front of the screen and keep topping it up before it faded, the screen could remember a pattern of dots. A dot could mean 1 and a dash or a blank could mean 0.",
+        "This became the Williams tube, or Williams–Kilburn tube. It had one great advantage: the machine could jump straight to any spot on the screen and read it at once. Engineers call this random-access memory, the same idea behind the RAM in your computer today. Its weakness was that the charges faded in about a fifth of a second, so the machine had to keep reading and rewriting every bit over and over again, many times a second, to stop it forgetting.",
+        "To prove the tube could really work as a computer memory, Williams and Kilburn, joined by engineer Geoff Tootill, built the simplest possible stored-program computer around it at the University of Manchester. The Baby was about 5 metres (17 feet) long and weighed nearly a tonne. It used about 550 valves, as the British called vacuum tubes, and drew about 3,500 watts of power. Its main memory held just 32 words, and each word was 32 bits long, so the whole memory held 1,024 bits. A single photo on your phone holds millions of times more.",
+        "The Baby could do only seven kinds of instruction. It could not even add! The only arithmetic built into its hardware was subtraction and making a number negative. To add two numbers, a program had to subtract a negative number instead, which gives the same answer. Programs were entered by hand, one bit at a time, using a panel of switches.",
+        "On 21 June 1948, the team loaded a program written by Tom Kilburn. It had 17 instructions and its job was to find the highest factor of 2 to the power 18, that is, the biggest number less than 262,144 that divides into it exactly. The program did this the slow, plodding way: it tried every number from the top downwards, and since the Baby could not divide, it checked each one by repeated subtraction. The answer is 131,072, which a human could find in seconds by halving. But the point was not the answer. The point was whether the memory could survive millions of operations without making a single mistake.",
+        "It did. The Baby ran for about 52 minutes and carried out about 3.5 million operations before the correct answer appeared as a pattern of glowing dots on the display tube. The engineers could actually watch the memory working, because the bits were visible as dots on the screen. It was the first time a program stored in an electronic memory had ever run on a computer. For the small team crowded round the racks, it was a moment they never forgot.",
+        "The Baby quickly grew up. By April 1949 it had been expanded into a larger, more useful machine called the Manchester Mark 1, with more memory and a magnetic drum for extra storage. Alan Turing moved to Manchester in 1948 to work with it. And for the machine's 50th birthday in 1998, a working replica of the Baby was built, which visitors to Manchester's Science and Industry Museum can still see."
+      ]
+    },
+    {
+      "heading": "EDSAC: A Computer That Went to Work",
+      "paragraphs": [
+        "The Baby proved that a stored-program computer could work. The next question was whether one could be useful, day after day, to ordinary scientists who just wanted their sums done. One of the first machines to answer yes was built about 200 kilometres south-east of Manchester, in the university town of Cambridge.",
+        "Maurice Wilkes ran the Cambridge University Mathematical Laboratory. After reading von Neumann's report and attending the 1946 Moore School lectures, he came home determined to build a stored-program computer. He called it EDSAC, short for Electronic Delay Storage Automatic Calculator. His goal was not to build the cleverest machine in the world but a dependable one, finished quickly, that the university's researchers could actually use.",
+        "The 'delay storage' in its name described its unusual memory. EDSAC stored numbers as sound. Its memory was made of long steel tubes filled with mercury, a heavy liquid metal. At one end of each tube a crystal turned electrical pulses into tiny pulses of sound, which travelled slowly through the mercury to the other end, where another crystal turned them back into electricity. The pulses were then sent back to the beginning and around again. So the bits were always moving, circling round and round like children on a merry-go-round. To read a particular number, the machine had to wait for it to come round to the end of the tube. This kind of memory was cheaper than vacuum tubes, but slower to reach than a Williams tube. The mercury also had to be kept at a steady temperature, because the speed of sound changes when it gets warmer.",
+        "On 6 May 1949, EDSAC ran its first program. It printed a table of the squares of the numbers 0 to 99, and soon afterwards a list of prime numbers. Programs were fed in on punched paper tape, and results came out on a teleprinter, a kind of electric typewriter. EDSAC started with 512 words of memory, later doubled to 1,024, and it could carry out roughly 650 instructions every second. That sounds slow today, but it was far faster than a person with a desk calculator.",
+        "What made EDSAC special was that it went straight to work. Almost as soon as it was running, it began serving the university's researchers, and scientists queued up with their paper tapes. Along with the Manchester Mark 1, it was one of the very first stored-program computers to offer a regular service to researchers. A crystallographer could hand over a problem about the shape of a molecule; a geneticist could study how genes spread through a population; an astronomer could model radio signals from space. Among EDSAC's users were several future Nobel Prize winners, including John Kendrew and Max Perutz, who used it in their work on the structure of proteins, and the radio astronomer Martin Ryle. In 1951 EDSAC was used to find a prime number 79 digits long, a record at the time."
+      ]
+    },
+    {
+      "heading": "Subroutines: Not Writing the Same Thing Twice",
+      "paragraphs": [
+        "Building EDSAC was only half the battle. Someone had to work out how to program it, and in Cambridge that challenge produced ideas still used in every computer today.",
+        "The first problem was getting a program into the machine at all. On EDSAC, a small built-in program called the initial orders, wired permanently into a bank of telephone-style switches, read the paper tape when the machine started. It also did a clever job of translation: programmers could punch letters for instructions, such as A for add, rather than raw binary numbers, and the initial orders turned them into machine code. This made it one of the first assemblers, programs that translate short human-readable codes into machine instructions.",
+        "The second problem was repetition. Lots of different programs needed the same pieces: working out a square root, printing a number, calculating a sine for trigonometry. Writing each piece again for every new program was slow, and every copy was a fresh chance to make mistakes. A young research student named David Wheeler came up with a neat solution. Write the square-root code once, carefully, test it and keep it in a library. Then any program could jump to it, let it do its job, and jump back to exactly where it left off. The trick for getting back to the right place became known as the Wheeler jump.",
+        "These reusable pieces are called subroutines. Today you might call them functions or procedures, and every app on your phone is built from thousands of them. The Cambridge team kept a library of tested subroutines, stored as strips of punched paper tape in a cabinet, ready to be copied onto a new program. In 1951 Wilkes, Wheeler and Stanley Gill published a book explaining how to program EDSAC, which is often described as the first textbook on programming.",
+        "EDSAC worked hard for more than nine years. It was finally switched off on 11 July 1958, replaced by a faster successor, EDSAC 2. Volunteers at The National Museum of Computing at Bletchley Park have been building a working reconstruction of it, using old drawings, photographs and original parts where they can find them."
+      ]
+    },
+    {
+      "heading": "Computers You Could Buy",
+      "paragraphs": [
+        "Until 1951 every electronic computer was a one-off, built by hand in a university or government laboratory. Then computers became products: things a company would design, build several copies of and sell. Two machines share the honour of opening the computer business.",
+        "In Britain, the electrical engineering firm Ferranti worked with the University of Manchester to turn the Manchester Mark 1 into a tidy, reliable product. The Ferranti Mark 1 was delivered to the university in February 1951. It is usually counted as the world's first commercially available general-purpose electronic computer. It contained about 4,050 vacuum tubes, used Williams tubes for its fast memory, and had a magnetic drum, a spinning metal cylinder coated with magnetic material, for longer-term storage. Alan Turing wrote its programming manual.",
+        "The Ferranti Mark 1 has another claim to fame. In 1951 a schoolteacher and programmer named Christopher Strachey got it to play tunes by making its loudspeaker, normally used for warning beeps, click at different speeds. The BBC recorded it playing pieces including the British national anthem, the oldest known recording of computer-generated music. Ferranti went on to sell machines abroad. One went to the University of Toronto in Canada, where it was nicknamed FERUT, and another to the Shell oil company's laboratory in Amsterdam. Several improved versions, called the Mark 1 Star, followed between 1953 and 1957.",
+        "In the United States, Eckert and Mauchly had founded their own company after leaving the Moore School. They were brilliant engineers but struggled with money, and in 1950 their company was bought by Remington Rand, a firm famous for typewriters and office machines. Together they finished the UNIVAC I, short for UNIVersal Automatic Computer. Its first customer was the US Census Bureau, which, sixty years after Herman Hollerith's punched-card machines, was again hungry for faster ways to count the nation. The Census Bureau accepted the first UNIVAC on 31 March 1951, and it was officially dedicated in June 1951.",
+        "UNIVAC was big but carefully engineered. It contained about 6,000 vacuum tubes, weighed about 7.6 tonnes and used about 125 kilowatts of power. Its main memory was made of mercury delay lines like EDSAC's, holding 1,000 words of 12 characters each. Its most modern feature was magnetic tape. Instead of stacks of punched cards, data could be stored on reels of metal tape and read by drives called UNISERVOs, which were among the first tape drives sold with a commercial computer. A UNIVAC could handle letters as well as numbers, which made it useful for businesses keeping records of names and addresses. Prices started at around 159,000 dollars and rose to more than a million dollars for a full system, and in the end only about 46 UNIVAC I machines were built. One of them kept working at an insurance company in Tennessee until 1970."
+      ]
+    },
+    {
+      "heading": "The Night a Computer Called an Election",
+      "paragraphs": [
+        "On the evening of 4 November 1952, millions of Americans sat in front of their new television sets to watch the results of the presidential election. The war hero General Dwight D. Eisenhower was running against Adlai Stevenson, the governor of Illinois. Most opinion polls said the race was close. The CBS television network had a surprise guest in its studio: a UNIVAC, or at least a console with blinking lights standing in for it. The real computer was in Philadelphia, connected by telephone.",
+        "Remington Rand's experts had prepared a program that compared early vote counts from a sample of areas with the patterns of earlier elections. As the first few percent of results trickled in, the UNIVAC made its forecast: a landslide for Eisenhower. It gave him odds of about 100 to 1, and predicted he would win 438 electoral votes to Stevenson's 93.",
+        "That seemed impossible to the people running the broadcast. The polls had said it was close, and nobody wanted to look foolish on live television. So the prediction was held back, and at first the network and the computer team gave out a more cautious forecast. As the night wore on and real results poured in, it became clear the machine had been right all along. Eisenhower won 442 electoral votes to 89, so UNIVAC's original guess was only four votes off. Later that night the embarrassed team admitted on air that the computer had predicted the landslide hours earlier and that people, not the machine, had doubted it.",
+        "It was a brilliant piece of publicity. For years afterwards, many Americans used the word 'UNIVAC' to mean any computer, the way people say 'hoover' for a vacuum cleaner. The election broadcast also gave the public a first glimpse of something that is now everywhere: computers analysing huge amounts of data and making predictions, from weather forecasts to which video you might want to watch next."
+      ]
+    },
+    {
+      "heading": "Tea, Cakes and Computers: The Amazing LEO",
+      "paragraphs": [
+        "Now for the most surprising chapter of all. Which company ran the world's first computer for routine office work? Not a bank, not an aircraft maker and not a government department, but a British firm famous for tea and cakes.",
+        "J. Lyons and Co. ran hundreds of teashops across Britain, along with huge Corner House restaurants in London, bakeries, ice-cream factories and a catering business. Every day it had to work out what to bake, how much tea to pack, what to deliver to each shop, and what to pay thousands of workers. All of that took armies of clerks with ledgers and adding machines. Lyons managers were proud of running their business efficiently and were always looking for better methods.",
+        "In 1947 two Lyons managers, Oliver Standingford and Raymond Thompson, visited the United States to study new office methods. There they heard about electronic computers and realised these machines might handle a big company's paperwork. Back in Britain, they discovered that Maurice Wilkes was building EDSAC just up the road in Cambridge. Lyons made a remarkable deal: it would help pay for EDSAC, and in return it would learn how to build a computer of its own.",
+        "The Lyons machine was called LEO, short for Lyons Electronic Office. Its chief designer was the engineer John Pinkerton, and it was based closely on EDSAC, with mercury delay-line memory of 2,048 words. But LEO had something EDSAC did not need: lots of ways to get data in and out at the same time. A scientific problem might involve a little data and a huge amount of calculation. Business work is the opposite: mountains of data, such as orders, prices and wages, but fairly simple sums on each item. LEO's designers gave it several input and output channels with their own buffers, so it would not sit idle waiting for slow card readers and printers.",
+        "LEO I ran its first business job in September 1951. The job was called Bakery Valuations, which worked out the value of the bread, cakes and pies made in Lyons bakeries, including the cost of ingredients and labour. By the end of November 1951 LEO had completely taken over the job, running it every week. It was the first time any computer anywhere had done a regular, routine business task.",
+        "More jobs followed: calculating the payroll, planning deliveries to the teashops and working out the daily orders. The team, led on the programming side by David Caminer, learned to rethink whole business processes around the computer rather than simply copying what the clerks had done by hand. That approach is still the heart of good business computing today.",
+        "LEO became so successful that in 1954 Lyons set up a separate company, LEO Computers Ltd, to build and sell machines to other businesses. LEO did payroll for the Ford Motor Company in Britain, and Britain's weather service, the Met Office, used LEO I for scientific calculations. The company later merged with English Electric in 1963, and its successors became part of the British computer firm ICL. Some LEO III machines were still at work in the British telephone service until 1981. A teashop company had helped invent the office computer.",
+        "But all of these machines had the same weak point, glowing away inside their metal cabinets. Every one of them depended on vacuum tubes, thousands of them. Tubes were hot: UNIVAC used about as much electricity as dozens of modern homes, much of it simply turning into heat. Tubes were fragile glass bottles that could crack. Their heated filaments slowly wore out, like old-fashioned light bulbs, and when one tube failed, the whole computer might stop or, worse, quietly give wrong answers. Engineers spent hours hunting for dead tubes. Machines with tubes could never become small, cheap or cool enough to sit on a desk, let alone fit in a pocket.",
+        "The answer was already on its way. In a quiet research laboratory in Murray Hill, New Jersey, three scientists had found a way to make a tiny switch from a sliver of crystal, with no glass, no vacuum and no glowing filament. Their invention was about to replace the vacuum tube and change electronics forever."
+      ]
+    }
+  ],
+  "deepDive": "Who invented the stored-program computer? The honest answer is that it emerged from a group, and historians weigh the evidence differently. Turing's 1936 universal machine already treated a machine's rules as data on a tape, but it was a mathematical abstraction, not an engineering plan, and there is no clear evidence the ENIAC team drew on it. At the Moore School, Eckert had written about storing information in delay lines, and team discussions in 1944 moved towards putting instructions in the same memory as numbers. Von Neumann's 101-page First Draft of June 1945 then laid the idea out in a clean, logical form, borrowing the language of neurons from Warren McCulloch and Walter Pitts. Because only his name appeared, the phrase 'von Neumann architecture' stuck, and many historians now prefer 'stored-program' or 'modern code paradigm' to avoid crediting one man for a team result. A further twist: the report's wide circulation counted as publication, which helped make the core idea unpatentable.\n\nThe engineering bottleneck was memory. Three technologies competed. Mercury delay lines (EDSAC, EDVAC, UNIVAC, LEO) were cheap per bit and fairly reliable but serial: a word was only available when it came round, so average access time was hundreds of microseconds. Williams tubes (Manchester, Ferranti, later IBM 701 and the IAS machine) gave true random access in microseconds, but were touchy, needing constant refreshing and careful adjustment. Magnetic drums were slower still but large and permanent. Within a few years all three were swept away by magnetic-core memory.\n\nComparing the 'firsts' requires care. The Manchester Baby (21 June 1948) was the first electronic stored-program computer to run a program, but it was a test rig. EDSAC (6 May 1949) was one of the first practical stored-program computers to give a regular service to researchers. The Ferranti Mark 1 (February 1951) was the first commercially available general-purpose electronic computer, with UNIVAC I (accepted March 1951) close behind and much more widely sold. LEO I (from September 1951) was the first to run routine business work. Each claim is true in its own carefully worded way, and none makes any one machine simply 'the first computer'.\n\nUNIVAC's 1952 forecast also marks an early public example of statistical prediction from partial data, a technique pollsters had used by hand but never at such speed on live television.",
+  "funFact": "The Manchester Baby could not add: the only arithmetic built into its hardware was subtraction and negation, so programs added numbers by subtracting a negative.",
+  "check": {
+    "q": "What job did J. Lyons and Co.'s LEO I computer start doing in 1951, making it the first computer to run routine business work?",
+    "a": "Bakery Valuations, working out the value of the goods made in Lyons bakeries",
+    "wrong": [
+      "Predicting the US presidential election",
+      "Breaking enemy codes",
+      "Calculating artillery firing tables"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Manchester Baby",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Manchester_Baby"
+    },
+    {
+      "title": "Timeline of Computer History: 1948",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/timeline/1948/"
+    },
+    {
+      "title": "First Draft of a Report on the EDVAC",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/First_Draft_of_a_Report_on_the_EDVAC"
+    },
+    {
+      "title": "EDSAC",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/EDSAC"
+    },
+    {
+      "title": "EDSAC Replica Project",
+      "publisher": "The National Museum of Computing",
+      "url": "https://www.tnmoc.org/edsac"
+    },
+    {
+      "title": "UNIVAC I",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/UNIVAC_I"
+    },
+    {
+      "title": "Ferranti Mark 1",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ferranti_Mark_1"
+    },
+    {
+      "title": "LEO (computer)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/LEO_(computer)"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The working replica of the Manchester Baby (Small-Scale Experimental Machine) with its racks of valves and display tube",
+      "search": "Manchester Baby SSEM replica"
+    },
+    {
+      "want": "Historic photograph of the EDSAC computer at Cambridge, with Maurice Wilkes or its rows of valve racks and mercury delay line tanks",
+      "search": "EDSAC Cambridge computer 1949"
+    },
+    {
+      "want": "Photograph of a UNIVAC I computer console with its operator panel and UNISERVO tape drives",
+      "search": "UNIVAC I computer console"
+    }
+  ]
+}

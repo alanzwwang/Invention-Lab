@@ -1,0 +1,157 @@
+{
+  "n": 12,
+  "title": "Cameras and Rainbows: Photography and Spectroscopy",
+  "when": "1840 – 1925",
+  "summary": "Astronomers learned to point cameras through telescopes, and the cameras could soak up starlight for hours and show things no eye had ever seen. They also learned to split starlight into rainbows, and the dark and bright lines in those rainbows told them what stars are made of and how fast they move. A team of women at Harvard sorted hundreds of thousands of stars and found a ruler for measuring the universe.",
+  "sections": [
+    {
+      "heading": "Teaching the Telescope to Remember",
+      "paragraphs": [
+        "For more than 200 years after Galileo, every discovery made with a telescope had to pass through one tiny, imperfect instrument: the human eye. The astronomer looked, then turned to a notebook and drew what he or she remembered, often by the glow of a dim lamp, with cold fingers, at three in the morning. Two observers looking at the same nebula could draw it quite differently. There was no way to check later. The eye saw, and then the image was gone.",
+        "In 1839 the Frenchman Louis Daguerre announced the daguerreotype, the first practical photograph: an image captured on a silver-coated copper plate made sensitive to light with chemicals. Almost at once, people wondered whether such a plate could capture the sky. Daguerre himself tried to photograph the Moon in 1839, but the Moon moved across the sky during the long exposure and the picture came out as a blur.",
+        "The first real success came from New York. John William Draper, born in 1811 in St Helens, England, had moved to America and become a professor of chemistry at New York University. He was one of the first people in America to experiment with photography, and around 1840 he photographed his sister, Dorothy Catherine Draper, in one of the earliest surviving portraits of a person. In March 1840 he turned his camera on the Moon. Using a reflecting telescope about 5 inches across and an exposure of about 20 minutes, he captured a small, fuzzy, but genuine image of the lunar surface, one of the very first astronomical photographs ever made.",
+        "Draper did not stop there. In 1843 he made daguerreotypes of the Sun's spectrum, the band of colors you get by spreading sunlight out, and his plates recorded lines beyond the ends of the visible colors, in infrared and ultraviolet light that eyes cannot see. That was a hint of the future: cameras could record kinds of light that people are blind to.",
+        "Stars were harder than the Moon, because a star is so much fainter. In 1850, at Harvard College Observatory in Cambridge, Massachusetts, William Cranch Bond and the photographer John Adams Whipple used Harvard's 15-inch Great Refractor to take the first daguerreotype of a star: Vega, one of the brightest stars in the summer sky. It was just a tiny dot, but it proved the idea worked."
+      ]
+    },
+    {
+      "heading": "Hours of Starlight in One Picture",
+      "paragraphs": [
+        "Why is a camera so much better than an eye for faint things? Your eye works like a video camera that refreshes itself many times a second. It collects light for only about a tenth of a second, then starts over. If very little light arrives in that tiny moment, you see nothing, no matter how long you stare. A photographic plate is different. It keeps adding up every bit of light that falls on it for as long as the shutter stays open. Leave it open for an hour and it collects about 36,000 times as much light as your eye gathers in a tenth of a second. A smudge too dim for any human to see slowly builds up into a clear picture.",
+        "There was a catch. Early wet photographic plates had to be coated, exposed and developed within minutes, before the chemicals dried, which made long exposures almost impossible. In the 1870s and 1880s, dry plates arrived: glass sheets coated with a light-sensitive gelatin layer that stayed sensitive for a long time and could be exposed for hours. At the same time, telescope makers improved clock drives, motors that slowly turned the telescope to follow the stars as Earth rotated. Even so, astronomers had to sit at the telescope all through a long exposure, watching a guide star through a separate eyepiece and making tiny corrections by hand to keep the picture sharp.",
+        "One of the great pioneers was Henry Draper, John William Draper's son. Henry was a doctor and a professor of medicine, but his real passion was astronomy, and he built a private observatory at his family's country home at Hastings-on-Hudson, New York. In 1872 he photographed the spectrum of a star showing its dark absorption lines, one of the first such pictures. On 30 September 1880, using an 11-inch Clark refractor and an exposure of about 50 minutes, he became the first person to photograph the Orion Nebula, the glowing cloud in the sword of Orion where new stars are being born.",
+        "Henry Draper died suddenly of an illness in 1882, at only 45. His wife, Mary Anna Palmer Draper, who had worked alongside him, wanted his work to continue. She gave money to Harvard College Observatory to photograph and classify the spectra of stars in his memory. That gift led to the famous Henry Draper Catalogue, which we will meet later in this part, and many stars are still known by their HD numbers.",
+        "In 1883 the English amateur astronomer Andrew Ainslie Common took even longer exposures of the Orion Nebula with a 36-inch reflector, and for the first time a photograph showed stars too faint for the human eye to see through the same telescope. From then on, the camera, not the eye, was the astronomer's most powerful tool for faint objects.",
+        "Photographs had another superpower: they were permanent records. Astronomers could measure them carefully by day, compare plates of the same patch of sky taken years apart, and spot anything that had moved or changed brightness, like asteroids, comets and variable stars. In 1887 astronomers from many countries met in Paris and launched the Carte du Ciel, a plan for 18 observatories around the world to photograph the entire sky. It was so huge that it was never fully finished, but it showed how photography had turned astronomy into a science of careful, shareable measurement."
+      ]
+    },
+    {
+      "heading": "Barcodes of Light",
+      "paragraphs": [
+        "Cameras showed what objects looked like. The other great invention of this period told astronomers what they were made of. To understand it, we need to go back to rainbows.",
+        "Isaac Newton had shown in the 1660s that a glass prism spreads white sunlight into a band of colors, which he called a spectrum. In 1802 the English scientist William Hyde Wollaston looked more carefully and noticed a few dark gaps in the Sun's spectrum. Then, as we saw in Part 8, Joseph von Fraunhofer used superb prisms and a small telescope to map hundreds of these dark lines in 1814. He labeled the strongest ones with letters, such as the D lines in the yellow. But nobody knew what the lines meant.",
+        "In 1835 the French philosopher Auguste Comte wrote that some things would forever be impossible to know, and one of his examples was the chemical makeup of the stars. How could anyone ever take a sample of a star? Within about 25 years, he was proven wrong.",
+        "The answer came from Heidelberg, Germany, where the chemist Robert Bunsen and the physicist Gustav Kirchhoff worked together in the late 1850s. Bunsen had helped develop a gas burner, now called the Bunsen burner, whose flame is hot and almost colorless. When a pinch of a chemical was held in that flame, it glowed with its own color: sodium bright yellow, potassium violet, copper green. Kirchhoff suggested sending that colored light through a prism. Together they built a spectroscope, a prism plus small telescopes for viewing the spread-out light.",
+        "What they saw was amazing. Each glowing element produced not a full rainbow but a few sharp, bright lines of particular colors, always in exactly the same places. Sodium, for example, always made a close pair of yellow lines. Every element had its own pattern, like a barcode at the supermarket or a fingerprint. And sodium's yellow pair sat in exactly the same spot as Fraunhofer's dark D lines in sunlight.",
+        "In 1859 Kirchhoff worked out why. A hot, dense object, like a glowing solid or the deep layers of the Sun, gives off a smooth rainbow with every color. A thin, hot gas gives off only its own bright lines. And when the smooth rainbow shines through a cooler, thinner gas, that gas soaks up exactly the same colors it would give off when hot, leaving dark lines. So the dark D lines in sunlight meant there must be sodium in the Sun's outer layers. In one stroke, Kirchhoff and Bunsen had done what Comte said could never be done: they had found out what the Sun is made of from 150 million kilometers away. They soon matched other dark lines with iron, calcium, magnesium and more.",
+        "The spectroscope worked on Earth too. In 1860 and 1861, by examining mineral water and rocks, Bunsen and Kirchhoff found lines that matched no known element, and so discovered two new elements: cesium, named from the Latin for sky-blue after its blue lines, and rubidium, named from the Latin for deep red. Nobody yet understood why atoms made these lines. That explanation, involving electrons jumping between energy levels inside atoms, came only in 1913. But astronomers did not need to know why. They now had a way to take a chemical sample of anything that shines."
+      ]
+    },
+    {
+      "heading": "Glowing Gas and an Element from the Sun",
+      "paragraphs": [
+        "In south London, at 90 Upper Tulse Hill, a wealthy silk merchant's son named William Huggins built a private observatory in his garden. When he heard about Kirchhoff's discovery, he later recalled that it was like finding water in a dry land. He teamed up with his neighbor, the chemist William Allen Miller, and attached a spectroscope to his telescope to study the stars. They found that stars have dark lines like the Sun's, showing familiar elements such as iron, sodium and hydrogen. The stars, it turned out, are made of the same kinds of stuff as the Sun and the Earth.",
+        "Then, on the evening of 29 August 1864, Huggins pointed his spectroscope at a small, bluish-green planetary nebula in the constellation Draco, known today as NGC 6543, the Cat's Eye Nebula. He expected to see a rainbow crossed by dark lines, the signature of a crowd of stars. Instead he saw just a single bright line, and then a couple of fainter ones, with darkness between them. A smooth rainbow means stars; a few bright lines mean a thin, glowing gas. This nebula was not a swarm of distant stars at all. It was a cloud of hot gas.",
+        "That settled an old argument. Some nebulae, like the Orion Nebula, which Lord Rosse had hoped was made of stars, showed bright gas lines. Others, like the Andromeda nebula, showed starlike spectra. So there were at least two quite different kinds of fuzzy objects in the sky. Huggins and Miller shared the Royal Astronomical Society's Gold Medal in 1867 for their work.",
+        "In 1875 William married Margaret Lindsay Murray, a young woman from Dublin, born in 1848, who had loved astronomy since childhood and was skilled at drawing and photography. She became his full scientific partner. Margaret pushed the observatory to use the new dry photographic plates to record spectra, which was far more accurate than squinting through an eyepiece. Together they published a grand atlas of star spectra in 1899. William later served as President of the Royal Society from 1900 to 1905.",
+        "Meanwhile, the Sun had a surprise of its own. On 18 August 1868, a total eclipse of the Sun passed over India. At Guntur, the French astronomer Jules Janssen watched the glowing gas around the hidden Sun through a spectroscope and saw a bright yellow line, close to, but not quite matching, sodium's famous yellow pair. Later in 1868, the English astronomer Norman Lockyer studied the same line, which he named D3, and found he could see it even without an eclipse. Lockyer concluded that it came from an element unknown on Earth. He named it helium, after helios, the Greek word for the Sun.",
+        "Many chemists doubted him. An element that existed only in the Sun? But in 1895 the Scottish chemist William Ramsay released a gas from a uranium mineral called cleveite, and its spectrum showed the very same yellow line. In the same year, Per Teodor Cleve and Abraham Langlet in Sweden found it independently. Helium is the most famous example of an element discovered in space before it was found on Earth. Today it fills party balloons and cools the giant magnets in hospital MRI scanners, and we now know it is the second most common element in the whole universe."
+      ]
+    },
+    {
+      "heading": "Stretching Light: The Doppler Shift",
+      "paragraphs": [
+        "Spectral lines held one more secret: they could reveal motion. You have probably heard this effect with sound. When an ambulance races toward you, its siren sounds higher; the moment it passes and speeds away, the pitch drops. As the ambulance approaches, each sound wave is sent out a little closer to the one before, so the waves are squeezed together and the pitch is higher. As it moves away, the waves are stretched out and the pitch is lower. The Austrian physicist Christian Doppler described this kind of effect in 1842, and it is named after him.",
+        "Light is a wave too. If a star is moving away from us, its light waves get stretched to longer wavelengths, shifting toward the red end of the rainbow. This is called a redshift. If a star is coming toward us, its light is squeezed toward the blue end, a blueshift. In 1848 the French physicist Hippolyte Fizeau suggested that astronomers could use the shift of spectral lines to measure stars' motions.",
+        "The trick is to have something to compare against. Hydrogen, sodium or iron in a laboratory always make their lines at exactly known wavelengths. If the same pattern of lines in a star's spectrum is shifted a little to the red, the star is moving away; the bigger the shift, the faster. Like a barcode slid along a ruler, the whole pattern moves together, so astronomers can be sure which element they are looking at. In 1868 Huggins measured a redshift in the spectrum of Sirius and used it to estimate the star's speed along our line of sight. It was a fiendishly difficult measurement, because even fast-moving stars shift their lines by only a tiny amount.",
+        "Photography made such measurements far more accurate, and the Doppler shift became one of the most powerful tools in astronomy. It revealed pairs of stars too close together to see separately, because the lines in their combined light shifted back and forth as the two stars circled each other. It measured how fast stars, gas clouds and, later, whole galaxies were moving, and, as we will see at the end of this part, it led to one of the biggest surprises in the history of science."
+      ]
+    },
+    {
+      "heading": "The Women Who Read the Sky",
+      "paragraphs": [
+        "At Harvard College Observatory, the director Edward Pickering faced a mountain of glass. Telescopes at Harvard and at its station in Peru were photographing the sky night after night, often with a thin prism in front of the lens so that every star on the plate appeared as a tiny smeared-out spectrum. Hundreds of thousands of plates would pile up over the years. Someone had to examine each tiny spectrum with a magnifying glass, measure star positions and brightness, and do endless calculations. In those days a computer was not a machine; it was a person who computed.",
+        "Pickering hired women for this work, more than 80 over the years. One reason, sadly, was that women could be paid much less than men, usually about 25 to 50 cents an hour, similar to unskilled workers. Women were also mostly shut out of university science jobs at the time, so many brilliant, highly educated women took these posts. The group became known as the Harvard computers, and they changed astronomy.",
+        "One of the first was Williamina Fleming. Born in Dundee, Scotland, in 1857, she came to Boston in 1878 and, after her marriage fell apart, worked as a maid in Pickering's house. Pickering gave her part-time work at the observatory in 1879 and a full job in 1881. She went on to do most of the classifications for the first Henry Draper Catalogue, published in 1890, which listed more than 10,000 stars. She discovered 59 gaseous nebulae, more than 310 variable stars and 10 novae, and in 1888 she found the dark Horsehead Nebula on a photographic plate. In 1898 she became Curator of Astronomical Photographs, the first woman to hold the post.",
+        "Annie Jump Cannon, born in 1863 in Dover, Delaware, studied physics and astronomy at Wellesley College. An illness, scarlet fever, left her nearly deaf, but it did not slow her down. She joined Harvard in 1896 and became the fastest and most accurate star classifier who ever lived, able to sort about three stars a minute just by glancing at their spectra. Building on earlier schemes by Fleming and her colleague Antonia Maury, she arranged stars into the classes O, B, A, F, G, K and M. Students still remember the order with the rhyme Oh Be A Fine Girl, or Guy, Kiss Me.",
+        "We now know the letters line up by temperature. O stars are the hottest, blazing blue-white at tens of thousands of degrees. M stars are the coolest, glowing a dull red. Our Sun is a yellowish G star. In 1922 the International Astronomical Union adopted Cannon's system for the whole world. Over her lifetime she classified about 350,000 stars, more than anyone in history, and her work filled the giant Henry Draper Catalogue, published from 1918 to 1924. In 1925 she became the first woman to receive an honorary doctorate from the University of Oxford."
+      ]
+    },
+    {
+      "heading": "Leavitt's Ruler for the Universe",
+      "paragraphs": [
+        "Henrietta Swan Leavitt was born in 1868 in Lancaster, Massachusetts. She studied at what would become Radcliffe College, and an illness gradually left her deaf. Pickering hired her in 1902 to measure the brightness of stars on photographic plates. Her special task was finding variable stars, stars whose brightness rises and falls. She would lay a plate of the same patch of sky taken on one night over a plate from another night, and hunt for any star that had changed.",
+        "Her hunting ground was the Magellanic Clouds, two misty patches of stars visible only from the Southern Hemisphere, photographed from Harvard's station in Peru. Leavitt found 1,777 variable stars in them, publishing her list in 1908. Among them were Cepheids, a type named after the star Delta Cephei. A Cepheid swells and shrinks in a steady rhythm, getting brighter and dimmer over a regular period of days or weeks.",
+        "Leavitt noticed something remarkable. In the Small Magellanic Cloud, the Cepheids that were brighter took longer to complete their cycle. In 1912 she published a study of 25 of these stars, showing a clear rule: the longer the period, the brighter the star. It came out as a Harvard circular under Pickering's name, though it stated that Leavitt had prepared it.",
+        "Why was this so important? Because all the stars in the Small Magellanic Cloud are at roughly the same distance from us, like a crowd of people standing together in a distant field. So any difference in how bright they look must come from real differences in how bright they truly are, not from some being nearer. Her rule meant that if you timed a Cepheid's rhythm, you would know its true brightness. Compare that with how bright it looks from Earth, and you can work out how far away it is, just as you could judge the distance of a lamp if you knew its wattage. A year later, the Danish astronomer Ejnar Hertzsprung used nearby stars to calibrate the scale. Leavitt had handed astronomers a measuring tape that could stretch across the universe.",
+        "Leavitt died of cancer in December 1921, at 53, before anyone used her ruler for its greatest triumph. In 1924 a Swedish mathematician, Gösta Mittag-Leffler, wrote to Harvard hoping to nominate her for a Nobel Prize, not knowing she had died. Nobel Prizes are not given after death. Edwin Hubble, whose most famous discoveries depended on her work, later said she deserved one."
+      ]
+    },
+    {
+      "heading": "What Stars Are Made Of, and Which Way Galaxies Go",
+      "paragraphs": [
+        "Cecilia Payne was born in 1900 in Wendover, England. She studied at Cambridge University, which at that time did not give degrees to women, no matter how well they did. Hearing that America offered more chances, she went to Harvard in 1923 to work under its new director, Harlow Shapley. For her doctorate, earned through Radcliffe College because Harvard did not then grant doctorates to women, she studied the spectra in Harvard's huge plate collection.",
+        "Using new physics about how hot atoms behave, Payne worked out that the strength of a star's lines depends mostly on its temperature, not just on how much of each element it contains. When she corrected for temperature, she reached a startling result in her 1925 thesis: stars are made overwhelmingly of hydrogen and helium, the two lightest elements, while the iron, calcium and other elements that seemed so common are only a tiny sprinkling. Most scientists then believed stars had about the same mix of elements as Earth. The leading astronomer Henry Norris Russell persuaded her to describe her result as probably not real. About four years later, Russell reached the same conclusion himself, and for years he often got the credit. The astronomer Otto Struve later called Payne's work the most brilliant PhD thesis ever written in astronomy. She went on to become, in 1956, the first woman promoted to full professor from within Harvard's Faculty of Arts and Sciences.",
+        "Far away in Flagstaff, Arizona, another quiet spectroscope expert was making a different discovery. Vesto Slipher worked at Lowell Observatory, founded by Percival Lowell. Starting in 1912, he took spectra of the faint spiral nebulae, the same kind of whirlpools Lord Rosse had sketched. Their light was so dim that a single spectrum needed exposures over several nights. His first result was for the Andromeda nebula: its lines were shifted toward the blue, meaning it was rushing toward us at about 300 kilometers per second, far faster than any star then known.",
+        "Slipher kept going. By 1917 he had measured 25 spiral nebulae, and all but three were redshifted, racing away from us, some at hundreds of kilometers per second. Such speeds seemed far too great for objects held by the Milky Way's gravity. Were the spirals separate star systems, flying apart? Slipher had the speeds, and Leavitt had built the ruler for distances. What was missing was a telescope big enough to find Cepheids in the spirals and put the two together."
+      ]
+    }
+  ],
+  "deepDive": "Why do elements make lines at all, and how precise were these measurements? Each kind of atom has electrons that can sit only at certain energy levels, like rungs on a ladder. When an electron drops from a higher rung to a lower one, the atom gives off light with exactly the energy of that gap, which means one exact wavelength. When an electron absorbs light of exactly that energy, it jumps up. That is why a gas emits and absorbs the same set of wavelengths, as Kirchhoff found, though the ladder picture came only with Niels Bohr's model in 1913. Hydrogen's red line, called H-alpha, sits at about 656.3 nanometers. The Doppler shift for speeds much less than light is simple: the fractional change in wavelength equals the speed divided by the speed of light (about 300,000 km/s). Slipher's Andromeda result of about 300 km/s is one-thousandth of light speed, so H-alpha would shift by only about 0.66 nanometers, roughly one-thousandth of the way across the visible spectrum. Measuring that on a tiny, faint smear of light on a glass plate, after many hours of exposure, was a triumph of patience. Payne's achievement rested on new theory from the Indian physicist Meghnad Saha, whose 1920 ionization equation showed how temperature controls which atoms are ionized and therefore which lines appear. Many spectral differences between stars that looked like differences in composition were really differences in temperature. Historians now point to her thesis as the moment astronomers learned that hydrogen dominates the cosmos, and to Russell's reaction as an example of how the scientific establishment can resist a correct result from a young outsider. Similar debates surround the Harvard computers. Pickering is praised for giving women a path into astronomy at a time when universities shut them out, and criticized because that path was poorly paid and the work was often published under his name. Cannon, Leavitt, Fleming, Maury and Payne are now widely recognized as major scientists, not just assistants, and the Henry Draper Catalogue designations they created are still used for hundreds of thousands of stars.",
+  "funFact": "Helium was discovered in the Sun's spectrum in 1868, 27 years before chemists found it on Earth, and it is named after helios, the Greek word for the Sun.",
+  "check": {
+    "q": "What did Henrietta Swan Leavitt discover about Cepheid variable stars in 1912?",
+    "a": "Brighter Cepheids take longer to pulse, so their period reveals their true brightness and distance",
+    "wrong": [
+      "Cepheids are made mostly of helium",
+      "Cepheids are moving away from Earth",
+      "Cepheids are found only in the Orion Nebula"
+    ]
+  },
+  "sources": [
+    {
+      "title": "John William Draper",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_William_Draper"
+    },
+    {
+      "title": "Astrophotography",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Astrophotography"
+    },
+    {
+      "title": "Gustav Kirchhoff",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gustav_Kirchhoff"
+    },
+    {
+      "title": "William Huggins",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Huggins"
+    },
+    {
+      "title": "Helium",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Helium"
+    },
+    {
+      "title": "Harvard Computers",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Harvard_Computers"
+    },
+    {
+      "title": "Henrietta Swan Leavitt",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt"
+    },
+    {
+      "title": "Cecilia Payne-Gaposchkin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin"
+    }
+  ],
+  "pics": [
+    {
+      "want": "John William Draper's 1840 daguerreotype photograph of the Moon, one of the first astronomical photographs",
+      "search": "Draper 1840 Moon daguerreotype"
+    },
+    {
+      "want": "Group photograph of the Harvard computers, the women who classified star spectra at Harvard College Observatory, around 1890s",
+      "search": "Harvard computers women observatory Pickering"
+    },
+    {
+      "want": "Portrait photograph of Henrietta Swan Leavitt working at her desk at Harvard College Observatory",
+      "search": "Henrietta Swan Leavitt portrait"
+    }
+  ]
+}

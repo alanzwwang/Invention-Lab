@@ -1,0 +1,149 @@
+{
+  "n": 20,
+  "title": "The Next Hop: The Future of the Internet",
+  "when": "Today – the future",
+  "summary": "Thousands of new satellites are circling the Earth to bring the Internet to faraway places, and scientists are building a network that can reach all the way to Mars. The Internet began with just two letters, 'LO'. What will you send next?",
+  "sections": [
+    {
+      "heading": "A Necklace of Satellites",
+      "paragraphs": [
+        "On a clear night, people around the world have started noticing something strange: a neat line of bright dots gliding across the sky one after another, like a string of pearls. They are not aliens. They are Internet satellites, freshly launched and still climbing to their working orbits.",
+        "In Part 13 we met the older kind of Internet satellite. Those sit in geostationary orbit, about 35,786 kilometres above the equator, where one trip around the Earth takes exactly a day, so the satellite seems to hover over the same spot. That is handy, because a dish on your roof can stay pointed at it. But it is a very long way up. A signal must travel up and back down, and a reply must make the same trip, so each request and answer can take around half a second or more. That is fine for watching a film, but painful for video calls and games.",
+        "The new idea is to fly much lower. On 24 May 2019, the company SpaceX launched a Falcon 9 rocket carrying 60 flat-packed satellites for a network called Starlink, after two test satellites the year before. Most Starlink satellites circle roughly 500 to 600 kilometres up, in what is called low Earth orbit, about sixty times closer than the geostationary ones. At that height, signals can make the round trip in a few tens of milliseconds, similar to many ground connections.",
+        "There is a catch to flying low. A low satellite whizzes around the planet in about an hour and a half, so it is only above your head for a few minutes. To give continuous service, you need a huge crowd of them, so that as one disappears over the horizon, another is already rising. That is why Starlink has kept launching, often dozens at a time. By late 2026, more than 10,000 Starlink satellites were in orbit, by far the largest group of satellites ever flown, and the service reported well over 10 million customers. Many newer satellites pass data to each other using laser beams, so a message can hop across space before coming down to a ground station.",
+        "On the ground, customers use a flat dish about the size of a pizza box or a small suitcase. Instead of turning to follow the satellites, many of these dishes steer their radio beam electronically, using hundreds of tiny antennas working together. Other companies are building rival constellations, such as OneWeb, and Amazon's Project Kuiper, which began launching production satellites in 2025 and was renamed Amazon Leo later that year.",
+        "Why does this matter? Low-orbit satellites can bring the Internet to places where cables are too hard or too expensive to lay: remote farms, mountain villages, islands, research stations in Antarctica, ships at sea and aeroplanes in flight. After hurricanes or earthquakes knock out local networks, satellite dishes can be flown in to reconnect hospitals and rescue teams. For some of the roughly 2.2 billion people still offline that we met in Part 18, this could be a real door to the world, though the dishes and monthly fees are still too costly for many families.",
+        "Not everyone is cheering. Astronomers have found bright satellite streaks spoiling long-exposure photos of the night sky, and radio astronomers worry about interference. SpaceX has tried darker coatings and sunshades to make its satellites dimmer. Space scientists also worry about crowding: with tens of thousands of satellites planned by several companies, orbits must be carefully managed so that satellites dodge each other and old ones are steered down to burn up in the atmosphere instead of becoming space junk. And remember from Part 13: even with all these satellites, the great majority of the world's Internet traffic still travels through cables on land and under the sea."
+      ]
+    },
+    {
+      "heading": "Faster, Wider, Everywhere: IPv6, 5G and Beyond",
+      "paragraphs": [
+        "Back in Part 8 we saw that the original Internet addresses, IPv4, offered about 4.3 billion numbers, and that the central pool of free ones ran out in 2011. The replacement, IPv6, has 128-bit addresses, enough for about 340 undecillion devices, a number with 39 digits. That is so many that every grain of sand on every beach on Earth could have trillions of addresses of its own.",
+        "Switching the whole Internet to a new address system is like changing the tyres on a car while it is driving down the motorway. For years, almost nobody used IPv6, because IPv4 still worked thanks to clever tricks that let a whole household share one address. But adoption has crept up steadily. Google publishes a running chart of how many of its users reach it using IPv6, and in 2026 that figure has been somewhere around 45 to 50 percent, briefly passing 50 percent for the first time in March 2026, with some countries much higher than others. For a long time both systems will run side by side.",
+        "Mobile networks keep getting faster too. The first commercial 5G networks switched on in 2019 in South Korea and the United States, and 5G has since spread across much of the world. 5G can use higher radio frequencies than 4G, which carry more data but do not travel as far or through walls as well, so engineers fill cities with many small antennas on lamp posts and rooftops as well as big towers. 5G is not only about faster phones: it is designed to connect huge numbers of sensors and machines at once, and to give very low delays for things like remote-controlled robots.",
+        "Researchers are already working on 6G, which the International Telecommunication Union and phone companies hope to see in the 2030s. Ideas being studied include even higher frequencies, networks that can sense their surroundings like radar, and closer links between phones and satellites, so that one day your phone might connect straight to space when you are far from any tower. Nobody yet knows exactly what 6G will look like, which is part of the fun.",
+        "Wi-Fi, which we met in Part 14, keeps leaping ahead as well. Newer generations called Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 can share the air more cleverly among dozens of devices in a busy home, and some can use a new radio band around 6 gigahertz that is far less crowded. In 1997 the first Wi-Fi standard offered 2 megabits per second; the latest equipment can, in ideal lab conditions, reach speeds thousands of times higher. Your own home will never quite hit those numbers, because walls, distance and neighbours' networks all get in the way, but the direction is clear.",
+        "Underneath all the radio waves, the backbone keeps getting stronger too. Each new generation of undersea cable carries more than the last, because engineers squeeze more fibre pairs into each cable and send many colours of laser light down each fibre at the same time, a trick called wavelength-division multiplexing. Big technology companies now pay for many of the new cables themselves, so that their data centres on different continents can stay tightly linked. The everyday result is easy to miss: a video call to the other side of the world that would have seemed like magic in 1990 now feels completely normal.",
+        "Engineers also keep improving the rules that packets follow. A newer transport protocol called QUIC, first developed at Google and then turned into an open Internet standard in 2021, can set up secure connections more quickly than the older combination of TCP and encryption, and copes better when your phone hops from Wi-Fi to mobile data. Today a large share of web traffic, including many videos and searches, already travels using it, even though most people have never heard its name. That is how the Internet usually changes: quietly, one agreed upgrade at a time."
+      ]
+    },
+    {
+      "heading": "An Internet for the Solar System",
+      "paragraphs": [
+        "Now let us think much, much bigger. Imagine an astronaut on Mars wants to send a message home. Radio signals travel at the speed of light, but Mars is so far away that, depending on where the two planets are in their orbits, a signal takes between about 3 and 22 minutes to make the one-way trip. Every couple of years the Sun moves directly between Earth and Mars, and for about two weeks communication becomes nearly impossible.",
+        "The normal Internet's rules cannot cope with that. TCP, which we followed in Part 7, expects to hear an acknowledgement back fairly quickly. If one does not arrive, it assumes something went wrong and starts resending or gives up. On a link where every 'got it!' takes forty minutes to come back, and where the connection vanishes for hours whenever a planet rotates a spacecraft out of sight, TCP would be hopelessly confused.",
+        "Vint Cerf, the co-designer of TCP/IP from Part 6, became fascinated by this problem. Around 1998 he began working with engineers at NASA's Jet Propulsion Laboratory in California, including Adrian Hooke, on what they called the Interplanetary Internet. Their answer became known as delay- and disruption-tolerant networking, or DTN.",
+        "The key idea of DTN is called 'store and forward'. Data is packed into bundles. Instead of expecting a clear path all the way from start to finish, each machine along the way, whether a rover, an orbiter or a ground station, holds onto a bundle safely in its memory until the next link opens up, then passes it on. It is a bit like a relay race in which runners may have to wait at the handover point until the next runner appears, but nobody ever drops the baton. As Cerf has pointed out, every new spacecraft that carries the software becomes another possible node in a growing network.",
+        "In October 2008, NASA tested the idea for real. Engineers uploaded DTN software to the EPOXI spacecraft (formerly Deep Impact), which was then about 20 million miles (about 32 million kilometres) from Earth on its way to a comet, and used it to send images to and from the spacecraft as if it were a node on a space network. Later, DTN was tested aboard the International Space Station. The rules were written up as open Internet documents: the Bundle Protocol was first described in RFC 5050 in 2007 and updated as Bundle Protocol Version 7 in RFC 9171 in January 2022.",
+        "Picture how a message from Mars might really travel. A rover takes a photo and packs it into bundles. When an orbiter passes overhead, the rover hands the bundles up and the orbiter stores them. Hours later, when the orbiter can see Earth and a giant dish antenna is free, it beams the bundles home. NASA's Deep Space Network has three main sites, in California, near Madrid in Spain and near Canberra in Australia, spread roughly a third of the way around the world from each other so that, as the Earth spins, at least one of them can always point toward a distant spacecraft. Their biggest dishes are 70 metres across, wider than an Olympic swimming pool is long. From the ground station, the bundles finally join the ordinary Internet and race to scientists' laptops in milliseconds after a journey of many minutes through space.",
+        "The idea has now moved from experiment to everyday tool. NASA reports that its PACE Earth-watching satellite began using DTN for routine data in 2024 and has sent more than 34 million bundles without losing one, and that DTN became an operational service on NASA's Near Space Network and Deep Space Network. DTN is part of the plans for the Artemis missions to the Moon and for future Mars relay satellites. One day, a photo taken by a child living on a Moon base might travel home through exactly this kind of network, a direct descendant of those four ARPANET computers in 1969."
+      ]
+    },
+    {
+      "heading": "Who Is in Charge? Big Questions Still Open",
+      "paragraphs": [
+        "Here is a surprising fact: nobody owns the whole Internet, and no single government runs it. Different parts belong to different people: phone and cable companies own wires, cloud companies own data centres, universities own their campus networks, and you probably own a Wi-Fi router. The rules that let them all work together are looked after by a patchwork of groups. The Internet Engineering Task Force (IETF) writes technical standards, the World Wide Web Consortium (W3C) looks after the Web's rules, and ICANN coordinates domain names and the numbering system that Jon Postel once managed almost by himself (Part 8). In 2016, the United States government formally handed over its last oversight role in that numbering work to the global Internet community. Experts call this way of sharing control 'multistakeholder' governance: governments, companies, engineers and ordinary users all get a voice.",
+        "That does not mean everyone agrees. One long-running argument is about net neutrality, a phrase coined by law professor Tim Wu in 2003. It is the idea that Internet providers should treat all data fairly, and not, for example, slow down one video service to push customers toward another that paid them extra. Supporters say it keeps the Internet a level playing field where a tiny new website has the same chance as a giant. Critics say providers need freedom to manage their networks and charge for heavy use. In the United States, national rules were introduced in 2015, repealed in 2017, restored in 2024 and then struck down by a court in early 2025. The European Union adopted its own open-Internet rules in 2015. The debate is likely to continue.",
+        "Privacy is another big question. As we saw in Parts 18 and 19, many free services are paid for by collecting data about what we do. Some countries have passed strong laws such as Europe's GDPR; others have fewer rules. Engineers are also making privacy part of the plumbing: most web traffic is now encrypted, and newer protocols even hide which website names your device is looking up from people snooping along the way.",
+        "Then there is the question of who can reach what. Some governments block websites or switch off the Internet entirely during protests or exams, cutting off millions of people at once. Digital rights groups count many such shutdowns around the world every year. Others worry that the Internet could split into separate national networks with different rules, sometimes called the 'splinternet'. The original idea of one open network that anyone can join is not guaranteed; it has to be defended.",
+        "Finally, a brand-new puzzle: artificial intelligence can now write articles, draw pictures, copy voices and make realistic videos in seconds. That can be wonderful for creativity and learning, but it can also flood the Web with low-quality pages, fake reviews and convincing deepfakes. Researchers and companies are working on ways to label AI-made content and to trace where a picture really came from. Meanwhile, the skills from Part 18 matter more than ever: check who made something, look for other trusted sources, and be extra careful with anything that makes you feel very angry or very excited."
+      ]
+    },
+    {
+      "heading": "Looking Back Along the Wire",
+      "paragraphs": [
+        "Before we take the next hop, let us look back at how far we have come. Our journey began with riders, ships and Claude Chappe's semaphore towers waving signals across France in the 1790s. Then Samuel Morse tapped out 'What hath God wrought' in 1844, cables crossed the Atlantic, and telephone operators plugged wires into switchboards to connect one call at a time.",
+        "Next came the dreamers. Vannevar Bush imagined a desk full of linked knowledge. J.C.R. Licklider joked about an Intergalactic Computer Network, and ARPA was ready to pay for bold ideas. Paul Baran, Donald Davies and Leonard Kleinrock each worked out, in different ways, why messages should be chopped into packets that share the lines instead of hogging them.",
+        "In 1969 the ARPANET was born, and its very first message crashed after two letters. Soon Ray Tomlinson was sending email with an @ sign, and Vint Cerf and Bob Kahn designed TCP/IP so that totally different networks could join into one network of networks. On 1 January 1983 the ARPANET switched over, and the Internet as we know it began. DNS gave computers names, NSFNET carried the network to universities, and modems screeched it into homes.",
+        "In 1989 Tim Berners-Lee proposed the World Wide Web, a service running on top of the Internet, and CERN gave it away free in 1993. Mosaic and Netscape made it colourful, search engines made it findable, and fibre-optic cables under the oceans carried it between continents. Wi-Fi and smartphones cut the cord. Online shops, Wikipedia, open-source software, social media and video calls changed how people buy, learn, make friends and keep in touch, and also brought new problems: viruses, scams, misinformation and unkindness, which encryption, careful laws and wise habits help to fight. And finally, the cloud turned the Internet into a giant shared computer, humming away in data centres around the planet.",
+        "Look at that list and notice something important. There is no single inventor. Hundreds of key people, and millions of helpers, each added a piece over more than two hundred years of communication history. The Internet is less like a single invention and more like a city, built and rebuilt by many hands."
+      ]
+    },
+    {
+      "heading": "The Secret Ingredient: People Who Agreed",
+      "paragraphs": [
+        "So why does it all work? Why can a cheap phone made in one country send a photo through cables owned by dozens of companies, across an ocean, to a laptop made in another country running completely different software? The real secret is not any one cable or chip. It is agreement.",
+        "Remember Steve Crocker in April 1969, nervously writing RFC 1 and calling it a 'Request for Comments' so that nobody would think he was giving orders? That friendly, humble tradition never stopped. Anyone can read an RFC for free, anyone can suggest a new idea, and the best ideas are tested on real machines before they become standards. Engineer David Clark summed up the spirit in 1992 with a famous line: 'We reject: kings, presidents and voting. We believe in: rough consensus and running code.' In other words, instead of one boss deciding, people argue it out until most agree, and they prove ideas work by actually building them.",
+        "The pile of RFCs has kept growing for more than half a century. They cover everything from how email addresses are written to how bundles travel to spacecraft, and a few are even jokes published on April Fools' Day, including one about sending Internet packets by carrier pigeon. RFC numbers have now passed 10,000: in October 2026 the RFC Editor's website was listing new documents numbered as high as RFC 10,080.",
+        "The Internet Society's history of the Internet, written by pioneers including Cerf, Kahn and Kleinrock, says that free and open access to the basic documents was one of the keys to the Internet's success. The same authors warned that the biggest danger to the Internet's future may not be technical at all. It may be whether people can keep agreeing on how it should change. In other words, the Internet's most important protocol is cooperation."
+      ]
+    },
+    {
+      "heading": "Your Turn: The Next Hop",
+      "paragraphs": [
+        "Every person in this story started somewhere ordinary. Charley Kline was a student staying late in a university lab. Ray Tomlinson was tinkering with a side project nobody asked him to do. Tim Berners-Lee was frustrated that he could not find information at work. Quentin Stafford-Fraser just wanted to know whether there was any coffee left. None of them knew they were making history. They were curious, they built something, and they shared it.",
+        "The next chapters of the Internet's story have not been written yet, and some of them may be written by you. Maybe you will design a network that links a Moon base to Earth, or a cheaper way to bring connections to villages that have never had them. Maybe you will invent a safer way to protect people's privacy, a fairer way to rank search results, a game that brings faraway friends together, or a website that teaches something wonderful. You do not need to wait until you are grown up to start: learning to code, building a small website, testing ideas and asking good questions are exactly how the pioneers began.",
+        "As you build, remember the lessons the Internet learned the hard way. The early network trusted everyone, and that turned out to be a mistake, so build things that are safe. Online spaces are full of real people with real feelings, so build things that are kind. Open rules let millions of strangers cooperate, so share what you learn. And be honest about what you know and what you do not, because accurate information is what makes a network of billions of people actually useful.",
+        "Late in the evening of 29 October 1969, in a room at UCLA, a student typed 'L', then 'O', and the computer at the other end crashed. Two letters were all that made it across. From those two letters grew a network that now connects billions of people, stretches under every ocean, circles the Earth in satellites and is reaching out toward Mars. The Internet began with 'LO'. Somewhere, right now, a packet is waiting at the edge of the network for its next hop. What you send next is up to you."
+      ]
+    }
+  ],
+  "deepDive": "Delay- and disruption-tolerant networking (DTN) challenges one of the Internet's quiet assumptions: that a continuous end-to-end path exists between sender and receiver while they talk. TCP's design relies on round-trip times measured in milliseconds; it sets timers, waits for acknowledgements and retransmits when they do not arrive. Between Earth and Mars, where one-way light time ranges from about 3 to 22 minutes and links are scheduled around planetary rotation, antenna availability and solar conjunction, those timers make no sense. DTN adds an overlay layer, the Bundle Protocol, that sits above whatever links are available. Each node stores bundles persistently and forwards them when a contact opens, and nodes can accept 'custody' responsibility for delivering them. Routing can use contact plans, because orbital mechanics makes many future links predictable. The architecture was described in RFC 4838 (2007), the first Bundle Protocol in RFC 5050 (2007), and Bundle Protocol Version 7 in RFC 9171 (2022), developed in the IETF and the Consultative Committee for Space Data Systems. Low-orbit satellite constellations raise different debates. Supporters point to fast, low-latency coverage for remote areas and disaster response. Critics raise light pollution for optical astronomy, radio interference, orbital congestion and the long-term risk of collisions creating debris, as well as questions about a single private company controlling critical communications. Governance debates are just as lively. The 'multistakeholder' model, in which bodies such as the IETF, W3C, ICANN and regional address registries coordinate the network with input from governments, companies and civil society, was strengthened when the US government transferred stewardship of the IANA functions in 2016. Some governments argue for a larger role for intergovernmental bodies; others fear that would invite censorship. Historians of technology often note that the Internet's success came less from any single breakthrough than from open, loosely coordinated standards that let many independent players build on each other, and many experts see keeping that openness as the central challenge for the next fifty years.",
+  "funFact": "There is a real, published Internet document, RFC 1149 from 1 April 1990, describing how to send Internet packets by carrier pigeon, and in 2001 a group in Norway actually tested it with real pigeons.",
+  "check": {
+    "q": "What is the key idea that lets delay-tolerant networking work between planets?",
+    "a": "Store and forward: each node keeps data safe until the next link is available",
+    "wrong": [
+      "Sending signals faster than light",
+      "Using one very long cable from Earth to Mars",
+      "Repeating every message thousands of times without waiting"
+    ]
+  },
+  "sources": [
+    {
+      "title": "A Better Network for Outer Space",
+      "publisher": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/s/411092/a-better-network-for-outer-space/"
+    },
+    {
+      "title": "NASA Sends First Space Mails via New Interplanetary Internet",
+      "publisher": "Discover Magazine",
+      "url": "https://www.discovermagazine.com/nasa-sends-first-space-mails-via-new-interplanetary-internet-39223"
+    },
+    {
+      "title": "Delay/Disruption Tolerant Networking",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/communicating-with-missions/delay-disruption-tolerant-networking/"
+    },
+    {
+      "title": "RFC 9171: Bundle Protocol Version 7",
+      "publisher": "RFC Editor / IETF",
+      "url": "https://www.rfc-editor.org/rfc/rfc9171.html"
+    },
+    {
+      "title": "Brief History of the Internet",
+      "publisher": "Internet Society",
+      "url": "https://www.internetsociety.org/internet/history-internet/brief-history-internet/"
+    },
+    {
+      "title": "RFC Editor home page (latest RFCs)",
+      "publisher": "RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    },
+    {
+      "title": "Starlink",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Starlink"
+    },
+    {
+      "title": "Net neutrality in the United States",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Net_neutrality_in_the_United_States"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A train of Starlink satellites seen as a line of bright dots crossing the night sky",
+      "search": "Starlink satellites train night sky"
+    },
+    {
+      "want": "Portrait photograph of Vint Cerf, co-designer of TCP/IP who worked on the Interplanetary Internet",
+      "search": "Vint Cerf portrait"
+    },
+    {
+      "want": "The Deep Impact (EPOXI) spacecraft, used in 2008 to test the Interplanetary Internet",
+      "search": "Deep Impact spacecraft NASA"
+    }
+  ]
+}

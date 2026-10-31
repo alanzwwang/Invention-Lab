@@ -1,0 +1,152 @@
+{
+  "n": 2,
+  "title": "Dreamers, Rockets and a Galactic Idea",
+  "when": "1945 – 1963",
+  "summary": "After a big war, a scientist dreamed of a magic desk that could link every book and note together. Then a tiny Soviet satellite went beep-beep-beep around the Earth, and America rushed to invent new things. A clever scientist nicknamed Lick imagined computers all over the world joined in one giant 'Intergalactic' network!",
+  "sections": [
+    {
+      "heading": "A Desk That Could Remember Everything",
+      "paragraphs": [
+        "In the summer of 1945, the Second World War was ending. One of the most powerful scientists in the United States was an engineer named Vannevar Bush. During the war he had led the government office that organised American scientific research for the war effort, overseeing thousands of scientists working on radar, medicines, weapons and much more. Now he asked himself a big question: once the fighting stops, what should all these brilliant scientists do next?",
+        "His answer appeared in July 1945 in an American magazine called The Atlantic Monthly, in an essay titled 'As We May Think'. Bush pointed out a problem that you might recognise. Scientists were producing so many reports, books and articles that nobody could keep up with them all. Important discoveries were getting lost, simply because no one could find them in time. The world was drowning in information.",
+        "Bush noticed something about the way people think. Our minds do not file ideas in neat alphabetical order like a library card catalogue. Instead, one thought reminds us of another, which reminds us of another, in a chain of connections. He called this association. What if a machine could store information the same way, by linking related things together?",
+        "So Bush imagined a machine he called the Memex. It would look like an ordinary office desk, but inside it would hold a huge library stored on microfilm, which is photographic film that shrinks pages down to tiny pictures. On top of the desk would be slanting translucent screens for reading, plus a keyboard and buttons and levers. You could call up any book or note in seconds, and you could even photograph your own handwritten notes or pictures onto the film by pressing a lever.",
+        "The most exciting part was what Bush called trails. While reading, you could tie two items together, so that whenever you looked at one, you could instantly jump to the other. Step by step, you could build a whole trail of linked documents about a subject you were exploring, add your own comments, and even give a copy of your trail to a friend. In September 1945, Life magazine printed illustrations showing what a Memex desk might look like.",
+        "The Memex was never built. It was based on microfilm and mechanical parts, not on computers or networks, and it was a dream rather than a design. But its central idea, linking pieces of information together so you can jump from one to another, inspired a whole generation. Douglas Engelbart read the essay and later invented many tools of modern computing. Ted Nelson, who coined the word 'hypertext' in the 1960s, quoted Bush at length. Decades later, when you click a link on a web page, you are following a kind of trail that Bush imagined. You will meet these hypertext pioneers again in part 10."
+      ]
+    },
+    {
+      "heading": "One Giant Computer, Many Users",
+      "paragraphs": [
+        "In the 1950s computers were rare, enormous and extremely expensive. A large computer could cost millions of dollars, and only governments, big companies and a few universities could afford one. Because computer time was so precious, people were not allowed to sit at the machine and play around with it. Instead, they used a system called batch processing.",
+        "Here is how batch processing worked. A programmer wrote a program on paper, then turned it into a stack of punched cards, stiff cards with rows of little holes where each pattern of holes stood for a letter or number. The programmer handed the stack, called a deck, to an operator, who fed it into the computer along with many other people's decks, one batch after another. Hours later, or even the next day, the programmer collected a printout. If there was a single typing mistake, the program failed, and the whole process started again. Fixing a small program could take days.",
+        "Some researchers found this maddening. They wanted to have a conversation with the computer: type something, get an answer straight away, try again. In 1959 the British computer scientist Christopher Strachey described an idea called time-sharing, and in the same year the American scientist John McCarthy proposed a time-sharing system at the Massachusetts Institute of Technology (MIT). The trick was speed. A computer works so fast that it can switch between many users in a fraction of a second, giving each one a tiny slice of time in turn. To each person, it feels as if they have the whole computer to themselves.",
+        "Imagine a chess master playing 30 people at once, walking quickly from board to board and making one move at each. Each player gets the master's attention only for a moment, but the master is so quick that every player feels the game is moving along nicely. Time-sharing let one computer play that role for dozens of people sitting at terminals.",
+        "A terminal was usually a machine like an electric typewriter, called a teletype, connected to the computer by a cable or by a telephone line. You typed a command, and the computer's reply was typed back onto a roll of paper in front of you. There were no colourful screens in most places yet, but for the first time ordinary programmers could talk to a computer almost as if it were a person.",
+        "At MIT, a team led by Fernando Corbató built the Compatible Time-Sharing System, known as CTSS, which had a working version by November 1961. Others followed. At Dartmouth College in New Hampshire, the mathematicians John Kemeny and Thomas Kurtz built a time-sharing system that began working in 1964 so that students, not just experts, could use a computer, and they invented the simple programming language BASIC for them. Users on time-sharing systems soon discovered that they could leave notes and files for one another on the shared machine. Without quite meaning to, they had created small online communities, years before the Internet.",
+        "Time-sharing also showed that a computer could be used from far away. If a terminal could connect to a computer over a telephone line from across a building, why not from across a city or a country? In fact, the US military had already built a giant air-defence system called SAGE in the 1950s, with computer centres linked by telephone lines to radar stations, using early devices called modems to turn computer data into sounds the phone lines could carry. Computers were starting to reach beyond their rooms. But they still could not easily talk to other computers of different makes."
+      ]
+    },
+    {
+      "heading": "Beep... Beep... Beep: The Sputnik Shock",
+      "paragraphs": [
+        "On 4 October 1957, a rocket roared into the night sky from a launch site in the desert near Tyuratam, in what is now Kazakhstan, then part of the Soviet Union. On top of the rocket was a shiny metal ball about 58 centimetres (22 inches) wide, weighing about 83 kilograms (183 pounds), with four long spring-loaded antennas trailing behind it like whiskers. It was called Sputnik 1, and it became the first human-made object to orbit the Earth.",
+        "Sputnik circled the planet about once every 96 minutes. Inside, a small radio transmitter sent out a simple beep, beep, beep. Radio operators and amateur radio fans around the world tuned in and heard it as it passed overhead. On clear nights, people could even spot the rocket's bright upper stage, which was also in orbit, crossing the sky. Sputnik itself kept orbiting for about three months, until it fell back into the atmosphere and burned up on 4 January 1958.",
+        "Sputnik also taught scientists something useful. At the Johns Hopkins Applied Physics Laboratory in Maryland, two young physicists, William Guier and George Weiffenbach, listened to its beeps and noticed that the pitch rose as the satellite came towards them and fell as it moved away, the same effect you hear when an ambulance siren races past. By measuring that change carefully, they could work out the satellite's whole orbit. Their colleagues then turned the idea around: if you know exactly where a satellite is, you can use its signal to work out where you are on Earth. That led to Transit, an early satellite navigation system for ships and submarines, and an ancestor of the satellite navigation in phones today.",
+        "To understand why a beeping ball caused such a stir, you need to know about the Cold War. After the Second World War, the United States and the Soviet Union became rivals. They did not fight each other directly, but they competed fiercely in weapons, science, sport and space. Many Americans had assumed that their country was ahead in technology. Sputnik suggested that the Soviet Union might be ahead instead. And if a Soviet rocket could put a satellite in orbit, people worried, it might also be able to carry a weapon across the world.",
+        "Historians often describe the reaction in the United States as a shock, and some at the time compared it to the surprise attack on Pearl Harbor in 1941. Things got worse when the Soviet Union launched Sputnik 2 on 3 November 1957, carrying a dog named Laika. Then, on 6 December 1957, an American Vanguard rocket, watched on live television, rose only about a metre off the launch pad before it sank back and exploded in a ball of fire. Newspapers mocked it with names like 'Flopnik'.",
+        "The United States finally reached orbit on 31 January 1958 with a satellite called Explorer 1, launched by the US Army. Its instrument, designed by the scientist James Van Allen, discovered belts of radiation around the Earth, now called the Van Allen belts. But the government decided that catching up would take more than one satellite. It needed new organisations and much more money for science and education.",
+        "In 1958 Congress passed laws that changed American science for decades. On 29 July 1958 President Dwight D. Eisenhower signed the act that created NASA, the National Aeronautics and Space Administration, which opened on 1 October 1958. Later that year a law called the National Defense Education Act gave money to schools and universities to train more scientists, engineers, mathematicians and language experts. And even before NASA, the government had created a smaller, unusual agency with a very big mission."
+      ]
+    },
+    {
+      "heading": "ARPA: An Agency for Big Ideas",
+      "paragraphs": [
+        "On 7 February 1958, only four months after Sputnik, the US Department of Defense created the Advanced Research Projects Agency, known as ARPA. Its job was to make sure the United States would never again be caught by surprise by another country's technology. It started with a budget of about 520 million dollars, and its first director was Roy Johnson, a business executive.",
+        "At first ARPA was in charge of America's space projects. But when NASA opened later in 1958, most of the space work and much of ARPA's money moved over to the new space agency. That left ARPA with a smaller role and a question: what should it do now? It became the place that funded bold, risky research that might take years to pay off, such as new materials, ways of detecting nuclear tests, and better computers.",
+        "ARPA worked in an unusual way. It did not have its own big laboratories full of scientists. Instead, it had a small number of program managers who chose promising researchers at universities and companies and gave them money to chase ambitious ideas. The managers had a lot of freedom to make decisions quickly and to take chances on ideas that other funders might think too wild. Many projects failed, and that was accepted as part of the deal, because a few successes could change everything.",
+        "Some of ARPA's early projects show the kinds of problems it tackled. Project Vela looked for ways to detect secret nuclear weapons tests, whether underground, in the atmosphere or in space, using sensitive earthquake detectors and special satellites. Project Defender studied ways to defend against long-range missiles. These were huge, difficult challenges that needed new science, and they made ARPA a regular customer for the most powerful computers available. Its leaders soon realised that the way people used computers was itself a problem worth studying. Computers were becoming essential for gathering information and helping commanders make decisions quickly, yet they were awkward and slow to use.",
+        "Its name changed several times over the years. In March 1972 it became DARPA, the Defense Advanced Research Projects Agency, which is what it is mostly called today. DARPA still describes its mission as preventing technological surprise and creating surprises of its own. Over the decades, research it funded contributed to things like stealth aircraft, self-driving car competitions and much more. But its most famous contribution of all began with a quiet psychologist who loved computers."
+      ]
+    },
+    {
+      "heading": "Meet Lick: A Psychologist Who Loved Computers",
+      "paragraphs": [
+        "Joseph Carl Robnett Licklider was born in St. Louis, Missouri, in 1915. That is a long name, so almost everyone called him J.C.R., or simply Lick. Friends remembered him as warm, funny and generous, a man who would rather share an idea than take credit for it. He is not as famous as some inventors in this story, yet many of the people who built the Internet said he was the person who first showed them where they were going.",
+        "Lick was not trained as a computer scientist, because in the 1930s and 1940s there was no such subject. He studied psychology, and he became an expert in psychoacoustics, the science of how people hear sounds. He developed a well-known theory of how we hear the pitch of a sound. During and after the Second World War he studied how people could communicate clearly over noisy radios and telephones.",
+        "In the 1950s, at MIT, Lick worked on the human side of the SAGE air-defence system: how operators sitting at screens could work together with computers to track aircraft quickly. In 1957 he joined a Boston company called Bolt Beranek and Newman, known as BBN, where he got to use a computer interactively, typing and getting answers right away, and he helped develop a time-sharing system. He was hooked. He realised that computers could be much more than giant calculators. They could be partners in thinking.",
+        "In March 1960 Lick published a paper called 'Man-Computer Symbiosis' in a scientific journal for electronics engineers. Symbiosis is a word from biology. It describes two different living things that live closely together and help each other. Lick gave the example of the fig tree and a tiny wasp: the tree depends on the insect to pollinate its flowers, and the insect's young depend on the tree for food. Neither does as well alone. Lick suggested that humans and computers could form a partnership like that.",
+        "In this partnership, he wrote, people would do what people are best at: setting goals, asking questions, making guesses and judging results. Computers would do the routine work, such as searching through data, calculating and drawing graphs. To show why this mattered, Lick had timed his own working day. He estimated that about 85 percent of his 'thinking' time was actually spent getting into a position to think, gathering information, plotting graphs and converting data, rather than actually thinking. A computer partner could take over much of that drudgery.",
+        "His paper opened with the line: 'Man-computer symbiosis is an expected development in cooperative interaction between men and electronic computers.' He listed what would be needed to make it happen: time-sharing, better memory, easier programming languages, better displays, and even computers that could understand speech. He also imagined a network of 'thinking centers', computers linked together by communication lines and shared by many users. Sixty years later, many of his wishes have come true."
+      ]
+    },
+    {
+      "heading": "Members of the Intergalactic Computer Network",
+      "paragraphs": [
+        "In October 1962 ARPA asked Lick to set up a new office to fund research on computers for command and control, meaning how leaders gather information and make decisions. He became the first head of what came to be called the Information Processing Techniques Office, or IPTO. Now Lick had money to spend and the chance to turn his dreams into real projects.",
+        "He chose to spread it around the country's best computer research groups. He funded MIT's Project MAC, which began in 1963 and pushed time-sharing much further, as well as work at places such as the University of California at Berkeley, Stanford University, Carnegie Institute of Technology in Pittsburgh, UCLA, and the System Development Corporation in Santa Monica, California. Many of the researchers he backed went on to become leaders of computing for decades. He also encouraged them to work together and share their ideas, rather than compete in secret.",
+        "In August 1962, even before he joined ARPA, Lick wrote memos describing what he called a 'Galactic Network'. He pictured a set of computers all around the world, connected together, so that anyone at any site could quickly reach data and programs stored anywhere else. The Internet Society, which helps look after the Internet today, says that in spirit this idea was very much like the Internet we have now.",
+        "In April 1963, Lick sent a long memo to the researchers he was funding. With his usual sense of humour, he addressed it to the 'Members and Affiliates of the Intergalactic Computer Network'. Of course, nobody was really planning to connect computers on other planets. The grand name was a joke, but it was also a hint of how big and connected he imagined things could become.",
+        "The memo was serious underneath the fun. Lick pointed out that each research group had its own computer, its own programming languages and its own way of doing things. If these computers were ever going to work together, they would need to agree on a shared language for talking to each other. He compared the problem to science-fiction stories about meeting beings from another world: how do you start communicating with someone who does not share your language at all? Today we call those shared agreements protocols, and they are the true foundation of the Internet.",
+        "Lick left ARPA in 1964, and others continued his work. He did not build the network himself, and the technology to do it did not yet exist. But his vision became the guiding star. In 1968 he and Robert Taylor, who later led the office himself, wrote an article called 'The Computer as a Communication Device'. It began with a bold prediction: 'In a few years, men will be able to communicate more effectively through a machine than face to face.' Considering that you may chat with friends through a screen every day, that sounds remarkably accurate."
+      ]
+    },
+    {
+      "heading": "Why Connect Computers at All?",
+      "paragraphs": [
+        "Why did researchers want to connect their computers? It was not mainly to send each other jokes or play games, although they would soon do both. The first reason was money. Computers cost a fortune, and every university Lick funded wanted the latest machines. If a powerful computer at one university could be used by researchers at another, through a network, the government would not have to buy the same expensive machine over and over again.",
+        "The second reason was programs. Each research group wrote special software for its own machine, such as programs for graphics, for studying language or for complex mathematics. Usually, that software only ran on that one computer. A researcher in California who wanted to use a brilliant program in Massachusetts might have to fly across the country, or rewrite the whole program from scratch. With a network, they could simply log in from home.",
+        "The third reason was data and people. Researchers wanted to share results, collections of data and documents, and they wanted to work together across long distances. The Internet Society notes that sharing computer resources was a major reason for building both the ARPANET and, later, the Internet. And Lick saw something more: connected computers could bring people with the same interests together, wherever they lived, forming what he called online communities.",
+        "Here it is worth clearing up a famous myth. People sometimes say that the network that grew into the Internet was built mainly so the military could survive a nuclear war. That is not quite right. The researchers of the 1960s chiefly wanted to share computers, programs and data. Another engineer, working separately, really was thinking about how communications could survive an attack, and you will meet him in part 3. But that was not the main reason ARPA built its network.",
+        "But there was still a giant puzzle. The only long-distance lines available were telephone lines, and you know from part 1 how telephone networks work: each call ties up a whole circuit from start to finish. Computers do not talk like people. They send a quick burst of data, then pause for a long time, then send another burst. Holding a whole line open for that would be slow, wasteful and expensive. So the dreamers had a vision and a funder, but they faced a problem nobody had solved yet: how do you send computer messages over a network without tying up whole lines, the way a phone call does?"
+      ]
+    }
+  ],
+  "deepDive": "Historians of the Internet often argue about how much credit visionaries like Bush and Licklider deserve compared with the engineers who actually built networks. Bush's Memex was a mechanical, microfilm-based fantasy; it had no network and no computer, and some critics point out that his 'trails' were closer to stored bookmarks than to true hypertext. Yet both Douglas Engelbart and Ted Nelson said the essay shaped their thinking, so its influence on later hypertext and the Web is well documented. Licklider is a more direct ancestor. His 1960 paper set out an agenda: time-sharing, interactive graphics, better memory organisation, easier programming languages and speech input. As first director of ARPA's computer research office from October 1962, he steered money to a handful of university groups instead of building a central government laboratory, which helped create a research community that later built the ARPANET. His successors, including Ivan Sutherland and Robert Taylor, inherited both that community and his conviction that computers should be linked. Another debate concerns the role of the Cold War. Without Sputnik there would have been no ARPA in 1958, and ARPA was a defence agency; the money came because of military competition with the Soviet Union. But the agency's computer office gave researchers wide freedom, and the stated purpose of the network that followed was resource sharing among researchers, not surviving a nuclear attack. Historians therefore describe the Internet's origins as military funding combined with an academic culture of openness. Time-sharing also matters more than it might seem. By letting many users share one machine through terminals, systems such as MIT's CTSS (working by November 1961) and Dartmouth's system (1964) created the first online communities, complete with shared files and messages, and they made the idea of reaching a computer from far away feel normal. They also exposed the networking problem clearly: a connection from a terminal to a computer carries bursty traffic, mostly silence punctuated by short bursts of data, which is a poor match for telephone circuits priced and engineered for steady conversation. That mismatch is the technical gap the next generation of researchers would fill.",
+  "funFact": "The Sputnik 1 satellite that shocked the world in 1957 was only about 58 centimetres wide, a little bigger than a beach ball.",
+  "check": {
+    "q": "How did J.C.R. Licklider jokingly address his April 1963 memo to the researchers he funded?",
+    "a": "To the 'Members and Affiliates of the Intergalactic Computer Network'",
+    "wrong": [
+      "To the 'Friends of the World Wide Web'",
+      "To the 'Crew of Sputnik 1'",
+      "To the 'Memex Users Club'"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Brief History of the Internet",
+      "publisher": "Internet Society",
+      "url": "https://www.internetsociety.org/internet/history-internet/brief-history-internet/"
+    },
+    {
+      "title": "Internet History of 1960s",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/internethistory/1960s/"
+    },
+    {
+      "title": "Networking & The Web timeline",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/timeline/networking-the-web/"
+    },
+    {
+      "title": "Sputnik and the Origins of the Space Age",
+      "publisher": "NASA History",
+      "url": "https://www.nasa.gov/history/sputnik/sputorig.html"
+    },
+    {
+      "title": "Man-Computer Symbiosis (J.C.R. Licklider, 1960)",
+      "publisher": "MIT CSAIL",
+      "url": "https://groups.csail.mit.edu/medg/people/psz/Licklider.html"
+    },
+    {
+      "title": "About DARPA",
+      "publisher": "DARPA",
+      "url": "https://www.darpa.mil/about"
+    },
+    {
+      "title": "Memex",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Memex"
+    },
+    {
+      "title": "Time-sharing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Time-sharing"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A replica or model of the Sputnik 1 satellite: a polished metal sphere with four long antennas",
+      "search": "Sputnik 1 replica satellite"
+    },
+    {
+      "want": "Portrait photograph of engineer Vannevar Bush, author of 'As We May Think'",
+      "search": "Vannevar Bush portrait"
+    },
+    {
+      "want": "A Teletype terminal of the 1960s like those used to reach time-sharing computers",
+      "search": "Teletype Model 33 ASR terminal"
+    }
+  ]
+}

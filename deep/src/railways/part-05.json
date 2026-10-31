@@ -1,0 +1,160 @@
+{
+  "n": 5,
+  "title": "The Colliery Engines",
+  "when": "1812 – 1824",
+  "summary": "In the coal mines of northern England, engineers built the first steam engines that worked every single day. One climbed along a track with teeth, one called Puffing Billy proved smooth wheels could grip smooth rails, and a young man who learned to read at 18 built his first engine. Their names were Salamanca, Puffing Billy and Blücher.",
+  "sections": [
+    {
+      "heading": "Why the Coal Mines Came First",
+      "paragraphs": [
+        "Imagine standing beside a muddy wagonway in Yorkshire in the spring of 1812. Coal wagons creak past on rails, each one pulled by a tired horse with steam rising from its back. A boy walks beside each horse. Behind you are the pits, where men and children dig coal out of the dark. Ahead, a few miles away, is the busy town of Leeds, where every kitchen fire, every forge and every new factory steam engine is hungry for coal. The horses plod back and forth all day, and every one of them has to be fed.",
+        "Richard Trevithick had already shown, back in 1804, that a steam locomotive could pull a load along rails. But his engines broke the track and never settled into regular work. The next big step happened in a very particular kind of place: the coal mines of northern England. There were good reasons for that, and they are worth looking at one by one, because they explain why railways were born in coalfields and not in big cities.",
+        "First, coal mines already had tracks. As you saw in Part 2, wagonways had been carrying coal on wooden and then iron rails for two hundred years. A mine owner who wanted to try a locomotive did not have to buy land, ask Parliament for permission or build a brand-new route. The track was already there, running from the pit to a river or canal.",
+        "Second, the loads were heavy and they went the same way every day. A mine might send hundreds of tons of coal down the same few miles of track, from the same pit to the same riverbank. That is the perfect job for a machine. A locomotive does not need to be clever or fast. It just needs to be strong and to keep going.",
+        "Third, the fuel was free, or nearly free. A steam engine eats coal, and a coal mine has mountains of it, including small broken pieces that were hard to sell. The locomotive could burn the mine's own leftovers.",
+        "Fourth, mines had skilled engine men. Collieries had used big stationary steam engines to pump out water since the days of Thomas Newcomen. Every big pit had an engine-wright, a mechanic in charge of the engines, plus blacksmiths and fitters who knew how to mend boilers, pistons and valves.",
+        "And fifth, horses had become very expensive. From 1803 to 1815 Britain was at war with Napoleon's France. Armies needed huge numbers of horses, and the price of horses and of the oats and hay to feed them shot up. A mine with dozens of horses was spending a fortune every week. Suddenly a machine that ate cheap coal instead of costly oats looked very attractive."
+      ]
+    },
+    {
+      "heading": "Salamanca and the Railway with Teeth",
+      "paragraphs": [
+        "The first place where steam locomotives went to work and stayed at work was the Middleton Railway, which carried coal from the pits at Middleton to the edge of Leeds. It was already an old and special line. In 1758 the mine owner Charles Brandling got an Act of Parliament to protect his wagonway, making Middleton the first railway in the world to be given powers by an Act of Parliament. For more than fifty years horses did all its work.",
+        "The mine's manager, or agent, was a man named John Blenkinsop. He knew about Trevithick's locomotives and he knew their big weakness. People in those days believed that if you put smooth iron wheels on smooth iron rails, the wheels would simply spin, like a car's tyres on ice, and the engine would go nowhere with a heavy load behind it. They thought you would have to make the engine very heavy to press the wheels down hard enough to grip, and a very heavy engine would smash the brittle cast-iron rails. Trevithick had seen exactly that happen.",
+        "Blenkinsop came up with a clever answer, which he patented in 1811. Along one side of the track he laid a special rail with teeth sticking out of it, like a long straight comb. On the locomotive there would be a big cog wheel, a wheel with teeth around its edge, which would mesh with the toothed rail. As the cog turned, its teeth pushed against the teeth on the rail, so the engine pulled itself along like a gear wheel climbing a ladder. It could not slip, and it did not need to be heavy. This idea is called a rack and pinion: the rack is the toothed rail and the pinion is the cog.",
+        "To build the engine, Blenkinsop turned to Matthew Murray, one of the finest engineers in Leeds. Murray ran a works at Holbeck, in partnership with others, that made steam engines and textile machinery. His locomotive, built in 1812, was named Salamanca, after the Duke of Wellington's victory over the French at the Battle of Salamanca in Spain that same year. Naming a new machine after a famous battle was a way of making it feel exciting and patriotic.",
+        "Salamanca weighed only about 5 tons. It had a single boiler with a flue running through the middle to carry the hot gases from the fire, and it was the first locomotive to have two cylinders instead of one. The two cylinders sat on top of the boiler, each 8 inches across, and they drove the big cog wheel through cranks. With two cylinders working one after the other, the push was smoother and the engine could always start, whatever position its cranks had stopped in. The cog was on the left side of the engine and the rack rail ran along the outside of the track. The ordinary wheels just rolled along to carry the weight.",
+        "Salamanca started work in 1812, and this time it was not a demonstration or a fairground ride. It went to work hauling coal, day after day, and the mine saved money doing it. That is why historians call Salamanca the first commercially successful steam locomotive: the first one that earned its keep in regular business. Four locomotives of this type were eventually built for the Middleton Railway, and some of them worked for many years. Much later, in 1829, one locomotive on the line was recorded pulling thirty loaded coal wagons weighing about 140 tons.",
+        "There were sad moments too. Around 1818 Salamanca's boiler exploded. George Stephenson later told a committee of Parliament that the driver had tampered with the safety valve, the device that lets out steam when the pressure gets too high. Holding a safety valve shut to get a little more power was a deadly habit in the early days, and you will meet it again in later parts of this story.",
+        "The rack idea did not become the normal way to run a railway, because toothed rails were expensive to make and wore out. But it never disappeared. Today rack railways climb steep mountains all over the world, in Switzerland, in Wales up Snowdon, and elsewhere, using the same basic idea as Blenkinsop. And the Middleton Railway itself is still running. Since 1960 volunteers have operated it as a heritage railway, so you can still ride trains along the route where Salamanca once worked."
+      ]
+    },
+    {
+      "heading": "Puffing Billy and the Great Grip Question",
+      "paragraphs": [
+        "About 80 miles north of Leeds, on the banks of the River Tyne west of Newcastle, lay the village of Wylam and its coal mine. Wylam Colliery belonged to Christopher Blackett, a wealthy and curious man who had actually ordered a locomotive from Trevithick's designs years earlier, though it was never used on his line. His wagonway ran about five miles from the pit to the river at Lemington, where the coal was loaded onto boats. Blackett had already replaced the old wooden rails with iron plate rails, which gave him a stronger track to experiment on.",
+        "Blackett's colliery viewer, meaning the manager who looked after the running of the mine, was William Hedley, born in 1779 at nearby Newburn. Hedley was not willing to simply accept what everybody said about smooth wheels. Did iron wheels on iron rails really slip uselessly, or had nobody actually measured it properly? He decided to find out.",
+        "Hedley built a test carriage, a wagon whose wheels could be turned by men working handles, like a giant hand-cranked toy. He loaded it with different weights and coupled loaded coal wagons behind it, then watched carefully to see when the wheels would slip and when they would grip. His experiments showed something wonderful: as long as the engine itself was heavy enough, the friction between plain iron wheels and plain iron rails was enough to pull a useful train of wagons. This grip is called adhesion. Hedley did not need teeth, cogs or any other complicated trick. He just needed a properly weighted engine with all its wheels driven.",
+        "Now Hedley needed a real locomotive. He worked with two highly skilled men from the colliery: Jonathan Forster, the engine-wright, and Timothy Hackworth, the foreman blacksmith, who was born in Wylam in 1786. Historians today think Hackworth did a great deal of the hands-on engineering, though Hedley usually gets the main credit as the designer. Between 1813 and 1814 the three of them built the engine that became famous as Puffing Billy.",
+        "Puffing Billy looks strange to modern eyes. It has a fat, round boiler lying on its side, and two tall upright cylinders standing on either side, with long beams rocking up and down above them like the arms of a see-saw. Those beams worked rods that turned a crankshaft, and a set of gear wheels passed the power to the road wheels, so that all of them were driven. The engine weighed about 8 tons without its tender, and the boiler worked at a pressure of about 50 pounds per square inch. Its top speed was only about 5 mph (8 km/h), around the speed of a brisk walk, but speed was not the point. Strength was.",
+        "Its weight caused trouble, just as Trevithick's had. The cast-iron plates of the Wylam wagonway kept cracking. Hedley's solution was to spread the load over more wheels. The engines were rebuilt to run on eight wheels, so each wheel pressed down less hard on the brittle plates. Around 1830, when the wagonway was relaid with stronger edge rails, Puffing Billy went back to running on four wheels, which is how you can see it today.",
+        "Puffing Billy kept working until 1862, almost fifty years. That year it was lent to the Patent Office Museum in South Kensington, London, which later grew into the Science Museum, and the museum later bought it for £200. It is the oldest surviving steam locomotive in the world, and it stands in the Science Museum in London today. There is even a suggestion that the old English phrase 'puffing like Billy-o', meaning puffing very hard, might come from this engine's name, though nobody can prove that for certain."
+      ]
+    },
+    {
+      "heading": "The Boy Who Learned to Read at Eighteen",
+      "paragraphs": [
+        "Right beside that same Wylam wagonway stood a small stone cottage. On 9 June 1781 a baby named George Stephenson was born there. His father, Robert, worked as a fireman for a colliery pumping engine, stoking its fire for very low pay. Neither of George's parents could read or write, and the family was too poor to send him to school. As a small child he would have seen horses pulling coal wagons right past his front door.",
+        "George started work while still a young boy, first minding cows, then picking stones out of coal. As he grew, he moved up to jobs around the colliery engines: helping his father, then working as an engineman and as a brakesman, the person who controlled the winding engine that lifted men and coal up and down the mine shaft. He loved machines. He took engines apart in his spare time to understand exactly how each part worked, and he could often spot a problem that puzzled other men.",
+        "But George had a problem of his own. At 17 he still could not read. He realised that the newest ideas about engines were written down in books, and he could not open them. So, at about 17 or 18, he paid out of his own small wages for night classes in reading, writing and arithmetic, sitting with much younger children to learn his letters. Imagine being a strong, grown young man who works hard all day at the pit, then going to school in the evening to learn the alphabet. It took real courage and determination.",
+        "In 1802 he married Frances Henderson, and in 1803 their son Robert was born at Willington Quay on the Tyne. To earn extra money George mended shoes and repaired clocks and watches in the evenings. Then tragedy struck: Frances died of tuberculosis in 1806. George was left to bring up little Robert, and he was determined that his son would get the education he had missed. Robert was later sent to a good school in Newcastle, and he would often read books and bring knowledge home to share with his father. The two of them became an extraordinary team, as you will see in the next few parts.",
+        "George's big break came at Killingworth, a group of collieries north of Newcastle. The pumping engine at one pit, called High Pit, could not keep the water out, and the experts could not fix it. Stephenson offered to try. After he rebuilt and adjusted it, the engine pumped the pit dry. The owners were so impressed that around 1811 or 1812 they made him engine-wright for all of their collieries, in charge of every engine they owned. The illiterate teenager had become one of the most trusted mechanics in the coalfield."
+      ]
+    },
+    {
+      "heading": "Blücher: Stephenson's First Locomotive",
+      "paragraphs": [
+        "At Killingworth, Stephenson studied every locomotive he could. He knew about Trevithick's work, he went to see Blenkinsop's engines, and he knew what was happening at Wylam, a few miles from where he grew up. The owners of Killingworth, a partnership of wealthy coal owners known as the Grand Allies, agreed to pay for him to build a 'travelling engine', as locomotives were often called then.",
+        "His first famous locomotive was named Blücher, after the Prussian general Gebhard von Blücher, who was fighting against Napoleon alongside Britain. It first ran on 25 July 1814 on the Killingworth wagonway. Some recent historians think an earlier Stephenson engine, called My Lord, may have run slightly before it, but Blücher is the engine people remember.",
+        "Blücher worked by adhesion, like Puffing Billy, with no rack or cog. It could pull a train of loaded wagons weighing about 30 tons up a gentle slope at about 4 mph (6.4 km/h). That was not dramatic, but it was useful work. Like other early engines, its two cylinders were set into the boiler, and it used gears to pass the power to the wheels.",
+        "Stephenson kept improving. One thing he did was to send the used steam from the cylinders up the chimney. As the steam rushed out, it dragged air through the fire, making it burn hotter so the boiler made more steam. Other engineers, including Trevithick, had noticed this effect too, and who should get credit for the best version of this blastpipe is a story for Part 7. In 1815 Stephenson, with a partner, patented a way to connect the cylinders' rods more directly to the wheels, getting rid of most of the noisy gears.",
+        "Stephenson's reputation grew. In 1822 he engineered the Hetton colliery railway in County Durham, about 8 miles (13 km) long. It was the first railway designed from the start to work without any animal power at all. On the flat sections, Stephenson locomotives pulled the wagons. On the steep hills, fixed steam engines at the top hauled wagons up on ropes. On some downhill stretches, called self-acting inclines, the heavy loaded wagons rolling down pulled the empty wagons back up, using nothing but gravity. It opened on 18 November 1822 and showed that an entire railway could run on machines and gravity alone."
+      ]
+    },
+    {
+      "heading": "Iron That Bends Instead of Breaking",
+      "paragraphs": [
+        "By now you will have noticed a pattern. Trevithick's engine cracked the rails at Penydarren. Puffing Billy cracked the plates at Wylam and had to be given extra wheels. Every early locomotive builder ran into the same wall: the track was too weak for the engines. If railways were ever going to carry heavy locomotives every day, they needed better rails.",
+        "The trouble was the kind of iron. Most early rails were made of cast iron, which is iron melted until it is runny and poured into a mould shaped like the rail. Cast iron is cheap and easy to shape, and it is very strong when you squash it. But it contains a lot of carbon, which makes it brittle. Give it a sharp knock or bend it, and instead of bending it snaps, a bit like a biscuit. Each cast rail was also short, usually only about 3 or 4 feet long, because longer castings were more likely to break. That meant a joint every few steps, and every joint was a bump that hammered the wheels and the rail ends.",
+        "There was another kind of iron, called wrought iron, meaning 'worked' iron. It is made by heating iron and hammering, stirring and rolling it to squeeze out most of the carbon and slag. Wrought iron is tough and a little bendy. If you hit it hard, it dents or bends instead of shattering. Blacksmiths had always used it for horseshoes, chains and tools. The problem was making it in long, rail-shaped pieces.",
+        "The answer came from Bedlington Ironworks in Northumberland, not far from Killingworth. There, an engineer named John Birkinshaw worked out how to make rails by passing red-hot wrought iron between rollers with specially shaped grooves, squeezing it into the right cross-section. In 1820 he patented this method. His rails came in lengths of about 15 feet, four or five times longer than typical cast rails, so there were far fewer joints. They were also made in a 'fish-bellied' shape, deeper in the middle between supports where the bending force is greatest, and shallower at the ends, so that the metal was put exactly where it was needed most.",
+        "George Stephenson saw at once how good these rails were, and he recommended them for the next big railway he worked on, even though he himself held a share in a patent for cast-iron rails and would earn money if cast iron were chosen. That honest choice cost him money and, it is said, upset his business partner in the cast-iron patent. But he knew that wrought iron was the future. Birkinshaw's invention has been called a vital breakthrough for the young railways, because from then on track could grow stronger as engines grew heavier. Later in the century, wrought iron would itself be replaced by steel, which is tougher still."
+      ]
+    },
+    {
+      "heading": "Two Lamps and a Dangerous Gas",
+      "paragraphs": [
+        "Locomotives were not the only thing George Stephenson invented at Killingworth. In the same busy years he also designed a safety lamp for miners, and the story of that lamp shows how hard it can be to say who invented something first.",
+        "Deep coal mines contain a gas that miners called firedamp. It is mostly methane, the same gas used in many kitchen cookers today. Firedamp seeps out of the coal, and when it mixes with air in the right amount, a single flame can make it explode. In those days the only light underground came from candles and open-flamed lamps, so every miner was carrying a possible spark into a possible bomb. On 25 May 1812, an explosion at Felling Colliery near Gateshead killed 92 people, including boys as young as 8. The disaster shocked the country. A group of local clergy, doctors and mine owners formed the Sunderland Society to find ways of preventing such accidents, and one of their big hopes was a lamp that could not set off firedamp.",
+        "Stephenson had been experimenting carefully for years, holding candles near places where gas leaked out in the mine and watching how the flame behaved. He noticed that if the air reaching a flame came in only through very narrow passages, a flame could not travel back out through them. In 1815 he had a lamp made to his design. It was delivered on 21 October, and he bravely tested it in the mine where firedamp was present. He improved it with small tubes at the base to let air in, tested new versions in November, and showed it to the Literary and Philosophical Society of Newcastle on 5 December 1815. His lamp had a glass chimney around the flame, which let out plenty of light. If the gas became too strong, the lamp simply went out.",
+        "At the very same time, in London, the famous chemist Sir Humphry Davy was working on the same problem. Davy studied flames scientifically and found that a fine metal gauze, a mesh of thin wire, would let air in but cool any flame trying to pass through it so much that it could not ignite the gas outside. His Davy lamp, also from 1815, surrounded the flame with a cylinder of this gauze.",
+        "A fierce argument followed. Davy was a celebrated scientist, and he and his supporters believed that a self-taught colliery mechanic could not possibly have worked out the principle on his own, so Stephenson must have heard of Davy's ideas. Stephenson's supporters pointed to his earlier tests and to the dates. A committee in Newcastle looked into Stephenson's claims and cleared him of copying, and he was given a reward of £1,000. Davy received about £2,000 worth of silver from a public collection, plus a medal from the Royal Society. Much later, in 1833, a committee of the House of Commons decided that Stephenson had an equal claim to the invention. Davy, it is said, died believing he had been copied.",
+        "The fair way to tell this story is that two people, working separately with different methods, arrived at similar answers in the same year. That happens surprisingly often in the history of invention, because when a problem is urgent and the tools are ready, more than one clever mind goes looking for the solution. Stephenson's lamp, later improved with some of Davy's gauze, became known as the Geordie lamp and was used in the mines of north-east England for most of the nineteenth century. Some people think the nickname 'Geordie', used today for people from Tyneside, may be linked to the miners who used Stephenson's lamp, but that is only one of several ideas and nobody knows for sure."
+      ]
+    },
+    {
+      "heading": "What the Colliery Engines Proved",
+      "paragraphs": [
+        "Step back and look at what happened between 1812 and the early 1820s. In about ten years, a handful of engineers in coal-mining districts turned the steam locomotive from a risky experiment into an everyday working machine. Salamanca proved that a locomotive could earn money in regular work. Puffing Billy and Hedley's tests proved that plain wheels on plain rails had enough grip, so railways would not need expensive toothed rails. Stephenson's Killingworth engines proved that a self-taught engine-wright could keep improving the design, year after year, and Hetton proved that a whole line could run without horses. Birkinshaw's rolled wrought-iron rails gave the engines a track strong enough to carry them.",
+        "By the early 1820s, then, the question was no longer 'Can a steam locomotive work?' It was 'Could locomotives work on a long railway, open to everyone, connecting towns?' Some people had a very practical reason to want the answer to be yes. About 30 miles south of the Tyne, in the market town of Darlington, a careful Quaker businessman named Edward Pease was studying maps and sums. Coal from the rich pits of south-west Durham was trapped inland, and getting it down to the River Tees at Stockton by horse and cart was slow and costly. Pease was looking for a cheaper way to move that coal to the river, and he was about to find George Stephenson."
+      ]
+    }
+  ],
+  "deepDive": "Why did so many engineers believe smooth wheels would slip? The physics of adhesion explains both the fear and the answer. The pulling force a driven wheel can transmit before it slips is roughly the weight pressing on it multiplied by the coefficient of friction between wheel and rail. For clean, dry iron or steel on iron or steel, that coefficient is usually around 0.2 to 0.3, falling much lower when the rail is wet, greasy or covered in leaves. A locomotive with 8 tons resting on its driving wheels can therefore exert a pull of perhaps 1.6 to 2.4 tons before slipping. But the resistance of a wagon rolling on rails is tiny, only a few kilograms of force per ton on level track, so even that modest pull can move many tens of tons on the flat. Hedley's experiments in effect measured this balance. The trouble came on slopes, where gravity adds about 10 kilograms of resistance per ton for every 1 per cent of gradient, which is why early railways were laid as level as possible and why steep sections were handled by rope haulage or rack. Blenkinsop's rack sidestepped the problem by using positive engagement, the same principle as a gear, so the pull no longer depended on weight; that let Salamanca be light enough, at around 5 tons, not to break cast-iron rails. Hedley and Stephenson took the other path: make the engine heavy enough to grip, couple all the wheels together so all of the engine's weight counts, and then demand stronger track. That second path required a materials revolution. Cast iron, with roughly 2 to 4 per cent carbon, is strong in compression but weak and brittle in tension; a rail bending under a wheel load has its lower edge in tension, exactly where cast iron cracks. Wrought iron, with very little carbon and fibres of slag, could flex and deform without sudden failure, and Birkinshaw's rolling process produced it in long uniform lengths. Historians still debate credit in this period. Hackworth's role in Puffing Billy is probably under-recognised, Stephenson's early engines owed much to visits to Wylam and Leeds, and the Davy-Stephenson lamp quarrel was coloured by class prejudice against a self-taught mechanic. The safety lamp story also carries an uncomfortable lesson: by making some dangerous seams seem safer, safety lamps encouraged deeper and gassier workings, and explosions did not stop.",
+  "funFact": "Puffing Billy kept hauling coal at Wylam until 1862, by which time trains on main lines were already running at more than ten times its top speed of about 5 mph.",
+  "check": {
+    "q": "What did William Hedley's experiments at Wylam show?",
+    "a": "That smooth iron wheels on smooth iron rails had enough grip to pull loaded wagons, if the engine was heavy enough",
+    "wrong": [
+      "That locomotives could only move using a toothed rack rail",
+      "That wooden rails were stronger than iron rails",
+      "That steam engines worked best when pulled by horses"
+    ]
+  },
+  "sources": [
+    {
+      "title": "'Puffing Billy' Locomotive with Tender and Rails",
+      "publisher": "Science Museum Group Collection",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8247941"
+    },
+    {
+      "title": "Salamanca (locomotive)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Salamanca_(locomotive)"
+    },
+    {
+      "title": "Middleton Railway",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Middleton_Railway"
+    },
+    {
+      "title": "Puffing Billy (locomotive)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Puffing_Billy_(locomotive)"
+    },
+    {
+      "title": "George Stephenson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_Stephenson"
+    },
+    {
+      "title": "John Birkinshaw",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Birkinshaw"
+    },
+    {
+      "title": "Geordie lamp",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Geordie_lamp"
+    },
+    {
+      "title": "Felling mine disasters",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Felling_mine_disasters"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The preserved Puffing Billy locomotive on display at the Science Museum in London, showing its upright cylinders and rocking beams",
+      "search": "Puffing Billy locomotive Science Museum"
+    },
+    {
+      "want": "An early 19th-century engraving of Blenkinsop and Murray's rack locomotive Salamanca on the Middleton Railway near Leeds",
+      "search": "Blenkinsop rack locomotive Middleton Railway engraving"
+    },
+    {
+      "want": "A Davy safety lamp and a Stephenson Geordie miner's safety lamp side by side, or a museum example of the Geordie lamp",
+      "search": "Geordie lamp Stephenson safety lamp"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "n": 11,
+  "title": "How Movies Trick Your Eyes",
+  "when": "The science (explained with 1890s–1920s examples)",
+  "summary": "A movie is really thousands of still photos shown very fast, and your clever brain fills in the movement between them. Inside the projector, a little claw or a cross-shaped wheel jerks the film forward and stops it again 24 times every second, while a spinning shutter hides each jump. Early film was so bright and beautiful that it was also dangerously easy to set on fire!",
+  "sections": [
+    {
+      "heading": "A Ribbon of Still Pictures",
+      "paragraphs": [
+        "Hold a strip of old movie film up to a window and you will discover the biggest secret in the history of cinema: nothing on it moves. Not one thing. What you see instead is a long ribbon of tiny photographs, one after another, like a comic strip with no speech bubbles. In the first picture a man's hand is lifted. In the next it is lifted a tiny bit higher. In the next, a tiny bit higher still. Each little picture is called a frame, and a movie is nothing more than thousands of frames shown one after another very quickly.",
+        "The speed at which those frames are shown is measured in frames per second, usually written fps. If a film runs at 24 frames per second, then every single second of the story you watch is really 24 separate still photographs. That sounds like a lot until you start multiplying. One minute is 60 seconds, so one minute of film needs 24 x 60 = 1,440 frames. An hour needs 86,400. A normal 90-minute movie, the length of a typical family film, needs about 129,600 individual pictures. Somebody, or some machine, had to photograph every one of them, and the projector has to show every one of them in exactly the right order.",
+        "Standard cinema film is 35 millimetres wide, roughly the width of a postage stamp, with small square sprocket holes punched down both edges. On the common 35mm format each frame sits between four pairs of those holes, and 16 frames fit into one foot of film (a foot is about 30 centimetres). So at 24 frames per second the film races through the projector at 90 feet every minute, which is about 27 metres, or roughly the length of a tennis court every minute. A 90-minute feature therefore needs a ribbon of film about 8,100 feet long, close to 2.5 kilometres.",
+        "The very first movie machines used much shorter strips. Thomas Edison's Kinetoscope, the peephole cabinet you met in the last part, held a loop of about 50 feet of film. At 16 frames per foot that is roughly 800 frames. Because the Kinetoscope's camera usually ran at about 40 frames per second, those 800 frames lasted only about 20 seconds. Imagine paying a coin, pressing your eyes to a wooden box, and watching a strongman flex or a cat box for twenty seconds. To people in 1894, that was a marvel.",
+        "You can build your own tiny movie without any film at all. Draw a stick figure in the corner of each page of a small notebook, raising its arm a little more on each page, then flip the pages fast with your thumb. The figure waves. This is a flip book, and it works on exactly the same principle as a cinema, only with paper instead of a projector. But it leaves a puzzle: why does a stack of still drawings look like one thing moving? The answer is not in the paper. It is inside your head."
+      ]
+    },
+    {
+      "heading": "Your Brain, the Hidden Projector",
+      "paragraphs": [
+        "For more than a hundred years, books and teachers explained movies with two words: persistence of vision. The idea was that every image you see stays printed on the retina, the light-sensitive layer at the back of your eye, for a fraction of a second after it disappears. If the next picture arrives before the old one fades, the two blend together and you see smooth motion. It sounds neat, and it has a long history. In 1768 a French scientist named Patrick d'Arcy whirled a glowing coal around on a string and measured that it had to spin about once every 0.13 seconds to look like an unbroken ring of fire. In December 1824 the English doctor Peter Mark Roget (the same Roget who later wrote a famous thesaurus) gave a talk to the Royal Society about why the spokes of a rolling wheel look curved when you see them through the gaps of a fence, and he blamed lingering images on the retina.",
+        "Belgian physicist Joseph Plateau read Roget's work, and in late 1832 he built the phenakistiscope, the spinning disc with slots that you met in Part 8. Persistence of vision became the standard explanation for all such toys, and later for cinema. But even in the 1800s some scientists were doubtful. The Austrian Simon Stampfer, who invented his own spinning discs in 1833, thought the gaps between images mattered more than any lingering. In 1868 the English physiologist William Benjamin Carpenter called the effect 'rather a mental than a retinal phenomenon', meaning it happened more in the mind than in the eye.",
+        "Modern scientists agree with Carpenter. Think about what would really happen if every picture simply stayed stuck on your retina. A ball flying across the screen would leave a smeary trail of balls behind it, like a long exposure photograph, and every film would look like a blurry mess of ghosts. That is not what we see. Persistence of vision does explain one thing well: why we do not notice the moments of darkness between frames, a matter we will return to with the shutter. But it does not explain why we see movement.",
+        "The better explanation is called apparent motion. In 1875 the Austrian scientist Sigmund Exner showed that if two small electric sparks flash one after the other a short distance apart, people see a single spark jumping from one place to the other, even though nothing actually moved. In 1912 the psychologist Max Wertheimer ran careful experiments in Frankfurt using a tachistoscope, a device that flashes images for exactly measured instants. When two lines were flashed too slowly, people saw two separate lines. When they were flashed at just the right speed, people saw one line moving smoothly from the first spot to the second. Wertheimer called this the optimal motion; today it is usually called beta movement. When the flashes were even faster, people reported something stranger: a sense of pure movement, like a shadowy something whooshing across, without a clear object. He named that the phi phenomenon.",
+        "The key lesson is this: your brain is not a camera that simply records. It is a detective that is constantly guessing what is going on in the world. When it sees a hand in one place, then a moment later sees an almost identical hand just a little higher, it concludes, sensibly, that the hand rose. It fills in the in-between movement that was never actually shown. Scientists today separate long-range apparent motion, like Wertheimer's flashing lines far apart, from short-range apparent motion, where each frame differs only slightly from the one before, as in a film. Special motion-detecting nerve cells in the visual parts of the brain respond to these small, rapid changes as if they were real movement. So when you watch a movie, the real projector is in the cinema, but the motion is made by a second, hidden projector: your own brain.",
+        "How many pictures per second does the brain need? From about 16 frames per second upward, most people see fairly smooth movement; much slower than that, it starts to look jerky, like a slideshow. Because film was expensive, many early filmmakers aimed for about the slowest speed that still felt like motion."
+      ]
+    },
+    {
+      "heading": "Stop, Go, Stop, Go",
+      "paragraphs": [
+        "Now for the machines. If you pulled film past a lens in a smooth, steady slide, every frame would be moving while it was shown, and the picture on the screen would be a smudge. So a movie projector, and a movie camera too, must do something that sounds almost impossible: it must yank the film forward one frame, stop it dead, hold it perfectly still while light shines through, then yank it forward again. At 24 frames per second, that stop-and-go happens 24 times every second, for hours, without tearing the film. Engineers call this intermittent movement, from a word meaning starting and stopping.",
+        "Interestingly, Edison's Kinetoscope cheated. Its film moved continuously, pulled steadily around a loop of rollers by an electric motor. To stop the picture from blurring, a spinning wheel with a tiny slit let light reach the film for only a split second as each frame passed. The flash was so brief that each frame looked frozen. This worked for one person peering into a small box, but it wasted most of the light, far too much for throwing a big, bright picture on a wall for a whole audience. Projectors needed true stop-and-go motion.",
+        "One solution is the claw. Picture a small metal hook that pokes into the sprocket holes at the edge of the film, pulls the strip down exactly one frame, then slips out, rises back up, and pokes in again. The Lumière brothers' Cinématographe of 1895 used a triangular cam, a rotating part shaped a bit like a rounded triangle, to drive its pins in this up-and-down, in-and-out pattern. The whole machine weighed only about 7 kilograms (16 pounds), was cranked by hand, and could work as a camera, a printer and a projector. Claws like this are still used in movie cameras and in smaller film formats such as 8mm and 16mm projectors.",
+        "The other famous solution came from the world of watches. It is called the Geneva drive, after the Swiss city famous for watchmaking, or the Maltese cross, because the slotted wheel at its heart looks a little like the cross on the flag of Malta. Here is how it works. One wheel turns smoothly and steadily, and it carries a single pin. Next to it sits the cross-shaped wheel with four slots. Once in every turn, the pin slides into one slot and pushes the cross a quarter of a turn, 90 degrees. Then the pin slides out, and a curved locking disc on the first wheel fits against the cross and holds it perfectly still until the pin comes round again. So steady spinning goes in, and jerk, stop, jerk, stop comes out.",
+        "In a 35mm projector, the Maltese cross turns a special intermittent sprocket, a toothed drum whose teeth fit into the sprocket holes. Each quarter-turn pulls the film down exactly four perforations, which is exactly one frame. Because the cross always stops in exactly the same position, each frame lands in the same spot in the gate, the window where light shines through, so the picture does not jiggle. Projectors made by Oskar Messter in Germany and Robert William Paul in England were among the first to use the Geneva drive, in 1896. A few earlier machines used a different idea, a beater mechanism, in which a spinning arm thumped the film down a frame at a time; Georges Demenÿ, who had worked with Étienne-Jules Marey, devised it in 1893.",
+        "There is one more clever trick hidden in every film projector: the loops. The reels feeding and collecting the film turn smoothly, but the film in the gate jerks. If the strip were pulled tight between them, the jerking would rip it. So the film runs in a small slack loop just above the gate and another just below, like the extra slack in a garden hose. The loops soak up the difference between steady motion and stop-and-go motion. The idea is often called the Latham loop, after the American film pioneer Woodville Latham, whose team, including William Kennedy Laurie Dickson and Eugene Lauste, developed it around 1895."
+      ]
+    },
+    {
+      "heading": "The Spinning Shutter and the War on Flicker",
+      "paragraphs": [
+        "Stop-and-go motion solves the blur problem but creates a new one. While the film is being pulled down to the next frame, the picture on the screen would slide downwards in a streak, a smear projectionists called travel ghost. To hide it, every projector has a shutter: a spinning metal disc with blades, placed in the beam of light. Each time the film moves, a blade swings across and blocks the light. Each time the film stops, the open space between blades lets light through. So the screen is not lit all the time at all. It is really flashing on and off, dark while the film moves, bright while it stands still.",
+        "Here is the surprising part. In a typical film show, the screen is dark for a large share of every second. You have sat in cinemas staring at darkness for a big fraction of the film and never once noticed. This is where the old idea of persistence of vision is genuinely useful: when flashes of light come fast enough, your visual system blends them into one steady brightness. The speed at which this happens is called the flicker fusion threshold. Below it, you see a flicker, a shaky, pulsing light that can give people headaches. Above it, the light looks perfectly steady. For moving pictures in a dark room, the threshold is usually taken to be somewhere around 48 to 60 flashes per second, though it rises when the light is very bright, and many people notice flicker more easily out of the corner of the eye.",
+        "Early films had a real flicker problem. If a film ran at 16 frames per second and the shutter blinked once per frame, the screen flashed only 16 times a second, well below the threshold. Audiences saw the picture pulsing. This is one reason people in English-speaking countries nicknamed movies the flicks, and why going to the cinema is still sometimes called going to the flicks.",
+        "Thomas Edison had his own opinion. He claimed that 46 frames per second was the minimum for the eye, warning that 'anything less will strain the eye'. But filming 46 frames every second would have used film at a terrifying rate. Engineers found a much cheaper answer: instead of adding more frames, flash each frame more than once. A shutter with two blades blocks the light once while the film moves and once more while the film is standing still. A three-blade shutter does it twice more. So at 16 frames per second, a three-blade shutter gives 48 flashes per second. At 24 frames per second, a two-blade shutter shows each frame twice and the screen flashes 48 times a second, while a three-blade shutter flashes it 72 times a second. The audience sees no flicker, and the studio pays for only 24 frames.",
+        "The light itself was a battle too. Early projectors borrowed limelight and electric bulbs from magic lantern shows; from the early 1900s until the late 1960s most cinemas used a carbon arc lamp, in which an electric spark jumps between two carbon rods, which the projectionist had to keep adjusting as they burned away. All that light carried enormous heat, concentrated onto a frame of film smaller than your thumbnail. If the film ever stops in the gate while the lamp is on, the frame can scorch or melt in a fraction of a second. Projectors were fitted with a douser, a metal flap that automatically drops in front of the beam when the film stops. As you will see later in this part, with early film, a hot lamp and a stuck frame could mean far more than a melted picture."
+      ]
+    },
+    {
+      "heading": "How Fast Is a Silent Film?",
+      "paragraphs": [
+        "Today a film is shot and shown at exactly 24 frames per second, every time, everywhere. Early filmmakers had no such rule. Most cameras before the late 1920s were cranked by hand. The camera operator turned a handle on the side of the box, and every turn pulled a set number of frames past the lens; on many cameras of the time one full turn moved about eight frames, so a steady two turns per second gave about 16 frames per second. Good operators learned to crank with a steady rhythm.",
+        "In practice, silent films were shot at a wide range of speeds, from about 12 up to about 40 frames per second. The Lumière brothers recommended around 15 or 16 frames per second for their Cinématographe. Over the years camera operators gradually cranked faster, because faster rates looked smoother and less flickery, and by the mid-to-late 1920s many films were being shot at around 20 to 26 frames per second. Historians have found that the number 16, often quoted as 'silent speed', was never a true standard.",
+        "Hand cranking was also an art. Operators sometimes cranked slower than normal on purpose, a trick called undercranking. When the film was then projected at the usual speed, the action looked faster than life, which made chases, car crashes and comedy fights more exciting. Cranking faster than normal did the opposite, giving slow motion. Projectionists played with speed too, and some cinemas ran films faster than they were shot to squeeze in an extra show each evening.",
+        "This explains a mystery you may have noticed. Why do people in very old films often scurry about in a jerky, speeded-up way, like wind-up toys? Usually it is not because people moved strangely back then. It is because a film shot at, say, 16 or 18 frames per second is being shown at a modern 24. Every second of real life now flashes past in two-thirds of a second, so everyone walks too fast and moves in little jerks. When film archives restore silent films carefully and show them at the right speed, the people suddenly move naturally, and the films look graceful rather than comical.",
+        "The arrival of sound, which you will read about in Part 14, ended the freedom. Your eyes do not mind much if a picture runs a little fast or slow, but your ears certainly do. A recording played too fast sounds squeaky and high, like a chipmunk; played too slowly it sounds deep and groaning. Sound and picture had to stay locked together at one steady speed. Between about 1926 and 1930 the industry settled on 24 frames per second for 35mm sound film. Many theatres had been running silent films somewhere around 22 to 26 frames per second, so 24 was a sensible compromise: fast enough for good sound quality, not so fast that film costs exploded. With a two-blade shutter, 24 frames also gave 48 flashes a second, safely above the flicker threshold. That number, chosen almost a century ago, is still the standard speed for most cinema today."
+      ]
+    },
+    {
+      "heading": "Beautiful, Bright and Dangerous: Nitrate Film",
+      "paragraphs": [
+        "The film itself hid a danger. From 1889, when Eastman's company began selling it, until around 1950, nearly all professional movie film was made on a base of cellulose nitrate, often just called nitrate. Cellulose is the tough material in plant fibres such as cotton; treating it with nitric acid turns it into nitrocellulose. Mixed with camphor, it becomes celluloid, a clear, strong, flexible plastic. Nitrate film was wonderful to look at. Projectionists and film historians still praise its deep blacks and silvery, glowing brightness. But nitrocellulose is a close chemical cousin of guncotton, an explosive used in the 1800s.",
+        "Nitrate film burns fiercely and fast. Worse, it carries enough oxygen inside its own molecules to keep burning without air. A roll of burning nitrate can keep burning even when smothered or pushed under water, and it gives off thick, poisonous smoke. A nitrate fire can spread through a reel in seconds. In a projection booth, the main danger was the gate: if the film jammed or slowed while the fierce lamp was shining through it, the frame could catch fire, and the flame could race up the strip to the reels. Running film too slowly was risky for the same reason, which is one reason projectionists were warned against running nitrate prints at speeds as slow as 16 frames per second.",
+        "The danger was learned the hard way. On 4 May 1897, in Paris, a charity fair called the Bazar de la Charité was showing films with the new Cinématographe, as one of its most popular attractions. The projector's lamp, which used ether, caught fire, and flames spread through the wooden hall with its cloth decorations. About 126 people died in the blaze and the rush to escape, many of them well-known women from wealthy families who had been running the stalls. The disaster shocked France and made many people think of cinema itself as dangerous for years afterwards.",
+        "Because of fires like this, many countries passed laws about how films could be shown. Projection booths became small fireproof rooms, separate from the audience, often lined with asbestos (now known to be harmful, so no longer used). Their small windows had metal shutters that dropped shut automatically in a fire, and reels were enclosed in metal boxes above and below the projector. That is why the projector at a classic cinema was always tucked away in a booth at the back, with only a beam of light reaching the room.",
+        "Nitrate is also its own enemy even when no one strikes a match. As it ages, it slowly gives off nitric acid, which attacks the film further. Over decades a reel can turn sticky, then bubbly, then into a brown, dangerous powder that can catch fire on its own if stored somewhere warm. Fires in film storage vaults destroyed whole studio collections, including at Fox in 1937 and at MGM in 1965.",
+        "The cure was safety film, made of cellulose acetate, which burns only slowly, like paper rather than gunpowder. Safety film for amateur use came early in the 1900s, but for a long time it was not tough or clear enough for professional 35mm prints. In 1948 Kodak introduced a strong new base called cellulose triacetate, and the industry switched over. Kodak stopped making 35mm nitrate motion-picture film in 1951. Safety film was printed with the word SAFETY along its edge, so anyone could tell it apart. Today, a few specially equipped cinemas, such as the Dryden Theatre at the George Eastman Museum in Rochester, New York, can still project original nitrate prints, under strict fire rules, so audiences can see that famous silvery glow."
+      ]
+    },
+    {
+      "heading": "A Train, a Wave and a Magician",
+      "paragraphs": [
+        "Put all of this together, the frames, the brain's apparent motion, the stop-and-go claw or Maltese cross, the flashing shutter, the hand crank and the dangerous, beautiful nitrate, and you have the complete magic trick of the early cinema. Now imagine being one of the first people ever to see it work.",
+        "One of the most famous early Lumière films is L'Arrivée d'un train en gare de La Ciotat, about 50 seconds long, shot in one continuous view at a station in the south of France. A steam train grows from a dot in the distance to fill the frame, puffing straight towards the camera, and passengers climb on and off. It was not part of the first paid show on 28 December 1895; it was shown publicly in early 1896. A popular story claims that audiences screamed and ran from their seats, terrified that the train would burst out of the screen. Historians have searched old newspapers for reports of such a panic and found none. It is best treated as a legend. Still, people really were startled and thrilled. The Russian writer Maxim Gorky, after watching Lumière films in 1896, described feeling that the train was rushing straight at him and wrote of a strange, grey kingdom of shadows.",
+        "When Edison's Vitascope premiered in New York on 23 April 1896, one of the films that most delighted the crowd was not a story at all. It was Rough Sea at Dover, filmed in 1895 by the British pioneers Birt Acres and Robert W. Paul: waves crashing and foaming against a pier. For many early audiences, ordinary moving things, waves, smoke, leaves stirring in the wind, were the real wonder.",
+        "But one man in Paris saw something more. He had watched the Lumière invention at a demonstration in December 1895 and had immediately tried, and failed, to buy one. He was not a scientist or a factory owner. He was a stage magician who ran his own theatre of illusions. Everyone else saw a machine for recording the real world. He looked at the same stop-and-go strip of frames and realised something thrilling: if you could stop the camera, change things, and start again, the film would not care. Movies could show things that never happened at all."
+      ]
+    }
+  ],
+  "deepDive": "Why do we see motion in a film? Textbooks long said 'persistence of vision', but perception scientists largely abandoned that answer decades ago. The real situation has two separate parts. First, the brain must not notice the darkness between frames. That is a question of flicker fusion: if light pulses arrive quickly enough, the visual system averages them into a steady brightness. The Talbot-Plateau law describes that average, and the fusion frequency rises with brightness, which is why a big bright cinema screen needs about 48 flashes per second or more, while a dim scene can get away with fewer. Second, the brain must see the changes between frames as movement. That is apparent motion, studied by Sigmund Exner in 1875 and Max Wertheimer in 1912. Today researchers distinguish long-range apparent motion (two objects flashed some distance apart, as in Wertheimer's beta movement) from short-range apparent motion, where tiny frame-to-frame shifts are picked up by motion-sensitive neurons much as real motion would be. Film depends mostly on the short-range kind, so even beta movement and phi are not the full explanation. Film theorists Joseph and Barbara Anderson argued in 1993 that clinging to 'persistence of vision' matters philosophically: it treats the viewer as a passive recording surface, while the apparent-motion view treats the viewer as an active builder of what is seen. The engineering numbers are a story of compromise. Edison wanted about 46 frames per second; studios wanted cheap film; the multi-blade shutter let 16 or 24 frames do the work of 48 or 72 flashes. When sound arrived, 24 frames per second was chosen because theatres were already near that speed and the optical soundtrack needed a steady, reasonably fast rate. Modern experiments with 48 frames per second and higher show the trade-off is partly about taste: many viewers find high frame rates smoother but describe them as looking 'like video', because a century of cinema has trained audiences to link 24 frames, with its slight motion blur, to the feeling of a movie. Other animals live with different numbers: one 2014 survey found flicker fusion values from about 6.7 per second in the cane toad to about 400 in a fire beetle, so a cinema might look like a slideshow to some creatures and like a strobe light to others.",
+  "funFact": "In a cinema showing film at 24 frames per second, the screen is completely dark for a large part of every second, and almost nobody in the audience ever notices.",
+  "check": {
+    "q": "Why does a film projector's shutter have two or three blades instead of one?",
+    "a": "To flash each frame two or three times so the screen flickers too fast for people to notice",
+    "wrong": [
+      "To make the film run backwards between frames",
+      "To cool the lamp so the film cannot burn",
+      "To add color to black-and-white film"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Persistence of vision",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Persistence_of_vision"
+    },
+    {
+      "title": "Beta movement",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Beta_movement"
+    },
+    {
+      "title": "Geneva drive",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Geneva_drive"
+    },
+    {
+      "title": "Movie projector",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Movie_projector"
+    },
+    {
+      "title": "Frame rate",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Frame_rate"
+    },
+    {
+      "title": "Flicker fusion threshold",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Flicker_fusion_threshold"
+    },
+    {
+      "title": "Nitrocellulose (nitrate film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nitrate_film"
+    },
+    {
+      "title": "L'Arrivée d'un train en gare de La Ciotat",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/L%27Arriv%C3%A9e_d%27un_train_en_gare_de_La_Ciotat"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A close-up of a strip of 35mm motion picture film showing several frames and the sprocket holes along both edges",
+      "search": "35mm film strip frames sprocket holes"
+    },
+    {
+      "want": "A diagram or animation of a Geneva drive (Maltese cross mechanism) showing the pin wheel and the four-slot cross wheel",
+      "search": "Geneva drive Maltese cross mechanism"
+    },
+    {
+      "want": "An early hand-cranked film projector or the Lumière Cinématographe in a museum",
+      "search": "Lumière Cinématographe projector museum"
+    }
+  ]
+}

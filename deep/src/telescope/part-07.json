@@ -1,0 +1,158 @@
+{
+  "n": 7,
+  "title": "Newton's Mirror",
+  "when": "1663 – 1720s",
+  "summary": "A young Isaac Newton split sunlight into a rainbow with a glass prism and realized lenses would always smear stars with color. So he built a tiny telescope that used a shiny curved mirror instead. It was only about as long as a pencil, but it worked as well as telescopes many times longer.",
+  "sections": [
+    {
+      "heading": "A Rainbow on the Wall",
+      "paragraphs": [
+        "In 1665 a terrible outbreak of plague reached England, and Cambridge University closed its doors so students would not spread the disease. One of the students sent home was a quiet young man of 22 named Isaac Newton. He went back to his family's farmhouse at Woolsthorpe in Lincolnshire, and over the next two years, mostly away from his teachers and classmates, he thought about mathematics, gravity and light. Some of the most famous ideas in the history of science began in that farmhouse and in his rooms at Cambridge when he returned.",
+        "Light was one of Newton's favorite puzzles. In early 1666 he bought a triangular glass prism. Prisms were sold at fairs as curiosities, because they turned sunlight into pretty colors, but nobody really understood why. Most thinkers of the time believed that white light was pure and simple, and that a prism somehow added color to it, perhaps by darkening or bending the light in different ways.",
+        "Newton set up an experiment that he later described in a famous letter. He darkened his room, made a small round hole in the window shutter, and let a thin beam of sunlight shine in. He put the prism in the beam, and on the far wall appeared a band of colors: red at one end, then orange, yellow, green, blue and violet at the other.",
+        "Here is what puzzled him. The hole was round, so he expected the colored patch to be round too. Instead it was a long strip, about five times longer than it was wide. Something inside the light was being spread out. Newton tested every boring explanation he could think of. Was the glass bumpy? Did the size of the hole matter? Was the prism in a strange position? None of these changed the result.",
+        "Then he tried what he called his crucial experiment, or experimentum crucis in Latin. He let the rainbow from the first prism fall on a board with a tiny hole in it, so that only one color could get through. That single color then traveled on to a second board with another hole, and behind it a second prism. When the light was already one pure color, like red, the second prism bent it but did not split it into any new colors. Red stayed red. Blue stayed blue. And the blue light was always bent more than the red light.",
+        "Newton's conclusion was bold. White light, he said, is not pure at all. It is a mixture of many colors, and each color bends by its own amount when it passes through glass. The prism does not add colors; it sorts them, the way a sieve sorts sand from pebbles. He even showed the opposite trick: by using a lens or a second prism to bring the colors back together, he could make white light again."
+      ]
+    },
+    {
+      "heading": "Why Lenses Paint Stars with Color",
+      "paragraphs": [
+        "Newton realized at once what his prism meant for telescopes. As we saw in the last part, the lens telescopes of the 1600s had a nagging fault: bright objects were surrounded by fuzzy rainbow fringes. Astronomers blamed this on lens-makers. They thought that if only somebody could grind the glass into a more perfect shape, the colors would vanish.",
+        "Newton disagreed. A lens is really just a prism that has been rounded off. Near its edge, the glass surfaces are tilted toward each other, exactly like the faces of a prism. So a lens bends violet light a little more strongly than red light. That means the violet light comes to a focus slightly closer to the lens, and the red light comes to a focus slightly farther away. There is no single spot where every color is sharp at once. If you focus the red, the blue is a blurry halo; if you focus the blue, the red is blurry. This problem is called chromatic aberration, which simply means color error.",
+        "In his famous letter to the Royal Society in 1672, Newton argued that the real limit on telescopes was not the shape of the glass but the nature of light itself, a mixture of rays that bend by different amounts. That is why Johannes Hevelius and Christiaan Huygens, whom we met in Part 6, had built such enormously long telescopes. A very weakly curved lens bends all the colors only a little, so the color errors stay small. But that made telescopes 30, 60 or even more than 100 feet long, wobbling on masts and ropes.",
+        "Newton saw a cleverer way out. What if a telescope did not send light through glass at all? A mirror does not bend light the way glass does. It simply bounces it back. When light hits a mirror, it leaves at the same angle it arrived, and that rule is exactly the same for red, green, blue and violet. Every color takes the same path. A curved mirror can therefore bring all the colors to one single focus. No rainbow fringes. This is the big idea behind every reflecting telescope ever made, from a backyard Newtonian to the James Webb Space Telescope.",
+        "There was one catch, and Newton noticed it too. Because a mirror bounces light back instead of letting it pass through, any tiny bump or dent on its surface throws the light off course much more than the same bump would on a lens. A mirror has to be shaped and polished with extraordinary care. That catch would haunt reflecting telescopes for more than a century."
+      ]
+    },
+    {
+      "heading": "Gregory's Telescope on Paper",
+      "paragraphs": [
+        "Newton was not the first person to dream of a mirror telescope. People had known for a very long time that a curved mirror can focus light, just as a lens can. The great Arab scientist Ibn al-Haytham had written about curved mirrors in his Book of Optics in the 11th century. Soon after the spyglass appeared, Italian thinkers discussed the idea of a mirror version, and the Jesuit scholar Niccolò Zucchi later said he had tried looking at a concave bronze mirror through a lens around 1616. The picture he got was too poor to be useful. In the 1620s and 1630s, the French friar Marin Mersenne and the Italian mathematician Bonaventura Cavalieri both wrote about mirror designs, and Mersenne described an arrangement with two mirrors, though he never tried to build it.",
+        "The most important early design came from a young Scottish mathematician named James Gregory. In 1663, when he was about 24, Gregory published a book called Optica Promota, which means something like The Advance of Optics. In it he described a reflecting telescope with two curved mirrors.",
+        "Here is how the Gregorian telescope works. Light from a star enters the open front of the tube and travels down to a large concave mirror at the back. Concave means curved inward, like the inside of a bowl. This main mirror bounces the light back up the tube and squeezes it toward a focus. Just past that focus sits a second, much smaller concave mirror, which sends the light back down again, through a hole cut in the center of the big mirror, and into an eyepiece behind it. You look in from the back, just as you would with a normal spyglass, and because the light has been flipped twice, the image is the right way up.",
+        "Gregory's design was clever, and the mathematics was sound. He wanted his mirrors shaped like parabolas, special curves that bring parallel light from a distant star to a perfect point. But he had a problem: he was a mathematician, not a craftsman. He looked for someone who could grind and polish the mirrors, but he could find no optician able to make them accurately enough. The project was abandoned. Gregory's telescope existed only as drawings and equations.",
+        "It finally worked about ten years later. In 1673, with the help of Robert Hooke, the Royal Society's brilliant experimenter, a working Gregorian telescope was built. By then, however, someone else had already beaten Gregory to the first working reflector. Gregory's name did live on: Gregorian telescopes were popular in the 1700s, and versions of his two-mirror idea are still used today in some solar telescopes and in the planned Giant Magellan Telescope in Chile."
+      ]
+    },
+    {
+      "heading": "Newton Builds His Own",
+      "paragraphs": [
+        "Newton knew about Gregory's idea, and he may have read Optica Promota. But he thought Gregory's design was harder than it needed to be, and he had something Gregory lacked: amazing skill with his hands. As a boy, Newton had built model windmills, water clocks and sundials. Now he decided to build his own telescope, every part of it.",
+        "In late 1668, at Cambridge, Newton finished it. He made the tube, the mount and the fittings himself. He mixed and cast the metal for the mirror, ground it into a concave curve, and polished it. He may even have been the first person to polish a mirror on a lap made of pitch, a sticky, tar-like material that slowly molds itself to the mirror and is still used by expert mirror-makers today. Newton also invented his own tools and tests. He also studied the faint colored rings, now called Newton's rings, that appear when a curved piece of glass rests on a flat one.",
+        "His design was simple and elegant. At the bottom of a short tube sat the main mirror, a disk of shiny metal only about 33 millimeters across, roughly the width of a large coin. Light from the sky came down the tube, hit this curved mirror, and bounced back up toward a focus. But if the focus had been in the middle of the tube, Newton's own head would have blocked the light. So, partway up the tube, he placed a tiny flat mirror tilted at 45 degrees. It caught the converging light and sent it sideways, out through a hole in the side of the tube, where an eyepiece lens magnified the image. To this day, a telescope with this arrangement is called a Newtonian telescope, and the side-mounted eyepiece is its trademark.",
+        "The whole instrument was tiny. The tube was only about six to eight inches long (accounts differ), shorter than a school ruler. Yet it magnified about 40 times. According to Newton's own letters, it did a better job than an ordinary refracting telescope about six feet long. Through it he could see the four moons of Jupiter that Galileo had discovered, and the thin crescent shape of Venus. And there were no rainbow fringes around the bright planets.",
+        "Imagine the surprise of anyone who picked it up. Astronomers on the Continent were hanging lenses from tall poles and sighting along 100-foot ropes. And here was a Cambridge scholar with a telescope he could hold in one hand, doing the same job."
+      ]
+    },
+    {
+      "heading": "Speculum Metal: Shiny but Stubborn",
+      "paragraphs": [
+        "Today a telescope mirror is made of glass with a thin coating of aluminum or silver on top. Newton had no such option. Nobody yet knew how to put a good, long-lasting reflective coat on glass, so the mirror itself had to be made of polished metal. The metal used was called speculum metal, from the Latin word speculum, meaning mirror.",
+        "Speculum metal is a kind of bronze, a mixture of mostly copper and tin, usually about two parts copper to one part tin, sometimes with a pinch of arsenic added to make it whiter and shinier. Freshly polished, it looks like a silvery mirror. People had made shiny bronze mirrors for a very long time; in China, high-tin bronze mirrors go back more than 2,000 years.",
+        "But speculum metal was a stubborn material. It was hard and brittle, almost like glass, so it could crack if cooled too fast after casting, and it could not be hammered or bent into shape. Every bit of its curve had to be patiently ground and polished by hand. Newton later wrote about how difficult it was to get a smooth, regular surface, because the metal was full of tiny pores and tended to scratch.",
+        "Worse, even a perfect speculum mirror wasted a lot of light. It reflected only about two-thirds of the light that hit it. A modern aluminum coating reflects about 90 percent. And because Newton's telescope used two mirrors, the main one and the little flat one, the losses added up. Then there was tarnish. Speculum metal slowly darkened in air, especially in damp weather, much like a silver spoon left out for weeks. After a few months, a mirror could lose its shine and have to be polished all over again, which risked spoiling its carefully made shape. Later telescope-makers often kept two mirrors for each telescope, so one could be in use while the other was being re-polished.",
+        "Newton made one more compromise. The best shape for a telescope mirror is a paraboloid, a bowl whose curve gets slightly flatter toward the edge, because that shape sends parallel light from a star to one perfect point. A sphere, like the inside of a ball, is much easier to grind, because any two spherical surfaces rubbed together stay spherical. So Newton ground his mirror as part of a sphere. That caused a little spherical aberration, the blurry focus we met in Part 6, but with such a small mirror the blur was tolerable.",
+        "Add it all up and you can see why Newton's telescope, brilliant as it was, did not instantly take over the world. Its tiny mirror gathered less light than the big lenses of the day, so faint things looked dim. It was hard to make. It tarnished. For decades, most astronomers kept using their long refractors. But Newton had proved that the idea worked, and that was the hardest part."
+      ]
+    },
+    {
+      "heading": "The Royal Society Takes Notice",
+      "paragraphs": [
+        "Newton was not a man who liked to show off his work. He was secretive and touchy, and he hated arguments. For about three years his little telescope stayed mostly a private marvel, known to a few friends at Cambridge. In 1669 he became Lucasian Professor of Mathematics at Cambridge, taking over from his teacher Isaac Barrow, and he began giving lectures on optics.",
+        "Word of the telescope still got out. Newton built a second, improved reflector, which he said was noticeably better than the first. Late in 1671, Isaac Barrow carried it to London and showed it to members of the Royal Society, the club of scientists and gentlemen founded in 1660 to study nature by experiment. The members were amazed. In January 1672 it was even shown to King Charles II, who was a keen supporter of the Society and was interested in anything that might help his navy.",
+        "Henry Oldenburg, the Society's secretary, moved quickly. He worried that someone in another country might copy the design and claim it as their own, so he wrote a description of the telescope and sent it to the famous Dutch scientist Christiaan Huygens, to put Newton's priority on record. On 11 January 1672, Isaac Newton, then 29 years old, was elected a Fellow of the Royal Society. The little mirror telescope had opened the door to Britain's leading scientific club.",
+        "Encouraged, Newton sent the Society a long letter dated 6 February 1672, explaining his experiments with the prism and his new theory that white light is a mixture of colors. It was read aloud at a meeting two days later and printed in the Society's journal, the Philosophical Transactions, later that month. It was one of the first great scientific papers ever published in a journal.",
+        "Not everyone agreed. Robert Hooke, the Society's curator of experiments, who had his own theory of light and colors, criticized Newton's conclusions. Others in Europe said they could not repeat his results. Newton found the arguments so painful that he pulled back from public debate for years. He did not publish his full book on light, called Opticks, until 1704, the year after Hooke died. By then Newton was the President of the Royal Society and the most famous scientist in Europe."
+      ]
+    },
+    {
+      "heading": "Cassegrain's Hole in the Mirror",
+      "paragraphs": [
+        "Only a few months after Newton joined the Royal Society, a rival design appeared in France. On 25 April 1672, a French scientific publication printed a letter describing a new reflecting telescope by a man named Cassegrain. For a long time nobody was even sure of his first name. In 1997 two French researchers identified him as most likely Laurent Cassegrain, a Catholic priest who taught science at a school in Chartres and lived from about 1629 to 1693.",
+        "Cassegrain's design looks a bit like Gregory's at first. The big main mirror has a hole in its center, and you look in from the back of the telescope. The difference is the second mirror. Gregory used a small concave mirror placed beyond the main focus. Cassegrain used a small convex mirror, one that bulges outward like the back of a spoon, placed before the light reaches the focus. This convex mirror catches the converging light and sends it back down through the hole in the main mirror.",
+        "That small change had a big advantage. Because the convex secondary sits closer to the main mirror and stretches the focus outward, a Cassegrain telescope can be much shorter than a Gregorian with the same power. It folds a long path of light into a compact tube, like folding a long piece of paper into a short packet.",
+        "Cassegrain received little thanks at the time. Huygens criticized the design harshly in June 1672, and Newton himself wrote that he saw no advantage in it and thought it would have problems. The arguments helped push Cassegrain's name into obscurity. Like Gregory, Cassegrain also lacked the means to build a really good version with the materials of the 1670s.",
+        "History has been kinder to him than his critics were. The Cassegrain arrangement became the most common layout for big research telescopes. In the early 1910s, George Willis Ritchey and Henri Chrétien invented an improved version with two specially curved mirrors that keep stars sharp across a wide field of view. This Ritchey-Chrétien design, a kind of Cassegrain, is used by the Hubble Space Telescope, the giant Keck telescopes in Hawaii and the Very Large Telescope in Chile. Many radio dishes and satellite ground-station antennas use a Cassegrain layout too, with a small curved reflector on legs in front of the big dish, bouncing the signal back toward the center. A priest whose name was nearly forgotten ended up shaping the most powerful eyes humanity has built."
+      ]
+    },
+    {
+      "heading": "John Hadley Makes Reflectors Work",
+      "paragraphs": [
+        "For about 50 years after Newton, the reflecting telescope remained more of a curiosity than a working tool. Craftsmen struggled to grind speculum mirrors accurately, especially into the tricky parabolic shape. The person who finally cracked the problem was an English gentleman named John Hadley, born in London in 1682.",
+        "Hadley was a mathematician with a talent for careful, practical work, and he spent years learning how to make and test mirrors. He worked out methods for grinding speculum metal into accurate parabolic and other non-spherical shapes, and for checking the curve as he went. In 1721 he presented a Newtonian telescope to the Royal Society. Its main mirror was about 6 inches, or 15 centimeters, across, roughly 20 times the area of Newton's first mirror, and it was the first Newtonian with a properly parabolic mirror. The telescope was roughly 5 feet long.",
+        "The Royal Society asked two skilled astronomers, James Bradley and his uncle James Pound, to test it. They compared it with one of the most famous telescopes in England: a giant aerial telescope whose lens had been made by Constantijn Huygens, the brother of Christiaan. That lens was about 7.5 inches across with a focal length of about 123 feet, and it had been given to the Royal Society in 1690. Using it meant hoisting the lens up a tall pole and lining it up with an eyepiece far away on the ground.",
+        "The result was a triumph for the reflector. Pound reported in the Philosophical Transactions that Hadley's telescope could magnify as much as the 123-foot giant and showed things distinctly. The images were not quite as bright and clear as the giant's, the testers admitted, because speculum metal still lost light. But the reflector was less than one twentieth of the length, sat on a sturdy mount, and could be turned to any part of the sky in moments. A telescope that once needed a pole as tall as a church tower could now be replaced by one that fit inside a room.",
+        "Hadley also taught London instrument-makers his methods, so good reflectors became something you could actually buy. Through the 1700s, Gregorian and Newtonian reflectors became popular with wealthy amateurs, scientists and instrument shops. Hadley went on to other inventions, including a reflecting octant in 1730 for measuring the height of the Sun or stars above the horizon at sea; an American named Thomas Godfrey came up with a similar instrument independently at about the same time. It is a nice irony that a mirror-lover helped sailors find their way.",
+        "Still, the problems of speculum metal never fully went away. Large metal mirrors were heavy, tarnished, and wasted about a third of the light. Reflectors would not truly rule astronomy until the mid-1800s, when scientists learned to coat glass mirrors with a thin layer of silver, a story for a later part. In the meantime, someone else was quietly working on the other side of the problem. Newton had declared that lens telescopes could never be cured of their rainbows. He was the greatest scientist of his age, and on this point he was wrong."
+      ]
+    }
+  ],
+  "deepDive": "Why did Newton conclude that refracting telescopes were hopeless? From his prism experiments he believed that the amount a material spreads colors apart (its dispersion) always goes together with how strongly it bends light overall (its refractive power). If that were true for every kind of glass, you could never combine two lenses so that their color errors cancel while still bending the light to a focus: whenever you cancelled the colors, you would cancel the focusing too. It was a reasonable guess from the materials he tested, and his enormous authority meant few people challenged it for decades. It turned out to be false: different glasses, such as lead-rich flint glass and ordinary crown glass, have different ratios of dispersion to bending power, which is exactly what the achromatic lens of the next part exploits. Newton's reflector also had real optical faults. Its spherical mirror suffered from spherical aberration, and the flat diagonal mirror blocked part of the incoming light, a central obstruction that every Newtonian, Cassegrain and Gregorian telescope still has, and which slightly lowers contrast. Historians also argue about priority. Gregory published first (1663), and earlier writers such as Zucchi, Cavalieri and Mersenne had discussed mirror telescopes, so it is fair to say Newton did not invent the idea of a reflector, but he built the first practical working one (1668). The Cassegrain story is murkier still: the 1672 report was second-hand, the design was attacked by Huygens and Newton, and Cassegrain's first name was only identified with reasonable confidence in 1997. Finally, the numbers on Newton's telescope come mostly from his own letters, so modern sources describe them as approximate: a mirror about 33 mm across at roughly f/5, a tube roughly 6 to 8 inches long, and a magnification of roughly 35 to 40 times. Hadley's 1721 success shows that the bottleneck was craftsmanship, not theory: the optics of reflectors were understood by the 1670s, but accurate parabolic metal mirrors took another half-century to master.",
+  "funFact": "Newton's first reflecting telescope, only about 6 to 8 inches long, did as well as a refracting telescope about 6 feet long, according to Newton himself.",
+  "check": {
+    "q": "Why does a mirror telescope avoid the rainbow-colored fringes that troubled lens telescopes?",
+    "a": "A mirror reflects every color at the same angle, so all colors come to the same focus",
+    "wrong": [
+      "Mirrors absorb all the colors except white",
+      "Mirror telescopes are always longer than lens telescopes",
+      "Newton painted his mirror black to block the colors"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Newtonian telescope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Newtonian_telescope"
+    },
+    {
+      "title": "Reflecting telescope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Reflecting_telescope"
+    },
+    {
+      "title": "A Letter of Mr. Isaac Newton ... containing his New Theory about Light and Colors (1672)",
+      "publisher": "The Newton Project, University of Oxford",
+      "url": "https://www.newtonproject.ox.ac.uk/view/texts/normalized/NATP00006"
+    },
+    {
+      "title": "History of the telescope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_telescope"
+    },
+    {
+      "title": "Laurent Cassegrain",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Laurent_Cassegrain"
+    },
+    {
+      "title": "Cassegrain reflector",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cassegrain_reflector"
+    },
+    {
+      "title": "Speculum metal",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Speculum_metal"
+    },
+    {
+      "title": "John Hadley",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Hadley"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Replica of Isaac Newton's first small reflecting telescope with its side eyepiece",
+      "search": "Newton reflecting telescope replica"
+    },
+    {
+      "want": "Diagram of the light path in a Newtonian telescope with main mirror and flat diagonal mirror",
+      "search": "Newtonian telescope diagram"
+    },
+    {
+      "want": "Old engraving or drawing of Newton's prism experiment splitting sunlight into colors",
+      "search": "Newton prism experiment engraving"
+    }
+  ]
+}

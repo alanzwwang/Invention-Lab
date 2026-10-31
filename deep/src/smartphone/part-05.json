@@ -1,0 +1,155 @@
+{
+  "n": 5,
+  "title": "IBM Simon: The Forgotten First Smartphone",
+  "when": "1992 – 2000",
+  "summary": "In 1994, long before the iPhone, IBM sold a phone with a touchscreen, a calendar and email. It was called Simon! It was heavy, its battery died fast and it cost a lot, so few people bought it, but it showed the world what a phone could become.",
+  "sections": [
+    {
+      "heading": "An Engineer, an Idea and a Trip to Las Vegas",
+      "paragraphs": [
+        "Imagine it is 1992. If you are a busy businessperson, your coat pockets are heavy. In one there is a mobile phone, which by now has shrunk from the 'brick' to something closer to a large TV remote. In another there is a pager, a little beeping box that shows a phone number when someone wants you to call them back. In your briefcase there is a paper diary stuffed with appointments, a thick address book, maybe a pocket organizer, and a stack of business cards. Back at the office sit the fax machine and the desktop computer, where your email waits. Nothing talks to anything else.",
+        "At IBM, the giant American computer company, an engineer named Frank Canova was thinking about that pile of gadgets. Canova had grown up in Florida and studied electrical engineering at the Florida Institute of Technology, graduating in 1978. By the early 1990s he was working on small, battery-powered devices, and he noticed something important: computer chips and radio parts had become small enough and cheap enough that a whole computer and a whole phone might fit into one hand-sized box.",
+        "According to some accounts, his boss, Jerry Merckel, was working on PCMCIA cards. These were thin, credit-card-sized plug-in cards that could add memory or a modem to a laptop. Merckel saw that the same kind of card slot could make a handheld device expandable, so new abilities could simply be slotted in. Together the idea grew: why not build a phone that was also a personal organizer, and that could send faxes and email too?",
+        "A team at IBM set to work. IBM first asked Motorola, the company that had built the first handheld cellular phones, to help build the device, but Motorola said no. So IBM partnered with the Japanese electronics company Mitsubishi Electric, which would manufacture it. Inside IBM the project went by code names; reports mention 'Sweetspot' for the early prototype and 'Angler' for the product. Canova and his teammates later received a patent for the design, with a 1992 starting date. Because the idea began with him, Frank Canova is often described today as the inventor of the smartphone, although, as with almost every invention in this story, it took a whole team to make it real.",
+        "Every November, the computer world gathered in Las Vegas for COMDEX, the biggest computer trade show of its day. Picture enormous convention halls, carpeted aisles, glowing monitors, and tens of thousands of visitors collecting brochures and free pens. Companies used COMDEX to show off their newest machines and to whisper about the future.",
+        "IBM's team rushed to get their prototype ready in time. On November 16, 1992, they showed it off: a handheld device that was a cellular phone and an electronic organizer at the same time. You could tap its screen instead of pressing lots of buttons. The demonstration included little sample programs showing things like stock prices, news, sports scores and the weather, a hint of the kind of information people might one day get on a phone.",
+        "Visitors were impressed. It is worth remembering what else existed at the time. Part 4 described the PDAs, or personal digital assistants: handheld organizers with no phone inside. Apple's Newton had not even gone on sale yet; it arrived in 1993. Most mobile phones still had small one- or two-line displays that could show only a phone number. A phone with a touchscreen, an address book and a calendar was like a glimpse of the future arriving early.",
+        "But a trade-show prototype is not the same as a product you can buy in a shop. It would take almost two more years of work, partnerships and software fixes before ordinary people could get their hands on one."
+      ]
+    },
+    {
+      "heading": "Meet Simon: The Personal Communicator",
+      "paragraphs": [
+        "To sell a phone in the United States, you needed a phone company to connect it to its network. IBM teamed up with BellSouth Cellular, the mobile arm of one of the large American phone companies. BellSouth gave the device its friendly name: the Simon Personal Communicator, usually just called the IBM Simon. It was shown at the Wireless World Conference in November 1993, and the plan was to start selling it in May 1994. Software problems pushed the launch back, and the Simon finally went on sale on August 16, 1994.",
+        "What did you get? The Simon was about 8 inches (20 cm) long, 2.5 inches (6.4 cm) wide and 1.5 inches (3.8 cm) thick, and weighed about 510 grams (18 ounces). That is roughly the weight of two and a half modern smartphones, or a full can of soup. Most of its front was taken up by a screen about 4.5 inches long and 1.4 inches wide, a tall, narrow strip of liquid crystal display (LCD) with 160 by 293 pixels. The screen was monochrome, meaning it showed only dark dots on a light background, and it had a backlight so you could see it in the dark.",
+        "The screen was a resistive touchscreen. As Part 10 will explain, this kind of screen is made of layers that register a touch when they are pressed together. That meant you could press it with a fingertip or with the plastic stylus (a pen-shaped pointer) that came with it. There was no keyboard with real keys at all. To dial, you tapped numbers on a keypad drawn on the screen. To type a note, you tapped letters on an on-screen keyboard, or you could write by hand.",
+        "Its programs, built in from the factory, read like the home screen of a much later phone: an address book, a calendar, an appointment scheduler, a calculator, a world clock that told you the time in other cities, a notepad, and a sketch pad for quick drawings. Most exciting of all, Simon could send and receive email and faxes. A fax is a copy of a paper page sent over phone lines; in 1994 faxes were still one of the main ways businesses sent documents. With Simon, a salesperson standing in a parking lot could receive a fax right on the screen.",
+        "In the box came a charging stand, a rechargeable battery and a leather cover. Extra equipment included a cable to connect Simon to a desktop computer, an adapter to plug it into an ordinary wall phone socket, and even a pager card made by Motorola that slotted into its card slot. Simon was not just a phone with extras. It was a little computer that happened to make phone calls.",
+        "Open a Simon up and you would find parts that seem tiny by today's standards. Its brain was a processor called the NEC V30HL, running at 16 megahertz. Megahertz means millions of ticks per second; a modern phone chip runs at a few thousand megahertz, with several processor cores working at once. The processor was built into a chip from a company called Vadem that combined several jobs in one package, an early cousin of the 'system-on-a-chip' you will meet in Part 11.",
+        "For memory, Simon had about 1 megabyte of working memory and 1 megabyte of flash memory to store programs and data. Engineers used a compression trick, squeezing data the way you might roll clothes tightly in a suitcase, so the flash memory could hold about 2 megabytes. To compare, a single photo from a modern phone camera is often 2 to 5 megabytes. Simon's entire memory could not hold one of today's selfies.",
+        "Underneath the friendly screen, Simon ran a version of DOS, the text-based operating system used by many personal computers of the time. The company Datalight supplied it, under the name ROM-DOS. But owners never saw a blinking DOS prompt. IBM built a touch-friendly layer on top, called Navigator, with big buttons you could tap. This idea, a friendly touch interface sitting on top of a hidden operating system, is exactly how smartphones work today.",
+        "To connect to the outside world, Simon had a built-in modem, the part that turns computer data into sounds that can travel over a phone line or a cellular voice channel. It could send data at 2,400 bits per second and faxes at 9,600 bits per second. A short email of a few hundred words would arrive in a few seconds, which felt fine in 1994. But a typical 3-megabyte photo from a modern phone would have taken almost three hours to send at 2,400 bits per second.",
+        "Power came from a rechargeable nickel-cadmium (NiCad) battery pack. Lithium-ion batteries, the lighter and more powerful kind used in phones today, had only gone on sale in 1991 and were still rare and expensive. That choice of battery would turn out to be one of Simon's biggest problems."
+      ]
+    },
+    {
+      "heading": "Why Simon Did Not Take Over the World",
+      "paragraphs": [
+        "Simon was clever, but clever is not enough to make people open their wallets. The first problem was the price. With a two-year BellSouth contract, Simon cost about $899. Without a contract it cost about $1,099. Because prices have risen over the years, $899 in 1994 is worth roughly $1,900 in today's money. On top of that, you paid for calls by the minute, and mobile calls in 1994 were expensive. BellSouth later cut the price to $599 with a contract, but by then interest was fading.",
+        "The second problem was the battery. With all its computing parts and its backlit screen, Simon drained its NiCad battery fast. Reports from the time describe about an hour of talking, or less, before the battery ran flat. Imagine buying the most advanced gadget in the world and then having to search for a power socket by lunchtime.",
+        "Third, Simon was big and heavy. At about half a kilogram, it was heavier than many of the regular mobile phones of 1994. You could not easily slip it into a shirt pocket.",
+        "Fourth, the world around Simon was not ready. Mobile networks in the United States in 1994 were still mostly first-generation, or 1G, analog networks, designed for voice calls rather than data. Simon had no web browser, and that made sense: the World Wide Web was only a few years old, the first popular graphical web browser, Mosaic, had appeared in 1993, and most websites were simple pages built for big desktop screens. Even if Simon had had a browser, loading web pages at 2,400 bits per second over an analog phone channel would have been painfully slow. There was also no app store, no easy way for outside programmers to write programs for it, and very few people outside offices even had an email address.",
+        "The results showed it. About 50,000 Simons were sold in roughly six months. For comparison, popular phones of the late 1990s would sell in the tens of millions. In February 1995, only about six months after launch, Simon was withdrawn from sale. IBM had worked on a smaller, lighter follow-up, code-named 'Neon', but it was cancelled before it ever reached shops.",
+        "Frank Canova did not give up on handheld computers, though. In 1997 he joined Palm, the company behind the hugely successful Palm Pilot you met in Part 4, and became head of engineering for several of its PDAs. The ideas he had worked on at IBM lived on in the next generation of pocket computers."
+      ]
+    },
+    {
+      "heading": "Was Simon Really the First Smartphone?",
+      "paragraphs": [
+        "Today, newspapers, museums and history books often call the IBM Simon 'the first smartphone'. It deserves a lot of credit. It combined a mobile phone with a touchscreen, built-in programs for organizing your life, email and fax, and a slot for adding new abilities. By the definition in our glossary, a mobile phone that is also a general-purpose computer, Simon fits remarkably well.",
+        "But there is an important detail. Nobody called Simon a 'smartphone' when it was on sale. IBM and BellSouth called it a 'personal communicator'. The word 'smartphone', written as one word, was first used by the Swedish company Ericsson in 1997 for a concept device called the GS88, and the first phone actually sold with the 'smartphone' label came from Ericsson in 2000. Historians later looked back and applied the modern label to Simon because it did so many of the things smartphones would become famous for.",
+        "There is also a debate about the word 'first'. Earlier inventors had filed patents in the 1970s and 1980s describing telephones with screens and computer features, and some people point to those ideas as the true beginning. Others argue that a device only counts if real customers could buy it. Some historians prefer to call Simon 'an important forerunner' of the modern smartphone rather than simply the first. All of these views can be fair at the same time. Simon was, as far as historians can tell, the first handheld device sold to the public that combined a cellular phone, a touchscreen and a full set of computer organizer programs. That is a big achievement, even if it was not called a smartphone at the time.",
+        "Simon was not alone, either. In 1994 a company called General Magic, founded by former Apple engineers, released software called Magic Cap that ran on 'personal communicators' made by Sony (the Magic Link) and Motorola (the Envoy). These were handheld organizers designed to send messages, though they were not cellular phones in the same way as Simon. In March 1996, the computer company HP sold the OmniGo 700LX, a tiny palmtop computer that clipped onto a Nokia 2110 mobile phone. Many engineers in many companies could see where things were heading. The race was on."
+      ]
+    },
+    {
+      "heading": "Nokia's Phone That Opened Like a Book",
+      "paragraphs": [
+        "The next big step came from Finland. Nokia, which you met in Part 3 as the maker of the 6110 and the 3310, unveiled a remarkable device at the CeBIT technology fair in Hanover, Germany, in 1996. On August 15, 1996, the Nokia 9000 Communicator went on sale.",
+        "Closed, the Communicator looked like a large, thick mobile phone, about 17 cm (6.8 inches) tall and nearly 4 cm thick, weighing about 397 grams. You could make calls using the keypad on the front, like any phone. But then came the magic trick: you could open it sideways like a book. Inside was a wide black-and-white screen of 640 by 200 pixels and a full QWERTY keyboard, the same layout of letters you find on a computer. It was like carrying a miniature laptop that was also a phone.",
+        "Inside was an Intel 386 processor running at 24 megahertz, the same family of chip that powered many desktop computers a few years earlier, plus 8 megabytes of memory. The organizer side ran software based on GEOS, an operating system originally made for small, inexpensive computers. The Communicator could send email and faxes, print documents through an infrared beam, browse simple web pages and run business programs like a calendar, contacts list and notes.",
+        "Because it worked on GSM, the digital second-generation network you met in Part 3, the Communicator could send data more reliably than an analog phone, at up to 9.6 kilobits per second. That is four times faster than Simon's modem, though still thousands of times slower than mobile internet today.",
+        "The Communicator was expensive too: about 1,000 pounds in the UK at launch. But it became a status symbol for executives, and it even became a movie star. In the 1997 film The Saint, actor Val Kilmer's character uses a Nokia 9000 Communicator. Nokia kept improving the design, and in 2001 the Nokia 9210 Communicator arrived with a color screen and a new operating system, Symbian, that let owners install extra programs. The line continued for more than a decade, ending with the Nokia E90 in 2007."
+      ]
+    },
+    {
+      "heading": "Ericsson Says the Word, and Symbian Is Born",
+      "paragraphs": [
+        "Remember Psion, the British company that made the Psion Organiser back in 1984 (Part 4)? By the late 1990s, Psion had built a powerful operating system for its handheld computers called EPOC. Phone makers noticed that EPOC was small, efficient and good at saving battery power, which is exactly what a phone needs.",
+        "In June 1998, Psion's software team became a new company called Symbian Ltd. It was a joint venture, meaning it was owned together by several companies: Psion and three of the biggest phone makers in the world, Nokia, Ericsson and Motorola. The idea was that instead of every company building its own complicated phone software from scratch, they could share one strong operating system. Rival companies working together like this was unusual, and it shows how hard building smartphone software was.",
+        "The first phone to use this software was the Ericsson R380. It was shown at CeBIT in February 1999 and began shipping in 2000. It was the first device marketed with the word 'smartphone'. Closed, the R380 looked like a fairly normal phone of the time, weighing about 160 grams, far lighter than Simon or the Communicator. But the number keypad was on a flap. When you flipped the keypad open, it revealed a long black-and-white touchscreen underneath, which you could use with a stylus to manage your contacts, calendar and messages.",
+        "The R380 could also reach the mobile internet using WAP, the Wireless Application Protocol. WAP was a system for showing very simple, text-heavy web pages on small phone screens. It was slow and clunky, and many people were disappointed by it, but it was a start. One big limitation: R380 owners could not install their own extra programs. That changed with the Nokia 9210 in 2001.",
+        "Over the next decade, Symbian became the most common smartphone operating system in the world. Nokia's 7650, released in 2002, was the first phone to use the Symbian-based S60 interface, which went on to appear on many Nokia phones. Around 2006, roughly two-thirds of all smartphones sold worldwide ran Symbian. As you will see in Part 9, its reign would not last forever: Android overtook it at the end of 2010, and Nokia announced in February 2011 that it would move to Microsoft's Windows Phone instead. But for many years, if you owned a smartphone, it probably ran software whose story began with Psion's little organizers."
+      ]
+    },
+    {
+      "heading": "The Big Lesson: First Is Not the Same as Winning",
+      "paragraphs": [
+        "Look back at the story of the IBM Simon and you might feel a little sad. Here was a device with a touchscreen, a calendar, email and add-on cards in 1994, thirteen years before the iPhone. Why didn't IBM become the king of smartphones?",
+        "The answer teaches one of the most important lessons in the history of invention: being first is not the same as being successful. An invention needs the right timing. In 1994, batteries were heavy and weak, screens were monochrome, chips were slow and power-hungry, and mobile networks were built for voices, not data. An invention also needs the right price. A device that costs as much as a used car will only ever be bought by a few people. And it needs a whole system around it: fast networks, websites designed for small screens, outside programmers writing software, and enough customers to make it all worthwhile.",
+        "Think of it like planting a seed in winter. The seed might be perfectly healthy, but if the ground is frozen it cannot grow. Simon was a good seed planted in frozen ground. Over the next decade, the ground slowly thawed: lithium-ion batteries got better, color screens got cheaper, digital networks spread, and chips became faster while using less power.",
+        "There is a second lesson too. Simon's ideas did not disappear. They traveled with people like Frank Canova to other companies, and they inspired other engineers who saw what was possible. The Nokia Communicator showed that business users would pay for a pocket office. The Ericsson R380 and Symbian showed that phone companies could share software. Each step, even the ones that failed in the shops, taught the industry something.",
+        "Simon itself has become a treasured collector's item. Surviving units are shown in exhibitions about the history of computing, and in 2014, when Simon turned 20, news stories around the world looked back at it as a forgotten pioneer of the smartphone."
+      ]
+    },
+    {
+      "heading": "Meanwhile, on the Other Side of the World",
+      "paragraphs": [
+        "By the end of the 1990s, phones could make calls, send text messages, and, if you paid a lot, organize your calendar and send email. But for most people, the real internet still lived on big desktop computers connected by wires. Mobile web systems like WAP were slow, confusing and expensive. In the United States and Europe, very few ordinary people used the internet on their phones at all.",
+        "So where did the mobile internet really take off first? Not in Silicon Valley, the home of so many computer companies. Not in Finland or Sweden, home of Nokia and Ericsson. The answer was Japan. In February 1999, a Japanese phone company launched a service that let millions of ordinary people, from teenagers to grandparents, read the news, check the weather, play games and send emails with little pictures in them, all from their phones. Those little pictures would one day travel all around the world under a Japanese name: emoji. That is where our story goes next."
+      ]
+    }
+  ],
+  "deepDive": "Why do historians argue about the 'first smartphone'? Partly because the word itself is fuzzy. If a smartphone means a cellular phone that is also a general-purpose computer, the IBM Simon (1994) qualifies: it ran a DOS-based operating system (Datalight ROM-DOS) beneath a touch interface, held about 1 MB of RAM and 1 MB of flash, and could take new abilities through a PCMCIA card slot. Yet almost no third-party software was ever made for it, and its owners could not download programs over the air, which many people now see as a defining smartphone feature. By that stricter test, later devices such as the Nokia 9210 Communicator (2001), the first Symbian Communicator that let users install applications, have a strong claim. Others go further back to 1970s and 1980s patents for phones with screens and data features, which shows how ideas often appear on paper long before they can be built. The numbers also explain Simon's failure. Its 2,400 bit-per-second modem worked over analog (1G) cellular channels designed for voice; sending a 3-megabyte file would have taken close to three hours. Its NiCad battery stored much less energy for its weight than the lithium-ion cells that Sony had only begun selling in 1991, and powering a backlit screen, a 16 MHz processor and a radio transmitter at once drained it in roughly an hour of talk. At $899 with a two-year contract (about $1,900 in today's money), plus per-minute call charges, it was a luxury tool. Economists talk about 'complementary goods': products whose value depends on other products existing. Smartphones need fast data networks, mobile-friendly websites, developers and app stores. In 1994 almost none of these existed. The roughly 50,000 Simons sold in six months were not a failure of imagination but an example of an invention arriving before its ecosystem. Historians of technology see the same pattern with Apple's Newton and General Magic's Magic Cap, and it is a useful warning for anyone predicting which of today's experimental gadgets will win.",
+  "funFact": "IBM first asked Motorola, the company behind the first handheld cellular phone, to build the Simon, but Motorola said no, so the Japanese company Mitsubishi Electric manufactured it instead.",
+  "check": {
+    "q": "Which phone company sold the IBM Simon Personal Communicator when it went on sale in August 1994?",
+    "a": "BellSouth (BellSouth Cellular)",
+    "wrong": [
+      "Nokia",
+      "NTT Docomo",
+      "Apple"
+    ]
+  },
+  "sources": [
+    {
+      "title": "IBM Simon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/IBM_Simon"
+    },
+    {
+      "title": "Frank Canova",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Frank_Canova"
+    },
+    {
+      "title": "History of smartphones",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_smartphones"
+    },
+    {
+      "title": "Nokia 9000 Communicator",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nokia_9000_Communicator"
+    },
+    {
+      "title": "Nokia Communicator",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nokia_Communicator"
+    },
+    {
+      "title": "Ericsson R380",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ericsson_R380"
+    },
+    {
+      "title": "Symbian",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Symbian"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Photo of an IBM Simon Personal Communicator with its stylus and monochrome touchscreen",
+      "search": "IBM Simon Personal Communicator"
+    },
+    {
+      "want": "Photo of a Nokia 9000 Communicator opened up to show its wide screen and QWERTY keyboard",
+      "search": "Nokia 9000 Communicator open"
+    },
+    {
+      "want": "Photo of the Ericsson R380 smartphone with its flip keypad open, showing the touchscreen",
+      "search": "Ericsson R380 smartphone"
+    }
+  ]
+}

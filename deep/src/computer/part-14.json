@@ -1,0 +1,158 @@
+{
+  "n": 14,
+  "title": "Inside the Machine: Bits, Gates and the Clock",
+  "when": "How it works",
+  "summary": "Shrink down and walk inside a computer chip! Everything a computer does, from games to photos to music, is built from billions of tiny switches that are either on or off. A ticking clock tells them when to switch, billions of times every second.",
+  "sections": [
+    {
+      "heading": "A World Made of On and Off",
+      "paragraphs": [
+        "Imagine you have shrunk so small that a single transistor on a chip looks as big as a house. All around you, in every direction, are billions of these tiny switches, connected by thin metal roads stacked in layers like a city of motorways. Electric charge rushes along the roads. Every switch is doing just one thing: being either on or off. That is the whole secret. Everything your computer does, from showing a video to adding up your homework, is built out of that one simple choice, repeated an unimaginable number of times.",
+        "Why only two choices? Why not ten, like the ten digits we use every day? Babbage's engines in Part 4 used wheels with ten positions, and ENIAC in Part 10 also worked in decimal. But electronic signals are never perfectly steady. Voltages wobble a little because of heat, interference from nearby wires and tiny imperfections in the materials. If a wire had to carry ten different voltage levels, a small wobble could turn a 6 into a 7, and the answer would be wrong. If the wire only has to say high or low, there is a huge safety gap between the two. A signal can wobble a lot and still be read correctly. That makes two-state switches cheap, fast and extremely reliable. It is the same reason a light switch has two positions and not ten.",
+        "We call these two states 1 and 0. A number system that uses only the digits 0 and 1 is called binary, and you met it in Part 2, when Leibniz published his work on binary arithmetic in 1703. A single binary digit, one 0 or one 1, is called a bit, short for binary digit. The word was suggested by the statistician John Tukey and made famous in 1948 by Claude Shannon, the engineer you met in Part 7, who had shown that logic could be built from switches."
+      ]
+    },
+    {
+      "heading": "Counting Like a Computer",
+      "paragraphs": [
+        "Counting in binary is easier than it looks. In our everyday decimal system, each place in a number is worth ten times the place to its right: ones, tens, hundreds, thousands. In binary, each place is worth two times the place to its right: ones, twos, fours, eights, sixteens, and so on. So the binary number 101 means one four, no twos and one one, which makes 5. The binary number 1101 means one eight, one four, no twos and one one, which makes 13.",
+        "Try counting from zero to eight in binary: 0, 1, 10, 11, 100, 101, 110, 111, 1000. Notice what happens at 2: you have run out of digits, so you carry a 1 into the next place, exactly as you carry a 1 into the tens place when you go from 9 to 10 in decimal. In binary, you just have to carry much more often. The number 1000 in binary is 8, and the number 10000 is 16. Each time you add a place, you double how far you can count.",
+        "Computers usually handle bits in groups. A group of 8 bits is called a byte. With 8 bits you can make 2 times 2 times 2 times 2 times 2 times 2 times 2 times 2 different patterns, which is 256. So one byte can stand for any whole number from 0 (00000000) to 255 (11111111). That is enough to store one letter of the alphabet, or the brightness of one colour in one dot of a picture.",
+        "Bigger groups get bigger names. About a thousand bytes is a kilobyte, about a million is a megabyte, about a billion is a gigabyte and about a trillion is a terabyte. (Computer people sometimes use 1,024 instead of 1,000, because 1,024 is a power of two, which is why the numbers on your devices do not always match.) The Intel 4004 from Part 13 handled numbers just 4 bits at a time. Most phones and laptops today work with 64 bits at a time, so a single number inside them can be bigger than 18 quintillion, which is 18 followed by eighteen zeros."
+      ]
+    },
+    {
+      "heading": "Logic Gates: Tiny Decision Makers",
+      "paragraphs": [
+        "A single switch can store a bit, but a computer also has to do things with bits. For that it uses logic gates: tiny circuits that take one or more input bits and produce an output bit by following a simple rule. The rules come straight from George Boole's algebra of logic in Part 6, where TRUE and FALSE were treated like numbers. In a computer, TRUE is 1 and FALSE is 0.",
+        "The AND gate gives a 1 only if all of its inputs are 1. Think of a car that will start only if the key is turned AND your seatbelt is fastened. If either one is missing, the answer is no. Written as a little table: 0 AND 0 gives 0, 0 AND 1 gives 0, 1 AND 0 gives 0, and only 1 AND 1 gives 1.",
+        "The OR gate gives a 1 if at least one input is 1. Think of a doorbell that rings if someone presses the button at the front door OR the button at the back door. Only 0 OR 0 gives 0. Any other combination gives 1.",
+        "The NOT gate, also called an inverter, has just one input and flips it. A 1 becomes a 0 and a 0 becomes a 1. Think of a night light that switches on when it is NOT bright outside.",
+        "There are a few more gates built from these. NAND means NOT AND: it gives the opposite answer to AND. NOR means NOT OR. XOR, short for exclusive OR, gives a 1 only when the two inputs are different, like a light on a staircase with a switch at the top and a switch at the bottom, where flipping either switch changes the light. Amazingly, NAND gates alone, or NOR gates alone, can be combined to make every other gate. The American logician Henry Sheffer published a proof of this in 1913. That is why the Apollo Guidance Computer in Part 13 could be built from almost nothing but NOR gates.",
+        "How do you build a gate out of transistors? Remember that a transistor is a switch controlled by electricity: a small voltage on one connection, called the gate (a different use of the same word), turns the switch on or off. Most chips today use a design called CMOS, short for complementary metal-oxide-semiconductor, which uses transistors in matching pairs. One kind turns on when its control voltage is high, and the other kind turns on when it is low. To build a NOT gate you need just two transistors: when the input is high, one transistor connects the output to ground (0), and when the input is low, the other connects the output to the power supply (1). A NAND gate in CMOS needs four transistors. Because one transistor in each pair is always off, very little current flows when nothing is changing, which is why CMOS chips can run on batteries."
+      ]
+    },
+    {
+      "heading": "From Gates to Adding Machines",
+      "paragraphs": [
+        "Now for something wonderful: with just a handful of gates, you can build a machine that adds. Start with the simplest sum possible, adding two single bits. There are only four cases. 0 plus 0 is 0. 0 plus 1 is 1. 1 plus 0 is 1. And 1 plus 1 is 2, which in binary is written 10: a 0 in this place and a 1 carried into the next place.",
+        "Look closely at those answers. The digit you write down, called the sum bit, is 1 only when the two inputs are different. That is exactly what an XOR gate does. The carry bit is 1 only when both inputs are 1. That is exactly what an AND gate does. So one XOR gate and one AND gate, side by side, make a circuit that adds two bits. Engineers call it a half adder.",
+        "It is only half because it cannot accept a carry coming in from the place to its right. A full adder solves that by adding three bits: the two bits of the numbers plus an incoming carry. You can build one from two half adders and an OR gate. Line up a row of full adders, one for each place, with each one passing its carry to the next, and you have a machine that adds whole binary numbers. Because the carries pass along the row like a ripple moving across a pond, this design is called a ripple-carry adder.",
+        "Let us watch it add 5 and 3. In 4-bit binary, 5 is 0101 and 3 is 0011. In the ones place, 1 plus 1 makes 0, carry 1. In the twos place, 0 plus 1 plus the carry makes 0, carry 1. In the fours place, 1 plus 0 plus the carry makes 0, carry 1. In the eights place, 0 plus 0 plus the carry makes 1. The answer is 1000, which is 8. Just like Pascal's carry mechanism in Part 2, the hard part of adding is passing carries along, but here it happens with electricity instead of falling weights and gears, in a tiny fraction of a billionth of a second.",
+        "Subtraction, multiplication and comparisons can all be built from adders and gates too. Multiplication, for example, is mostly repeated shifting and adding, the same trick Leibniz's stepped reckoner used. Modern chips use faster adder designs that work out the carries ahead of time instead of waiting for the ripple, but the basic idea is the same: everything is built from gates, and every gate is built from transistors."
+      ]
+    },
+    {
+      "heading": "Babbage's Mill and Store, Grown Up",
+      "paragraphs": [
+        "Step back from the gates and look at the whole machine. Almost every computer, from a game console to a supercomputer, has the same main parts, and they would look surprisingly familiar to Charles Babbage.",
+        "The heart of the computer is the central processing unit, or CPU. This is what Babbage called the mill. Inside the CPU are three key parts. The arithmetic logic unit, or ALU, is the calculator: built from adders and gates, it adds, subtracts, compares numbers and does logic operations. The control unit is the conductor of the orchestra: it reads each instruction and sends signals telling every other part what to do and when. And the registers are a small number of super-fast storage slots right inside the CPU, like a chef's chopping board, where the numbers being worked on right now are kept.",
+        "Next comes memory, usually called RAM, short for random-access memory. This is Babbage's store. It holds the programs that are running and the data they are using, in millions or billions of numbered slots called addresses, so the CPU can jump straight to any slot it needs. RAM is fast, but it forgets everything when the power goes off. Babbage planned a store of 1,000 numbers; an ordinary laptop today has 16 gigabytes of RAM or more, which is roughly 16 billion bytes.",
+        "Because RAM forgets, computers also need storage that remembers: a solid-state drive made of flash memory chips, or an older hard disk that records data as tiny magnetic patterns on spinning platters. Storage is bigger and cheaper than RAM but slower, so programs and files are copied from storage into RAM when you use them. This is a bit like keeping your books on a library shelf (storage), carrying the ones you need to your desk (RAM), and holding the page you are reading right in your hands (the registers).",
+        "Finally there are input and output devices, the computer's connection to the outside world. Keyboards, mice, touchscreens, cameras and microphones bring information in. Screens, speakers and printers send it out. Babbage planned to use punched cards for input and a printer for output, and the London Science Museum's Difference Engine No. 2, which you met in Part 4, really did get its printer in 2000. All these parts talk to each other along shared sets of wires called buses.",
+        "The big difference from Babbage's design is the idea you met in Part 11: the program itself sits in memory alongside the data. That is why the same computer can be a word processor one minute and a game the next."
+      ]
+    },
+    {
+      "heading": "Fetch, Decode, Execute: The Heartbeat",
+      "paragraphs": [
+        "So how does a CPU actually run a program? It repeats one simple loop, over and over, from the moment it is switched on until it is switched off. The loop has three steps: fetch, decode and execute.",
+        "Inside the CPU is a special register called the program counter. It holds the address in memory of the next instruction to carry out. In the fetch step, the CPU sends that address out to memory and copies the instruction it finds there into another register, the instruction register. Then it adds one to the program counter, so that it points to the instruction after that.",
+        "In the decode step, the control unit looks at the instruction, which is just a pattern of bits, and works out what it means. Some bits say what kind of job it is, such as add, load, store or jump, and others say which numbers or memory addresses to use. The control unit then switches on the right paths through the chip.",
+        "In the execute step, the work happens. The ALU might add two numbers, a value might be copied from memory into a register or from a register back to memory, or the program counter might be changed so that the program jumps to a different place. That jump is how computers make decisions: an instruction can say, in effect, if this number is zero, jump to a different part of the program. Babbage dreamed of exactly this ability in his Analytical Engine.",
+        "Here is a tiny program in plain words. Instruction 1: load the number stored at address 20 into register A. Instruction 2: add the number at address 21 to register A. Instruction 3: store register A into address 22. Instruction 4: stop. If address 20 holds 5 and address 21 holds 3, then after four trips round the loop, address 22 holds 8. Every app you have ever used, however clever it seems, is made of enormous numbers of small, simple steps like these. The computer is not thinking the way you do; it is following instructions extraordinarily fast.",
+        "What keeps all this in step is the clock. A small crystal of quartz, which vibrates at a very steady rate when electricity is applied, drives a timing signal, and circuits on the chip multiply it into a fast stream of pulses. Each pulse, or tick, tells the gates when to move to their next step, rather like a drummer keeping rowers in time. Clock speed is measured in hertz, meaning ticks per second. The 4004 in Part 13 ticked about 740,000 times a second. A 3 gigahertz processor ticks about 3 billion times a second. In the time of one tick, light itself only travels about 10 centimetres.",
+        "Modern chips also have tricks to do more work per tick. Pipelining starts fetching the next instruction before the previous one has finished, like an assembly line where each worker does one step and passes the job along. Most chips now have several complete processors, called cores, side by side, so they can run several jobs at once. And they keep small, very fast memories called caches right next to the cores, so they do not have to wait for slower RAM as often."
+      ]
+    },
+    {
+      "heading": "Printing With Light: How Chips Are Made",
+      "paragraphs": [
+        "Chips begin as sand. Ordinary sand is mostly silicon dioxide, the same compound as quartz. In huge furnaces, it is turned into silicon and then purified again and again until it is one of the purest substances people make: electronic-grade silicon can be about 99.9999999 percent pure, a purity engineers call nine nines.",
+        "The pure silicon is melted at more than 1,400 degrees Celsius. A small seed crystal is dipped into the glowing liquid and very slowly pulled upward while it turns. Silicon atoms freeze onto the seed in a perfect, regular pattern, forming a single giant crystal shaped like a long cylinder called an ingot. This method is called the Czochralski process, after the Polish scientist Jan Czochralski, who discovered it in about 1916. Modern ingots are about 300 millimetres across, slightly less than 12 inches. Diamond saws slice them into thin round discs called wafers, each about three-quarters of a millimetre thick, which are polished until they are flatter and smoother than a mirror.",
+        "Then comes photolithography, which means writing on stone with light. The wafer is coated with a thin layer of a light-sensitive liquid called photoresist and spun so it spreads into an even film. Light is shone through a mask, a plate of quartz with a pattern of chrome on it, and through lenses that shrink the pattern down. Where the light hits, the photoresist changes chemically. A developer liquid washes away the changed areas, leaving a stencil on the wafer. Then the uncovered parts are etched away, often with a glowing gas called a plasma, or have atoms of other elements fired into them to change how they conduct electricity. Finally the leftover resist is stripped off. It is a bit like making a T-shirt with a stencil and spray paint, but at a scale far too small to see.",
+        "One layer is not enough. A complex chip goes through the lithography cycle dozens of times, as many as 50 or more, building up transistors at the bottom and then many layers of tiny metal wires above them, like the floors of a skyscraper. Altogether, making a modern chip takes over 300 separate steps and usually around 11 to 13 weeks, sometimes as long as 15. Hundreds of chips are made side by side on each wafer, tested, then cut apart and sealed in their packages.",
+        "The light has to be very special to print such tiny patterns. Early chipmakers used ordinary ultraviolet light from mercury lamps. Later came deep ultraviolet light from lasers, with a wavelength of 193 nanometres. The most advanced machines today use extreme ultraviolet light, or EUV, with a wavelength of just 13.5 nanometres, made by zapping tiny droplets of molten tin with a powerful laser to create a hot, glowing plasma. These machines, made by the Dutch company ASML, are among the most complicated machines ever built. You may hear chips described as 5 nanometre or 3 nanometre; these names are marketing labels for a generation of technology, not the actual width of a transistor.",
+        "All this happens in clean rooms, where the air is filtered constantly and flows gently downward to sweep away dust. A single speck of dust can be much bigger than the features on a chip and ruin it, so workers wear full-body suits, hoods, masks and gloves, often nicknamed bunny suits, and many steps are done by robots inside sealed boxes. The best areas are kept thousands of times cleaner than a hospital operating theatre."
+      ]
+    },
+    {
+      "heading": "Turning the World Into Numbers",
+      "paragraphs": [
+        "If a computer only understands 0 and 1, how can it show you words, photos, music and films? The answer is that people agree on codes that turn everything into numbers.",
+        "Text is the simplest. In 1963, American engineers published a code called ASCII, short for American Standard Code for Information Interchange, which used 7 bits to give 128 different codes for letters, digits, punctuation and control signals. In ASCII, capital A is 65, small a is 97, the digit 0 is 48 and a space is 32. So the word Hi is stored as 72 and 105, or in binary 01001000 01101001. Since 1991 a much bigger code called Unicode has given numbers to more than 150,000 characters from almost every writing system on Earth, plus mathematical symbols and emoji. Its first 128 codes match ASCII exactly, so old and new text still fit together.",
+        "Pictures are grids of tiny coloured squares called pixels. Each pixel's colour is usually stored as three numbers: how much red, how much green and how much blue light to mix, each from 0 to 255, which is one byte each. That gives 256 times 256 times 256, or more than 16.7 million possible colours. A full HD screen is 1,920 pixels wide and 1,080 tall, which is more than 2 million pixels, so a single uncompressed picture needs over 6 million bytes. Video is just a fast series of such pictures, often 30 or 60 every second. Clever compression methods, which leave out information your eyes would not notice, make the files much smaller.",
+        "Sound is a wave of air pressure. A microphone turns it into a changing voltage, and the computer measures that voltage many thousands of times a second, storing each measurement as a number. A music CD measures the sound 44,100 times every second for each of the two stereo channels, using 16 bits for each measurement. Play the numbers back in order through a speaker and the wave is rebuilt so closely that our ears cannot hear the steps.",
+        "Even this page you are reading reached you as a long stream of bits. And the machines handling those bits have become unimaginably dense. The Intel 4004 had about 2,300 transistors. Apple's M1 chip of 2020 had about 16 billion. Modern laptop and phone chips contain tens of billions of transistors, and the largest chips made for artificial intelligence pack in more than 100 billion. Every one of them is still a tiny switch saying on or off.",
+        "Yet here is the strangest thing of all. With the power off, or with no instructions to follow, all those billions of perfect switches just sit there doing nothing. A chip is like a magnificent piano with no music and no player. To make it do anything useful, someone has to write the instructions: the lists of steps that tell it what to fetch, what to add and where to jump. Those instructions are called software, and the story of the people who learned to write them, often brilliantly and against the odds, comes next."
+      ]
+    }
+  ],
+  "deepDive": "Why does binary win? Claude Shannon's 1948 information theory measures information in bits, and it shows that any message can be encoded in two-symbol form. In hardware, the advantage is noise margin: a CMOS gate treats any input voltage in a broad low band as 0 and any voltage in a broad high band as 1, and it outputs a clean, restored level. This regeneration at every gate means errors do not accumulate as signals pass through billions of gates, which is why digital systems scale and analog computers like Bush's differential analyzer did not. Multi-level signalling is still used where it pays off, for example in flash memory cells that store 3 or 4 bits as different charge levels, and in some high-speed data links, but logic stays binary. Clock speed is not the same as performance. Single-core clock rates rose from about 740 kHz (Intel 4004, 1971) to around 3 GHz by the mid-2000s and have changed little since, because switching power grows with frequency and voltage, and chips hit a heat limit sometimes called the power wall. Since then, gains have come from more transistors rather than faster ticks: multiple cores, wider pipelines that issue several instructions per tick, out-of-order execution, branch prediction, bigger caches and specialised units for graphics and AI. A crucial bottleneck is memory: fetching data from RAM can take hundreds of clock cycles, which is why multi-level caches occupy a large share of a modern chip's area. Chip manufacturing illustrates how far Moore's law was pushed. Extreme ultraviolet lithography at 13.5 nm wavelength needs mirrors instead of lenses, because almost every material absorbs EUV light, and the whole light path must be in a vacuum. Process names such as '3 nm' no longer describe any physical dimension; real minimum metal pitches are a few tens of nanometres, and density comparisons between manufacturers require looking at measured transistor counts per square millimetre. Finally, note that the von Neumann design of a shared memory for program and data, described in Part 11, remains the basic organisation of nearly all general-purpose computers, though many chips separate instruction and data caches internally.",
+  "funFact": "In one tick of a 3 gigahertz processor's clock, light travels only about 10 centimetres, roughly the length of a pencil stub.",
+  "check": {
+    "q": "How many different values can one byte (8 bits) represent?",
+    "a": "256 (0 to 255)",
+    "wrong": [
+      "8",
+      "100",
+      "1,024"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Logic gate",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Logic_gate"
+    },
+    {
+      "title": "Adder (electronics)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Adder_(electronics)"
+    },
+    {
+      "title": "Instruction cycle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Instruction_cycle"
+    },
+    {
+      "title": "Photolithography",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Photolithography"
+    },
+    {
+      "title": "Semiconductor device fabrication",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Semiconductor_device_fabrication"
+    },
+    {
+      "title": "ASCII",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ASCII"
+    },
+    {
+      "title": "Transistor count",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Transistor_count"
+    },
+    {
+      "title": "1965: 'Moore's Law' Predicts the Future of Integrated Circuits",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/siliconengine/moores-law-predicts-the-future-of-integrated-circuits/"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Diagram of the standard symbols for AND, OR and NOT logic gates",
+      "search": "logic gates AND OR NOT symbols"
+    },
+    {
+      "want": "A polished 300 mm silicon wafer covered in rows of microchips",
+      "search": "silicon wafer 300 mm chips"
+    },
+    {
+      "want": "Workers in white clean-room suits inside a semiconductor factory",
+      "search": "clean room semiconductor fabrication workers"
+    }
+  ]
+}

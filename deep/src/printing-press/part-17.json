@@ -1,0 +1,149 @@
+{
+  "n": 17,
+  "title": "How Modern Printing Works",
+  "when": "1900 – today",
+  "summary": "A printer in New Jersey made a mistake that turned out to be brilliant: ink bounced onto a rubber sheet and printed better than before. Soon four inks were mixing into every color you can imagine. Then an inventor used static electricity to copy pages, and lasers and tiny ink drops brought printing right onto your desk.",
+  "sections": [
+    {
+      "heading": "The Mistake That Made Offset",
+      "paragraphs": [
+        "Imagine a small print shop in New Jersey in the early 1900s. The machine is thumping along, sheet after sheet, when the person feeding paper misses one. Nobody notices for a moment. The press keeps turning, and with no paper in the way, the inked plate presses its picture straight onto the soft rubber that was supposed to sit behind the paper. Then the next sheet goes through and gets printed on both sides at once: by the plate on the front, and by the rubber on the back.",
+        "That is the story usually told about Ira Washington Rubel, an American printer who made lithographic prints on paper. When he looked at the accidental sheet, he saw something surprising. The picture that came from the rubber was sharper and cleaner than the one that came directly from the metal plate. Rubber is soft and squishy, so it pressed the ink into every little hollow of the paper's surface, while the hard plate only touched the high bumps.",
+        "Rubel understood what this meant. Instead of printing straight from the plate, he could print on purpose in two steps: plate to rubber, rubber to paper. The ink is 'set off' (passed along) from one surface to the next, which is why this way of printing is called offset printing. Most books describe his discovery as happening around 1903 or 1904, although different sources give slightly different years, so it is safest to say 'about 1904'. With a partner he built a press with three cylinders, and by about 1907 Rubel offset presses were working in San Francisco.",
+        "As with so many inventions in this story, Rubel was not completely alone. Back in 1875 an Englishman named Robert Barclay had patented an offset press for printing on tin, the shiny metal used for biscuit boxes and tea cans. You cannot easily press a hard metal plate against a hard tin sheet, so Barclay used a softer cylinder covered in cardboard to carry the picture across. In Europe, a printer named Kašpar Hermann developed offset presses for paper at about the same time as Rubel and started printing on one in Germany in 1907. So the fair way to tell it is that offset printing on paper grew up on both sides of the Atlantic around 1904, with Rubel's happy accident as its most famous moment.",
+        "Why did this matter so much? Remember Alois Senefelder from the last chapter, who discovered in the 1790s that you could print from a flat stone using the fact that oil and water do not mix. Lithography was wonderful for pictures, but heavy stones were slow and awkward. Offset printing took Senefelder's oil-and-water trick, put it on a thin metal plate wrapped around a fast spinning cylinder, and added the rubber 'blanket' in the middle. The result was a way of printing that was fast, cheap and gentle on the plate. It soon became the most important printing method in the world, and it still prints most of the books, magazines, posters and leaflets you have ever held."
+      ]
+    },
+    {
+      "heading": "Oil, Water and a Rubber Blanket",
+      "paragraphs": [
+        "It starts with the plate. A modern offset plate is a thin, flexible sheet, usually of aluminum, about as thick as a few sheets of paper. It is completely flat. There are no raised letters like Gutenberg's type and no carved hollows. Instead, the plate's surface is treated so that it has two kinds of areas. The image areas, where the letters and pictures will be, attract oily ink. The non-image areas, which should stay blank, love water instead.",
+        "Here is the clever chemistry. Ink is greasy, a bit like thick paint mixed with oil. Water and oil repel each other: think of drops of salad oil floating on vinegar and refusing to mix. On the press, the plate cylinder first passes under dampening rollers that spread a very thin film of water (printers call it fountain solution, water with a few additives) across the plate. The water sticks only to the blank areas. Then the plate passes under the inking rollers. The ink tries to stick everywhere, but where there is already a film of water it is pushed away. It can only grab hold of the image areas. In a fraction of a second, the flat plate is carrying a perfect inked picture of the page, with clean wet spaces in between.",
+        "Next, the plate cylinder rolls against the blanket cylinder, which is wrapped in a rubber blanket. The inked picture transfers onto the rubber. Notice something fun: on the plate the words read the right way round, on the blanket they are reversed like writing seen in a mirror, and when the blanket presses onto the paper they are turned the right way round again. That double flip means plate makers do not have to think backwards the way Gutenberg's punch cutters did.",
+        "Finally the paper passes between the blanket cylinder and a hard impression cylinder that squeezes it against the rubber. The ink jumps from the blanket to the paper, and out comes a printed sheet. Because the plate never touches the paper, it wears out slowly, and the soft blanket can print well even on slightly rough paper.",
+        "In the old days, plates were made photographically: a film negative of the page was laid on a light-sensitive plate and exposed to strong light, which changed which parts would accept ink. Today most print shops use computer-to-plate machines, known as CTP. A laser draws the page directly onto the plate from a computer file, with no film at all.",
+        "There are two main families of offset press. Sheet-fed presses swallow single sheets of paper, one after another, and are used for shorter jobs such as brochures, posters, art books and letterheads. Web-fed presses, sometimes called web offset, print on huge rolls of paper that unwind in a continuous ribbon, like Bullock's web press from the 1860s but much faster. They are used for newspapers and big magazine runs. The biggest web presses can race paper through at more than 900 meters per minute and turn out tens of thousands of newspapers in an hour; some are rated at up to about 80,000 cut copies an hour. For newspapers the ink simply soaks into the soft newsprint. For glossy magazines, the paper rushes through hot ovens to dry the ink before it is cut and folded."
+      ]
+    },
+    {
+      "heading": "Four Inks, Every Color",
+      "paragraphs": [
+        "Pick up a colorful comic, cereal box or magazine and look closely at a photograph with a magnifying glass. The smooth picture will dissolve into a crowd of tiny dots in just four colors: cyan (a bright sky blue), magenta (a hot pinkish purple), yellow and black. Printers call this CMYK. The K stands for 'key', the old printers' name for the black plate that carried the fine details and outlines that the other colors were lined up against.",
+        "How can four inks make thousands of colors, including greens, oranges, browns and skin tones? The answer is a kind of science called subtractive color. White paper reflects all the colors of light back to your eye. Each ink works like a filter that soaks up, or subtracts, part of that light. Cyan ink absorbs red light, magenta absorbs green light, and yellow absorbs blue light. Print yellow on top of cyan and between them they soak up both blue and red, so the only light bouncing back to your eye is green. Magenta plus yellow leaves red. All three together soak up almost everything and give a very dark color.",
+        "This is the opposite of how a screen works. Your phone or computer makes colors by adding light from tiny red, green and blue glowing dots, which is called additive color. On a screen, red plus green light makes yellow, which surprises most people the first time they hear it. Paper cannot glow, so printers must work by taking light away instead.",
+        "So why add black at all, if cyan, magenta and yellow together make a dark color? Real inks are not perfect filters. Stacked up, the three colored inks usually make a muddy dark brown rather than a crisp black. They also pile a lot of wet ink onto one spot, which takes longer to dry and can make thin paper wrinkle or tear. Black ink is cheaper, darker and sharper, which is especially important for small text. Designers sometimes print a 'rich black' by putting some colored ink underneath the black, to make large dark areas look deep and velvety.",
+        "The second trick is the halftone, which you met in the last chapter. Each of the four colors is printed as a grid of dots that are bigger in some places and smaller in others. Where the magenta dots are tiny and spread apart, you see mostly white paper with a hint of pink. Where they are big and nearly touching, you see strong magenta. Without halftones, four inks could only make eight solid colors (each ink on or off, in every combination, plus white paper). With dots of different sizes, they can fool your eye into seeing a smooth rainbow.",
+        "To make this work, each color gets its own plate, and the paper passes through four printing units one after another, getting each layer of dots in turn. The grids of dots for each color are tilted at different angles so that they do not line up in an ugly way and create wavy patterns. Under a magnifying glass, the overlapping dots form little flower-like clusters that printers call rosettes. Everything has to be lined up, or 'in register', to a fraction of a millimeter. If you have ever seen a cheap comic with a blurry ghost of color sticking out beside a face, you were looking at a picture that slipped out of register."
+      ]
+    },
+    {
+      "heading": "Flexo, Gravure and Screens",
+      "paragraphs": [
+        "Offset is king for books and magazines, but it is not the only kind of modern printing. Look around a supermarket and you will see the work of several other methods, each good at a different job.",
+        "Flexography, or flexo for short, is the champion of packaging. It is really a modern, speedy cousin of Gutenberg's letterpress: the image stands up as raised parts on a plate, which is inked and pressed onto the material. The difference is that flexo plates are flexible, made of rubber or a kind of plastic called photopolymer, so they can be wrapped around spinning cylinders and print on bumpy or slippery surfaces such as plastic bags, foil wrappers, cardboard boxes, labels and milk cartons. A special roller called an anilox roller, covered in thousands of tiny engraved cells, delivers exactly the right amount of ink to the plate, and a thin metal 'doctor blade' scrapes off any extra. The first patented press of this kind was built in Liverpool in 1890, but its ink smeared so badly that people nicknamed the machine 'Bibby's Folly'. Early versions were called aniline printing after the dyes in their ink, and the friendlier name 'flexography' was chosen in 1951.",
+        "Gravure works the opposite way. Instead of raised letters, the picture is cut into the surface of a copper-plated cylinder as millions of tiny hollow cells. The cylinder spins through a bath of runny ink, a doctor blade wipes the smooth surface clean, and ink stays only inside the cells. When paper is pressed against the cylinder, it pulls the ink out of the cells. Deeper or wider cells hold more ink and print darker tones, so gravure can make very rich, smooth pictures. Making the engraved cylinders is expensive, with a separate cylinder for every color, so gravure only makes sense for enormous jobs: catalogues, magazines printed in hundreds of thousands or millions of copies, wallpaper, wrapping films and some postage stamps. Modern rotary gravure grew out of work in the 1890s by the Czech inventor Karel Klíč and his partners in Lancaster, England.",
+        "Screen printing is the method behind most printed T-shirts, as well as many posters and signs. A fine mesh is stretched tight across a frame, and a stencil blocks some of the holes. Ink is poured on top and a rubber squeegee drags it across the screen, pushing ink through the open holes onto the fabric below. One screen is needed for each color. The mesh used to be made of silk, which is why people still sometimes call it silkscreen printing. Stencil printing has ancient roots in Asia, and in the 1960s artists such as Andy Warhol made screen printing famous in the art world with bright, repeated images of soup cans and film stars."
+      ]
+    },
+    {
+      "heading": "10-22-38 Astoria",
+      "paragraphs": [
+        "Now we leave the giant presses and meet a quiet man with sore hands. Chester Carlson was born in Seattle in 1906 and grew up poor. As a boy he loved printing so much that he made his own little newspaper. He studied physics at the California Institute of Technology, graduating in 1930, and then worked at Bell Laboratories and later in the patent department of an electronics company in New York.",
+        "Patent work meant copying. Every patent application needed several copies of long documents and drawings, and in the 1930s the choices were poor: retype everything, send it away to be photographed (slow and expensive), or use carbon paper, which only made a few blurry copies at a time. Carlson was also studying law at night, copying out pages of law books by hand, and he suffered from arthritis that made his hands ache. He began to dream of a machine that could make a copy of a page in seconds.",
+        "He read about a property of some materials called photoconductivity. A photoconductor acts like an insulator in the dark, holding onto static electricity, but becomes a conductor when light shines on it, letting the charge leak away. Carlson realized he could use this to make a picture out of static electricity. He started experimenting in his kitchen in Jackson Heights, Queens, which reportedly filled with the rotten-egg smell of burnt sulfur, and then rented a small room above a bar in Astoria, Queens, for a lab. In 1938 he hired a helper, Otto Kornei, an out-of-work Austrian engineer and physicist.",
+        "On 22 October 1938, about two weeks after Kornei joined him, they tried it. Kornei wrote '10-22-38 Astoria' in ink on a glass microscope slide. They coated a zinc plate with a thin layer of sulfur, a photoconductor, and rubbed it with a handkerchief to give it a static charge, the same way you can charge a balloon by rubbing it on your hair. They laid the slide on the plate and shone a bright lamp on it for a few seconds. Where light passed through the clear glass, the charge leaked away. Where the inked letters blocked the light, the charge stayed. Then they dusted the plate with fine powder, which clung only to the charged areas, and suddenly the words appeared. Carlson pressed a sheet of waxed paper on top, warmed it so the wax melted around the powder, and peeled away the world's first xerographic copy.",
+        "Carlson called his process electrophotography. He was granted a key United States patent in 1942. But almost nobody wanted it. Over several years, many large companies, including some of the biggest names in American business, turned him down; it looked like a messy curiosity, and carbon paper seemed good enough. Finally, in 1944, a nonprofit research organization called the Battelle Memorial Institute agreed to help develop it, and in the late 1940s a small photographic paper company in Rochester, New York, called Haloid, took it on. A professor of classical languages suggested a new name from Greek: xerography, from 'xeros' meaning dry and 'graphein' meaning to write, because unlike photography it needed no wet chemicals.",
+        "Haloid's first copier, the Model A of 1949, was clumsy. Making one copy took many separate manual steps, so it was used mostly for making printing plates. The real breakthrough was the Xerox 914, unveiled in 1959 and delivered to customers from 1960. It was the first fully automatic office copier that used ordinary paper: you put your original on the glass, pressed a button, and a copy slid out. It weighed about 650 pounds (nearly 300 kilograms) and, famously, came with a small fire extinguisher, because the hot parts that fused the toner could set paper alight. Offices loved it anyway. It sold far beyond the company's hopes, Haloid renamed itself Xerox, and 'to xerox' became an everyday verb meaning to photocopy.",
+        "In a modern copier the same steps happen on a spinning drum or belt coated with a photoconductor. A thin wire with a high voltage, called a corona wire, sprays an even electric charge over the drum. Light reflected from the original page hits the drum; white parts of the page reflect light and wipe out the charge, while dark letters leave charged areas behind. Toner, a powder of tiny plastic and pigment particles, is given the opposite charge so it clings only to the charged picture. A sheet of paper is charged to pull the toner across, then squeezed between hot rollers that melt the toner into the paper. That is why copies and laser prints feel warm when they come out. Carlson became very wealthy from his invention and gave most of his fortune away to charity before he died in 1968."
+      ]
+    },
+    {
+      "heading": "Laser Beams and Flying Drops",
+      "paragraphs": [
+        "Xerography copied pages that already existed. But by the late 1960s, computers were creating text that had never been on paper at all. How could a computer draw a page onto a copier drum? A young optics scientist at Xerox named Gary Starkweather had an idea: use a laser beam as a super-fast pencil of light.",
+        "Starkweather built a rough prototype at Xerox's research lab in Webster, New York, around 1969, but his managers were not convinced. In 1971 he moved to Xerox's new Palo Alto Research Center in California, known as Xerox PARC, a lab bursting with ideas about the computers of the future. There, using a Xerox copier as the starting point, he built a working machine he called SLOT, the scanning laser output terminal. Over the next few years his improved designs became the basis of Xerox's first laser printer for businesses.",
+        "Here is how a laser printer draws. Inside, a tiny laser blinks on and off millions of times a second as the computer sends it the page, dot by dot. The beam hits a mirror with several flat sides spinning at high speed, which sweeps it across the charged photoconductor drum in a straight line, like a flashlight beam swept across a wall. Each sweep draws one thin line of dots. The drum turns a tiny step and the next line is drawn. Wherever the laser hits, the electric charge changes, so the drum ends up carrying an invisible static picture of the page. From there the steps are just like Carlson's copier: toner sticks to the pattern, is pulled onto the paper and is melted in place by hot rollers. A laser printer is really a photocopier that copies a page from a computer's memory instead of from a piece of paper.",
+        "Xerox launched the 9700, a big, fast laser printer for offices and businesses, in 1977, and it became one of the most profitable products the company ever made. Then laser printers shrank. In May 1984, Hewlett-Packard introduced the LaserJet, a desktop laser printer that cost 3,495 US dollars and printed 8 pages a minute at 300 dots per inch. That price sounds high, but it was cheap compared with earlier office machines. HP went on to sell more than 100 million LaserJets by 2006. A year later, the Apple LaserWriter, using a similar engine made by the Japanese company Canon, helped start the desktop publishing revolution you will read about in Chapter 19. Starkweather was inducted into the National Inventors Hall of Fame in 2012 and died in 2019.",
+        "Meanwhile, other engineers were working on a completely different idea: why not just squirt the ink? Inkjet printers do exactly that, firing drops of liquid ink straight onto the paper with no drum, no toner and no plate. Most home inkjets use thermal inkjet technology. Behind each tiny nozzle is a microscopic heater. When the printer sends a pulse of electricity, the heater warms a little ink for a few millionths of a second, so fast that it boils into a tiny bubble. The bubble swells and shoots a droplet out of the nozzle; when it collapses, fresh ink is sucked in to refill the chamber, ready to fire again. Canon calls its version Bubble Jet. According to a story the company tells, a Canon engineer, Ichiro Endo, noticed in 1977 that ink spurted out of a syringe that had accidentally been touched by a hot soldering iron. At almost the same time, a team at Hewlett-Packard was developing the same idea, and HP sold an early thermal inkjet printer, the ThinkJet, in 1984.",
+        "Other inkjets, such as many made by Epson, use piezoelectric crystals instead of heat. These special crystals bend slightly when electricity is applied, squeezing the ink chamber like a tiny hand squeezing a water pistol. Because they do not boil the ink, they can use a wider range of inks, which is why piezo heads are popular in factories that print on fabric, tiles or packaging.",
+        "The numbers in an inkjet are astonishingly small. A single droplet may hold just one to five picoliters. A picoliter is one trillionth of a liter; a single raindrop could hold tens of thousands of them. A print head can have hundreds or thousands of nozzles, each firing thousands of times per second. Color inkjets use the same CMYK idea as printing presses, often with extra light cyan and light magenta inks for smoother photos, and they arrange their drops in patterns that work like halftone dots."
+      ]
+    },
+    {
+      "heading": "Printing Is Everywhere",
+      "paragraphs": [
+        "Take a moment to look around the room you are in. The book on the shelf was probably printed by offset lithography, its pages rolling off a big press as part of a large sheet folded into sections, just like the folios and octavos of the old hand press. The cereal box and the crisp packet were probably printed by flexography. A glossy catalogue might be gravure. The band T-shirt is likely screen printed. The homework sheet or the boarding pass came from a laser printer or an inkjet. Even the price label at the supermarket may have come from yet another kind of printer that uses heat to darken special paper.",
+        "Each of these methods connects back to ideas we have already met. Offset uses Senefelder's oil-and-water discovery. Flexo is a descendant of raised type and woodblocks. Gravure grew out of engraving, where artists cut lines into copper plates. CMYK color depends on the halftone dots invented in the 1800s. And laser printers and copiers are built on Chester Carlson's static electricity, controlled by computers. Modern printing is not one invention but a whole toolbox, built by many people in many countries over more than a century.",
+        "By the end of the 1900s, printing could do things Gutenberg could never have imagined: millions of full-color copies in a night, a copy of any page in seconds, and a printer on almost every office desk and in many homes. Newspapers could reach millions of readers before breakfast. Anyone with a computer could print a party invitation, a school report or a homemade comic.",
+        "But every powerful tool can be used well or badly, and printing's power had a shadow side. The same presses that spread knowledge could also spread lies and hate. Governments could burn books as well as print them. Printers breathed poisonous fumes, forests were cut down for paper, and some of the books in the world's libraries were quietly crumbling on their shelves. Printing had become fast, colorful and everywhere, but all that power also brought serious problems."
+      ]
+    }
+  ],
+  "deepDive": "Offset lithography rests on surface chemistry rather than shape. A modern aluminum plate is grained and anodized so that the bare metal oxide is hydrophilic (it attracts water), while the image areas carry a hydrophobic coating that attracts greasy ink. The dampening system lays down a water film only a micrometer or so thick; too much water and the ink emulsifies and looks washed out, too little and ink creeps into the blank areas, a fault printers call scumming. Balancing ink and water is still a core skill of a press operator, even with computer controls. The rubber blanket matters because it is compressible: it conforms to the paper surface, which is why offset prints well on textured or cheap paper and why the plate itself lasts for tens or even hundreds of thousands of impressions. CMYK printing is a practical compromise. Ideal subtractive primaries would each absorb exactly one third of the visible spectrum, but real pigments leak and overlap, so the full range of printable colors (the gamut) is smaller than what a good screen can show. Bright greens, deep blues and neon colors are especially hard, which is why packaging often adds spot inks and why some high-end printers use six or more process colors. Halftone screens are rotated, traditionally by about 30 degrees between the strongest colors, to avoid moiré, the shimmering interference pattern produced when two regular grids overlap. Newer stochastic or frequency-modulated screening scatters tiny dots of equal size randomly and avoids the problem altogether. On the history side, the invention of offset is a classic case of simultaneous discovery: Barclay's tin-printing offset press of 1875 came first, and Rubel in the United States and Hermann in Europe both brought offset to paper around 1904, so historians usually avoid naming a single inventor. Xerography likewise built on earlier physics, including the Hungarian physicist Pál Selényi's experiments with electrostatic images, but Carlson combined photoconductivity, electrostatics and dry powder into the first practical dry copying process.",
+  "funFact": "The Xerox 914, the first automatic plain-paper office copier, was shipped with a small fire extinguisher because its hot fusing parts could set paper on fire.",
+  "check": {
+    "q": "In offset printing, where does the ink go between the metal plate and the paper?",
+    "a": "Onto a rubber blanket, which then prints onto the paper",
+    "wrong": [
+      "Through a fine silk screen",
+      "Into tiny cells engraved in a copper cylinder",
+      "Into a bubble heated by a tiny electric heater"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Offset printing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Offset_printing"
+    },
+    {
+      "title": "Light and Static: The Origins of the Xerox Copy",
+      "publisher": "The Henry Ford",
+      "url": "https://www.thehenryford.org/collections/explore/articles/xerox"
+    },
+    {
+      "title": "Gary K. Starkweather",
+      "publisher": "National Inventors Hall of Fame",
+      "url": "https://invent.org/inductees/gary-k-starkweather"
+    },
+    {
+      "title": "Xerography",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Xerography"
+    },
+    {
+      "title": "Flexography",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Flexography"
+    },
+    {
+      "title": "Rotogravure",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rotogravure"
+    },
+    {
+      "title": "Inkjet printing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Inkjet_printing"
+    },
+    {
+      "title": "Chester Carlson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chester_Carlson"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Diagram of an offset lithography press showing the plate cylinder, rubber blanket cylinder and impression cylinder",
+      "search": "offset printing diagram cylinders blanket"
+    },
+    {
+      "want": "Close-up photograph of CMYK halftone dots forming a rosette pattern in a printed color image",
+      "search": "CMYK halftone dots rosette closeup"
+    },
+    {
+      "want": "Chester Carlson's first xerographic copy reading 10-22-38 Astoria, or a museum Xerox 914 copier",
+      "search": "Xerox 914 copier"
+    }
+  ]
+}

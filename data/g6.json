@@ -1,0 +1,926 @@
+[
+  {
+    "id": "abacus",
+    "name": "Abacus",
+    "emoji": "🧮",
+    "year": -300,
+    "when": "ancient times (counting boards by around 300 BCE)",
+    "where": "Ancient Mesopotamia, Greece, Rome and China",
+    "who": "Unknown — many ancient cultures",
+    "category": "Computers & Digital",
+    "kid": "An abacus is a counting frame with beads that slide along rods. Each rod stands for ones, tens, hundreds and so on. Moving beads lets you add and subtract super fast!",
+    "explorer": "Long before electronic calculators, people did math by moving pebbles or counters on lined boards. Over time this became the abacus, a frame with beads on rods. Each rod is a place value, so the abacus works a lot like the way we write numbers today. The Chinese suanpan and the Japanese soroban are famous versions, and skilled users can calculate amazingly quickly.",
+    "expert": "The abacus has no single inventor: counting boards with loose counters were used in the ancient Near East, Greece and Rome, and the oldest surviving one, the Salamis Tablet, is a marble board from ancient Greece. Romans also used small hand abacuses with beads in grooves. The bead-on-rod suanpan became common in China, and Japan later developed the soroban with fewer beads per rod. Because the abacus represents numbers by place value, it lets a trained user add, subtract, multiply and divide quickly without writing. It is a tool for storing numbers while the person does the thinking, so it is not a computer in the modern sense, but it is an early example of using a physical device to hold and manipulate digits. Abacus training is still used in some countries to build mental arithmetic skills.",
+    "how": "Each rod represents a place value such as ones, tens or hundreds. Beads pushed toward the center bar count, and beads pushed away do not. Adding or subtracting means moving beads and carrying to the next rod when one fills up.",
+    "before": "People counted on fingers, made notches on sticks or bones, and used pebbles or tokens to keep track of amounts.",
+    "impact": "The abacus made trade, tax collecting and accounting much faster for thousands of years, and it is still used today to teach number sense.",
+    "facts": [
+      "The oldest surviving counting board, the Salamis Tablet, was found on the Greek island of Salamis in 1846.",
+      "A Chinese suanpan usually has 2 beads above the bar and 5 below on each rod.",
+      "A modern Japanese soroban has just 1 bead above the bar and 4 below on each rod.",
+      "Some trained abacus users can do calculations in their heads by imagining the beads moving."
+    ],
+    "ledTo": [
+      "mechanical-calculator"
+    ],
+    "quiz": [
+      {
+        "q": "What does each rod on an abacus stand for?",
+        "a": "A place value, like ones or tens",
+        "wrong": [
+          "A different color",
+          "A day of the week",
+          "A letter of the alphabet"
+        ]
+      },
+      {
+        "q": "What is the Japanese abacus called?",
+        "a": "Soroban",
+        "wrong": [
+          "Origami",
+          "Kimono",
+          "Bonsai"
+        ]
+      }
+    ],
+    "wiki": "Abacus"
+  },
+  {
+    "id": "mechanical-calculator",
+    "name": "Mechanical Calculator",
+    "emoji": "⚙️",
+    "year": 1642,
+    "when": "1642",
+    "where": "Rouen, France",
+    "who": "Blaise Pascal (an earlier design by Wilhelm Schickard in 1623)",
+    "category": "Computers & Digital",
+    "kid": "A mechanical calculator does math with gears instead of electricity. A teenager named Blaise Pascal started building one to help his dad, who had to add up lots of tax numbers. You turned little wheels and the answer appeared in windows!",
+    "explorer": "In 1642, teenage Blaise Pascal began building an adding machine to help his father, a tax official in Rouen, France. His machine, now called the Pascaline, used toothed wheels: when one wheel went past 9, it automatically nudged the next wheel forward by one, just like carrying in addition. Years earlier, Wilhelm Schickard in Germany had designed a 'calculating clock', but it was lost and almost forgotten. Later, Gottfried Leibniz built a machine that could also multiply.",
+    "expert": "Wilhelm Schickard designed a calculating machine in 1623 and described it in letters to the astronomer Johannes Kepler, but his machines were lost, so Blaise Pascal's Pascaline (begun in 1642) is usually credited as the first working mechanical calculator that people could actually see and use. Its key idea was an automatic carry mechanism between digit wheels. The Pascaline could add directly and subtract using a complement trick, but it was expensive and delicate, so it never sold widely. Gottfried Wilhelm Leibniz's stepped reckoner of the 1670s introduced the stepped drum, which made multiplication easier and was used in calculators for centuries. The first commercially successful mechanical calculator was Thomas de Colmar's arithmometer in the 1800s. Mechanical calculators stayed common in offices until electronic calculators replaced them in the 1970s.",
+    "how": "Numbers are entered by turning wheels marked 0 to 9. Gears inside connect the wheels, and when one wheel passes 9 it pushes the next wheel up by one to carry. The result shows in small windows.",
+    "before": "People added long columns of numbers by hand, on an abacus, or with printed tables, which was slow and easy to get wrong.",
+    "impact": "Mechanical calculators showed that machines could do arithmetic reliably, an idea that led to bigger calculating engines and, eventually, computers.",
+    "facts": [
+      "Blaise Pascal was only 18 or 19 when he started building his calculator.",
+      "A few original Pascalines still survive in museums today.",
+      "Wilhelm Schickard described his calculating machine in letters to the astronomer Johannes Kepler.",
+      "Mechanical calculators were still common in offices until electronic calculators took over in the 1970s."
+    ],
+    "ledTo": [
+      "analytical-engine"
+    ],
+    "quiz": [
+      {
+        "q": "Why did Blaise Pascal build his calculator?",
+        "a": "To help his father with tax sums",
+        "wrong": [
+          "To win a science fair",
+          "To play music",
+          "To steer ships"
+        ]
+      },
+      {
+        "q": "What did the Pascaline use to calculate?",
+        "a": "Gears and wheels",
+        "wrong": [
+          "Electricity",
+          "Batteries",
+          "Light beams"
+        ]
+      }
+    ],
+    "wiki": "Pascal's calculator"
+  },
+  {
+    "id": "jacquard-loom",
+    "name": "Jacquard Loom",
+    "emoji": "🧵",
+    "year": 1804,
+    "when": "1804",
+    "where": "Lyon, France",
+    "who": "Joseph Marie Jacquard (building on earlier looms by Basile Bouchon, Jean-Baptiste Falcon and Jacques de Vaucanson)",
+    "category": "Computers & Digital",
+    "kid": "The Jacquard loom was a weaving machine that followed instructions written as holes punched in cards. The holes told the loom which threads to lift, so it could weave beautiful patterns all by itself. It was like a program for cloth!",
+    "explorer": "Weaving fancy patterns used to need a helper who lifted the right threads by hand, row after row. Joseph Marie Jacquard built a loom attachment that read a chain of punched cards instead. Where a card had a hole, a thread was lifted; where there was no hole, it stayed down. Changing the cards changed the pattern, which is the same idea as changing a computer program.",
+    "expert": "Jacquard's machine, demonstrated around 1801 and developed through 1804, combined earlier ideas: Basile Bouchon used perforated paper to control a loom in 1725, Jean-Baptiste Falcon switched to linked cards, and Jacques de Vaucanson tried to automate the process in the 1740s. Jacquard made the system practical enough to spread widely in the silk industry of Lyon. Each card controlled one row of the weave by letting spring-loaded hooks pass through holes, so complex designs became repeatable and faster to produce. Some weavers feared losing their jobs and protested against the machines, an early example of the debates automation still causes. The loom matters to computing history because it stored instructions on punched cards; Charles Babbage planned to use the same kind of cards for his Analytical Engine, and punched cards later became a major way to feed data into computers.",
+    "how": "A chain of punched cards passes through a reader on top of the loom. Rods or hooks pass through the holes and lift the matching warp threads, while blank spots leave threads down. Each card makes one row of the pattern.",
+    "before": "Patterned cloth was woven on draw looms, where a helper called a draw boy had to lift groups of threads by hand for every row.",
+    "impact": "It made detailed fabric faster and cheaper to make, and its punched-card instructions inspired early computers and data machines.",
+    "facts": [
+      "A famous woven silk portrait of Jacquard needed about 24,000 punched cards to make.",
+      "Charles Babbage owned a copy of that woven portrait of Jacquard.",
+      "Punched cards were still used to feed data and programs into computers in the 1970s.",
+      "Looms using Jacquard's idea, now controlled by computers, are still used to weave patterned fabric."
+    ],
+    "ledTo": [
+      "analytical-engine",
+      "electronic-computer"
+    ],
+    "quiz": [
+      {
+        "q": "What told the Jacquard loom which threads to lift?",
+        "a": "Holes punched in cards",
+        "wrong": [
+          "A spoken command",
+          "Colored lights",
+          "A magnet"
+        ]
+      },
+      {
+        "q": "Which city's silk industry used the Jacquard loom?",
+        "a": "Lyon, France",
+        "wrong": [
+          "London, England",
+          "Tokyo, Japan",
+          "Boston, USA"
+        ]
+      }
+    ],
+    "wiki": "Jacquard machine"
+  },
+  {
+    "id": "analytical-engine",
+    "name": "Analytical Engine",
+    "emoji": "🏭",
+    "year": 1837,
+    "when": "1837 (designed, never fully built)",
+    "where": "London, England",
+    "who": "Charles Babbage, with famous notes by Ada Lovelace",
+    "category": "Computers & Digital",
+    "kid": "The Analytical Engine was a giant computer made of gears that Charles Babbage designed almost 200 years ago. It was never finished, but its plans had the main parts of a modern computer. Ada Lovelace wrote steps for it that many people call the first computer program!",
+    "explorer": "Charles Babbage first designed a Difference Engine to print math tables without mistakes. Then he dreamed up something bigger: the Analytical Engine, a steam-powered machine that could follow any list of instructions given on punched cards. It had a 'store' to hold numbers (like memory) and a 'mill' to do math (like a processor). Ada Lovelace wrote detailed notes about it, including a method to calculate special numbers called Bernoulli numbers.",
+    "expert": "Babbage described the Analytical Engine in 1837 and kept refining it until his death in 1871, but only small parts were ever built because of cost, engineering limits and disputes over funding. Its design was strikingly modern: separate memory (the store) and processing (the mill), input by punched cards borrowed from the Jacquard loom, printed output, and the ability to make decisions based on results and repeat steps. In 1843 Ada Lovelace translated an article about the engine and added much longer notes, including a step-by-step method for computing Bernoulli numbers; it is often called the first published computer program, though historians debate how much was her own work versus Babbage's. She also suggested such machines might handle symbols like music, not just numbers. Babbage's work had limited direct influence on the computers of the 1940s, whose builders mostly rediscovered these ideas independently, although Howard Aiken, who built the Harvard Mark I, said Babbage inspired him.",
+    "how": "Instructions and numbers would be fed in on punched cards. The store would hold numbers on columns of gear wheels, and the mill would do arithmetic on them, sending results back to the store or to a printer.",
+    "before": "Math tables for navigation and science were worked out by people called computers, by hand, and they often contained errors.",
+    "impact": "It was the first design for a general-purpose programmable computer, and it gives Babbage and Lovelace a special place in computing history.",
+    "facts": [
+      "In 1991 London's Science Museum built Babbage's Difference Engine No. 2 from his original plans, and it worked.",
+      "The programming language Ada was named after Ada Lovelace.",
+      "Ada Lovelace was the daughter of the poet Lord Byron.",
+      "The Analytical Engine was designed to be powered by a steam engine."
+    ],
+    "ledTo": [
+      "electronic-computer",
+      "programming-language"
+    ],
+    "quiz": [
+      {
+        "q": "Who designed the Analytical Engine?",
+        "a": "Charles Babbage",
+        "wrong": [
+          "Isaac Newton",
+          "Thomas Edison",
+          "Alan Turing"
+        ]
+      },
+      {
+        "q": "What was the engine's 'mill' for?",
+        "a": "Doing the arithmetic",
+        "wrong": [
+          "Grinding flour",
+          "Storing cards",
+          "Making steam"
+        ]
+      }
+    ],
+    "wiki": "Analytical engine"
+  },
+  {
+    "id": "electronic-computer",
+    "name": "Electronic Computer",
+    "emoji": "🖥️",
+    "year": 1945,
+    "when": "1940s",
+    "where": "USA and United Kingdom",
+    "who": "Many inventors — incl. John Mauchly & J. Presper Eckert (ENIAC), Tommy Flowers (Colossus), John Atanasoff & Clifford Berry",
+    "category": "Computers & Digital",
+    "kid": "The first electronic computers filled whole rooms and used thousands of glowing glass tubes. They could do math thousands of times faster than a person. Today a phone in your pocket is far more powerful!",
+    "explorer": "In the 1940s, engineers built computers that used vacuum tubes, which switch electricity on and off with no moving parts. In Britain, Colossus helped codebreakers read secret enemy messages during World War II. In the USA, ENIAC was finished in 1945 and could be set up to solve many different problems. These machines were huge, used lots of power, and the tubes often burned out, but they were incredibly fast for their time.",
+    "expert": "There is no single 'first' electronic computer; the answer depends on the definition. The Atanasoff–Berry Computer (Iowa State, 1937–42) was electronic but not programmable; Britain's Colossus (1943–44), designed by Tommy Flowers for codebreaking at Bletchley Park, was programmable but special-purpose and kept secret for decades; and ENIAC (University of Pennsylvania, 1945) was the first widely known general-purpose electronic computer, though it was programmed by rewiring cables and setting switches. Konrad Zuse's Z3 (1941) in Germany was programmable but used electromechanical relays rather than electronics. A 1973 US court ruling invalidated the ENIAC patent, partly because of Atanasoff's earlier work. Soon after, 'stored-program' machines such as the Manchester Baby (1948) kept their instructions in memory, the design nearly all computers use today.",
+    "how": "Vacuum tubes act as very fast electronic switches that represent numbers as on and off signals. Circuits made of these switches can add, compare and store numbers, following a set of instructions.",
+    "before": "Calculations were done by people with pencils and mechanical calculators, or by slower machines with gears and relays.",
+    "impact": "Electronic computers sped up science, weather forecasting and engineering enormously, and began the digital age we live in.",
+    "facts": [
+      "ENIAC used nearly 18,000 vacuum tubes and weighed about 30 tons.",
+      "Six women did much of the programming of ENIAC, though they were rarely credited at the time.",
+      "Colossus was kept secret for about 30 years after World War II.",
+      "Zuse's Z3 used electromechanical relays instead of tubes, so it is not usually counted as electronic."
+    ],
+    "ledTo": [
+      "programming-language",
+      "hard-disk-drive",
+      "video-game",
+      "personal-computer"
+    ],
+    "quiz": [
+      {
+        "q": "What did early electronic computers use as switches?",
+        "a": "Vacuum tubes",
+        "wrong": [
+          "Microchips",
+          "Light bulbs only",
+          "Wooden levers"
+        ]
+      },
+      {
+        "q": "What was Colossus used for in World War II?",
+        "a": "Breaking secret codes",
+        "wrong": [
+          "Flying planes",
+          "Building ships",
+          "Forecasting weather"
+        ]
+      }
+    ],
+    "wiki": "ENIAC"
+  },
+  {
+    "id": "transistor",
+    "name": "Transistor",
+    "emoji": "⚡",
+    "year": 1947,
+    "when": "1947",
+    "where": "Bell Labs, Murray Hill, New Jersey, USA",
+    "who": "John Bardeen, Walter Brattain and William Shockley",
+    "category": "Computers & Digital",
+    "kid": "A transistor is a tiny switch that controls electricity with no moving parts. It replaced big, hot glass tubes. Phones and computers have billions of them inside!",
+    "explorer": "In 1947, scientists at Bell Labs made the first working transistor from a crystal of germanium. A transistor can switch electricity on and off, or make a weak signal stronger. It was much smaller, cooler and more reliable than a vacuum tube, so it made pocket radios, hearing aids and smaller computers possible. Today's chips pack billions of transistors into a space smaller than a fingernail.",
+    "expert": "John Bardeen and Walter Brattain built the first point-contact transistor in December 1947, and their group leader William Shockley developed the more practical junction transistor soon after; the three shared the 1956 Nobel Prize in Physics. The idea of a field-effect transistor had been patented by Julius Lilienfeld in the 1920s, but no one could build a working device then. Transistors work because semiconductors such as germanium and silicon can be 'doped' with tiny amounts of other elements, letting a small voltage or current control a much larger one. Silicon replaced germanium in most devices, and the MOSFET, developed at Bell Labs in 1959, became the building block of modern chips. Shockley later started a company in California that helped launch Silicon Valley, though his difficult management led key employees to leave and found Fairchild Semiconductor.",
+    "how": "A transistor is made from a semiconductor with three connections. A small voltage or current on one connection controls a larger current flowing between the other two, so it can act as a switch or an amplifier.",
+    "before": "Electronics used vacuum tubes, which were bulky, fragile, power-hungry and got hot.",
+    "impact": "Transistors made electronics small, cheap and reliable, and they are the basic building block of every computer chip today.",
+    "facts": [
+      "The first transistor was made using a crystal of germanium and a strip of gold foil.",
+      "John Bardeen is the only person to win the Nobel Prize in Physics twice.",
+      "Transistor radios became hugely popular in the late 1950s and 1960s.",
+      "Modern computer chips can contain tens of billions of transistors."
+    ],
+    "ledTo": [
+      "integrated-circuit",
+      "microprocessor",
+      "personal-computer"
+    ],
+    "quiz": [
+      {
+        "q": "In what year was the transistor invented?",
+        "a": "1947",
+        "wrong": [
+          "1847",
+          "1927",
+          "1977"
+        ]
+      },
+      {
+        "q": "What older part did transistors replace?",
+        "a": "Vacuum tubes",
+        "wrong": [
+          "Batteries",
+          "Copper wires",
+          "Light switches"
+        ]
+      }
+    ],
+    "wiki": "Transistor"
+  },
+  {
+    "id": "integrated-circuit",
+    "name": "Integrated Circuit (Microchip)",
+    "emoji": "🔲",
+    "year": 1958,
+    "when": "1958–1959",
+    "where": "Dallas, Texas and Silicon Valley, California, USA",
+    "who": "Jack Kilby (Texas Instruments) and Robert Noyce (Fairchild Semiconductor), independently",
+    "category": "Computers & Digital",
+    "kid": "An integrated circuit, or microchip, puts lots of tiny electronic parts onto one small piece of material. Before chips, every part had to be wired together by hand. Now a chip smaller than a stamp can hold billions of parts!",
+    "explorer": "In 1958, Jack Kilby at Texas Instruments built a circuit where all the parts were made on one piece of germanium. A few months later, Robert Noyce at Fairchild Semiconductor designed a better version on silicon, with flat metal connections printed on top. This made chips easier to mass-produce. Chips let computers shrink from room size to desk size and then to pocket size.",
+    "expert": "Engineers in the 1950s faced the 'tyranny of numbers': circuits needed so many separate parts and hand-soldered connections that they became unreliable. Jack Kilby demonstrated a working integrated circuit in September 1958, and Robert Noyce independently designed a silicon version in 1959 using Jean Hoerni's planar process, which made mass production practical; after a patent dispute, the companies agreed to cross-license. Kilby received the Nobel Prize in Physics in 2000; Noyce had died in 1990, and the Nobel is not given after death. Early chips were very expensive, and big customers such as NASA's Apollo Guidance Computer and US military missile programs helped bring prices down. In 1965 Gordon Moore observed that the number of components on a chip was doubling regularly, a trend later called Moore's law.",
+    "how": "Transistors, resistors and their connecting wires are all formed on one thin slice of silicon by printing patterns with light and adding chemicals in layers. This makes a complete circuit in one tiny piece.",
+    "before": "Electronic circuits were built from separate parts, each soldered together with wires, making them big and prone to failure.",
+    "impact": "Microchips made electronics tiny, cheap and powerful, leading to calculators, personal computers, smartphones and much more.",
+    "facts": [
+      "Jack Kilby's first integrated circuit was a small piece of germanium attached to a glass slide.",
+      "Kilby won the Nobel Prize in Physics in 2000.",
+      "The Apollo Guidance Computer that helped land astronauts on the Moon used integrated circuits.",
+      "Moore's law is named after Gordon Moore, who later co-founded Intel with Robert Noyce."
+    ],
+    "ledTo": [
+      "microprocessor",
+      "personal-computer",
+      "digital-camera",
+      "smartphone"
+    ],
+    "quiz": [
+      {
+        "q": "Which material did Robert Noyce's chip use?",
+        "a": "Silicon",
+        "wrong": [
+          "Gold",
+          "Plastic",
+          "Copper"
+        ]
+      },
+      {
+        "q": "What is another name for an integrated circuit?",
+        "a": "Microchip",
+        "wrong": [
+          "Hard drive",
+          "Vacuum tube",
+          "Fuse"
+        ]
+      }
+    ],
+    "wiki": "Integrated circuit"
+  },
+  {
+    "id": "programming-language",
+    "name": "Programming Language",
+    "emoji": "👩‍💻",
+    "year": 1957,
+    "when": "1950s (FORTRAN released 1957)",
+    "where": "USA (IBM and others), with an early design in Germany",
+    "who": "Many people — incl. John Backus's IBM team (FORTRAN), Grace Hopper (compilers), Konrad Zuse (early design)",
+    "category": "Computers & Digital",
+    "kid": "A programming language is a special way of writing instructions that a computer can follow. Instead of typing only 1s and 0s, programmers can use words and math. Every app and game you use was written in one!",
+    "explorer": "Early computers had to be programmed in machine code, long strings of numbers that were hard to read and easy to mess up. In the 1950s, Grace Hopper built some of the first compilers, programs that translate human-friendly instructions into machine code. In 1957, John Backus and his team at IBM released FORTRAN, the first widely used high-level language, made for scientists and engineers. Since then, thousands of languages have appeared, like Python, JavaScript and Scratch.",
+    "expert": "Konrad Zuse designed a high-level language called Plankalkül in the 1940s, but it was not implemented until much later. In the early 1950s, several teams wrote 'autocodes' and compilers; Grace Hopper's A-0 system and her later FLOW-MATIC, which used English-like commands, strongly influenced COBOL (1959), a language for business data. FORTRAN (1957) succeeded because its compiler produced code nearly as fast as hand-written machine code, convincing skeptical programmers. LISP (1958) and ALGOL (1958–60) introduced ideas still used today. A key insight is that a language is separate from any particular machine: a compiler or interpreter translates it, so the same program can run on different computers.",
+    "how": "A programmer writes code using words, symbols and rules of the language. A compiler or interpreter translates that code into machine instructions the computer's processor can run.",
+    "before": "Programmers wrote raw machine code as numbers, or physically rewired computers and set switches for each new task.",
+    "impact": "Programming languages made it far easier and faster to write software, letting millions of people create apps, websites, games and scientific tools.",
+    "facts": [
+      "Grace Hopper's team found a real moth stuck in the Harvard Mark II computer in 1947 and taped it into their logbook, though the word 'bug' for a problem was already in use.",
+      "FORTRAN is short for 'Formula Translation'.",
+      "FORTRAN is still used today for some scientific and weather computing.",
+      "Scratch, a block-based language for kids, was created at the MIT Media Lab and launched in 2007."
+    ],
+    "ledTo": [
+      "spreadsheet",
+      "world-wide-web"
+    ],
+    "quiz": [
+      {
+        "q": "What does a compiler do?",
+        "a": "Translates code into machine instructions",
+        "wrong": [
+          "Cools down the computer",
+          "Prints documents",
+          "Connects to Wi-Fi"
+        ]
+      },
+      {
+        "q": "Which language did John Backus's team release in 1957?",
+        "a": "FORTRAN",
+        "wrong": [
+          "Python",
+          "JavaScript",
+          "Scratch"
+        ]
+      }
+    ],
+    "wiki": "Programming language"
+  },
+  {
+    "id": "hard-disk-drive",
+    "name": "Hard Disk Drive",
+    "emoji": "💽",
+    "year": 1956,
+    "when": "1956",
+    "where": "San Jose, California, USA",
+    "who": "IBM team led by Reynold B. Johnson",
+    "category": "Computers & Digital",
+    "kid": "A hard disk drive stores computer files on fast-spinning magnetic disks. The very first one was bigger than a fridge and held only about one song's worth of data. Today a small drive can hold millions of songs!",
+    "explorer": "In 1956, IBM introduced the 350 disk storage unit as part of its RAMAC computer. It had fifty large metal disks coated with magnetic material, spinning on a stack. A moving arm could jump to any spot on the disks to read or write data, instead of winding through a whole tape. That 'random access' made it much faster to find information.",
+    "expert": "The IBM 350 stored about 3.75 megabytes on fifty 24-inch disks and was leased to businesses rather than sold. Its breakthrough was random access: a read/write head could reach any record in under a second, compared with the minutes it could take to wind magnetic tape to the right spot. In later drives the head floats on a thin cushion of air just above the spinning platter, so tiny that a speck of dust or a fingerprint can cause a 'head crash', which is why drives are sealed. Over the following decades, storage density rose by many millions of times, and prices per megabyte fell dramatically. Today solid-state drives with no moving parts have replaced hard drives in most laptops and phones, but hard drives remain common in data centers because they store large amounts cheaply.",
+    "how": "Data is stored as tiny magnetized spots on spinning disks called platters. A read/write head on a moving arm changes or senses the magnetism to write or read 1s and 0s.",
+    "before": "Computers stored data on punched cards and magnetic tape, which had to be read in order from start to finish.",
+    "impact": "Hard drives let computers store and quickly find huge amounts of information, making databases, personal files and the modern internet possible.",
+    "facts": [
+      "The first hard drive, the IBM 350, held about 3.75 megabytes of data.",
+      "The IBM 350 used fifty disks, each 24 inches (about 61 cm) across.",
+      "Businesses rented the IBM 350 by the month instead of buying it.",
+      "In a hard drive, the read head flies just above the disk on a thin layer of air."
+    ],
+    "ledTo": [
+      "personal-computer"
+    ],
+    "quiz": [
+      {
+        "q": "Which company made the first hard disk drive?",
+        "a": "IBM",
+        "wrong": [
+          "Apple",
+          "Nintendo",
+          "Sony"
+        ]
+      },
+      {
+        "q": "How does a hard drive store data?",
+        "a": "As magnetic spots on spinning disks",
+        "wrong": [
+          "As holes in paper",
+          "As light in a tube",
+          "As sounds on a record"
+        ]
+      }
+    ],
+    "wiki": "Hard disk drive"
+  },
+  {
+    "id": "computer-mouse",
+    "name": "Computer Mouse",
+    "emoji": "🖱️",
+    "year": 1964,
+    "when": "1964",
+    "where": "Stanford Research Institute, Menlo Park, California, USA",
+    "who": "Douglas Engelbart and Bill English",
+    "category": "Computers & Digital",
+    "kid": "A computer mouse lets you point at things on a screen just by sliding your hand. The first one was a wooden box with two wheels underneath. People called it a mouse because the cord looked like a tail!",
+    "explorer": "In 1964, Douglas Engelbart dreamed up a pointing device, and engineer Bill English built it: a wooden shell with two metal wheels at right angles that tracked side-to-side and up-and-down motion. In 1968, Engelbart showed it off in a famous presentation now called 'The Mother of All Demos', along with video calls and linked text. Mice became popular in the 1980s with computers like the Apple Macintosh. Later mice used a rubber ball, and today most use a tiny camera and light.",
+    "expert": "Engelbart's team at SRI tested several pointing devices, including light pens and knee controls, and found the mouse fastest and most accurate for selecting text. The patent, granted in 1970, called it an 'X-Y position indicator for a display system'. Earlier tracking devices existed: Ralph Benjamin built a trackball-like 'ball tracker' for the British Royal Navy in the 1940s, and the German company Telefunken made a ball-based mouse in 1968. Xerox PARC refined the mouse for its Alto computer in the 1970s, and Apple's Lisa and Macintosh brought it to the mass market. SRI held the patent, and Engelbart reportedly received little money from it. The mouse succeeded because it fit graphical user interfaces, where you point at icons and windows instead of typing commands.",
+    "how": "As you slide the mouse, a sensor measures how far it moves left-right and up-down. The computer turns those movements into motion of the pointer on screen, and buttons let you click to select.",
+    "before": "People controlled computers by typing commands on a keyboard, using punched cards, or pointing with light pens on the screen.",
+    "impact": "The mouse made computers much easier to use by pointing and clicking, helping graphical computers spread to homes, schools and offices.",
+    "facts": [
+      "The first mouse prototype had a wooden case and one button.",
+      "The 1968 'Mother of All Demos' also showed early video conferencing and hypertext.",
+      "Modern optical mice use a tiny camera that takes thousands of pictures per second of the surface below.",
+      "The mouse's patent called it an 'X-Y position indicator for a display system'."
+    ],
+    "ledTo": [
+      "personal-computer"
+    ],
+    "quiz": [
+      {
+        "q": "What was the first mouse's case made of?",
+        "a": "Wood",
+        "wrong": [
+          "Glass",
+          "Metal",
+          "Rubber"
+        ]
+      },
+      {
+        "q": "Who came up with the computer mouse?",
+        "a": "Douglas Engelbart",
+        "wrong": [
+          "Bill Gates",
+          "Steve Jobs",
+          "Tim Berners-Lee"
+        ]
+      }
+    ],
+    "wiki": "Computer mouse"
+  },
+  {
+    "id": "video-game",
+    "name": "Video Game",
+    "emoji": "🎮",
+    "year": 1958,
+    "when": "1950s–1970s",
+    "where": "USA (Brookhaven National Laboratory, MIT and others)",
+    "who": "Many creators — incl. William Higinbotham (Tennis for Two), Steve Russell & team (Spacewar!), Ralph Baer (home consoles)",
+    "category": "Computers & Digital",
+    "kid": "One of the first video games was a tennis game shown on a tiny round science screen in 1958. Visitors to a science lab lined up to play it! Later came arcade games and game consoles you could plug into your TV at home.",
+    "explorer": "In 1958, physicist William Higinbotham made 'Tennis for Two' for a visitors' day at Brookhaven National Laboratory, using an oscilloscope screen. In 1962, students at MIT created 'Spacewar!', where two spaceships battled around a star. In 1972, the Magnavox Odyssey, designed by Ralph Baer, became the first home video game console, and Atari's arcade game Pong became a huge hit. Video games grew into one of the biggest kinds of entertainment in the world.",
+    "expert": "Which game counts as 'first' depends on the definition. A 1947 patent described a 'cathode-ray tube amusement device', and in 1952 A. S. Douglas made a noughts-and-crosses (tic-tac-toe) game called OXO on a Cambridge computer, but these had little influence. Tennis for Two (1958) was interactive and real-time but was dismantled and largely forgotten. Spacewar! (1962) spread to many university computers and directly inspired the first commercial arcade games. Ralph Baer's 'Brown Box' prototype became the Magnavox Odyssey in 1972, and Pong's success the same year launched the arcade industry. A crash in the North American market in 1983 nearly ended home consoles there before the Nintendo Entertainment System helped revive them. Games have also pushed computer graphics and hardware forward, and they raise ongoing discussions about screen time and healthy play.",
+    "how": "A computer runs a program that reads the player's controls, updates the game world by following rules, and redraws the picture on a screen many times every second.",
+    "before": "People played board games, card games, pinball and outdoor games, but nothing reacted on a screen.",
+    "impact": "Video games became a huge industry and art form, and they drove advances in graphics chips that are now used for science and AI too.",
+    "facts": [
+      "Tennis for Two was shown on an oscilloscope screen only about 5 inches (13 cm) wide.",
+      "The Magnavox Odyssey used plastic overlays stuck on the TV screen to add backgrounds.",
+      "Spacewar! was created on a PDP-1 computer at MIT.",
+      "Ralph Baer is often called the 'father of video games'."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "What was the first home video game console?",
+        "a": "Magnavox Odyssey",
+        "wrong": [
+          "Nintendo Switch",
+          "PlayStation",
+          "Game Boy"
+        ]
+      },
+      {
+        "q": "Which game came first?",
+        "a": "Tennis for Two",
+        "wrong": [
+          "Pong",
+          "Pac-Man",
+          "Tetris"
+        ]
+      }
+    ],
+    "wiki": "Tennis for Two"
+  },
+  {
+    "id": "personal-computer",
+    "name": "Personal Computer",
+    "emoji": "💻",
+    "year": 1975,
+    "when": "1970s",
+    "where": "USA",
+    "who": "Many inventors — incl. Ed Roberts (Altair 8800), Steve Wozniak & Steve Jobs (Apple), IBM and others",
+    "category": "Computers & Digital",
+    "kid": "A personal computer is a computer small and cheap enough for one person to have at home or school. Before the 1970s, computers were giant machines owned by big companies. Now people use them to write, draw, play and learn!",
+    "explorer": "Microchips called microprocessors made it possible to build small, affordable computers. In 1975, the Altair 8800 kit excited hobbyists, even though it had only switches and blinking lights. In 1977, ready-to-use computers like the Apple II, Commodore PET and TRS-80 came with keyboards and could connect to a screen. In 1981, IBM released its PC, and its design became a standard many other companies copied.",
+    "expert": "There is no single inventor of the personal computer. Earlier small machines such as the Kenbak-1 (1971) and Xerox PARC's Alto (1973), which had a mouse and windows, are strong candidates, but the Alto was never sold widely. The Altair 8800, sold by Ed Roberts's company MITS, triggered the hobbyist boom; Bill Gates and Paul Allen wrote a version of BASIC for it, Microsoft's first product. Apple, founded by Steve Wozniak and Steve Jobs, sold the Apple II, and the spreadsheet program VisiCalc gave businesses a reason to buy one. IBM's PC (1981) used parts from other firms, which let 'clone' makers build compatible machines and helped Microsoft's operating system dominate. Graphical interfaces, popularized by the Macintosh (1984) and later Windows, made PCs usable by almost anyone.",
+    "how": "A personal computer has a microprocessor to run programs, memory to hold work in progress, storage to keep files, and input and output devices like a keyboard, mouse and screen.",
+    "before": "Computers were huge, expensive machines shared by many users in companies, universities and governments, often through terminals or punched cards.",
+    "impact": "Personal computers put computing power in homes, schools and offices, changing how people work, learn, create and later connect through the internet.",
+    "facts": [
+      "The Altair 8800 had no keyboard or screen; you programmed it by flipping switches.",
+      "Microsoft's first product was a version of the BASIC language for the Altair 8800.",
+      "Time magazine named the computer its 'Machine of the Year' for 1982 instead of a Person of the Year.",
+      "The first Apple I computers were sold without a case, keyboard or screen."
+    ],
+    "ledTo": [
+      "spreadsheet",
+      "world-wide-web",
+      "smartphone"
+    ],
+    "quiz": [
+      {
+        "q": "How was the Altair 8800 programmed?",
+        "a": "By flipping switches",
+        "wrong": [
+          "By talking to it",
+          "With a touchscreen",
+          "With a mouse"
+        ]
+      },
+      {
+        "q": "Which company released the 'PC' in 1981?",
+        "a": "IBM",
+        "wrong": [
+          "Google",
+          "Samsung",
+          "Nintendo"
+        ]
+      }
+    ],
+    "wiki": "Personal computer"
+  },
+  {
+    "id": "microprocessor",
+    "name": "Microprocessor",
+    "emoji": "🧠",
+    "year": 1971,
+    "when": "1971",
+    "where": "Silicon Valley (Mountain View and Santa Clara), California, USA",
+    "who": "Intel team — Federico Faggin, Ted Hoff, Stanley Mazor, and Masatoshi Shima of Busicom",
+    "category": "Computers & Digital",
+    "kid": "A microprocessor is a computer's 'brain' squeezed onto one tiny chip. The first one sold to the public was made in 1971 for a calculator. Now microprocessors are in phones, cars, toys and even washing machines!",
+    "explorer": "In 1971, Intel released the 4004, a single chip that could do all the main jobs of a computer's processor. A Japanese company called Busicom had asked for chips to power a calculator, and Intel's team designed one programmable chip instead of many custom ones. The 4004 had about 2,300 transistors. Today's processors have billions and are millions of times faster.",
+    "expert": "Ted Hoff and Stanley Mazor proposed the general-purpose architecture, Federico Faggin led the chip design using silicon-gate technology, and Busicom's Masatoshi Shima contributed to the logic design. Intel bought back the rights from Busicom so it could sell the chip to other customers. Credit is debated: Texas Instruments developed early single-chip processors around the same time, and a processor designed for the US Navy's F-14 fighter (the MP944) was kept secret for decades. The 4004 handled data 4 bits at a time; it was followed by the 8-bit 8008 and 8080, and the 8080 powered the Altair 8800. The key economic shift was making one standard chip that software could adapt to many tasks, rather than designing new hardware for every product.",
+    "how": "A microprocessor fetches instructions from memory, decodes what each one means, and carries it out using circuits that do arithmetic and logic, millions or billions of times a second, timed by a clock signal.",
+    "before": "A computer's processor was built from many separate chips or circuit boards, making computers bigger and more expensive.",
+    "impact": "Microprocessors made cheap, small computers possible and put computing inside countless everyday devices.",
+    "facts": [
+      "The Intel 4004 had about 2,300 transistors.",
+      "The 4004 was first made for a Busicom desktop calculator.",
+      "Federico Faggin put his initials 'F.F.' on the 4004 chip.",
+      "A modern car can contain dozens of small microprocessors."
+    ],
+    "ledTo": [
+      "personal-computer",
+      "smartphone"
+    ],
+    "quiz": [
+      {
+        "q": "What was the first commercial microprocessor?",
+        "a": "Intel 4004",
+        "wrong": [
+          "Apple I",
+          "ENIAC",
+          "Pentium"
+        ]
+      },
+      {
+        "q": "What product was the 4004 first made for?",
+        "a": "A calculator",
+        "wrong": [
+          "A robot",
+          "A rocket",
+          "A television"
+        ]
+      }
+    ],
+    "wiki": "Intel 4004"
+  },
+  {
+    "id": "barcode",
+    "name": "Barcode",
+    "emoji": "🏷️",
+    "year": 1949,
+    "when": "1949 (patent filed); in shops from 1974",
+    "where": "Philadelphia, Pennsylvania, USA",
+    "who": "Norman Joseph Woodland and Bernard Silver; the store barcode (UPC) by George Laurer at IBM",
+    "category": "Computers & Digital",
+    "kid": "A barcode is a pattern of black and white stripes that a computer can read super fast. At the shop, a scanner reads the stripes to know what you are buying and how much it costs. The first thing ever scanned was a pack of chewing gum!",
+    "explorer": "In the late 1940s, Norman Woodland and Bernard Silver, students in Philadelphia, worked on a way for stores to identify products automatically. They patented a bullseye-shaped code made of circles, but the scanners of the time were too expensive. In the 1970s, lasers and computer chips became cheaper, and IBM engineer George Laurer designed the striped Universal Product Code (UPC). In 1974, a pack of chewing gum became the first product scanned at a store checkout.",
+    "expert": "Woodland and Silver filed their patent in 1949 and it was granted in 1952; Woodland told a story of getting the idea by drawing lines in the sand on a beach, stretching Morse code dots and dashes into lines. Without affordable scanning, the idea sat unused for about two decades, apart from an attempt by US railroads to label freight cars with colored codes. US grocery companies agreed on the UPC standard in 1973, choosing IBM's striped design, partly because stripes printed more reliably than circles. The first UPC scan took place on June 26, 1974, in Troy, Ohio. Barcodes transformed retail and logistics by making inventory tracking automatic, and two-dimensional codes such as QR codes later stored much more information.",
+    "how": "Black bars and white spaces of different widths stand for numbers. A scanner shines light across them, measures the reflections, and turns the pattern into a number the store's computer looks up.",
+    "before": "Shop workers put price stickers on items and typed prices into cash registers by hand, and stock was counted manually.",
+    "impact": "Barcodes made checkouts faster, cut errors, and let stores, warehouses and hospitals track millions of items automatically.",
+    "facts": [
+      "The first product scanned with a UPC barcode was a pack of Wrigley's Juicy Fruit gum in 1974.",
+      "That first scan happened at a supermarket in Troy, Ohio.",
+      "The original barcode patent described a bullseye of circles, not straight stripes.",
+      "Barcodes are also used on hospital wristbands to help give patients the right medicine."
+    ],
+    "ledTo": [
+      "qr-code"
+    ],
+    "quiz": [
+      {
+        "q": "What was the first product scanned by a UPC barcode?",
+        "a": "A pack of chewing gum",
+        "wrong": [
+          "A banana",
+          "A comic book",
+          "A bottle of milk"
+        ]
+      },
+      {
+        "q": "What shape was the first patented barcode?",
+        "a": "A bullseye of circles",
+        "wrong": [
+          "A star",
+          "A triangle",
+          "A smiley face"
+        ]
+      }
+    ],
+    "wiki": "Barcode"
+  },
+  {
+    "id": "digital-camera",
+    "name": "Digital Camera",
+    "emoji": "📷",
+    "year": 1975,
+    "when": "1975",
+    "where": "Rochester, New York, USA",
+    "who": "Steven Sasson at Eastman Kodak",
+    "category": "Computers & Digital",
+    "kid": "A digital camera takes pictures without film by turning light into numbers. The first one, built in 1975, was about as heavy as a small bowling ball and took 23 seconds to save one black-and-white picture. Now almost every phone has a great camera!",
+    "explorer": "In 1975, Kodak engineer Steven Sasson built a camera using a new light sensor called a CCD. It captured a tiny black-and-white image of 100 by 100 pixels and saved it onto a cassette tape. To see the picture, the tape had to be played back on a special screen. Digital cameras became popular in the late 1990s and 2000s, and soon camera phones took over.",
+    "expert": "Digital photography depended on image sensors: the charge-coupled device (CCD) was invented at Bell Labs in 1969 by Willard Boyle and George E. Smith, who received the 2009 Nobel Prize in Physics. Sasson's 1975 prototype weighed about 8 pounds (3.6 kg) and recorded 0.01-megapixel images to cassette tape, which took about 23 seconds per image. Kodak patented the work but was slow to move away from its very profitable film business, and it filed for bankruptcy in 2012, a famous business example of disruption. Later CMOS sensors became cheaper and used less power, making phone cameras practical. Digital cameras changed photography from a pay-per-picture activity into an almost free one, leading to the enormous number of photos shared online today.",
+    "how": "A lens focuses light onto a sensor covered in millions of tiny light-sensitive spots called pixels. Each pixel measures how much light hits it, and the camera turns those measurements into numbers stored as an image file.",
+    "before": "Cameras used film, which had to be developed with chemicals before anyone could see the pictures.",
+    "impact": "Digital cameras made taking and sharing photos instant and nearly free, and they are now built into phones, cars, doorbells and space probes.",
+    "facts": [
+      "The first digital camera weighed about 8 pounds (3.6 kg).",
+      "Its pictures were just 100 by 100 pixels — 0.01 megapixels.",
+      "It saved pictures onto an ordinary cassette tape.",
+      "The CCD sensor that made it possible won its inventors a Nobel Prize in 2009."
+    ],
+    "ledTo": [
+      "smartphone"
+    ],
+    "quiz": [
+      {
+        "q": "Which company did Steven Sasson work for?",
+        "a": "Kodak",
+        "wrong": [
+          "Apple",
+          "Nikon",
+          "Microsoft"
+        ]
+      },
+      {
+        "q": "Where did the first digital camera save its pictures?",
+        "a": "On a cassette tape",
+        "wrong": [
+          "On a USB stick",
+          "On film",
+          "In the cloud"
+        ]
+      }
+    ],
+    "wiki": "Digital camera"
+  },
+  {
+    "id": "touchscreen",
+    "name": "Touchscreen",
+    "emoji": "👆",
+    "year": 1965,
+    "when": "1965",
+    "where": "Malvern, England (UK)",
+    "who": "E. A. Johnson (first capacitive touchscreen), with later work by Samuel Hurst, CERN engineers and many others",
+    "category": "Computers & Digital",
+    "kid": "A touchscreen is a screen you control by tapping and swiping with your finger. The first one was made in England in the 1960s to help air traffic controllers. Today they are on phones, tablets and even fridges!",
+    "explorer": "In 1965, E. A. Johnson at the Royal Radar Establishment in England described a screen that could sense a finger's touch, and it was later used for air traffic control. In the 1970s, Samuel Hurst in the USA developed resistive touchscreens, which respond to pressure, and engineers at CERN built capacitive touchscreens to control a particle accelerator. Touchscreens appeared in ATMs, kiosks and PDAs over the following decades. In 2007, the iPhone made multi-touch screens, which sense several fingers at once, part of everyday life.",
+    "expert": "There are two main families: capacitive screens sense the small electrical charge of your finger, while resistive screens detect pressure where two flexible layers touch. Johnson's capacitive design (described in 1965) could only sense a limited number of fixed points, while Hurst's resistive technology from the 1970s became widely used in cheaper devices that worked with a stylus or gloved finger. CERN engineers Frank Beck and Bent Stumpe built a transparent capacitive touchscreen in the early 1970s, and the PLATO IV teaching system used an infrared touch panel. Multi-touch research dates back to at least the 1980s at universities and labs, long before smartphones. The iPhone did not invent the touchscreen, but its responsive capacitive multi-touch made gestures like pinch-to-zoom mainstream.",
+    "how": "A capacitive touchscreen has a grid of invisible conductive lines under the glass. Your finger slightly changes the electric field where it touches, and the device calculates the exact position.",
+    "before": "People used buttons, keyboards, joysticks, light pens and mice to control computers and machines.",
+    "impact": "Touchscreens made devices simpler and more intuitive to use, making smartphones and tablets possible and helping very young children use computers.",
+    "facts": [
+      "The first known finger-touch screen was designed for air traffic control in the UK.",
+      "Capacitive screens usually do not work with ordinary gloves because cloth does not conduct electricity well.",
+      "Engineers at CERN built a touchscreen in the 1970s to control a particle accelerator.",
+      "Resistive touchscreens respond to pressure, so they can be used with a stylus or a fingernail."
+    ],
+    "ledTo": [
+      "smartphone"
+    ],
+    "quiz": [
+      {
+        "q": "What was the first touchscreen used for?",
+        "a": "Air traffic control",
+        "wrong": [
+          "Video games",
+          "Shop checkouts",
+          "Phone calls"
+        ]
+      },
+      {
+        "q": "What does a capacitive screen sense?",
+        "a": "Your finger's electrical charge",
+        "wrong": [
+          "Your fingerprint's color",
+          "The heat of the room",
+          "Your voice"
+        ]
+      }
+    ],
+    "wiki": "Touchscreen"
+  },
+  {
+    "id": "wi-fi",
+    "name": "Wi-Fi",
+    "emoji": "📶",
+    "year": 1997,
+    "when": "1997 (first standard)",
+    "where": "Worldwide (IEEE standard), with key work in the USA, the Netherlands and Australia",
+    "who": "Many engineers — incl. Vic Hayes (IEEE 802.11 chair) and John O'Sullivan's CSIRO team",
+    "category": "Computers & Digital",
+    "kid": "Wi-Fi lets computers, phones and game consoles connect to the internet without wires, using invisible radio waves. A box called a router sends and receives the signals. It's like your devices are talking by radio!",
+    "explorer": "In 1997, engineers agreed on a shared set of rules, called the IEEE 802.11 standard, so wireless devices from different companies could talk to each other. Early versions were slow, but newer versions got much faster. The friendly name 'Wi-Fi' was created in 1999 to make the technology easier to sell. Today billions of devices use Wi-Fi in homes, schools, cafes and airports.",
+    "expert": "Wireless computer networking goes back to ALOHAnet at the University of Hawaii (1971), which linked computers across islands by radio. In 1985 the US Federal Communications Commission allowed some radio bands to be used without a license, opening the door to consumer wireless gear; NCR and AT&T's WaveLAN, developed partly in the Netherlands, was an important forerunner. Vic Hayes chaired the IEEE 802.11 committee and is often called the 'father of Wi-Fi'. Australia's CSIRO, led by radio astronomer John O'Sullivan, patented a technique to handle signals bouncing off walls, and later won large settlements from tech companies over it. Despite popular belief, 'Wi-Fi' is a brand name and does not officially stand for 'wireless fidelity'. Actress Hedy Lamarr co-patented a frequency-hopping idea in 1942, but claims that she directly invented Wi-Fi are an overstatement.",
+    "how": "A router turns data into radio waves and broadcasts them, usually in the 2.4 or 5 gigahertz bands. Devices nearby receive the waves, decode the data and send their own replies back the same way.",
+    "before": "Computers had to be plugged into a network with cables, or use slow dial-up connections over telephone lines.",
+    "impact": "Wi-Fi made internet access portable and easy to share, powering laptops, smartphones, smart homes and public hotspots.",
+    "facts": [
+      "The name 'Wi-Fi' was invented by a branding company in 1999.",
+      "Wi-Fi uses radio waves in some of the same frequency range as microwave ovens.",
+      "An Australian science agency, CSIRO, earned large patent payments from its Wi-Fi research.",
+      "One of the first wireless computer networks, ALOHAnet, linked computers on the Hawaiian islands in 1971."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "What does Wi-Fi use to send data?",
+        "a": "Radio waves",
+        "wrong": [
+          "Sound waves",
+          "Water pipes",
+          "Copper cables"
+        ]
+      },
+      {
+        "q": "In what year was the first Wi-Fi standard agreed?",
+        "a": "1997",
+        "wrong": [
+          "1957",
+          "1977",
+          "2017"
+        ]
+      }
+    ],
+    "wiki": "Wi-Fi"
+  },
+  {
+    "id": "3d-printing",
+    "name": "3D Printing",
+    "emoji": "🛠️",
+    "year": 1984,
+    "when": "1980s",
+    "where": "California, USA (with early research in Japan)",
+    "who": "Chuck Hull (stereolithography), with earlier work by Hideo Kodama and later work by Scott Crump and others",
+    "category": "Computers & Digital",
+    "kid": "A 3D printer builds real objects layer by layer from a computer design. It can make toys, tools and even parts for rockets. It's like stacking very thin slices until a whole object appears!",
+    "explorer": "In the early 1980s, Hideo Kodama in Japan published ideas for building objects in layers using light-hardened plastic. In 1984, Chuck Hull filed a patent for stereolithography, which uses an ultraviolet light to harden liquid resin one thin layer at a time. In the late 1980s, Scott Crump invented a method that squeezes melted plastic through a nozzle, the type most home 3D printers use today. Prices dropped a lot in the 2000s and 2010s, so now schools and hobbyists can own one.",
+    "expert": "3D printing is also called additive manufacturing, because it adds material layer by layer instead of cutting it away. Hideo Kodama published a layer-based method in 1981 but did not complete a patent; Chuck Hull's 1984 stereolithography patent (granted 1986) led him to found 3D Systems, and he created the STL file format still widely used. Scott Crump's fused deposition modeling (FDM) became the basis of Stratasys, and when key patents expired around 2009, cheap desktop printers flooded the market, helped by the open-source RepRap project started by Adrian Bowyer in the UK. Today 3D printing is used for prototypes, custom medical implants and dental aligners, and aerospace parts. It is often overhyped: for mass-producing simple items, traditional manufacturing is usually still faster and cheaper.",
+    "how": "Software slices a 3D computer model into thin horizontal layers. The printer then builds each layer in turn, for example by squeezing out melted plastic or hardening liquid resin with light, until the object is complete.",
+    "before": "Objects were made by carving, molding, casting or machining, and making a one-off prototype could take weeks.",
+    "impact": "3D printing made it quick and cheap to turn digital designs into real objects, speeding up invention and allowing custom parts for medicine and space.",
+    "facts": [
+      "Chuck Hull also created the STL file format that many 3D printers still use.",
+      "In 2014, astronauts on the International Space Station 3D-printed a wrench whose design was sent up from Earth.",
+      "The RepRap project aimed to build a 3D printer that could print many of its own parts.",
+      "Dentists use 3D printing to make crowns and clear teeth aligners."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "How does a 3D printer build objects?",
+        "a": "Layer by layer",
+        "wrong": [
+          "By carving a block",
+          "By folding paper",
+          "By pouring one big mold"
+        ]
+      },
+      {
+        "q": "Who patented stereolithography in 1984?",
+        "a": "Chuck Hull",
+        "wrong": [
+          "Elon Musk",
+          "Steve Jobs",
+          "Thomas Edison"
+        ]
+      }
+    ],
+    "wiki": "3D printing"
+  },
+  {
+    "id": "industrial-robot",
+    "name": "Industrial Robot",
+    "emoji": "🦾",
+    "year": 1961,
+    "when": "1961",
+    "where": "Ewing Township, New Jersey, USA (General Motors plant)",
+    "who": "George Devol (inventor) and Joseph Engelberger (Unimation)",
+    "category": "Computers & Digital",
+    "kid": "An industrial robot is a machine arm that does jobs in factories, like lifting, welding and painting. The first one, called Unimate, started work at a car factory in 1961. It handled hot metal parts so people didn't have to!",
+    "explorer": "George Devol invented a programmable arm that could remember and repeat movements, and he teamed up with businessman Joseph Engelberger to build it. Their robot, Unimate, began work at a General Motors factory in New Jersey in 1961. It lifted hot, heavy die-cast metal parts, a dangerous job for humans. Today millions of robots build cars, electronics and many other products.",
+    "expert": "Devol filed his patent for 'programmed article transfer' in 1954, and it was granted in 1961; with Engelberger he founded Unimation, the first robot company. The Unimate stored its sequence of movements as digital steps on a magnetic drum and used hydraulic power. Engelberger, often called the 'father of robotics', promoted robots heavily, even showing one on US television, and licensed the technology to Japan, which became a leader in industrial robotics. Robots improved safety by taking over hot, heavy, repetitive and toxic tasks, and they made manufacturing more precise. They have also replaced some factory jobs, which remains an important economic and social debate. Unlike science-fiction robots, most industrial robots are not intelligent: they precisely repeat programmed motions, though modern ones increasingly use cameras and sensors.",
+    "how": "A robot arm has joints driven by motors or hydraulics, like a shoulder, elbow and wrist. A computer controller stores a sequence of positions and moves the arm through them precisely, over and over.",
+    "before": "Factory workers did dangerous, heavy and repetitive tasks by hand or with simple fixed machines that could do only one job.",
+    "impact": "Industrial robots made factories safer, faster and more precise, and they are essential to making cars, phones and computers today.",
+    "facts": [
+      "The word 'robot' comes from a 1920 Czech play called R.U.R. by Karel Čapek.",
+      "The Czech word 'robota' means forced labor or drudgery.",
+      "The Unimate robot appeared on The Tonight Show in 1966, where it did tricks like pouring a drink.",
+      "Unimate stored its instructions on a magnetic drum."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "What was the first industrial robot called?",
+        "a": "Unimate",
+        "wrong": [
+          "R2-D2",
+          "Roomba",
+          "ASIMO"
+        ]
+      },
+      {
+        "q": "What job did the first industrial robot do?",
+        "a": "Lifted hot metal parts",
+        "wrong": [
+          "Cooked hamburgers",
+          "Cleaned houses",
+          "Delivered mail"
+        ]
+      }
+    ],
+    "wiki": "Unimate"
+  },
+  {
+    "id": "spreadsheet",
+    "name": "Electronic Spreadsheet",
+    "emoji": "📊",
+    "year": 1979,
+    "when": "1979",
+    "where": "Cambridge, Massachusetts, USA",
+    "who": "Dan Bricklin and Bob Frankston (VisiCalc), with earlier mainframe work such as LANPAR (1969)",
+    "category": "Computers & Digital",
+    "kid": "A spreadsheet is a computer grid of boxes where you can type numbers and formulas. If you change one number, all the totals update instantly. It's like a magic math notebook!",
+    "explorer": "Dan Bricklin was a student at Harvard Business School when he imagined a 'magic blackboard' that would recalculate everything when one number changed. With programmer Bob Frankston, he created VisiCalc, released in 1979 for the Apple II computer. It was so useful that many businesses bought an Apple II just to run it. Later spreadsheets like Lotus 1-2-3 and Microsoft Excel became even more popular.",
+    "expert": "Paper spreadsheets — large ruled sheets for accounting — existed for centuries, and LANPAR (1969) by Rene Pardo and Remy Landau offered automatic recalculation on mainframes. VisiCalc's breakthrough was making an interactive grid on an affordable personal computer, where you could see the results update immediately. It is often described as the first 'killer app', software so valuable it drove sales of the hardware. Bricklin and Frankston did not patent the idea, as software patents were rarely granted at the time, so competitors could freely copy the concept. Lotus 1-2-3 (1983) took over on the IBM PC, and Excel later became dominant. Spreadsheets changed business planning by making 'what if' questions easy, though errors in complicated spreadsheets have also caused well-known financial mistakes.",
+    "how": "A spreadsheet is a grid of cells labeled by columns and rows, like B3. Cells can hold numbers, text or formulas that refer to other cells, and the program recalculates every formula whenever a value changes.",
+    "before": "Accountants and planners used paper ledgers, pencils, erasers and calculators, recomputing whole sheets by hand whenever one number changed.",
+    "impact": "Spreadsheets made budgeting, planning and data analysis fast for businesses, scientists, schools and families, and they helped make personal computers popular.",
+    "facts": [
+      "VisiCalc is short for 'visible calculator'.",
+      "VisiCalc first ran on the Apple II computer.",
+      "Dan Bricklin and Bob Frankston never patented the spreadsheet.",
+      "Cells in a spreadsheet are named by a letter for the column and a number for the row, like A1."
+    ],
+    "ledTo": [],
+    "quiz": [
+      {
+        "q": "What was the first spreadsheet program for personal computers?",
+        "a": "VisiCalc",
+        "wrong": [
+          "Microsoft Word",
+          "Photoshop",
+          "Minecraft"
+        ]
+      },
+      {
+        "q": "What happens when you change a number in a spreadsheet?",
+        "a": "Formulas recalculate automatically",
+        "wrong": [
+          "The file deletes itself",
+          "The computer restarts",
+          "Nothing changes"
+        ]
+      }
+    ],
+    "wiki": "VisiCalc"
+  }
+]

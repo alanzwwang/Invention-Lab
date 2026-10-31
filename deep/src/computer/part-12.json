@@ -1,0 +1,161 @@
+{
+  "n": 12,
+  "title": "The Tiny Transistor",
+  "when": "1947 – 1960",
+  "summary": "Old computers were full of hot glass tubes that kept burning out. In 1947, scientists at Bell Labs made a tiny switch from a crystal, with no glass and no glowing wire: the transistor. Soon it was inside pocket radios and new computers, and a group of young scientists started the companies that turned a valley of fruit orchards in California into Silicon Valley.",
+  "sections": [
+    {
+      "heading": "The Trouble With Glowing Glass",
+      "paragraphs": [
+        "By the late 1940s, vacuum tubes were everywhere. They glowed inside radios, televisions, radar sets and the new electronic computers. A tube is a glass bottle with the air pumped out and a few metal parts inside. One part, the filament, is heated until it glows, and the heat boils electrons off a metal surface. Those electrons fly across the empty space to a metal plate, and a wire mesh in between, called the grid, can speed them up or stop them. A small voltage on the grid controls a big current, so the tube can work as an amplifier, making weak signals stronger, or as a switch, turning a current on and off very fast.",
+        "Tubes were amazing, but they had serious faults. Because each one needed a glowing filament, they ate electricity and gave off lots of heat. A computer like UNIVAC needed about 125 kilowatts of power, and big air-conditioning systems to stop the room from overheating. Tubes took time to warm up. They were made of glass, so they could crack. And their filaments slowly wore out, just like old-fashioned light bulbs. In a machine with thousands of tubes, one was always about to fail.",
+        "The company that worried most about this was not a computer maker at all. It was the American Telephone and Telegraph Company, AT&T, which ran most of the telephone network in the United States. Long-distance phone calls needed amplifiers every so often along the line to boost the fading signal, and telephone exchanges were packed with clicking mechanical relays to connect calls. Tubes and relays used vast amounts of power and needed constant repair. AT&T wanted something smaller, cooler, cheaper and much more reliable.",
+        "AT&T had one of the greatest research laboratories in the world, Bell Telephone Laboratories, usually called Bell Labs. Its main campus was in Murray Hill, New Jersey, among leafy hills about 40 kilometres west of New York City. Bell Labs scientists had already invented many important things, and their research director, Mervin Kelly, dreamed of replacing tubes and relays with something solid. In 1945, just after the war, he set up a new research group to study solid-state physics, the science of what happens inside crystals and other solid materials. He put a brilliant and ambitious physicist named William Shockley in charge."
+      ]
+    },
+    {
+      "heading": "Semiconductors: Materials That Can Be Told What to Do",
+      "paragraphs": [
+        "To understand the transistor, you need to meet a strange family of materials called semiconductors. Most materials are either good at carrying electricity or bad at it. Metals like copper are conductors: their electrons are free to drift around, so current flows easily. Materials like glass, rubber and plastic are insulators: their electrons are held tightly, so almost no current flows.",
+        "Semiconductors sit in between. The two most famous are germanium and silicon. Silicon is one of the most common elements on Earth; ordinary sand is mostly silicon combined with oxygen. A perfectly pure crystal of silicon carries very little current. But its ability to conduct can be changed enormously and very precisely.",
+        "One way to change it is called doping, which means adding a tiny, carefully measured amount of another element, perhaps one atom in many millions. Add a little phosphorus or arsenic, and the crystal gets a few spare electrons that can move about and carry current. This is called n-type, for negative, because electrons carry a negative charge. Add a little boron or gallium instead, and the crystal ends up with gaps where electrons are missing. Scientists call these gaps holes. A hole can move too, as neighbouring electrons hop into it one after another, a bit like an empty seat moving along a row of people in a cinema as everyone shuffles over. Because a hole is a missing negative charge, it behaves like a positive charge, so this is called p-type.",
+        "The real magic happens where different types meet. At a boundary between p-type and n-type material, called a junction, current can flow easily in one direction but hardly at all in the other. And by applying a small voltage in the right place, you can change how many electrons and holes are available to carry current through the crystal. That means a small signal can control a much bigger current, exactly the job a vacuum tube does, but without heat, glass or a vacuum.",
+        "Scientists had known for a long time that some crystals did odd things with electricity. Early radio fans before the 1920s used crystal sets, in which a thin wire nicknamed a cat's whisker touched a lump of crystal to pick up radio signals. During the Second World War, radar engineers needed tiny, fast detectors, and laboratories in the United States and Britain learned to make very pure germanium and silicon crystals for them. After the war, these better materials were ready for something much more ambitious."
+      ]
+    },
+    {
+      "heading": "A Gold Wedge and a Week Before Christmas",
+      "paragraphs": [
+        "Shockley's first idea was to put a strong electric field next to a thin layer of semiconductor and use it to control the current flowing through it. On paper it should have worked. In the laboratory, it did almost nothing. Something at the surface of the crystal seemed to be blocking the effect.",
+        "Two members of his group set out to find out why. John Bardeen was a quiet, thoughtful theoretical physicist, someone who works mainly with ideas and equations. He suggested that electrons were getting trapped in the surface of the crystal and shielding the inside from the electric field. Walter Brattain was a skilled experimental physicist who had grown up on a ranch in Washington state and could build almost anything with his hands. Day after day in late 1947 they worked together, Bardeen suggesting what to try and Brattain building it, dipping crystals in liquids, changing voltages and testing again.",
+        "Their breakthrough device looked like something made from bits in a junk drawer. Brattain took a small triangle of plastic and wrapped a strip of gold foil around its point. Then he carefully sliced through the gold at the tip with a razor blade, making two gold contacts separated by a gap thinner than a sheet of paper. He pressed this point down onto a slab of germanium, held in place by a spring. When a small current flowed through one gold contact, it changed a much bigger current flowing through the other. The signal came out stronger than it went in. The crystal was amplifying.",
+        "This was the point-contact transistor, named for the sharp points touching the crystal. Bardeen and Brattain got it working in mid-December 1947. On 23 December 1947, just before the Christmas holiday, they showed it to Bell Labs managers. In the demonstration, someone spoke into a microphone, and the sound came out of headphones louder after passing through the little device. Brattain wrote in his notebook about what they had seen, and the managers knew at once that this could be very important.",
+        "Bell Labs kept the invention secret for six months while its lawyers prepared patents and its scientists made sure it really worked. They also needed a name. An engineer named John R. Pierce suggested 'transistor', mixing the words transfer and resistor, an earlier electronic part. The name stuck.",
+        "On 30 June 1948, Bell Labs announced the transistor at a press conference in New York. Reporters were shown how it could replace tubes in a radio and a telephone amplifier. Surprisingly, most newspapers barely noticed. The New York Times put the story on a back page, in a column of radio news. Few people outside the laboratory guessed that the little device would one day change almost everything.",
+        "Bell Labs was not the only place where transistors were born. In France, two German physicists, Herbert Mataré and Heinrich Welker, independently built a very similar device in 1948 while working for a company near Paris, and called it the transistron. Ideas for solid-state amplifiers had even been patented decades earlier, by Julius Lilienfeld in 1925 and Oskar Heil in 1934, though there is no evidence their devices were ever successfully built. Great inventions often appear in several places once the time and materials are right."
+      ]
+    },
+    {
+      "heading": "Shockley's Sandwich and the Race for Silicon",
+      "paragraphs": [
+        "William Shockley was pleased that his group had succeeded, but he was also upset. He had led the research, yet the breakthrough had been made by Bardeen and Brattain without him, and Bell Labs' patent lawyers based the point-contact patent on their work. Determined to do better, Shockley threw himself into designing a different kind of transistor, working intensely in the weeks around the New Year of 1948.",
+        "His design is called the junction transistor. Instead of fragile metal points touching a crystal, it is a sandwich made of three layers of semiconductor: for example, a thin slice of p-type between two slices of n-type (an n-p-n transistor), or the other way round (p-n-p). The middle layer is called the base. A small current flowing into the base controls a much larger current flowing through the whole sandwich. Think of the base as a gatekeeper. A tiny nudge on the gate opens the way for a crowd of electrons.",
+        "The point-contact transistor was delicate and hard to make the same way twice. Shockley's junction transistor was sturdier, more predictable and better suited to mass production, though it took several years and new methods of growing crystals to make it practical. Shockley published the theory in a scientific journal in 1949, he wrote a famous textbook called Electrons and Holes in Semiconductors in 1950, and Bell Labs announced working junction transistors in July 1951. Almost all transistors for the next twenty years were junction transistors of one kind or another.",
+        "Meanwhile, Bell Labs did something generous and clever. Its owner, AT&T, was under pressure from the US government, which worried that the company was too powerful. So instead of keeping the transistor to itself, Bell Labs licensed the patents to other companies for a fee, and in 1952 held a series of meetings to teach them how to make transistors. Firms across the United States and abroad, including a small Texas company called Texas Instruments, signed up. Soon afterwards a young Japanese company that would later rename itself Sony bought a licence too.",
+        "The first transistors were made of germanium, which was easier to purify. But germanium has a weakness: it stops working properly when it gets hot, at temperatures you might find in a car engine or a military aircraft. Silicon could handle much more heat, but it was harder to work with because it melts at a much higher temperature, above 1,400 degrees Celsius. At Bell Labs, Morris Tanenbaum made a working silicon transistor in January 1954.",
+        "The first silicon transistors to go on sale came from Texas Instruments, where Gordon Teal, who had pioneered ways of growing very pure single crystals at Bell Labs, now led research. In May 1954, at a conference in Dayton, Ohio, other speakers were saying that silicon transistors were still years away. Then Teal stood up and announced that his team was already making them, telling the audience that he happened to have a few in his pocket. It caused a sensation. Over the following years silicon gradually replaced germanium, and it is still the material inside almost every computer chip today. That is why, when a famous technology region grew up in California, it was named after silicon, not germanium.",
+        "In 1956, John Bardeen, Walter Brattain and William Shockley shared the Nobel Prize in Physics for their research on semiconductors and their discovery of the transistor effect. By then the three were no longer a team. Bardeen and Brattain had felt pushed aside by Shockley, and Bardeen had left Bell Labs in 1951 to become a professor at the University of Illinois. There he turned to a completely different puzzle: superconductivity, the way some materials lose all electrical resistance when they are extremely cold. With Leon Cooper and John Robert Schrieffer, he worked out the explanation, and in 1972 he won a second Nobel Prize in Physics. He is still the only person to have won the physics prize twice."
+      ]
+    },
+    {
+      "heading": "Radios in Pockets and Computers Without Tubes",
+      "paragraphs": [
+        "The first place most people met a transistor was not in a computer but in a radio. On 18 October 1954, a small company called Industrial Development Engineering Associates, selling under the name Regency, announced the Regency TR-1. It went on sale on 1 November 1954 in New York and Los Angeles for 49.95 dollars, a lot of money at the time. Inside were just four germanium transistors made by Texas Instruments. The radio measured about 7.5 by 12.5 centimetres, about the size of a paperback book cut in half, and it came in colours such as black, bone white, mandarin red and cloud grey. It ran on a single 22.5-volt battery for roughly 20 to 30 hours.",
+        "About 150,000 TR-1s were sold. In 1957 the Japanese company Sony launched its own pocket-sized transistor radio, the TR-63, which sold in huge numbers around the world and helped make Japan a leader in consumer electronics. Teenagers could now carry music with them to the beach or the park, a small revolution in everyday life. For the first time, many people owned a device that ran on transistors.",
+        "Computer engineers were just as excited. A transistor could switch on and off far faster than a relay, used a tiny fraction of the power of a tube, and needed no warm-up time. In principle it could last almost forever. The first transistor computers were built by teams who wanted to prove it could be done.",
+        "Once again, the University of Manchester was early. A team in Tom Kilburn's department built an experimental transistor computer that was working by November 1953. It is widely believed to be the first transistor computer to run anywhere in the world. It used the delicate point-contact transistors, which were the only kind then available in quantity, and it still used a few valves for some jobs. A full-size version followed in 1955, and the electrical company Metropolitan-Vickers built a small run of a production version called the Metrovick 950.",
+        "In the United States, Bell Labs built TRADIC, short for TRAnsistor DIgital Computer, for the US Air Force. Finished in January 1954 by a team led by Jean Howard Felker, it used 684 transistors and more than 10,000 germanium diodes, and it ran on less than 100 watts, about as much as a single bright old-style light bulb. A tube computer of similar power would have needed many kilowatts. TRADIC was small and light enough to be considered for use inside a B-52 bomber aircraft, something unthinkable for a tube machine. Interestingly, it still used a vacuum tube power supply to produce its clock signal, so people still argue about whether it was truly all-transistor.",
+        "Britain's atomic research centre at Harwell built a transistor computer called CADET in 1955. IBM began selling transistorised machines later in the decade, including the IBM 608 calculator, first shipped in December 1957, and powerful computers such as the IBM 7090 and the popular IBM 1401, which thousands of businesses rented in the early 1960s. Historians call these machines the second generation of computers. The first generation used tubes; the second used transistors. They were smaller, cooler, cheaper to run and far more reliable, and more businesses and universities could afford them."
+      ]
+    },
+    {
+      "heading": "Memory Made of Tiny Magnetic Doughnuts",
+      "paragraphs": [
+        "Fast switches were only half of what computers needed. They also needed better memory. Mercury delay lines were slow to reach, and Williams tubes were fussy and forgetful. The solution came from a project at the Massachusetts Institute of Technology (MIT) called Whirlwind.",
+        "Whirlwind began during the war as a plan for a flight simulator for the US Navy, a machine that would let pilots practise flying without leaving the ground. To respond to a pilot's controls instantly, it had to calculate in real time, meaning fast enough to keep up with events as they happen. The project, led by the engineer Jay Forrester, turned into one of the most ambitious computers of its day. Whirlwind I was working by 1951. It had about 5,000 vacuum tubes, weighed about 9 tonnes and filled more than 185 square metres (2,000 square feet) of floor space.",
+        "Its weak spot was memory. Whirlwind used special electrostatic storage tubes, similar in spirit to Williams tubes, which were slow, expensive and unreliable. Forrester searched for something better. He became interested in magnetic materials that could be magnetised in one of two directions and would stay that way. Other researchers, including An Wang at Harvard, were exploring similar ideas. Forrester's big contribution was a clever way of arranging the magnets in a grid so that any single bit could be picked out quickly. This became magnetic-core memory, and the first core memory was installed in Whirlwind in the summer of 1953, making the computer faster and far more dependable.",
+        "Here is how core memory works. Each bit is stored in a core, a tiny ring of ferrite, a magnetic ceramic material, shaped like a doughnut and eventually smaller than a grain of rice. The rings are strung on a grid of very thin wires, like beads on a fishing net. If current flows through the wires one way, the ring becomes magnetised clockwise; the other way, it becomes magnetised anticlockwise. Clockwise can mean 1 and anticlockwise 0. To choose one particular ring, the computer sends half the needed current down one row wire and half down one column wire. Only the ring where the two wires cross gets enough current to flip. A third wire threaded through every ring senses whether a ring flipped, which tells the computer what was stored there.",
+        "Core memory had two curious features. Reading a bit usually wiped it, so the computer had to write the value straight back after every read. And because the rings stay magnetised without any electricity, core memory did not forget when the power was switched off. A computer could be shut down at night and still find its program waiting in the morning.",
+        "Making core memory was painstaking work. The rings were so small that workers threaded the fine wires through them by hand, often looking through magnifying lenses, building planes of thousands of cores. Over time the cores shrank from about 2.5 millimetres across in the 1950s to about a third of a millimetre by 1966. From about 1955 to the mid-1970s, core memory was the main kind of computer memory in the world, until it was replaced by memory chips. It left behind a phrase programmers still use: when a program crashes and the computer saves a copy of everything in its memory, that is called a core dump.",
+        "Whirlwind also led to something enormous. Its real-time design became the basis for SAGE, a giant air-defence network built for the US military in the late 1950s, which linked radar stations to computers that tracked aircraft on screens. SAGE gave many engineers their first experience of large computer systems, operators working at screens, and computers connected over long distances."
+      ]
+    },
+    {
+      "heading": "The Traitorous Eight and the Valley of Silicon",
+      "paragraphs": [
+        "Now our story moves west, to the orchards of California. In 1955 William Shockley left Bell Labs to start his own company to make transistors. Backed by Beckman Instruments, Shockley Semiconductor Laboratory opened in 1956 in Mountain View, south of San Francisco. Shockley chose the area partly because his elderly mother lived in nearby Palo Alto. Stanford University was close by too. At the time the area was famous mostly for its apricot and plum orchards.",
+        "With his fame, Shockley could hire some of the brightest young scientists and engineers in the country. Among them were Robert Noyce, a physicist from Iowa with a talent for leadership, and Gordon Moore, a chemist from California. But Shockley turned out to be a difficult boss. He was suspicious and controlling, and he changed research directions in ways that frustrated his staff. At one point he demanded that employees take a lie detector test, and they refused. When a group asked for Shockley to be replaced as manager and their request was turned down, they decided to leave.",
+        "On 18 September 1957, eight of them resigned together: Julius Blank, Victor Grinich, Jean Hoerni, Eugene Kleiner, Jay Last, Gordon Moore, Robert Noyce and Sheldon Roberts. Shockley saw this as a betrayal, and the group became known as the traitorous eight. Nobody is quite sure who first gave them the nickname, but it stuck.",
+        "The eight did not want to split up; they wanted to keep working together. With help from a young New York banker named Arthur Rock, they found an investor, the inventor and businessman Sherman Fairchild. His company lent them about 1.38 million dollars to start a new firm, Fairchild Semiconductor, a short drive away in Palo Alto. Their plan was to make silicon transistors, and they quickly won orders, including from companies building equipment for the US military and space programmes.",
+        "At Fairchild, Jean Hoerni, a Swiss-born physicist, came up with an especially important idea in December 1957: the planar process. Instead of building transistors as little raised bumps that were easily damaged, he made them flat in the surface of the silicon, protected by a thin layer of silicon dioxide, a kind of glass that grows naturally on silicon when it is heated with oxygen. Flat transistors were tougher, more reliable and could be made many at a time on a single slice of silicon. Hoerni's planar process would soon make something much bigger possible.",
+        "Fairchild became hugely successful, and many of its engineers later left to start their own companies. These spin-offs became known as the Fairchildren. The most famous is Intel, founded in 1968 by Noyce and Moore; another is AMD. Kleiner co-founded one of the most famous investment firms in the area, which funded many later technology companies. In 1971 a journalist named Don Hoefler wrote a series of articles about the region's chip companies under the title Silicon Valley, USA, and the name spread around the world.",
+        "Shockley's own company never recovered, and he later became a professor at Stanford University. In later life he became widely known, and widely condemned, for promoting racist ideas that scientists rejected. His story is a reminder that being brilliant in one area does not make someone wise in everything. The valley he helped start, though, became the most famous centre of computer technology on Earth."
+      ]
+    },
+    {
+      "heading": "Drowning in Wires",
+      "paragraphs": [
+        "By the late 1950s the transistor had won. It was replacing tubes in radios, hearing aids, telephone equipment, military systems and computers. A large transistor computer might contain tens of thousands of transistors, plus diodes, resistors and capacitors, all mounted on circuit boards and joined together with wires.",
+        "And that was the new problem. Every one of those parts had to be connected to others by hand, with wires soldered at each end. A big computer could need hundreds of thousands of soldered joints. Each joint took time, cost money and was another chance for something to go wrong: one bad joint could make the whole machine misbehave, and finding it was like searching for one loose thread in an enormous carpet. The more powerful engineers wanted their machines to be, the more parts they needed, and the more hopeless the wiring became. People in the industry even had a name for it: the tyranny of numbers.",
+        "Engineers looked at the problem and asked a bold question. Transistors, resistors and capacitors could all be made from semiconductor material. Hoerni's planar process could make many transistors side by side on one slice of silicon. So why make them separately, cut them apart and wire them back together? Could a whole circuit, with all its parts and all its connections, be made in one piece?"
+      ]
+    }
+  ],
+  "deepDive": "Why does a sliver of doped crystal amplify? In a junction (bipolar) transistor, the thin middle layer, the base, is the key. In an n-p-n device, a small forward voltage between base and emitter lowers an energy barrier, so electrons pour from the n-type emitter into the p-type base. Because the base is very thin and only lightly doped, most of those electrons do not meet a hole and recombine; instead they drift on into the collector, pulled by its voltage. A small base current therefore controls a collector current perhaps 50 to several hundred times larger. Used as an amplifier, the transistor copies a weak signal onto a strong current; used as a switch, it flips between 'off' and 'fully on', the two states that represent 0 and 1 in a computer.\n\nThe point-contact transistor of December 1947 worked through a related but messier effect at the surface of the germanium, which is why it was hard to make reliably. Historians and physicists have long discussed who deserves what credit. The point-contact device was clearly Bardeen and Brattain's experiment, guided by Bardeen's theory of surface states; the junction transistor was Shockley's theoretical design, made practical by others' crystal-growing work, notably Gordon Teal's and Morgan Sparks's at Bell Labs. Bell's patent attorneys found that Shockley's original field-effect idea had been anticipated by Lilienfeld's 1925 patent, which is one reason his name was left off the point-contact patent. Meanwhile Mataré and Welker's independent 'transistron' shows the invention was in the air.\n\nIronically, the field-effect principle Shockley first tried, controlling current with a voltage on a nearby plate, became the winner in the end. Once surface problems were solved using silicon dioxide layers, Mohamed Atalla and Dawon Kahng at Bell Labs demonstrated the MOSFET (metal-oxide-semiconductor field-effect transistor) in 1959–60. MOSFETs are what fill modern chips, and they have been made in greater numbers than any other manufactured object in history.\n\nThe economic story matters too. Under antitrust pressure, AT&T licensed transistor patents widely, seeding an entire industry. And the move west, from Bell Labs to Shockley's lab and then Fairchild, created the pattern of venture-funded spin-off companies that defines Silicon Valley today.",
+  "funFact": "When Bell Labs announced the transistor in June 1948, The New York Times gave it only a few short paragraphs on an inside page, in its radio news column.",
+  "check": {
+    "q": "Which two Bell Labs scientists built the first point-contact transistor in December 1947?",
+    "a": "John Bardeen and Walter Brattain",
+    "wrong": [
+      "Robert Noyce and Gordon Moore",
+      "Jay Forrester and An Wang",
+      "Freddie Williams and Tom Kilburn"
+    ]
+  },
+  "sources": [
+    {
+      "title": "History of the transistor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_transistor"
+    },
+    {
+      "title": "Gordon Kidd Teal",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gordon_Kidd_Teal"
+    },
+    {
+      "title": "Regency TR-1",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Regency_TR-1"
+    },
+    {
+      "title": "Transistor computer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Transistor_computer"
+    },
+    {
+      "title": "TRADIC",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/TRADIC"
+    },
+    {
+      "title": "Magnetic-core memory",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Magnetic-core_memory"
+    },
+    {
+      "title": "Whirlwind I",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Whirlwind_I"
+    },
+    {
+      "title": "Traitorous eight",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Traitorous_eight"
+    }
+  ],
+  "pics": [
+    {
+      "want": "A replica or photograph of the first point-contact transistor from Bell Labs, 1947, with its plastic wedge and germanium slab",
+      "search": "first point contact transistor replica"
+    },
+    {
+      "want": "The Regency TR-1 transistor radio from 1954",
+      "search": "Regency TR-1 transistor radio"
+    },
+    {
+      "want": "Close-up photograph of a magnetic-core memory plane showing tiny ferrite rings threaded on wires",
+      "search": "magnetic core memory plane closeup"
+    }
+  ]
+}

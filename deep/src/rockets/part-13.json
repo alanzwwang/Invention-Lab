@@ -1,0 +1,161 @@
+{
+  "n": 13,
+  "title": "The Eagle Has Landed",
+  "when": "1969 – 1972",
+  "summary": "In July 1969 a giant rocket called the Saturn V carried three astronauts to the Moon, and Neil Armstrong took the first step onto its dusty ground. Twelve people walked on the Moon in all, one crew survived an explosion on the way there, and the astronauts brought home boxes full of Moon rocks.",
+  "sections": [
+    {
+      "heading": "A Skyscraper Made of Fuel",
+      "paragraphs": [
+        "Imagine standing on a beach in Florida before dawn on 16 July 1969. About five kilometres away, lit up by searchlights, stands the tallest, heaviest and most powerful machine that had ever flown: the Saturn V rocket. It is about 110 metres (363 feet) tall, taller than the Statue of Liberty on its pedestal and almost as tall as a 36-storey building. Around a million people have crowded onto beaches, roads and riverbanks to watch. Some have camped in their cars for days.",
+        "The Saturn V was designed by Wernher von Braun's team at NASA's Marshall Space Flight Center in Huntsville, Alabama, and built by several big companies working together: Boeing made the first stage, North American Aviation the second, and Douglas Aircraft the third. Fully loaded, the whole rocket weighed about 2,900 tonnes, roughly as much as 400 African elephants. Almost all of that weight was propellant, the fuel and oxidizer the rocket would burn in the next few minutes.",
+        "The rocket was really three rockets stacked on top of each other, called stages. The bottom stage, the S-IC, was about 42 metres tall and 10 metres wide. At its base sat five F-1 engines, each as tall as a giraffe and as heavy as a big truck. Together they burned kerosene and liquid oxygen and pushed with a force of about 34 million newtons, or about 7.5 million pounds of thrust. The second stage, the S-II, had five smaller J-2 engines burning super-cold liquid hydrogen and liquid oxygen. The third stage, the S-IVB, had a single J-2 engine that could be switched off and lit again later, which was vital for the trip to the Moon.",
+        "On top of all this sat the part that actually mattered to the astronauts: the Apollo spacecraft. There was a cone-shaped command module, where the three astronauts sat; a cylinder-shaped service module behind it, with an engine, fuel, oxygen tanks and electricity-making fuel cells; and, folded up inside a protective shell, the spidery lunar module that would land on the Moon. At the very tip stood a launch escape tower, a small rocket that could yank the command module away if anything went badly wrong on the launch pad.",
+        "The numbers tell a striking story. Out of roughly 2,900 tonnes on the pad, only the small command module, about 3.9 metres wide at its base, would come home. Everything else would be dropped into the ocean, left in orbit, sent around the Sun or left on the Moon. A Moon trip was a bit like building a whole skyscraper just so that one tiny room on top could travel to the Moon and back.",
+        "The first Saturn V had flown without a crew in November 1967 on the Apollo 4 test. Apollo 8 had already used one to carry Frank Borman, Jim Lovell and Bill Anders around the Moon. Now, in July 1969, Saturn V number six was ready for the real thing."
+      ]
+    },
+    {
+      "heading": "Three Men and a Plan",
+      "paragraphs": [
+        "The crew of Apollo 11 were three test pilots, all born in 1930. The commander was Neil Armstrong, a calm engineer from Ohio who had flown the X-15 rocket plane and who had already saved Gemini 8 when a jammed thruster sent it spinning in 1966. The lunar module pilot was Edwin \"Buzz\" Aldrin, a former fighter pilot with a doctorate from MIT; his university research had been about how spacecraft can meet up in orbit, which is exactly what Apollo had to do. The command module pilot was Michael Collins, a witty Air Force pilot who had made two spacewalks on Gemini 10.",
+        "They named their two spacecraft carefully. The command module was called Columbia, after the poetic name for America and after the giant cannon-launched capsule \"Columbiad\" in Jules Verne's 1865 novel. The lunar module was called Eagle, after the American national bird. Their mission patch showed an eagle landing on the Moon with an olive branch in its claws, a symbol of peace. The crew decided to leave their names off the patch, because they wanted it to represent everyone who had worked on Apollo.",
+        "The plan had many steps, and every one had to work. The Saturn V would put them in orbit around Earth. The third stage would then fire again to send them on a three-day coast to the Moon. Collins would turn Columbia around, dock with Eagle and pull it out of its shell. Near the Moon, the service module's engine would slow them down so that the Moon's gravity could capture them into orbit. Then Armstrong and Aldrin would crawl into Eagle, separate, and fly down to the surface while Collins waited above.",
+        "After their moonwalk, the top half of Eagle, called the ascent stage, would blast off, using the bottom half as a launch pad, and meet Columbia again in lunar orbit. The three astronauts would ride home in Columbia, drop off the service module just before reaching Earth, and splash down in the Pacific Ocean. If any of these steps failed, the astronauts might not come back. US President Richard Nixon even had a speech prepared, written by his speechwriter William Safire, to read in case Armstrong and Aldrin were stranded on the Moon. Happily, it was never needed."
+      ]
+    },
+    {
+      "heading": "Liftoff and Three Days to the Moon",
+      "paragraphs": [
+        "At 9:32 in the morning, Florida time (13:32 UTC), on 16 July 1969, the five F-1 engines roared to life on Launch Complex 39A at the Kennedy Space Center. For a few seconds, huge clamps held the rocket down while the engines built up full power. Then they let go. Because the rocket was so heavy, it rose slowly at first, taking about 10 seconds just to climb past the tower. Spectators said they felt the sound as much as heard it; it shook their chests and rattled windows kilometres away.",
+        "Inside the command module, the astronauts were pressed back into their couches as the rocket shook and rattled. About two and a half minutes after launch, the first stage had burned through its fuel and was dropped, falling into the Atlantic Ocean. The second stage took over for about six minutes, then the third stage fired to push them into an orbit about 190 kilometres above Earth. In just under 12 minutes, they had gone from standing still to about 28,000 km/h.",
+        "After about one and a half orbits, while the crew double-checked everything, the third stage fired again for about six minutes. This burn, called translunar injection, raised their speed to about 39,000 km/h, fast enough to coast all the way to the Moon. Collins then performed the tricky docking with Eagle and pulled it free. The empty third stage was sent off on a path that took it past the Moon and into orbit around the Sun.",
+        "The coast to the Moon took about three days. The astronauts ate freeze-dried food, sent television pictures home, and slept in sleeping bags. To keep one side of the spacecraft from baking in the sunshine while the other froze, they slowly rotated the whole ship, a trick nicknamed the \"barbecue roll\". On 19 July they passed behind the Moon, out of radio contact with Earth, and fired the service module's engine to slow down and enter lunar orbit. Flight controllers in Houston waited nervously until Apollo 11 came around the other side and its radio signal returned."
+      ]
+    },
+    {
+      "heading": "Twelve Minutes of Alarms, Boulders and Fuel",
+      "paragraphs": [
+        "On 20 July 1969, Armstrong and Aldrin floated through the tunnel into Eagle and undocked. Collins, alone in Columbia, looked the lander over to check that its legs had unfolded properly. \"You cats take it easy on the lunar surface,\" he radioed. Then Eagle fired its descent engine and began the most dangerous part of the whole trip: a powered descent of about 12 minutes from roughly 15 kilometres up all the way to the ground.",
+        "Eagle's brain was the Apollo Guidance Computer. By today's standards it was tiny: it had about 4 kilobytes of erasable memory and about 72 kilobytes of fixed memory, far less than a cheap pocket calculator today. Its programs were literally woven by hand into a kind of rope of wires and tiny magnetic rings, a method called core rope memory. Yet this computer was steering a spacecraft down to another world.",
+        "The software was written at the MIT Instrumentation Laboratory in Cambridge, Massachusetts. Margaret Hamilton led the team that wrote the onboard flight software for both the command module and the lunar module. She is often credited with helping to popularise the term \"software engineering\", because she wanted people to treat writing programs as seriously as building bridges. Her team designed the software so that if the computer had too much to do, it would drop the less important jobs and keep running the most important ones, like steering and the engine.",
+        "About five minutes into the descent, an alarm light lit up and Armstrong called out, \"Program alarm... It's a 1202.\" The astronauts had never seen this code in training. In Houston, a 26-year-old guidance officer named Steve Bales and his support engineer Jack Garman had to decide in seconds whether to abort. Garman knew from earlier testing that a 1202 meant the computer was being asked to do more jobs than it had time for, and that it was sensibly shedding the unimportant ones. As long as the alarms did not come constantly, the landing was safe. Bales called \"Go!\", and the capsule communicator, astronaut Charlie Duke, told the crew, \"We're go on that alarm.\" More 1202 and 1201 alarms followed, and each time Houston said go. Part of the cause turned out to be the radar meant for meeting Columbia later, which, because of an electrical mismatch, kept interrupting the computer. Thanks to Hamilton's team's design, the computer kept flying the ship.",
+        "Then came a second problem. Because of tiny errors in their path, Eagle was coming down several kilometres past the planned spot. When Armstrong looked out of his small triangular window, he saw that the computer was heading for a crater about the size of a football field, surrounded by boulders, some of them two or three metres across. Landing there could tip Eagle over. Armstrong took partial manual control and, a few hundred feet above the ground, flew forward like a helicopter, searching for a smooth, flat place.",
+        "That used up fuel. In Houston, controllers began counting down. At \"60 seconds\", Eagle was still a few dozen metres up. At \"30 seconds\", the room went silent. Aldrin read out height and speed numbers to Armstrong while the engine kicked up a sheet of grey dust that made the ground hard to see. Then Aldrin called, \"Contact light,\" meaning a probe under one of the footpads had touched the surface. The engine shut down. Armstrong said: \"Houston, Tranquility Base here. The Eagle has landed.\"",
+        "Charlie Duke, so relieved he stumbled over the words, replied: \"Roger, Twan... Tranquility, we copy you on the ground. You got a bunch of guys about to turn blue. We're breathing again. Thanks a lot.\" The time was 20:17 UTC on 20 July 1969. Later analysis showed that the fuel was not quite as low as the warning lights suggested, because sloshing in the tanks had fooled the fuel sensor, but it was still a very close call. Eagle had landed in the Sea of Tranquility, a flat plain of old lava, several kilometres from its target."
+      ]
+    },
+    {
+      "heading": "One Small Step",
+      "paragraphs": [
+        "The original plan had included a rest period after landing, but nobody felt like sleeping. Armstrong and Aldrin spent several hours checking Eagle and putting on their backpacks, gloves and helmets, a slow job in the cramped cabin. Aldrin, privately, took a quiet moment for Communion. Then they let the air out of the cabin and Armstrong squeezed backwards through the hatch onto a small porch and down a ladder.",
+        "On the way down, he pulled a handle that opened a storage bay holding a black-and-white television camera, so that people on Earth could watch. The pictures were picked up by big radio dishes, including the Goldstone station in California and the Honeysuckle Creek and Parkes dishes in Australia, and sent around the world. At 02:56 UTC on 21 July, which was still the evening of 20 July in the Americas, Armstrong stepped off the footpad onto the Moon. He said: \"That's one small step for man, one giant leap for mankind.\" He later explained that he meant to say \"one small step for a man\", and that the little word \"a\" may have been lost in the radio static or simply not spoken. Either way, the meaning was clear to everyone.",
+        "About 600 million people, roughly one in every six humans alive at the time, are thought to have watched or listened. Families gathered around televisions in living rooms, schools, shop windows and town squares. Many people who saw it remember exactly where they were for the rest of their lives.",
+        "Aldrin joined Armstrong about 19 minutes later. He looked around and described the view as \"magnificent desolation\". The Moon's gravity is only about one-sixth of Earth's, so the astronauts, even in suits and backpacks that would have weighed more than 80 kilograms on Earth, could bounce along in kangaroo hops. The fine grey soil, called regolith, was powdery and stuck to everything, and their boots left crisp prints. Since there is no wind or rain on the Moon, many of those footprints are probably still there today, unless disturbed by tiny meteorite impacts or the blast from Eagle's take-off.",
+        "The two men worked hard for about two and a half hours. They planted an American flag, kept stiff by a horizontal rod along its top because there is no air to make it fly. They set up a seismometer to detect moonquakes, a sheet of foil to catch particles blowing from the Sun, and a laser retroreflector: a panel of special mirrors that bounces light straight back to where it came from. Scientists on Earth still fire lasers at it today to measure the distance to the Moon to within a few centimetres, which shows that the Moon is slowly drifting away from Earth by about 3.8 centimetres a year. They also took a telephone call from President Nixon, and collected about 21.5 kilograms of rocks and soil.",
+        "On one of Eagle's legs they left a metal plaque that reads: \"Here men from the planet Earth first set foot upon the Moon, July 1969, A.D. We came in peace for all mankind.\" They also left a small silicon disc carrying goodwill messages from leaders of more than 70 countries, and medals honouring Yuri Gagarin and Vladimir Komarov as well as the Apollo 1 astronauts.",
+        "Meanwhile, high above, Michael Collins circled the Moon alone in Columbia. Each time he passed behind the Moon he lost radio contact with everyone, and for about 48 minutes of every two-hour orbit he was more cut off from other humans than almost anyone in history. He wrote later that he did not feel lonely, but rather awareness, anticipation, satisfaction and confidence, almost exultation. After about 21 and a half hours on the surface, Eagle's ascent stage blasted off, met Columbia, and the three astronauts headed home. They splashed down in the Pacific on 24 July 1969 and were picked up by the aircraft carrier USS Hornet. Because no one was sure whether the Moon carried germs, they were kept in quarantine for about three weeks. No Moon germs were ever found."
+      ]
+    },
+    {
+      "heading": "Houston, We've Had a Problem",
+      "paragraphs": [
+        "Just four months after Apollo 11, Apollo 12 showed the first landing was no lucky fluke. Less than a minute after launch in November 1969, the Saturn V was struck by lightning twice, knocking out power and sending warning lights flashing. A young flight controller, John Aaron, remembered a strange pattern he had once seen in testing and told the crew to flip an obscure switch called \"SCE to AUX\". It worked, and the mission carried on. Pete Conrad and Alan Bean then made a pinpoint landing in the Ocean of Storms, walking over to Surveyor 3, a robot lander that had arrived two and a half years earlier, and bringing pieces of it home so scientists could study how materials age on the Moon.",
+        "The next mission is famous for not landing at all. Apollo 13 launched on 11 April 1970 with Jim Lovell, Jack Swigert and Fred Haise aboard. About 56 hours into the flight, more than 300,000 kilometres from Earth, the crew heard a loud bang. One of the two oxygen tanks in the service module had exploded, and the other soon began leaking. A damaged wire inside the tank, left over from a mistake during ground testing, had sparked and set fire to the insulation inside.",
+        "Swigert radioed, \"Okay, Houston, we've had a problem here.\" When Houston asked him to repeat, Lovell said, \"Houston, we've had a problem.\" (Films and posters often change this to \"we have a problem\", but those were not the real words.) Those oxygen tanks fed the fuel cells that made the command module's electricity and water, and the oxygen the crew breathed. Within a couple of hours, the command module, Odyssey, was dying.",
+        "The crew's lifeline was the lunar module, Aquarius. It had its own batteries, oxygen and engine, and it was still attached. The astronauts shut down Odyssey to save its batteries for the return to Earth, and crowded into Aquarius, which was built to keep two men alive for about two days, not three men for four. It became a lifeboat. Aquarius's descent engine was fired to put them on a path that swung around the Moon and back towards Earth, and fired again later to speed up the trip.",
+        "Then the air started to go bad. People breathe out carbon dioxide, which must be removed or it becomes dangerous. Aquarius's carbon-dioxide filters, called lithium hydroxide canisters, were filling up. Odyssey had plenty of spare canisters, but they were square, while Aquarius's holders were round. Engineers in Houston gathered exactly the items the astronauts had on board, such as plastic bags, cardboard covers from the flight plan, a spacesuit hose and lots of grey duct tape, and invented a way to fit the square canisters into the round system. They read the instructions up by radio, the crew built the contraption, and it worked.",
+        "To save power, almost everything was turned off. The cabin fell to a few degrees above freezing, water droplets formed on the walls, and the crew got very little sleep. Haise came down with a fever. Near Earth, they let go of the damaged service module and saw for the first time that a whole side panel had been blown off. Then they powered up the cold command module, hoping it would wake up, and released Aquarius. On 17 April 1970, Odyssey splashed down safely in the Pacific. It became known as a \"successful failure\": they had not reached the Moon, but teamwork and quick thinking had brought everyone home."
+      ]
+    },
+    {
+      "heading": "Twelve Moonwalkers and a Moon Car",
+      "paragraphs": [
+        "After a careful investigation and a redesign of the oxygen tanks, Apollo flights resumed. Apollo 14, in February 1971, landed in the hilly Fra Mauro region, where Apollo 13 had been meant to go. Its commander was Alan Shepard, the first American in space ten years earlier, who at 47 became the oldest person to walk on the Moon. He also smuggled a golf club head onto the mission and hit two golf balls in the low gravity.",
+        "The last three missions were longer and more scientific. They carried the Lunar Roving Vehicle, an electric Moon car that folded up like a camping chair to fit on the side of the lunar module. It ran on batteries, had wire-mesh tyres because rubber ones could not survive the Moon's heat and cold, and could travel at about the speed of a fast bicycle on Earth. Its range let astronauts explore kilometres from their lander instead of a few hundred metres.",
+        "Apollo 15 (July–August 1971) landed near a long winding valley called Hadley Rille at the foot of the Apennine mountains. Dave Scott and Jim Irwin drove the first rover and found a piece of very old white rock that reporters nicknamed the \"Genesis Rock\", because it came from the Moon's early crust, at least 4 billion years old. Scott also dropped a hammer and a falcon feather side by side to show that, with no air, they hit the ground at the same moment, just as Galileo had predicted. Apollo 16 (April 1972) took John Young and Charlie Duke to the Descartes highlands. Duke left a photo of his family on the ground.",
+        "Apollo 17, in December 1972, was the last. Gene Cernan and Harrison Schmitt, a geologist and the only professional scientist to walk on the Moon, explored a valley called Taurus-Littrow for three long moonwalks, while Ronald Evans orbited above. When a rover fender broke off and dust sprayed everywhere, they fixed it by taping together spare maps. Schmitt found surprising orange soil, which turned out to be made of tiny glass beads from ancient volcanic fountains. On the way to the Moon, the crew took one of the most famous photographs ever, the \"Blue Marble\", showing the whole round Earth lit by the Sun.",
+        "On 14 December 1972, Cernan was the last to climb back into the lander. Before he did, he said that they were leaving as they came and, God willing, would return, \"with peace and hope for all mankind\". He traced his daughter's initials in the dust. Nobody has stood on the Moon since.",
+        "Altogether, twelve men walked on the Moon: Neil Armstrong, Buzz Aldrin, Pete Conrad, Alan Bean, Alan Shepard, Edgar Mitchell, Dave Scott, Jim Irwin, John Young, Charlie Duke, Gene Cernan and Harrison Schmitt. They brought back about 382 kilograms (842 pounds) of rocks, pebbles, soil and core samples, split into more than 2,000 separate samples. Scientists around the world are still studying them; some sealed samples were opened for the first time only in the 2020s using modern instruments. These rocks helped show that the Moon probably formed from debris after a huge collision between the young Earth and a Mars-sized body, an idea known as the giant-impact hypothesis.",
+        "The Moon landings are among the best-proven events in history. The rocks are unlike anything found on Earth, the laser mirrors are still used, spacecraft orbiting the Moon have photographed the landing sites with their rovers and footpaths, and the Soviet Union, America's rival, tracked the missions itself and never disputed them."
+      ]
+    },
+    {
+      "heading": "Meanwhile in the Soviet Union",
+      "paragraphs": [
+        "What happened to the Soviet Moon program? The USSR had secretly been trying to land a cosmonaut too. Its Moon rocket was the N1, a giant cone about 105 metres tall. Because the Soviets had not built engines as big as the F-1, its first stage used 30 smaller engines working together. Controlling so many engines at once was extremely hard, and there was little money or time for full ground tests of the whole first stage. Sergei Korolev, the Chief Designer, had died in 1966, and his successor, Vasily Mishin, struggled with delays and disagreements between designers.",
+        "The N1 was launched four times, without a crew, and failed all four times: in February 1969, July 1969, June 1971 and November 1972. The second launch, on 3 July 1969, only two weeks before Apollo 11, fell back onto its launch pad and exploded, wrecking the pad. It is often described as one of the biggest non-nuclear explosions ever caused by people. The Soviet government kept the failures secret, and the Moon-landing program was cancelled in 1974. For many years the Soviets said they had never been racing to land people on the Moon at all.",
+        "Instead, the Soviet Union sent clever robots. While Armstrong and Aldrin were on the Moon, a Soviet probe called Luna 15 was orbiting nearby, trying to grab a soil sample before the Americans got home. It crashed into the Moon on 21 July 1969. But in September 1970, Luna 16 landed in the Sea of Fertility, drilled into the ground, and sent back about 100 grams of soil in a small capsule, the first time a robot had brought samples back from another world. Two more Luna missions returned samples later.",
+        "In November 1970, Luna 17 delivered Lunokhod 1, the first remote-controlled rover to drive on another world. It looked like a bathtub on eight wheels with a lid that opened like a clam to expose solar panels. A team of drivers on Earth steered it using television pictures that arrived several seconds late. Lunokhod 1 worked for about ten months and travelled about 10 kilometres, sending back thousands of pictures and testing the soil. Today its laser reflector is still used by scientists, just like the ones left by Apollo.",
+        "So by the end of 1972 both rivals had reached the Moon in very different ways: one with twelve human explorers, the other with skilful robots. Yet after Apollo 17, the giant Saturn Vs were retired. The final one launched in 1973 carrying not astronauts to the Moon but America's first space station. That raised the big question every space fan was asking: after the Moon, what next? The answer would be a home in orbit, and a spaceship that could fly again and again."
+      ]
+    }
+  ],
+  "deepDive": "Historians and engineers still argue about how close Apollo 11 came to an abort. The 1202 and 1201 alarms were 'executive overflow' warnings: the Apollo Guidance Computer's real-time scheduler had run out of slots for new jobs. A major contributor was the rendezvous radar, whose electronics, because of a power-supply mismatch, sent a stream of unneeded interrupts, eating roughly 13 percent of the computer's time during descent, when the landing job already needed most of the rest. Because the software, written by Margaret Hamilton's team at MIT under a design approach later called priority scheduling, restarted and kept only the high-priority tasks (guidance, engine control, displays), the landing could continue. Had the alarms come continuously, the computer could have stopped updating the guidance, and the controllers' rule was to abort in that case. Fuel is the other debate. At touchdown the crew believed about 20 to 25 seconds of hover time remained before the 'bingo' call, when they would have had to land within 20 seconds or abort. Later analysis showed propellant sloshing had triggered the low-level sensor early, so the real margin was larger, perhaps closer to 50 seconds; the Science Museum notes that when Armstrong asked about fuel late in the descent, Aldrin answered 'eight percent'. Apollo 13 is a case study in engineering failure chains: a thermostat switch rated for 28 volts was never upgraded when the ground power supply changed to 65 volts, and a long heating procedure after a ground-test fault welded it shut, cooking the wire insulation. On the Soviet side, the N1's failures are often blamed on its 30-engine first stage, controlled by a system called KORD that could shut down engines in opposing pairs; without full static firing tests of the stage, problems such as vibration, pipe ruptures and fires were discovered only in flight. Apollo's cost, about 25 billion dollars at the time (well over 200 billion in today's money), remains part of the debate about whether its achievements, and its 382 kilograms of samples, justified the expense.",
+  "funFact": "Because there is no wind on the Moon, the footprints left by the Apollo astronauts could last for millions of years, slowly worn down only by tiny meteorite impacts.",
+  "check": {
+    "q": "During Apollo 13, which spacecraft did the astronauts use as a 'lifeboat' after the oxygen tank exploded?",
+    "a": "The lunar module Aquarius",
+    "wrong": [
+      "The Saturn V's third stage",
+      "A Soviet Soyuz capsule",
+      "The command module Columbia"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Moon Landing 1969",
+      "publisher": "History.com",
+      "url": "https://www.history.com/articles/moon-landing-1969"
+    },
+    {
+      "title": "Apollo 11 Moon landing: the most difficult moments",
+      "publisher": "Science Museum (London)",
+      "url": "https://blog.sciencemuseum.org.uk/apollo-11-moon-landing-the-most-difficult-moments/"
+    },
+    {
+      "title": "Apollo 13",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/explore/stories/apollo-missions/apollo-13"
+    },
+    {
+      "title": "Apollo 17",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/explore/stories/apollo-missions/apollo-17"
+    },
+    {
+      "title": "The Apollo Missions",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/explore/stories/apollo-missions"
+    },
+    {
+      "title": "Scene at MIT: Margaret Hamilton's Apollo code",
+      "publisher": "MIT News",
+      "url": "https://news.mit.edu/2016/scene-at-mit-margaret-hamilton-apollo-code-0817"
+    },
+    {
+      "title": "N1 Moon rocket",
+      "publisher": "RussianSpaceWeb (Anatoly Zak)",
+      "url": "https://www.russianspaceweb.com/n1.html"
+    },
+    {
+      "title": "Apollo 11",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Apollo_11"
+    }
+  ],
+  "pics": [
+    {
+      "want": "Photograph of Buzz Aldrin standing on the Moon in his spacesuit during Apollo 11, with the lunar module Eagle reflected in his visor",
+      "search": "Aldrin Apollo 11 visor moon"
+    },
+    {
+      "want": "The Saturn V rocket of Apollo 11 lifting off from Launch Complex 39A in July 1969",
+      "search": "Apollo 11 Saturn V launch"
+    },
+    {
+      "want": "Photograph of the Lunar Roving Vehicle with an astronaut on the Moon during Apollo 15",
+      "search": "Apollo 15 Lunar Roving Vehicle Irwin"
+    }
+  ]
+}

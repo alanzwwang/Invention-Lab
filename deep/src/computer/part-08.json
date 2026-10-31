@@ -1,0 +1,153 @@
+{
+  "n": 8,
+  "title": "Clicking Relays and Glowing Tubes",
+  "when": "1936 – 1944",
+  "summary": "In a Berlin living room, on a New Jersey kitchen table, in an Iowa basement and at Harvard, inventors built the first machines that could calculate all by themselves. Some used clicking relay switches and some used glowing glass tubes. Each one was 'first' at something different.",
+  "sections": [
+    {
+      "heading": "Click or Glow: Two Kinds of Switch",
+      "paragraphs": [
+        "In Part 7 we saw two big ideas arrive almost at once. Alan Turing showed that a simple machine following rules could, in principle, do any calculation that can be done at all. Claude Shannon showed that logic, the AND, OR and NOT of George Boole, could be built from electrical switches. But ideas are not machines. Somebody still had to take real wire, metal and glass and build a calculator that worked by itself, step by step, without a person turning a crank. In the late 1930s and early 1940s, in several countries and mostly without knowing about each other, a handful of inventors did exactly that.",
+        "Almost all of them built their machines from one of two kinds of on/off switch. Before we meet the inventors, let's look inside both, because the choice between them shaped everything that followed.",
+        "The first kind is the relay. Imagine a small coil of copper wire wrapped around an iron core. When an electric current flows through the coil, it becomes a magnet, an electromagnet. Near it sits a little hinged strip of iron called the armature, held back by a spring. Switch on the current and the magnet pulls the armature towards it with a sharp click; the armature pushes a pair of metal contacts together, and a second, separate circuit is completed. Switch off the current, the magnet lets go, the spring snaps the armature back and the second circuit is broken. So a relay is a switch flipped by electricity instead of by a finger. Because one circuit controls another, the output of one relay can flip the next one, and the next, in long chains.",
+        "Relays had been around since the age of the telegraph in the 1830s and 1840s, when they were used to boost weak signals over long wires. By the 1930s, telephone exchanges contained enormous numbers of them, connecting callers automatically. That made relays cheap, well understood and easy to buy, or even to find in a scrap bin. Their weakness is that they move. An ordinary relay needs a few thousandths of a second (milliseconds) to click from one position to the other. That sounds fast, but if a calculation needs millions of switchings, those milliseconds add up to hours. Moving contacts also wear out, spark and sometimes get dirty.",
+        "The second kind of switch is the vacuum tube, which the British usually call a valve. It looks a bit like a small light bulb: a glass tube with almost all the air pumped out. Inside is a metal part called the cathode, heated until it glows. A hot cathode gives off a cloud of tiny charged particles called electrons. A metal plate, the anode, is given a positive voltage so that it attracts the electrons, and current flows across the empty space. The first such tube, the diode, was invented by the English engineer John Ambrose Fleming in 1904.",
+        "A few years later, around 1906 to 1907, the American inventor Lee de Forest added a third part: a fine wire mesh called the grid, placed between the cathode and the anode. His three-part tube, the triode, was known as the Audion. Put a small negative voltage on the grid and it pushes the electrons back, so the current stops. Remove it and the current flows again. A tiny signal on the grid can therefore turn a big current on or off. Tubes were first used to amplify sounds in radios and telephones, but they also make superb switches, because nothing inside them moves except electrons. A tube can switch in about a millionth of a second, thousands of times faster than any relay.",
+        "Tubes had their own problems. Each one needs a glowing heater, so they use lots of electricity and give off lots of heat. Heaters burn out, just like old light bulbs, so a machine with thousands of tubes could suffer frequent failures. In the 1930s, many engineers believed that a machine with thousands of tubes would simply break down too often to be useful. So the early computer builders faced a choice: slow but familiar relays, or fast but untested tubes. As you will see, they did not all choose the same way."
+      ]
+    },
+    {
+      "heading": "A Computer in the Living Room",
+      "paragraphs": [
+        "Picture a flat in Berlin in 1936. The furniture in the living room has been pushed aside, and the floor is covered with a strange machine of thin metal plates, pins and rods. Friends sit around cutting out more pieces with hand-held fretsaws. The young man in charge is Konrad Zuse, born in Berlin on 22 June 1910, and the flat belongs to his parents.",
+        "Zuse had trained as a civil engineer and worked at the Henschel aircraft company, where engineers had to solve the same kinds of calculations over and over to check that aircraft parts were strong enough. Each calculation meant filling in long forms with mechanical calculators. Zuse thought this was a dreadful waste of human life. He decided to build a machine that would do the whole sequence automatically, and for a time he left his job to concentrate on it.",
+        "Working largely on his own, and apparently without knowing about Babbage's engines or about Turing's paper, Zuse made several excellent decisions. He chose binary, using only 0 and 1, because any switch, whether mechanical or electrical, naturally has two positions. He used what is now called floating-point numbers, a way of storing a number as digits plus a separate 'power of ten' (in his case, power of two) so that the machine could handle both huge and tiny values, much like scientific notation on a calculator. And he separated the parts of the machine into a memory, an arithmetic unit and a control unit that read instructions one at a time.",
+        "His first machine, the Z1, was finished in 1938. It was entirely mechanical: instead of electrical switches, it used about 30,000 metal parts, many of them thin sliding plates, which pushed pins to represent 0s and 1s. Instructions were punched as holes in old 35-millimetre cinema film, a cheap and tough material. The Z1 was an astonishing piece of design, but its sliding plates often jammed, and it rarely worked reliably for long.",
+        "Zuse realised that the arithmetic would be more dependable with electrical switches, so his next machine, the Z2, used telephone relays for its arithmetic unit while keeping the Z1's mechanical memory. A demonstration of the Z2 in 1940 impressed officials of the German aviation research institute (the DVL), and they agreed to help pay for a full relay machine.",
+        "That machine was the Z3, finished in 1941 and demonstrated on 12 May 1941. The Z3 was built from roughly 2,000 to 2,600 relays (different sources count them differently), many of them second-hand. It worked with 22-bit binary floating-point numbers and could store 64 of them. Its clock ticked only about five to ten times per second, and an addition took a little under a second, while a multiplication took about three seconds. Programs were read in from punched film. That was slow by later standards, but the Z3 ran its programs entirely by itself.",
+        "Most historians describe the Z3 as the world's first working programmable, fully automatic digital computer. It did have one big gap: it could repeat a loop of instructions, but it could not choose between different instructions depending on a result, which programmers call a conditional jump. In 1998, the German computer scientist Raúl Rojas showed that, using some clever tricks, the Z3 could in theory imitate a universal Turing machine. Zuse himself never planned it that way, and nobody would have programmed it like that, but it shows how much power was hiding in his design.",
+        "The Z3 was used for calculations about aircraft wing flutter, a dangerous vibration. But it did not survive the war. On 21 December 1943, an Allied bombing raid on Berlin destroyed it. The Z1 was destroyed in another raid a few weeks later. In 1937 Zuse's friend Helmut Schreyer had suggested using vacuum tubes to make the machine far faster; Zuse at first called it a 'crazy idea', and a later request for government money to build an electronic machine was turned down.",
+        "Zuse kept working. His larger Z4 was moved around Germany during the last chaotic months of the war and survived. In 1950 it was rented to ETH Zurich, a university in Switzerland, where it was one of the very few working computers in continental Europe. Between 1943 and 1945 he also designed one of the earliest high-level programming languages, called Plankalkül ('plan calculus'), though it was not published in full until 1972. In 1961 his company, Zuse KG, built a working replica of the Z3, which you can see today at the Deutsches Museum in Munich."
+      ]
+    },
+    {
+      "heading": "Kitchen-Table Relays and a Call from Far Away",
+      "paragraphs": [
+        "Across the Atlantic, at Bell Telephone Laboratories in New York, a mathematician named George Stibitz was given a job in 1937 that involved studying the relays used in telephone switching. Born in 1904 and trained as a mathematical physicist, Stibitz looked at these clicking switches and had the same thought Shannon was writing up at MIT that very year: a relay is either on or off, just like the digits of a binary number. Could relays do arithmetic?",
+        "One weekend in late 1937, he took home a few spare relays from the lab and wired them together on his kitchen table, along with batteries and small lamps. Press the switches to put in two one-digit binary numbers, and the lamps lit up to show their sum. It was a simple binary adder, but it worked. His family nicknamed it the 'Model K', K for kitchen. The Computer History Museum describes it as a demonstration that Boolean logic could be used in the design of computers.",
+        "At first Bell Labs managers were only mildly interested. But the company had a real need: its engineers spent huge amounts of time doing arithmetic with complex numbers, a kind of number used to describe alternating currents in telephone lines. In 1938 Stibitz and the switching engineer Samuel Williams began building a relay machine to do this work. It was completed at the end of 1939, went into regular use in 1940, and was named the Complex Number Calculator, later called the Model I. It used several hundred relays and could multiply two complex numbers in under a minute. Operators typed problems on teletype machines, a kind of electric typewriter used for sending messages, and the answers were typed back.",
+        "Then Stibitz had a bold idea. In September 1940 the American Mathematical Society held a meeting at Dartmouth College in Hanover, New Hampshire, hundreds of kilometres from the machine in New York. Stibitz set up a teletype at Dartmouth and connected it to the calculator over telegraph lines. Mathematicians at the meeting typed in problems, the signals travelled to New York, the relays clicked away, and within about a minute the answers came printing back in Hanover. Among the audience, according to many accounts, was John Mauchly, who would later help design ENIAC (Part 10).",
+        "This was the first time anyone had used a computing machine from far away, in real time. Today you do this constantly, every time your phone asks a distant server for a map, a search result or a video. In 1940 it was a magic trick that showed how computers and communication lines could work together.",
+        "During the war Stibitz and Bell Labs built more relay machines for the military, for jobs such as testing anti-aircraft gun directors. These grew into the Model V of 1946, a fully programmable general-purpose relay computer. By then, though, relays were being overtaken by much faster electronic machines. Stibitz also gave computing one of its most important words: in 1942 he suggested the term 'digital' for machines that work with counted steps."
+      ]
+    },
+    {
+      "heading": "Fast Tubes on the Iowa Prairie",
+      "paragraphs": [
+        "In the American Midwest, John Vincent Atanasoff, born in 1903, was a physics professor at Iowa State College in Ames. His students needed to solve large sets of simultaneous linear equations, groups of equations that all share the same unknowns and must be solved together. With a desk calculator, a set of a few dozen equations could take weeks. Atanasoff had tried adapting existing machines and was frustrated.",
+        "Atanasoff later told a story about how his ideas finally came together. One winter evening in 1937, troubled by the problem, he got into his car and drove for hours, eventually crossing the Mississippi River into Illinois. He stopped at a roadside tavern, ordered a drink, and in the warmth sat thinking. By his own account, several key decisions became clear that night: the machine would be electronic, it would use binary rather than decimal numbers, it would store numbers using capacitors (tiny devices that hold an electric charge), and it would calculate by direct logical steps rather than by counting. We only have his memory of that evening, but the design he described is exactly what he went on to build.",
+        "In 1939 Atanasoff recruited a gifted electrical engineering student, Clifford Berry, and with a small research grant the two of them built a working prototype that autumn. They then built the full machine in the basement of the physics building. Now known as the Atanasoff–Berry Computer, or ABC, it was about the size of a large desk.",
+        "The ABC used about 300 vacuum tubes to do its arithmetic, making it one of the first machines to calculate electronically, with no moving parts in its logic. Its memory was especially clever. It had two rotating drums, each studded with hundreds of small capacitors. A charged capacitor meant 1 and an uncharged one meant 0. Because capacitors slowly leak their charge, the drums turned about once a second, and as each capacitor passed by, its charge was read and refreshed. Each drum held 30 binary numbers. Your computer's main memory, called DRAM, still works on a similar principle of tiny capacitors that must be refreshed many times a second.",
+        "The ABC was designed to solve up to 29 equations at once. It could do about 30 additions or subtractions per second, far faster than a person or a relay machine of the time. Intermediate results were stored by burning tiny marks into paper cards with electric sparks, and this part was its weak point: the card system made occasional errors that limited the size of problems it could reliably solve.",
+        "It is important to be clear about what the ABC was not. It was not programmable; it could solve only one kind of problem, and an operator had to guide it through each step by pressing buttons and swapping cards. So it was not a general-purpose computer. But it proved that vacuum tubes could do binary arithmetic reliably, at a time when many engineers doubted this.",
+        "In June 1941 John Mauchly visited Atanasoff in Iowa, saw the machine and read its description. Then war intervened: in 1942 Atanasoff left for defence work in Washington, and Berry left for a job in California. Nobody patented the ABC, and in 1948 it was taken apart while the two men were away; only a memory drum survived. Decades later, in 1973, a federal judge in a patent case between computer companies ruled that Eckert and Mauchly had not been the first to invent the automatic electronic digital computer, and pointed to Atanasoff's work. A team at Iowa State completed a working replica of the ABC in 1997."
+      ]
+    },
+    {
+      "heading": "Harvard's Brass-and-Glass Giant",
+      "paragraphs": [
+        "Meanwhile, at Harvard University near Boston, a physics graduate student named Howard Aiken was drowning in calculations for his physics research. In 1937 he proposed building a large automatic calculator, and while looking for support he learned that Harvard already owned a set of brass calculating wheels from Charles Babbage's Difference Engine, a fragment given to the university by Babbage's son Henry decades earlier. Aiken read Babbage's writings and came to admire him greatly; he felt he was finishing the work Babbage had started.",
+        "Aiken persuaded IBM, the punched-card company that grew from Herman Hollerith's business (Part 6), to build the machine. IBM approved the project in early 1939, and its engineers at Endicott, New York, including Clair Lake, Francis Hamilton and Benjamin Durfee, did much of the detailed design using standard IBM counting parts. The machine was officially called the IBM Automatic Sequence Controlled Calculator. Everyone came to know it as the Harvard Mark I.",
+        "It was a monster. About 15.5 metres (51 feet) long and about 2.4 metres (8 feet) high, it weighed about 4.3 tonnes (roughly 9,445 pounds) and was made of about 765,000 parts, joined by hundreds of kilometres of wire. A long steel driveshaft running along its base, turned by an electric motor, kept all its mechanical counters moving in step. IBM gave it a gleaming casing of glass and stainless steel. When it ran, it filled the room with a sound that visitors compared to a roomful of knitting needles or typewriters clicking.",
+        "The Mark I was electromechanical: it used relays and electrically driven rotating counter wheels, rather than electronics. Numbers were stored in 72 counters, each holding a number up to 23 decimal digits long. It could do about three additions or subtractions per second; a multiplication took about 6 seconds, and calculating a logarithm or sine took more than a minute. Instructions were read one after another from a long loop of punched paper tape, which is why it was a 'sequence controlled' calculator.",
+        "The Mark I was presented to Harvard on 7 August 1944, and was soon working for the US Navy, calculating mathematical tables. Even before that ceremony, in March 1944, it had begun one of its early jobs: a calculation for John von Neumann for the Manhattan Project, the secret programme to build an atomic bomb. Among its first programmers was a navy officer and mathematician named Grace Hopper, who is credited with writing its long, detailed manual, often called the first computer manual; you will meet her again in Part 15.",
+        "The dedication caused a famous quarrel. Harvard's press announcement gave Aiken the credit and barely mentioned IBM's engineers, which angered IBM's president, Thomas J. Watson. IBM went on to build its own bigger calculator instead. The Mark I kept working until 1959, and pieces of it are now at Harvard, IBM and the Smithsonian."
+      ]
+    },
+    {
+      "heading": "So Which Was the First Computer?",
+      "paragraphs": [
+        "If you search online for 'the first computer', you will find confident answers that disagree with each other. Fans of Zuse say the Z3. Iowa says the ABC. Americans often say ENIAC, and the British may say Colossus or the Manchester Baby, which you will meet in Parts 9 to 11. The honest answer is that there is no single first computer. The word 'computer' covers several different features, and each early machine was first at a different combination of them.",
+        "One useful way to compare them is to ask four questions. Is it digital, working with counted steps rather than smooth quantities? Is it electronic, using tubes, or electromechanical, using relays and moving parts? Is it programmable, able to follow different lists of instructions without being rebuilt? And is it general-purpose, able in principle to tackle any kind of calculation?",
+        "The Z3 of 1941 was digital, binary and automatically programmable, but it was built from relays, so it was slow, and it lacked conditional jumps. The ABC, designed from 1937 and working by 1942, was digital and electronic, but it was not programmable and could do only one kind of job. Stibitz's Complex Number Calculator of 1940 was a reliable relay machine for one specialised task, and it was the first to be used from a distance. The Harvard Mark I of 1944 was programmable by paper tape and could tackle many kinds of problem, but it was electromechanical and, at about three additions a second, so it was still slow.",
+        "Notice how often these inventors worked without knowing about each other. Zuse in wartime Berlin was cut off from American research. Stibitz, Atanasoff and Aiken were all in the United States, but at a telephone company, a farming state college and an old private university, each solving their own problem. Similar ideas appeared in several places at once because the ingredients were ready: cheap relays from the telephone industry, reliable radio tubes, Boole's logic, and a growing pile of calculations that people were tired of doing by hand.",
+        "So when someone asks 'what was the first computer?', a good answer is another question: 'First at what?' Each machine in this part was a real first, and each one taught engineers something. Relays proved that binary logic machines could work. Tubes proved that electronic arithmetic could be fast and reliable. Paper tape and punched film proved that a machine could follow a long sequence of instructions on its own."
+      ]
+    },
+    {
+      "heading": "A Race Against the Clock",
+      "paragraphs": [
+        "By the early 1940s, one lesson was becoming impossible to ignore: speed. The Mark I could do about three additions per second. The Z3 managed a little more than one. Electronic tubes could, in principle, switch thousands of times faster than any relay. The catch was that a really powerful electronic machine would need thousands of tubes, and every tube was a heater that might burn out. Building one would take a huge amount of money, a great deal of nerve, and a very pressing reason.",
+        "That reason was arriving. War had broken out in Europe in September 1939 and was spreading across the world. Armies and navies needed range tables for their guns, designs for new aircraft and, above all, a way to read the enemy's secret messages. Radio let commanders send orders instantly over huge distances, but anyone could listen in, so every important message was scrambled by cipher machines that changed their settings every day. Breaking them by hand might take far too long to be useful; a message about tomorrow's attack is worthless if you read it next week.",
+        "Only machines might be fast enough to crack those codes in time. And in a group of huts at a country house in England, and in an office in Warsaw before that, mathematicians and engineers were already racing to build them."
+      ]
+    }
+  ],
+  "deepDive": "Why did relays come before tubes, when tubes were so much faster? Partly cost and familiarity: telephone companies had made relays cheap, standard and dependable, and they could be bought or salvaged by the thousand. Partly reputation: in the 1930s a radio might contain only a handful of tubes, and engineers reasoned that if each tube failed on average once every few thousand hours, a machine with thousands of them would fail every hour or so. Later builders found that tubes lasted far longer if they were run gently and rarely switched off, but that lesson was learned mainly in the mid-1940s. Speed numbers show what was at stake. A typical relay takes about 5 to 20 milliseconds to switch; a tube circuit can switch in about a microsecond or less. The Z3 ran at roughly 5 to 10 clock steps per second and the Harvard Mark I managed about three additions per second, while the ABC, with its 60-cycle timing, did about 30 additions or subtractions per second and the wartime electronic machines that followed reached thousands. Historians also debate the right yardstick for 'first'. The Z3 is often called the first working programmable, fully automatic digital computer, but its program could not branch on a result; Raúl Rojas showed in 1998 that it could nonetheless simulate a universal machine through elaborate tricks, a result that is mathematically interesting rather than a description of how it was ever used. The ABC is often called the first electronic digital computing device, but it was not programmable. The 1973 ruling in Honeywell v. Sperry Rand invalidated the ENIAC patent partly because of Atanasoff's earlier work, but a court ruling on a patent is a legal judgement, not the final word of historians. The Harvard Mark I, despite being slow and electromechanical, mattered because it showed the world a large, reliable, tape-controlled calculator running day and night for years, and because it trained early programmers such as Grace Hopper. Zuse's work had little influence outside Germany until after the war, which is one reason his achievements were underappreciated in English-language histories for decades. Each machine is a reminder that inventions rarely have one parent: similar ideas appeared in Germany, the United States and Britain almost simultaneously because the same ingredients were available everywhere.",
+  "funFact": "Konrad Zuse's first computer, the Z1, read its programs from holes punched in old 35-millimetre cinema film.",
+  "check": {
+    "q": "Why were vacuum tubes much faster than relays as switches?",
+    "a": "Nothing moves inside a tube except electrons, while a relay has to physically move a metal contact",
+    "wrong": [
+      "Tubes were made of brass instead of iron",
+      "Tubes were filled with water to cool them",
+      "Relays could only count in decimal"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Konrad Zuse",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Konrad_Zuse"
+    },
+    {
+      "title": "Z3 (computer)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Z3_(computer)"
+    },
+    {
+      "title": "Timeline of Computer History: 1937",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/timeline/1937/"
+    },
+    {
+      "title": "Timeline of Computer History: 1941",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/timeline/1941/"
+    },
+    {
+      "title": "George Stibitz",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_Stibitz"
+    },
+    {
+      "title": "Atanasoff–Berry computer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer"
+    },
+    {
+      "title": "Harvard Mark I",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Harvard_Mark_I"
+    },
+    {
+      "title": "Vacuum tube",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vacuum_tube"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The working replica of Konrad Zuse's Z3 relay computer at the Deutsches Museum in Munich",
+      "search": "Zuse Z3 replica Deutsches Museum"
+    },
+    {
+      "want": "Photograph of the Harvard Mark I (IBM ASCC) showing its long glass-and-steel front",
+      "search": "Harvard Mark I computer"
+    },
+    {
+      "want": "Replica of the Atanasoff–Berry Computer with its capacitor memory drum",
+      "search": "Atanasoff Berry Computer replica"
+    }
+  ]
+}

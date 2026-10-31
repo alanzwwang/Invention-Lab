@@ -1,0 +1,158 @@
+{
+  "n": 19,
+  "title": "Maglev and the Trains of Tomorrow",
+  "when": "1934 – the future",
+  "summary": "Some trains have no wheels touching the track at all. Super-strong magnets lift them up and push them along, so they float and zoom like flying trains. In Japan one floating train went 603 km/h, faster than any other train ever!",
+  "sections": [
+    {
+      "heading": "A Train With Nothing Underneath",
+      "paragraphs": [
+        "Imagine standing on a platform at Longyang Road station in Shanghai. A long white train with a pointed nose slides in so quietly that you hear the doors more than the train. You step aboard, sit down, and a screen above the door starts counting up the speed: 100 km/h, 200, 300... Outside, apartment blocks and farm fields smear into stripes of colour. Yet something is missing. There is no clackety-clack of wheels over rail joints, no rumble from below. That is because this train has no wheels touching the track at all. It is floating about a centimetre above its guideway, held up and pushed along by magnets.",
+        "This kind of train is called a maglev, short for 'magnetic levitation'. To levitate means to float in the air without being held up by anything you can see. For about 400 years, from horse-drawn wagons on wooden rails to the TGV's record of 574.8 km/h, every railway in this story worked the same basic way: a wheel rolled along a rail. Maglev throws away the wheel. It is the biggest change to the basic idea of a railway since the very beginning.",
+        "Why would anyone want to get rid of wheels? In Part 18 we saw that steel wheels on steel rails are wonderfully efficient, but at very high speeds they run into trouble. The wheels and rails wear down, the train shakes, the overhead wire and the pantograph must stay in perfect contact, and the grip between a smooth wheel and a smooth rail limits how hard the train can speed up and slow down. Engineers began to dream of a train that never touched the ground. No contact means no wheel wear, no rolling friction and far less vibration. In this part we meet the floating trains, the people who dreamed them up, and the cleaner, smarter railways of tomorrow."
+      ]
+    },
+    {
+      "heading": "How Magnets Can Lift a Train",
+      "paragraphs": [
+        "You already know two big facts about magnets. Opposite poles (north and south) pull towards each other, and matching poles (north and north, or south and south) push each other away. Maglev engineers use exactly these two forces. But there is a catch: the little magnets on your fridge are far too weak, and there is a famous rule in physics, worked out by the British mathematician Samuel Earnshaw in 1842, which shows that you cannot make an object float steadily using fixed, ordinary magnets alone. It will always wobble off to one side and fall or snap into place. So real maglev trains need powerful electromagnets or superconducting magnets, careful electronic control, and a powered guideway. There is no free floating.",
+        "An electromagnet is a coil of wire that becomes a magnet when electricity flows through it. Turn the current up and the magnet gets stronger; turn it down and it gets weaker; switch it off and the magnetism disappears. That on-off, stronger-weaker control is the secret of the first kind of maglev, called electromagnetic suspension, or EMS for short.",
+        "In an EMS train, such as Germany's Transrapid and the Shanghai Maglev, the bottom of the train wraps around the edges of a T-shaped guideway like a hand curling under the edge of a table. Electromagnets on the curled-under part sit beneath a steel rail and pull upwards towards it. This attraction lifts the whole train. Left alone, the magnet would keep pulling until it slammed into the rail, so sensors measure the gap thousands of times every second and a computer adjusts the current to keep the gap steady at about 10 millimetres, roughly the thickness of a pencil. If the gap shrinks, the current drops; if it grows, the current rises. The train is always very slightly falling and being caught again, far too fast for any passenger to feel. A big advantage of EMS is that it works even when the train is standing still.",
+        "The second kind of maglev, used by Japan's SCMaglev, is called electrodynamic suspension, or EDS. It uses pushing rather than pulling, and it relies on a clever trick of nature. When a strong magnet moves quickly past a loop of metal wire, it makes an electric current flow in the loop, and that current turns the loop into a magnet that pushes back. The faster the train moves, the stronger the push. Japan's trains carry superconducting magnets: coils cooled with liquid helium to about minus 269 degrees Celsius, just four degrees above the coldest temperature possible. At that temperature the coils lose all electrical resistance, so a huge current can flow round and round without fading, making magnets far stronger than any ordinary electromagnet.",
+        "Along the walls of the Japanese guideway are rows of figure-of-eight coils. As the train's magnets rush past, currents flow in these coils, pushing the train up and pulling it towards the centre. Once the train passes about 150 km/h, it rises roughly 10 centimetres, the width of your hand, above the guideway. Below that speed the push is not strong enough, so the train rolls on rubber tyres, a bit like an aeroplane taking off from a runway and then folding up its wheels.",
+        "Floating is only half the job. A maglev also has to move forwards. For this, engineers use a linear motor. Picture an ordinary electric motor, the kind that spins inside a fan. Now imagine slicing it open and unrolling it flat, so that instead of a spinning ring of electromagnets you have a long straight line of them. In a maglev, this flattened motor is built into the guideway itself, sometimes for hundreds of kilometres. Electricity is switched through the coils in a carefully timed pattern, creating a travelling wave of magnetism that runs along the track. The magnets on the train are dragged along by this wave, like a surfer riding a wave towards the beach. Make the wave travel faster and the train speeds up; run it backwards and the same motor becomes a powerful brake. Because the motor is in the track, the train itself carries no engine at all."
+      ]
+    },
+    {
+      "heading": "The Dreamers: Kemper and Laithwaite",
+      "paragraphs": [
+        "The idea of a floating train is much older than the trains themselves. One of its first serious champions was Hermann Kemper, a German engineer born in 1892 in the small village of Nortrup in Lower Saxony. Kemper is said to have started thinking about magnetic levitation in the 1920s, at a time when most German trains were still pulled by steam. In 1933 he built a working electrical circuit that could keep an object hovering using electromagnetic attraction, adjusting the magnet to stop it crashing upwards or dropping away. This was the key problem that every later EMS maglev would have to solve.",
+        "On 11 August 1934, Kemper applied for a German patent, a legal document that protects an inventor's idea. Its long German title described a 'suspension railway with wheelless vehicles' floating along iron rails, guided by magnetic fields. The patent was granted and published in 1937. Kemper even imagined vehicles inside tubes with the air pumped out, reaching enormous speeds, an idea that would return decades later. A research job and a test track of about 20 km were planned, but the Second World War stopped the project in 1943. Kemper's ideas lay mostly forgotten until the late 1960s, when German companies began developing the Transrapid on the basis of his concept. He lived to see it: in 1972 he received one of Germany's highest honours, and he died in 1977. Today he is often called the 'father of maglev'.",
+        "In Britain, another engineer approached the problem from a different direction. Eric Laithwaite was born in 1921 in Atherton, Lancashire. After serving in the Royal Air Force during the Second World War, he studied electrical engineering at the University of Manchester. There, in the late 1940s, he became fascinated by the linear induction motor, the 'unrolled' electric motor described in the last section. People had sketched linear motors before, but Laithwaite built full-size working models and spent his career showing what they could do.",
+        "In 1964 Laithwaite became professor of heavy electrical engineering at Imperial College London, and he was a brilliant explainer who gave the Royal Institution Christmas Lectures for young people. In his laboratory he built a 'magnetic river', a strip of coils over which a flat piece of metal floated and was swept along with nothing touching. It looked so magical that it appeared in the James Bond film The Spy Who Loved Me.",
+        "Laithwaite's linear motors were chosen for Britain's Tracked Hovercraft project, a train-like vehicle meant to float on a cushion of air and be pushed along by a linear motor at up to about 400 km/h. A test track was built in Cambridgeshire, but the government cancelled the project in the early 1970s before it could be tested at full speed. Even so, his work on linear motors helped inspire maglev research around the world, and he too is sometimes nicknamed the 'father of maglev'. Fair credit means saying both men matter: Kemper showed how a vehicle could hover on controlled magnets, and Laithwaite showed how a linear motor could push it along."
+      ]
+    },
+    {
+      "heading": "From an Airport Shuttle to Shanghai",
+      "paragraphs": [
+        "The world's first maglev to carry ordinary passengers every day was not a super-fast express. It was a little shuttle at Birmingham Airport in England. Its technology came from experiments at British Rail's research laboratory in Derby, and it was built by a group of British companies for the local council. On 16 August 1984 it opened, running on a raised concrete track about 600 metres long between the airport terminal and Birmingham International railway station.",
+        "The Birmingham maglev was gentle rather than thrilling. Its small, boxy cars floated about 15 millimetres above the track and took roughly 90 seconds for the trip, reaching a top speed of only a few tens of kilometres per hour. For travellers carrying suitcases it was simply a handy, quiet people mover, and many of them probably never realised they were floating. It ran for eleven years. But its electronics were one of a kind, spare parts became hard to find, and breakdowns grew more common. The last service ran on 18 June 1995. In 2003 a cable-pulled shuttle called the Air-Rail Link opened on the same raised track. One of the old maglev cars is now kept at the Locomotion railway museum in Shildon, County Durham, not far from where the Stockton and Darlington Railway began in 1825.",
+        "Meanwhile, Germany was working on something much faster: the Transrapid, an EMS maglev designed to float between cities at hundreds of kilometres per hour. In the early 1980s a test loop more than 30 km long was built in Emsland in north-west Germany, where Transrapid trains ran at over 400 km/h and visitors could buy tickets to ride.",
+        "The Emsland track also brought a tragedy. On 22 September 2006, near the town of Lathen, a Transrapid test train carrying visitors and staff ran into a maintenance vehicle that had been left on the guideway. Twenty-three people died. Investigators found the cause was human error in the safety checks, not a failure of the floating technology itself, but the accident badly hurt public confidence. A planned maglev link to Munich Airport was cancelled in 2008 because its costs had soared, and the Emsland test track closed in 2011. Germany, the country that had invented much of maglev, never built a maglev line of its own for everyday passengers.",
+        "German maglev did find a home, but on the other side of the world. In the early 2000s, China decided to link the city of Shanghai with its new Pudong International Airport using Transrapid technology, made by a partnership of the German companies Siemens and ThyssenKrupp. The line was built on a raised concrete guideway about 30 km long, from Longyang Road station, where passengers can change onto the Shanghai Metro, to the airport.",
+        "On 31 December 2002, the line was inaugurated by the leaders of China and Germany, Premier Zhu Rongji and Chancellor Gerhard Schröder. Regular service followed in 2003, with full commercial service from the start of 2004. It was the first high-speed maglev in the world to carry paying passengers every day, and it remains the only Transrapid line ever built for everyday passengers. It cost roughly 10 billion yuan, more than a billion US dollars at the time.",
+        "For years the Shanghai Maglev was the fastest passenger train in regular service anywhere. It reached 431 km/h on each trip, covering the 30 km in about 7 minutes 20 seconds. A taxi on the same route could easily take half an hour or more in traffic. During a test run on 12 November 2003, a Shanghai maglev train reached 501 km/h. Many passengers photograph the speed display when it shows 431.",
+        "In 2021 the operators lowered the top speed to 300 km/h, reportedly to save energy and wear, so a trip now takes about 8 minutes 10 seconds. That is still astonishingly fast for a ride to the airport. But notice something important. The Shanghai Maglev is a short shuttle between one city station and one airport. It was meant as a showcase, and it was never extended into the long intercity lines its supporters hoped for. To understand why, we need to look at Japan, and then at money."
+      ]
+    },
+    {
+      "heading": "Japan's 603 km/h Flying Train",
+      "paragraphs": [
+        "Just two years before the first Shinkansen opened in 1964, engineers at Japanese National Railways were already dreaming of what might come after it. In 1962 they began researching linear motor trains, with a goal of linking Tokyo and Osaka, more than 500 km apart, in about one hour. Their first successful run on a short track came in 1972. In 1977 they opened a 7 km test track at Miyazaki on the southern island of Kyushu, and later the much longer Yamanashi test line west of Tokyo, whose first 18.4 km section opened in 1997. It was later extended to 42.8 km, much of it in tunnels through the mountains.",
+        "This Japanese system, now called SCMaglev and developed by the railway company JR Central with the Railway Technical Research Institute, uses the superconducting magnets and figure-of-eight coils described earlier. Its trains roll on rubber tyres when starting and stopping, then lift about 10 centimetres into the air once they pass about 150 km/h. Because the gap is so large compared with German maglev, the guideway does not have to be built quite so precisely, and the trains are less affected by small movements caused by earthquakes, a serious concern in Japan.",
+        "The Yamanashi test line has seen a series of world records. In December 2003 a test train called the MLX01 reached 581 km/h. Then, on 21 April 2015, a seven-car L0 Series train carrying engineers reached 603 km/h, which is 375 mph. That is the fastest speed ever reached by any train, with or without wheels. At that speed you would travel the length of a football pitch in well under a second. It also beat the French TGV's wheel-on-rail record of 574.8 km/h from 2007, though remember that the TGV record was set on ordinary steel rails.",
+        "The L0 Series is meant for a real railway: the Chūō Shinkansen, a new line between Tokyo and Osaka. Its first section, from Shinagawa in Tokyo to Nagoya, is about 286 km long, and roughly nine-tenths of it will be in tunnels, including a long tunnel deep under the Southern Japanese Alps. Trains are planned to run at up to 505 km/h, cutting the Tokyo to Nagoya trip to about 40 minutes and Tokyo to Osaka to about 67 minutes. Construction began on 17 December 2014.",
+        "JR Central hoped to open the Nagoya section in 2027. Then came a problem that had nothing to do with magnets. Shizuoka Prefecture, under which the tunnel passes, worried that digging could drain water from the Ōi River that its farms and towns depend on, and in 2020 it refused permission to start tunnelling there. The opening is now expected no earlier than the mid-2030s, and the cost has grown to more than 9 trillion yen. Even a futuristic railway still has to be agreed to by real communities."
+      ]
+    },
+    {
+      "heading": "Why Maglev Is Still So Rare",
+      "paragraphs": [
+        "If maglev is so fast and smooth, why are there only a handful of maglev lines in the world? The answer comes down to a few stubborn problems.",
+        "The first is cost. A maglev guideway is not a pair of rails on sleepers and gravel. It is a precisely built concrete or steel beam packed with electromagnets, coils, sensors and power equipment, and for a high-speed line it must be almost perfectly straight and smooth, usually raised on pillars or hidden in tunnels. The motor, remember, is in the track, so every kilometre of guideway is part of a giant machine. Building costs have often been tens of millions of US dollars per kilometre, and big projects tend to grow far more expensive than first planned, as Munich and the Chūō Shinkansen both showed.",
+        "The second problem is that maglev cannot join the existing railway network. A Shinkansen train can, at least in principle, use the same kind of steel rails as a slower train, and in France a TGV can leave its high-speed line and run on old tracks into the heart of Paris. A maglev train cannot run on any ordinary track at all, and an ordinary train cannot use a maglev guideway. Every station, depot and branch must be built new. Switching a maglev from one guideway to another is also harder: instead of moving a short piece of rail at the points, engineers must bend or slide a whole heavy section of guideway beam.",
+        "The third problem is that floating does not remove the biggest force at high speed. Above about 300 km/h, most of the energy a fast train uses goes into pushing air out of the way, not into fighting friction at the wheels. Air resistance grows very quickly as speed rises, so a maglev at 500 km/h needs a lot more power than a bullet train at 300 km/h.",
+        "Meanwhile, ordinary high-speed rail kept getting better. Steel wheels on steel rails proved perfectly happy at 300 to 350 km/h, fast enough to beat planes on many trips. For most countries, extending a proven wheel-on-rail network has been a safer bet than building a separate maglev system. Maglev works and holds the speed record; it is just very hard to make it worth the money."
+      ]
+    },
+    {
+      "heading": "Hype Versus Reality: The Hyperloop",
+      "paragraphs": [
+        "Dreams of racing through tubes are old. Around 1800 the English inventor George Medhurst suggested moving goods by air pressure through pipes, and in the early 1900s the rocket pioneer Robert Goddard and others sketched 'vactrains' in tubes with the air pumped out. Hermann Kemper imagined something similar in the 1930s.",
+        "On 12 August 2013, the businessman Elon Musk published a paper describing his own version, which he called the Hyperloop. Passengers would ride in small pods inside a long steel tube with most of the air removed, so there would be very little air resistance. The paper suggested pods could reach about 1,200 km/h and link Los Angeles and San Francisco in about half an hour, and claimed it could be built far more cheaply than California's planned high-speed railway. Musk did not build it himself; he invited others to try.",
+        "Many did. The best funded was a company founded in 2014 that became known as Hyperloop One, and for a few years Virgin Hyperloop, after Richard Branson's Virgin Group invested. It raised hundreds of millions of dollars and built a 500-metre test tube called DevLoop in the Nevada desert near Las Vegas. On 8 November 2020, two of its employees became the first people to ride in a hyperloop pod, reaching 172 km/h. That is fast for a 500-metre track, but slower than an ordinary regional train.",
+        "Then reality caught up. Engineers and transport experts had warned from the start that the cost estimates were far too low. Building hundreds of kilometres of perfectly straight, airtight tube is enormously expensive. Keeping a near-vacuum along the whole route takes powerful pumps. And there were hard safety questions: what happens if a tube cracks, the power fails, or passengers need to get out halfway along? In February 2022 the company gave up on carrying passengers and turned to freight, cutting about half its staff. It shut down completely on 31 December 2023. Several other hyperloop companies have also closed.",
+        "The honest answer today: no passenger hyperloop has ever entered service anywhere. It is a good lesson for young inventors. An exciting video is the easy part; making something safe, affordable and reliable enough for millions of people to trust every day is the real invention."
+      ]
+    },
+    {
+      "heading": "Cleaner, Smarter Trains for a Warming Planet",
+      "paragraphs": [
+        "The trains of tomorrow will not only be about speed. Burning coal, oil and gas releases carbon dioxide, a gas that traps heat and is warming the planet, and here trains have a huge advantage. Using UK government figures, the research website Our World in Data estimates that a national rail journey in Britain produces around 35 grams of carbon dioxide (and similar gases) per passenger per kilometre, compared with about 170 grams for an average petrol car and 246 for a domestic flight. The electric Eurostar comes to only about 4 grams. Exact numbers depend on how full the train is and how the electricity is made, but per passenger an electric train is almost always far cleaner than a car or a plane.",
+        "The biggest step is electrification: putting up overhead wires or third rails so trains can run on electricity, which can come from wind, solar, hydro or nuclear power. Around a third of the world's railway route length is electrified. Some countries have gone much further: India has electrified almost its entire broad-gauge network, while China has electrified most of its main lines. Electric trains have another trick called regenerative braking. When the driver brakes, the traction motors work backwards as generators, turning the train's movement back into electricity and feeding it into the wires for other trains to use.",
+        "Stringing wires over quiet country lines can cost too much, so engineers are trying other ideas. Battery trains charge up under the wires and then run on their batteries for the unwired stretch; Japan began running one, the EV-E301, in 2014. Hydrogen trains carry hydrogen gas and use a fuel cell, a device that combines hydrogen with oxygen from the air to make electricity, with water as the only exhaust. On 16 September 2018, the world's first hydrogen-powered passenger trains, the Alstom Coradia iLint, entered service in Lower Saxony in northern Germany, on the line linking Buxtehude, Bremervörde, Bremerhaven and Cuxhaven. They can travel about 600 to 800 km on a tank and reach 140 km/h. Hydrogen is still expensive to make cleanly, so in some places battery trains are proving the cheaper choice. Railways are testing both to see which wins.",
+        "Trains are also getting smarter. The world's first driverless urban railway, the Port Liner in Kobe, Japan, opened on 5 February 1981, followed by Lille's VAL metro in France in 1983. Today many metros, from Copenhagen to Vancouver and Delhi, run with no driver on board at all, letting trains run closer together and more often.",
+        "Signalling is changing too. In the old block system from Part 14, a train had to wait until a whole fixed section ahead was empty. Modern systems, such as Europe's ETCS, talk to trains by radio and tell the driver or computer exactly how far it is safe to go; some use a 'moving block', a safe bubble of space that travels with each train. More trains can then share the same tracks safely.",
+        "Look back down the long line of track and see how far we have come: from horses plodding along wooden rails at Wollaton, to Trevithick's puffing engine creeping through Wales at about 5 mph, to trains that float on magnets at 603 km/h and others that run on sunshine, wind and water. Each step built on the one before it. Now it is time for the final stop, where we stand back, look at the whole journey, and ask what comes next."
+      ]
+    }
+  ],
+  "deepDive": "Why does a maglev need clever electronics or supercooled magnets? Earnshaw's theorem (1842) shows that no arrangement of fixed magnets and charges can hold an object in stable balance in all directions. Engineers get round it in two ways. Electromagnetic suspension (EMS), used by Transrapid and the Shanghai line, uses attraction, which is naturally unstable: the closer the magnet gets to the rail, the harder it pulls. So a feedback loop measures the roughly 10 mm gap thousands of times a second and adjusts the current, much like you balancing a broom on your hand. Electrodynamic suspension (EDS), used by Japan's SCMaglev, relies on Faraday's law of induction: moving magnets induce currents in passive coils in the guideway, and by Lenz's law those currents oppose the motion that created them, producing lift and centring forces. Because the effect depends on speed, EDS needs wheels below about 150 km/h, and it also creates magnetic drag that is largest at low speed. Its niobium-titanium superconducting coils must be kept near 4 kelvin (about minus 269 degrees Celsius) with liquid helium; researchers have tested 'high-temperature' superconductors that can be cooled more cheaply. The energy debate is subtle. Maglev removes rolling resistance and wheel wear, but at high speed aerodynamic drag dominates. Drag force rises with the square of speed, and the power needed to overcome it rises roughly with the cube, so going from 300 to 500 km/h needs about 4.6 times as much power just for the air. Supporters answer that maglev can still use less energy per passenger than a plane over the same distance, and that its very fast trips could replace many short flights, as the Chūō Shinkansen hopes to do between Tokyo and Osaka. Critics point to huge construction costs, tunnels and incompatibility with existing networks, and argue the same money buys far more ordinary rail. Hyperloop tried to defeat air drag by removing the air, but historians of technology note a familiar pattern: bold promises, low early cost estimates and attractive videos, followed by the hard engineering of vacuum seals, thermal expansion of steel tubes, emergency exits and passenger comfort. Hyperloop One shut down in 2023, and no passenger hyperloop has ever operated. For now, the most powerful 'technology of tomorrow' for railways may be the least glamorous: electrification, better signalling and running more trains on tracks that already exist.",
+  "funFact": "In 2010 one of the retired cars from Birmingham's 1984 airport maglev was sold on eBay, and after the first buyer failed to pay it was resold for just 100 pounds.",
+  "check": {
+    "q": "What speed did Japan's L0 Series SCMaglev reach on 21 April 2015, the fastest any train has ever gone?",
+    "a": "603 km/h (375 mph)",
+    "wrong": [
+      "431 km/h (268 mph)",
+      "574.8 km/h (357 mph)",
+      "1,200 km/h (760 mph)"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Maglev",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maglev"
+    },
+    {
+      "title": "Hermann Kemper",
+      "publisher": "Wikipedia (German)",
+      "url": "https://de.wikipedia.org/wiki/Hermann_Kemper"
+    },
+    {
+      "title": "Birmingham Maglev",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Birmingham_Maglev"
+    },
+    {
+      "title": "Shanghai maglev train",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shanghai_maglev_train"
+    },
+    {
+      "title": "SCMaglev",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/SCMaglev"
+    },
+    {
+      "title": "Chūō Shinkansen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chūō_Shinkansen"
+    },
+    {
+      "title": "Hyperloop One",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hyperloop_One"
+    },
+    {
+      "title": "Which form of transport has the smallest carbon footprint?",
+      "publisher": "Our World in Data",
+      "url": "https://ourworldindata.org/travel-carbon-footprint"
+    }
+  ],
+  "pics": [
+    {
+      "want": "The white Shanghai Maglev train on its raised concrete guideway near Pudong Airport",
+      "search": "Shanghai Maglev train guideway"
+    },
+    {
+      "want": "Japan's L0 Series SCMaglev train with its very long pointed nose on the Yamanashi test line",
+      "search": "L0 Series SCMaglev Yamanashi"
+    },
+    {
+      "want": "A preserved car of the 1984 Birmingham Airport maglev shuttle",
+      "search": "Birmingham Maglev car"
+    }
+  ]
+}
