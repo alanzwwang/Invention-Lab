@@ -120,12 +120,13 @@ function chipLinks(ids, label) {
     .map((id) => `<button class="chip small" data-open="${id}">${BY_ID[id].emoji} ${esc(BY_ID[id].name)}</button>`)
     .join("")}</div></div>`;
 }
-function cardHtml(inv, isNew) {
+function cardHtml(inv) {
   const lv = state.level;
   const facts = inv.facts.slice(0, LEVEL_FACTS[lv]);
   return `
-    <div class="spot-photo">${photoHtml(inv)}${isNew ? '<span class="new-stamp">NEW IN YOUR NOTEBOOK!</span>' : ""}</div>
+    <div class="spot-photo">${photoHtml(inv)}</div>
     <div class="spot-body">
+      <div class="discover" data-discover></div>
       <h3>${inv.emoji} ${esc(inv.name)}</h3>
       <p class="who">${esc(inv.who)}</p>
       <div class="spot-meta">
@@ -144,9 +145,46 @@ function cardHtml(inv, isNew) {
       ${chipLinks(inv.ledTo, "➡️ Led to")}
     </div>`;
 }
+/* Discovering an invention takes 5 minutes on that one invention (no more spamming "Another one"!).
+   Time only counts while the page is visible; switching to a different invention starts over. */
+const DISCOVER_MS = 5 * 60 * 1000;
+let disc = { id: null, el: null, ms: 0, last: 0, timer: 0 };
+function discoverBar(el, id) {
+  const box = el.querySelector("[data-discover]");
+  if (!box) return;
+  if (state.seen.includes(id)) { box.className = "discover done"; box.innerHTML = "✅ In your notebook"; return; }
+  if (disc.id !== id) { box.className = "discover"; box.innerHTML = "🔍 Stay on this invention for 5 minutes to discover it"; return; }
+  const left = Math.max(0, Math.ceil((DISCOVER_MS - disc.ms) / 1000));
+  box.className = "discover";
+  box.innerHTML = `🔍 Discovering… stay for <b>${Math.floor(left / 60)}:${String(left % 60).padStart(2, "0")}</b> more
+    <span class="disc-bar"><i style="width:${Math.min(100, (disc.ms / DISCOVER_MS) * 100).toFixed(1)}%"></i></span>`;
+}
+function startDiscover(el, id) {
+  clearInterval(disc.timer);
+  disc = { id, el, ms: 0, last: Date.now(), timer: 0 };
+  if (!state.seen.includes(id)) disc.timer = setInterval(tickDiscover, 1000);
+  discoverBar(el, id);
+}
+function tickDiscover() {
+  const now = Date.now();
+  if (!document.hidden) disc.ms += Math.min(now - disc.last, 2000); // a sleeping/hidden tab doesn't count
+  disc.last = now;
+  if (!disc.el || !disc.el.isConnected) return;
+  if (disc.ms >= DISCOVER_MS) {
+    clearInterval(disc.timer);
+    if (markSeen(disc.id)) {
+      const photo = disc.el.querySelector(".spot-photo");
+      if (photo) photo.insertAdjacentHTML("beforeend", '<span class="new-stamp">NEW IN YOUR NOTEBOOK!</span>');
+      toast(`📓 Discovered: ${BY_ID[disc.id].emoji} ${BY_ID[disc.id].name}!`);
+    }
+  }
+  discoverBar(disc.el, disc.id);
+}
+// track = false means "just redraw" (e.g. reading level changed): the timer keeps going
 function renderInto(el, inv, track = true) {
-  const isNew = track ? markSeen(inv.id) : false;
-  el.innerHTML = cardHtml(inv, isNew);
+  el.innerHTML = cardHtml(inv);
+  if (track) startDiscover(el, inv.id);
+  else discoverBar(el, inv.id);
 }
 
 let spotId = null;
@@ -179,6 +217,8 @@ function openModal(id) {
   m.scrollTop = 0;
 }
 $("#modalX").addEventListener("click", () => $("#modal").close());
+// closing the pop-up goes back to the spotlight invention, which starts its own 5 minutes
+$("#modal").addEventListener("close", () => { modalId = null; if (spotId) startDiscover($("#spotCard"), spotId); });
 document.querySelectorAll("dialog").forEach((d) => d.addEventListener("click", (e) => { if (e.target === d) d.close(); }));
 document.querySelectorAll("[data-close]").forEach((b) => b.addEventListener("click", () => b.closest("dialog").close()));
 document.addEventListener("click", (e) => {
@@ -418,13 +458,13 @@ function chainGame() {
 
 /* ---------- 8. NOTEBOOK + BADGES ---------- */
 const BADGES = [
-  { id: "spark", ic: "✨", name: "First Spark", desc: "Open your first invention", test: () => state.seen.length >= 1 },
+  { id: "spark", ic: "✨", name: "First Spark", desc: "Discover your first invention", test: () => state.seen.length >= 1 },
   { id: "c10", ic: "📓", name: "Collector", desc: "Discover 10 inventions", test: () => state.seen.length >= 10 },
   { id: "c25", ic: "🔧", name: "Tinkerer", desc: "Discover 25 inventions", test: () => state.seen.length >= 25 },
   { id: "c50", ic: "⚙️", name: "Engineer", desc: "Discover 50 inventions", test: () => state.seen.length >= 50 },
   { id: "c100", ic: "🏛️", name: "Historian", desc: "Discover 100 inventions", test: () => state.seen.length >= 100 },
   { id: "call", ic: "👑", name: "Grand Inventor", desc: "Discover every invention", test: () => ALL.length && state.seen.length >= ALL.length },
-  { id: "cats", ic: "🧩", name: "All-Rounder", desc: "Open one from every category", test: () => CATS.every((c) => state.seen.some((id) => BY_ID[id] && BY_ID[id].category === c)) },
+  { id: "cats", ic: "🧩", name: "All-Rounder", desc: "Discover one from every category", test: () => CATS.every((c) => state.seen.some((id) => BY_ID[id] && BY_ID[id].category === c)) },
   { id: "levels", ic: "🎓", name: "Deep Diver", desc: "Read at all 3 levels", test: () => ["kid", "explorer", "expert"].every((l) => state.levelsRead.includes(l)) },
   { id: "first10", ic: "⚔️", name: "Time Judge", desc: "Get a 10 streak in Which Came First?", test: () => state.firstBest >= 10 },
   { id: "sort", ic: "⏳", name: "Time Traveler", desc: "A perfect Time Machine round", test: () => state.sortPerfect >= 1 },
@@ -452,7 +492,7 @@ function refreshNotebook() {
   $("#nbText").textContent = `${n} / ${ALL.length}`;
   $("#nbGrid").innerHTML = ALL.map((x) => {
     const seen = state.seen.includes(x.id);
-    return `<button class="nb-cell${seen ? " seen" : ""}" data-open="${x.id}" title="${seen ? esc(x.name) : "Not discovered yet — tap to discover!"}"><span>${x.emoji}</span></button>`;
+    return `<button class="nb-cell${seen ? " seen" : ""}" data-open="${x.id}" title="${seen ? esc(x.name) : "Not discovered yet — tap it, then stay 5 minutes to discover it!"}"><span>${x.emoji}</span></button>`;
   }).join("");
 }
 function refreshStats() {

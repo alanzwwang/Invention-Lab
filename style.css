@@ -271,3 +271,10 @@ h3 { font-family: var(--font-name); font-weight: 700; font-size: 1.45rem; margin
   html { scroll-behavior: auto; }
   .toast, .bar i, .tl-item, .pick { transition: none; }
 }
+
+/* 5-minute discovery progress on each invention card */
+.discover { font: 600 0.85rem var(--font-mono); color: var(--text-dim); margin-bottom: 0.6rem; display: flex; flex-wrap: wrap; align-items: center; gap: 0.4rem 0.6rem; }
+.discover b { color: var(--accent, #ffb84d); }
+.discover.done { color: var(--good, #4ade80); }
+.disc-bar { flex: 1 1 120px; max-width: 220px; height: 6px; border-radius: 999px; background: rgba(255, 255, 255, 0.12); overflow: hidden; }
+.disc-bar i { display: block; height: 100%; background: var(--accent, #ffb84d); border-radius: inherit; transition: width 1s linear; }

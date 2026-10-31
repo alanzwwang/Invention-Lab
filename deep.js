@@ -139,7 +139,8 @@ function figure(ph) {
     <figcaption>${esc(ph.alt)} · <a href="${esc(ph.url)}" target="_blank" rel="noopener">${esc(ph.author || "Wikimedia Commons")}</a>, ${esc(ph.license)}</figcaption></figure>`;
 }
 
-let endObserver = null;
+const READ_MS = 5 * 60 * 1000;
+let endObserver = null, readTimer = 0, clock = { key: "", ms: 0 };
 function renderChapter(st, n) {
   const i = st.parts.findIndex((p) => p.n === n);
   if (i < 0) { location.hash = `#/${st.slug}`; return; }
@@ -196,10 +197,32 @@ function renderChapter(st, n) {
     });
   }
 
-  // reaching the end of the chapter marks it as read
+  // a chapter counts as read once you reach the end AND have spent 5 minutes on it (visible time only)
   if (endObserver) endObserver.disconnect();
+  clearInterval(readTimer);
+  if (isRead(st.slug, n)) return;
+  // the clock remembers this chapter, so changing the reading level doesn't restart it
+  if (clock.key !== st.slug + "/" + n) clock = { key: st.slug + "/" + n, ms: 0 };
+  let last = Date.now(), atEnd = false, warned = false;
+  const tryFinish = () => {
+    if (!atEnd || clock.ms < READ_MS) return;
+    clearInterval(readTimer); endObserver.disconnect(); markRead(st, n);
+  };
+  readTimer = setInterval(() => {
+    const now = Date.now();
+    if (!document.hidden) clock.ms += Math.min(now - last, 2000);
+    last = now;
+    tryFinish();
+  }, 1000);
   endObserver = new IntersectionObserver((es) => {
-    if (es.some((e) => e.isIntersecting)) { markRead(st, n); endObserver.disconnect(); }
+    if (!es.some((e) => e.isIntersecting)) return;
+    atEnd = true;
+    if (clock.ms < READ_MS && !warned) {
+      warned = true;
+      const left = Math.ceil((READ_MS - clock.ms) / 60000);
+      toast(`⏳ Speedy! A chapter counts as read after 5 minutes on it (about ${left} min to go).`);
+    }
+    tryFinish();
   });
   endObserver.observe($("#endMark"));
 }
@@ -215,6 +238,7 @@ function markRead(st, n) {
 /* ---------- router ---------- */
 const toTop = () => window.scrollTo({ top: 0, behavior: "instant" });
 async function route() {
+  clearInterval(readTimer); if (endObserver) endObserver.disconnect(); // leaving a chapter stops its reading clock
   const [slug, n] = location.hash.replace(/^#\/?/, "").split("/");
   if (!slug) { renderLibrary(); toTop(); return; }
   view.innerHTML = '<p class="note">Loading…</p>';
