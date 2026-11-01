@@ -1,5 +1,7 @@
 # Invention Lab 🔧
 
+**Version:** V.1.2
+
 A giant educational website about the inventions that changed the world.
 
 - **The Lab:** 140 inventions with facts, quizzes, a timeline, games and three reading levels (Kid / Explorer / Expert).
