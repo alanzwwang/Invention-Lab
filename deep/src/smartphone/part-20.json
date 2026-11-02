@@ -64,10 +64,10 @@
       "heading": "Brick Versus Brain: A Side-by-Side Test",
       "paragraphs": [
         "Let's put two phones side by side on a table: the Motorola DynaTAC 8000X from 1983 and a typical smartphone from the mid-2020s. This is where you can really see how many small improvements add up.",
-        "Weight first. The DynaTAC weighed about 790 grams (1.75 pounds) without its antenna, about the same as a large bottle of water. It stood about 25 centimeters (10 inches) tall, not counting its rubbery antenna. Many modern smartphones weigh about 170 to 230 grams, roughly a quarter as much, and they are thinner than a pencil.",
+        "Weight first. The DynaTAC weighed about 790 grams (1.75 pounds), about the same as a large bottle of water. It stood about 25 centimeters (10 inches) tall, not counting its rubbery antenna. Many modern smartphones weigh about 170 to 230 grams, roughly a quarter as much, and they are thinner than a pencil.",
         "Battery next. The DynaTAC offered about 30 minutes of talking, and recharging it fully on its standard charger took about 10 hours. A modern smartphone usually lasts a whole day of mixed use, including calls, music, maps, photos and videos, and many can charge to half full in around half an hour. That leap came from lithium-ion batteries, far more efficient chips and smarter software that switches parts off when they are not needed.",
         "Now abilities. The DynaTAC could make and receive calls, and its little red LED display could recall about 30 stored phone numbers. That was it. No screen for words, no texting, no camera, no maps, no music, no internet. A modern smartphone is a phone, a camera that shoots high-quality video, a map that knows where you are to within a few meters, a music player, a games console, a flashlight, a bank card, a library, a translator and a link to billions of web pages. Inside it is a chip with billions of transistors; Apple's A17 Pro chip of 2023, for example, has about 19 billion.",
-        "Finally, price. The DynaTAC cost $3,995 in 1984, roughly $12,000 in today's money, so only rich people and businesses could afford one. Today a basic smartphone can cost under $100 and a top model often around $1,000, and the cheaper phones put most of the same basic abilities in the hands of billions of people.",
+        "Finally, price. The DynaTAC cost $3,995 in 1984, more than $12,000 in today's money, so only rich people and businesses could afford one. Today a basic smartphone can cost under $100 and a top model often around $1,000, and the cheaper phones put most of the same basic abilities in the hands of billions of people.",
         "And here is the most remarkable number of all: time. Martin Cooper's first public handheld call was in 1973. Fewer than forty years later, in the 2010s, billions of people were carrying smartphones. By 2019, about 1.5 billion new smartphones were being shipped worldwide every single year, and the International Telecommunication Union estimated that in 2024 about four out of five people aged 10 and over owned a mobile phone. Few inventions in history have spread so far, so fast."
       ]
     },
@@ -132,6 +132,11 @@
       "title": "Nobel Prize in Physics",
       "publisher": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Nobel_Prize_in_Physics"
+    },
+    {
+      "title": "Apple A11",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Apple_A11"
     }
   ],
   "pics": [

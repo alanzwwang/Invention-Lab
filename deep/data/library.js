@@ -137,7 +137,7 @@ window.DEEP_LIBRARY = [
   "tagline": "From brick-sized car phones to a supercomputer in every pocket",
   "parts": 20,
   "planned": 20,
-  "words": 79966,
+  "words": 80129,
   "cover": "img/deep/smartphone/01-1.jpg"
  }
 ];

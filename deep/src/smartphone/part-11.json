@@ -18,8 +18,8 @@
       "heading": "From Sand to Switches",
       "paragraphs": [
         "Pick up a handful of beach sand and you are holding a lot of silicon. Most sand is made of quartz, which is silicon dioxide: silicon atoms joined to oxygen atoms. Silicon is the second most common element in Earth's crust, after oxygen. It is also a semiconductor, which means it is not a great conductor of electricity like copper, and not a good insulator like glass or rubber, but something in between. Even better, engineers can change how well it conducts by adding tiny traces of other elements such as boron or phosphorus. That process is called doping, and it is what lets silicon be turned into switches.",
-        "The story of the transistor begins at Bell Telephone Laboratories in Murray Hill, New Jersey. In December 1947, John Bardeen and Walter Brattain, working in a group led by William Shockley, built the first working transistor. It was a clumsy-looking thing made from a slab of germanium, a strip of gold foil and a bent paper clip of a spring, and it was about as big as your thumb. But it could do what the glowing vacuum tubes in old radios did, switching and boosting electrical signals, while being much smaller, cooler and tougher. The three men shared the 1956 Nobel Prize in Physics.",
-        "The next big leap was to stop building transistors one at a time. In September 1958, Jack Kilby at Texas Instruments demonstrated the first integrated circuit: several components made together on a single piece of germanium, joined with fine gold wires. About six months later, Robert Noyce at Fairchild Semiconductor worked out a far more practical way to make a whole circuit on one flat piece of silicon, with the connections printed on top. Kilby later received the 2000 Nobel Prize in Physics, and Noyce, who had died in 1990, is usually given equal credit as a co-inventor of the chip. Today's chips also depend on a type of transistor called the MOSFET, demonstrated by Mohamed Atalla and Dawon Kahng at Bell Labs in 1960. The MOSFET is now the most manufactured object in human history: by one estimate, more than 13 sextillion (13 followed by 21 zeros) had been made by 2018.",
+        "The story of the transistor begins at Bell Telephone Laboratories in Murray Hill, New Jersey. In December 1947, John Bardeen and Walter Brattain, working in a group led by William Shockley, built the first working transistor. It was a clumsy-looking thing made from a slab of germanium, a strip of gold foil and a spring (some accounts say it was a bent paper clip), and it was about as big as your thumb. But it could do what the glowing vacuum tubes in old radios did, switching and boosting electrical signals, while being much smaller, cooler and tougher. The three men shared the 1956 Nobel Prize in Physics.",
+        "The next big leap was to stop building transistors one at a time. In September 1958, Jack Kilby at Texas Instruments demonstrated the first integrated circuit: several components made together on a single piece of germanium, joined with fine gold wires. A few months later, in early 1959, Robert Noyce at Fairchild Semiconductor worked out a far more practical way to make a whole circuit on one flat piece of silicon, with the connections printed on top. Kilby later received the 2000 Nobel Prize in Physics, and Noyce, who had died in 1990, is usually given equal credit as a co-inventor of the chip. Today's chips also depend on a type of transistor called the MOSFET, demonstrated by Mohamed Atalla and Dawon Kahng at Bell Labs in 1960. The MOSFET is now the most manufactured object in human history: by one estimate, more than 13 sextillion (13 followed by 21 zeros) had been made by 2018.",
         "Here is roughly how a MOSFET works as a switch. It has three connections, called the source, the drain and the gate. The source and drain are like two ends of a road. The gate sits above the road, separated from it by an incredibly thin layer of insulating material. When there is no voltage on the gate, the road is closed and no current flows. Put a small voltage on the gate, and its electric field pulls charges into the silicon underneath, opening a narrow channel. Current flows. Off, on, off, on: that is a bit flipping from 0 to 1 and back.",
         "Turning sand into a chip is one of the most precise jobs humans have ever attempted. First, quartz is heated with carbon in furnaces to free the silicon, and the silicon is purified again and again until it is about 99.9999999 percent pure. That is often called nine nines, meaning that only about one atom in a billion is something other than silicon. The pure silicon is melted, and a small seed crystal is dipped in and slowly pulled upward while turning. Silicon atoms freeze onto the seed in perfect rows, growing a single, shiny crystal cylinder called a boule. A diamond saw slices the boule into wafers, which are polished until they are mirror-smooth. A modern wafer is 300 millimeters (about 12 inches) across and less than a millimeter thick, about 0.775 mm.",
         "Then comes the printing. Chip factories, called fabs, coat the wafer with light-sensitive chemicals and shine light through a patterned mask, a bit like a slide projector, so that the pattern is copied onto the wafer. This is called photolithography, which means 'writing on stone with light'. Chemicals then etch away some areas, other materials are added, and the whole process is repeated dozens of times to build up many layers of transistors and the metal wires that connect them. The most advanced fabs use extreme ultraviolet light with a wavelength of just 13.5 nanometers. Only one company, ASML in the Netherlands, makes these machines for chip production. Each one costs around 180 million US dollars, weighs nearly 200 tonnes, more than a hundred family cars put together, and makes its light by blasting tiny droplets of molten tin with a laser, tens of thousands of times a second.",
@@ -123,19 +123,19 @@
       "url": "https://en.wikipedia.org/wiki/Apple_A17"
     },
     {
-      "title": "Integrated circuit",
-      "publisher": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Integrated_circuit"
-    },
-    {
       "title": "Transistor",
       "publisher": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Transistor"
     },
     {
-      "title": "System on a chip",
+      "title": "Invention of the integrated circuit",
       "publisher": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/System_on_a_chip"
+      "url": "https://en.wikipedia.org/wiki/Invention_of_the_integrated_circuit"
+    },
+    {
+      "title": "Unsung heroes of tech: ARM creators Sophie Wilson and Steve Furber",
+      "publisher": "The Register",
+      "url": "https://www.theregister.com/2012/05/03/unsung_heroes_of_tech_arm_creators_sophie_wilson_and_steve_furber/"
     }
   ],
   "pics": [
