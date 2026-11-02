@@ -1,6 +1,18 @@
 # Invention Lab 🔧
 
-**Version:** V.1.2
+**Version:** V.1.3
+
+<!-- WHATS-NEW:README:START -->
+## 🆕 What's New in V.1.3
+
+- NEW!!! This What's New pop-up: every update now tells you what changed
+
+### Earlier updates
+
+- **V.1.2:** All 280 Deep Dive chapters fact-checked, Discovering an invention now takes 5 minutes of reading (no more button spamming!), Chapters count as read after 5 minutes, Version badge on the pages
+
+_When you open it, a What's New pop-up shows this once per version. Add `?whatsnew` to the address to see it again._
+<!-- WHATS-NEW:README:END -->
 
 A giant educational website about the inventions that changed the world.
 
